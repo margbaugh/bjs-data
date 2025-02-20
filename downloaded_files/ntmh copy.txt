@@ -1,0 +1,343 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5068
+-------------------------------------------------------
+
+*******************
+Program Report
+*******************
+
+***************************************
+The Nation’s Two Measures of Homicide
+***************************************
+
+The United States uses two national data collection systems to track detailed 
+information on homicides: the Federal Bureau of Investigation’s Supplementary 
+Homicide Reports and the Centers for Disease Control and Prevention’s Fatal 
+Injury Reports. Both measures were developed as part of a federal effort to 
+improve national statistical systems in the early twentieth century and have 
+gone through a number of changes since then to improve their consistency and 
+coverage. Each program provides valuable information on the nature, trends, 
+and patterns of homicides in the United States. Although the two measures 
+generally capture information on the same types of events, they are designed 
+for distinct purposes and collect different types of information. In 
+combination, however, they produce a fairly comprehensive understanding of 
+homicide, the most serious form of violence.
+
+***************************************
+Supplementary Homicide Reports
+***************************************
+
+Federal Bureau of Investigation
+*********************************
+
+Supplementary Homicide Reports (SHR) are part of the Uniform Crime Reporting 
+(UCR) Program. UCR data provide important information on crime at the local, 
+state, and national level for law enforcement, policymakers, researchers, and 
+the public. Administered by the Federal Bureau of Investigation (FBI) since 
+1930, the UCR summary program provides data on the total number of crimes 
+known to law enforcement agencies in the United States. In most states, 
+reports from individual law enforcement agencies are compiled monthly by 
+state-level agencies before being forwarded to the FBI.
+
+The UCR provides aggregate annual counts of the number of homicides occurring 
+in the United States. Beginning in the early 1960s, the FBI began to collect 
+more detailed information on each homicide reported in the UCR aggregate 
+count through the SHR form. The SHR data provide additional details about 
+each homicide incident, including the jurisdiction, month, year, victim and 
+offender demographic characteristics, weapon, the circumstances surrounding 
+the incident (e.g., argument, robbery, gang-related), and the relationship 
+between the victim and offender, if known. The detail provided on each 
+incident permits the examination of specific types of homicides, 
+characteristics surrounding the event, and victim-offender relationships.
+
+The SHR form has two sections: one for all murders and nonnegligent 
+manslaughters (including justifiable homicides) and one for negligent 
+manslaughters. Murder and nonnegligent manslaughter homicides include cases 
+that are suspected to be murders, violence-related manslaughters, law 
+enforcement-related killings, and homicides committed in self-defense. 
+Negligent manslaughter homicides include cases that are determined to be 
+unintentional killings of one person by another (excluding motor vehicle 
+crashes).
+
+SHR data are collected on only those crimes occurring in the United States 
+that come to the attention of law enforcement through citizen reports or 
+observation. ***Footnote 1 Territories are not excluded from the SHR 
+collection, but historically have had inconsistent participation in the UCR 
+program.***  The SHR captures deaths by location of offense, and thus includes 
+all homicides occurring in state and local law enforcement jurisdictions. Because 
+the UCR program does not include federal law enforcement agencies, SHR data 
+do not measure homicides occurring in federal prisons, on military bases, and 
+on Indian reservations.***Footnote 2 Although some crimes occurring on tribal 
+lands are reported to the UCR by tribal law enforcement agencies, an unknown 
+proportion of more serious crimes, including homicide, fall under the 
+jurisdiction of federal law enforcement and are not reported to the UCR. 
+Homicides occurring on tribal lands and reported to the UCR by local law 
+enforcement agencies cannot be distinguished from homicides occurring on 
+nontribal lands also under the agency’s jurisdiction.*** The information 
+provided on the SHR form reflects what agencies know based on their initial 
+police investigation and does not reflect subsequent decisions made by 
+prosecutors or courts.
+
+Due to the voluntary nature of the FBI program, a number of law enforcement 
+agencies either do not consistently submit SHR forms to the FBI or do not 
+submit any at all. Historically, between 85% and 90% of all homicides 
+reported in the UCR summary data also have a corresponding SHR form. 
+Homicides reported through the SHR can, however, have missing information 
+about various characteristics of the homicide because the data were not 
+available at the time of submission or not reported by the agency. 
+
+Approximately 1% of SHR cases are missing victim information, including the 
+victim’s age, gender, and race, and approximately 30% of SHR cases have an 
+unknown offender. The proportion of SHR cases that are missing information on 
+the relationship between the victim and the offender has increased from 25% 
+in 1976 to more than 40% since 2000. This is most likely due to the 
+substantial decline in the percentage of homicides cleared since the 1960s, 
+which has produced large numbers of cases with unknown offender information.
+
+The FBI publishes data from the SHR in its annual Crime in the United States 
+series. Preliminary data from the UCR are generally released 6 months after 
+the reference year. SHR data are not included until after the UCR data are 
+finalized, approximately 1 year after the end of the reference year.Online 
+analysis with SHR data can be conducted through a web-based tool maintained 
+by the Office of Juvenile Justice and Delinquency Prevention. Public use data 
+are available from 1976 from the University of Michigan’s Inter-University 
+Consortium for Political and Social Research (ICPSR), the FBI’s website, and 
+the National Archive of Criminal Justice Data (NACJD). 
+
+***************************************
+National Vital Statistics System, 
+Fatal Injury Reports
+***************************************
+
+Centers for Disease Control 
+and Prevention
+*********************************
+
+Fatal Injury Reports are developed from the National Vital Statistics System 
+(NVSS), which includes data derived from the registration of births and 
+deaths at the state and local level. The modern system dates back to 1933 
+when uniform collection and national-level reporting of birth and death 
+certificates began. One public health function of the system is to permit 
+identification of and public response to preventable causes of death.
+
+The NVSS is maintained by the National Center for Health Statistics (NCHS) at 
+the Centers for Disease Control and Prevention (CDC). NVSS data are provided 
+by vital registration systems operated in the various jurisdictions legally 
+responsible for registering vital events—births, deaths, marriages, divorces, 
+and fetal deaths. In the United States, legal authority for registering these 
+events resides individually with the 50 states, 2 cities (Washington, D.C., 
+and New York City), and 5 territories (Puerto Rico, the Virgin Islands, Guam, 
+American Samoa, and the Commonwealth of the Northern Mariana Islands).
+
+The NVSS mortality data are produced from standardized death certificates 
+filed throughout the United States. The death certificate data that the NVSS 
+compiles include decedent age, race, ethnicity, marital status, resident 
+status, educational attainment, residence, cause of death, and the nature of 
+the injuries sustained. The death certificate does not include any 
+information on the suspected perpetrator of a homicide or the victim/offender 
+relationship.
+
+State laws require that a medical examiner or coroner investigate all 
+homicides and other sudden unexpected deaths. In homicide cases, medical 
+examiners and coroners also typically complete the medical part of the death 
+certificate, including manner of death. Funeral directors complete the 
+demographic and other portions through interviews with a member or friend of 
+the family. The death certificates are submitted to state vital statistics 
+offices and forwarded to the National Center for Health Statistics (NCHS). 
+NCHS then classifies each death according to the International Classification 
+of Diseases (ICD). Information on manner of death (e.g., homicide, suicide, 
+unintentional) is combined with information on cause of death to classify 
+deaths using ICD codes, including codes for deaths due to external causes of 
+injury and poisoning.
+
+Each year, a very small number of deaths remain without a manner of death or 
+may be missing from the NVSS. It is believed that the NVSS covers 99% of the 
+birth and death events in the United States. However, there are no published 
+estimates on the coverage of the NVSS with regard to homicide specifically. 
+Each jurisdiction maintains individual vital statistics files and sets its 
+own criteria for closing those files. NCHS closes the national file after all 
+states have submitted their records and all data are coded, classified, and 
+standardized between states. The level of standardization and data review 
+varies across states and may be dependent on state-level and annual 
+variations in the number of deaths with the underlying caused coded as “other 
+ill-defined and unspecified causes of mortality.” A small number of death 
+certificates may not be included in the NVSS if they are filed after the NCHS 
+file has closed. Some studies have examined the reliability of NVSS 
+demographic data by comparing it to U.S. Census Bureau data and surveying 
+funeral directors who are responsible for completing demographic information 
+about the decedent. These studies have concluded that fatal injury reports 
+may undercount American Indian and Alaska Native deaths by 20% to 30% and 
+undercount Asian deaths by 11% to 13%. Race misclassification can be more 
+likely depending on the population make up of the jurisdiction and the cause 
+of death.
+
+Data from the NVSS are typically reported according to the victim’s place of 
+residence. Data on place of injury are available but not routinely reported 
+in official statistics. Deaths of non-U.S. residents are also collected but 
+typically not included in official statistics.
+
+Fatal Injury Reports are published annually and are available for public use 
+from the CDC website as part of the NVSS. Preliminary data are generally 
+released approximately 
+2 years after the end of the reference year. The site provides online 
+analysis tools and customized tables, as well as annual mortality files for 
+download. Publicly available data files include state-level estimates of 
+fatal injury report data. The CDC regularly publishes additional reports on 
+mortality that include statistics not part of the regular annual reports. 
+These may include special analyses by cause of death, age, and other 
+demographic variables; geographic analyses; and trend analyses.
+
+***************************************
+Comparing the SHR and the NVSS
+***************************************
+
+There is considerable overlap in homicides reported to the SHR and the NVSS 
+(see table). Coroners and medical examiners often work closely with law 
+enforcement on homicide cases. Thus, there is generally agreement on the 
+cause of death and victim information reported to the CDC and the FBI, 
+because cases are investigated and documented through collaborative efforts 
+and then reported through NVSS and SHR.
+
+Both systems follow the same rules in applying homicide labels to incidents 
+and victims; however, each system has different subcategories of homicide, 
+which are well-defined and can be used to identify similar types of homicides 
+in the two systems. For example, the FBI classifies homicides as intentional, 
+justifiable, or negligent. Homicides reported through the NVSS are classified 
+according to the ICD system into two general categories: homicide or legal 
+intervention. Both intentional and negligent homicides are defined as 
+“homicides” in the NVSS, which makes no judgment of criminal intent. The 
+legal intervention deaths in NVSS generally align with the FBI definition of 
+“justifiable homicide,” while the single NVSS category of “homicide” includes 
+the SHR’s two categories of intentional and negligent homicide. Unlike the 
+SHR, the NVSS homicide classification includes assault by the crashing of a 
+motor vehicle, but this category generally accounts for less than 100 deaths 
+per year.***Footnote 3 3NVSS fatal injury data are publicly available through 
+the WONDER and WISQARS systems. The WON-DER system combines legal 
+intervention deaths and operations of war into the same category. The WISQARS 
+system presents legal intervention deaths only, excluding the small number of 
+operations of war deaths that occur in the United States each year (generally 
+fewer than 25 deaths per year).***
+
+Both systems have potential issues with data quality, which can affect the 
+information’s accuracy and lead to misclassification of death incidents. Data 
+quality may also be affected when records are not submitted in a timely 
+manner or when the cause of death or other information is not updated as more 
+accurate information becomes available. 
+
+The NVSS consistently shows a higher number and rate of homicides in the 
+United States compared to the SHR, likely due to the differences in coverage 
+and scope and the voluntary versus mandatory nature of the data collection as 
+described above. Despite these differences, the two sources show similar 
+trends for the rate of homicides over time at the national level (see 
+figure). Greater discrepancies between the two sources exist at the state 
+level. Most states report more homicides through the NVSS than the SHR, yet 
+in some states the opposite is true. Furthermore, the state-level ratio of 
+homicides reported in the NVSS versus the SHR varies over time. State-level 
+variations in reporting may be due to missing data, where cases that fall 
+within the scope of the SHR or NVSS are not reported to the appropriate 
+system. Variations may also be due to true differences between the homicide 
+victim’s state of residence, which would be reported to the NVSS, and the 
+state where the homicide incident occurred, as reported to the SHR. These 
+differences may be particularly apparent in state or jurisdiction-level rate 
+calculations based on the resident population. Since the NVSS is based on the 
+residence of the victim, it is considered the more applicable source for 
+resident-based rate calculations, while the SHR is more applicable for 
+jurisdiction-based crime rates.
+
+Unique features of each measure should be considered when using these data. 
+Publicly available SHR datasets provide victim demographic information at the 
+agency level, while NVSS homicide victim demographic estimates are not 
+publicly avaliable.***Footnote 4 4Users may apply to the CDC to gain access 
+to compressed datasets, which contain selected variables for the full 
+mortality files at the county level.*** The NVSS will produce more accurate 
+homicide trends at the national level than the SHR, because the NVSS includes 
+deaths that occur in federal jurisdictions and more complete state and local 
+jurisdiction reporting. More complete information on homicide victim 
+characteristics is available through the NVSS. In particular, the NVSS 
+provides more complete information about victim Hispanic origin compared to 
+the SHR and includes measures of victim marital status and educational 
+attainment, which are not found in the SHR. Mass homicide events are included 
+in the NVSS; however, only deaths specifically labeled as a foreign terrorist 
+act by the FBI are identified as such in the NVSS data and can be linked 
+together. To date, this includes only the events of September 11, 2001. The 
+SHR also includes mass homicide events but excludes deaths that occurred on 
+September 11, 2001.
+
+Since the SHR collects information about the offender and incident, SHR data 
+are better suited for understanding the circumstances surrounding homicide 
+incidents, including events leading up to the homicide, characteristics of 
+the offender, and the relationship between the victim and the offender. SHR 
+data are also advantageous for examining certain subtypes of homicides, 
+including police and child homicides. Research on specific types of homicides 
+identified by victim-offender relationship, such as those involving intimate 
+partners, are possible with SHR data, but not with the NVSS data. However, 
+the SHR has high proportions of homicides for which the offender is unknown 
+to law enforcement, particularly for certain victim subgroups. For example, 
+among male victims, the victim-offender releationship is undetermined in 
+about 50% of incidents. Researchers must determine whether the data are 
+appropriate for use and use caution when drawing conclusions about homicide 
+offenders.
+
+The SHR is designed to capture homicides known to law enforcement by 
+jurisdiction, so SHR data can be used for research on homicides based on 
+where they occurred. The NVSS collects data on both where the death occurred 
+and where the victim lived, although homicide rates are typically calculated 
+using place-of-residence data.
+
+A more comprehensive understanding of homicide in the United States can 
+perhaps be achieved by combining the strengths of the two data collection 
+systems.
+
+For more information about the SHR, see Crime in the United States available 
+online at http://www.fbi.gov/about-us/cjis/ucr/ucr#ucr_cius; online analysis 
+tool at http://ojjdp.gov/ojstatbb/ezashr/; and downloadable data files from 
+http://www.icpsr.umich.edu/icpsrweb/landing.jsp and 
+http://www.icpsr.umich.edu/icpsrweb/NACJD/.
+
+For more information about mortality data in the NVSS, see 
+http://www.cdc.gov/nchs/deaths.htm; online analysis tools at 
+http://wonder.cdc.gov/ and http://www.cdc.gov/injury/wisqars/fatal.html; and 
+downloadable data files from 
+http://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm.
+
+**********************************************************
+The Bureau of Justice Statistics of the U.S. Department of Justice is the 
+principal federal agency responsible for measuring crime, criminal 
+victimization, criminal offenders, victims of crime, correlates of crime, and 
+the operation of criminal and civil justice systems at the federal, state, 
+tribal, and local levels. BJS collects, analyzes, and disseminates reliable 
+and valid statistics on crime and justice systems in the United States, 
+supports improvements to state and local criminal justice information 
+systems, and participates with national and international organizations to 
+develop and recommend national standards for justice statistics. William J. 
+Sabol is acting director.
+
+This report was written by Wendy Regoeczi of Cleveland State University and 
+Duren Banks of Research Triangle Institute. Michael Planty and Lynn Langton 
+of BJS, J. Lee Annest and Margaret Warner of the CDC, and Cynthia Barnett-
+Ryan of the FBI consulted on content. Kyle Shea, BJS Intern, verified the 
+report.
+
+Jill Thomas edited the report. Barbara Quinn produced the report.
+
+July 2014, NCJ 247060
+
+***********************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+***********************************************************
+
+************************
+7/10/2014 JER 11:10am
+************************
+

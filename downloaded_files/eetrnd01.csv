@@ -1,0 +1,50 @@
+"Bureau of Justice Statistics",,,,,,,,,,,,
+"filename:  eetrnd01.csv",,,,,,,,,,,,
+"table 1.  Total direct and intergovernmental expenditure by level of government, fiscal years 1982-99",,,,,,,,,,,,
+"NCJ 178268",,,,,,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,,,,,
+"author: Sidra Lea Gifford",,,,,,,,,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,,,,,
+"date of version: 12/05/01",,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 1. Total direct and intergovernmental expenditure by level of government, fiscal years 1982-99",,,,,,,,,,,,
+,,,,,,,,,,,,
+"(Dollar amounts in millions)",,,,,,,,,,,,
+,,,,,,,,,,,"         Local",
+,,"Total all",,,,"  Total State",,,,,,
+"Year",,"governments",,"Federal",,"  and local",,"State",,"Total","Counties","Municipalities"
+,,,,,,,,,,,,
+"  1982",,$35842,,$4458,,$31573,,$11602,,$20968,$8636,$12455
+"  1983",,39680,,4944,,34836,,12785,,23186,9792,13550
+"  1984",,43943,,5868,,38156,,14213,,25154,10617,14696
+"  1985",,48563,,6416,,42284,,16252,,27462,11610,16011
+"  1986",,53500,,6595,,47070,,18556,,30178,13031,17346
+"  1987",,58871,,7496,,51640,,20157,,33265,14530.198,18973.049
+"  1988",,65231,,8851,,56767,,22837,,36098,15883.574,20449.324
+"  1989",,70949,,9674,,61745,,25269,,38825,17503.442,21579.228
+"  1990",,79434,,12798,,69215,,28345,,43559,19644.273,24244.122
+"  1991",,87567,,15231,,75461,,31484,,47075,21913.042,25599.404
+"  1992",,93776.852,,17423,,80247.852,,33755.092,,50115.498,23820.019,26771
+"  1993",,97541.826,,18591,,83112.826,,34227.194,,52561.979,24624.542,28321.497
+"  1994",,103471,,19084,,88845,,37161,,55517,26071,29909
+"  1995",,112868,,22651,,96127,,41196,,58933,27917,31581
+"  1996",,120194,,23344,,102714,,43803,,62970,29805,33782
+"  1997",,129793,,27065,,109269,,46444,,67083,31778,35869
+"  1998",,135899,"*",22834,"*",116534,,49454,,70831,33916,37586
+"  1999",,146556,,27392,,124408,,57186,,74830,35547,39995
+,,,,,,,,,,,,
+"Source:  Justice Expenditure and Employment Extracts, Tables 1 and 4",,,,,,,,,,,,
+"Note: Detail may not add to total because of rounding. Duplicative",,,,,,,,,,,,
+"transactions between levels of governments are excluded from the",,,,,,,,,,,,
+"total for all governments, the State and local total, and the local total.",,,,,,,,,,,,
+"Such intergovernmental expenditure consists of payments ",,,,,,,,,,,,
+"from one government to another and eventually will show  ",,,,,,,,,,,,
+"up as a direct expenditure of a recipient government.",,,,,,,,,,,,
+"* Federal government figures presented for 1998 are directly from the",,,,,,,,,,,,
+"Budget of the United States, using the definitions of justice functions",,,,,,,,,,,,
+"contained in the Budget.  Prior to 1998 the Census Bureau performed",,,,,,,,,,,,
+"an extensive compilation of the Federal budget for the purposes of",,,,,,,,,,,,
+"making the data fit the definitions used in the Census Bureau's surveys ",,,,,,,,,,,,
+"of government finances and public employment.  Therefore ""all governments""",,,,,,,,,,,,
+"and ""Federal government"" expenditure data prior to 1998 are not directly ",,,,,,,,,,,,
+"comparable to those reported for 1998 and subsequent years.",,,,,,,,,,,,

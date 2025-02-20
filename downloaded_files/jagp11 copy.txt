@@ -1,0 +1,596 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+March 2012, NCJ  237732
+
+Justice Assistance Grant (JAG) Program 2011
+
+Alexia D. Cooper, Ph.D., BJS Statistician
+---------------------------------------------------
+This file is text without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.cvs) and the full report including
+tables and graphs in .pdf format are available at:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4237
+
+This reports is one in series. More recent editions 
+may be available. To view a list of all reports in the 
+series go to http://www.bjs.gov/index.cfm?ty=pbse&sid-71
+---------------------------------------------------
+
+***********************************************     
+Introduction
+
+As part of the Consolidated Appropriations Act of 2005, the
+108th Congress merged the discretionary Edward Byrne Memorial
+Grant Program with the formula-based Local Law Enforcement
+Block Grant (LLEBG) program to establish the Edward Byrne
+Memorial Justice Assistance Grant (JAG) program. The Bureau
+of Justice Assistance (BJA) administers the JAG program, and
+the Bureau of Justice Statistics (BJS) calculates the JAG
+formula-based award amounts using specifications outlined in
+the legislation. 
+
+JAG awards may be used for the following seven purposes--
+  
+* law enforcement
+
+* prosecution and courts
+
+* prevention and education
+
+* corrections and community 
+
+* corrections
+
+* drug treatment
+
+* planning, evaluation, and technology improvement
+
+* crime victim and witness programs.
+
+A total of $368,268,838 was available for the 2011 JAG awards
+(figure 1). This report describes the steps in the JAG award
+calculation process and presents summary results of the 2011
+JAG formula calculations.
+
+
+****************************************************
+Highlights
+
+* The total 2011 allocation for the JAG funding was
+approximately $368.3 million, of which $359.4 million went to
+states and $8.9 million to territories and the District of
+Columbia. 
+
+* The five largest total state allocations included
+California ($41.1 million), Texas ($27.8 million), Florida
+($24.8 million), New York ($19.7 million), and Illinois
+($15.2 million). 
+
+* A total of 1,909 local governments were eligible for
+awards, either directly or through a joint allocation with
+other governments within their county. The five local
+governments eligible to receive the largest awards included
+New York City ($5.1 million), Chicago ($3.8 million), Los
+Angeles ($2.4 million), Philadelphia ($2.4 million), and
+Houston ($2.3 million).
+
+* Three states had more than 100 local governments eligible
+to receive award funds either directly or through a joint
+allocation, including California (253), Florida (136), and
+Texas (120).
+
+*****************************************************
+
+Overview of process
+
+* Once the fiscal year JAG allocation has been determined,
+BJS begins its four-step award calculation process:
+
+* Computing an initial allocation for each state and
+territory, based on its share of violent crime and population
+(weighted equally).
+
+* Reviewing the initial allocation amount to determine if it
+is less than the minimum (de minimus) award amount defined in
+the JAG legislation (0.25% of the total). If this is the
+case, the state or territory is funded at the minimum level,
+and the funds required for this are deducted from the overall
+pool of funds. Each of the remaining states receives the
+minimum award plus an additional amount based on its share of
+violent crime and population.
+
+* Dividing each state's final amount at a rate of 60% for
+state governments and 40% for local governments.
+
+* Determining local award allocations, which are based on
+their proportion of the state's 3-year violent crime average.
+If a local award amount is less than $10,000, the funds are
+returned to the state. If it is $10,000 or more, then the
+local government is eligible to apply for an award.
+
+The JAG award calculation process, with examples, is
+explained in more detail below.
+
+The four-step award calculation process
+
+Step 1: Initial allocation to states and territories
+
+[Legislative mandate: 42 USC 3755 (a)(1))
+
+Based on the congressional appropriation of $368.3 million
+for the 2011 JAG program, BJS calculates the initial
+allocation amounts for the 50 states and territories. Using
+the congressionally established formula, BJS allocates half
+of the available funds based on a state's or territory's
+share of violent crime and half of the funds based on its
+share of the nation's population. The most recent 3-year
+period of official violent crime data for states and
+territories from the Federal Bureau of Investigation (FBI)
+covered the period between 2007 and 2009. The population
+shares for the 50 states and Puerto Rico were based on the
+2010 census conducted by the U.S. Census Bureau. The
+remaining territories' population shares were based on the
+2010 mid-year population estimates published by the U.S.
+Census Bureau.
+
+Examples:
+
+* California accounts for 13.23% of the nation's total
+violent crime and 11.91% of the nation's total population.
+Therefore, California's initial allocation equals 13.23% of
+$184,134,419 (half of $368,268,838) plus 11.91% of
+$184,134,419, totaling $46,278,471.
+
+* Vermont accounts for 0.06% of the nation's total violent
+crime and 0.20% of the nation's total population. Vermont's
+initial allocation is 0.06% of $184,134,419 plus 0.20% of
+$184,134,419, totaling $478,286. 
+
+Step 2: De minimus awards
+
+[Legislative mandate: 42 USC 3755 (a)(2)]
+
+The JAG legislation requires that each state or territory be
+awarded a minimum allocation equal to 0.25% of the total JAG
+allocation ($920,672 in 2011), regardless of its population
+or crime average. If a state's or territory's initial
+allocation based on crime and population is less than the
+minimum amount, that state or territory receives the minimum
+award amount as its total JAG allocation. If a state's or
+territory's initial allocation exceeds the minimum amount, it
+receives the minimum award plus the amount based on its share
+of the violent crime and population. A total of $50,636,965
+was allocated for minimum awards in the 2011 JAG program. 
+
+Congress made one exception to this rule: American Samoa and
+the Northern Mariana Islands are required to split one
+minimum award, with American Samoa receiving 67% ($616,850)
+and the Northern Mariana Islands receiving 33% ($303,822).
+(See Methodology for more information on allocation
+procedures for the territories.) 
+
+Examples:
+
+* Vermont's initial allocation of $478,286 is less than the
+minimum value, so Vermont's total JAG allocation will be the
+minimum amount of $920,672. 
+
+* California's initial allocation of $46,278,471 exceeds the
+minimum value, so California will receive the minimum plus an
+award based on its share of total violent crime and
+population.
+
+To compute the additional amounts, the crime and population
+data for states and territories receiving only the minimum
+award are removed from the pool, and the remaining JAG funds
+are reallocated to the rest of the states based on violent
+crime and population as in Step 1. 
+
+Examples:
+
+* Vermont received only the minimum award, so its crime and
+population data are removed from the pool. 
+
+* After removing the crime and population data for the
+minimum amounts for states and territories, California
+accounts for 13.28% of violent crime and 12.03% of the
+nation's population. California's new JAG allocation is equal
+to $21,090,027 (13.28% of one half of $317.6 million) plus
+$19,098,172 (12.03% of one half of $317.6 million), plus the
+minimum amount of $920,672. These three components equal
+$41,108,871. ($317.6 million equals the $368.3 million total
+JAG 2011 award allocation minus the $50.6 million JAG 2011
+minimum allocation.)
+
+Step 3: 60/40 split to state and local governments 
+
+[Legislative mandate: 42 USC 3755 (b)]
+
+Except for the territories and the District of Columbia, 60%
+of the total allocation to a state is retained by the state
+government, and 40% is set aside to be allocated to local
+governments.
+
+Examples:
+
+* California's state government retains 60% of $41,108,871,
+or $24,665,323. The remaining 40%, or $16,443,548, is set
+aside for distribution to local governments in California.
+
+* Vermont's state government retains 60% of the minimum award
+of $920,672, or $552,403. The remaining 40%, or $368,269, is
+set aside for distribution to local governments in Vermont.
+
+Step 4: Determining local award allocations
+
+[Legislative Mandate: 42 USC 3755 (c)(d)(e)(f)(g)(h)]
+
+In order to determine local awards, BJS determines which
+jurisdictions should be included in the calculation of the
+3-year violent crime averages on which local awards are
+based. These crime averages are computed using data published
+by the FBI's Uniform Crime Reporting (UCR) Program. To be
+eligible, a jurisdiction must have provided to the UCR a
+count of the number of violent crimes known to law
+enforcement each year for a minimum of 3 years in the last
+10. Jurisdictions that have not reported data for at least 3
+of the last 10 years are excluded from the calculations and
+cannot receive an award.
+
+The 10-year limit on the age of UCR data that can be used for
+JAG local award calculations was applied for the first time
+during the 2009 Recovery Act.***Footnote 1For the 2010 JAG,
+the 10-year window for eligible UCR data was waived because
+some agencies were having difficulty meeting the new
+requirements. Instead, all of the FBI's UCR data dating back
+to 1991 were used to meet the 3-year reporting requirement.
+Agencies that used this waiver signed an agreement indicating
+they would begin to report timely data on Part I violent
+crimes to the FBI starting no later than the end of federal
+Fiscal Year 2010 (September 30, 2010). All agencies that used
+the waiver in 2010 reported updated UCR data by the requried
+deadline, making it unnecessary to authorize an additional
+waiver of the 10-year rule in 2011.***  Previously, all years
+of the FBI's UCR data could be used to meet the 3-year
+reporting requirement. Although the 10-year limit was
+stipulated in the 2005 legislation that created the JAG
+program, it was not implemented until 2009 per the
+"Transitional Rule." [See 42 USC 3755 (d)(2)(B).] The 10-year
+limit was applied in FY 2011 and the UCR data used for the
+2011 JAG award calculations included the 10-year period from
+2000 to 2009.
+
+After determining which law enforcement agencies have the 3
+years of reported violent crime data required to be included
+in the calculations, BJS computes the average number of
+violent crimes reported by all law enforcement agencies in
+each jurisdiction (e.g., local government) for the 3 most
+recent years in which they reported data. 
+
+Since awards to local governments are based on their share of
+all violent crimes reported by the law enforcement agencies
+in their state, BJS computes the sum of these averages within
+each state to determine the jurisdiction's share of the total
+local award allocation local governments may receive. 
+
+Examples:
+
+* California has $16.4 million set aside for local awards.
+The 3-year violent crime averages reported by local
+jurisdictions in California equal 181,216. Dividing the $16.4
+million set aside by the state crime totals results in the
+number of dollars available for each crime:
+$16,443,548/181,216 crimes = $90.74 per crime. Therefore, a
+local California jurisdiction needs a 3-year average of at
+least 110.20 violent crimes ($10,000/$90.74) to be eligible
+for an award.
+
+* Vermont has $368,269 set aside for local governments. The
+sum of 3-year average violent crimes reported is 603. The
+dollars per crime ratio in Vermont equals $368,269/603
+crimes, or $610.73 per crime. The threshold is 16.37 violent
+crimes ($10,000/$610.73) to be eligible for an award.
+
+Finally, BJS calculates the initial amount of each local
+award. Each local award amount is equal to the product of a
+local jurisdiction's 3-year violent crime average and the
+"dollars per crime" ratio for the state in which it is
+located. By statute, the minimum award a local jurisdiction
+may receive is $10,000. Jurisdictions that are eligible for
+an initial award greater than or equal to $10,000 are
+eligible to apply to receive the funds for their own use. If
+the initial award is less than $10,000, the award funds are
+transferred to the state administering agency for
+distribution to the state police or any units of local
+government that were ineligible for a direct award greater
+than or equal to $10,000. (See "Pass-through requirement" [42
+USC 3755 (c)] on page 5.)
+
+Examples: 
+
+* The city of Oakland, California has a 3-year average of
+7,434.33 violent crimes, or 4.1% of all violent crimes
+reported by jurisdictions in California. Oakland exceeds the
+state threshold of 110.20 violent crimes. It is eligible for
+4.1% of the $16.4 million set aside for local governments in
+California, or about $674,600 (7,434.33 X $90.74).
+
+* The city of Swanton, Vermont, has a 3-year average of 3.00
+violent crimes. This does not meet the state threshold of
+16.37, so it is ineligible for a JAG award. Its crimes, less
+than 1% of all violent crimes in Vermont, account for about
+$1,832 of award funds. These funds are transferred to the
+state for redistribution.
+
+Results of the calculations for the 2011 Justice Assistance
+Grant Program 
+
+For the 2011 JAG, approximately $359.4 million of the $368.3
+million available was allocated to the 50 states, with the
+remainder allocated to the District of Columbia and U.S.
+territories (table 1). As required by the legislation, 40% of
+this amount ($143.8 million) was initially reserved for local
+governments. A total of 1,909 local governments had law
+enforcement agencies that provided a sufficient number of
+reported crimes to the FBI to receive a JAG award and were
+eligible for a collective total of $122.3 million. The
+balance of unawarded local allocations ($21.5 million) was
+returned to state governments for redistribution to state law
+enforcement agencies and local governments.
+
+In addition, the District of Columbia was eligible for $2.2
+million and Puerto Rico was eligible for $3.9 million (table
+2). Guam and the U.S. Virgin Islands were each eligible for
+the minimum award of $920,672. American Samoa ($616,850) and
+the Northern Mariana Islands ($303,822) split one minimum
+award. 
+
+Additional JAG provision
+
+Pass-through requirement
+
+[Legislative Mandate: 42 USC 3755  ]
+
+According to the JAG legislation, states may only retain
+award amounts that bear the same ratio of "(A) total
+expenditures on criminal justice by the state government in
+the most recently completed fiscal year to (B) the total
+expenditure on criminal justice by the state government and
+units of local government within the state in such year." 
+
+After determining the amount spent on criminal justice
+expenditures by the state government, the state may retain
+that amount. The remainder of the funds are passed down to
+the local governments within the state. These criminal
+justice expenditure amounts are referred to as "variable
+pass-through" data for the purpose of JAG awards. 
+
+During 2009, the U.S. Census Bureau finished compiling
+current criminal justice expenditure data in order to
+determine updated variable pass-through amounts. These
+pass-through amounts, based on data from 2006, were used for
+the 2011 JAG program and can be found on the BJA website at
+http://www.bja.gov.
+ 
+Disparate jurisdictions and joint allocations
+
+[Legislative Mandate: 42 USC 3755 (d)(3)(4)]
+
+In some cases, as defined by the legislation, a disparity may
+exist between the funding eligibility of a county and
+associated municipalities. There are three different types of
+disparities that may exist. 
+
+The first type is referred to as a zero-county disparity.
+This situation exists when one or more municipalities within
+a county are eligible for a direct award and the county is
+not, yet the county is responsible for providing criminal
+justice services (such as prosecution and incarceration) for
+the municipality. In this case, the county is entitled to
+part of the municipality's award because it shares in the
+cost of criminal justice operations, although it may not
+report crime data to the FBI.
+
+Example:
+
+Decatur, Illinois, is eligible for an award of $67,170. Macon
+County, Illinois, (which includes the city of Decatur) is not
+eligible for a direct award, but it provides criminal justice
+services to Decatur. In this case, Macon County and Decatur
+are considered zero-county disparate. Decatur must share its
+award funds with Macon County as mutually agreed upon.
+
+A second type of disparity exists when both a county and a
+municipality within that county qualify for a direct award,
+yet the award amount for the municipality exceeds 150% of the
+county's award amount.
+
+Example: 
+
+* Pierce County, Washington, is eligible for a direct award
+of $146,220. The city of Tacoma in Pierce County is eligible
+for a direct award of $255,429. Tacoma's award amount is more
+than 150% of Pierce County's award amount. Consequently, the
+two governments' awards ($401,649) are pooled together and
+shared as mutually agreed upon.
+
+The third type of disparity occurs when a county and multiple
+municipalities within that county are all eligible for direct
+awards, but the sum of the awards for the individual
+municipalities exceeds 400% of the county's award amount. In
+2011, there were no counties and municipalities that were
+exclusively 400% disparate. The following example is taken
+from the 2010 JAG calculations.
+
+Example:
+
+* In 2010, San Mateo County, California, was eligible for a
+direct award of $24,798. The cities of Daly ($31,406), East
+Palo Alto ($33,475), Redwood ($32,168), San Bruno ($12,962),
+San Mateo ($35,981), and South San Francisco ($20,296) (all
+located within San Mateo County) were also eligible for
+direct awards. The six cities' awards summed to $166,288.
+This summed amount was more than 400% of San Mateo County's
+direct award amount of $24,798. Consequently, all of the
+funds ($191,086) were pooled together and shared among the
+seven units of local government as mutually agreed upon.
+
+These three types of disparity are examined in order, and if
+a municipality is found to be disparate in one of these three
+ways, its award is not included in calculations to test other
+disparity situations. For instance, if a municipality is
+found to be 150% disparate with the county, its award is set
+aside, and the rest of the municipalities within the same
+county are checked for 400% disparity. If no other disparity
+is found, the single municipality and county share the sum of
+their two awards. However, it is possible for a county to
+have both a 150% disparity and a 400% disparity
+simultaneously. For instance, counties can have one or more
+municipalities whose individual awards are more than 150% of
+the county's award and other municipalities whose combined
+award is more than 400% of the county's award.
+
+Examples: 
+                                                   
+* Essex County, New Jersey, is eligible for an award of
+$11,689. The cities and townships of Belleville ($13,413),
+Bloomfield ($14,170), East Orange ($63,030), Irvington
+($145,149), Montclair ($11,437), Newark ($322,590), Orange
+City ($45,201), and West Orange ($10,764) (all located in
+Essex County), are also eligible for awards. The awards for
+East Orange City, Irvington Township, Newark, and Orange City
+Township individually are more than 150% of Essex County's
+award, and therefore will be pooled with the county. The
+other four cities' awards sum to $49,784. This summed amount
+is more than 400% of Essex County's direct award of $11,689.
+As a result, all of the funds ($637,443) are pooled together
+and must be shared.
+
+
+* Calcasieu Parish, Louisiana, is eligible for an award of
+$24,675. The cities of Lake Charles ($59,121) and Sulphur
+($17,549), both located in Calcasieu Parish, are also
+eligible for awards. These two award amounts sum to $76,670,
+which is less than 400% of the county's award amount.
+Although no 400% disparity exists, the award amount for the
+city of Lake Charles is more than 150% of the award amount
+for Calcasieu Parish. These two jurisdictions are disparate
+and will share $83,796, the pooled amount of these two
+awards. The award for Sulphur remains separate. 
+
+For disparate situations, regardless of the type, the total
+of all award funds of the separate units of local governments
+(counties and municipalities) are pooled together and split
+among the units of local government as agreed upon by the
+affected jurisdictions. To qualify for payment, the disparate
+units of local government must submit a joint application for
+the aggregated funds.
+
+Maximum allocation to local units of government
+
+[Legislative Mandate: 42 USC 3755 (e)(1)]
+
+According to the legislation, units of local government may
+not receive a JAG award that "exceeds such unit's total
+expenditures on criminal justice services for the most
+recently completed fiscal year for which data are available."
+Award amounts in excess of total expenditures "shall be
+allocated proportionately among units of local government
+whose allocations do not exceed their total expenditures on
+such services." 
+
+Methodology
+
+The population data used to calculate state and territory JAG
+allocations are from the 2010 census provided by the U.S.
+Census Bureau. The state-level violent crime data are
+estimates published by the FBI's Uniform Crime Reporting
+(UCR) Program in the annual publication, Crime in the United
+States. For the 2011 JAG program, state-level crime data for
+the years 2007 through 2009 were used. 
+
+The crime data used to calculate local JAG allocation amounts
+are also provided by the UCR program. Data for local
+jurisdictions are obtained in an electronic format directly
+from the FBI and processed by BJS to link each
+crime-reporting entity to a local government. For the 2011
+JAG, local crime data from 2000 through 2009 were used.
+
+The sum of the UCR violent crimes for all local governments
+within a state for a given year will not equal the estimated
+crime total reported for that state published by the FBI.
+These state-level estimates are based on crimes reported by
+all state, local, and special district law enforcement
+agencies within a state, plus an imputation adjustment to
+account for non-reporting agencies and agencies reporting
+less than 12 months of data for the year. These imputed
+values do not appear on the electronic data file provided to
+BJS and are not used in the local award calculations.
+
+Allocations to U.S. territories
+
+Puerto Rico was the only territory receiving an initial
+allocation larger than the minimum amount, and also the only
+territory for which violent crime data were available. The
+JAG calculations for the other territories were based solely
+on population data. Because the other territories have
+relatively small populations (none exceeding 181,000), it is
+unlikely the inclusion of crime data would have changed their
+minimum status. 
+
+The current JAG legislation specifies that 40% of the total
+allocation for Puerto Rico be set aside for local awards;
+however, as of 2011, the local-level UCR data provided by the
+FBI did not include any crime data for local jurisdictions in
+Puerto Rico. Therefore, the local government JAG program
+allocation in Puerto Rico was $0.
+
+Sources of additional information
+
+For more information on the legal foundation of the
+allocation formula, please see 42 USC sec. 3754 and 42 USC
+sec. 3755.
+
+The Edward Byrne Memorial Justice Assistance Grant (JAG)
+Program was established to streamline justice funding and
+grant administration. Administered by the Bureau of Justice
+Assistance (BJA), the JAG program allows states, tribes, and
+local governments to support a broad range of activities to
+prevent and control crime based on local needs and
+conditions. JAG consolidates the previous Byrne Formula and
+Local Law Enforcement Block Grant (LLEBG) Programs. More
+information about the JAG program and application process can
+be found on the BJA website at http://www.bja.gov. 
+
+**************************************************
+
+Office of Justice Programs * Innovation * Partnerships *
+Safer Neighborhoods * http://www.ojp.gov
+
+
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. James P. Lynch is the
+director.
+
+This technical report was prepared by Alexia Cooper. Jessica
+Rexroat verified the report. Catherine Bird, Vanessa Curto,
+and Jill Thomas edited the report, and Tina Dorsey produced
+the report, under the supervision of Doris J. James.
+
+March 2012, NCJ 237732
+
+The full text of each report is available in PDF and ASCII
+formats on the BJS website at www.bjs.gov. Tables are also
+available in PDF and CSV formats. Related datasets are made
+available on the National Archive of Criminal Justice Data
+website at
+http://www.icpsr.umich.edu/icpsrweb/NACJD/index.jsp.
+
+***************************************************
+
+----------------------------------------
+March 19, 2012/ JER. /11:04am
+----------------------------------------

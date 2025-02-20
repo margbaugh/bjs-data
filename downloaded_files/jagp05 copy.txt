@@ -1,0 +1,371 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Technical Report
+
+
+Justice Assistance Grant (JAG) Program, 2005
+
+
+July 2005, NCJ 209333
+
+
+---------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/jagp05.htm
+
+---------------------------------------------------------------
+
+Matthew J. Hickman, Ph.D.
+BJS Statistician
+                 
+------------------------------------
+Highlights
+                 
+*  The total FY 2005 JAG funds for allocation was $495.5
+million.  
+
+*  The five largest total State allocations, in millions of
+dollars, included California ($58.4), Texas ($35.2), Florida
+($32.8), New York ($30.1), and Illinois ($22.4).  
+
+*  2,190 local governments were eligible for awards. The
+five largest eligible awards, in millions of dollars, 
+included New York City ($8.7), Los Angeles  ($5.7), 
+Chicago ($5.7), Philadelphia ($3.1), and Houston ($2.7).
+-----------------------------------------
+
+As part of the Consolidated Appropriations Act of 2005, 
+the 108th Congress merged the Edward Byrne Memorial Grant
+Program (Byrne) with the Local Law Enforcement Block
+Grant Program (LLEBG) to establish the Edward Byrne
+Memorial Justice Assistance Grant Program (JAG). The
+Bureau of Justice Assistance (BJA) administers the JAG
+program, and the Bureau of Justice Statistics (BJS)
+calculates the JAG formulas.
+
+The total funds made available for FY 2005 JAG awards
+was $495.5 million.  The program has six purpose areas
+under which funds may be awarded:
+
+*  Law enforcement programs
+*  Prosecution and court programs
+*  Prevention and education programs
+*  Corrections and community corrections programs
+*  Drug treatment programs
+*  Planning, evaluation, and technology improvement 
+programs
+
+JAG funds can be used to pay for personnel, overtime, and
+equipment.
+
+This BJS Technical Report describes the steps in the JAG
+formula calculation process and presents summary results
+of the FY 2005 formula calculations.   
+
+Formula calculation process
+
+There are six steps in the JAG formula calculation process:
+
+
+Step 1: Initial allocation to States and territories
+
+In the first step, initial allocations to States and 
+territories are calculated. Half of the available funds are 
+allocated based on the State's or Territory's share of 
+violent crime, and half of the funds are allocated based on 
+the State's or Territory's share of population. Violent crime 
+is computed as a 3-year average using figures published in 
+the FBI's annual Crime in the United States. Population 
+figures are from the Census Bureau. 
+
+For the FY 2005 JAG calculations, crime data were for
+2000-02, and population data were for 2002.
+
+Examples:
+
+*  California accounts for 14.6% of total violent crime and
+12.0% of total population. California's initial allocation 
+is 14.6% of 50% of $495.5 million plus 12.0% of 50% of
+$495.5 million, or about $66 million.
+
+*  Vermont accounts for 0.05% of total violent crime and
+0.21% of total population. Vermont's initial allocation is
+0.05% of 50% of $495.5 million plus 0.21% of 50% of 495.5
+million, or about $637,000. 
+ 
+Step 2: De minimus awards
+
+All States and territories receive a de minimus award equal
+to 0.25% of the total JAG allocation ($1,238,750 each, or
+$69,370,000 total, for FY 2005).  If a State's or Territory's
+initial allocation based on crime and population (from Step
+1) is less than the de minimus, the State or territory
+receives the de minimus as their total JAG allocation.
+
+Examples:
+
+*  California's initial allocation of $66 million exceeds the 
+de minimus value, so California will receive the de minimus
+plus an award based on their share of total violent crime
+and population.
+
+*  Vermont's initial allocation of $637,000 is less than the
+de minimus value, so Vermont's total JAG allocation will be
+$1,238,750.  
+
+Step 3: Recalculation of crime and population based
+awards
+
+The crime and population data for States and territories
+receiving only the de minimus award (from Step 2) are
+removed from the pool, and remaining JAG funds (less the
+de minimus awards) are reallocated based on violent crime
+and population.  The resulting award is then added to the
+de minimus.
+
+Examples:
+
+*  Vermont received only the de minimus award, so Vermont's 
+crime and population data are removed from the pool.
+
+*  After removing the de minimus States, California accounts 
+for 14.7% of total violent crime and 12.1% of population. 
+Their new JAG allocation is equal to 14.7% of 50% of 
+$426.13 million plus 12.1% of 50% of $426.13 million, plus 
+the de minimus award, or about $58.3 million. 
+
+Step 4: 60/40 split to State and local governments 
+
+Except for the Territories and the District of Columbia, 
+60% of the total allocation to a State is retained by 
+State government, and 40% is set-aside for local 
+governments.
+
+Examples:
+
+*  California State government retains 60% of $58.3 million,
+or about $35 million. The remaining 40%, or $23.3 million,
+is set aside for distribution to local governments in
+California.
+
+*  Vermont State government retains 60% of the de minimus, 
+or $743,250.  The remaining 40%, or $495,500, is set aside 
+for distribution to local governments in Vermont.
+
+Step 5: Calculation of State "dollars per crime" and
+"threshold"
+
+Awards to local governments are based on their share of
+the average of violent crimes the State reported to the 
+FBI over 3 years. The minimum local award amount under 
+the JAG program is $10,000. To determine whether a local
+government is eligible for a JAG award, it is necessary to
+calculate the amount of crime for a minimum award in that
+State.  
+
+Dividing the total local set-aside for a State by the 3-year
+average of violent crimes reported within the State results
+in the number of dollars available for each violent crime.
+Dividing the minimum $10,000 award amount by the number of 
+dollars available per crime results in the threshold amount 
+of crime necessary in order to be eligible for a JAG award.
+
+Examples:
+
+*  California has $23.3 million set-aside for local
+governments. The sum of 3-year average violent crimes
+reported by jurisdictions in California is 210,215 crimes.
+Dividing the set-aside by total crime results in the number
+of dollars available for each crime: $23.3 million/210,215
+crimes = $111 per crime. Therefore, a local California
+jurisdiction needs a 3-year average of at least 90 violent
+crimes ($10,000/$111) to be eligible for a JAG award.
+
+*  Vermont has $495,500 set-aside for local governments.
+The sum of 3-year average violent crimes reported is 640
+crimes. Dollars per crime in Vermont equal $495,500/640
+crimes or $774 per crime. The threshold is 13 violent
+crimes ($10,000/$774) to be eligible for a JAG award.
+
+Step 6: Determination of local governments eligible for 
+JAG awards
+
+The JAG legislation specifies that allocations to local
+governments are based on their share of the total violent
+crime reported by like units of government within the 
+State. However, the ‘Transitional Rule' at § 505(d)(2)(B) 
+specifies that allocations to units of local government 
+for FY 2005 through FY 2007 will follow the LLEBG formula.
+
+Within each State, local governments meeting the threshold 
+for the minimum JAG award are eligible for an award based 
+on the local government's share of the State total 3-year 
+average violent crimes reported to the FBI. 
+
+Examples:
+
+*  Oakland, California, has a 3-year average of 5,343
+violent crimes, or 2.5% of all violent crimes reported by
+jurisdictions in California. Oakland exceeds the State
+threshold of 90 violent crimes. They are eligible for 
+2.5% of the $23.3 million set-aside for local governments 
+in California, or about $590,000.  
+
+*  The City of Morristown, Vermont, has a 3-year average
+of five violent crimes.  They do not meet the State
+threshold of 13 violent crimes, so they are ineligible 
+for a JAG award.  Their crime -- less than 1% of all 
+violent crime in Vermont -- accounts for about $4,000 of 
+award funds. These funds are transferred to the State for 
+redistribution. 
+
+Results of the FY 2005 JAG formula
+
+In FY 2005, $288.9 million of the $495.5 million available
+was allocated to the 50 States. In addition, the District of
+Columbia was eligible for $3.0 million, and Puerto Rico was
+eligible for $5.9 million. American Samoa, Guam, the
+Northern Mariana Islands, and the Virgin Islands were each
+eligible for $1.2 million. 
+
+In FY 2005 $192.6 million was allotted to local governments. 
+A total of 2,190 local governments met the threshold number 
+of crimes necessary to receive a JAG award and were eligible 
+for $163.7 million. The balance of unawarded local allocated 
+funds ($28.9 million) have been returned to the States for 
+redistribution to State police and local governments. 
+
+Additional JAG provisions
+
+Passthrough requirement
+
+States may only retain award amounts that bear the same
+ratio of "total expenditures on criminal justice by the 
+State government in the most recently completed fiscal 
+year to ... the total expenditure on criminal justice by 
+the State government and units of local government within 
+the State in such year."
+
+Disparate jurisdictions
+
+In some cases, a disparity may exist between funding
+eligibility of a county and associated municipalities. A
+potential disparity exists when a unit of local government
+(such as a county) bears more than 50% of the costs of
+prosecution or incarceration that arise in association with
+violent crimes reported by a constituent unit of local
+government (such as a municipality), and funds eligible
+to any one constituent unit of local government exceeds
+150% of the amount eligible to the larger unit of local
+government, or 400% for multiple units of government.
+  
+To qualify for payment, the unit of local government,
+together with any such specified geographically contiguous
+local government, must submit a joint application to the
+Attorney General for the aggregate of funds allocated to
+the units of local government.  
+
+Provisions not yet implemented
+
+The ‘Transitional Rule' found at § 505(d)(2)(B) specifies
+that allocations to units of local government for FY 2005
+through FY 2007 will follow the LLEBG formula. In the
+absence of congressional action, the following provisions
+will take effect for FY 2008 and subsequent JAG
+calculations.
+
+Non-reporting jurisdictions
+
+Local governments that have not reported at least 3 years
+of Part I crime data to the FBI within the immediately
+preceding 10 years will be ineligible for JAG funding.
+
+Local allocations based on crime 
+in like units of government
+
+The allocation of JAG funds to local governments will be
+based on the local government's share of 3-year average
+violent crimes reported by like units of government (for
+example, other cities, townships, and counties) within the
+State.
+
+Maximum allocation to local units of government
+
+Units of local government may not receive a JAG award that 
+"exceeds such units total expenditures on criminal justice 
+services for the most recently completed fiscal year for 
+which data are available." Award amounts in excess of
+total expenditures "shall be allocated proportionately
+among units of local government whose allocations ... do
+not exceed their total expenditures on such services."
+
+Methodology
+
+The data used to calculate the allocation amounts are
+provided by the FBI's Uniform Crime Reporting (UCR)
+program and the Governments Division at the Census
+Bureau. The most recent State-level violent crime data are
+obtained from the FBI's Crime in the United States (CIUS)
+on an annual basis. Data for local jurisdictions are 
+obtained in an electronic format directly from the FBI. 
+For FY 2005, data through 2002 were used.
+
+The sum of the UCR violent crimes for all local governments 
+within a State will not equal the amount reported by that 
+State in the FBI's annual publication. BJS uses the 
+published UCR State figures, which represent official FBI 
+estimates of crime in a State. The FBI imputes crime data 
+to adjust for nonreporting local agencies. These imputed 
+values attributed to nonreporting local jurisdictions do 
+not appear on the electronic datafile provided to BJS
+and are not used in the formula calculation.
+
+---------------------------------------------
+The Bureau of Justice Statistics is the statistical 
+agency of the U.S. Department of Justice. Lawrence A. 
+Greenfeld is director. 
+
+Matthew J. Hickman, BJS Statistician, wrote this report
+under the supervision of Steven K. Smith.  Matthew
+Hanson of the Bureau of Justice Assistance reviewed 
+the report. Tom Hester of BJS edited it.
+
+July 2005, NCJ 209333
+
+Office of Justice Programs
+Partnerships for Safer Communities
+http://www.ojp.usdoj.gov
+-----------------------------------------------
+
+Sources of additional information
+
+The text of H.R. 3036, "Department of Justice
+Appropriations Authorization Act, FY 2004 through
+2006," can be found at the Library of Congress website
+<http://thomas.loc.gov>. Refer to Title II, Subpart 1,
+"Edward Byrne Memorial Justice Assistance Grant
+Program." Formula details are found in Section 505. The
+provisions of H.R. 3036 are implemented by Public Law
+108-447, "Consolidated Appropriations Act, 2005." PL
+108-447 can be found at the Library of Congress
+website.
+
+More information about the JAG program and application
+process can be found on the Bureau of Justice Assistance
+(BJA) website: <http://www.ojp. usdoj.gov/BJA>. The
+Edward Byrne Memorial Justice Assistance Grant (JAG)
+Program was proposed to streamline justice funding and
+grant administration. Administered by the BJA, the JAG
+Program allows States, tribes, and local governments to
+support a broad range of activities to prevent and control
+crime, based on local needs and conditions. JAG blends
+the previous Byrne Formula and Local Law Enforcement
+Block Grant (LLEBG) Programs. 
+
+
+End of file
+07/11/02 ih

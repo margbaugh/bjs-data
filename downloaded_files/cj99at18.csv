@@ -1,0 +1,78 @@
+"Bureau of Justice Statistics",,,,
+"filename:  cj99at18.csv",,,,
+"Appendix table 18.  Jails providing information on inmate assaults  on staff and number of staff deaths from assaults,  July 1, 1998 - June 30, 1999",,,,
+"report title:  Census of Jails, 1999  NCJ  186633",,,,
+"data source:  1999 Census of Jails",,,,
+"author:  James Stephan",,,,
+"refer questions to:  askbjs@ojp.usdoj.gov   (202) 307-0765",,,,
+"date of version:  08/30/01",,,,
+,,,,
+"Appendix table 18.  Jails providing information on inmate assaults  on staff and number of staff deaths from assaults,  July 1, 1998 - June 30, 1999",,,,
+,,,,
+,"Inmate assaults on staff, July 1, 1998 - June 30, 1999 ",,,
+,"Number of jail",,,"Staff deaths"
+,"jurisdictions ","Number of ","Assaults per","from inmate"
+"  Region and  jurisdiction"," reporting assaults","assaults","1,000 inmates *","assaults"
+,,,,
+"      U.S. total",849,9401,17.6,4
+,,,,
+"      Federal",1,125,11.3,0
+"      State",848,9276,17.8,4
+,,,,
+"  Northeast",82,1556,19.8,0
+"    Maine",8,27,23.9,0
+"    Massachusetts",7,51,5.1,0
+"    New Hampshire",6,29,19.2,0
+"    New Jersey",11,108,9.1,0
+"    New York",22,855,27.9,0
+"    Pennsylvania",28,486,21,0
+,,,,
+"  Midwest",227,1279,17.5,3
+"    Illinois",24,212,34.6,0
+"    Indiana",25,152,16.1,2
+"    Iowa",16,53,19.3,1
+"    Kansas",19,73,20.8,0
+"    Michigan",35,238,17,0
+"    Minnesota",17,51,9.8,0
+"    Missouri",23,142,23,0
+"    Nebraska",6,31,21,0
+"    North Dakota",5,18,31,0
+"    Ohio",36,225,17.3,0
+"    South Dakota",6,25,21.3,0
+"    Wisconsin",15,59,6,0
+,,,,
+"  South",387,4498,18.3,0
+"    Alabama",27,138,15.6,0
+"    Arkansas",20,112,23.5,0
+"    Dist. of Col.",1,48,28.9,0
+"    Florida",30,794,18.3,0
+"    Georgia",46,195,6.1,0
+"    Kentucky",18,512,62.6,0
+"    Louisiana",25,133,9.8,0
+"    Maryland",17,363,32.4,0
+"    Mississippi",16,78,9.8,0
+"    North Carolina",31,270,25,0
+"    Oklahoma",18,175,28.2,0
+"    South Carolina",15,84,13.3,0
+"    Tennessee",36,662,36,0
+"    Texas",49,591,11.2,0
+"    Virginia",34,292,16.4,0
+"    West Virginia",4,51,24.3,0
+,,,,
+"  West",152,1943,15.5,1
+"    Alaska",2,4,85.1,0
+"    Arizona",10,275,26.3,0
+"    California",43,923,12.3,1
+"    Colorado",15,97,11.5,0
+"    Idaho",15,35,20,0
+"    Montana",9,21,21.6,0
+"    Nevada",6,43,9.3,0
+"    New Mexico",15,78,15.5,0
+"    Oregon",11,211,33.9,0
+"    Utah",5,16,6.4,0
+"    Washington",15,227,25,0
+"    Wyoming",6,13,13.3,0
+,,,,
+" Note:  Assaults were described as inmate inflicted physical or sexual assaults on staff.  ",,,,
+"  A total of 344 jail jurisdictions did not provide information on inmate assaults on staff. ",,,,
+" *Based on average daily inmate population, July 1, 1998, ",,,,

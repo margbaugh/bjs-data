@@ -1,0 +1,196 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics 
+
+February 2000, NCJ 180776
+revised 2/24/00 th
+
+--------------------------------------------------------
+This report is one in a series. More recent editions may 
+be available. To view a list of all in the series go to: 
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#tsdcp 
+
+This file is text only without graphics and many of the
+tables.  A Zip archive of the tables in this report in
+spreadsheet format (.wk1) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/tsdcp99.htm
+--------------------------------------------------------
+
+Traffic Stop Data Collection Policies
+for State Police, 1999
+
+By
+
+Kevin J. Strom 
+BJS Statistician
+
+Matthew R. Durose
+BJS Statistical Assistant
+
+At midyear 1999, 9 of the Nation's 49 State law enforcement
+agencies whose primary duties include highway patrol reported
+requiring officers to record demographic information on the 
+diver or passengers for all traffic stops.  Thirty-one State 
+State agencies reported collecting specifically racial or 
+ethnic data on drivers who receive traffic-related citations.
+     
+In recent years several States have mandated that State police
+collect demographic information on stopped motorists. California
+requires that highway patrol officers assigned to drug
+interdiction duties record the driver's ethnicity when a stop
+occurs.  As of January 2000, State police officers for North
+Carolina and Connecticut are required to register demographic
+information during all traffic stops.  Other Federal, State, and
+local law enforcement agencies are at various stages of
+instituting policies to collect data from motorist encounters.  
+
+Demographic information recorded 
+from traffic stops 
+
+To better understand practices and policies, the Bureau of
+Justice Statistics asked State police agencies about the
+information collected from traffic contacts and violations.  Age
+and gender were the items most commonly recorded from motorist
+stops (table 1).  
+
+--------------------------------------------------------
+Table 1.  Number of State police agencies collecting
+demographic data, by type of traffic stop, 1999
+ 
+                                              Number of States collecting data
+                                                             Racial/ Immigration
+ Traffic-related circumstance                 Age    Gender  ethnic   status
+ 
+Written warnings of traffic violations        24       16       12        1
+Driver only                                   18       11        9        1
+All vehicle occupants                          6        5        3        0
+ 
+Citations for traffic violations              40       40       31        1
+Driver only                                   28       28       22        0
+All vehicle occupants                         12       12        9        1
+ 
+Arrests arising from traffic stop             41       41       37        4
+Arrestee only                                 23       23       20        3
+All vehicle occupants                         18       18       17        1
+ 
+Vehicle/occupant searches                     14       14       15        3
+Driver only                                    5        5        6        1
+All vehicle occupants                          9        9        9        2
+ 
+Use-of-force encounters                       36       36       32        6
+------------------------------------------------ 
+
+Race or ethnicity was collected when police officers took the 
+following actions during a traffic stop:  
+
+* Written warning  12 State police agencies required that the
+driver's race/ethnicity be collected, including 3 States that
+collected this information for all passengers.  
+
+* Traffic citation  31 agencies recorded race/ethnicity if
+written citations were issued, including 9 that collected these
+data for all persons in the stopped vehicle.  
+
+*  Arrest from a traffic stop  37 agencies collected the
+arrestee's race/ethnicity, while 17 recorded the race/ethnicity
+of all vehicle occupants.
+
+* Search of vehicle or occupants 15 agencies collected the
+driver's race/ethnicity if a search was conducted, including 9
+that recorded the race/ethnicity of all vehicle occupants.  
+Mississippi, New Mexico, and Indiana also collected the driver's
+immigration status under these circumstances. 
+
+ * Use-of-force encounter from a traffic stop  32 State agencies
+collected the drivers' or passengers' race/ethnicity, including
+6 that also gathered immigration status.  
+
+Electronic accessibility of 
+demographic records  
+
+Among the 37 State police agencies that collected racial/ ethnic
+information on a traffic-related arrest, 23 stored these data
+electronically (table 2). 
+----------------------------------------------
+Table 2.  Electronic accessibility of racial/ethnic data collected
+by State police for traffic stops, by State, 1999
+ 
+                                Traffic stops
+              All      Written                               Use-of-
+State         stops    warnings Citations  Arrests  Searches force
+Alaska                     +        +        +
+Arkansas                            #        #                 #
+California*                         #        #        #        #
+Colorado                            #        +                 #
+Connecticut                                  +                 #
+ 
+Delaware*                           +        +                 +
+Florida                             +        +        +        +
+Illinois                                     +        +        +
+Indiana                             +        +        +        +
+Iowa                                         #        #
+ 
+Kansas                     #        #        #                 +
+Louisiana                           #        #                 #
+Maine                               #        +        #        +
+Maryland                                              +
+Massachusetts              +        +        +                 #
+ 
+Michigan                            #        +                 +
+Minnesota                                    #
+Mississippi*                        +        +        +        +
+Missouri                            +        +                 +
+Nebraska          +        +        +        +                 #
+ 
+Nevada*                             +        +        #        +
+New Hampshire                       #        #        #        #
+New Jersey        #                          #        #        #
+New Mexico        +        +        +        +        +        +
+New York*                                    #
+ 
+North Carolina             #         
+Ohio                                +        +        +        +
+Oklahoma                   #        +        +                 +
+Oregon                              #        #        #        #
+Pennsylvania                                                   #
+ 
+South Carolina             +        +        +        +        +
+South Dakota               #        #        #                 #
+Tennessee                  #        +        +                 +
+Texas                               +        +                 #
+Utah                       +        +        +
+ 
+Virginia*                           #        #                 #
+Washington                          #        #
+West Virginia              #        #        #                 #
+Wisconsin                           +        +                 +
+Wyoming                             +        +                 #
+ 
+Note: State police in Alabama, Arizona, Idaho, Kentucky, Montana, Rhode Island, and
+Vermont do not collect demographic data for traffic stops.
+Georgia and North Dakota collect age and gender for some traffic stops but not
+race/ethnicity.  Hawaii does not have a formal State police agency.
++=States storing racial/ethnic data electronically.
+#=States collecting racial/ethnic data but not storing those data electronically.
+*State does not issue written warnings.
+Source: 1999 Survey of State Police Agencies
+------------------------------------------------------ 
+
+For those 15 States that recorded racial/ethnic information
+following a search of the vehicle or occupants, 8 maintained 
+these data in electronic form.  About a third of all States
+have a driver's racial category on or linked to drivers' 
+licenses.  Immigration status is included in driver's 
+license files in Florida, Indiana, and Wyoming.
+
+End of file
+2/15/00 ih
+
+revised 2/24/00 th
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  eetrnd11.csv",,,,,,,
+"table 11.  Per capita total justice expenditure by activity for all governments, fiscal years 1980-99",,,,,,,
+"NCJ 178278",,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,
+"author: Sidra Lea Gifford",,,,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,
+"date of version: 12/05/01",,,,,,,
+,,,,,,,
+"Table 11.  Per capita total justice expenditure by activity for all governments, fiscal years 1980-99",,,,,,,
+,,,,,,,
+,,,,," Per capita justice expenditure",,
+,,"July 1",,,,,
+,,"population",,,"  Police"," Judicial",
+"Year",,"in thousands",,"   Total","protection","and legal","Corrections"
+,,,,,,,
+"  1980",,227225,,"...",$66.73,"...",$30.37
+"  1981",,229466,,"...",73.31,"...",34.29
+"  1982",,231664,,$154.72,82.11,$33.54,39.06
+"  1983",,233792,,169.72,88.32,36.87,44.53
+"  1984",,235825,,186.34,96.20,40.13,50.01
+"  1985",,237924,,204.11,102.55,44.67,56.89
+"  1986",,240133,,222.79,109.34,47.83,65.63
+"  1987",,242289,,242.98,118.73,51.82,72.43
+"  1988",,244499,,266.79,126.63,57.14,83.02
+"  1989",,246819,,287.46,132.87,63.16,91.43
+"  1990",,249402,,318.50,144.04,69.59,104.87
+"  1991",,252131,,347.31,154.57,76.54,116.20
+"  1992",,255028,,367.71,162.05,82.30,123.36
+"  1993",,257783,,378.39,170.83,83.63,123.93
+"  1994",,260341,,397.44,176.71,86.82,133.92
+"  1995",,262755,,429.56,185.13,93.14,151.29
+"  1996",,264741,,454.01,200.22,98.81,154.98
+"  1997",,267252,,485.66,216.10,106.75,162.81
+"  1998",,269773,,503.75,225.48,110.84,167.44
+"  1999",,281375,,520.85,232.30,114.38,174.17
+,,,,,,,
+"Source:  Justice Expenditure and Employment Extracts, Table 1",,,,,,,
+"Note: Resident population data are for July 1 of each year from the U.S. ",,,,,,,
+"Bureau of  the Census, Current Population Reports.  They are consistent with the ",,,,,,,
+"1980 and 1990 decennial enumerations.  They do not include adjustments for",,,,,,,
+"census coverage errors.  They may differ from population data in previous ",,,,,,,
+"publications in this series because those tables were developed when ",,,,,,,
+"only preliminary estimates were available.  ",,,,,,,
+"...Not available.",,,,,,,

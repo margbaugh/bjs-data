@@ -1,0 +1,284 @@
+JEE EXTRACTS METHODOLOGY
+
+SAMPLE DESIGN
+
+The JEE Extracts data are assembled from data collected through
+the U. S. Census Bureau's annual surveys of government
+finances and public employment.  The samples of local governments
+for those surveys are drawn from the Quinquennial Census of
+Governments.  The samples consist of all large local general
+purpose governments above a certain population threshold
+(certainty units) plus a sample below the certainty level.  The
+samples also include certain independent school districts and
+special districts, for which justice data are not collected.  For
+detailed information about the sample for any given year, visit
+www.census.gov/govs/estimate.
+
+THE SURVEY PERIOD
+
+The federal government expenditure data are for the fiscal year,
+which ended on September 30 of the year indicated. For example,
+2008 data are for the period from October 1, 2007, to September 30,
+2008.
+
+The state expenditure data presented cover fiscal years ending
+June 30 for all states except four, whose fiscal years ended as
+follows: New York, March 31; Texas, August 31; and Alabama and
+Michigan, September 30.  For local governments, the fiscal years 
+reported are those that closed between July 1 and June 30.  Most 
+municipalities and counties end their fiscal years on December 31 
+or June 30.  Thus, some local jurisdictions that ended their fiscal 
+year on December 2007 are included in the 2008 spreadsheets.  The 
+fiscal years reported for Washington, D.C., ended on September 30 
+of the year indicated.  Tables 14 and 15 indicate the month the 
+fiscal year closed for the local governments. 
+
+Some agencies operate on a different fiscal year basis from the
+rest of the parent government.  In such instances, figures
+included are for the agency's fiscal year that ended within the
+parent government's regular fiscal year.
+
+The employment data are for October of the year indicated if
+prior to 1997; in 1997 the reference month changed to March.
+
+
+DATA COLLECTION
+
+The JEE Extracts data are from a special compilation of data and
+sources available from the Census Bureau's regular surveys of
+government finances and public employment.  The recurrent survey
+of government finances and public employment provide data on
+expenditure and employment, by function of the federal, state,
+and local governments (counties, cities, townships, independent
+school districts, and special districts).  The data collection
+procedures of these surveys for the expenditure and employment
+data are described below.
+
+Annual Government Finances Survey: Federal government financial
+data were obtained from actual data presented in The Budget of
+the United States Government for each fiscal year displayed.
+The methodology for federal financial data was changed in 1997.  
+Previously ,the Census Bureau performed an extensive compilation 
+of the federal budget for the purpose of bringing it in line with 
+Census definitions.  Beginning in 1997, the data were taken directly 
+from the budget using the definitions of justice functions contained 
+in the budget.  The Census Bureau included justice expenditures of 
+nonjustice agencies.  Most of this expenditure is coded under other 
+than justice functions in the federal budget.
+
+State finance statistics as well as those for large counties and
+cities were compiled by Census Bureau representatives from
+official reports and records, with the advice of state and local
+officers and employees.  The data were compiled from state
+government audits, budgets, and other financial reports, either
+in printed or electronic format.  The compilation generally
+involved recasting the state financial records into the
+classification categories used for reporting by the Census Bureau.
+
+The initial local government data collection phase used two
+methods to obtain data: mail canvass and central collection from
+state sources.  In about 30 states, all or part of the data for
+local governments was obtained from cooperative arrangements
+between the Census Bureau and a state government agency.  These
+usually involved a data collection effort carried out to meet the
+needs of both agencies--the state agency for purposes of audit,
+oversight, or information, and the Census Bureau for statistical
+purposes.  Data for the balance of local governments in the annual
+surveys were obtained via mail questionnaires sent directly to
+county, municipal, township, special district, and school
+district governments.
+
+The mail canvass involved the use of detailed Census Bureau
+schedules with related reporting instructions.  Census Bureau
+examiners reviewed the mail reports intensely and used extensive
+correspondence to supplement and verify incomplete and
+questionable information.
+
+As with mail canvass questionnaires, centrally collected
+financial data sometimes needed supplementation for such items as
+debt, assets, or particular functional expenditures or revenue
+items.  Census Bureau staff obtained these supplementary data
+from special tabulations in other state offices, printed reports,
+secondary sources, or from mail requests directly to the county,
+municipal, or township governments.   
+
+Through these efforts, current year expenditure information was
+obtained for the federal government, all state governments, and
+all large county and city governments.  Small nonrespondent local
+governments had either the prior year's data or data for similar
+jurisdictions imputed for them.  See the Nonrespondent
+Jurisdictions section below for a description of how this was
+done.
+
+Annual Public Employment Survey: Federal government civilian
+employment data were obtained from records maintained by the U.S.
+Office of Personnel Management.  These records did not provide
+the information necessary to compute federal full-time equivalent
+employment.
+
+State government data were collected through a mail survey of all
+state departments, agencies, and institutions.  In over
+half of the states employment data are collected centrally for
+the state government.  In some cases, additional mail
+supplementation is necessary.  As with the Finance Survey, these
+states change from year to year.  A sample of local governments
+also was surveyed by mail questionnaire.  State agencies and
+local governments that did not respond by the close of the
+request period received follow-up requests.  Second request mail
+consisted of postcard reminders.  Third request mail was a second
+mailing of the original request with a survey form.  Mail
+returned to the Census Bureau because of address problems was
+readdressed and remailed.  In addition, large governments that had
+not responded for several years were contacted by telephone to
+identify the appropriate office or individual to receive and
+complete forms. 
+
+After extensive nonresponse follow-up, useable replies were
+received from more than 91% of the sample canvassed for the 2008
+Survey of Public Employment, and similar response levels were
+achieved in other years.  Nonrespondent local governments had
+either the prior year's data or data for similar jurisdictions
+imputed for them.  See the Nonrespondent Jurisdictions section
+below for a description of how they were treated.
+
+DATA REVIEW AND ADJUSTMENTS
+
+Once the data are collected, intensive computer editing of the
+data at various stages of processing minimizes errors that may be
+introduced during processing in the annual finance and employment
+survey programs.  For the mail portion of the surveys, figures
+reported by government officials are generally accepted as being
+substantially correct.  In some cases, varying interpretations of
+the instructions or deficiencies in the responding governments'
+records may make it difficult for officials to render complete
+and accurate reports for their governments.
+
+These difficulties are handled by--
+-- careful definition of terms and detailed instructions in
+difficult cases
+-- supplemental correspondence and telephone followup to
+officials
+-- intense examination of data collected through verification of
+internal consistency and comparison with previous reports and
+other sources of data.
+
+The data extracted from the regular Census Bureau programs for
+the JEE Extracts received additional examination.  After
+compilation for the general finance survey, a special reviewer
+examined in detail the expenditure data for state governments and
+large local governments and investigated special data compilation
+problems and adjusted the data as needed.  The local government
+expenditure and employment estimates were reviewed, potential
+problems were investigated, and data were revised, where necessary. 
+Data for each of the states and large counties and cities
+displayed individually in the JEE Extracts tables and
+spreadsheets were scrutinized and compared to prior years' data. 
+A separate computer edit was then performed.  Where possible, both
+expenditure and employment data were adjusted to correct errors,
+reclassify activities, and narrow differences with the JEE
+Surveys.  Specific procedures included referring to alternate
+sources of data, estimating missing data, and refining data
+through proration (for example, sheriff offices, where some
+employees perform police functions, others perform judicial
+functions (bailiffs), and others perform corrections (jail)
+functions.)
+
+NONRESPONDING JURISDICTIONS
+
+Prior to 1994, nonrespondent jurisdictions had the prior year's
+data imputed for them for purposes of estimating national, state
+and local, and local totals.  For 1994 and subsequent years, data
+for similar jurisdictions were used to develop a per capita
+figure, and that was used to impute data for nonrespondent
+jurisdictions for the purposes of estimating national, state and
+local, and local totals.  The imputed data are not displayed on
+any published tables nor on the spreadsheets on the BJS website.
+
+DATA LIMITATIONS
+
+The survey sample for the local government JEE Extracts justice
+expenditure and employment estimates was not designed
+specifically to produce data on these activities.  Thus, the
+sampling variability, or "standard error," for the justice
+sectors is apt to be larger than for the major categories in the
+Census Bureau's regular surveys and for the same functions in the
+JEE Survey series.
+
+The "standard error" is a measurement of variation among the
+estimates from all possible samples, of which this is one, having
+the same size and selected using the same sampling design. 
+Estimates derived from the different samples would vary from each
+other (and also from a complete census using the same data
+collection procedures).  The standard error, therefore, measures
+the precision with which an estimate from one of these samples
+approximates the average result of all the possible samples.
+
+Coefficients of variation (CVs) expressed as percents, are
+available on the Census Bureau's Governments Division website
+(http://www.census.gov/govs/), along with instructions on how 
+to use them. 
+
+Interval estimates with a prescribed confidence level can be
+calculated for each statistic by using the sample estimate and
+the standard error as estimated from the sample. For example, a
+90% confidence interval can be constructed by adding 1.6 times
+the estimated standard error to the estimate and subtracting 1.6
+the estimated standard error from the estimate. If intervals were
+constructed in such a manner for all possible samples of the same
+design and size, about 90% of them would include the complete
+enumeration statistic.
+
+In reviewing the sample-based estimates in this report, note 
+that because state government figures are not subject to
+sampling variation, the state-local aggregates shown for
+individual states are more reliable (on a relative standard error
+basis) than the local government estimates they include. 
+Conversely, the sampling variability for smaller components, such
+as type of local government detail, is likely to be greater than
+that for the state and local total estimates.  Because the
+national estimates of local government expenditure and employment
+are based on summations of individual state data, they are more
+reliable than the state-area data.
+ 
+The data also are subject to possible inaccuracies in
+classification, response, and processing.  Every effort was made
+to keep such errors to a minimum through care in examining,
+editing, and tabulating the data submitted by government
+officials.  Follow-up procedures were used extensively to clarify
+inadequate and inconsistent survey returns.
+
+Readers should be generally cautious in comparing governments,
+because differences among states and local governments in
+functional responsibilities, governmental structure, degree of
+urbanization, and population density can affect the comparability
+of expenditure and employment data.  For example, some state
+governments directly administer certain activities that elsewhere
+are undertaken by local governments, with or without fiscal aid,
+and the same variation in the division of responsibilities exists
+for counties and cities.
+
+DATA DIFFERING FROM OTHER PUBLICATIONS
+
+The JEE Extracts data differ in some cases from data in the
+Census Bureau's annual finance and employment surveys because of
+the more extensive review procedures used for this special
+compilation, the refinements of data involved, and the
+definitional differences discussed in the Comparability Issues
+file (JEECOMP.TXT).
+
+The JEE Extracts trend data for 1985, 1988, and 1990 also differ
+from those published by BJS in its JEE Survey series.  Those
+JEE Survey data should only be used in trend analyses with other 
+JEE Survey data for 1971-79.  The 1985, 1988, and 1990 JEE 
+Extracts data in the spreadsheets here should be used in trend
+analyses only with other JEE Extracts data.
+
+Federal government figures presented in the JEE Extracts 2008 are 
+directly from the Budget of the United States, using the definitions 
+of justice functions contained in the Budget.  Prior to 1997, the 
+Census Bureau performed an extensive compilation of the federal 
+budget for the purposes of making the data fit the definitions used 
+in the Census Bureau's surveys of government finances and public 
+employment.  Therefore, "all governments" and "federal government" 
+expenditure data prior to 1997 are not directly comparable to those 
+reported for 1997 and subsequent years.

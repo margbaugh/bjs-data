@@ -1,0 +1,415 @@
+COMPARABILITY ISSUES BETWEEN THE CJEE SURVEY AND THE
+CJEE EXTRACTS PROGRAMS
+
+In late 1980, the annual BJS Survey of Criminal Justice Expenditure
+and Employment (CJEE Survey) was canceled for budgetary reasons.
+Beginning in 1980, BJS began extracting justice data from the
+on-going Census Bureau surveys and publishing them in the Justice
+Expenditure and Employment CJEE Extracts series, the
+only source that sums the three categories and displays them
+together.
+
+The U.S. Census Bureau surveys have traditionally provided limited
+data on the justice activities of police protection (since 1902) and
+corrections (since 1954), with slightly more data being collected
+for state governments and the largest local governments. 
+Beginning with 1982, these surveys began collecting judicial and
+legal services data as a separate category, allowing the estimation
+of total justice expenditure and employment from the Census
+Bureau surveys. 
+
+Adopting an alternate statistical source necessarily results in
+differences between the CJEE Survey and the CJEE Extracts data.
+These can be classified into five broad groups:
+-- differences in coverage
+-- differences in detail
+-- differences in sample design
+-- differences in survey procedures
+-- differences in operational definitions.
+
+These differences are described below.
+
+DIFFERENCES IN COVERAGE
+
+Federal government: For the CJEE Extracts series, only limited
+data are available on the justice activities of the federal
+government -- major totals for police protection, judicial and
+legal services, and corrections from the Budget of the United States
+Government and the U.S. Office of Personnel Management.  For
+1971-79, the CJEE Survey collected federal data through a mail
+canvass that allowed the inclusion of some agencies' data not
+available separately through the source documents used for the
+CJEE Extracts series.
+
+State governments: For state governments, CJEE Extracts data are
+not available on the activities of universities, including campus
+police ($142 million in expenditure and 13,000 employees in 1978)
+and university-based medical examiners and legal aid clinics. No
+justice data are reported on the Commonwealth of Puerto Rico,
+last published in the 1978 CJEE Survey report.
+
+Local governments: Justice expenditure and employment data were
+available from the 1971-79 annual CJEE surveys for considerably
+more individual local jurisdictions than from the CJEE Extracts
+series, or from the periodic 1985, 1988, and 1990 CJEE surveys.
+By 1979, data were published for 349 large counties and
+415 large cities. The CJEE Extracts products present data for only 
+68 large county governments and 49 large city governments. Data for
+about 800 local jurisdictions are available at www.census.gov/govs/estimate
+on the raw data files.
+
+DIFFERENCES IN DETAIL
+
+The CJEE surveys collected data separately for courts,
+prosecution and legal services, and public defense that are
+combined in a single category of judicial and legal services in
+the CJEE Extracts series.  The CJEE surveys further separated
+court data into varying subfunctional categories depending on the
+type and size of government.  No court subfunctional data are
+available in the CJEE Extracts series. 
+
+The CJEE Survey subfunctions of courts are--
+State governments:
+   Appellate courts 
+     Courts of last resort 
+     Intermediate appellate courts 
+   Courts of general jurisdiction
+   Courts of limited jurisdiction 
+   Miscellaneous
+Large county governments:
+   Courts of general jurisdiction
+   Courts of limited jurisdiction
+   Miscellaneous.
+
+The CJEE Survey program also presented more subfunctional detail
+for corrections.  In the CJEE Extracts, the only
+subfunctional detail is for state government correctional
+expenditure for institutions versus all other corrections.
+
+The CJEE Survey corrections subfunctions are--
+State governments:
+   Institutions for--
+     Men
+     Women
+     Juveniles
+     Other/combined
+     Corrections administration
+   Probation and parole
+   Miscellaneous
+Large county governments:
+   Institutions for
+     Juveniles
+     Other/combined
+   Probation and parole
+   Miscellaneous
+Large city governments:
+   Institutions
+   Probation and parole
+   Miscellaneous.
+
+The CJEE Survey program included a residual other category not
+available in the CJEE Extracts series.  This category includes
+expenditure and employment data that are not elsewhere
+classified, that cut across more than one category, or that were
+not allocable to separate categories, such as operating state
+criminal justice planning agencies and crime commissions.  Much
+of the data included in this category reflected block grants from
+the federal government. In the 1990 CJEE survey, this category
+accounted for 1.3% of total justice expenditure and less than
+0.5% of employment and payroll.  In the CJEE Extracts series,
+activities included in the CJEE Survey other category are
+classified under one of the three major categories wherever
+possible.
+
+The CJEE survey publications display expenditure categories more
+detailed than those in the CJEE Extracts products:
+-- Capital outlays are subdivided into equipment, construction,
+and purchase of land and existing structures in the CJEE Survey. 
+These breakdowns are not available from the CJEE Extracts except
+for construction outlays for correctional activities of state
+and large local governments, and equipment and purchase
+of land and existing structures are combined in an other
+category.
+-- Intergovernmental expenditures are divided into payments to
+state and local governments in the CJEE Survey,
+which are combined in this publication.
+
+DIFFERENCES IN SAMPLE DESIGN
+
+Unlike the CJEE Survey, the sample used to produce the CJEE Extracts
+estimates of justice expenditure and employment data was not
+designed specifically to provide data on any particular
+function(s).
+
+The CJEE survey samples were larger than those used in the CJEE
+Extracts program.  Approximately 12,000 general purpose local
+governments comprised the CJEE Survey samples, while the regular
+sample used for the Census Bureau's 1992 government finance and
+employment surveys had about 10,000 counties, cities, and
+townships.  Subsequent sample cuts reduced the sample size further
+in the 1990s.  
+
+DIFFERENCES IN SURVEY PROCEDURES
+
+No field visits to state and local governments were made
+specifically for the CJEE Extracts. In the CJEE surveys, specially
+trained field representatives visited every state government, the
+largest counties, and the largest municipalities to compile
+justice data from the governments' own records.
+
+No separate mail canvass forms were used for the CJEE Extracts. 
+Each CJEE Survey had its own complement of questionnaires.
+
+The Census Bureau's regular surveys expend less effort to
+allocate data than the CJEE Survey.  The CJEE Survey often relied
+on prorating the expenditure and employment of agencies or
+activities among justice activities (for example, sheriff'S offices,
+which often have police, judicial, and corrections functions) or
+between in-scope and out-of-scope activities (e.g., special police 
+forces of nonjustice agencies).  In cases where the regular surveys 
+do allocate data, the allocation factors may not be identical to 
+those used in the CJEE Survey.  The regular surveys focus more on 
+the governmental function than on the agency involved.  For instance, 
+expenditure may be classified by function (e.g., general control) 
+rather than by agency (e.g., district attorney, formerly classified 
+as a general control activity).
+
+In the CJEE Surveys, Census Bureau field representatives were
+trained to allocate that portion of general government services
+(e.g., building maintenance, computer services, and communications) 
+attributable to justice activities.  In the Census Bureau's regular 
+finance and employment surveys, these items are more likely to be 
+aggregated into miscellaneous categories.
+
+The Census Bureau's public employment survey is conducted mainly
+by mail canvass, including state governments and large local
+governments whose finances were compiled by Census Bureau staff 
+in both the finance and CJEE Surveys.  (Some state governments 
+provide special employment tabulations for their agencies from 
+which the necessary data are extracted by Census Bureau staff.)
+
+Compared to individual compilation, the mail canvass approach 
+has some limitations: 
+-- It limits the amount of instructions that can be provided.
+-- Respondents are less likely to separate police protection
+employment between sworn and nonsworn personnel.
+-- Juvenile detention facilities are less likely to be recorded
+in the corrections sector, while court-operated probation may be
+left in the judicial and legal sector.
+
+Some of these problems have abated since the 1980-81 finance and
+employment surveys by changes in the survey instruments and
+review procedures. 
+
+DIFFERENCES IN OPERATIONAL DEFINITIONS
+
+Although the CJEE Survey definitions are based largely on those
+used in the Census Bureau's governmental finances and employment
+statistics programs, some significant differences occur in how
+the definitions are operationally applied in the collection and
+classification of data between the CJEE Survey and CJEE Extracts.
+In reviewing these differences, one must bear in mind the purpose
+of each source.  The functional approach of the CJEE Survey
+centered on a narrow range of just a portion of the activities of
+the country's governments.  In comparison, the Census Bureau's
+governmental statistics program (which produces the CJEE Extracts
+data) is designed to produce general purpose, global statistics
+on the finances (including revenue, expenditure, indebtedness,
+and cash and security holdings) and employment of all governments, 
+classified along broad functional lines.  As described later, this 
+global approach is sometimes at odds with a functional scope, such 
+as the scope of the CJEE Survey.
+
+Before listing the differences in functional categories, certain
+general statements can be made.  First, the regular Census Bureau
+programs often classify the entire expenditure and employment of
+a criminal justice agency or activity according to its major
+purpose, when some of the expenditures and employment may be
+partially excluded in a CJEE Survey.  For instance, the regular
+surveys may classify all of a highway patrol as police
+protection, from which CJEE Survey excludes expenditures and
+employment related to driver licensing.  Second, the regular 
+programs generally do not require that the minor portion of a 
+noncriminal justice agency allocated to a justice sector in a 
+CJEE Survey be separately identified, such as park rangers of 
+a parks department or a law library connected to a larger facility.  
+Third, in the CJEE Surveys certain activities are classified for 
+justice purposes only when performed by a justice agency, such as 
+child support enforcement. Classification in the regular programs 
+may be more variable.
+
+The differences between the Census Bureau's regular programs 
+that produce the CJEE Extracts data and the CJEE Surveys result 
+in a net effect on the data, with some differences forcing the 
+data in one direction being offset by those moving the data in 
+the opposite direction.  The final effect depends on such 
+factors as--
+-- the organizational structure of a government (e.g., whether 
+court clerical operations are handled by the court itself
+or a county clerk's office)
+-- the assignment of responsibility for nonjustice activities
+(e.g., whether driver licensing is assigned to a police or
+motor vehicle department)
+-- state and local laws (e.g., whether regular or special
+police have authority to make arrests on park property)
+-- the detail available in financial records (e.g., whether 
+court probation expenditures are listed separately)
+-- the fiscal structure of a state (e.g., whether local
+employees belong to a state- or locally-administered retirement
+system).
+
+Some of the differences were narrowed during the intense review
+of the state and large local government data for the CJEE
+Extracts.  Also, the regular surveys since 1980 have reduced the
+differences further (e.g., by revising instructions on survey forms), 
+but the differences would still affect trend analyses of the CJEE 
+Extracts data.
+
+As a service to users, the effect of each definitional difference
+is indicated with a plus sign (+), negative sign (-), or
+asterisk (*).  The sign indicates the general direction toward
+which the difference tends to push the data in CJEE Extracts: (+)
+means the difference generally makes the CJEE Extracts data
+higher than in the CJEE Survey, (-) means that it makes the data
+lower, and (*) indicates that either effect is likely or not
+applicable.  For example, exclusion of special police forces in
+the Census Bureau's regular programs' police protection category
+receives a minus sign (-) because it results in the CJEE Extracts
+data being lower compared to the CJEE Survey definition.
+
+Police protection
+
+(+)  The regular Census Bureau programs include unsworn school
+crossing guards, parking meter-readers, and animal wardens if
+employed by a police agency, whom the CJEE Survey excluded unless
+they possessed general arrest powers.  However, the expenditure
+and full-time equivalent employment for these are probably not
+substantial.
+(+)  The regular programs include motor vehicle inspection and
+driver licensing activities of police agencies, which were
+excluded from the CJEE Survey.  The effect of this difference
+would depend on each government's (primarily state) division of
+responsibility for those activities.
+(+)  The police protection definition in the regular surveys
+includes "traffic control and traffic safety, including related
+traffic engineering activities (but not highway planning and
+engineering)," which were outside the scope of the CJEE Survey. 
+The impact of including these activities would vary among
+governments.
+(+)  In the regular employment mail survey, respondents are
+instructed to include constables, which the CJEE Survey may have
+classified as judicial employees in some states.
+(+)  The judicial employees of sheriff offices (e.g., bailiffs) 
+were frequently reported under police protection in the
+regular employment survey, because the data are gathered entirely
+by mail survey and the general questionnaire did not explicitly
+state to report them elsewhere. (Beginning in 1983 the special
+supplement form sent to sheriff offices in certain states did ask
+for a more detailed breakdown.)  The CJEE Survey reported them
+under the judicial category.
+(-)  The regular surveys generally do not include as police
+those special police forces that are organizationally part of a
+nonjustice agency, although the counties and cities on the
+finance survey mail panel were instructed to include them.  These
+were picked up in the CJEE Survey if they possessed general
+arrest powers.  The effect of this difference would vary
+according to the government involved, being on the whole greater
+for state governments than for localities.  (The regular survey
+forms were revised in 1984 to include these police forces.)
+
+Judicial and legal services
+
+(+)  Although not strictly a difference in definitions, the
+regular programs' judicial data may include probation (especially
+juvenile) when it is an unrecognizable part of the courts in
+source documents used to compile the data.  This applies
+predominantly to the mail panel.
+(+)  The regular program's definition of judicial activities
+includes "register of wills and similar probate functions," which
+may have been partly or entirely excluded by the CJEE Survey
+program in some states depending on whether it was a court
+activity (included) or an administrative activity (excluded).
+(-)  The regular employment and finance programs generally would
+not include the judicial activities of local sheriff offices in
+the judicial category unless the records used separated out this
+activity.  (This applies mostly to the smaller mail panel units.
+Beginning in 1983 the special supplement finance form sent to
+sheriff offices in certain States did ask for a more detailed
+breakdown.)  In the CJEE Survey, much effort was made to allocate
+the activities of sheriff offices among the police protection,
+corrections, and judicial categories.
+
+Corrections
+
+(-)  The regular programs do not include state hospitals for the
+criminally insane in the corrections category unless operated by
+a correctional agency.   In the CJEE Survey, these were covered
+even if part of a mental health agency.
+(-)  The scope of correctional facilities covered in the regular
+programs is not as broad as in the CJEE Survey.  The CJEE Survey
+included every public institution identified by the biennial
+Census of Juvenile Detention and Correctional Facilities.  This
+census lists a facility if it had at least one juvenile who was a
+committed or detained delinquent or status offender, the balance
+of its population consisting of dependent, neglected, abused,
+emotionally disturbed, or mentally retarded juveniles.  In the
+regular programs, some of these facilities are classified as
+welfare institutions.
+(-)  Until fiscal 1982, the finance survey mail forms for
+municipalities and towns with less than 300,000 population did
+not list probation and parole under the instructions for
+reporting corrections expenditure.  This activity comprised 14%
+of all municipal corrections outlays in fiscal 1979 (the last
+year these data were collected separately for municipalities) and
+probably even less a proportion of the expenditure of smaller
+places.
+(*)  The regular finance survey includes all the costs of prison
+industries other than those goods and services purchased by the
+government.  The CJEE Survey included only the supervision costs.
+
+Finance categories
+
+(*)  The regular finance survey's functional data include
+employer contributions for all employee benefits except to
+self-administered retirement systems, which are, in effect,
+interfund transfers.  (State and local governments contributed
+$22.8 billion to all such retirement plans in fiscal 1994). In
+the CJEE Survey series, payments for such fringe benefits as
+employer contributions to retirement plans and for health,
+hospital, disability, and life insurances were excluded. This
+difference probably affects the data for state governments less
+than local ones because states administer employee retirement
+systems accounting for over 85% of the total membership in such
+plans (which often include local employees).  Thus, in both the
+CJEE Survey and regular finance surveys, the data for most states
+exclude the single largest employee benefit.  On the other hand,
+more members of police pension funds belong to locally
+administered systems than to state systems.
+(*)  In the CJEE Survey, payments by states, counties, and
+municipalities to school districts, special districts, and the
+federal government were treated as direct expenditure rather than
+intergovernmental expenditure.  Complicating this difference is
+that in the regular finance program, unusual or rare financial
+transactions are sometimes treated as impossible codes.  For
+instance, payments to the federal government for boarding state
+prisoners fall under an impossible code category and would be
+classified as a miscellaneous intergovernmental expenditure, not
+corrections.  The number of such transactions in the justice
+field, however, is probably quite small and was investigated
+during the special review procedures described elsewhere.  For
+purposes of CJEE Extracts, payments to the federal government for
+justice activities are included with direct current expenditures
+for that function (usually corrections).
+(*)  Compilation of the entire finances of a government is
+sometimes at odds with a study focusing on specific functions. 
+For example, a global compilation necessarily deducts
+interagency reimbursements from an expenditure to avoid
+duplication.  To illustrate, expenses of a county counsel may be
+shown in fiscal reports as being the net of reimbursements from
+other agencies for whom the agency provides legal advice.  This
+is also a common occurrence with state correctional agencies (and
+not limited to prison industries).  For the state governments and
+large cities and counties shown individually in CJEE Extracts
+products, a special effort was made to add back in these
+interagency reimbursements.
+

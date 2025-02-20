@@ -1,0 +1,51 @@
+"Bureau of Justice Statistics",,,,,
+"Filename:  sfcis05.csv",,,,,
+"Table #'s:  5.1-5.3",,,,,
+"Report title:  State and Federal Corrections Information Systems, NCJ 170016",,,,,
+"Data source:  1998 Inventory of State and Federal Corrections Information Systems",,,,,
+"Contact:  Laura Maruschak  (202) 307-5986  email maruscha@ojp.usdoj.gov",,,,,
+"Date of version:  August  14, 1998",,,,,
+,,,,,
+,,,,,
+"Table 5.1.  Number of departments with data elements that describe program management",,,,,
+,,,,,
+,"Questionnaire","In electronic","In paper","Have it in","Do not"
+"Data element","item number","format","format","any format","collect"
+"Type of programs ",208,25,17,42,9
+"Program assessment*",209,24,13,37,13
+"Date of assessment",210,6,8,15,36
+,,,,,
+"Note:  Data elements with incomplete information are included in 'Have in any format.'  Totals of 'Have in any format' ",,,,,
+"and 'Do not collect' may not add up to 52 departments due to missing  information about individual data elements.",,,,,
+"*Several departments do not record this information for all programs.",,,,,
+,,,,,
+,,,,,
+"Table 5.2.  Number of departments with data elements that describe medical services",,,,,
+,,,,,
+,"Questionnaire","In electronic","In paper","Have it in","Do not"
+"Data element","item number","format","format","any format","collect"
+"Number of medical staff",211,8,17,25,25
+"Qualifications of medical staff",212,4,21,25,25
+"Availability of medical staff",213,5,18,23,26
+,,,,,
+"Note:  Data elements with incomplete information are included in 'Have in any format.'  Totals of 'Have in any format' ",,,,,
+"and 'Do not collect' may not add up to 52 departments due to missing  information about individual data elements.",,,,,
+,,,,,
+,,,,,
+"Table 5.3.  Number of departments with data elements that describe facility management",,,,,
+,,,,,
+,"Questionnaire","In electronic","In paper","Have it in","Do not"
+"Data element","item number","format","format","any format","collect"
+"Number of facilities*",214,40,9,49,3
+"Number of beds per facility",215,35,10,45,6
+"Number of staff per facility",216,29,11,40,11
+"Number of custodial staff per facility",217,25,11,36,15
+"Facilities generating revenue",218,11,13,24,25
+"Facility generated revenue",219,12,13,25,23
+"Amount of facility-generated revenue",220,10,14,24,25
+"Annual cost to operate facilities",221,12,22,34,16
+"Annual capital costs",222,12,22,34,16
+,,,,,
+"Note:  Data elements with incomplete information are included in 'Have in any format.'  Totals of 'Have in any format' ",,,,,
+"and 'Do not collect' may not add up to 52 departments due to missing  information about individual data elements.",,,,,
+"*One department can calculate this information from other data elements.",,,,,

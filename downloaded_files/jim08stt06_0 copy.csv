@@ -1,0 +1,37 @@
+Bureau of Justice Statistics,,,,,,
+Filename: jim08stt06.csv,,,,,,
+"Table 6. Characteristics of inmates in local jails, midyear 2000 and 2005-2008",,,,,,
+Report title: Jail Inmates at Midyear 2008 NCJ 225709,,,,,,
+Data source: Annual Survey of Jails,,,,,,
+"Authors: Todd D. Minton and William J. Sabol, Ph.D.",,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,,
+"Date of version: March 27, 2009",,,,,,
+
+"Table 6. Characteristics of inmates in local jails, midyear 2000 and 2005-2008",,,,,,
+,,Number of inmates,,,,
+Characteristic,,2000,2005,2006/a,2007/b,2008
+Total,,"621,149","747,529","765,819","780,174","785,556"
+Gender,,,,,,
+,Male,"550,162","652,958","666,819","679,654","685,882"
+,Female,"70,987","94,571","99,000","100,520","99,673"
+Adults,,"613,534","740,770","759,717","773,341","777,852"
+,Male,"543,120","646,807","661,164","673,346","678,677"
+,Female,"70,414","93,963","98,552","99,995","99,175"
+Juveniles/c,,"7,615","6,759","6,102","6,833","7,703"
+,Held as adults/d,"6,126","5,750","4,835","5,649","6,410"
+,Held as juveniles,"1,489","1,009","1,268","1,184","1,294"
+Race/Hispanic origin/e,,,,,,
+,White/f,"260,500","331,000","336,500","338,200","333,300"
+,Black/African American/f,"256,300","290,500","295,900","301,700","308,000"
+,Hispanic/Latino,"94,100","111,900","119,200","125,500","128,500"
+,"Other/f,g","10,200","13,000","13,500","13,900","14,000"
+,Two or more races/f,...,"1,000",700,800,"1,300"
+Note: Detail may not sum to total due to rounding.,,,,,,
+...Not collected.,,,,,,
+a/Based on revised data from selected jail jurisdictions for 2006. See Methodology for a description of revised data.,,,,,,
+b/Based on revised data from selected jail jurisdictions for 2007. See Methodology for a description of revised data.,,,,,,
+c/Juveniles are persons under the age of 18 at midyear.
+d/Includes juveniles who were tried or awaiting trial as adults.
+e/Estimates based on reported data adjusted for nonresponse.
+f/Excludes persons of Hispanic or Latino origin.
+"g/Includes American Indians, Alaska Natives, Asians, Native Hawaiians, and other Pacific Islanders."

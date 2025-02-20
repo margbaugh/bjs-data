@@ -1,0 +1,397 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+                                                           
+
+Prison Inmates at Midyear 2008  - Statistical Tables
+
+March 2009, NCJ 225619           
+    
+--------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in 
+spreadsheet format (.csv) and the full report including 
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/pim08st.htm
+
+
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to the http://www.ojp.usdoj.gov/bjs/pubalp2.htm#pim
+
+----------------------------------------------------------
+                                                           
+----------------------------------------------------------
+
+By Heather C. West, Ph.D. and William J. Sabol, Ph.D.
+
+BJS Statisticians
+
+Definitions
+
+Average annual change--mean average annual change across a
+specific time period. 
+
+Total inmates in custody--includes inmates held in any public
+facility run by a state or the Federal Bureau of Prisons,
+including halfway houses, camps, farms, training/treatment
+centers, and hospitals. This number also includes the number
+of inmates held in local jails as reported by correctional
+authorities in the Annual Survey of Jails. Data for jails are
+as of the last working day of June.
+
+Imprisonment rate--the number of prisoners under state or
+federal jurisdiction sentenced to more than one year, per
+100,000 U.S. residents. 
+
+Total incarceration rate--the number of inmates held in the
+custody of state or federal prisons or in local jails, per
+100,000 U.S. residents. 
+
+Inmates--individuals held in the custody of state and federal
+prisons and in local jails. 
+
+Jail--confinement facilities usually administered by a local
+law enforcement agency, intended for adults but sometimes
+holding juveniles before or after adjudication. Facilities
+include jails and city/county correctional centers, special
+jail facilities such as medical or treatment or release
+centers, halfway houses, work farms, and temporary holding or
+lockup facilities that are part of the jail's combined
+function.  Inmates sentenced to jail facilities usually have
+a sentence of 1 year or less. 
+
+Jurisdiction--includes prisoners under state or federal
+jurisdiction held in prison facilities (e.g.,prisons,
+penitentiaries and correctional institutions; boot
+camps; prison farms; reception, diagnostic, and
+classification centers; release centers, halfway houses, and
+road camps; forestry and conservation camps; vocational
+training facilities; prison hospitals; and drug and alcohol
+treatment facilities for prisoners).  This number also
+includes inmates who are  temporarily absent (less than 30
+days), out to court, or on work release; held in local jails,
+private facilities, and other states' or federal facilities;
+serving a sentence for two jurisdictions at the same time.
+This count excludes inmates held in a state or federal
+facility for another jurisdiction.
+
+Non-U.S. citizen--any foreign born person that has not been
+granted U.S. citizenship. This group can include, but is not
+mutually exclusive to--individuals of alien status, lawful
+permanent residents (green card holders), refugees, asylum
+applicants (depending upon date asylum was pending or
+approved), asylum grantees, diplomats, and foreign nationals
+living in the United States on a temporary basis (e.g.,
+tourism, medical treatment, business, temporary work, study,
+or other, similar reasons). Definitions may vary by state.
+See Jurisdiction notes for state specific information. 
+
+Prisoners-- individuals under the jurisdiction of state and
+federal correctional authorities.
+ 
+Sentenced prisoner--a prisoner the jurisdiction of state and
+federal correctional authorities sentenced to more than one
+year.
+
+Methodology
+
+National Prisoner Statistics
+
+Begun in 1926 under a mandate from Congress, the National
+Prisoner Statistics (NPS) program collects statistics on
+prisoners at midyear and yearend. The Census Bureau serves as
+the data collection agent for Bureau of Justice Statistics
+(BJS). BJS depends entirely on the voluntary participation by
+state departments of corrections and the Federal Bureau of
+Prisons for NPS data.
+
+The NPS distinguishes between prisoners in custody and
+prisoners under jurisdiction. To have custody of a prisoner,
+a state or federal prison must hold that prisoner in one of
+its facilities. To have jurisdiction over a prisoner, a state
+or federal prison must have legal authority over the
+prisoner. Some states are unable to provide counts that
+distinguish between custody and jurisdiction.
+
+The NPS jurisdiction counts include prisoners serving a
+sentence within a jurisdiction's facilities,including
+prisons, penitentiaries, correctional facilities, halfway
+houses, boot camps, farms, training/treatment centers, and
+hospitals. They include prisoners who are--
+
+*temporarily absent (less than 30 days), out to court, or on
+work release
+
+*housed in privately-operated facilities, local jails, or
+other state or federal facilities
+
+*serving concurrent sentences for more than one correctional
+authority.
+
+The NPS custody counts include all inmates held within a
+jurisdiction's facilities, including inmates housed for other
+correctional authorities. The custody counts exclude inmates
+held in local jails and other facilities. With a few   
+exceptions for several respondents, the NPS custody counts
+exclude inmates held in privately-operated facilities.
+
+Additionally, NPS data include counts of inmates in combined
+jail-prison systems in Alaska, Connecticut, Delaware, Hawaii,
+Rhode Island, and Vermont. NPS prisoner counts have excluded
+prisoners held by the District of Columbia, which has
+operated only a jail system since yearend 2001. Prisoners
+sentenced under the District of Columbia criminal code are
+housed in federal facilities.
+
+Ratio estimates were used to generate the jurisdiction counts
+for gender and sentenced individuals in Illinois during 2007
+and 2008 using the data provided in 2006. (Yearend 2007 and
+midyear 2008 data were not received from Illinois Department
+of Corrections.) 
+
+Nevada was not able to provide data for December 31, 2007.
+Estimates were calculated using ratio estimates. All numbers
+were reviewed and approved by individuals at the respective
+departments of corrections.
+
+For more information about the NPS data collection
+instruments, see
+<http://www.ojp.usdoj.gov/bjs/correct.htm#nps>.
+
+Other inmate counts
+
+Data on the number of inmates held in the custody of local
+jails are from the BJS Annual Survey of Jails (ASJ). The ASJ
+provides data on inmates in custody at midyear. For more
+information about the ASJ, see Methodology in Jail Inmates at
+Midyear 2008 at
+<http://www.ojp.usdoj.gov/bjs/abstract/jim08.htm>.
+
+Data on federal prisoners are obtained from the BJS Federal
+Justice Statistics Program (FJSP). The FJSP obtains data from
+the Federal Bureau of Prisons (BOP). These data include
+individual-level records of prisoners in federal facilities
+as of September 30. Specifically, the FJSP provides counts of
+sentenced federal inmates by gender, race, Hispanic origin,
+and offense.
+
+Estimating age-specific incarceration rates
+
+Estimates are provided for the number of inmates held in
+custody in state and federal prisons or in local jails by
+gender. Within the gender estimates, prisoners are
+characterized by age group, race (non-Hispanic white and
+non-Hispanic black), and Hispanic origin. The detailed race
+and Hispanic origin categories exclude estimates of persons
+identifying two or more races.
+
+For 2000 and 2008 estimates were produced separately for
+inmates held in the custody of state and federal prisons and
+local jails and then combined to obtain a total estimated
+population. State estimates were prepared by combining
+information about the gender of prisoners from the NPS
+with information on self-reported race and Hispanic origin
+from the 2005 Survey of Inmates of State Correctional
+Facilities.
+
+To estimate federal prisoners, the distributions of FJSP
+counts of sentenced federal prisoners by gender, age, race,
+and Hispanic origin on September 30, 2007, were applied to
+the NPS counts of sentenced federal prisoners by gender at
+midyear 2008. 
+
+Estimates of the U.S. resident population for July 1, 2008,
+by age, gender, race, and Hispanic origin were generated by
+applying the June 30, 2008, age distributions within gender,
+race, and Hispanic origin groups to the July 1, 2008,
+population estimates by gender. These population estimates
+were provided by the U.S. Census Bureau. 
+
+Age - specific rates of incarceration for each demographic
+group were calculated by dividing the estimated number of 
+inmates in custody within each age group by the estimated 
+number of U.S. residents in each age group. That number 
+was multiplied by 100,000 and then rounded to the nearest
+whole number. Gender totals include all inmates and U.S.
+residents regardless of race or Hispanic origin. 
+Imprisonment rates for detailed race and Hispanic origin 
+groups exclude persons identifying two or more races.
+
+NPS jurisdiction notes
+
+Alabama -- Between June 30, 2007, and December 31, 2007, the
+Department of Corrections transferred prisoners into private 
+facilities to relieve overcrowding. Prior to June 30, 2008,
+these prisoners were transferred back to the state facilities
+due to cost issues.
+
+Alaska -- Prisons and jails form one integrated system. All
+NPS data include jail and prison populations housed in state 
+and out of state. Jurisdictional counts exclude inmates held 
+in local jails that are operated by communities. 
+
+Arizona -- Population counts are based on custody data and
+inmates in contracted beds.
+
+California -- Jurisdiction counts include felons and
+unsentenced inmates who are temporarily absent, i.e., 
+housed in local jails, hospitals, etc.
+
+Colorado -- Counts include 220 inmates in the Youthful
+Offender System, which was established primarily for 
+violent juvenile offenders. 
+
+Connecticut -- Prisons and jails form one integrated system.
+All NPS data include jail and prison populations. 
+
+Delaware -- Prisons and jails form one integrated system. All
+NPS data include jail and prison populations. 
+
+Federal-- Custody counts include inmates housed in secure
+facilities where the BOP contracted directly with a private 
+operator or subcontracted with a private provider at a local 
+government facility. Custody includes inmates held in 
+non-secure privately-operated community corrections
+centers, e.g., halfway houses and on home confinement. 
+
+Georgia -- Counts are based on custody data.
+
+Hawaii --Prisons and jails form one integrated system. All
+NPS data include jail and prison populations. 
+
+Illinois --Data for 2008 were not received. All data for June
+30, 2008, are based on ratio estimates using data submitted 
+at midyear 2005 and 2006. Population counts are based on
+jurisdiction data. Counts of prisoners with a sentence of
+more than one year include an undetermined number of 
+prisoners with a sentence of less than one year. These 
+estimates will be updated upon receipt of data.
+
+Iowa --Population counts are based on custody data.
+Population counts for prisoners with a sentence of more 
+than one year include an undetermined number of prisoners 
+with a sentence of less than one year and unsentenced
+prisoners. Iowa does not differentiate between these groups
+in its data system. Due to a change in reporting in 2006,
+out-of-state prisoners have been included in jurisdiction
+counts.
+
+Kansas --Population counts for prisoners with a sentence of
+more than one year include an undetermined number of
+prisoners with a sentence of less than one year and
+unsentenced prisoners. 
+
+Louisiana -- Custody and jurisdiction counts include evacuees
+from Hurricane Katrina and other pre-trial offenders from
+Orleans and Jefferson parish jails. Due to the effects of
+Hurricane Katrina, Orleans and Jefferson parish prison
+capacities are down; therefore, local jail population is down
+from the 2004 counts. 
+
+Maryland -- The number of prisoners listed with their race as
+"unknown" has increased due to changes in the information
+system.
+
+Massachusetts -- By law, offenders may be sentenced to terms
+of up to 2 years and 6 months in locally-operated jails and
+correctional institutions. Such populations are included in 
+counts and rates for local jails and correctional
+institutions.  About 6,200 male inmates with sentences of
+more than one year were held in local jails. Jurisdiction and
+custody counts include an undetermined number of inmates who 
+were remanded to court, transferred to the custody of
+another state, federal, or locally-operated system, and
+subsequently released. 
+
+Michigan --The data recorded for Hispanic race are under
+counted due to a new database conversion. The new database 
+categorizes Hispanic individuals as white.
+
+Montana -- Population counts include a small number of
+prisoners with unknown sentence lengths. In 2006, the 
+Department of Corrections changed the method of accounting
+for community corrections offenders placed in residential
+treatment programs. To track growth patterns, a new standard
+process was applied to historic populations which resulted in
+some changes to previous years' counts.
+
+Nevada -- Due to a system conversion, data for December 31,
+2007, were calculated with ratio estimates and are based on 
+2006 numbers. All estimates were reviewed by individuals at
+theNevada Department of Corrections. 
+
+New Hampshire -- Due to a system conversion implemented in
+June 2008, some information could not be exported from the
+system. Therefore, counts may vary from those previously
+published. 
+
+New Jersey -- Counts of inmates with a sentence of more than
+one year include an undetermined number of prisoners with 
+sentences of one year. The Department of Corrections has no
+jurisdiction over prisoners with sentences of less than one
+year or over unsentenced prisoners. 
+
+New York -- Juveniles refer to prisoners held in custody that
+have not reached age 18 prior to June 30, 2008. Most of these 
+prisoners committed their crime after age 16 and are
+considered adult offenders in New York State. Juvenile
+offenders are prisoners who committed certain serious,
+violent offenses prior to turning age 16. Between ages 16 and
+21 these prisoners were transferred from the juvenile system
+to the adult system to complete their sentence.
+
+Ohio -- Counts of prisoners with a sentence of more than one
+year include an undetermined number of prisoners with
+sentences of one year or less.
+
+Oklahoma -- Population counts for prisoners with sentences of
+less than one year consist mainly of offenders ordered by the
+court to the Delayed Sentencing Program for Young Adults
+pursuant to 22 O.S. 996 through 996.3.
+
+Oregon -- Counts include an undetermined number of prisoners
+with sentences of one year or less. County authorities retain
+jurisdiction over the majority of these types of prisoners.
+
+Rhode Island -- Prisons and jails form one integrated system.
+All NPS data include jail and prison populations.
+
+Vermont -- Prisons and jails form one integrated system. All
+NPS data include jail and prison populations. 
+
+Washington -- A recently revised law allows increasing
+numbers of certain prisoners with sentences of less than 
+one year to be housed in prison.
+
+-------------------------------------------------------
+
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. Michael D. Sinclair is the 
+acting director. 
+
+The data were analyzed and tables were prepared by Heather C.
+West, Ph.D. and William J.Sabol, Ph.D. James J. Stephan and
+Todd D. Minton verified the report.
+
+Joshua Giunta and Steve Simoncini carried out the data
+collection and processing under the supervision of Jill
+O'Brien, Governments Division, Census Bureau, U.S. Department
+of Commerce. Duane H. Cavanaugh provided technical
+assistance. 
+
+Tina Dorsey produced the tables. Jayne E. Robinson prepared
+the report for final printing under the supervision of Doris
+J. James.
+
+March 2009, NCJ 225619
+
+---------------------------------------------------------------
+
+Office of Justice Programs
+Innovation . Partnerships . Safer Neighborhoods
+http://www.ojp.usdoj.gov
+
+---------------------------------------------------------------
+
+3/31/2009/ JER

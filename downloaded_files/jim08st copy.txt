@@ -1,0 +1,290 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+                                                           
+
+Jail Inmates at Midyear 2008  - Statistical Tables
+
+March 2009, NCJ 225709           
+    
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in 
+spreadsheet format (.csv) and the full report including 
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/jim08st.htm
+
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to the http://www.ojp.usdoj.gov/bjs/pubalp2.htm#jim
+
+----------------------------------------------------------
+                                                           
+----------------------------------------------------------
+
+By Todd D. Minton and William J. Sabol, Ph.D.
+
+BJS Statisticians
+
+Annual Survey of Jails (ASJ): definitions and functions
+
+Jails--facilities in the ASJ include confinement facilities
+usually administered by a local law enforcement agency,
+intended for adults but may hold juveniles before or after
+adjudication. Facilities include jails and city/county
+correctional centers, special jail facilities such as medical
+or treatment or release centers, halfway houses, work farms,
+and temporary holding or lockup facilities that are part of
+the jail's combined function. Inmates sentenced to jail
+facilities usually have a sentence of 1 year or less.  
+
+Jail functions--within the ASJ, jail functions are to:
+
+*receive individuals pending arraignment and hold them
+awaiting trial, conviction, or sentencing,
+
+*readmit probation, parole, and bail bond violators and
+absconders,
+
+*temporarily detain juveniles pending transfer to juvenile
+authorities,
+
+*hold mentally ill persons pending their movement to
+appropriate mental health facilities, 
+
+*hold individuals for the military, for protective custody,
+for contempt, and for the courts as witnesses, 
+
+*release convicted inmates to the community upon completion
+of sentence,
+
+*transfer inmates to federal, state, or other authorities,
+
+*house inmates for federal, state, or other authorities
+because of crowding of their facilities,
+
+*sometimes operate community-based programs as alternatives
+to incarceration.
+
+Admissions--persons officially booked and housed in jails by
+formal legal document and the authority of the courts or some
+other official agency. Jail admissions include persons
+sentenced to weekend programs and who are booked into the
+facility for the first time. Excluded from jail admissions
+are inmates reentering the facility after an escape, work
+release, medical appointment or treatment facility, and bail
+and court appearances. BJS collects jail admissions for the
+last 7 days in June.
+
+Average daily population--sum of the numbers of inmates in
+jail each day for a year, divided by the number of days in
+the year (i.e., between July 1, 2007, and June 30, 2008).
+ 
+Average annual change--mean average change across a 12-month
+time period. 
+
+Calculating annual admissions--BJS collects the number of
+jail admissions during the last 7 days in June. Annual jail
+admissions are calculated by multiplying weekly admissions by
+the sum of 365 days divided by 7 days.
+
+Calculating weekly jail turnover rates--calculated by adding
+admissions and releases and dividing by the average daily
+population. See Methodology for additional information.
+ 
+Inmates confined at midyear--number of inmates held in
+custody on the last weekday in June.
+
+Jail incarceration rate--number of inmates held in the
+custody of local jails, per 100,000 U.S. residents.
+
+Non-U.S. citizen--any foreign born person who has not been
+granted U.S. citizenship. Includes but is not limited to
+those in an alien status; lawful permanent residents (green
+card holders); refugees, persons applying for political
+asylum depending upon the date the asylum was pending or
+approved; asylum grantees; diplomats; and foreign nationals
+living temporarily in the United States (e.g., tourist,
+medical treatment, business, temporary work, study, or other
+similar reasons). Definitions may vary by state.
+ 
+Percent of capacity occupied--number of inmates at midyear
+divided by the rated capacity multiplied by 100.
+
+Rated capacity--number of beds or inmates assigned by a
+rating official to a facility, excluding separate temporary
+holding areas. 
+
+Releases--persons released after a period of confinement
+(e.g., sentence completion, bail/bond releases, other
+pretrial releases, transfers to other jurisdictions, and
+deaths). Releases include those persons who have completed
+their weekend program and who are leaving the facility for
+the last time. Excluded from jail releases are temporary
+discharges including work release, medical appointment or
+treatment center, court appearance, furlough, day reporting,
+and transfers to other facilities within the jail's
+jurisdiction.
+
+Under jail supervision but not confined--all persons in
+community-based programs operated by the jail facility.
+Programs include electronic monitoring, house arrest,
+community service, day reporting, and work programs. Under
+jail supervision but not confined excludes persons on
+pretrial release and who are not in a community-based program
+run by the jail. Excludes persons under supervision of
+probation, parole or other agencies, inmates on weekend
+programs, and inmates who participate in work release
+programs and return to the jail at night.
+
+Weekend programs--allow offenders to serve their sentences of
+confinement only on weekends (i.e., Friday Sunday). 
+
+Methodology
+
+Annual Survey of Jails
+
+In each year between the years that BJS conducts a complete
+census of local jails, BJS conducts the Annual Survey of
+Jails (ASJ). ASJ is a sample survey of local jails used to
+estimate the number and characteristics of local inmates
+nationwide. For the 2008 ASJ, the U.S. Census Bureau, as the
+collection agent, drew a sample of 875 jurisdictions and 934
+jail facilities. Local jail jurisdictions included counties
+(parishes in Louisiana) or municipal governments that
+administered one or more local jails. During the collection
+process, two new regional jails were added to the sample and
+one jurisdiction was closed and removed from the sample. Data
+were estimated for one jurisdiction that did not respond to
+the survey.
+
+The 2008 ASJ sample included all jails with certainty (65)
+that were operated jointly by two or more jurisdictions, or
+multi-jurisdictional jails. Other jail jurisdictions included
+with certainty (269) were those that--
+
+*held juvenile inmates at the time of the 2005 Census of Jail
+Inmates and had an average daily population of 500 or more
+inmates during the 12 months ending June 30, 2005
+
+*held only adult inmates and had an average daily population
+of 750 or more.
+
+The remaining jurisdictions were stratified into two groups:
+jurisdictions with jails holding at least one juvenile on
+June 30, 2005, and jails holding only adults on that date.
+Using stratified random sampling, 541 jurisdictions were
+selected from 8 strata based on the two conditions enumerated
+above and 4 strata based on the average daily jail inmate
+population during 2005. The average daily jail inmate
+population was derived from the 2005 Census of Jail Inmates.
+
+Data were obtained from sampled jurisdictions by mail-out and
+web-based survey questionnaires. After follow-up phone calls
+to respondents, the response rate for the survey was 100% for
+critical items, such as the number of inmates confined,
+average daily population, and rated capacity. (See appendix
+tables 12, 13 and 14 for standard errors associated with
+reported estimates from the ASJ 2008 at
+<http://www.ojp.usdoj.gov/bjs/pub/pdf/jim08.pdf>).
+
+Weekly admission and release estimation procedures
+
+Based on the 2008 ASJ, 834 of the 934 jail facilities (89%)
+provided valid data on weekly admissions and releases.
+Because there were nonresponse and incomplete data on
+admissions and releases, data on offender flows through local
+jails were estimated for 100 jail facilities to calculate a
+weekly estimate. Estimates were based on two criteria: 
+
+*Data for 99 jail facilities included admission and release
+data based on data from the 2007 Annual Survey of Jails.
+
+*Data for 1 jail facility was based on the average number of
+admissions and releases for the average daily population
+category in which the facility was grouped.
+
+Calculating annual admissions 
+
+Based on findings from the 2004 Survey of Large Jails (SLJ),
+BJS determined that the June admission data were a reliable
+source to calculate a nationwide annual admission estimate.
+Although the number of admissions to jails fluctuated
+throughout the year, the SLJ tracked monthly movements from
+January 2003 to January 2004 and determined that the June
+2003 count (339,500) closely matched the annual average
+number of admissions (342,956). The number of annual
+admissions was calculated by multiplying the weekly
+admissions by the sum of 365 days divided by 7 days. 
+
+Calculating weekly turnover rates
+
+Weekly jail turnover rates were modeled after the Bureau of
+Labor Statistics' Job Openings and Labor Turnover Survey.
+Additional information on turnover rates is available at
+<http://www.bls.gov/jlt/>. Jail turnover rates were
+calculated by adding admissions and releases and dividing by
+the average daily population. The turnover rate takes into
+account admissions into and releases from jails and gives an
+indication of the volatility of the jail population. Higher
+turnover rates mean relatively larger numbers of admissions
+and releases relative to the size of the average daily
+population. 
+
+Revised inmate population
+
+The number of inmates held at midyear 2006 and 2007 for San
+Bernardino County, CA, and Wayne County, MI, are based on
+revised data. The number of inmates held at midyear 2007 for
+Hillsborough County, FL, are based on revised data.
+
+Revised average daily population
+
+The average daily population in 2006 and 2007 for San
+Bernardino County, CA, Wayne County, MI, and Clark County,
+NV, are based on revised data. The average daily population
+in 2007 for Hillsborough County, FL, and Lee County, FL, are
+based on revised data.
+
+Revised rated capacity 
+
+Capacity data for Miami-Dade County, FL has been revised for
+2005 to 2007 to reflect rated capacity. Capacity data for
+Baltimore City, MD, in 2006 and 2007 was revised to reflect
+design capacity. BJS was reporting the operating capacity for
+both jail jurisdictions. The rated capacity in 2007 for Clark
+County, NV, and the District of Columbia are based on revised
+data.
+
+----------------------------------------------------------
+
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. Michael D. Sinclair is the
+acting director. 
+
+The data were analyzed and tables were prepared 
+by Todd D. Minton and William J. Sabol, Ph.D. 
+Heather C. West, Ph.D., verified the report.
+
+Lisa A. McNelis carried out the data collection and
+processing with assistance provided by Joshua Giunta and
+Alonzo Johnson under the supervision of Pam Butler,
+Governments Division, Census Bureau, U.S. Department of
+Commerce. Duane H. Cavanaugh and Diron J. Gaskins provided
+technical assistance.
+
+Tina Dorsey and Georgette Walsh produced and edited the
+tables. Jayne E. Robinson prepared the report for final
+printing under the supervision of Doris J. James.
+
+March 2009, NCJ 225709
+
+-------------------------------------------------
+
+Office of Justice Programs
+Innovation . Partnerships . Safer Neighborhoods
+http://www.ojp.usdoj.gov
+
+-------------------------------------------------
+               
+3/31/2009/JER
