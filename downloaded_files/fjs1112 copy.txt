@@ -1,0 +1,1102 @@
+This file is text only without graphics and many of 
+the tables. A Zip archive of the tables in this report 
+in spreadsheet format (.csv) and the full report 
+including tables and graphics in .pdf format are 
+available on BJS website 
+at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5218
+
+This reports is one in series. More recent editions 
+may be available. To view a list of all reports in the 
+series go to http://www.bjs.gov/index.cfm?ty=pbse&sid=62
+------------------------------------------------------
+
+*******************
+Bulletin
+*******************
+
+Federal Justice Statistics, 2011-2012
+
+Mark Motivans, Ph.D., BJS Statistician
+
+During fiscal year 2012, the number of suspects arrested for a federal 
+offense declined to 172,248 after reaching a record 181,726 suspects in 2009. 
+From 1994 to 2012, the number of suspects arrested by federal law enforcement 
+more than doubled, from 80,450 in 1994 to 172,248 in 2012 (figure 1). In 
+recent years, federal law enforcement activity has slowed along with the 
+later stages of cases processing in U.S. district court (persons charged, 
+convicted, and sentenced to prison). From 2010 to 2012, arrests decreased at 
+an annual average rate of 1.9%.*** Footnote 11The reporting period used 
+throughout this report is the fiscal year, which is from October 1 to 
+September 30. All percent changes referenced in this report are calculated 
+using the average of the annual change between years.***
+
+At yearend 2012, about 414,000 offenders were under some form of federal 
+correctional control: 47% were confined by the Federal Bureau of Prisons 
+(BOP), 15% were confined in pretrial detention, 32% were on post-conviction 
+supervision in the community, and 6% were under pretrial supervision in the 
+community (table 1).
+
+**************************************************************
+*************
+HIGHLIGHTS
+*************
+
+* At yearend 2012, 414,065 persons were under some form of federal 
+correctional control—62% were in confinement and 38% were under supervision 
+in the community (table 1). 
+
+* Fifteen percent of federal prisoners released in 2010 were returned to 
+federal prison within 3 years. Over half (54%) were returned for supervision 
+violations (table 15).
+
+* In 2012, five federal judicial districts along the U.S.-Mexico border 
+accounted for 60% of federal arrests, 53% of suspects investigated, and 41% 
+of offenders sentenced to prison.
+
+* In 2012, 3,171 suspects were arrested for a sex offense. Defendants 
+convicted of a felony sex offense were the most likely (97%) to receive a 
+prison sentence following conviction (table 13).
+
+* During 2012, 172,248 suspects were booked by the U.S. Marshals Service, a 
+2% decline from 179,034 booked in 2010 (table 2). 
+
+* Most (60%) defendants in cases disposed in 2012 had a prior conviction. A 
+third of those with a prior conviction were for a misdemeanor offense (table 
+9).
+
+* More than half (56%) of defendants charged in U.S. district court were of 
+Hispanic origin (table 10). Hispanic offenders accounted for 32% of inmates 
+in federal prison (table 14).
+
+* A third (34%) of defendants charged in U.S. district court were from 
+Mexico, 5% were from countries in Central America, and 2% were from countries 
+in the Caribbean (table 10). 
+
+* At yearend 2012, 19% of offenders in federal prison were from Mexico, 3% 
+were from countries in the Caribbean, and 2% were from countries in Central 
+America (table 14).
+**************************************************************
+
+*********
+Summary
+**********
+
+The number of federal arrests declined from 179,034 in 2010 to 172,248 in 
+2012. The decline in arrests was due to decreases across several offense 
+types, including property (down 3,381), drug (down 2,786), and supervision 
+violations (down 2,607). During this period, arrests for immigration offenses 
+increased by 3,203. Illegal immigration (50%) was the most common arrest 
+offense in 2012, followed by drug (15%) and supervision (13%) violations. 
+From 2010 to 2012, arrests for regulatory offenses increased from 266 to 300 
+(average annual increase of 6%). Sex offense arrests increased at the next 
+fastest rate (up 3% per year), followed by immigration offenses (up 2%). 
+During this period, fraud offenses (down 10% per year) declined the most, 
+followed by other property (down 6%) and supervision (down 5%) offenses.
+
+The five federal judicial districts along the U.S.-Mexico border (California 
+Southern, Arizona, New Mexico, Texas Western, and Texas Southern) accounted 
+for 60% of all federal arrests in 2012, up from 45% of all arrests in 2006 
+(map 1) (see Federal Justice Statistics, 2010, NCJ 239913, BJS web, December 
+2013). In 2012, these five districts also accounted for 53% of suspects 
+investigated by U.S. attorneys, 54% of suspects detained prior to trial, 39% 
+of defendants convicted, and 41% of offenders sentenced to federal prison.
+
+In 2012, about 9 in 10 defendants in cases adjudicated in U.S. district court 
+were convicted. Ninety-one percent of felonies charged in U.S. district court 
+were disposed by a guilty plea. Of defendants convicted, about 8 in 10 
+received a prison sentence. The median federal prison sentence imposed was 33 
+months.  
+
+Between fiscal yearend 2011 and 2012, the number of persons under federal 
+correctional control increased by 2,764 (up 0.7%). During this period, the 
+number of federally sentenced persons in BOP confinement increased by 1,217 
+offenders and the number of persons under community supervision increased by 
+1,993. The number of persons on probation decreased from 22,866 in 2011 to 
+22,307 in 2012.
+
+This report describes defendants processed at each stage of the federal 
+justice system—arrest and booking, investigation and prosecution, pretrial 
+detention, adjudication and sentencing, corrections, and supervision in the 
+community. Data are from the Federal Justice Statistics Program (FJSP). The 
+FJSP collects, standardizes, and reports on administrative data received from 
+six federal justice agencies: the U.S. Marshals Service, Drug Enforcement 
+Administration, Administrative Office of the U.S. Courts, Executive Office 
+for U.S. Attorneys, the BOP, and the U.S. Sentencing Commission. 
+
+********************
+Arrest and booking
+********************
+
+The U.S. Marshal is the primary law enforcement officer for the U.S. Marshals 
+Service, and each of the 94 federal judicial districts has one. Deputy U.S. 
+Marshals oversee tasks involved in taking federal suspects charged with a 
+crime into custody, including booking, processing and detention, court 
+security, and prisoner transportation.***Footnote 2The unit of count for 
+federal arrest data reported in this section is a suspect arrested and booked 
+by the U.S. Marshals Service. The phrase “suspects arrested and booked by the 
+U.S. Marshals Service” is used to describe arrests and bookings where each 
+arrest and booking for an individual suspect occurring in the same year is 
+counted separately.*** 
+
+In 2012, the U.S. Marshals Service arrested and 
+booked 172,248 suspects for a federal offense
+**************************************************
+
+The number of suspects arrested and booked for violations of federal law 
+decreased from 179,034 in 2010 to 172,248 in 2012—a decrease of 6,786 
+suspects (table 2). The number of suspects arrested and booked increased each 
+year from 1994 to 2009, and declined each year from 2009 to 2012.
+
+Immigration offenses comprised half of federal 
+suspects arrested and booked in 2012
+**************************************************
+
+In 2012, the U.S. Marshals Service arrested and booked 85,458 immigration 
+suspects, up 3,203 from 2010 and up 2,252 from 2011. Immigration offenses 
+made up 46% of suspects arrested and booked by the U.S. Marshals Service in 
+2010 and 50% in 2012. Drug offenses (15% or 25,929 suspects) were the second 
+most common offense among suspects arrested and booked in 2012 as 25,929 drug 
+suspects were arrested and booked. This was down from 29,954 drug suspects 
+arrested and booked in 2011.
+
+Nearly 60% of federal suspects arrested and booked 
+by the U.S. Marshals Service in 2012 were in five 
+judicial districts along the U.S.-Mexico border 
+**************************************************
+
+In 2012, 102,557 suspects were arrested and booked by the U.S. Marshals in 
+five U.S.-Mexico border districts (California Southern, Arizona, New Mexico, 
+Texas Western, and Texas Southern), compared to 69,691 in the remaining 89 
+districts. The Southern District of Texas in 2012, and the district of 
+Arizona both had 18%. From 2010 to 2012, the rate of suspects arrested and 
+booked in U.S.-Mexico border districts increased by less than 1% annually. In 
+comparison, the number of suspects arrested and booked in other border 
+districts declined by 5% annually (from 77,816 in 2010 to 69,691 in 2012). 
+Suspects arrested in the Western District of Texas increased at the fastest 
+rate from 2010 to 2012
+
+Suspects arrested and booked by the U.S. Marshals 
+Service in the Western 
+**************************************************
+
+Suspects arrested and booked by the U.S. Marshals Service in the Western 
+District of Texas increased by an annual average of 10.8% from 2010 to 2012 
+and had the third most federal arrests in the United States (after the 
+Southern District of Texas and the District of Arizona). The number of 
+suspects arrested in the Western District of Texas increased from 21,793 
+suspects in 2010 to 21,930 suspects in 2011, and then increased to 26,518 in 
+2012. The number of suspects arrested in Texas Southern increased by 1,500 
+during this period. On average, from 2010 to 2012, federal arrests decreased 
+in the districts of New Mexico (down 9.6% annually), Arizona (down 5.3%), and 
+California Southern (down 3.6%).
+
+From 2010 to 2012, regulatory offenses increased 
+at the fastest rate
+**************************************************
+
+Regulatory arrests increased by an average of 6.3% per year from 2010 (266 
+arrests) to 2012 (300), making it the fastest growing offense among suspects 
+arrested and booked by the U.S. Marshals Service. Immigration arrests doubled 
+from 1994 to 1998, doubled from 1998 to 2004, and doubled again from 2004 to 
+2008 (figure 2). 
+
+From 2008 to 2012, the U.S. Marshals Service arrested and booked 413,700 
+immigration suspects. Ninety-one percent of immigration suspects over this 
+period were arrested in five judicial districts along the U.S.-Mexico border 
+(map 2).
+
+Sex offenses were the second fastest growing 
+federal arrest offense from 2010 to 2012
+**************************************************
+
+The number of suspects arrested and booked for a sex offense (e.g., child 
+pornography, sex abuse, and illegal sex transportation) doubled from 1994 to 
+1998. Suspects arrested for sex offenses doubled again from 1998 to 2004 
+(figure 3). Sex offenses increased by an annual average of 3%, from 3,034 
+arrests in 2010 to 3,171 arrests in 2012. 
+
+Suspects arrested and booked for a sex offense were relatively dispersed by 
+federal district of arrest. From 2008 to 2012, the U.S. Marshals Service 
+arrested and booked 15,779 sex offense suspects. Twelve federal districts had 
+more than 300 sex offense arrests from 2008 to 2012 (map 3). During this 
+period, the Western District of Texas (484), Florida Middle (464), and 
+California Central (425) had the most sex offense arrests, followed by the 
+district of Arizona (392) and Missouri Eastern and Michigan Eastern (380 
+each).
+
+Drug offenses were the second most common offense 
+among suspects arrested and booked by the 
+U.S. Marshals Service in 2012 
+**************************************************
+
+The U.S. Marshals Service arrested and booked 25,929 suspects for drug 
+offenses in 2012. This represented a 4.5% average annual decrease from 2010. 
+From 1994 to 2012, the number of drug arrests was highest in 2002 (33,056) 
+then declined each year from 2002 to 2008 and increased in 2009. From 2010 to 
+2012, drug arrests declined to the lowest level since 1997 (figure 4). 
+From 2008 to 2012, drug offenses (143,777) accounted for 16% of the total 
+number (884,018) of arrests (not shown). In 10 districts, the percentage of 
+drug arrests as a share of total arrests from 2008 to 2012 exceeded 35%. In 
+two districts, Connecticut (44%) and Texas Eastern (43%), drug arrests made 
+up more than 40% of total arrests during the same period. In 8 districts, 
+drug arrests made up less than 15% of total arrests made during this period 
+(map 4).
+
+DHS law enforcement agencies made more than 
+half of federal arrests in 2012
+**************************************************
+
+Agencies of the Department of Homeland Security (DHS) accounted for 58% of 
+suspects arrested in 2012 (table 3). DHS agencies include Customs and Border 
+Protection (CBP), Immigration and Customs Enforcement (ICE), the Secret 
+Service, and others. Department of Justice (DOJ) agencies made 37% of 
+suspects arrested and booked by the U.S. Marshals Service in 2012. DOJ 
+agencies include the FBI; Drug Enforcement Administration (DEA); Bureau of 
+Alcohol, Tobacco, Firearms and Explosives (ATF); the U.S. Marshals Service; 
+and others.
+
+Arrests made by DHS law enforcement agencies 
+increased at the fastest rate from 2008 to 2012
+**************************************************
+
+Arrests by DHS agencies increased at an average annual rate of 2.0% from 2008 
+to 2012. Arrests made by ICE increased by an annual average of 22.1%, and 
+those made by CBP declined by an annual average of 5.8%. Arrests by DOJ 
+agencies decreased annually by about 0.8% from 2008 to 2012, with FBI arrests 
+increasing by 3.3% and U.S. Marshals Service arrests decreasing by an average 
+of 2.3%. The annual number of arrests made by ATF changed little between 2008 
+and 2012
+
+**************************************************************
+******************************
+Patterns in DEA drug arrests
+******************************
+
+In 2012, the DEA made 31,628 state 
+and federal arrests
+**************************************************
+
+The Drug Enforcement Administration (DEA) reported 31,628 drug arrests in 
+2012, down from 32,379 in 2011.***Footnote 3 The unit of count for the 
+federal drug arrest data received from the DEA reported in this section is a 
+suspect arrested by the DEA. The phrase “suspects arrested by the DEA” is 
+used to describe arrests where each arrest for an individual suspect is 
+counted separately. Individual suspects can be arrested and booked by the DEA 
+more than once in a year. The DEA data do not distinguish between arrests 
+that are referred for state versus federal prosecution.***  The number of 
+drug arrests by the DEA increased over the 1990s to a peak of 46,435 arrests 
+in 2000, followed by a decline to 29,238 in 2003. From 2003 to 2012, the 
+number of DEA arrests increased annually by an average of 1% (figure 5).
+
+Marijuana arrests by the DEA increased at the fastest annual average rate 
+from 2002 to 2012 (2.0%), followed by opiates (2.1%). The number of DEA 
+arrests for marijuana coincided with the number of arrests for 
+methamphetamine from 1998 until 2006. However, since 2006, the annual number 
+of marijuana arrests has been greater. Arrests for crack cocaine (annual 
+average decrease of 4.6%), powder cocaine (down 2.4%), and methamphetamine 
+(down 0.9%) each declined from 2002 to 2012.
+
+Cocaine was the most common drug type involved 
+in arrests by the DEA in 2012
+**************************************************
+
+Suspects arrested for offenses involving cocaine powder (7,485) and crack 
+cocaine (2,575) accounted for 32% of all suspects arrested by the DEA in 2012 
+(table 4). Twenty-four percent of suspects were arrested for offenses 
+involving cocaine powder and 8% were arrested for crack cocaine. The 
+remaining suspects arrested by the DEA in 2012 were for marijuana (6,963), 
+methamphetamine (6,087), opiates (3,664), and other or nondrug offenses 
+(4,854). Marijuana was the second most common drug at arrest by the DEA from 
+2006 to 2012. In 2012, more than half (53%) of arrests made by the DEA 
+involved marijuana that had been cultivated domestically compared to 
+internationally (47%) (not shown).
+
+Hispanic suspects made up nearly half (45%) 
+of suspects arrested by the DEA in 2012
+**************************************************
+
+In 2012, about half (45%) of suspects arrested by the DEA were of Hispanic or 
+Latino origin, followed by white (28%) and black (24%) suspects. Hispanic 
+suspects were involved in 3 in 5 (61%) arrests for cocaine powder, more than 
+half (53%) of arrests for methamphetamine, and less than half (44%) of 
+arrests for marijuana offenses. Seventy-seven percent of crack cocaine 
+suspects were black, and 41% of methamphetamine suspects were white. White 
+suspects composed the largest share (51%) of suspects arrested by the DEA for 
+other or nondrug offenses.
+
+Most suspects arrested by the DEA in 2012 were 
+male (83%) and age 34 or younger (56%)
+**************************************************
+
+About a quarter of male suspects were arrested for cocaine powder (25%) or 
+marijuana (23%), followed by methamphetamine (18%). Females accounted for 17% 
+of all DEA drug arrests and 22% of all methamphetamine arrests. About a 
+quarter (25%) of females arrested by the DEA for drug violations were 
+arrested for methamphetamine, followed by other drug offenses (24%) and 
+cocaine powder and marijuana offenses (each 17%). More than half of all 
+suspects arrested by the DEA were age 34 or younger, and the median age was 
+similar across all drug types. Five percent of arrests by the DEA were of 
+suspects age 55 or older.
+
+In 2012, most females arrested by the DEA were 
+white, while most males were Hispanic
+**************************************************
+
+For both males and females, the proportion of Hispanic suspects arrested by 
+the DEA dropped in the early 1990s and has increased since then. Among 
+females arrested by the DEA in 2012, 44% were white, 35% were Hispanic, and 
+18% were black. Between 1994 and 2012, white females almost always had the 
+greatest share of female DEA arrests. The percentage of black female arrests 
+by the DEA increased from 24% in 1994 to 29% in 1995, and declined to 18% in 
+2012 (figure 6). 
+
+In 2012, Hispanics accounted for 47% of male arrests made by the DEA. This 
+represented a relatively consistent level in the Hispanic share of male 
+arrests since 1994. Blacks made up 25% of arrests of males by the DEA in 
+2012, and whites composed 25% of male arrests (figure 7).
+
+**************************************************************
+***************
+Prosecution
+**************
+
+The 93 U.S. attorneys serve as the chief federal law enforcement officers 
+within their respective districts.*** Footnote 4 One U.S. attorney serves two 
+districts (Guam and Northern Mariana Islands). This section of the report 
+combines Northern Mariana Islands with Guam for statistical reporting.*** 
+Investigations are most commonly referred to a U.S. attorney by a federal law 
+enforcement agency. State and local law enforcement agencies are also sources 
+of criminal referrals to U.S. attorney’s offices in their district. U.S. 
+attorneys determine which cases they will prosecute and establish policies 
+and priorities within their federal judicial districts. U.S. attorneys take 
+into account a variety of factors, such as DOJ priorities, available 
+resources, state and local priorities, and law enforcement priorities. 
+
+Federal legislation influences the work of federal prosecutors, especially 
+the types of offenses that are referred for prosecution. The Homeland 
+Security Act of 2002 (P.L. 107-296) reorganized key federal law enforcement 
+agencies and coincided with increased enforcement of immigration laws, 
+especially in federal districts along the U.S.-Mexico border. The act 
+transferred responsibility for the U.S. Customs Service and the Secret 
+Service from the U.S. Department of the Treasury (Treasury) to DHS. 
+Responsibility for the Immigration and Naturalization Service transferred 
+from DOJ to DHS, and ATF transferred from the Treasury to DOJ.
+
+In 2012, five federal judicial districts referred 
+more than half (53%) of suspects to U.S. attorneys 
+**************************************************
+
+In 2012, 190,596 matters were referred to U.S. attorneys. Five federal 
+districts along the U.S.-Mexico border referred 101,265 (53%) of these 
+matters (map 5). After the border districts, the districts with the most 
+referrals included California Central (3,532), Florida Southern (3,463), and 
+Virginia Eastern (3,436).
+
+In 2012, 57% of suspects in matters concluded by 
+U.S. attorneys had been referred by the Department 
+of Homeland Security
+**************************************************
+
+Ten years after the reorganization of federal law enforcement agencies under 
+the Homeland Security Act of 2002, DHS agencies referred 57% of all matters 
+concluded by U.S. attorneys in 2012, down from 60% of matters concluded by 
+U.S. attorneys in 2008 (table 5). Law enforcement agencies within the DOJ 
+referred 28% of suspects in matters concluded by U.S. attorneys in 2012, 
+compared to 23% of referrals in 2008 and 57% of referrals in 2001. Suspects 
+in matters concluded by U.S. attorneys referred by the Department of Treasury 
+made up 2% of all matters concluded in 2012, down from 20% in 2001.
+
+Immigration and drug charges made up two-thirds 
+of all matters concluded by U.S. attorneys in 2012
+**************************************************
+
+U.S. attorneys concluded 196,109 matters in 2012 (table 6). Forty-eight 
+percent of matters concluded by U.S. attorneys in 2012 involved an 
+immigration offense, and 20% involved a drug charge. Overall, the number of 
+matters concluded increased by an annual average of 2% from 2008 to 2012. 
+Among matters concluded by U.S. attorneys during this period, immigration 
+(4%), sex offenses (1%), and regulatory offenses (1%) increased at the 
+fastest annual rate. The number of weapon offenses decreased by an annual 
+average of 1%, from 11,744 matters concluded in 2008 to 11,162 in 2012.
+
+Matters concluded in five federal judicial 
+districts along the U.S.-Mexico border increased 
+by 5% from 2008 to 2012
+**************************************************
+
+More than half (53%) of matters concluded by U.S. attorneys in 2012 occurred 
+in the five federal judicial districts of California Southern, Arizona, New 
+Mexico, Texas Western, and Texas Southern. In comparison, these districts 
+handled less than half (48%) of matters concluded in 2008. The number of 
+matters concluded by U.S. attorneys in all other districts decreased, from 
+95,939 matters concluded in 2008 to 92,185 matters in 2012.
+
+Almost half of suspects in matters concluded 
+in 2012 were prosecuted by U.S. attorneys
+**************************************************
+ 
+Matters involving drug and weapons offenses were the most likely to be 
+prosecuted in 2012. Suspects charged with drug (75%) and weapons (71%) 
+offenses had the highest prosecution rates in 2012, followed by sex (61%), 
+violent (57%), property (50%), and public order (40%) offenses (table 7).
+ 
+U.S. attorneys may file charges and prosecute defendants in U.S. district 
+court, or they may file charges and prosecute matters before U.S. 
+magistrates, who have the authority to adjudicate misdemeanor offenses (18 
+U.S.C. § 3401). U.S. attorneys may also decline to file charges for reasons 
+such as weak or insufficient evidence, minimal federal interest, lack of 
+resources, or lack of criminal intent. Matters that are declined may also be 
+referred to other authorities for prosecution or be settled through 
+alternative resolution procedures.
+
+Nearly 4 in 10 matters concluded in 2012 were 
+disposed by U.S. magistrates
+**************************************************
+
+Thirty-nine percent of matters concluded by U.S. attorneys in 2012 were 
+disposed by U.S. magistrates, while 15% were declined for further 
+prosecution. Offenses that were most likely to be disposed by U.S. 
+magistrates included immigration (71%), other public order (23%), and other 
+property (15%) offenses. In the five U.S.-Mexico border districts, two-thirds 
+(66%) of matters concluded by U.S. attorneys were disposed by U.S. 
+magistrates, compared to 9% of matters in other districts. Suspects involved 
+in regulatory offenses were most likely to be declined for prosecution (52%), 
+followed by fraud (37%) and other property (35%) offenses.
+ 
+Case processing time to conclude a matter decreased 
+from over 3 months in 1994 to about 2 weeks in 2012
+**************************************************
+
+The median time from receipt of a matter by U.S. attorneys to prosecute, 
+decline, or dispose by U.S. magistrate was 15 days in 2012. This was a 
+decrease from 99 days in 1994. In 2012, the median processing time took far 
+longer for matters that were declined (438 days) than for matters prosecuted 
+(25 days) or disposed by a U.S. magistrate (half were disposed on the same 
+day). The median case processing time for matters prosecuted remained 
+relatively stable, declining slightly from 26 days in 1994 to 25 days in 2012 
+(figure 8). The median case processing time for a matter disposed by 
+magistrate increased from 28 days in 1994 to 63 days in 2003, before dropping 
+sharply to 0 days in 2012. A median of 0 days means that at least half of the 
+matters were concluded on the same day they were opened.
+ 
+The drop in the total case processing time was due in part to a steady 
+decrease in the number of matters declined and to an increase in the number 
+of immigration matters disposed by U.S. magistrate beginning in 2004. In 
+addition, the increase in immigration enforcement along the U.S.-Mexico 
+border was accompanied by a strategy to expedite case processing by charging 
+first-time illegal entrants with a petty misdemeanor offense.
+
+Six law enforcement agencies referred 80% 
+of matters concluded in 2012
+**************************************************
+
+Eighty percent (155,943) of the 196,109 matters concluded by U.S. attorneys 
+in 2012 were referred by six federal law enforcement agencies. The top agency 
+was from DHS: CBP (66,879 suspects). The FBI referred the second largest 
+number of suspects (22,489), followed by ICE (21,266), Citizenship and 
+Immigration Services (17,940), DEA (15,865), and ATF (11,504).
+
+Among these six agencies, prosecution rates in 2012 varied from a high of 81% 
+for suspects referred by ICE, followed by 76% for suspects referred by DEA 
+and 72% for suspects referred by ATF (table 8). Twenty-five percent of 
+suspects referred by CBP were prosecuted in U.S. district courts, 75% were 
+disposed by U.S. magistrates, and less than 1% were declined. The FBI had a 
+prosecution rate of 56%. Five percent of suspects were disposed by U.S. 
+magistrate and 39% of matters were declined. These six agencies differed in 
+case processing time from receipt of the matter to the decision to prosecute. 
+The FBI had a median case processing time of 63 days, compared to 22 to 26 
+days for the other five agencies.
+
+**************************************************
+
+Pretrial detention, adjudication, and sentencing
+**************************************************
+
+The terms for release and detention of defendants facing charges in federal 
+courts are set under Title 18 U.S.C. § 3141. According to the statute, a 
+defendant must be brought before a judicial officer without unnecessary delay 
+upon arrest for an initial appearance. The judicial officer, usually a U.S. 
+magistrate, determines whether the defendant will be released or detained 
+prior to trial. The Bail Reform Act of 1984 requires the court to weigh risk 
+of flight, threat of crime commission, and presumption of innocence in 
+deciding whether to order detention or release of a defendant. According to 
+the act, preventive detention is applicable in instances where the defendant 
+was charged with (1) a crime of violence, (2) an offense with a statutory 
+maximum sentence of life imprisonment or death, (3) a drug offense with a 
+statutory maximum sentence of 10 years or more imprisonment, or (4) any 
+felony offense if the defendant had been convicted on two or more occasions 
+of a previously described offense or a similar state-level offense. 
+
+Most immigration defendants were detained 
+prior to case disposition
+**************************************************
+
+In 2012, more than 3 in 4 defendants (77%) in cases terminated had been 
+detained by the court prior to case disposition (table 9). The defendants 
+most likely to be detained were those charged with immigration (88%), weapons 
+(86%), violent (84%), and drug (84%) offenses. Immigration defendants made up 
+40% of all defendants in cases terminated in 2012 and 46% of all defendants 
+detained prior to case disposition. Property (37%) and public order (46%) 
+defendants were less likely than other defendants to be detained. In 2012, 
+76% of defendants charged with a sex offense were detained prior to case 
+disposition.
+
+The likelihood of being detained prior to case 
+disposition increased with the number 
+of prior convictions 
+**************************************************
+
+Eighty-five percent of defendants with five or more prior convictions were 
+detained in 2012, compared to 84% of defendants with two to four prior 
+convictions, 81% with one prior conviction, and 67% with no prior 
+convictions. The likelihood of being detained also increased with the 
+severity of the defendant’s criminal history. Eighty-eight percent of 
+defendants with a prior violent felony conviction were detained by the court, 
+compared to defendants with only a prior felony (other drug or violent) (80%) 
+or misdemeanor (79%) conviction. Eighty-five percent of defendants charged in 
+U.S.-Mexico border districts were detained prior to case disposition in 2012, 
+while 69% were detained in other districts.
+
+Defendants charged with immigration offenses 
+increased from 1994 to 2010 and declined 
+in 2011 and 2012
+**************************************************
+
+Immigration offenses accounted for 76% of the total increase among all felony 
+cases filed from 1994 to 2012 (figure 9). After increasing from 21,871 cases 
+filed in 1994 to 32,897 Footnote 1 The number of felony cases filed increased 
+by 29,000 cases between 1994 and 2012. Immigration (22,790) made up 76% of 
+the total growth.*** cases filed in 2003, drug offenses declined to 29,493 in 
+2010 before increasing to 32,227 in 2011 and decreasing to 30,292 in 2012. 
+Weapons offenses increased from 3,557 cases filed in 1994 to a peak of 10,278 
+in 2004, then declined to 7,627 in 2012.
+
+More than half of defendants charged in U.S. 
+district courts in 2012 were U.S. citizens
+**************************************************
+
+In 2012, 57% of defendants charged in U.S. district court were U.S. citizens. 
+Noncitizens charged included persons with legal status (5%) (i.e., permanent 
+residents, persons in possession of a green card, persons with a valid 
+temporary visa, and persons with refugee status) and persons in the country 
+without legal authorization (39%). Of the 43% of defendants who were 
+noncitizens, 34% were from Mexico, followed by persons from Central America 
+(5%), the Caribbean (2%), and South America (1%). Defendants from Asia and 
+Oceania, Europe, and Africa together represented 1% of defendants charged in 
+U.S. district court (figure 10).
+
+More than half of defendants charged in U.S. 
+district courts in 2012 were of Hispanic origin
+**************************************************
+
+In 2012, most defendants charged in U.S. district court were Hispanic (56%) 
+and ages 25 to 44 (65%) (table 10). Defendants age 50 or older accounted for 
+13% of defendants charged. The youngest (age 19 or younger) and oldest (age 
+65 or older) defendants together composed 3% of defendants charged in 2012.
+
+Most defendants charged in U.S. court 
+in 2012 were males
+**************************************************
+
+Males made up 86% of defendants charged in federal court in 2012. Most males 
+charged were of Hispanic origin (58%), followed by white (20%) and black or 
+African American (19%). In comparison, most females charged were of Hispanic 
+origin (42%), followed by white (34%) and black (19%) females. The median age 
+for females (36 years) was similar to males (34 years). Females charged were 
+mostly U.S. citizens (78%), with 6% having legal alien status and 16% having 
+illegal alien status. Males charged were more evenly split between U.S. 
+citizens (53%) and non U.S. citizens (47%). Thirty-nine percent of males 
+charged in U.S district court were from Mexico, followed by those from 
+Central America (5%), the Caribbean (2%), and South America (1%). Sixteen 
+percent of females charged were from Mexico, followed by those from Central 
+America (2%), the Caribbean (1%), and South America (1%).
+
+9 in 10 defendants adjudicated in U.S. district 
+court were convicted in 2012
+**************************************************
+
+Of the 96,260 defendants adjudicated in 2012, 91% were convicted (table 11). 
+Almost all immigration violation defendants (97%) in 2012 were convicted, as 
+were most defendants with sex offenses (95%), weapons (93%), and drug 
+violations (92%). Of the 96,260 adjudicated defendants convicted in 2012, 
+most (89%) were convicted following a guilty plea. 
+
+8% of adjudicated defendants were dismissed 
+in 2012
+**************************************************
+
+Misdemeanants had the highest percentage of dismissals (27%), followed by 
+public order (11%) and other property (11%) offenses. Violent offenses (7%) 
+and regulatory offenses (5%) had the highest percentage of trials. In 2012, 
+defendants adjudicated in U.S.-Mexico border districts had a higher 
+conviction rate (95%) than defendants in districts not located on the border 
+(89%). Dismissals (a median of 245 days) and guilty pleas (202 days) took 
+less time to process than trials ending in conviction (505 days) or ending in 
+acquittal (281 days). 
+
+In 2012, a felony case took a median of 206 days 
+to process from filing to disposition
+**************************************************
+
+The median case processing time for felonies from case filing to disposition 
+increased from 197 days in 1994 to 221 days in 2012 (figure 11). Guilty pleas 
+made up 89% of the case outcomes, which influenced the overall median case 
+processing time. The median case processing time of felony cases terminated 
+by a guilty plea increased by 29 days, from 184 days in 1994 to 213 days in 
+2012, and remained the disposition with the fastest case time. 
+
+Cases terminated by a bench or jury trial decision 
+took the longest time to process
+**************************************************
+
+In 2012, felony cases terminated by a trial took a median of 483 days, a 76% 
+increase from 274 days in 1994. Cases terminated by dismissal took a median 
+of 329 days in 2012, up from 223 days in 1994, or a 48% increase in median 
+case processing time.
+  
+The number of guilty pleas increased by an annual average rate of 2% from 
+2008 to 2012 (table 12). The number of defendants who were found guilty 
+following a bench trial (down 5%) or a jury trial (down 6%) declined the 
+most, on average, from 2008 to 2012. The number of defendants who were 
+dismissed decreased annually by 1% from 2008 to 2012.
+
+The percent of felony cases disposed ending 
+in a guilty plea varied by district
+**************************************************
+
+In 2012, nine federal districts disposed of felony cases with a guilty plea 
+95% or more of the time (map 6). This included districts along the U.S.-
+Mexico border (with the exception of California Southern) and the districts 
+of Wyoming (97%), Illinois Southern (97%), and Rhode Island (96%). 
+
+In 2012, the median time from case filing to 
+guilty plea was more than 6 months
+**************************************************
+
+Of the 85,774 defendants in cases terminated in 2012 that ended in a guilty 
+plea, the median time from case filing to plea was about 202 days (figure 
+12). Defendants pleading guilty to a felony public order offense took the 
+longest to reach disposition (a median of 332 days), followed by defendants 
+pleading guilty to drug, weapons, sex, and violent offenses. Defendants 
+pleading guilty to a felony immigration offense took 120 days from case 
+filing to case termination. Defendants pleading guilty to a misdemeanor took 
+55 days, compared to defendants pleading guilty to a felony (202 days). 
+Defendants pleading guilty in U.S.-Mexico border districts (a median of 133 
+days) were quicker to reach disposition than defendants pleading guilty in 
+other districts (264 days).
+
+77% of convicted defendants were sentenced 
+to prison in 2012
+**************************************************
+
+Of the 87,908 defendants convicted in U.S. district court in 2012, 77% were 
+sentenced to prison (table 13). This percentage is similar to the 79% of 
+convicted defendants sentenced to prison in 2008. The number of persons who 
+were sentenced to prison increased from 64,529 in 2008 to 67,582 in 2012.
+
+Ten percent of convicted defendants in 2012 (9,090 out of 87,908) were 
+sentenced to a term of probation only, down from 12% in 2008. Persons 
+sentenced to probation decreased from 9,526 in 2008 to 9,090 in 2012. Two 
+percent of defendants were ordered only to pay a fine in 2012. Persons 
+receiving a fine-only sentence decreased from 2,803 in 2008 to 1,985 in 2012. 
+The fastest growing outcome at sentencing from 2008 to 2012 was a suspended 
+sentence, which increased an annual average of 15%. In 2012, about 10% of all 
+convicted defendants received a suspended sentence, up from 6% in 2008. 
+
+Defendants convicted of sex offenses were most 
+likely to receive a prison sentence 
+**************************************************
+
+In 2012, sex offense convictions (97%) were most likely to receive a prison 
+sentence, followed by violent and weapons offenses (92% each) and drug 
+offenses (91%). Defendants convicted of other property offenses (53%) and 
+regulatory public order offenses (54%) were least likely to receive a prison 
+sentence. Defendants convicted in one of the five U.S.-Mexico border 
+districts (81%) were more likely than defendants in all other districts (75%) 
+to receive a prison sentence.
+
+Median prison terms increased slightly 
+from 2008 to 2012
+**************************************************
+
+The median prison sentence decreased from 33 months in 2008 to 30 months in 
+2012. Drug offenders received a median prison sentence of 60 months in 2012, 
+which was unchanged from 2008. Violent offenders received a median of 65 
+months in prison in 2012, down from 63 months in 2008. Weapons offenders 
+received a median sentence of 51 months in 2012, down from 60 months in 2008. 
+The median prison sentence decreased for immigration offenders, from 18 
+months in 2008 to 16 months in 2012.
+
+Median prison sentences for defendants convicted 
+of sex offenses had the greatest increase
+**************************************************
+
+Defendants convicted and sentenced to prison for a felony sex offense had the 
+greatest median prison sentence in 2012 (96 months), up from a median term of 
+36 months in 1994 (figure 13). From 1994 to 2012, the median prison term 
+imposed on sex offenders increased by an annual average of 6%. In comparison, 
+the median prison term imposed for violent, weapons, and drug offenses 
+remained relatively stable during this period. The median prison term imposed 
+for immigration offenses decreased from 24 months in 1994 to 16 months in 
+2012.
+
+Corrections and post-conviction supervision
+**************************************************
+
+Most persons were incarcerated in federal prison 
+for a drug offense in 2012
+**************************************************
+
+Drug offenses were the most prevalent offense type of prisoners in federal 
+prison on September 30, 2012 (figure 14). Drug offenders declined from 57% of 
+the prison population in 2002 to 51% in 2012, while weapons offenders 
+increased from 10% of the prison population in 2002 to 15% in 2012. The share 
+of violent offenders in federal prison decreased from 9% in 2002 to 5% in 
+2012. Immigration offenders made up 12% of the prison population in 2012, 
+rising slightly from 11% of the prison population in 2002.
+
+Males made up 94% of inmates in 2012
+**************************************************
+
+The average annual rate of growth from 2002 to 2012 was slightly greater for 
+males (3.3%) than for females (2.4%)(table 14). The percentage of males (94%) 
+in federal prison on September 30, 2012, was slightly greater than the 
+percentage of males in prison on September 30, 2002 (93%). 
+
+Federal prisons housed a greater share 
+of older prisoners in 2012
+**************************************************
+ 
+The median age of prisoners was 38 years in 2012, compared to a median age of 
+36 years in 2002. The number of prisoners age 65 or older more than doubled 
+during this period, from 1,805 prisoners in 2002 to 4,271 prisoners in 2012. 
+Offenders age 60 or older accounted for about 5% of the total prison 
+population in 2012, compared to 3% in 2002.
+
+From 2002 to 2012, American Indian or Alaska 
+Natives and Hispanics in federal prison had 
+the greatest average annual increases
+**************************************************
+
+In 2012, 35% of the federal prison population was black, 35% was Hispanic, 
+and 27% was white. American Indians or Alaska Natives (2%) and Asians, Native 
+Hawaiian, or other Pacific Islanders (1%) made up the remainder of the prison 
+population. American Indian offenders had the greatest average annual 
+increase from 2002 to 2012 (5%), followed by Hispanic offenders (4%). 
+Seventy-four percent of persons in federal prison at fiscal yearend 2012 were 
+U.S. citizens, up from 72% in 2002 (figure 15). Of the 26% non U.S. citizens 
+in federal prison in 2012, 19% were citizens of Mexico, 3% were citizens of 
+Caribbean countries, 2% were citizens of Central America, and 1% were 
+citizens of South American countries. Non U.S. citizens in federal prison at 
+fiscal yearend 2012 with citizenship in a Central American country increased 
+by an annual average of 9% from 2002 to 2012. In comparison, the annual 
+average growth in prisoners who were citizens of Mexico was 4%. The number of 
+prisoners from South America declined, from 4,054 in 2002 to 2,519 in 2012 (a 
+5% annual average decrease). Five federal judicial districts (Arizona, Texas 
+Western, Texas Southern, Florida Southern, and Florida Middle) committed 20% 
+of offenders in federal prison at yearend 2012 (map 7).
+
+**************************************************************
+**************************************************
+Offenders returning to federal prison 
+from 1998 to 2012
+**************************************************
+
+15% of offenders released from federal prison 
+in 2010 returned to federal prison within 3 years
+**************************************************
+
+Five percent of offenders released in 2012 returned to federal prison within 
+1 year, 11% of offenders released in 2011 returned to federal prison with 2 
+years, 15% of offenders released in 2010 were returned to federal prison 
+within 3 years, 18% of offenders released in 2009 returned within 4 years, 
+and 19% of offenders released in 2008 returned within 5 years (figure 16). 
+These recidivism percentages do not take into account the recidivism of 
+offenders who, after release from federal prison, were imprisoned in a state 
+prison for a new offense.
+
+Supervision violations were the most common 
+reason for return to prison within 3 years
+**************************************************
+
+The most common reason for federal prisoners released in 2010 to return to 
+federal prison within 3 years was violation of conditions of supervision 
+(54%). Returns for a new court commitment or new offense accounted for 43% of 
+returns (table 15). 
+
+Return-to-prison rates were highest for younger 
+released offenders
+**************************************************
+
+Offenders ages 18 to 24 who were released in 2010 had a 3-year return-to-
+prison rate of 21%. Of these returns, 55% was for a supervision violation and 
+44% was for a new court commitment. Among released prisoners ages 25 to 44, 
+16% returned to prison within 3 years, as did 11% of prisoners ages 45 to 64 
+and 4% of prisoners age 65 or older.
+
+Males had a 16% 3-year return-to-prison rate, 
+compared to 9% for female offenders
+**************************************************
+ 
+Among males who were released from federal prison in 2010 and returned, 53% 
+returned for violations of supervision and 44% returned for a new court 
+commitment. In comparison, 76% of females returned to prison for supervision 
+violations and 22% returned with a new court commitment.
+ 
+American Indian or Alaska Native prisoners had 
+the highest 3-year return-to-prison rate among 
+all racial and ethnic groups
+**************************************************
+
+Forty-two percent of American Indian or Alaska Natives first released from 
+federal prison in 2010 returned to federal prison within 3 years. Eighty-
+seven percent of American Indians returned for a violation of supervision, 
+and 12% returned for a new court commitment. Black prisoners had the second 
+highest 3-year return-to-prison rate (19%), with 79% returned for supervision 
+violations and 12% returned for a new court commitment. White prisoners had a 
+13% return rate, Hispanic prisoners had a 14% return rate, and Asian, Native 
+Hawaiian, or other Pacific Islander prisoners had a 6% return rate.
+
+Violent and weapons offenders returned to prison 
+at higher rates than other offenders
+**************************************************
+
+The 3-year return-to-prison rate was highest for violent (31%) and weapons 
+(25%) offenders (figure 17). Weapons (90%) and sex offenses (89%) were most 
+likely to be returned for supervision violations. Immigration offenders were 
+most likely to be returned for a new offense (84%). As most immigration 
+offenders were deported after serving a federal sentence, most who returned 
+did so for illegally reentering the United States.
+
+
+Immigration offenders made up the largest number 
+returning to federal prison within 3 years 
+of first release
+**************************************************
+
+Seventeen percent of immigration offenders released in 2010 were returned to 
+federal prison within 3 years of release, representing 40% of all recidivists 
+over the time period. In comparison, 24% of recidivists were drug offenders 
+and 5% were violent offenders. Immigration had the highest percentage of new 
+offenses as a reason for return to federal prison (84%), and 16% of 
+immigration returns were due to supervision violations. Immigration was the 
+most common offense type of returns for new offenses. 
+
+The 3-year recidivism rate for drug offenders was 11%. Seventeen percent of 
+drug offenders were returned for a new offense, and 72% were returned for a 
+supervision violation. Property and drug offenses had the lowest 3-year 
+return-to-prison rate (each 11%). Thirteen percent of property offenders were 
+returned for a new offense, and 87% were returned for a supervision 
+violation.
+
+18% of U.S. citizens and 12% of non-U.S. citizens 
+released in 2010 returned to federal priso
+within 3 years
+**************************************************
+
+Non-U.S. citizens had a lower return rate (12%) than U.S. citizens (18%). The 
+lower risk of return for non-U.S. citizens may be a function of differences 
+in how non-U.S. citizen offenders are handled following release. Most non-
+U.S. citizens are deported immediately after serving a federal prison term. 
+Noncitizens may then be deported or detained pending deportation by ICE. A 
+small share of noncitizens is released to serve terms of federal supervision, 
+so most noncitizens would not be at risk to return to prison for technical 
+violations of supervision. About 9 in 10 noncitizens who returned to prison 
+in a 3-year period following first release were recommitted for a new court 
+commitment, and 1 in 10 were returned for a supervision violation.
+
+Districts with the highest 3-year return-to-prison 
+rate for new court commitments only were clustered 
+in the west and southwestern United States
+**************************************************
+
+The districts of California Southern, Arizona, New Mexico, and Texas Southern 
+had 3-year return-to-prison rates for a new offense of 8% or more in 2012 
+(map 8). In 2012, eight districts had 3-year return-to-prison rates of 19% or 
+more for supervision violations (map 9). Three of these districts are 
+adjacent to one another: Montana, North Dakota, and South Dakota.
+**************************************************************
+
+At fiscal yearend 2012, a total of 131,732 
+offenders were under active federal post-conviction 
+supervision
+**************************************************
+
+Eighty-three percent of offenders under federal post-conviction supervision 
+received one of two forms of supervision following release from prison: 
+supervised release (107,802) or parole (1,623) (table 16). The remainder 
+(22,307) were on probation supervision, which is a sentence to a term of 
+supervision in the community with and without a confinement sentence. Among 
+the 131,732 offenders under federal supervision at the end of fiscal year 
+2012, 81% were male and 19% were female. Females made up 37% of offenders on 
+probation and 2% of offenders on parole supervision. Black offenders and 
+white offenders both accounted for 36% of persons under supervision, followed 
+by Hispanic offenders (22%). Black offenders made up 38% of offenders on 
+supervised release, and white offenders made up nearly half (47%) of 
+offenders on probation.
+
+6% of persons under federal post-conviction 
+supervised release in the community were 
+non-U.S. citizens
+**************************************************
+
+In 2012, 6% of offenders under federal supervision were non U.S. citizens. 
+Hispanic offenders accounted for 22% of offenders under community. The median 
+age was similar for offenders under supervised release (age 39) and probation 
+(age 40), but higher for persons on parole supervision (age 52).
+Drug and property fraud were the two most common offenses for offenders under 
+federal supervision in 2002 and in 2012 (figure 18). The percentage of 
+weapons offenders under federal supervision increased from 2002 and 2012, as 
+did drug and immigration offenders.
+
+**************
+Methodology
+**************
+
+The Federal Justice Statistics Program (FJSP)
+**************************************************
+
+This report uses data from the Bureau of Justice Statistics’ (BJS) Federal 
+Justice Statistics Program (FJSP). The FJSP was initiated in 1982 to serve as 
+a central resource for information describing the case processing of federal 
+criminal defendants and to meet BJS’s statutory mandate to “collect, analyze, 
+and disseminate comprehensive federal justice transaction statistics … and to 
+provide technical assistance to and work jointly with other federal agencies 
+to improve the availability and quality of federal justice data”—42 U.S.C. 
+3732 (c) (15). 
+
+The FJSP receives administrative data files from six federal criminal justice 
+agencies and standardizes this information to maximize comparability across 
+agencies and within agencies over time. This includes (1) applying, where 
+possible, person-case as the primary unit of count (exceptions include at 
+arrest where the unit of count is the individual suspect, sentencing under 
+federal sentencing guidelines where the unit of count is the sentencing 
+event, and at imprisonment where the unit of count is the inmate); (2) 
+delineating fiscal year (October 1 through September 30) as the period for 
+reported events; (3) applying a uniform offense classification across 
+agencies; and (4) classifying disposition and sentences imposed.
+ 
+Where more than one offense is charged or adjudicated, the most serious 
+offense at disposition and sentencing is used. Offense seriousness is based 
+on maximum statutory imprisonment term, type of crime, and statutory maximum 
+fine amount. Annual cross-sectional data files are produced and maintained by 
+and represent the federal criminal case processing stages from arrest and 
+prosecution through pretrial release, adjudication, sentencing, appeals, and 
+corrections. 
+
+FJSP data sources
+**********************
+
+The U.S. Marshals Service Prisoner Tracking System (PTS) provides information 
+on suspects arrested for federal offenses and booked by the U.S. Marshals 
+Service following an arrest. Suspects may be counted more than once in a 
+fiscal year if they are arrested and booked multiple times during the period. 
+The U.S. Marshals Service uses the PTS to track federal prisoners in U.S. 
+Marshals Service custody. The U.S. Marshals Service provides data from the 
+Justice Detainee Information System (JDIS). The JDIS consolidates information 
+on prisoners who are in Marshals Service custody or who have a federal arrest 
+warrant issued. 
+
+The Executive Office for U.S. Attorneys’ National Legal Information Office 
+Network System (LIONS) database contains information on the investigation and 
+prosecution of suspects in criminal matters received and concluded and 
+criminal cases filed and terminated by U.S. attorneys. Suspects may be 
+counted more than once in a fiscal year if they are involved in multiple 
+matters received and concluded during the period. A matter is defined as a 
+referral where an attorney spends an hour or more investigating. The lead 
+charge is used to classify the most serious offense at referral and is 
+defined as the substantive statute that is the primary basis of referral.
+ 
+The Administrative Office of the U.S. Courts’ (AOUSC) criminal master file 
+contains information about the criminal proceedings against defendants whose 
+cases were filed and terminated in U.S. district courts. These data include 
+information on cases involving felonies, and Class A and B misdemeanors 
+handled by U.S. district court judges. The most serious filing or terminating 
+offense is the offense charge that yields the greatest maximum statutory 
+penalty. This report also uses AOUSC data from the Probation and Pretrial 
+Services Automated Case Tracking System (PACTS), which contains information 
+on defendants interviewed and supervised by pretrial services. These data are 
+used to describe background characteristics of defendants arraigned and 
+defendants detained prior to case disposition. In addition, post-conviction 
+data from the AOUSC’s Federal Probation Supervision Information System 
+(FPSIS) are used to describe immigration offenders under post-conviction 
+supervision in the community. 
+
+The Federal Bureau of Prisons’ (BOP) SENTRY database contains information on 
+all sentenced offenders admitted into or released from federal prison during 
+a fiscal year, and offenders in federal prison at the end of each fiscal year 
+(September 30). The most serious commitment offense is the offense with the 
+longest sentence length. All percentage changes referred to in this report 
+are calculated using the average of the annual change between the two 
+reported years
+
+Returns to federal prison
+****************************
+ 
+The number of offenders returning to federal prison is a count of the number 
+of federal prisoners who returned to federal prison after first release from 
+a U.S. district court commitment. Prisoners released from federal prison for 
+the first time between 1998 and 2012 were identified. The BOP’s SENTRY 
+database was searched for a subsequent return to federal prison. Prisoners 
+released in 2010 were the most recent cohort that could be tracked for 3 
+years following release through 2013. In addition, observation windows were 
+included for 1-, 2-, 3-, 4-, and 5-year return rates following first release. 
+The return-to-prison rate increases with the length of the window used to 
+follow-up on prisoners. The unit of analysis is the first release from 
+federal prison, and the return rates are computed based on the number of 
+first releases.
+ 
+In 2010, 61,374 federally sentenced prisoners were released from the Federal 
+Bureau of Prisons. This cohort of offenders was tracked for 3 years following 
+release to count the number who returned to federal prison, whether for a new 
+offense or a supervision violation. 
+
+Other resources
+******************
+
+Detailed data tables are available in Federal Justice Statistics, 2011 – 
+Statistical Tables (NCJ 248469, BJS web, December 2014) and Federal Justice 
+Statistics, 2012 –Statistical Tables (NCJ 248470, BJS web, December 2014). 
+FJSP data are also incorporated into a BJS web query tool that permits users 
+to interactively query the federal data and download the query results as a 
+spreadsheet. The query tool provides statistics by stage of the federal 
+criminal case process, including law enforcement, prosecution and courts, and 
+incarceration. Users can currently generate queries for up to three variables 
+from 1998 to 2012. Users can also generate queries by title and section of 
+the U.S. criminal code by processing stage from 1994 to 2012. The query tool 
+is available at www.bjs.gov.
+
+**************************************************************
+The Bureau of Justice Statistics of the U.S. Department of Justice is the 
+principal federal agency responsible for measuring crime, criminal 
+victimization, criminal offenders, victims of crime, correlates of crime, and 
+the operation of criminal and civil justice systems at the federal, state, 
+tribal, and local levels. BJS collects, analyzes, and disseminates reliable 
+and valid statistics on crime and justice systems in the United States, 
+supports improvements to state and local criminal justice information 
+systems, and participates with national and international organizations to 
+develop and recommend national standards for justice statistics. William J. 
+Sabol is acting director.
+
+This report was written by Mark Motivans. Steven W. Perry verified the 
+report.
+
+Irene Cooperman, Morgan Young, and Jill Thomas edited the report. Barbara 
+Quinn and Tina Dorsey produced the report.
+
+January 2015, NCJ 248493
+**************************************************************
+ 
+************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************************
+
+********************
+1/5/15 JER 3:15pm
+********************
+
+
+
+

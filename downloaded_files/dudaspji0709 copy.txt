@@ -1,0 +1,1362 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+------------------------------------------------------
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.csv) and the full report including tables and graphics in .pdf 
+format are available on BJS's website at:
+https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5966
+
+------------------------------------------------------
+
+******************
+Special Report
+******************
+
+************************************************
+Drug Use, Dependence, and Abuse Among State 
+Prisoners and Jail Inmates, 2007-2009
+************************************************
+
+Jennifer Bronson, Ph.D., and Jessica Stroop, 
+BJS Statisticians 
+Stephanie Zimmer and Marcus Berzofsky, 
+Dr. P.H., RTI International
+*************************************************
+
+More than half (58%) of state prisoners and two-thirds (63%) of 
+sentenced jail inmates met the criteria for drug dependence 
+or abuse, according to data collected through the 2007 and 2008-
+09 National Inmate Surveys (NIS) (figure 1). In comparison, 
+approximately 5% of the total general population age 18 or older 
+met the criteria for drug dependence or abuse. General 
+population data come from the National Survey of Drug Use and 
+Health (NSDUH) collected from 2007 to 2009 by Substance Abuse and 
+Mental Health Services Administration. Drug dependence and 
+abuse estimates in both the NIS and NSDUH data collections were 
+based on criteria specified in the Diagnostic and Statistical 
+Manual of Mental Disorders, Fourth Edition (DSM-IV).*** Footnote 
+1 Diagnostic and Statistical Manual of Mental Disorders, Fourth 
+Edition, text revision (2000). Washington. DC: American 
+Psychiatric Association.*** ***Footnote 2 The fifth edition of 
+the DSM (DSM-V) was published in May 2013. The DSM-IV was current 
+at time of data collection.***
+
+This report examines patterns of past drug use by different 
+periods (i.e., ever used, at time of offense, month before 
+arrest, and regularly used), demographics, and offense type. Drug 
+data were grouped into eight categories for analysis: 
+marijuana/hashish, cocaine/crack, heroin/opiates, depressants, 
+stimulants, methamphetamine, hallucinogens, and inhalants. 
+***Footnote 3 Depressants include barbiturates, tranquilizers, 
+and Quaaludes. Stimulants include amphetamine and 
+methamphetamine. Hallucinogens include LSD, PCP, and ecstasy.*** 
+Alcohol and nicotine were excluded from the analysis. Prevalence 
+estimates are presented for inmates who met the DSM-IV criteria 
+for drug dependence or abuse and for those who participated 
+in a drug abuse treatment program. All NIS data were self-
+reported, and the analyses include state prisoners and sentenced 
+local jail inmates.
+
+*************************************************************
+*************
+Highlights
+*************
+
+* During 2007-09, an estimated 58% of state prisoners and 63% of 
+sentenced jail inmates met the Diagnostic and Statistical Manual 
+of Mental Disorders, Fourth Edition (DSM-IV) criteria for 
+drug dependence or abuse.
+
+* Among prisoners and jail inmates, prevalence estimates for 
+those who met the criteria for dependence were two to three times 
+higher than for abuse. 
+
+* The percentage of inmates who met the DSM-IV criteria was 
+higher for those held for property offenses than those held for 
+violent or other public order offenses.
+
+* Lifetime drug use among the incarcerated populations was 
+unchanged from 2002 to 2009.
+
+* During 2007-09, prisoners (77%) and jail inmates (78%) reported 
+having ever used marijuana/hashish, more than any other drug.
+
+* During 2007-09, more females in prison (47%) or jail (60%) used 
+drugs in the month before the current offense than males in 
+prison (38%) or jail (54%).
+
+* More non-Hispanic white than non-Hispanic black prisoners 
+regularly used cocaine/crack, heroin/opiates, or 
+methamphetamines.
+
+* Among those who met the criteria for drug dependence or 
+abuse, 28% of prisoners and 22% of jail inmates participated in a 
+drug treatment program since admission.
+*************************************************************
+
+To facilitate comparisons between the inmate and general 
+population, NSDUH data on the general population were 
+standardized twice to (1) match the prison population and (2) 
+match the jail population by sex, race, Hispanic origin, and age. 
+(See Methodology.) In addition, the general population was 
+divided into three groups that were based on self-reported 
+involvement with the criminal justice system in the year prior to 
+the interview: (1) no involvement, (2) under supervision 
+(probation or parole), or (3) arrested. (See Methodology.)
+
+This report combined data from the addendums of NIS-1 (2007) and 
+NIS-2 (2008-09). (See Methodology.) The NIS-3 (2011-12) also 
+collected drug use data, but the data were not used because of 
+potential bias. For this reason, the 2007-09 data are the most 
+recent data available on drug use and drug use disorders 
+among inmates.
+
+*************************************************************
+
+**********************************************
+Measurement of drug dependence and abuse
+********************************************** 
+
+The National Inmate Survey (NIS) included questions to assess the 
+percentage of inmates who met the Diagnostic and Statistical 
+Manual of Mental Disorders, Fourth Edition (DSM-IV) criteria for 
+drug dependence or abuse. Inmates who reported having ever 
+used any drug were asked about their experiences and symptoms 
+related to their drug use in the year prior to admission to the 
+current facility. The DSM-IV criteria are guidelines designed to 
+be used with a patient’s history and sound clinical judgment in 
+order to make a diagnosis. Data presented in this report are 
+based on inmate self-reports and were not validated or confirmed 
+by a trained clinician or clinical interview. (See Methodology.)
+
+The DSM-IV defines drug dependence as a maladaptive pattern 
+of drug use leading to clinically significant impairment or 
+distress as manifested by three or more of the following 
+occurring at any time in the same 12-month period: 
+
+1.tolerance 
+
+2. withdrawal symptoms or drug taken to relieve 
+withdrawal 
+
+3. drug taken in larger amounts for longer periods than 
+intended 
+
+4. persistent desire or unsuccessful attempts to cut down or 
+control drug use 
+
+5. a lot of time is spent obtaining drugs, using them, or 
+recovering from its effects
+ 
+6. a reduction in or absence from social, occupational, or 
+recreational activities
+
+7. continued use despite adverse consequences.
+
+Unlike the criteria for drug dependence, criteria for 
+drug abuse do not include tolerance, withdrawal, or a 
+pattern of compulsive use. Instead, the abuse criteria include 
+only the harmful consequences of repeated use. Abuse is defined 
+in the DSM-IV as a maladaptive pattern of drug use leading 
+to clinically significant impairment or distress, as manifested 
+by one or more of the following, occurring at any time in the 
+same 12-month period: 
+
+1. recurrent drug use resulting in a failure to fulfill 
+major role obligations
+
+2. recurrent drug use in which it is physically hazardous
+
+3. recurrent drug-related legal problems
+
+4. continued drug use despite having persistent or 
+recurrent drug-related social problems.
+
+For any one drug, a diagnosis of dependence takes precedence 
+over a diagnosis of abuse for the same drug. This means that 
+a person who meets the dependence criteria for a particular 
+drug cannot meet the abuse criteria for that same drug. 
+The DSM-IV states that a diagnosis of drug dependence can be 
+applied to 10 drug classes: alcohol, amphetamine or similarly 
+acting sympathomimetics, cannabis, cocaine, hallucinogens, 
+inhalants, nicotine, opioids, phencyclidine (PCP) or similarly 
+acting arylcyclohexylamines, and sedatives. The category of 
+drug abuse can apply to all of these drug classes, except 
+nicotine.*** Footnote 4 The DSM-IV uses the term “classes,” which 
+is not the same as the schedule of controlled substances 
+established through the 1970 Controlled Substance Act (P.L. 
+91-513).***
+
+A diagnosis of drug dependence or abuse should be drug-
+specific (e.g., cocaine dependence or heroin abuse) and not 
+generally made based on drug use in the past year as a 
+whole. However, NIS data do not permit an analysis of dependence 
+or abuse symptoms by individual drug type. As such, dependence 
+and abuse data presented in this report are not drug-
+specific.
+*************************************************************
+
+*********************************
+Drug dependence and abuse
+*********************************
+
+During 2007-09, more than half of state 
+prisoners and two-thirds of sentenced 
+jail inmates met the DSM-IV criteria for 
+drug dependence or abuse
+***********************************************
+
+About 58% of state prisoners and 63% of sentenced jail inmates 
+during 2007-09 met the DSM-IV criteria for drug dependence 
+or abuse for any drug (table 1). Among state prisoners, 42% met 
+the criteria for drug dependence and 17% met the criteria 
+for abuse. The percentage of state prisoners who met the criteria 
+for dependence was the same as those who did not meet the 
+criteria for either dependence or abuse (42% each). Sentenced 
+jail inmates were about three times as likely to have met the 
+criteria for drug dependence (47%) than those who met the 
+criteria for abuse (16%). For sentenced jail inmates, the 
+percentage of those who met the criteria for dependence (47%) was 
+higher than those who did not meet the criteria for either 
+dependence or abuse (37%).
+
+Female inmates were more likely than male 
+inmates to have met the DSM-IV criteria 
+for drug dependence or abuse
+***********************************************
+
+Approximately 7 in 10 females in state prison (69%) or jail (72%) 
+met the DSM-IV criteria for dependence or abuse, compared to 
+about 6 in 10 males in prison (57%) or jail (62%) (table 2). A 
+larger percentage of non-Hispanic white state prisoners (62%) and 
+sentenced jail inmates (72%) met the criteria for dependence or 
+abuse than non-Hispanic black inmates in prison (55%) or jail 
+(57%). Hispanic inmates (58% in prison and 55% in jail) were also 
+less likely than white inmates to have met the criteria. 
+Approximately 26% of prisoners and 40% of sentenced jail inmates 
+age 55 or older met the criteria for dependence or abuse. These 
+numbers were less than the 64% of prisoners and 62% of sentenced 
+jail inmates ages 18 to 24 who met the same criteria.
+
+Inmates incarcerated for a property offense 
+were more likely to have met the criteria 
+for dependence or abuse than inmates 
+incarcerated for other offenses
+***********************************************
+
+About 54% of state prisoners and 61% of sentenced jail inmates 
+incarcerated for violent offenses met the DSM-IV criteria for 
+drug dependence or abuse. This was lower than the percentage 
+of prisoners and jail inmates incarcerated for property (68% of 
+prisoners and 72% of jail inmates) or drug (67% and 74%) 
+offenses. Among prisoners who met the criteria for drug 
+dependence or abuse, there was no difference in the percentage 
+incarcerated for violent offenses (54%), DWI/DUI offenses (55%), 
+or other public order offenses (55%). Among jail inmates, 45% of 
+those incarcerated for DWI/DUI and 51% for public order offenses 
+met the criteria.
+
+State prisoners were 12 times more likely 
+than adults in the general population to have 
+met the criteria for dependence or abuse
+***********************************************
+
+The NSDUH general population data included adults age 18 or older 
+and were standardized to match the prison population by sex, 
+race, Hispanic origin, and age. The general population was 
+divided into three groups based on their self-reported 
+involvement in the criminal justice system during the year prior 
+to the interview: (1) no involvement, (2) under supervision 
+(probation or parole) or (3) arrested. A total general population 
+was also included, which combined all three groups into one 
+category.
+
+The percentage of state prisoners who met the DSM-IV criteria for 
+drug dependence or abuse (58%) was 12 times higher than 
+adults in the total general population (5%) and 14 times higher 
+than the general population (4%) that was not criminally involved 
+with the justice system (table 3). Adults in the general 
+population who had been on probation or parole (12%) or who had 
+been arrested in the past 12 months (19%) were more likely to 
+have met the criteria for drug dependence or abuse than 
+their noncriminally involved counterparts (4%).
+
+Similar to the pattern observed among prisoners, a larger 
+percentage of people in each general population group met the 
+criteria for drug dependence than abuse. Among persons not 
+involved in the criminal justice system, 2% met the criteria for 
+drug dependence and 1% met the criteria for drug abuse. 
+A larger percentage of adults on probation or parole met the 
+criteria for drug dependence (10%) than abuse (3%). This 
+pattern was similar for adults who were arrested: 15% met the 
+criteria for drug dependence compared to 5% for abuse. 
+
+Jail inmates were more likely to have met 
+the criteria for dependence or abuse than 
+those in the general population who had 
+been arrested
+***********************************************
+
+Approximately two-thirds (63%) of the sentenced jail population 
+met the DSM-IV criteria for either drug dependence or abuse 
+(table 4). This was more than 10 times the percentage of adults 
+in the standardized general population (6%), and almost 15 times 
+the percentage of the noncriminally involved standardized general 
+population who met the criteria for drug dependence or abuse 
+(4%). The percentage of sentenced jail inmates who met the 
+criteria for drug dependence (47%) was about three times 
+larger than those who met the criteria for drug abuse (16%). 
+This pattern was the same for the general population on probation 
+or parole (11% for drug dependence and 3% for abuse) and for 
+those who were arrested in the past 12 months (16% drug 
+dependence and 5% for abuse).
+
+***********************************************
+Trends in lifetime and regular use of 
+drugs by state prisoners and jail inmates
+***********************************************
+
+Overall drug use reported by inmates was 
+unchanged from past surveys
+***********************************************
+
+Lifetime use and regular use of drugs by state prisoners and 
+sentenced jail inmates remained relatively stable. During 2007-
+09, an estimated 81% of persons in prisons and 84% of those in 
+jail reported ever using any drug in their lifetime (table 5). 
+These percentages were virtually unchanged from the 83% of 
+prisoners (based on BJS’s 2004 Survey of Inmates in State 
+Correctional Facilities) and 85% of sentenced jail inmates (based 
+on BJS’s 2002 Survey of Inmates in Local Jails) reported ever 
+using drugs.
+
+Since the 2002 and 2004 surveys, regular use of drugs slightly 
+increased among prisoners and jail inmates during 2007-09. 
+Regular use was defined as having ever used any drug once a week 
+or more for at least a month. In 2004, 69% of prisoners regularly 
+used drugs and in 2002, 71% of jail inmates regularly used drugs. 
+These numbers were similar to 72% of prisoners and 75% of jail 
+inmates who regularly used drugs during 2007-09.
+
+More state prisoners and jail inmates 
+reported they had ever used marijuana/hashish 
+than any other drug
+***********************************************
+
+Among state prisoners, marijuana/hashish was the most often 
+reported drug type (77%) during 2007-09, followed by 
+cocaine/crack (47%). In 2004, the percentage of prisoners who had 
+ever used marijuana/hashish (78%) and cocaine/crack (47%) were 
+nearly the same.
+
+Nearly 42% of prisoners during 2007-09 said they had ever used 
+hallucinogens, which was up from the 33% who reported its use in 
+2004. Likewise, the percentage of state prisoners who had ever 
+used depressants increased from 21% in 2004 to 30% during 2007-
+09. Regular use of depressants among state prisoners almost 
+doubled between 2004 and 2007-09, increasing from 10% to 18%. 
+Regular use of hallucinogens prior to incarceration also 
+increased, from 13% in 2004 to 22% during 2007-09. 
+
+During 2007-09, the percentages of sentenced jail inmates who had 
+ever used or regularly used drugs were similar to prisoners. 
+Marijuana/hashish (78%) and cocaine/crack (52%) were the most 
+frequently used drugs that jail inmates had ever used. This 
+pattern did not change from 2002. Between 2002 and 2007-09, a 
+larger percentage of jail inmates reported ever using 
+heroin/opiates (21% in 2002 and 28% during 2007-09), depressants 
+(22% and 34%), stimulants (29% and 34%), and hallucinogens (34% 
+and 46%).
+
+An estimated 75% of sentenced jail inmates reported regular use 
+of any drug during 2007-09, compared to 70% in 2002. The 
+percentage of jail inmates who regularly used a drug increased 
+across all but one drug type from 2002 to 2007-09. About 39% of 
+jail inmates during 2007-09 reported regular use of 
+cocaine/crack, compared to 32% of those in 2002. Regular use of 
+depressants during 2007-09 by jail inmates (21%) was twice that 
+of the percentage who reported the same in 2002 (11%). The 
+percentage of jail inmates who reported regular use of 
+heroin/opiates increased from 12% in 2002 to 19% during 2007-09, 
+stimulants increased from 18% to 24%, and hallucinogens from 14% 
+to 23%.
+
+***********************************************
+Patterns of drug use at time of the offense
+***********************************************
+
+4 in 10 prisoners and jail inmates used drugs 
+at the time of the offense for which they were 
+currently incarcerated
+***********************************************
+
+During 2007-09, about 4 in 10 state prisoners (42%) and sentenced 
+jail inmates (37%) said they used drugs at the time of the 
+offense for which they were currently incarcerated (table 6). 
+Among prisoners, 22% reported marijuana/hashish use at time of 
+the offense, 16% reported cocaine/crack use, 11% reported 
+stimulant use, and 7% reported heroin/opiate use. Among sentenced 
+jail inmates, 19% reported using marijuana/hashish at time of the 
+offense, 13% reported cocaine/crack use, and 8% reported 
+stimulant and heroin/opiate use.
+
+About 4 in 10 state prisoners and sentenced 
+jail inmates who were incarcerated for property 
+offenses committed the crime to get money for 
+drugs or to obtain drugs
+***********************************************
+
+About 21% each of state prisoners and sentenced jail inmates said 
+their most serious current offense was committed to get money for 
+drugs or to obtain drugs (table 7). A larger percentage of 
+prisoners (39%) and jail inmates (37%) held for property offenses 
+said they committed the crime for money for drugs or drugs than 
+other offense types. Nearly a third of drug offenders (30% of 
+state prisoners and 29% of jail inmates) said they committed the 
+offense to get drugs or money for drugs. Approximately 1 in 6 
+state prisoners (15%) and jail inmates (14%) who committed 
+violent offenses said they did so to get money for drugs or to 
+obtain drugs.
+
+***********************************************
+Drug use by demographics and offense
+***********************************************
+
+Among state prisoners, females, whites, and 
+those age 54 or younger were more likely than 
+other persons to have used drugs in the month 
+before the offense
+***********************************************
+
+About 39% of state prisoners during 2007-09 used drugs in the 
+month before the offense, and 42% used drugs at the time of 
+offense (table 8). For both 2004 and 2007-09, reference periods, 
+female prisoners were more likely to have used drugs than their 
+male counterparts. An estimated 47% of females used drugs in the 
+month before and 49% at the time of the offense, compared to 38% 
+of males who used drugs in the month before and 41% at time of 
+the offense.
+
+Black and Hispanic prisoners were less likely than white 
+prisoners to report drug use in the month before or at the time 
+of the offense. The percentage of prisoners who reported drug use 
+in the month before the offense declined with age. About 47% of 
+prisoners ages 18 to 24 used drugs in the month before the 
+offense, compared to 36% of those ages 45 to 54 and 16% of those 
+55 or older. Drug use at the time of the offense varied less 
+across age groups, with about 42% to 45% of prisoners age 54 or 
+younger reporting use. However, prisoners age 55 or older were 
+significantly less likely to have used drugs at time of the 
+offense (19%) than prisoners of other age groups.
+
+State prisoners incarcerated for property or 
+drug offenses were more likely to have used 
+drugs than those who committed violent offenses
+***********************************************
+
+During 2007-09, state prisoners whose most serious current 
+offense was a violent offense were less likely to have used drugs 
+in the month before the offense (34%) than those incarcerated for 
+a property crime (47%), drug offense (47%), or public order 
+offense (44%).
+
+Four in 10 (40%) prisoners incarcerated for violent crimes said 
+they used a drug at time of the offense. This was lower than the 
+percentage of prisoners incarcerated for a property offense (50%) 
+or a drug offense (50%) but more than the percentage incarcerated 
+for a DWI/DUI (28%) or other public order offense (29%).
+
+Female jail inmates were more likely than male 
+inmates to have used drugs in the month before 
+the offense or at the time of the offense 
+***********************************************
+
+More than half (54%) of sentenced jail inmates during 2007-09 
+used a drug in the month before the offense. About 37% used a 
+drug at the time of the offense. Much like the demographic 
+profile of state prisoners, a larger percentage of females than 
+males in jail reported drug use in the month before the offense 
+or at the time of the offense. Sentenced jail inmates who were 
+black, Hispanic, or of other races were less likely than white 
+inmates to report drug use in the month before or at the time of 
+the offense. About 61% of sentenced jail inmates ages 18 to 24 
+used drugs in the month before their offense, and this percentage 
+decreased among older groups. In comparison, fewer jail inmates 
+ages 18 to 24 used drugs at the time of the offense (36%) than 
+those ages 25 to 34 (41%) and 35 to 44 (40%).
+
+More than half of sentenced jail inmates 
+incarcerated for a drug crime used drugs 
+at the time of the offense
+***********************************************
+
+When assessed by offense type, sentenced jail inmates had a 
+similar pattern of drug use in the month before the offense. 
+About 2 in 3 jail inmates incarcerated for property offenses 
+(63%) or drug offenses (67%) used drugs in the month before the 
+offense. These percentages were higher than that of jail inmates 
+(54%) who were incarcerated for a violent offense and used drugs 
+in the month before arrest. Jail inmates incarcerated for DWI/DUI 
+(24%) or other public order offenses (43%) were the least likely 
+to have used drugs in the month before the offense. A smaller 
+percentage of inmates incarcerated for violent offenses (37%) 
+than for property (46%) or drug (51%) offenses used drugs at the 
+time of the offense.
+
+***********************************************
+Regular use of cocaine/crack, methamphetamine, 
+or heroin/opiates by demographics
+***********************************************
+
+Patterns of regular drug use differed by race and Hispanic 
+origin. White inmates in prison or jail were more likely than 
+black or Hispanic inmates to have regularly used any drug. Black 
+prisoners were the least likely to have regularly used 
+cocaine/crack (28%), compared to whites (42%) and Hispanics (31%) 
+(figure 2). Among jail inmates, 31% of blacks, 47% of whites, and 
+29% of Hispanics regularly used cocaine/crack (figure 3). Black 
+inmates were the least likely among prisoners and jail inmates to 
+report regular use of methamphetamine or heroin/opiates.
+
+Cocaine/crack
+***************
+
+During 2007-09, regular use of cocaine/crack 
+was highest among females, whites, inmates 
+ages 35 to 44, and property offenders
+***********************************************
+
+Almost half of female state prisoners (49%) and sentenced jail 
+inmates (48%) regularly used cocaine/crack (table 9). Among male 
+inmates, 31% of those in prison and 36% of those in jail 
+regularly used cocaine/crack.
+
+Regular use of cocaine/crack was highest among inmates ages 45 to 
+54 (42% of state prisoners and 52% of jail inmates). A quarter of 
+prisoners (26%) and jail inmates (24%) ages 18 to 24 said they 
+regularly used cocaine/crack.
+
+A larger percentage of state prisoners incarcerated for property 
+(45%) or drug (37%) offenses than violent offenses (29%) said 
+they regularly used cocaine/crack. Among sentenced jail inmates, 
+48% of those incarcerated for property offenses, 43% for drug 
+offenses, and 34% for violent offenses reported regular use of 
+cocaine/crack during 2002-09.
+
+Methamphetamine
+*****************
+
+Female inmates were more likely than male 
+inmates to have regularly used methamphetamine 
+during 2007-09
+***********************************************
+
+Among both prisoners and jail inmates, a larger percentage of 
+females (31% for prison and 26% for jail) than males (17% each) 
+reported regular use of methamphetamine (table 10).
+
+About 19% of prisoners in each age group age 54 or younger 
+reported regular use of methamphetamine, compared to 8% of 
+prisoners age 55 or older. Jail inmates ages 25 to 44 (21%) were 
+more likely to have regularly used methamphetamine than those 
+ages 18 to 24 (14%).
+
+A higher percentage of white (34%) than black (2%) prisoners 
+regularly used methamphetamine. Among jail inmates, 31% of whites 
+and 3% of blacks regularly used methamphetamine. Among Hispanics 
+in state prison or jail, about 19% of each population regularly 
+used methamphetamine.
+
+More state prisoners incarcerated for property offenses (28%) 
+than violent offenses (14%) reported regular use of 
+methamphetamine. Among sentenced jail inmates, a larger 
+percentage of those incarcerated for property (24%) or drug (23%) 
+offenses than violent offenses (16%) reported regular use of 
+methamphetamine.
+
+Heroin/opiates
+*****************
+
+Regular use of heroin/opiates was lowest among 
+black prisoners and jail inmates during 2007-09
+***********************************************
+
+About 1 in 4 females in state prison (22%) or jail (25%) reported 
+regular use of heroin/opiates, compared to about 1 in 6 males in 
+prison (15%) or jail (17%) (table 11).
+
+Twenty-two percent of both prisoners and jail inmates ages 45 to 
+54 reported they regularly used heroin/opiates. These percentages 
+were higher than those ages 18 to 24 who said they regularly used 
+heroin/opiates among prisoners (12%) and jail inmates (14%).
+
+Three times more whites (25%) than blacks (8%) in prison 
+regularly used heroin/opiates. Almost four times more whites 
+(30%) than blacks (8%) in jail regularly used heroin/opiates. 
+Hispanics in prison (16%) and jail (12%) were also less likely 
+than white inmates to have regularly used heroin/opiates.
+
+Prisoners (25%) and jail inmates (24%) incarcerated for property 
+offenses had higher rates of regular use of heroin/opiates than 
+those incarcerated for violent offenses (13% for prisoners and 
+15% for jail inmates). Seventeen percent of prisoners and 23% of 
+jail inmates incarcerated for drug offenses said they regularly 
+used heroin/opiates.
+
+***********************************************
+Estimates of lifetime and regular use of drugs 
+among adults in the general population
+***********************************************
+
+Little to no change occurred in the percentage 
+of adults in the general population who had 
+ever used or regularly used drugs between 
+2002-04 and 2007-09
+***********************************************
+
+During the 3-year aggregate period from 2002 to 2004, about half 
+(48%) of adults in the general population said they had ever used 
+drugs (figure 4). Nearly the same percentage of adults (49%) in 
+the general population reported ever using any drug during 2007-
+09. Among adults in the general population who had ever used 
+drugs, there was little to no difference by drug type between 
+reference periods. In both periods, about 44% of adults in the 
+general population said they had ever used marijuana/hashish, 
+compared to 16% who ever used cocaine/crack, 16% who ever used 
+hallucinogens, and 15% who ever used heroin/opiates. 
+Methamphetamine was the least reported, with 5% of adults in the 
+general population who said they had ever used the drug.
+
+There was virtually no variation observed between 2002-04 and 
+2007-09 in the percentage of adults in the general population who 
+reported regular use of drugs (figure 5). For the adult general 
+population, regular use was defined as use of any drug at least 
+once in the past month prior to the interview. During 2007-09, 
+fewer than 1 in 10 (8%) adults in the general population reported 
+regular use of drugs.
+
+Month-before drug use among prisoners was three 
+times higher than the general population
+***********************************************
+
+Drug use for the month-before reference period was defined 
+differently for the general population and inmates. For the 
+general population, it was the percentage who reported drug use 
+in the month before the interview. For both prisoners and jail 
+inmates, it was the percentage who said they used drugs in the 
+month before their arrest.
+
+During 2007-09, the percentage of prisoners (39%) who reported 
+drug use in the month before arrest was more than three times 
+higher than the standardized adult general population (12%) and 
+five times higher than the unstandardized adult general 
+population (8%) (table 12). Twenty-four percent of the general 
+population on probation or parole and 32% of those who were 
+arrested in the past year reported drug use in the past month.
+
+For almost every drug type, prisoners were significantly more 
+likely than adults in the general population to have used it in 
+the month before the arrest or interview. However, the exceptions 
+were adults in the general population who were arrested in the 
+past year. They were as likely as prisoners to have used 
+marijuana/hashish (27%) and heroin/opiates (7%) in the month 
+before the interview.
+
+Among prisoners and adults in the general 
+population, marijuana/hashish was reported 
+as the most used drug in the month before 
+the arrest or interview
+***********************************************
+
+State prisoners (28%) and adults in the general population (10%) 
+reported more past month use of marijuana/hashish than any other 
+drug. However, prisoners reported cocaine/crack (15%) as the 
+second most used drug in the month before. Adults in the general 
+population reported heroin/opiates (2%) as the second most 
+reported drug used in the month before. 
+
+The use of stimulants in the month before was higher among 
+prisoners (10%) than adults in the general population (0.4%) and 
+those with no past year criminal justice involvement (0.4%). 
+Stimulant use was also higher among prisoners than among adults 
+in the general population on probation or parole (2%) and those 
+who had been arrested (2%).
+
+Sentenced jail inmates were more likely than 
+the general population to have used drugs in 
+the prior month
+***********************************************
+
+During 2007-09, more than half (55%) of sentenced jail inmates 
+used drugs in the month before the arrest (table 13). This 
+compares to 12% of adults in the standardized general population 
+with no criminal justice involvement, 14% of adults in the 
+standardized general population, 27% of those on probation or 
+parole, and 35% of those who had been arrested in the past year.
+
+Across all drug types, sentenced jail inmates were more likely 
+than adults in the general population to have used the drug in 
+the month prior to their interview. This pattern also held for 
+each subgroup of adults in the general population by criminal 
+justice involvement.
+
+Compared to the standardized total general population, sentenced 
+jail inmates were more likely to have reported past month 
+stimulant use (12% for jail inmates and 1% for the general 
+population), to have used cocaine/crack (21% and 1%), and to have 
+used depressants (12% and 1%).
+
+***********************************************
+Participation in drug treatment programs
+***********************************************
+
+Fewer than a third of inmates who met the 
+criteria for drug dependence or abuse 
+received drug treatment or participated in 
+a program
+***********************************************
+
+Among inmates who met the DSM-IV criteria for drug 
+dependence or abuse, 28% of prisoners and 22% of jail inmates 
+said they received drug treatment or participated in a program 
+since admission to the current facility (table 14). However, 
+inmates may have participated in or received more than one type 
+of treatment program. Nineteen percent of those in prison said 
+they participated in a self-help group or peer counseling, 15% 
+were in a drug education program, 10% were placed in a 
+residential facility or unit, and 6% received drug-related 
+counseling by a professional. In comparison, about 12% of 
+sentenced jail inmates who met the DSM-IV criteria participated 
+in a self-help group or peer counseling, 8% were in a drug 
+education program, 8% were placed in a residential facility or 
+unit, and 6% received drug-related counseling by a professional.
+
+Prisoner and jail inmate participation in a 
+drug treatment program did not differ by time 
+since arrival to the current facility or 
+time until release
+***********************************************
+
+Prisoner and jail inmate participation in a drug treatment 
+program was assessed by time spent in the current facility since 
+arrival and expected time left until release. Among prisoners who 
+met the criteria for dependence or abuse and had been in the 
+current facility for 6 months or less, 60% received or 
+participated in a drug treatment program during 2007-09 (table 
+15). Of those prisoners who met the criteria for dependence or 
+abuse and had 12 months or less before release, 64% said they had 
+participated in a drug treatment program.
+
+Among sentenced jail inmates who met the criteria for dependence 
+or abuse and had been in the current facility for 6 months or 
+less, 63% participated in a drug treatment program. The same 
+percentage of jail inmates who met the criteria and had 12 months 
+or less until release participated in a drug treatment program 
+(63%).
+
+More inmates who met the criteria for 
+dependence or abuse participated in a drug 
+treatment program than adults in the 
+general population
+***********************************************
+
+An estimated 11% of adults in the general population who met the 
+DSM-IV criteria for drug dependence or abuse received or 
+participated in a drug treatment program in the past 12 months 
+prior to the interview (table 16). (See Methodology.) Among 
+adults in the general population who met the criteria for 
+dependence or abuse, criminal justice involvement increased the 
+likelihood of past year participation in a drug treatment 
+program. When standardized to match the prison population by sex, 
+race, Hispanic origin, and age, about 8% of adults in the general 
+population who met the criteria for dependence or abuse and had 
+no past year criminal justice involvement received or 
+participated in a drug treatment program in the past year. In 
+comparison, 35% of the probation or parole population and 30% of 
+those arrested in the past year were in a drug treatment program.
+
+Adults in the general population who met the criteria for 
+dependence or abuse and who participated in a drug treatment 
+program in the past year reported more often that it was a self-
+help group compared to other treatment program type. When 
+standardized to match the prison population by sex, race, 
+Hispanic origin, and age, 30% of those on probation or parole, 
+23% of those who were arrested, 10% of adults in the total 
+general population, and 5% of noncriminally justice-involved 
+adults in the past year reported they had attended a self-help 
+group. Of those adults who met the criteria for dependence or 
+abuse and participated in a drug treatment program in the past 
+year, 5% of those on probation or parole and 4% of those who were 
+arrested reported that the location of this drug treatment 
+program was in a prison or jail.
+
+**************
+Methodology
+**************
+
+***********************************************
+National Inmate Surveys, 2007 and 2008-09
+***********************************************
+
+Estimates produced for this report are based on survey responses 
+from the National Inmate Survey, 2007 (NIS-1) and the National 
+Inmate Survey, 2008-09 (NIS-2). The NIS-1 was conducted in 127 
+state prisons, 14 federal prisons, and 282 local jails between 
+April and December 2007. The NIS-2 was conducted in 148 state 
+prisons, 19 federal prisons, 286 local jails, and 10 special 
+facilities (military, Indian country, and Immigration and Customs 
+Enforcement (ICE)) between October 2008 and December 2009. RTI 
+International, under a cooperative agreement with the Bureau of 
+Justice Statistics (BJS), collected the data for both 
+collections.
+
+The NIS-1 and NIS-2 administered two questionnaires to inmates: 
+(1) a survey about sexual victimization while incarcerated and 
+(2) a survey about prior drug and alcohol use, drug 
+dependence and abuse symptoms, and treatment for drug 
+dependence or abuse. Inmates were randomly assigned to receive 
+one of the two questionnaires, so that at the time of the 
+interview, the content of the survey remained unknown to facility 
+staff and the interviewers.
+
+A total of 71,571 inmates participated in NIS-1 and 81,566 
+inmates participated in NIS-2 receiving either the sexual 
+victimization survey or the randomly assigned companion survey. 
+In NIS-1, the surveys were administered to 22,943 inmates in 
+state prisons, 3,214 federal prisons, and 45,414 inmates in 
+jails. In NIS-2, the surveys were administered to 28,749 state 
+prisoners, 3,280 federal prisoners, 48,066 inmates in jails, and 
+1,471 inmates in special facilities.
+
+The interviews, which averaged 30 minutes, used computer-assisted 
+personal interviewing (CAPI) and audio computer-assisted self-
+interviewing (ACASI) data collection methods. In both surveys, 
+interviewers conducted a personal interview using CAPI to obtain 
+background information and date of administration. For the 
+remainder of the interview, inmates interacted with a computer 
+administered questionnaire using a touchscreen and synchronized 
+audio instructions delivered via headphones. Respondents 
+completed the ACASI portion of the interview in private, with the 
+interviewer either leaving the room or moving away from the 
+computer. ACASI administration helped to elicit more candid 
+responses on sensitive subjects and behaviors, eliminated 
+literacy issues, and protected respondents’ privacy. While 
+underreporting of behaviors may exist, the relative extent is 
+unknown.
+
+A shorter paper questionnaire (PAPI) was made available for 
+inmates who were unable to come to the private interviewing room 
+or interact with the computer. The paper form was completed by 
+530 NIS-1 and 496 NIS-2 prisoners (or 2.0% for NIS-1 and 1.5% for 
+NIS-2 prisoner interviews) and 233 NIS-1 and 226 NIS-2 jail 
+inmates (0.5% of all jail inmate interviews in both NIS-1 and 
+NIS-2). Inmates who completed the PAPI were not asked about their 
+prior drug and alcohol use or treatment for drug abuse.
+
+Additional information on the methodology for sample selection of 
+facilities and inmates can be found in Sexual Victimization in 
+Local Jails Reported by Inmates, 2007 (NCJ 221946, BJS web, June 
+2008), Sexual Victimization in State and Federal Prisons Reported 
+by Inmates, 2007 (NCJ 219414, BJS web, December 2007), and Sexual 
+Victimization in Prisons and Jails Reported by Inmates, 2008-09 
+(NCJ 231169, BJS web, August 2010).
+
+In this report, the analysis of past drug use, drug 
+dependence and abuse symptoms, and treatment was restricted to 
+adult state prisoners or jail inmates. Inmates in federal 
+prisons, military, Indian country, or ICE facilities were 
+excluded from this report.
+
+***********************************************
+Measurement of prior drug use and drug 
+abuse treatment
+***********************************************
+
+Prior drug use, drug dependence and abuse symptoms, and 
+treatment modules were administered to participating inmates in 
+the NIS-1 and NIS-2 for one of two reasons:
+
+1. To ensure the survey length was similar for all 
+participating prisoners and jail inmates regardless of 
+whether they had experienced a victimization.
+
+2. As part of the alternative survey, the drug use questions 
+consisted of an initial screener asking about each type of 
+drug a prisoner or jail inmate may have used in their 
+lifetime prior to incarceration. For each drug that an 
+inmate had used, follow-up questions were asked about the 
+frequency of use and periods in which the inmate used the 
+drug (e.g., month prior to the offense, at the time of the 
+offense).
+
+Questions on past drug use consisted of an initial screener 
+asking about eight types of drugs a prisoner or jail inmate may 
+have ever used in their lifetime: marijuana/hashish, 
+cocaine/crack, heroin/opiates, depressants, stimulants, 
+methamphetamine, hallucinogens, and inhalants. For each drug that 
+an inmate said they had ever used, follow-up questions were asked 
+about the frequency in which each drug was used and periods in 
+which the inmate used the drug (e.g., month prior to the offense 
+or at the time of the offense).
+
+Prisoners and jail inmates who met the drug dependence or 
+abuse criteria were asked if they had attended any kind of drug 
+treatment program since admission to the current facility. Drug 
+treatment programs were defined as (1) spending time in a special 
+facility or unit, (2) counseling with a trained professional 
+while not living in a special facility or unit, (3) spending up 
+to 72 hours in a detoxification unit to dry out, (4) receiving a 
+maintenance drug to cut the high or to make you sick (e.g., 
+methadone), (5) self-help or peer group counseling (e.g., 
+Narcotics Anonymous), or (6) an education or awareness program 
+that explained the problems with drug use.
+
+Among prisoners and jail inmates who received the sexual 
+victimization survey (90% of inmates surveyed in NIS-1 and 95% of 
+inmates surveyed in NIS-2), inmates received the prior drug use, 
+dependence and abuse symptoms, and treatment components only if 
+they completed the sexual victimization modules in less than 30 
+minutes. Based on this criterion, 38,008 state prisoners received 
+the past drug use and drug abuse treatment modules (80% of 
+sexual victimization survey prison respondents). Among jail 
+respondents, 73,396 inmates received the past drug use and 
+drug abuse treatment modules (86% of jail sexual 
+victimization survey respondents).
+
+A total of 3,432 state prisoners and 6,577 jail inmates 
+were randomized to the alternative survey. This constituted 10% 
+of NIS-1 respondents and 5% of NIS-2 respondents. These prisoners 
+and jail inmates received the full set of past drug use, 
+dependence and abuse symptoms, and treatment modules.
+
+***********************************************
+Measurement of drug dependence and abuse
+***********************************************
+
+To determine if a prisoner or jail inmate met the criteria for 
+drug dependence or abuse, a series of questions was modeled 
+after the DSM-IV criteria and included on the NIS surveys. The 
+following NIS questions were used to assess drug dependence 
+with the corresponding DSM-IV criteria category in parentheses. A 
+positive response to three or more of the items indicated that a 
+prisoner or jail inmate likely met the DSM-IV criteria for 
+dependence.
+
+During the year before you were admitted to the current 
+facility--
+
+1. Did your usual amount of drugs have less effect on you than 
+it once did or did you have to use more to get the effect 
+you wanted? (tolerance)
+
+2. Did you experience some of the bad after-effects of using 
+drugs after cutting down or stopping your drug use—like 
+shaking, feeling nervous or anxious, sick to your stomach, 
+restless, sweating, or having trouble sleeping or fits or 
+seizures, or see, feel, or hear things that weren’t really 
+there? (withdrawal-a)
+
+3. Did you ever keep using drugs to get over any of the bad 
+after-effects of a drug or to keep from having bad after-
+effects? (withdrawal-b)
+
+4. Did you often use a drug in larger amounts or for longer 
+periods than you meant to? (compulsive use)
+
+5. Did you more than once want to cut down on your drug use or 
+try to cut down on your drug use but found you couldn’t do 
+it? (impaired control)
+
+6. Did you spend a lot of time getting drugs, using them, or 
+getting over the bad after-effects? (time spent)
+
+7. Did you give up activities that you were interested in or 
+that were important to you in favor of using drugs like—
+work, school, hobbies, or associating with family and 
+friends? (neglect of activities)
+
+8. Did you continue to use drugs even though it was causing 
+emotional or psychological problems? (continued use despite 
+problems-a)
+
+9. Did you continue to use drugs even though it was causing 
+physical health or medical problems? (continued use despite 
+problems-b)
+
+For each symptom, the percentage of prisoners reporting they 
+experienced symptoms ranged from 31% (withdrawal) to 40% 
+(continued use despite problems) (table 17). Approximately 45% of 
+prisoners had no dependence symptoms, 8% had one, and 47% had two 
+or more. For jail inmates, the percentage who experienced 
+symptoms ranged from 37% (withdrawal, time spent obtaining and 
+using, and neglect of activities) to 46% (continued use despite 
+problems). Thirty-nine percent of jail inmates had no dependence 
+symptoms, 8% had one, and 53% had two or more.
+
+The following NIS questions were used to measure if a person met 
+the drug abuse criteria. The corresponding DSM-IV criteria 
+category follows in parentheses. A positive response to one or 
+more of the items, in conjunction with fewer than three positive 
+responses to the dependence items, indicated that a prisoner or 
+jail inmate was likely to have met the criteria for drug 
+abuse.
+
+During the year before you were admitted to the current this 
+facility--
+
+1. Did you lose a job because of your drug use? (failure to 
+fulfill obligations-a)
+
+2. Did you have job or school trouble because of your drug 
+use, like missing too much work, not doing your work well, 
+being demoted at work, or dropping out of school? (failure 
+to fulfill obligations-b)
+
+3. Did using drugs or being sick from using drugs keep you 
+from doing work, going to school, or caring for children? 
+(failure to fulfill obligations-c)
+
+4. Did you get into situations while using drugs or just after 
+using drugs that increased your chances of getting hurt—
+like driving a car or other vehicle, swimming, using 
+machinery, or walking in a dangerous area or around 
+traffic? (use in hazardous situations)
+
+5. Did you get arrested or held at a police station because of 
+your drug use? (legal problems)
+
+6. Did you have arguments with your spouse, boyfriend or 
+girlfriend, family, or friends while under the influence of 
+a drug? (social problems-a)
+
+7. Did you get into a physical fight while under the influence 
+of a drug? (social problems-b)
+
+8. Did you continue to use drugs even though it was causing 
+problems with family, friends, or work?” (social problems-c)
+
+For each abuse symptom, the percentage of prisoners reporting 
+they experienced symptoms ranged from 28% (legal problems) to 52% 
+(social problems) (table 18). Approximately 43% of prisoners had 
+no abuse symptoms, 14% had one, and 43% had two or more. Among 
+jail inmates, the percentage who met each abuse symptoms ranged 
+from 31% (use in hazardous situations) to 56% (social problems). 
+Thirty-eight percent had no symptoms, 14% had one, and 48% had 
+two or more.
+
+*****************************
+Nonresponse bias analysis
+*****************************
+
+Bias occurs when the estimated prevalence of an outcome is 
+different from the actual prevalence of the outcome for a given 
+facility. One potential source of bias is nonresponse. A 
+nonresponse bias analysis was conducted to determine if prisoners 
+or jail inmates who did not receive the past drug use, alcohol, 
+and drug abuse treatment modules were different from those 
+who did.
+
+Among the sexual victimization survey respondents, there were two 
+potential sources for nonresponse bias. First, due to time 
+limitations in the survey, about 20% of ACASI state prison 
+respondents and 16% of ACASI jail respondents did not receive the 
+drug, alcohol, and treatment modules. These respondents were more 
+likely to have indicated a sexual victimization. While these 
+percentages were large, it was determined to be possible to 
+adjust for this potential bias through a post-survey weight 
+adjustment (see section on Weighting and nonresponse 
+adjustments). Second, prisoners or jail inmates who took the 
+survey via PAPI did not receive the past drug use, dependence, or 
+abuse symptoms, or treatment modules. The sexual assault survey 
+PAPI respondents were found to have a higher prevalence of sexual 
+victimization. Given that the PAPI respondents made up 1.8% of 
+prison respondents and 0.5% of jail respondents across the 
+combined survey years, it was determined that a weight adjustment 
+could reduce the potential bias due to PAPI respondents not being 
+asked the past drug use and drug abuse items.
+
+For the alternative survey, since all respondents completed the 
+survey via ACASI, there was no potential for bias due to the mode 
+of the interview.
+
+***********************************************
+Weighting and nonresponse adjustments
+***********************************************
+
+Responses from interviewed prisoners and jail inmates were 
+weighted to produce national-level estimates. Each interviewed 
+inmate was assigned an initial weight corresponding to the 
+inverse of the probability of selection within each sampled 
+facility. A series of adjustment factors was applied to the 
+initial weight to minimize potential bias due to nonresponse and 
+to provide national estimates:
+
+1. The adjustment of overall survey nonresponse is described 
+in detail in Sexual Victimization in Local Jails Reported 
+by Inmates, 2007 (NCJ 221946, BJS web, June 2008), Sexual 
+Victimization in State and Federal Prisons Reported by 
+Inmates, 2007 (NCJ 219414, BJS web, December 2007), and 
+Sexual Victimization in Prisons and Jails Reported by 
+Inmates, 2008-09 (NCJ 231169, BJS web, August 2010).
+
+2. A second weighting adjustment was conducted to account for 
+the potential bias due to survey mode nonresponse among the 
+sexual victimization survey respondents. Bias could result 
+if the PAPI respondents were different from the ACASI 
+respondents. Because PAPI respondents received only the 
+sexual victimization survey, this adjustment was not 
+applied to alternative survey respondents. The adjustment 
+for mode nonresponse included a calibration of the weights 
+so that the weight from a PAPI respondent was assigned to 
+an ACASI respondent with similar characteristics. Since 
+both ACASI and PAPI respondents provided demographic and 
+criminal history information, these data were used in 
+weight adjustment. For each inmate, these adjustments were 
+based on a generalized exponential model developed by 
+Folsom and Singh (2002), and applied to the sexual 
+victimization survey respondents. ***Footnote 5 Folsom, 
+Jr., R.E., and Singh, A.C. (2002). The generalized 
+exponential model for sampling weight calibration for 
+extreme values, nonresponse, and poststratification. 
+Proceedings of the American Statistical Association, Survey 
+Research Methods Section, pp. 598–603.***
+
+3. A third adjustment corrected for module nonresponse. Sexual 
+victimization survey respondents who did not complete the 
+sexual victimization modules within 30 minutes and, 
+therefore, did not receive the past drug use or drug 
+abuse treatment modules were considered nonrespondents. 
+Because alternative survey respondents did not have a 
+similar time constraint, this adjustment was not applied to 
+inmates randomized to the alternative survey.
+
+The module nonresponse adjustment included a calibration of the 
+weights so that the weight from a past drug use and drug 
+abuse treatment module nonrespondent was assigned to a responding 
+prisoner or jail inmate with similar characteristics. The 
+adjustment used data from modules that both groups completed, 
+including demographic, criminal history, sexual victimization, 
+and interview debriefing characteristics. This adjustment ensured 
+that the estimates accurately reflected the full sample, rather 
+than only the prisoners and jail inmates who responded to the 
+past drug use or drug abuse treatment modules. For each 
+inmate, these adjustments were based on a generalized exponential 
+model and applied to the sexual victimization survey respondents.
+
+The survey mode and module nonresponse adjustments maintained the 
+control totals designed to provide national-level estimates for 
+the number of prisoners and jail inmates age 18 or older who were 
+held in jails at midyear 2007 for NIS-1 and 2009 for NIS-2, or in 
+prison at yearend in 2007 and 2009.***Footnote 6 In NIS-1 the 
+state inmate population was not benchmarked to the National 
+Prisoner Statistics.*** The totals estimated the number of 
+prisoners and jail inmates by sex during the survey period. 
+These totals came from BJS’s Annual Survey of Jails and National 
+Prisoner Statistics Program for local jail and state prison 
+respondents. In 2007, the national estimates for local jails 
+(with an average daily population of six or more inmates) were 
+673,005 males and 99,810 females. In 2009, the national estimates 
+for state prisons were 1,178,916 adult males and 88,518 adult 
+females. For jails with an average daily population of six or 
+more inmates, estimates included 678,136 adult males and 99,096 
+adult females.
+
+4. A fourth adjustment corrected survey weights to account for 
+the combining of multiple survey years to allow survey 
+totals to represent the average number of prisoners or jail 
+inmates across the survey years included in the analytic 
+file. The weight adjustment was produced by dividing the 
+mode nonresponse adjusted weights by the number of survey 
+years being combined—in this case 2 years.
+
+5. A final adjustment was applied to combine data from the 
+sexual victimization survey and the alternative survey. For 
+this adjustment, the weight for each responding prisoner or 
+jail inmate was multiplied by the probability of receiving 
+the survey type received. In NIS-1 the survey nonresponse 
+and mode nonresponse adjusted weight for the ACASI 
+respondents were multiplied by 0.90 for the sexual 
+victimization survey and by 0.10 for respondents to the 
+alternative survey. In NIS-2 the survey nonresponse and 
+mode nonresponse adjusted weight for the ACASI respondents 
+were multiplied by 0.95 in the sexual victimization survey 
+and 0.05 for respondents to the alternative survey.
+
+***********************************************
+Standard errors and tests of significance
+***********************************************
+
+As with any survey, the NIS estimates are subject to error 
+arising from their basis on a sample rather than a complete 
+enumeration of the population of adult inmates in prisons and 
+jails. For past drug use, dependence and abuse symptoms, and 
+treatment outcomes, the estimated sampling error varies by the 
+size of the estimate, by the number of completed interviews, and 
+by the intracluster correlation of the outcome within facilities.
+
+A common way to express this sampling variability is to construct 
+a 95% confidence interval around each survey estimate. Typically, 
+multiplying the standard error by 1.96 and then adding or 
+subtracting the result from the estimate produces the confidence 
+interval. This interval expresses the range of values that could 
+result among 95% of the different samples that could be drawn.
+
+To facilitate the analysis, differences in the estimates of 
+sexual victimization for subgroups in these tables have been 
+tested and notated for significance at the 95% confidence level. 
+For example, the difference in the percentage of state prisoners 
+who reported ever using heroin/opiates during 2007-09 compared to 
+state prisoners and jail inmates in 2004 is statistically 
+significant at the 95% confidence level (table 1). In all tables 
+providing detailed comparisons, statistically significant 
+differences at the 95% level of confidence or greater have been 
+designated with two asterisks (**) when comparing two different 
+population types (e.g., persons in prison and persons in the 
+general population).
+
+***********************************************
+Comparing NIS estimates to prior prisoner 
+and jail inmate surveys
+***********************************************
+
+In analyzing past drug use, dependence and abuse symptoms, and 
+treatment among jail inmates, the analysis was restricted to 
+sentenced jail inmates. The jail population was restricted to be 
+comparable to the Survey of Inmates in Local Jail surveys. The 
+prior survey was restricted to sentenced jail inmates to ensure 
+the respondent would meet the minimum time in the facility to be 
+eligible for the survey, and also to increase the likelihood that 
+the jail respondents would be eligible to have access to 
+treatment services while in jail.
+
+The NIS estimates on drug dependence and abuse and drug 
+abuse treatment were not compared to prior inmate surveys (e.g., 
+2004 Survey of Inmates in State Correctional Facilities and 2002 
+Survey of Inmates in Local Jails) for two reasons. First, the NIS 
+used a different data collection mode from the prior inmate 
+surveys. The NIS used ACASI for the drug dependence and 
+abuse criteria and drug abuse treatment modules. The prior 
+prisoner and jail inmate surveys used CAPI for these modules. 
+Second, prior prisoner and jail inmate surveys asked about drug 
+use during the “past month since the inmate’s current 
+incarceration.” However, the NIS asked about drug use during the 
+“past month since admission to the current facility.” Some 
+prisoners or jail inmates may have been in a different facility--
+either another prison or a local jail-during the prior month to 
+admission to their current facility.
+
+These mode and measurement differences may confound any 
+differences found when comparing estimates over time. In other 
+words, any differences between prior surveys and the NIS may be 
+due to changes over time or due to measurement and mode 
+differences. Therefore, it is difficult to make confident 
+statements regarding change. Furthermore, the measurement and 
+mode differences impact the NIS estimates in different ways. As 
+noted, ACASI is expected to yield higher estimates than CAPI. 
+However, the instrument wording changes in the NIS likely 
+suppress the past month drug use estimate because inmates did not 
+have access to drugs while in another facility. The magnitude of 
+each of these differences is not known, which makes comparisons 
+with past surveys that used different methodologies and question 
+wording difficult.
+
+***********************************************
+Drug use in the general population
+***********************************************
+
+Drug use estimates in the general population come from to the 
+NSDUH. To be most comparable to the prisoner and jail inmate 
+population included in the NIS, the NSDUH 2007-2009 survey years 
+were used in this analysis.
+
+Using indicators provided in the NSDUH survey, the general 
+population was split into three groups: (1) persons not involved 
+in the criminal justice system during the past 12 months, (2) 
+those on probation or parole during the past 12 months, and (3) 
+those arrested in the past 12 months. These groups are not 
+mutually exclusive in that a person can be both on probation or 
+parole and arrested in the past 12 months. For 2007-09, 1% of 
+respondents said they were on probation or parole and had been 
+arrested in the past 12 months. These persons are represented in 
+both criminal justice categories. Persons in the general 
+population on probation and parole or arrested in the past 12 
+months should be more similar to the prisoner and jail inmate 
+population than those never involved with the criminal justice 
+system during the past 12 months. Figure 1 and tables 4, 5, 9, 
+10, and 14 compare the inmate population in prisons and jails to 
+the general population.
+
+***********************************************
+Standardization of general population estimates
+***********************************************
+
+When comparing two populations, differences found for some 
+characteristics or conditions may be statistically different as a 
+result of a true difference in the populations or due to basic 
+demographic differences that are associated with the outcome of 
+interest. One method to determine if these demographic 
+differences are the sole cause for differences found for other 
+characteristics or conditions is to standardize the estimates.
+
+Standardization of survey estimates consists of calibrating the 
+survey weights for one population such that, for key demographic 
+characteristics that are known for each population, the 
+distributions are identical. This process was done using the 
+statistical software SUDAAN’s PROC DESCRIPT procedure. The 
+resulting estimates are not a representation of the standardized 
+population by themselves (i.e., generalizations about the 
+population cannot be made from standardized estimates), but are 
+appropriate estimates for comparison with other populations of 
+interest.
+
+In this report, estimates were standardized for each of the three 
+general population types. For each general population type, 
+estimates were standardized to the prisoner and jail inmate 
+population’s distribution by sex, race and Hispanic origin, and 
+age. Because the prison and jail inmate populations differed, the 
+general population was standardized separately to each inmate 
+population (see appendix tables 3 and 4). For the general, 
+noncriminally involved population, estimates were standardized to 
+the inmate population’s distribution based on race and Hispanic 
+origin, age, and self-reported veteran status. Tables 3 and 12 
+include standardized estimates to the prison population. Tables 4 
+and 13 include standardized estimates to the jail population. 
+When standardization is done both the crude (unstandardized) and 
+standardized estimates are presented for comparability.
+
+*************************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is acting 
+director.
+
+This report was written by Jennifer Bronson and Jessica Stroop of 
+BJS and Stephanie Zimmer and Marcus Berzofsky of RTI 
+International. Verification was completed by Stephanie Zimmer and 
+Marcus Berzofsky of RTI International and Danielle Kaeble of BJS.
+
+Brigitte Coulton and Jill Thomas edited the report. Steve 
+Grudziecki produced the report.
+
+June 2017, NCJ 250546
+*************************************************************
+
+*****************************************************
+Office of Justice Programs Innovation * Partnerships 
+* Safer Neighborhoods www.ojp.usdoj.gov
+******************************************************
+
+*********************************
+5/16/2017 JER 3:05pm
+*********************************

@@ -1,0 +1,791 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+
+Pretrial Release and Misconduct in Federal District Courts, 2008-2010 
+
+Thomas H. Cohen, Ph.D., BJS Statistician
+
+November 2012,  NCJ 239243 
+---------------------------------------------------------------------
+This file is text without graphics and many of the tables. 
+A Zip archive of the tables in this report in Comma-delimited 
+format (CSV) and the full report including tables and 
+graphs in PDF format are available at:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4535
+---------------------------------------------------------------------
+During fiscal years 2008 through 2010, 36% of the 283,358 defendants in cases 
+disposed in federal district courts were released prior to case adjudication. The 
+percentages of pretrial release ranged from 12% for defendants brought into 
+federal courts for immigration violations to 71% for defendants charged with 
+property offenses (figure 1). Nineteen percent of released defendants 
+committed some form of pretrial misconduct, and technical violations 
+accounted for 90% of these pretrial violations. 
+
+Data for the Bureau of Justice Statistics’ (BJS) Federal Justice Statistics Program 
+(FJSP) were provided by the Administrative Office of the U.S. Courts’ (AOUSC) 
+Office of Probation and Pretrial Services Automated Case Tracking System 
+(PACTS). The PACTS data cover various aspects of pretrial release in federal 
+district courts, including the decision to release or detain a defendant, the 
+different mechanisms of release or detention, and the behavior of defendants 
+while on pretrial release. The PACTS data analyzed for this report include 
+defendants whose cases were disposed by the federal courts for the combined 
+fiscal years of 2008 to 2010.
+
+The PACTS data provide important information about pretrial release and 
+misconduct in the nation’s federal courts. These data do not cover pretrial 
+release in state courts. In an effort to provide comprehensive information on 
+pretrial release, this report compares several aspects of the pretrial process in 
+federal and in state courts. While no statistical series have national level 
+estimates of pretrial release and misconduct in state courts, BJS has sponsored 
+the State Court Processing Statistics (SCPS) project, which examines pretrial 
+release and misconduct for felony cases filed in the nation’s 75 most populous 
+counties. Therefore, the SCPS data are referenced in this report when 
+comparing state and federal pretrial statistics. (See Methodology for more 
+information about the SCPS.)
+
+---------------------------------------------------------------------------------
+HIGHLIGHTS
+
+* Thirty-six percent of defendants in cases disposed in federal
+courts from 2008 to 2010 were released pretrial.
+
+* Federal courts released 10% of noncitizen defendants identified 
+as illegal aliens, compared to 43% of legal aliens and 55% of U.S. citizens.
+
+* Twenty-four percent of these defendants were released at the time of their
+ initial appearance, while another 12% were detained and then released at 
+subsequent court events, including detention or bond hearings.
+
+* Nonfinancial methods, including release on personal recognizance or 
+unsecured bond, accounted for 73% of pretrial releases in federal courts.
+
+* Ninety-one percent of detained defendants were held on either court-ordered
+ detention or because they could not meet certain conditions set by the court.
+
+* Of defendants released pretrial, 79% were released with conditions, 
+including travel restrictions, substance abuse treatment requirements, weapons 
+restrictions, or promises to remain employed or seek employment.
+
+* About half (51%) of defendants with no prior arrest history were released 
+pretrial, compared to 34% of defendants with 2 to 4 prior arrests and 21% 
+of defendants with more than10 prior arrests.
+
+* Nineteen percent of defendants released pretrial committe some form
+of pretrial misconduct.
+
+* Technical violations were committed by 17% of defendants released prior
+to case disposition, while 1% of released defendants failed to make court
+appearances and 4% were rearrested for new offenses.
+
+
+-------------------------------------------------------------------------------
+Pretrial release and detention in the federal criminal justice system 
+Before 1966, the federal courts relied almost exclusively on financial bond. In a 
+bond system, persons accused of criminal conduct can remain free pending case 
+disposition by posting a bond, usually property or money, as a guarantee that 
+they will make all court appearances. In most situations, defendants will post a 
+percentage of the bond set with a bail bondsman or with the court through a 
+deposit bond program. Congress enacted the Bail Reform Act of 1966 to reform 
+federal pretrial practices and minimizing the use of financial bond. The act 
+mandated that any defendant charged with noncapital offenses in federal 
+courts be released on either their own recognizance or an unsecured 
+appearance bond (see Methodology). In cases that required additional 
+supervision, the court could impose other conditions necessary to assure that a 
+defendant made all court appearances. 
+
+The Bail Reform Act of 1984 (18 U.S.C. Section 3141) further codified the pretrial 
+release process. According to the act, when defendants first appear before a 
+judicial officer they may be 1) released on personal recognizance or unsecured 
+bond, 2) released subject to conditions imposed by the court, 3) temporarily 
+detained to permit deportation, exclusion, or the revocation of previously 
+granted conditional release, or 4) detained pending the outcome of a detention 
+hearing. At a detention hearing, the government is required by the act to prove 
+by clear and convincing evidence that no condition of release would reasonably 
+ensure that the defendant would appear for trial and not pose a risk to the 
+community. The Bail Reform Act of 1984 also expanded the scope of factors that 
+federal courts could consider when making pretrial release decisions to include 
+the degree of dangerousness a defendant poses to the community.
+
+Defendants charged with property or public-order offenses were more than 5 
+times more likely to be released pretrial than immigration defendants 
+For the combined fiscal years of 2008 through 2010, 36% of defendants whose 
+cases were disposed in federal courts were released pretrial (table 1).The 
+percentages of defendants released pretrial varied across the major federal 
+offense categories. Seventy-one percent of property and 65% of public-order 
+defendants were released prior to case adjudication, while less than two-fifths 
+of defendants charged with drug offenses (38%) and about a third charged with 
+weapons (32%) or violent offenses (30%) received a pretrial release. Of all the 
+major federal offense categories, immigration defendants had the lowest 
+likelihood of being released pretrial (12%). The low rate of pretrial release for 
+immigration defendants was due to 91% of these defendants being illegal aliens, 
+which the federal courts typically do not release (not shown in table). 
+
+More than half of violent and drug defendants released pretrial were initially 
+detained and then released at subsequent proceedings
+
+The initial appearance represents the first time that a defendant charged with a 
+federal offense appears before a federal judicial officer, typically a magistrate 
+judge. During the initial appearance, the defendant can either be released 
+pretrial or detained for additional hearings. For those defendants not released 
+at the initial appearance, pretrial release can occur at subsequent events, 
+including detention or bond hearings, or the defendant can be held for the 
+duration of the entire case. For fiscal years 2008 through 2010, 24% of 
+defendants were released at the time of their initial appearance, while 12% 
+were detained and then released at subsequent hearings. 
+
+Defendants charged with violent and drug offenses were more likely to be 
+released after a period of detention than released at their initial appearance. 
+Among violent defendants, 16% were released after a period of detention and 
+13% were released at initial appearance. Among defendants charged with a 
+drug offense, 20% were released after being detained and 18% were released at 
+initial appearance. In comparison, defendants charged with property or public-
+order offenses were at least four times more likely to be released at the initial 
+appearance than they were to be detained and then subsequently released. Of 
+property defendants released pretrial, 59% were released at the initial 
+appearance, while 12% were first detained and then released. A similar pattern 
+held for public-order defendants, with 53% being released at initial appearance 
+and 13% being released after a period of detention.
+------------------------------------------------------------------------------
+
+58% of defendants were released pretrial in state courts in the 75 most 
+populous counties, compared to 36% in federal courts 
+
+State data on pretrial release differ in important ways from federal data. Unlike 
+federal data, which represents the entire universe of cases disposed in federal 
+courts, data on pretrial release at the state level are derived from a sample of 
+defendants charged with a felony offense in May 2006 in 40 of the nation’s 75 
+most populous counties. (See Methodology.) 
+
+In addition, cases filed in federal and state courts in large counties differed in 
+composition. Immigration constituted a major offense category in the federal 
+system, with 35% of federal defendants charged with immigration violations 
+(table 2). Although illegal aliens can be brought into state courts on other 
+offense charges, only federal courts have the authority to adjudicate offenses 
+involving the enforcement of the nation’s immigration laws. Therefore, 
+immigration offenses are not a case type reported at the state level. 
+
+Compared to federal courts, the percentage of defendants charged with violent 
+or property offenses was also higher in state courts in large counties. Violent 
+(23%) and property offenses (29%) comprised about half of felony defendants in 
+the 75 most populous counties. In comparison, violent (3%) or property (16%) 
+offenses comprised slightly less than a fifth of defendants in federal district 
+courts. 
+
+Regardless of the differences between state and federal courts, it is informative 
+to compare federal and state data on pretrial release. Federal courts released a 
+higher percentage of defendants charged with property offenses (71%) than 
+state courts in large counties (59%). Defendants charged with public-order 
+offenses had the same percentage of pretrial release (65%) in both state and 
+federal courts. However, a higher percentage of state defendants in large 
+counties were released pretrial when charged with drugs (60%), weapons (56%), 
+and violent (52%) offenses, compared to federal pretrial release percentages for 
+drugs (38%), weapons (32%), and violent (30%) offenses.
+
+Nearly three-quarters of federal defendants released pretrial paid no financial 
+bond upon release 
+
+From 2008 to 2010, 27% of defendants released pretrial for cases disposed in 
+federal courts were required to pay a financial bond in order to secure that 
+release (table 3). All other releases were through nonfinancial methods, 
+including unsecured bond (39%) or personal recognizance (32%). The use of 
+financial bond varied by offense type, with about two-thirds of released 
+immigration (66%) and over a quarter (29%) of released drug defendants 
+required to post a financial bond to receive pretrial release. In comparison, less 
+than 20% of released defendants charged with property (18%), weapons (17%), 
+public-order (14%), or violent (12%) offenses were required to pay a financial 
+bond. 
+
+8% of all defendants released pretrial in federal courts used bail bondsmen 
+The two most common forms of pretrial release in the federal system were 
+unsecured bond and release on personal recognizance, which together 
+accounted for 71% of defendants released pretrial in the federal courts (figure 
+2). Defendants requiring a financial bond accounted for 27% of all pretrial 
+releases, with 12% posting a deposit bond, 8% using a surety bond (i.e., bail 
+bondsman), and 7% using a collateral bond. In comparison, more than half 
+(55%) of defendants released pretrial in the nation’s 75 most populous counties 
+in 2006 were required to post some form of financial bond as part of their 
+release conditions. Defendants released pretrial in these state courts were 
+about five times more likely than those in federal courts to use the services of a 
+commercial bond agent to secure pretrial release (not shown in table). (For 
+more information on state-level data, see Methodology.)
+
+About half of federal defendants released on financial bond were detained at 
+the initial appearance and then subsequently released 
+
+Among federal defendants released through financial bond from 2008 to 2010, 
+53% were released at the initial appearance hearing, while 47% were detained 
+and then released at subsequent hearings (figure 3). In comparison, 72% of 
+defendants released through nonfinancial methods, including unsecured bond 
+or personal recognizance, were released at the initial appearance.
+9% of detained defendants were held because they could not meet the 
+financial bond 
+
+Ninety-one percent of detained defendants in the federal courts were held 
+either by order of the court (57%) or for other nonfinancial reasons (34%) (table 
+4). Court-ordered detentions involve cases in which the court mandates that a 
+defendant be held for the entire duration of the case. Other detentions typically 
+involve instances in which the defendant remains detained because the 
+defendant was unable to meet certain conditions set by the court. Defendants 
+detained because they could not meet the monetary bond set by the court 
+accounted for 9% of federal pretrial detentions. In comparison, 86% of 
+defendants detained pretrial in the nation’s 75 most populous counties in 2006 
+were held because they could not make the financial bond set by the court (not 
+shown in table).
+
+Approximately 8 out of 10 released defendants were released with pretrial 
+conditions 
+
+The Bail Reform Act of 1984 allows federal courts to impose conditions of 
+release on defendants released pretrial, which are administered by a pretrial 
+services agency (see text box below). From 2008 to 2010, federal courts 
+attached conditions to 79% of defendants released prior to case disposition 
+(table 5). The federal courts mandated conditional release for 90% or more of 
+released violent, drug, and weapons defendants and imposed conditions on 
+about 80% of released defendants charged with property or public-order 
+offenses. Of released defendants charged with immigration violations, 37% 
+received release conditions.
+
+-----------------------------------------------------------------------------
+Administering Federal Pretrial Services 
+
+The Federal Pretrial Services Act of 1982 established pretrial services programs 
+for defendants prosecuted in federal district courts (18 U.S.C. Section 3152-
+3155). As of 2010, more than 22 of the 93 federal judicial districts have separate 
+pretrial service offices headed by a chief pretrial services officer, while the 
+remaining federal judicial districts use federal probation officers to administer 
+pretrial services. 
+
+The primary duties of federal pretrial service officers include conducting 
+investigations of persons charged with federal offenses and supervising 
+defendants released into their custody. Pretrial investigation involves 
+examining the defendant’s background to determine whether to recommend that 
+the court release or detain the defendant. 
+
+Defendants under pretrial supervision are typically required to report to a 
+pretrial service officer on a regular basis or reside in a community treatment 
+facility or halfway house. Pretrial service officers can also be involved in 
+providing employment, medical, legal, or social services to supervised 
+defendants. 
+
+Source: Cadigan, T.P. (2007). Pretrial services in the federal system: impact of 
+the Pretrial Services Act of 1982, Federal Probation, 71(2), pp 10–15.
+
+Among federal defendants released with pretrial conditions from 2008 to 2010, 
+99% had a travel restriction, while 72% were required to receive substance 
+abuse treatment, 62% had a weapons restriction, and 49% promised to remain 
+employed or seek employment during the pretrial period (table 6). The types of 
+conditions imposed were often related to a defendant’s arrest charges. For 
+example, released defendants charged with drug offenses were more likely to 
+receive mandated substance abuse treatment (89%) than released defendants 
+charged with public-order (59%) or property (56%) offenses. A similar pattern 
+held for weapons defendants released with pretrial conditions. Eighty-seven 
+percent of these defendants had a weapons restriction. Among all other offense 
+types, the percentage with weapons restrictions did not exceed 75%. 
+
+Among felony defendants released pretrial in the nation’s 75 most populous 
+counties in 2006, 12% were released with pretrial conditions, including 
+participation in a pretrial diversionary program or drug monitoring or 
+treatment. In some jurisdictions, defendants released through surety bond also 
+had pretrial conditions attached to the release. An estimated 6% of felony 
+defendants released through a surety bond in large urban counties in 2006 had 
+conditions attached to the release, including pretrial monitoring (not shown in 
+table).
+
+Length of pretrial detention 
+
+The U.S. Marshals Service’s Office of the Federal Detention Trustee (OFDT) 
+provides information on the average amount of time a defendant is detained 
+from arrest to case adjudication or deportation from the U.S. According to the 
+OFDT, the average amount of time in detention for defendants booked on 
+federal charges increased from 112 days (3.7 months) in 2008 to 121 days (4.0 
+months) in 2010 (table 7). 
+
+In 2010, defendants booked on drugs, weapons, or violent offenses spent on 
+average more than 6 months in custody. In comparison, defendants booked on 
+immigration offenses, or violations of probation, parole, or pretrial release 
+conditions, or those held as material witnesses remained in custody for an 
+average of 3 months or fewer. The OFDT also reported that about 27% of 
+defendants booked by U.S. Marshals were ordered detained for 5 days or fewer 
+in 2010 (not shown in table). (For more information about the OFDT, see 
+http://www.justice.gov/ofdt/index.html.)
+
+Federal defendants released on financial bond received pretrial conditions less 
+frequently than defendants released through nonfinancial means 
+
+From 2008 to 2010, federal courts imposed conditions on 64% of defendants 
+released through financial bond (not shown in figure). Among the types of 
+financial release, 40% of defendants with a surety bond release and 66% of 
+defendants with a deposit bond release received pretrial conditions (figure 4). 
+In comparison, 80% of defendants released on personal recognizance and 93% 
+of defendants released on unsecured bond received pretrial conditions. 
+
+Percentages of pretrial release were lower for defendants with serious or 
+lengthy criminal histories 
+
+When making a determination regarding the eligibility of a defendant for 
+pretrial release, federal law requires that the judicial officer (i.e., district court 
+judge or magistrate) consider the defendant’s criminal history, including record 
+of court appearances. The federal data show that the rate of pretrial release 
+declined with the severity of a defendant’s criminal history. About half (51%) of 
+defendants with no prior arrest history were released pretrial, compared to 34% 
+of defendants with 2 to 4 prior arrests and 21% of defendants with more than 
+10 prior arrests (table 8). The nature of a defendant’s criminal history also 
+influenced the probability of pretrial release. Forty-one percent of defendants 
+with prior misdemeanor convictions were released pretrial, while 23% of 
+defendants with prior felony convictions were released prior to case disposition. 
+
+In addition, pretrial misconduct history correlated with the pretrial release 
+decision. Thirty-seven percent of defendants with no history of missed court 
+appearances were released pretrial, while 27% of defendants with two or more 
+prior failure-to-appear events received a pretrial release. 
+
+Criminal history was also related to the stage in which a defendant was released 
+pretrial. Nearly 30% of defendants with no prior convictions were released 
+pretrial after a period of detention. In comparison, 46% for defendants with 
+more than 10 prior convictions were released pretrial after being detained (not 
+shown in table). 
+
+Similar to the federal system, many state courts have established specific 
+criteria to consider when setting release conditions, including the defendant’s 
+criminal background. Data examining felony defendants processed in the 
+nation’s 75 most populous counties in 2006 illustrate how release rates vary 
+according to a defendant’s criminal history. Among these state courts, nearly 
+three-quarters (74%) of defendants with no prior convictions were released 
+pretrial, while about two-fifths (39%) of defendants with five or more prior 
+convictions were released prior to case adjudication (not shown in table). 
+
+Nearly two-thirds of whites, less than half of blacks, and a fifth of Hispanics 
+secured pretrial release 
+
+Among all racial and ethnic categories of defendants released pretrial, higher 
+percentages of Asian/Pacific Islander (66%) and white non-Hispanic (65%) 
+defendants were released in the federal system from 2008 to 2010, compared 
+to American Indian/Alaska Native (54%), black non-Hispanic (43%), or Hispanic 
+(20%) defendants (table 9). In general, Hispanic defendants had the lowest rates 
+of pretrial release and were less likely to be released than white defendants for 
+all major federal offense categories. Black defendants were also less likely than 
+white defendants to be released pretrial for all major federal offense categories. 
+The differences in pretrial release rates between black and white defendants 
+were particularly large for drug offenses, as white defendants (60%) were more 
+than one and a half times more likely to receive a pretrial release than black 
+defendants (36%).
+
+State-level data on pretrial release across racial and ethnic categories varied less 
+than federal data. In the nation’s 75 most populous counties through the 
+combined years from 1990 through 2004, black defendants (62%) were released 
+at statistically similar percentages as white defendants (68%), while Hispanics 
+had a lower likelihood of pretrial release (55%) (not shown in table). 
+
+A greater percentage of females were released pretrial than males 
+Female defendants (65%) were released more frequently than males (31%) in 
+the federal courts from 2008 to 2010. This remained consistent across all major 
+federal offense categories. At the state level, females (74%) were more likely to 
+be released than males (60%) in the nation’s most populous counties from 1990 
+to 2004 (not shown in table). 
+
+Defendants ages 18 to 39 were less likely to be released than those age 17 or 
+younger or age 40 or older 
+
+The likelihood of pretrial release and defendant age had a curved relationship, 
+as a greater percentage of younger and older defendants were released pretrial 
+than defendants in the middle age ranges. For example, 50% of defendants age 
+17 or younger were released pretrial, compared to 31% of defendants ages 20 
+to 39 (figure 5). Defendants age 40 or older were released at higher rates (47%) 
+than defendants ages 18 to 39.
+ 
+The curved pattern of pretrial release (i.e., declining for defendants in the 
+middle age ranges and then rising for those age 41 or older) did not hold for 
+defendants charged with violent or immigration offenses. For the violent 
+offense category, defendants ages 17 or younger were two times more likely to 
+be released (67%), compared to defendants age 40 or older (31%). The 
+percentage of immigration defendants released pretrial was relatively low 
+regardless of the defendant’s age.
+
+U.S. citizen defendants were more than 5 times more likely than noncitizen 
+illegal alien defendants to be released pretrial 
+
+Overall, the federal courts released 10% of noncitizen defendants identified as 
+illegal aliens. In comparison, 43% of legal aliens and 55% of U.S. citizens received 
+a pretrial release prior to case disposition. Percentages of pretrial release for 
+illegal alien defendants exceeded 20% for some offense categories, including 
+property (28%) and public-order (21%) offenses. For the remaining offense 
+categories, however, less than 10% of defendants identified as illegal aliens 
+were released prior to case disposition.
+
+Among all defendants, black and American Indian/ Alaska Native defendants 
+had more serious criminal histories than white defendants 
+
+Factors courts were required by the 1984 Bail Reform Act to consider for pretrial 
+release, including criminal history and citizenship status, varied across racial and 
+ethnic categories For example, black and American Indian/Alaska Native 
+defendants generally had more extensive criminal histories than white 
+defendants. During the combined period from 2008 through 2010, 61% of black 
+and 43% of American Indian/Alaska Native defendants had five or more prior 
+arrests, compared to 36% of whites (table 10). Moreover, a higher percentage 
+of black (46%) and American Indian/ Alaska Native (33%) defendants had a prior 
+violent felony conviction compared to white (27%) defendants. 
+
+Hispanics and whites had relatively similar criminal backgrounds. For instance, a 
+similar percentage of whites (43%) and Hispanics (41%) had no history of prior 
+convictions when they were brought into the federal courts. 
+
+About three-quarters of all Hispanic defendants were non-U.S. citizen illegal 
+aliens 
+
+A defendant’s citizenship status constitutes another important factor that 
+federal courts consider when making pretrial release decisions. Ninety percent 
+of noncitizen illegal alien defendants were detained pretrial (not shown in 
+table). Almost three-quarters of Hispanic defendants in the federal courts were 
+non-U.S. citizen illegal aliens, while a fifth of Hispanic defendants in federal 
+courts had U.S. citizenship. In comparison to Hispanic defendants, 95% or more 
+of white, American Indian/Alaska Native, and black defendants were U.S. 
+citizens. Asian/Pacific Islander defendants were the only other race category in 
+which sizable minorities of defendants were either noncitizen legal aliens (26%) 
+or illegal aliens (13%).
+
+17% of federal defendants released prior to case disposition committed 
+technical violations 
+
+Technical violations (such as violations of pretrial conditions, including drug test 
+failure or failure to maintain electronic reporting requirements) were 
+committed by 17% of defendants released prior to case disposition from 2008 
+to 2010 (table 11). Defendants released on weapons (30%), drug (25%), and 
+violent (24%) offenses had the highest rates of technical violations, while 
+immigration defendants released pretrial had the lowest rates of violating their 
+pretrial conditions (6%). The relatively low rate of technical violations for 
+immigration defendants may be due to federal courts typically not attaching 
+pretrial conditions to these defendants when released prior to disposition. 
+From 2008 to 2010, relatively few released defendants either failed to make 
+court appearances (1%) or were rearrested for new offenses (4%). The 
+percentage of defendants with missed court appearances did not exceed 2% 
+across the major offense types. Rearrest percentages ranged from 1% for 
+immigration defendants to 8% for weapons defendants. 
+
+Fifty-six percent of defendants who committed misconduct had their release 
+revoked by the federal courts (not shown in table). Twenty-one percent of 
+released weapons and more than 15% of violent (18%) and drug (16%) 
+defendants had their release revoked, while less than 10% of released property 
+(7%), public-order (6%), and immigration defendants (4%) had a pretrial release 
+revocation. 
+
+In comparison, a third of released defendants in the nation’s 75 most populous 
+counties committed some form of pretrial misconduct during 2006. Half of 
+pretrial misconduct events involved bench warrants that were issued due to 
+missed court appearances, while a similar percentage of defendants with 
+pretrial misconduct were rearrested for new offenses committed during the 
+pretrial release period (not shown in table). In 2006, the percentage of 
+defendants charged with pretrial misconduct was highest for drug defendants 
+(37%) and lowest for those released after being charged with a violent offense 
+(26%) (not shown in table).
+
+Prior criminal activity correlated with higher rates of pretrial misconduct in the 
+federal courts 
+
+Released defendants with substantial criminal histories engaged in pretrial 
+misconduct more frequently than defendants with less serious criminal 
+backgrounds. From 2008 to 2010, released defendants with more than 10 prior 
+arrests committed technical violations (29%) at a higher rate than defendants 
+with two to four prior arrests (20%) or defendants with no arrest history (9%) 
+(table 12). Defendants with more than 10 prior arrests also had a higher 
+likelihood of being rearrested for new offenses (8%) than defendants who had 
+never been arrested prior to the current case (2%). 
+
+In addition, federal courts were more likely to revoke the releases of defendants 
+with more serious criminal histories. More than 20% of released defendants 
+with more than 10 prior arrests or convictions received a release revocation, 
+compared to less than 10% of defendants with no history of prior arrests or 
+convictions. 
+
+Prior criminal activity was also associated with higher rates of pretrial 
+misconduct in state courts. For pretrial release and misconduct in the nation’s 
+75 most populous counties from 1990 to 2004, defendants with at least one 
+prior felony conviction (43%) had a higher rate of pretrial misconduct than 
+defendants with misdemeanor convictions only (34%) or no prior convictions 
+(27%) (not shown in table). (See Methodology.)
+
+Black and American Indian/Alaska Native defendants were charged with 
+pretrial misconduct more frequently than white and Hispanic defendants 
+In the federal courts, 29% of released American Indian/ Alaska Native and 27% 
+of released black defendants had at least one violation of their pretrial 
+conditions, while 18% of released white, 16% of released Asian/Pacific Islander, 
+and 14% of released Hispanic defendants engaged in some form of pretrial 
+misconduct from 2008 to 2010 (table 13). Black and American Indian/Alaska 
+Native defendants were also charged with technical violations of their release 
+conditions, rearrested for new offenses, and had their pretrial release statuses 
+revoked at higher rates than white, Asian/Pacific Islander, or Hispanic 
+defendants. 
+
+The percentage of males (20%) committing pretrial misconduct was slightly 
+higher than females (17%). As with pretrial release, there was a curved 
+relationship between age and pretrial misconduct, with younger and older 
+defendants charged with pretrial misconduct less frequently than defendants in 
+the mid-age range. Seventeen percent of defendants age 17 or younger 
+committed some form of pretrial misconduct, compared to 24% of defendants 
+ages 20 to 29 and 14% of defendants age 40 or older.
+
+Defendants released on financial bond had fewer technical violations than 
+defendants released through nonfinancial methods 
+
+From 2008 to 2010, the percentage of released defendants committing 
+technical violations of their pretrial conditions was lower for defendants 
+released on deposit (14%) or surety (7%) bond, compared to defendants 
+released on unsecured bond (19%) or personal recognizance (19%) (table 14). 
+This variation is due in part to the relatively lower rates in which courts attach 
+pretrial conditions to those released through financial bond. In comparison to 
+technical violations, the differences between financial and nonfinancial release 
+in terms of missed court appearances or rearrests for new offenses were fairly 
+similar across the various types of pretrial release.
+
+Methodology 
+
+Federal Justice Statistics Program (FJSP) 
+
+Data used for this report are from the Bureau of Justice Statistics’ (BJS) Federal 
+Justice Statistics Program (FJSP) database. The FJSP is presently constructed 
+from source files provided by the U.S. Marshals Service, Executive Office for U.S. 
+Attorneys, Administrative Office of the U.S. Courts (AOUSC), United States 
+Sentencing Commission, and Federal Bureau of Prisons. In addition to providing 
+data describing defendants in cases processed by the federal judiciary, the 
+AOUSC provides data describing defendants processed by the federal pretrial 
+services agencies and the federal probation and supervision service. For more 
+information about the methodology used for the FJSP, see the BJS website. 
+
+Office of Probation and Pretrial Services Automated Case Tracking System 
+(PACTS) 
+
+For this report, all tables were created from data in the AOUSC’s Office of 
+Probation and Pretrial Services Automated Case Tracking System (PACTS), which 
+were subsequently processed for the FJSP. The PACTS data contain information 
+on defendants interviewed, investigated, or supervised by federal pretrial 
+services. The information covers defendant pretrial hearings, detentions, and 
+releases from the time they are interviewed through the disposition of their 
+cases in federal district courts. The data describe defendants processed by 
+federal pretrial service agencies within each of the 93 federal judicial districts. 
+
+Defendants who received pretrial services through a local, nonfederal agency 
+were excluded. Since the District of Columbia operates its pretrial services 
+agency separate from the AOUSC, data describing defendants prosecuted in the 
+U.S. district court for the District of Columbia but processed by the D.C. pretrial 
+services agency were excluded in this analysis. 
+
+The data describe 283,358 defendants who were under the jurisdiction of 
+federal pretrial services from October 1, 2007, through September 30, 2010 
+(i.e., fiscal years 2008 through 2010), and whose cases were filed by complaint, 
+indictment, or information. Federal pretrial service agencies have jurisdiction 
+over both released and detained defendants from the time of arrest until their 
+case is disposed by the federal courts. A disposition occurs through a guilty plea 
+or trial conviction, dismissal, or acquittal. 
+
+In these tables, the totals include records for defendants whose offense or other 
+attributes were missing or unknown. The percentage distributions are based on 
+nonmissing values, and missing values are reported in the table footnotes. 
+Offenses in the PACTS are based on the most serious charged offense, as 
+determined by the probation officer responsible for interviewing the defendant. 
+The probation officer classifies the major offense charged into AOUSC four-digit 
+offense codes. For defendants charged with more than one offense on an 
+indictment, the probation officer chooses as the major charged offense the one 
+carrying the most severe penalty or, in the case of two or more charges carrying 
+the same penalty, the one with the highest offense severity. The offense 
+severity level is determined by the AOUSC, which ranks offenses according to 
+the maximum sentence, type of crime, and maximum fine amount. These four-
+digit codes are then aggregated into the primary offense charges used for this 
+report. 
+
+Defining pretrial release within the PACTS data 
+
+Defendants are identified as released pretrial if they were released anytime 
+during the period between the initial appearance hearing and case adjudication. 
+At the initial appearance, the defendant could either be released pretrial or 
+detained for additional hearings. For those defendants not released at initial 
+appearance, pretrial release could occur at subsequent events, including 
+detention or bond hearings, or the defendant could be held for the entire 
+duration of a case. For this report, the total pretrial release rate includes those 
+defendants released at initial appearance, as well as those released after a 
+period of detention. 
+
+In addition, the number of released defendants reported in the BJS Federal 
+Justice Statistics reports for fiscal years 2008 and 2009 differ from those in this 
+report due to recent adjustments with the PACTS data. For the 2008 and 2009 
+reports, defendants were identified as being released pretrial only if they were 
+released during the initial appearance or detention hearing stages of a criminal 
+case. Pretrial releases did not cover defendants released after these events and 
+showed release rates of 29% in fiscal year 2008 and 31% in fiscal year 2009. The 
+2008 and 2009 PACTS files analyzed for this report were adjusted so that 
+defendants released anytime during the course of a case were coded as 
+released pretrial. These adjustments resulted in pretrial release rates of 35% for 
+both fiscal years 2008 and 2009. This method of identifying released defendants 
+encompasses a broader range of releases and is similar to those used in BJS’s 
+Federal Justice Statistics reports that were published prior to 2008. For more 
+information, see Federal Justice Statistics, 2008 –Statistical Tables, NCJ 231822, 
+BJS website, November 2008, and Federal Justice Statistics, 2009, NCJ 234184, 
+BJS website, December 2011. 
+
+The forms of pretrial release and detention shown in the report are reported as 
+mutually exclusive categories. However, a single defendant may have multiple 
+forms of pretrial release and detention. For example, the court may have 
+initially released a defendant on their own recognizance, and then the 
+defendant may have been brought back to court on a technical violation with a 
+financial bond set. The PACTS data only cover the initial and not subsequent 
+release methods. In addition, pretrial release conditions, such as drug 
+monitoring or treatment, are counted separately from the release types 
+because federal courts typically attach such conditions regardless of how a 
+defendant was released.
+
+State level data on pretrial release 
+
+In this report, the federal pretrial data were compared with state-level data 
+when possible. Information on pretrial release and misconduct in state courts 
+was obtained from reports that used data from the State Court Processing 
+Statistics (SCPS) data collection program (most recent data are for 2006). SCPS 
+provides data on the criminal justice processing of felony defendants in a 
+sample of 40 of the nation’s 75 most populous counties. The program 
+prospectively tracks felony defendants from charging by the prosecutor during 
+the month of May of an even number year until disposition of their case or for a 
+maximum of 12 months. The SCPS project obtains data on a variety of felony 
+case processing characteristics in addition to information about pretrial release 
+and misconduct in state courts. Some of the core data elements collected in 
+SCPS included demographic characteristics, arrest offenses, criminal justice 
+status at the time of arrest, prior arrests and convictions, bond and pretrial 
+release, court appearance record, rearrests while on pretrial release, 
+adjudication outcomes including whether and how the defendant was 
+convicted, and type and length of sentence. (For more information, see Felony 
+Defendants in Large Urban Counties, 2006, NCJ 228944, BJS website, May 2010, 
+and Pretrial Release of Felony Defendants in State Courts, 1990-2004, NCJ 
+214994, BJS website, November 2007.) 
+
+Key terms 
+
+Initial appearance—The first time that a defendant charged with a federal 
+offense appears before a federal judicial officer, typically a magistrate judge. At 
+the initial appearance stage, the defendant can either be released pretrial or 
+detained for additional hearings. For those defendants not released at initial 
+appearance, pretrial release can occur at subsequent events including detention 
+or bond hearings, or the defendant can be held for the duration of the entire 
+case. 
+
+Federal court disposition—The act of terminating a case proceeding through a 
+guilty plea or trial conviction, dismissal, or acquittal. The defendant is no longer 
+under supervision of the federal pretrial authority after disposition. 
+
+Defendant (unit of analysis)—In the Federal Justice Statistics Program, the unit 
+of analysis is a combination of a person and a case. For example, if the same 
+person is involved in three different criminal cases during the period specified in 
+this report, then these cases are counted as three defendants, or three cases 
+disposed. Similarly, a single criminal case involving four defendants is counted 
+as four cases disposed. 
+
+Released defendant—Defendant is released pretrial prior to case disposition. A 
+release can occur anytime from initial appearance to case disposition. Under 
+this definition, defendants are considered released even if they had been 
+initially detained by the court. 
+
+Types of pretrial release 
+
+Defendants may be released without financial conditions according to the 
+following methods: 
+
+Personal recognizance—The defendant is released subject to no financial or 
+other conditions. 
+
+Unsecured bond—No money is required to be posted before release, but the 
+defendant is liable for full bond amount if the defendant fails to appear. 
+
+Conditional release—Any combination of restrictions that are deemed necessary 
+to guarantee the defendant’s appearance at trial or the safety of the 
+community. These conditions commonly place restrictions on the defendant’s 
+movements, associations, or actions. They may also involve employment or 
+treatment for medical, psychological, or substance abuse conditions. Pretrial 
+conditions are typically attached to defendants released without financial bond; 
+however, courts can impose pretrial conditions on defendants receiving a 
+financial release. 
+
+Defendants may also be released on financial conditions. Financial conditions 
+include the following methods: 
+
+Deposit bond—The defendant is required to post a percentage of the total bond 
+amount with the federal court, (usually 10%). 
+
+Surety bond—The defendant is released subject to guarantees by a third person, 
+usually a bail bondsman, that the full amount will be paid. 
+
+Collateral bond—Money or property equal to the full bond amount required to 
+be posted by the defendant before release. 
+
+Financial conditions may occur in combination with nonfinancial conditions. 
+Types of pretrial detention 
+According to the Bail Reform Act of 1984, preventive detention is applicable in 
+instances in which the defendant was charged with— 
+1) a crime of violence 
+2) an offense with a statutory maximum sentence of life imprisonment or death 
+3) a drug offense with a statutory maximum sentence of 10 years or more 
+imprisonment 
+4) any felony offense if the defendant had been convicted on two or more 
+occasions of an offense described above or a similar state-level offense. 
+
+A defendant on preventive detention is typically detained during the entire 
+period from initial appearance through case adjudication. Other forms of 
+pretrial detention include detention because defendants could not meet the 
+financial bond set by the court or because they were unable to meet specified 
+pretrial conditions. 
+
+Pretrial misconduct—Instances in which a released defendant violated their 
+pretrial release conditions. 
+
+Types of pretrial misconduct 
+
+The following types of events are included under pretrial misconduct: 
+
+Technical violation—Events in which the defendant failed to comply with their 
+pretrial release conditions, including failing a drug test, failing to maintain or 
+seek employment, refusing to maintain contact with a pretrial supervision 
+officer, or violating weapons prohibitions. 
+
+Failure to appear—Occurs when a defendant misses a scheduled court 
+appearance. 
+
+Rearrest for new offenses—Occurs when a defendant is rearrested for felony or 
+misdemeanor offenses committed while out on pretrial release. 
+
+Definitions of major offense categories 
+
+Violent—Includes murder, non-negligent or negligent manslaughter, aggravated 
+or simple assault, robbery, rape or sexual abuse, kidnapping, and threats against 
+the President. 
+
+Property—Includes fraudulent and other types of property offenses. 
+Fraudulent property—Includes embezzlement, fraud (including tax fraud), 
+forgery, and counterfeiting. 
+
+Other property—Includes burglary, larceny, motor vehicle theft, arson, 
+transportation of stolen property, and other property offenses, such as 
+destruction of property and trespassing. 
+
+Drug—Includes offenses prohibiting the manufacture, import, export, 
+distribution, or dispensing of a controlled substance (or counterfeit substance), 
+or the possession of a controlled substance (or a counterfeit substance) with 
+intent to manufacture, import, export, distribute, or dispense. 
+
+Public-order—Includes regulatory and other types of offenses.
+ 
+Regulatory public-order—Includes violation of regulatory laws and regulation in 
+agriculture, antitrust, labor law, food and drug, motor carrier, and other 
+regulatory offenses. 
+
+Other public-order—Includes nonregulatory offenses concerning tax law 
+violations (tax fraud), bribery, perjury, national defense, escape, racketeering 
+and extortion, gambling, liquor, mailing or transporting of obscene materials, 
+traffic, migratory birds, conspiracy, aiding and abetting, jurisdictional offenses, 
+and other public-order offenses. 
+
+Weapons—Includes violations of any of the provision of 18 U.S.C. 922–923 
+concerning the manufacturing, importing, possessing, receiving, and licensing of 
+firearms and ammunition. 
+
+Immigration—Includes offenses involving illegal entrance into the United States, 
+illegally reentering after being deported, willfully failing to deport when so 
+ordered, or bringing in or harboring any aliens not duly admitted by an 
+immigration officer.
+
+PMF  11/12/12

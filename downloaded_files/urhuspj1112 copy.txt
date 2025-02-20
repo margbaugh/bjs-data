@@ -1,0 +1,1177 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+********************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5433
+*********************************************************
+
+Special Report
+
+Use of Restrictive Housing in U.S. Prisons and Jails, 2011–12
+
+Allen J. Beck, Ph.D., BJS Statistician
+
+On an average day in 2011–12, up to 4.4% of state and federal 
+inmates and 2.7% of jail inmates were held in administrative 
+segregation or solitary confinement. Nearly 20% of prison inmates 
+and 18% of jail inmates had spent time in restrictive housing, 
+including disciplinary or administrative segregation or solitary 
+confinement, in the past 12 months or since coming to their current 
+facility, if shorter.  Approximately 10% of all prison inmates 
+and 5% of jail inmates had spent 30 days or longer in restrictive 
+housing.
+
+This report is based on data from the National Inmate Survey 
+(NIS), 2011–12, conducted in 233 state and federal prisons and 357 
+local jails, with a sample of 91,177 adult inmates nationwide. 
+The NIS is part of the National Prison Rape Statistics Program, 
+which collects reports of sexual victimization from administrative 
+records and from allegations of sexual victimization directly from 
+victims through surveys of inmates in prisons and jails. The inmate 
+surveys contain a wide range of data beyond measures of sexual 
+victimization, including items useful for describing inmates held 
+in state and federal prisons or local jails and their confinement 
+experiences. The Bureau of Justice Statistics (BJS) completed 
+the third NIS between February 2011 and May 2012.
+
+**********************************************************
+***************
+Highlights
+***************
+
+* Younger inmates, inmates without a high school diploma, and 
+lesbian, gay, and bisexual inmates were more likely to have spent 
+time in restrictive housing than older inmates, inmates with a 
+high school diploma or more, and heterosexual inmates (figure 1).
+
+* Inmates held for a violent offense other than a sex offense 
+and inmates with extensive arrest histories or prior incarcerations
+ were more likely to have spent time in restrictive housing 
+than inmates held for other offenses and inmates with no prior 
+arrests or incarcerations.
+
+* Use of restrictive housing was linked to inmate mental health problems: 
+29% of prison inmates and 22% of jail inmates with current symptoms 
+of serious psychological distress had spent time in restrictive 
+housing units in the past 12 months.
+
+* More than three-quarters of inmates in prisons and jails who had been 
+written up for assaulting other inmates or staff spent time in restrictive 
+housing in the past 12 months.
+
+* Among inmates who had spent 30 or more days in restrictive housing in the 
+past 12 months or since coming to the facility, 54% of those in prison and 
+68% of those in jail had been in a fight or had been written up for 
+assaulting other inmates or staff. 
+
+* Prison and jail facilities varied widely in their rates of use of 
+restrictive housing. In 17% of prisons and 9% of jails, fewer than 5% of 
+inmates spent time in restrictive housing. In comparison, in 38% of prisons 
+and 24% of jails at least 25% of the inmates had spent such time.
+
+* Prisons with higher rates of restrictive housing had higher levels of 
+facility disorder; lower levels of inmate trust and confidence in staff; 
+higher concentrations of violent inmates (other than sex offenders) and 
+inmates with longer criminal histories; higher percentages of inmates with 
+mental health problems; and higher percentages of lesbian, gay, and bisexual 
+inmates.
+**********************************************************
+
+*****************************************
+Measuring the use of restrictive housing
+*****************************************
+
+The National Inmate Survey (NIS) is part of the National Prison Rape 
+Statistics Program, which collects reports of sexual victimization from 
+administrative records and from allegations of sexual victimization directly 
+from victims through surveys of inmates in prisons and jails. The Bureau of 
+Justice Statistics (BJS) has implemented this program to meet the 
+requirements of the Prison Rape Elimination Act of 2003 (P.L. 108-79). 
+However, the inmate surveys contain a wide range of data beyond measures of 
+sexual victimization, including items useful for describing inmates held in 
+state and federal prisons and local jails and their confinement experiences. 
+This report examines data reported by inmates held in adult facilities on 
+their current housing and any time spent in disciplinary or administrative 
+segregation or solitary confinement in the past 12 months or since coming to 
+the facility, if shorter.
+
+The use of restrictive housing is difficult to measure. Absent uniform 
+definitions and information systems that classify inmates in comparable 
+categories, estimates based on data reported by correctional officials are 
+subject to variation and uncertainty, depending on the data collection. 
+Nevertheless, almost every correctional system, at the federal, state, or 
+local level, places inmates in some form of restrictive housing to separate 
+some inmates from the general institutional population.
+
+Inmates may be held in restrictive housing for their protection or for the 
+safety of other inmates. They may be held while awaiting classification or 
+reclassification, while awaiting transfer to another facility or unit within 
+a facility, or while awaiting a hearing or as a sanction for violating a 
+facility rule. Inmates may also be separated from the general population to 
+provide for their special needs (e.g., medical or mental health) or to ensure 
+the safety, security, and orderly operation of the facility. Whether it is 
+disciplinary segregation, administrative segregation (largely nonpunitive in 
+nature), or solitary confinement (involving isolation and relatively little 
+out-of-cell time), restrictive housing typically involves limited interaction 
+with other inmates, limited programming opportunities, and reduced 
+privileges. However, the use of restrictive housing varies widely in terms of 
+duration and conditions of confinement.
+
+The NIS surveys, which involve separate samples of prisons and jails, collect 
+information on the use of restrictive housing from the perspective of the 
+inmates. Data from the most recent National Inmate Survey (NIS-3), conducted 
+between February 2011 and May 2012, provide measures of prevalence beyond the 
+housing status of inmates on a single day, including whether the inmates had 
+spent any time in restrictive housing in the past 12 months or since coming 
+to the facility, if shorter, and the total amount of time they had spent. The 
+surveys of prison and jail inmates provide estimates of time in restrictive 
+housing by inmate demographic characteristics, criminal justice status and 
+history, current and past mental health status, and facility misconduct in 
+the past 12 months. When aggregated at the facility level, the NIS-3 data 
+also provide information on a representative sample of prison and jail 
+facilities, including detail on variation among facilities in the use of 
+restrictive housing by selected facility characteristics.
+
+The NIS-3 survey, conducted by RTI International (Research Triangle Park, 
+NC), was administered to 91,177 inmates age 18 or older, including 38,251 
+inmates in 233 state and federal prisons and 52,926 inmates in 357 jails. The 
+results are nationally representative of prison and jail inmates at the time 
+of the survey and representative at the facility level for each sampled 
+facility. (See Methodology for detailed description of the sampling and 
+estimation.)
+**********************************************************
+
+************************
+Individual-level rates
+************************
+
+--------------------------------------------------
+On an average day in 2011–12, up to 4.4% 
+of state and federal prisoners and 2.7% 
+of jail inmates were held in administrative 
+segregation or solitary confinement
+--------------------------------------------------
+
+Based on inmate self-reports, an estimated 1.9% of state and federal 
+prisoners and 2.2% of local jail inmates said they were housed in 
+administrative segregation or solitary confinement at the time of the survey 
+(table 1). However, the actual percentages held in restrictive housing may be 
+higher.
+
+An estimated 2.5% of prison inmates and 0.5% of jail inmates completed a 
+paper survey that did not inquire about their housing status. Many, but not 
+all, of these inmates may have been in administrative or disciplinary 
+segregation. Some were inmates whom staff were reluctant to bring to the 
+interview room because they were considered too violent, and some were 
+inmates whom staff determined should not have access to a computer.
+
+In addition, some inmates were unavailable for any contact by survey staff. 
+Among the inmates selected for the survey, approximately 0.19% of prison 
+inmates and 0.23% of jail inmates were unavailable because they were in 
+segregation; 0.29% of prison inmates and 0.77% of jail inmates were 
+considered too violent even for survey staff to contact for a paper 
+interview; and 0.49% of prison inmates and 0.73% of jail inmates were 
+considered to be mentally incompetent by facility or survey staff (not 
+shown). Combined, these excluded inmates totaled approximately 1.0% of all 
+selected prisoners and 1.7% of all jail inmates. While the survey results 
+were adjusted for nonresponse through a series of weighting adjustments 
+within each selected facility and nationwide, the adjustments were not linked 
+specifically to the reasons for nonresponse. However, the impact on the 
+national estimates was likely to be small because the excluded inmates 
+represented about the same percentages among all selected inmates as found in 
+the final survey estimates. The weighting adjustments were sufficient to 
+provide an overall estimate without including these inmates who were not 
+contacted by survey staff.
+
+The national estimates of percentage held in restrictive housing could be as 
+high as 4.4% of prison inmates and 2.7% of jail inmates if most of the 
+inmates completing a paper form were assumed to have been in some form of 
+restrictive housing and a further adjustment for nonresponse was made to 
+account for inmates who were held in segregation and unavailable to the 
+survey staff.
+
+--------------------------------------------------
+Nearly 20% of prison inmates and 18% of jail 
+inmates had spent time in restrictive housing 
+in the past 12 months or since coming to the 
+facility, if shorter
+--------------------------------------------------
+
+An estimated 18% of prison inmates and 17% of jail inmates said they 
+had spent time in disciplinary or administrative segregation or solitary 
+confinement in the past 12 months or since coming to the facility, if 
+shorter. If combined with respondents for whom time in restrictive housing 
+was unknown, the actual percentages may be as high as 20% among prison 
+inmates and 18% of jail inmates.
+
+This experience was limited to the inmates’ current facility but 
+increased steadily with time served. Overall, 49% of prison inmates 
+and 92% of jail inmates had been in the facility for less than a year 
+(not shown). During the 12 months prior to the survey, state and 
+federal prisoners had been in the facility for an average of 8.6 
+months and jail inmates for an average of 3.5 months (table 2). 
+
+Among inmates who had been admitted to the facility in the past month, 
+8% of both prison and jail inmates had spent some time in restrictive 
+housing. Among inmates who had been in the facility for 2 to 3 months, 
+12% of prisoners and 14% of jail inmates had spent time in restrictive 
+housing. Among those in the facility for 6 to 8 months, 20% of prisoners 
+and 27% of jail inmates had spent time in restrictive housing. Among 
+inmates who had served 12 months or more, 20% of prisoners and 35% of 
+jail inmates had been in restrictive housing at some point.
+
+The total time inmates had spent in restrictive housing varied among 
+prison and jail inmates. Approximately 10% of all prison inmates and 
+5% of jail inmates said they had spent 30 days or longer in restrictive 
+housing. In comparison, about 3% of prisoners and 6% of jail inmates 
+had spent less than a week.
+
+--------------------------------------------------
+Time in restrictive housing varied among 
+inmate demographic groups
+--------------------------------------------------
+
+Younger inmates were significantly more likely than older inmates 
+to report having spent time in restrictive housing. Among inmates 
+ages 18 to 19, 31% of those in prison and 25% of those in jail had 
+spent some time in restrictive housing (table 3). Among inmates ages 
+20 to 24, 28% of those in prison and 23% of those in jail had been 
+in restrictive housing at some time during the past year. 
+The percentages who reported time in restrictive housing were 
+lower among persons age 30 or older in prison (20% or below) and 
+among persons age 25 or older in jails (19% or below).
+
+Inmates without a high school diploma were more likely than high school 
+graduates to have spent time in restrictive housing. Among prison inmates, 
+20% of those with less than a high school education had spent time in 
+restrictive housing, compared to 15% of those who completed high school. 
+Similarly, among jail inmates, 19% of those with less than high school 
+education had spent time in restrictive housing, compared to 15% of those 
+who had a high school diploma or more.
+
+In prisons, black inmates (21%) were somewhat more likely than white inmates 
+(16%) to have spent time in restrictive housing; however, in jail they were 
+equally likely to have spent such time (17% each). Inmates of other races 
+(including American Indians and Alaska Natives; Asians, Native Hawaiians, and 
+other Pacific Islanders; and those reporting two or more races) were more 
+likely than white inmates to have spent time in restrictive housing (20% in 
+prison and 22% in jail). Hispanic inmates (16% in prison and jail) were as 
+likely as white inmates in prison and white and black inmates in jail to 
+report having spent time in restrictive housing.
+
+Lesbian, gay, and bisexual inmates (28% in prison and 22% in jail) were more 
+likely than heterosexual inmates (18% in prison and 17% in jail) to have 
+spent some time in restrictive housing.
+
+--------------------------------------------------
+Time in restrictive housing units linked 
+to current offense and past criminal 
+justice contacts
+--------------------------------------------------
+
+* Inmates held for a violent offense other than a sex offense (25% in prison 
+and 28% in jail) were significantly more likely than inmates held for other 
+offenses to have spent time in restrictive housing (table 4).
+
+* Inmates with extensive criminal histories were also more likely than 
+inmates with shorter criminal histories to have spent time in restrictive 
+housing. Among inmates with 11 or more prior arrests, 24% of those in prison 
+and 22% of those in jail had been in restrictive housing. In comparison, 
+about 13% of inmates in prisons and jails who had been arrested once had been 
+in restrictive housing.
+
+* Inmates who had a prior incarceration (20% of prison inmates and 19% of 
+jail inmates) were more likely than other inmates (about 13% for both) to 
+have been in restrictive housing in the past 12 months.
+
+* Among inmates who had been in prison or jail before, the percentage 
+reporting time in restrictive housing increased with amount of time they had 
+served in the past. Among those who had served 5 or more years on a prior 
+incarceration, 21% of prisoners and 22% of jail inmates had been in 
+restrictive housing at some time in the past 12 months.
+
+--------------------------------------------------
+Use of restrictive housing linked to inmate 
+mental health problems
+--------------------------------------------------
+
+The inmate surveys collected data on the past mental health problems of 
+inmates. Inmates were asked whether they had ever been told by a mental 
+health professional that they had a mental health disorder, or if because of 
+a mental health problem they had stayed overnight in a hospital or other 
+facility, used prescription medicine, or received counseling or treatment 
+from a trained professional. (See Methodology for more detail.)
+
+On every measure of past mental health problems, inmates who reported a 
+problem were also more likely than other inmates to report that they had 
+spent time in restrictive housing in the past 12 months or since coming to 
+the facility, if shorter (table 5). Time in restrictive housing was reported 
+by--
+
+* 26% of prison inmates and 23% of jail inmates who had been told they had a 
+mental health disorder
+
+* 31% of prison inmates and 25% of jail inmates who had stayed overnight in a 
+hospital or other facility during the 12 months prior to their admission for 
+mental health problems
+
+* 26% of prison inmates and 23% of jail inmates who at the time of the 
+current offense were taking prescription medicine for mental health problems
+
+* 26% of prison inmates and 23% of jail inmates who had ever received 
+counseling or therapy from a trained professional—such as a psychiatrist, 
+psychologist, social worker, or nurse—for mental health problems.
+
+Lower percentages of inmates without a mental health problem had spent time 
+in restrictive housing. Overall, about 14% of prison inmates and 12% of jail 
+inmates who reported no past mental health problems had spent time in 
+restrictive housing.
+
+--------------------------------------------------
+A high percentage of inmates with current symptoms 
+of serious psychological distress had spent time 
+in restrictive housing units
+--------------------------------------------------
+
+The surveys included the K6 screening scale to determine whether inmates had 
+a current mental health problem. The K6 was previously developed by Kessler 
+and others for estimating the prevalence of mental illness in non-
+institutional settings as a tool to identify cases of psychiatric 
+disorder***Footnote 3 Kessler, R.C., Green, J.G., Gruber, M.J., Sampson, 
+N.A., Bromet, E., Cuitan, M., Furukawa, ... Zaslavsky, A.M. (2010). Screening 
+for serious mental illness in the general population with the K6 screening 
+scale: results from WHO World Mental Health (WHM) survey initiative. 
+International Journal of Methods in Psychiatric Research, 19(1), 4–22***. It 
+has been used widely in epidemiological surveys in the United States and 
+internationally, including with prison populations***Footnote 2 Schneider, 
+K., Richters, J., Butler, T., Yap, L., Richards, A., Grant, L., et al. 
+(2011). Psychological distress and experience of sexual and physical assault 
+among Australian prisoners. Criminal Behaviour and Mental Health, 21(5), 333-
+349***.
+
+Since 2008, the K6 scale has been used in federal epidemiological studies to 
+measure symptoms of serious psychological distress (SPD). Although the K6 has 
+been demonstrated to be a good predictor of serious mental illness in prior 
+studies, a technical advisory group, convened by the Center for Mental Health 
+Services at the Substance Abuse and Mental Health Services Administration 
+(SAMHSA), recommended that it should be supplemented with questions on 
+functional impairment to improve statistical prediction and validity. (See 
+Methodology for detail on specific items and scoring.)
+
+Consistent with other measures of mental health or emotional problems, the K6 
+revealed that prison and jail inmates identified with SPD were more likely 
+than inmates with no mental health symptoms to have spent time in restrictive 
+housing. Among inmates with symptoms of psychological distress, 29% of those 
+in prison and 22% of those in jail had spent time in restrictive housing in 
+the past 12 months or since coming to the facility. In comparison, among 
+inmates with no symptoms of mental health problems, approximately 15% of 
+those in both prisons and jails had been in restrictive housing.
+
+While these differences may reflect a variety of factors related to the use 
+of segregation by correctional authorities, including sanctions imposed for 
+violations of facility rules, they may also reflect the need to provide 
+protective custody (for nonpunitive reasons) and placement in administrative 
+segregation (while assessing treatment needs and appropriate classification). 
+Moreover, time in restrictive housing—especially longer periods of time—may 
+trigger symptoms of SPD.
+
+Data also showed that inmates who had not spent any time in restrictive 
+housing had lower levels of SPD than other inmates. Among prison inmates who 
+had not spent any time in restrictive housing, 13% were identified with SPD.
+Among jail inmates without any time in restrictive housing, 25% were 
+identified with SPD (table 6).
+
+Among both prison and jail inmates, rates of SPD were significantly higher 
+among those who had spent time in restrictive housing; however, the rates did 
+not increase with the length of time they had been in such housing. An 
+estimated 24% of prison inmates and 35% of jail inmates who had spent 30 days 
+or longer in restrictive housing had SPD. Nearly identical rates of SPD were 
+reported among inmates who had been in restrictive housing for only a day 
+(22% of prison inmates and 35% of jail inmates). Overall, the data revealed 
+no relationship between the length of time in restrictive housing and rates 
+of SPD.
+
+--------------------------------------------------
+More than three-quarters of inmates written up 
+for assaulting other inmates or staff had spent 
+time in restrictive housing
+--------------------------------------------------
+
+The prison and jail surveys included five items that measure the prevalence 
+of inmate misconduct during the past 12 months or since coming to the 
+facility, if shorter. Inmates were asked whether (1) they had been in a fight 
+with another inmate, (2) they had been written up for assaulting the inmate, 
+(3) they had been in a fight with staff, (4) they had been written up for 
+physically assaulting a staff member, and (5) they had been written up for 
+verbally assaulting a staff member. (See Methodology for detail.)
+
+Time in restrictive housing was reported by--
+
+* 49% of prison inmates and 43% of jail inmates who had been in a fight with 
+another inmate
+
+* 56% of prison inmates and 52% of jail inmates who had been in a fight with 
+staff
+
+* at least three-quarters of those who had been written up for fighting with 
+other inmates (77% in prison and 79% in jail) or verbally assaulting staff 
+(74% in prison and 80% in jail)
+
+* more than 80% of both prison and jail inmates who had been written up for 
+physically assaulting a correctional officer or other facility staff (table 
+7).
+Approximately 10% to 11% of inmates who had no mention of fighting or being 
+written up for assaulting other inmates or staff had spent some time in 
+restrictive housing.
+
+Among inmates serving the longest amount of time in restrictive housing 
+(i.e., 30 or more days in the past 12 months or since coming to the facility, 
+if shorter), 54% of those in prison and 68% of those in jail had been in a 
+fight or had been written up for assaulting other inmates or staff (not 
+shown).
+
+---------------------------
+Facility-level rates
+---------------------------
+
+When aggregated at the facility level, the inmate self-reports provide 
+reliable facility-level estimates of the use of restrictive housing. Unlike 
+most BJS surveys, the NIS-3 was designed to provide facility-level estimates 
+with sufficient precision to accurately describe facilities. Within each 
+facility, the number of inmates sampled was based on criteria related to the 
+expected prevalence rate of sexual victimization (4% in prisons and 3% in 
+jails), with a desired level of precision (a standard error of 1.75% in 
+prisons and 1.40% in jails) and an expected response rate (70% in prisons and 
+65% in jails). Due to the size of the samples within each facility, the NIS 
+can provide estimates for other facility-level characteristics. See Sexual 
+Victimization in Prisons and Jails Reported by Inmates, 2011–12 (NCJ 241399, 
+BJS web, May 2013.)
+
+The data reveal significant variation in the use of restrictive housing 
+across prison and jail facilities. On average, prisons and jails used 
+restrictive housing at similar levels: 17% of inmates in the average prison 
+and 17% in the average jail had spent time in restrictive housing in the past 
+12 months or since coming to the facility (table 8). However, the 
+distributions of facility-level rates were quite different:
+
+* Fewer than 1% of their inmates had spent time in restrictive housing in 7% 
+of the jails and less than 1% of prisons.
+
+* 25% or more of the inmates had been in restrictive housing in 38% of the 
+nation’s prisons, compared 24% of jails.
+
+Prisons had higher rates than jails of inmates held in restrictive housing 
+for 30 days or more. Approximately 27% of jails had held less than 1% of 
+their inmates for 30 days or more, compared to 13% of prisons. At least 30% 
+of prisons had held 10% or more of their inmates in restrictive housing for 
+30 days or more, compared to 17% of jails.
+
+--------------------------------------------------
+Use of restrictive housing associated with 
+indicators of facility disorder
+--------------------------------------------------
+
+In the absence of administrative data on assaults, gang activity, seizures of 
+weapons, or other security incidents, the inmate self-report data may also be 
+used to provide independent measures for each facility. The prison and jail 
+surveys asked inmates to report on--
+
+* fighting within their facility and whether they had been in a fight with 
+other inmates or staff
+
+* whether they worried about being assaulted by other inmates
+
+* whether they had seen other inmates with weapons
+
+* if there was lots of gang activity in the facility
+
+* if some of their possessions had been taken by other inmates. 
+
+When aggregated at the facility level, the inmate responses provided a series 
+of indicators of facility disorder. (See Methodology for more detail.)
+
+The data revealed a clear relationship between the use of restrictive housing 
+in facilities and these indicators of facility disorder. On every measure, 
+prison facilities with higher percentages of inmates reporting disorder had 
+higher rates of inmates held in restrictive housing in the past 12 months 
+(table 9). In prisons, the correlation with the use of restrictive housing 
+was the highest for the percentage of inmates reporting having been in fights 
+with other inmates (r=0.65) and in fights with staff (r=0.59).
+
+In prisons, the same pattern was found for the percentage of inmates held in 
+restrictive housing for 30 days or more. Facilities in which a high 
+percentage of inmates reported having been in fights with staff (r=0.61) or 
+other inmates (r=0.53) also had high rates of using long-term segregation.
+
+Among jails, five of the seven measures of facility disorder were associated 
+with greater use of restrictive housing. Although the correlations in jails 
+were generally lower than those observed in prisons, the percentage of 
+inmates who had been in restrictive housing at some time in the past 12 
+months or since coming to the facility remained strongly related to the 
+percentage who had been in fights with other inmates (r=0.37) and staff 
+(r=0.37). The same relationships were found for the percentage of inmates who 
+had spent 30 days or more in restrictive housing.
+
+--------------------------------------------------
+Facility-level rates of restrictive housing 
+associated with characteristics of inmates housed
+--------------------------------------------------
+
+Selected facility-level measures were calculated based on inmate-level 
+characteristics associated with reports of time in restrictive housing. 
+Facilities’ use of restrictive housing varied in the types of inmates that 
+they held. These measures of facility composition included the percentage of 
+inmates--
+
+* with serious psychological distress
+
+* with a past mental health problem
+
+* held for violent crimes other than sex offenses
+
+* with 11 or more prior arrests
+
+* with a prior incarceration
+
+* with less than a high school diploma
+
+* who were lesbian, gay, or bisexual
+
+* who were ages 18 to 24. (See Methodology for more detail.)
+
+Among prisons, five of the eight measures of facility composition were 
+associated with greater use of restrictive housing (table 10). The 
+correlation with use of restrictive housing was the highest for the 
+percentage of inmates with current symptoms of SPD (r=0.65) or past mental 
+health problems (r=0.48) and the percentage held for violent offenses other 
+than sex offenses (r=0.50). While facilities with an increasing percentage of 
+inmates with 11 or more prior arrests also had higher rates of restrictive 
+housing, the association was not as strong (r=0.20). The data also revealed a 
+clear link between the percentage of inmates who were lesbian, gay, or 
+bisexual and the greater use of restrictive housing (r=0.33).
+
+The same patterns were found for the percentage of inmates held in 
+restrictive housing for 30 days or more, although the correlations were 
+somewhat weaker. The percentage of inmates held with symptoms of SPD (r=0.51) 
+and the percentage held for violent crimes (excluding sex offenders) (r=0.46) 
+were the most strongly correlated with the percentage of inmates who spent 30 
+days or more in restrictive housing.
+
+The composition of inmates held in local jail facilities was largely 
+unrelated to the use of restrictive housing. Among jails, only two of the 
+eight measures of facility composition were positively associated with the 
+greater use of restrictive housing.
+
+The percentage of inmates with past mental health problems had the strongest 
+correlation (r=0.42) with the percentage of inmates who had spent any time in 
+restrictive housing. One of the composition measures for jail facilities was 
+associated with the percentage of inmates who had spent 30 days or more in 
+restrictive housing. In constrast, the percentage of inmates with 11 or more 
+prior arrests was negatively correlated with the rate of long-term 
+restrictive housing (r=-0.19).
+
+--------------------------------------------------
+Lack of inmate trust and confidence in staff 
+linked to greater use of restrictive housing
+--------------------------------------------------
+
+The prison and jail surveys also included items that asked inmates to 
+characterize staff, including whether the staff at the facility--
+
+* are generally fair
+
+* do their best to make this facility safe and secure
+
+* try to meet the needs of the inmates
+
+* break up fights quickly
+
+* use physical force only when necessary
+
+* let inmates know what is expected of them
+
+* generally treat inmates with respect
+
+* follow facility rules when handling inmate complaints and grievances
+
+* often write up inmates who don’t deserve it.
+
+As with the measure of facility disorder and inmate composition, the inmate 
+self-report data may be used to provide an independent measure of the overall 
+level of trust and confidence that inmates have with the staff in each 
+facility. (See Methodology for more detail.)
+
+The responses to these nine items were combined at the inmate level and then 
+weighted to provide a summary score for each facility. To account for item 
+nonresponse, inmate-level scores were calculated only if an inmate had 
+responded to two or more items. Their score reflected the percentage of items 
+for which the inmate had provided a negative response (“disagree” for all 
+items except the last, and “agree” that staff “often write up inmates who 
+don’t deserve it”). In each facility, the inmate responses were then averaged 
+(weighted by the inmate weight adjusted for nonresponse) to provide an 
+overall facility-level score. The facility-level scores in prisons ranged 
+from 5% to 72% (with a weighted mean of 46%), and in jails from 8% to 73% 
+(with a weighted mean of 37%). The higher the percentage, the more negative 
+the inmates’ assessments of the facility staff.
+
+There was a clear relationship between the use of restrictive housing and 
+this summary indicator of facility climate. Prison facilities with higher 
+percentages of inmates reporting negative assessments of staff had higher 
+percentages of inmates held in restrictive housing (r=0.38) and higher 
+percentages of inmates being held for 30 days or more (r=0.33) (table 11). 
+Among jail facilities, the association with  negative perceptions of staff 
+fairness and trust was limited to the percentage of inmates who had spent 30 
+days or more in restrictive housing (r=0.25).
+
+Other indicators of a facility’s climate included measures related to 
+crowding and sufficient staff at the facility. Inmates were asked about 
+crowding in their housing unit and in areas outside of their housing unit 
+(such as in the dining hall, classrooms, gym, or work areas). Inmates who 
+reported “very crowded” were weighted and summed to provide a measure of 
+crowding. In addition, inmates were asked if the facility had enough staff to 
+provide for the safety and security of inmates. Again, when their responses 
+were aggregated at the facility level, they provided an indicator of facility 
+climate. (See Methodology for more detail.)
+
+The use of restrictive housing was unrelated to prison crowding. Neither 
+measure was associated with the percentage of inmates held in restrictive 
+housing. In jail facilities, crowding of areas outside of the housing units 
+was correlated with greater use of restrictive housing (r=0.50) but not with 
+the length of time in such housing (r=0.17, which was not statistically 
+significant).
+
+As with measures of facility disorder, lack of sufficient staff was 
+associated with a facility’s use of restrictive housing. Among prison 
+facilities, the higher the percentage of inmates reporting that the facility 
+did not have enough staff to provide for the safety and security of inmates, 
+the higher the percentage of inmates who reported time in restrictive housing 
+(r=0.31) and the percentage who spent 30 days or more in such housing 
+(r=0.20). In jail facilities, only the percentage of inmates reporting a lack 
+of staff to provide for safety and security was associated with the 
+percentage who spent 30 days or more in restrictive housing (r=.25).
+
+A consistent pattern was observed at the facility-level. Facilities with 
+higher rates of restrictive housing had higher levels of facility disorder; 
+lower levels of inmate trust and confidence; higher concentrations of violent 
+inmates and inmates with longer criminal histories; higher percentages of 
+inmates with mental health problems; and higher percentages of vulnerable 
+populations (i.e., lesbian, gay, and bisexual inmates, and younger inmates)
+
+***************
+Methodology
+***************
+
+-----------------------------------
+National Inmate Survey-3 (NIS-3)
+-----------------------------------
+
+The National Inmate Survey is part of the National Prison Rape Statistics 
+Program, which collects reports of sexual victimization from administrative 
+records and from allegations of sexual victimization directly from victims 
+through surveys of inmates in prisons and jails. BJS has implemented this 
+program to meet the requirements of the Prison Rape Elimination Act of 2003 
+(P.L. 108-79). The inmate surveys contain a wide range of data beyond 
+measures of sexual victimization, including items useful for describing 
+inmates held in the state and federal prisons and local jails and their 
+confinement experiences. This report examines data reported by inmates held 
+in adult facilities on their current and past time spent in disciplinary or 
+administrative segregation or solitary confinement.
+
+BJS completed the third National Inmate Survey (NIS-3) between February 2011 
+and May 2012. The survey, conducted by RTI International (Research Triangle 
+Park, NC), was administered to 91,177 inmates age 18 or older, including 
+38,251 inmates in 233 state and federal prisons and 52,926 inmates in 357 
+jails. The results are nationally representative of prison and jail inmates 
+at the time of the survey.
+
+The NIS-3 consisted of an audio computer-assisted self-interview (ACASI) in 
+which inmates used a touch-screen to interact with a computer-assisted 
+questionnaire and followed audio instructions delivered via headphones. Some 
+inmates (733 prison inmates and 255 jail inmates) completed a short paper 
+form instead of using the ACASI. Many of these inmates were housed in 
+administrative or disciplinary segregation or were considered too violent to 
+be interviewed, some were inmates who refused to come to the interview room, 
+and some were inmates who staff were reluctant to bring to the interview room 
+for other reasons.
+
+For approximately the first two minutes, survey interviewers conducted a 
+brief personal interview to obtain background information and the date of 
+admission to the facility. For the remainder of the interview, respondents 
+interacted with a computer-administered questionnaire using a touch-screen 
+and synchronized audio instructions delivered via headphones. Respondents 
+completed the ACASI portion of the interview in private, with the interviewer 
+either leaving the room or moving away from the computer.
+
+--------------------------------------------------
+Selection of prisons and inmates within prisons
+--------------------------------------------------
+
+A sample of 241 state and federal prisons was drawn to produce a sample 
+representing the 1,158 state and 194 federal adult confinement facilities 
+identified in the 2005 Census of State and Federal Adult Correctional 
+Facilities, which was supplemented with updated information from websites 
+maintained by each state department of corrections (DOC) and the federal 
+Bureau of Prisons (BOP). Of the 241 selected prison facilities, seven had 
+closed prior to the start of data collection, and one had transitioned from 
+holding males to females during the data collection period and was considered 
+a closed facility, based on the original sampling criteria. All of the other 
+selected prison facilities participated fully in the NIS-3.
+The NIS-3 was restricted to confinement facilities—institutions in which 
+fewer than 50% of inmates were regularly permitted to leave, unaccompanied by 
+staff, for work, study, or treatment. Such facilities included prisons, 
+penitentiaries, prison hospitals, prison farms, boot camps, and centers for 
+reception, classification, or alcohol and drug treatment. The NIS-3 excluded 
+community-based facilities, such as halfway houses, group homes, and work 
+release centers.
+
+A roster of inmates was obtained just prior to the start of data collection 
+at each facility. Inmates who were age 15 or younger and inmates who were 
+released prior to data collection were deleted from the roster. Inmates who 
+were ages 16 to 17 were sampled separately and have been excluded from this 
+report.
+
+Each eligible adult inmate was assigned a random number and sorted in 
+ascending order. Inmates were selected from the list up to the expected 
+number of inmates determined by the sampling criteria that reflected the 
+projected response rate (70%), a desired level of precision, and size of the 
+facility. A total of 74,655 adult prison inmates were selected. After 
+selection, 2,233 ineligible inmates were excluded. Overall, 60% of the 
+selected eligible prison inmates participated in the survey. Approximately 
+90% of the participating prison inmates (38,251 adults) completed the sexual 
+assault survey from which the data on restrictive housing were drawn.
+
+--------------------------------------------------
+Selection of jail facilities and jail inmates
+--------------------------------------------------
+
+A sample of 393 jails was drawn to represent the 2,957 jail facilities 
+identified in the 2005 Census of Jail Inmates, which was supplemented with 
+information obtained from inmate surveys (NIS-1 and NIS-2) conducted in 2007 
+and 2008–09. The 2005 census was a complete enumeration of all jail 
+jurisdictions, including all publicly operated and privately operated 
+facilities under contract to jail authorities. The NIS-3 was limited to jails 
+that held six or more inmates on June 30, 2005. These jails held an estimated 
+720,171 inmates age 18 or older on June 30, 2011.
+
+Jail facilities were sequentially sampled with probabilities of selection 
+proportionate to size (as measured by the number of inmates held on June 30, 
+2005). Of the 393 selected jails in the NIS-3, 20 facilities refused to 
+participate, 2 were excused due to construction or lack of space at the 
+facility, and 14 were determined to be ineligible. All of the other selected 
+jail facilities participated fully in the NIS-3.
+
+A roster of inmates was obtained just prior to the start of data collection 
+at each facility. Inmates who were age 15 or younger and inmates who had not 
+been arraigned were removed from the roster. Inmates who were ages 16 to 17 
+(juveniles) were sampled separately and have been excluded from this report.
+
+Each eligible adult inmate was assigned a random number and sorted in 
+ascending order. Inmates were selected from the list up to the expected 
+number of inmates determined by the sampling criteria.
+
+Due to the dynamic nature of jail populations, a second roster of inmates was 
+obtained on the first day of data collection. Eligible adult inmates who 
+appeared on the second roster but who had not appeared on the initial roster 
+were identified. These inmates had been arraigned since the initial roster 
+was created or were newly admitted to the facility and arraigned. A random 
+sample of these new inmates was chosen using the same probability of 
+selection used to sample from the first roster.
+
+A total of 112,594 jail inmates were selected. After selection, 11,342 
+ineligible inmates were excluded: 9,479 were released or transferred to 
+another facility before interviewing began, 1,036 were mentally or physically 
+unable to be interviewed, 25 were age 15 or younger or their age could not be 
+obtained during the interview process, 296 were selected in error (i.e., an 
+inmate was incorrectly listed on the facility roster), and 484 were on 
+unsupervised work release or only served time on weekends.
+
+Of all selected inmates, 22% refused to participate in the survey, 1.1% were 
+not available to be interviewed (e.g., in court, in medical segregation, 
+determined by the facility to be too violent to be interviewed, or restricted 
+from participation by another legal jurisdiction), and 8% were not 
+interviewed due to survey logistics (e.g., language barriers, releases, and 
+transfers to another facility after interviewing began). Overall, 61% of the 
+selected eligible jail inmates participated in the survey. Approximately 90% 
+of the participating jail inmates (52,926 adults) completed the sexual 
+assault survey from which the data on restrictive housing were drawn.
+
+For a more detailed description of the NIS-3 sample, see Sexual Victimization 
+in Prisons and Jails Reported by Inmates, 2011–12 (NCJ 241399, BJS web, May 
+2013).
+
+----------------------------------------
+Weighting and nonresponse adjustments
+----------------------------------------
+
+Responses from interviewed inmates were weighted to provide facility- and 
+national-level estimates. Each interviewed inmate was assigned an initial 
+weight corresponding to the inverse of the probability of selection within 
+each sampled facility. A series of adjustment factors was applied to the 
+initial weight to minimize potential bias due to nonresponse and to provide 
+national estimates.
+
+A final ratio adjustment to each inmate weight was made to provide national-
+level estimates for the total number of inmates age 18 or older who were held 
+in prisons at yearend 2011 or in jails at midyear 2011. These estimates for 
+state prisons were 1,154,600 adult males and 83,400 adult females; for 
+federal prisons, 190,600 adult males and 13,200 adult females; and for jails 
+(with an average daily populations of six or more inmates), 628,620 adult 
+males and 91,551 adult females.
+
+--------------------------------------------------
+Standard errors and tests of significance
+--------------------------------------------------
+
+As with any survey, the NIS estimates are subject to error because they are 
+based on a sample rather than a complete enumeration. A common way to express 
+this sampling variability is to construct a 95%-confidence interval around 
+each survey estimate. Typically, multiplying the standard error by 1.96 and 
+then adding or subtracting the result from the estimate produces the 
+confidence interval. This interval expresses the range of values that could 
+result among 95% of the different samples that could be drawn.
+
+The standard errors in appendix tables 1 through 8 have been used to compare 
+estimates of the prevalence of restrictive housing among selected groups of 
+inmates that have been defined by demographic subgroup, criminal justice 
+status and history, mental health status, and indicators of inmate 
+misconduct. To facilitate the analysis, differences in the estimates of 
+percentage of inmates reporting any time in restrictive housing have been 
+tested and notated for significance at the 95%-confidence level.
+
+For example, the difference in the percentage who reported time in 
+restrictive housing among white prison inmates (16.0%), compared to black 
+prison inmates (20.8%), was statistically significant at the 95% level of 
+confidence (table 3 and appendix table 3). In all tables providing detailed 
+comparisons, statistically significant differences at the 95% level of 
+confidence or greater have been designated with two asterisks (**).
+
+The standard errors in appendix tables 9 through 11 have been provided to 
+test the significance of the linear association (based on the Pearson 
+product-moment coefficient) between selected facility characteristics and the 
+percentage of inmates who experienced time in restrictive housing. By 
+weighting by the inverse of the probability of selection of each facility, 
+the facility-level estimates and standard errors take into account the 
+sampling variability at the first stage in the NIS-3 sampling design. To 
+construct a 95%-confidence interval around each correlation coefficient, the 
+standard error may be multiplied by 1.96 and then added or subtracted from 
+the estimated coefficient. The coefficient is considered statistically 
+significant when the confidence interval excludes zero.
+
+For example, the estimated correlation between the percentage of inmates in 
+prisons who were frequently in fights and the percentage of inmates who 
+reported having spent some time in restrictive housing was 0.52. Based on a 
+standard error of 0.08, the 95%-confidence interval was 0.36 to 0.68, which 
+was statistically significant (table 9 and appendix table 9). In all tables 
+providing estimated correlations, statistically significant coefficients at 
+the 95% level of confidence or greater have been designated with two 
+asterisks (**).
+
+--------------------------------------------------
+Measures of time in restrictive housing
+--------------------------------------------------
+
+Prior to the start of the ACASI portion of the survey, interviewers conducted 
+a brief personal interview using CAPI to obtain background information and 
+the date of admission to the facility. The CAPI interview included an item on 
+current housing:
+
+A9. Which of the following best describes the housing unit where you spent 
+last night?
+
+1.	An open dorm
+
+2.	A dorm with cubicles
+
+3.	A unit with cells
+
+4.	A unit with rooms
+
+5.	An area not originally intended as housing, such as a gym, 
+        classroom, or day room
+
+6.	Administrative segregation or solitary confinement
+
+7.	None of these
+
+This item was not administered to inmates who received the paper form. 
+Because many, but not all, of these inmates may have been held in restrictive 
+housing, they were designated as “don’t know” and included in the estimates. 
+Based on the final national weights, 2.5% of prison inmates and 0.5% of jail 
+inmates were in this category.
+
+The ACASI portion of the interview included two additional items on 
+restrictive housing:
+
+X9a. [FILL ITEM], have you spent any time in disciplinary or administrative 
+segregation or solitary confinement?
+1.	Yes
+
+2.	No
+
+
+X9b. [IF X9a=1] [FILL ITEM], how much total time have you spent in 
+disciplinary or administrative segregation or solitary confinement?
+
+1.	1 day or less
+
+2.	More than 1 day but less than 7 days
+
+3.	At least 7 days but less than 14 days
+
+4.	At least 14 days but less than 30 days
+
+5.	30 days or more
+
+As with item A9, these items were also not administered to inmates who 
+received the paper form. Because many, but not all, of these inmates may have 
+been held in restrictive housing while in the facility, they were designated 
+as “don’t know” and included in the estimates.
+
+The FILL ITEM specified a reference period provided automatically by the 
+computer based on how long the inmate had been held at the facility. For 
+inmates who had been held in the prison or jail for less than 12 months, the 
+reference period was “Since you arrived at this facility.” For inmates who 
+had been in the facility for 12 months or more, the reference period was 
+“During the past 12 months.”
+
+--------------------------------------------------
+Screening for serious psychological distress
+--------------------------------------------------
+
+The K6 consists of six questions that ask inmates to report how often during 
+the past 30 days they had felt--
+
+* nervous
+
+* hopeless
+
+* restless or fidgety
+
+* so depressed that nothing could cheer them up
+
+* everything was an effort
+
+* worthless.
+
+The response options were (1) all of the time, (2) most of the time, (3) some 
+of the time, (4) a little of the time, and (5) none of the time. Following 
+Kessler, the responses were coded from 4 to 0, with 4 assigned to “all of the 
+time” and 0 assigned to “none of the time.”***Footnote 1 Kessler, R.C., 
+Green, J.G., Gruber, M.J., Sampson, N.A., Bromet, E., Cuitan, M., Furukawa, 
+... Zaslavsky, A.M. (2010). Screening for serious mental illness in the 
+general population with the K6 screening scale: results from WHO World Mental 
+Health (WHM) survey initiative. International Journal of Methods in 
+Psychiatric Research, 19(1), 4–22.*** A summary scale combining the responses 
+from all six items was then produced with a range of 0 to 24. The summary 
+score was then reduced to three categories: 0 to 7 indicates no mental 
+illness, 8 to 12 indicates an anxiety or mood disorder, and 13 or higher 
+indicates serious psychological distress (SPD). See Sexual Victimization in 
+Prisons and Jails Reported by Inmates, 2011–12 (NCJ 241399, BJS web, May 
+2013) for a discussion of K6 scaling rules and past applications.
+
+--------------------------------------------------
+Measures of past mental health problems
+--------------------------------------------------
+
+The NIS-3 included four items to measure the prevalence of any problems with 
+emotions, nerves, or mental health an inmate may have had in the past:
+
+R24. Have you ever been told by a mental health professional, such as a 
+psychiatrist or psychologist, that you had…
+
+a.	Manic depression, a bipolar disorder, or mania?
+
+b.	A depressive disorder?
+
+c.	Schizophrenia or another psychotic disorder?
+
+d.	Post-traumatic stress disorder or PTSD?
+
+e.	Another anxiety disorder, such as panic disorder or OCD?
+
+f.	A personality disorder, such as antisocial or borderline personality?
+
+g.	A mental or emotional condition other than those listed above?
+
+R27. During the 12 months before you were admitted to [this facility/any 
+facility to serve time on your current sentence], did you stay overnight or 
+longer in any type of hospital or other facility to receive treatment or 
+counseling for problems you were having with your emotions, nerves, or mental 
+health?
+
+R30. At the time of the offense for which you are currently [being 
+held/serving time], were you taking prescription medicine for any problem you 
+were having with your emotions, nerves, or mental health?
+
+R33. Have you ever received counseling or therapy from a trained 
+professional—such as a psychiatrist, psychologist, social worker, or nurse--
+for any problem you were having with your emotions, nerves, or mental health?
+
+----------------------------------
+Measures of inmate misconduct
+----------------------------------
+
+The NIS-3 included five items that measure the prevalence of inmate 
+misconduct during the past 12 months or since coming to the facility, if 
+shorter:
+
+S17. In the past 12 months, have you been in a fight, assault, or incident in 
+which another inmate tried to harm you?
+
+S21. In the past 12 months, have you been in a fight, assault, or incident in 
+which a correctional officer or other facility staff person tried to harm 
+you?
+
+X6a. In the past 12 months, have you been written up or charged with 
+assaulting another inmate?
+
+X7a. In the past 12 months, have you been written up or charged with 
+physically assaulting a correctional officer or other facility staff?
+
+X8a. In the past 12 months, have you been written up or charged with verbally 
+assaulting a correctional officer or other facility staff?
+
+----------------------------
+Facility-level measures
+----------------------------
+
+In the absence of administrative data on characteristics of each facility, 
+the inmate self-report data have been used to provide independent measures of 
+facility disorder, composition, and climate of each facility. Because the NIS 
+sample was designed to produce prevalence estimates of sexual victimization 
+for each sampled facility, it also has the capacity to provide reliable 
+estimates for other facility characteristics. Each facility sampled in the 
+NIS is self-representing, and consequently the inmate responses, when 
+weighted and summed at the facility-level, provide an overall indicator for 
+each sampled facility.
+
+Facility disorder--The NIS included seven items that provide a facility-level 
+estimate of the percentage of inmates reporting some indication of facility 
+disorder:
+
+S13. In the past 12 months, how often are inmates at this facility hit, 
+punched, or assaulted by other inmates? (Percentage reporting “frequently.”)
+
+S14. In the past 12 months, how often do you worry about being hit, punched, 
+or assaulted by other inmates in this facility? (Percentage reporting 
+“frequently.”)
+
+S15. In the past 12 months, how often have you seen other inmates with some 
+type of weapon? (Percentage reporting “frequently” or “sometimes.”)
+
+S16. In the past 12 months, how much gang activity has there been at this 
+facility? (Percentage reporting “a lot.”)
+
+S17. In the past 12 months, have you been in a fight, assault, or incident in 
+which another inmate tried to harm you? (Percentage reporting “yes.”)
+
+S21. In the past 12 months, have you been in a fight, assault, or incident in 
+which a correctional officer or other facility staff person tried to harm 
+you? (Percentage reporting “yes.”)
+
+S25. In the past 12 months, have any of your personal possessions or 
+belongings been taken by another inmate without your permission? (Percentage 
+reporting “yes.”)
+
+Facility composition--Facility composition measures are based on inmate 
+subgroups that have a high percentage who reported time in restrictive 
+housing. When weighted, summed, and converted to percentages at the facility-
+level, the characteristics provide an overall indicator of the percentage of 
+inmates in the facility with the characteristics. These measures include the 
+percentage of inmates--
+
+* with serious psychological distress
+
+* with a past mental health problem
+ 
+* held for a violent offense (excluding sex offenders)
+
+* with 11 or more prior arrests
+
+* with less than a high school diploma or equivalent
+
+* who were lesbian, gay, bisexual, or other sexual orientation (other than 
+heterosexual)
+
+* who were ages 18 to 24.
+
+Facility climate--Facility climate measures are based on three items related 
+to crowding and sufficient staff and nine items related inmate perceptions of 
+staff:
+
+* S6. How crowded is it in your housing unit? (Percentage reporting “very 
+crowded.”)
+
+* S7. How crowded is it outside of the housing unit—for example, in the 
+dining hall, classrooms, gym, or work areas? (Percentage reporting “very 
+crowded.”)
+
+* S29. In the past 12 months, do you think there has been enough staff at 
+this facility to provide for the safety and security of inmates? (Percentage 
+reporting “no.”)
+
+* S9. Please indicate whether you agree or disagree with each of the 
+following statements.
+
+Staff at this facility…
+
+* S9a. Are generally fair
+
+* S9b. Do their best to make this facility safe and secure
+
+* S9c. Try to meet the needs of the inmates
+
+* S9d. Break up fights quickly
+
+* S9e. Use physical force only when necessary
+
+* S9f. Let inmates know what is expected of them
+
+* S9g. Generally treat inmates with respect
+
+* S9h. Follow facility rules when handling inmate complaints and grievances
+
+* S9i. Often write up inmates who don’t deserve it.
+
+The entire ACASI questionnaire (listed as the National Inmate Survey-3) and 
+the shorter paper and pencil survey form (PAPI) are available on the BJS 
+website.
+
+****************************************************************
+The Bureau of Justice Statistics of the U.S. Department of Justice is the 
+principal federal agency responsible for measuring crime, criminal 
+victimization, criminal offenders, victims of crime, correlates of crime, and 
+the operation of criminal and civil justice systems at the federal, state, 
+tribal, and local levels. BJS collects, analyzes, and disseminates reliable 
+and valid statistics on crime and justice systems in the United States, 
+supports improvements to state and local criminal justice information 
+systems, and participates with national and international organizations to 
+develop and recommend national standards for justice statistics. William J. 
+Sabol is director.
+
+This report was written by Allen J. Beck. Jessica Stroop and Tracey Snell 
+verified the report.
+
+Jill Thomas and Morgan Young edited the report. Barbara Quinn and Morgan 
+Young produced the report.
+
+October 2015, NCJ 249209
+****************************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+**********************************************
+10/15/2015 1:050pm JER 
+**********************************************
+
+
+

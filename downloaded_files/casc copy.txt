@@ -1,0 +1,743 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+********************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://bjs.gov/index.cfm?ty=pbdetail&iid=5368
+
+*********************************************************
+Bulletin
+
+Criminal Appeals in State Courts 
+
+Nicole L. Waters, Ph.D., and Anne Gallegos, M.P.A., National 
+Center for State Courts James Green, M.A., and Martha Rozsi, 
+Westat
+
+In 2010, an estimated 69,348 criminal appeals were resolved in 
+the 143 appellate courts with criminal jurisdiction in the United 
+States. Nearly two-thirds (63%) of appeals were reviewed on the 
+merits of the case, and a majority (81%) of these appeals upheld 
+or affirmed the trial court decision (figure 1). Overall, more 
+than half (52%) of all appeals resulted in an affirmation of the 
+trial court decision. Appellate decisions were only considered 
+affirmed when the appellate court upheld the entire trial court 
+decision. In 12% of appeals, appellate courts reversed, remanded, 
+or modified a component of the trial court decision.
+
+More than a third (37%) of appeals were not reviewed on the 
+merits. Appellate courts with discretionary jurisdiction can 
+decide not to grant a petition to review a case or to dismiss the 
+appeal (30% of appeals filed). The appellate court can dismiss a 
+case or deny a review of a case on its merits if the court does 
+not have jurisdiction over a case, if a procedural error prevents 
+the review of a case (e.g., untimely filing of documents), or if 
+the notice of appeal does not allege any reviewable errors. An 
+estimated 7% of appeals were withdrawn by the petitioner or 
+appellant, and less than 1% were transferred or certified to 
+another appellate court. A transfer or certification to the court 
+of last resort (COLR) occurs when an intermediate appellate court 
+(IAC) appeal is reviewed by the COLR, which addresses errors or 
+outcomes with important questions of law or to secure uniformity 
+in case law.
+
+**********************************************************
+**************
+HIGHLIGHTS
+**************
+
+* In 2010, an estimated 69,348 criminal appeals were resolved in 
+the 143 state appellate courts with criminal jurisdiction.
+
+*In 2010, 38 states had both intermediate appellate courts and 
+courts of last resort, while 12 states had courts of last resort 
+only.
+
+* Of the cases reviewed on the merits, 81% were affirmed.  More 
+than half (52%) of all appeals, the appellate court upheld the 
+trial court decision.
+
+* About 2% of all intermediate appellate court appeals were 
+subsequently reviewed by the court of last resort.
+
+* The most common legal issue appellate courts addressed was 
+sufficiency of evidence (15%), followed by excessive or 
+inconsistent sentencing (10%).
+
+* Reversal rates were highest for aggravating or mitigating 
+factors that might affect the severity of the offense (20%).
+
+* In 2010, appellate courts reversed 23% of appeals for drug 
+trafficking, 23% for larceny or theft, 21% for sex offenses, and 
+17% for murder.
+**********************************************************
+
+State appellate courts were created to detect and correct errors 
+in trial court decisions and provide fair, consistent, and timely 
+resolutions to all appeals. This report presents data on state 
+court criminal appeals, resolution of appeals, and time to 
+resolution. Data are from the Bureau of Justice Statistics’ (BJS) 
+2010 Survey of State Court Criminal Appeals (SSCCA). The outcomes 
+were analyzed by type of court, level of court review, and 
+appellate court structure. SSCCA data were collected from a 
+nationally representative sample of all criminal appeals disposed 
+in all 143 state appellate courts in 2010. This report uses those 
+data to provide a national picture of appeals disposed in 2010, 
+including rates of reversal and length of time to appeal 
+resolution. 
+
+********************************
+State appellate court structure
+********************************
+
+The appellate court structure used to process and resolve appeals 
+varies considerably from state to state. In response to the needs 
+of the judiciary and state-specific characteristics, some states 
+created a two-tiered structure, adding IACs to accommodate high 
+workloads. In 2010, 38 states had IACs and COLRs, and 12 states 
+had COLRs only (map 1). In states with a two-tiered system, some 
+IACs were established with geographic divisions to increase 
+access and distribute workload. To selectively reduce caseloads, 
+some states have established strategies (such as discretionary 
+jurisdiction) and implemented rules to assign some cases to panel 
+review (a smaller subset of judges) rather than an en banc review 
+(all judges of a court). See Terms and definitions for more 
+information.
+
+Establishing a two-tiered structure has also affected the roles 
+and responsibilities of appellate courts. Of the 38 states with 
+IACs in 2010, 27 used a two-tiered system of appellate review 
+that includes one or more IACs with primarily mandatory review 
+and a COLR with primarily discretionary review. In such systems, 
+the IAC is mainly responsible for correcting potential errors of 
+the trial court and the COLR is responsible for the 
+interpretation and development of case law. However, for IACs 
+that review appeals by permission (discretionary review) as 
+opposed to by right (mandatory review), the IAC was responsible 
+for the definition and development of the law, in addition to its 
+responsibility to correct errors.
+
+Understanding the organizational structure of the appellate court 
+is necessary for comparing appellate cases across jurisdictions 
+and drawing accurate conclusions about key case and processing 
+characteristics. The nation’s state judiciary has seven basic 
+appellate court structures.
+
+**********************************************************
+
+********************************
+Appellate court structures
+********************************
+
+COLR mandatory--This structure is typically found in states with 
+comparatively small volumes of appeals. There is only one 
+appellate court, a court of last resort (COLR), and the court 
+hears appeals by right.
+
+COLR discretionary--This structure is typically found in states 
+with relatively small volumes of appeals. There is only one 
+appellate court, a COLR, and the court hears appeals by 
+permission.
+
+Deflective structure--In states with this structure, appeals are 
+filed and may be fully briefed and submitted with the COLR, which 
+then retains select appeals and transfers others to the 
+intermediate appellate court (IAC).
+
+COLR discretionary/IAC mandatory—This is the most common 
+appellate court structure. The COLR hears appeals mostly by 
+permission, and the IAC hears appeals mostly by right.
+
+COLR and IAC discretionary--In states with this structure, both 
+the COLR and IAC hear appeals mostly by permission.
+
+IAC by subject matter--States with this structure have more than 
+one IAC that is distinguished by subject matter. For example, one 
+IAC is specialized for criminal appeals and the other IAC reviews 
+civil appeals.
+
+COLR by subject matter--States with this structure have more than 
+one COLR that is distinguished by subject matter. For example, 
+one COLR is specialized for criminal appeals and the other COLR 
+reviews civil appeals.
+**********************************************************
+
+Courts of last resort dismissed more appeals 
+than intermediate appellate courts
+*********************************************
+
+Examining how appeals are resolved by various case 
+characteristics provides additional insight into the national 
+picture of criminal appeals. COLRs primarily interpret and 
+develop case law rather than correct errors in individual cases. 
+In 2010, COLRs primarily reviewed appeals by permission (82%), 
+while IACs primarily reviewed appeals by right (93%). COLRs 
+dismissed more appeals (76%) than IACs (13%), in part due to 
+courts’ discretionary jurisdiction (table 1).
+
+Overall reversal rate for intermediate appellate 
+courts was higher than for courts of last resort 
+*************************************************
+
+In 2010, the overall reversal rate for COLRs was 7% of all 
+appeals. Petitions requesting a COLR to review a case more often 
+came from the defendant (94%) than the state (4%). When the state 
+petitioned the COLR, the court more often reviewed the appeal on 
+the merits (49%) than when the defendant petitioned the COLR 
+(18%). Also, the state won a reversal of the trial court decision 
+more often (40%) than the defendant (5%). Death penalty appeals 
+had a higher reversal rate (19%) than both felony (8%) and 
+misdemeanor (8%) appeals.
+
+Resolutions from an IAC are different than those from a COLR, 
+primarily because one purpose of the IAC is to relieve the 
+workload of the COLR and serve as a first review of potential 
+trial court error. IACs reviewed appeals on the merits in 80% of 
+appeals (table 2). The overall reversal rate for IACs was 14% of 
+all appeals. IAC reversal rates were higher for state-initiated 
+appeals (38%) than for defendant-initiated appeals (13%). 
+However, IACs were nearly as likely to review on the merits a 
+state-initiated appeal (75%) as a defendant-initiated appeal 
+(80%). Ten death penalty appeals were heard by IACs, all of which 
+were reviewed on the merits. Of these 10 appeals, 3 were 
+reversed. The reversal rate for nondeath penalty appeals was 15%.
+***Footnote 1 in alabama and tennessee, the IAC has jurisdication 
+over cases in which the death penalty has been imposed.***
+
+About 2% of all intermediate appellate court appeals were 
+subsequently reviewed by the court of last resort 
+***********************************************************
+
+After a review by the IAC, appellants may seek subsequent review 
+by the COLR. An estimated 29% of IAC appellants sought additional 
+review by the state’s COLR. Of those, the COLR granted additional 
+review for 6%, or 853 appeals. Nearly three-quarters (73%) of 
+those accepted for subsequent review by the COLR arose out of a 
+decision by the IAC to affirm the trial court decision (figure 
+2). Twenty-three percent sought COLR review following a reversal 
+of the trial court decision and 4% following a dismissal by the 
+IAC. A reversal may have resulted in only a partial reversal and 
+may therefore be appealed. Nearly all of the appeals in which the 
+COLR granted subsequent review were initiated by the defendant 
+(93%) and were reviewed on the merits (96%) at the IAC.
+ 
+For appeals reviewed on the merits, nearly all opinions 
+addressed six or fewer legal issues 
+********************************************************
+
+On appeal, the appellants or petitioners present appellate courts 
+with alleged trial court errors through the briefing process and, 
+if applicable, during oral arguments. In response, appellate 
+courts prepare a dispositive opinion when the appeal is reviewed 
+on the merits. In that opinion, the appellate court will address 
+the legal issues presented and, at times, address additional and 
+relevant legal issues.
+ 
+For appeals reviewed on the merits, a majority (97%) of the 
+opinions addressed six or fewer legal issues. The most common 
+legal issue the appellate courts addressed was sufficiency of 
+evidence (15%), or whether the prosecution met the burden of 
+providing facts sufficient to satisfy the burden of proof for 
+each element of the crime charged. The second most common legal 
+issue was excessive or inconsistent sentencing (10%), which 
+includes consecutive or concurrent sentencing decisions, 
+mandatory minimums, and calculations of time served. The third 
+most commonly addressed legal issue was suppression of evidence 
+(8%) related to statements, identification, coerced confessions, 
+illegal search and seizure, and the denial of other pretrial 
+motions requesting the inclusion or exclusion of evidence from 
+trial. 
+
+When the appellate court addressed aggravating or mitigating 
+factors that might affect the severity of the offense, the court 
+found reversible error in 20% of the appeals (figure 3). The 
+reversal rate for excessive or inconsistent sentences was 17%, 
+and the reversal rate for guilty plea challenges was 13%. The 
+court was less likely to reverse legal issues on relevancy or 
+prejudicial evidence (3%) or ineffective counsel (4%).
+
+Reversal rates of convictions varied by the most serious 
+offense in underlying trial case
+********************************************************
+
+Appeals are classified by convictions of the most serious offense 
+in the underlying trial case. In 2010, murder convictions were 
+most often appealed and resulted in a reversal rate of 17%. 
+Appellate courts reversed 23% of appeals for drug trafficking, 
+23% for larceny or theft, 21% for sex offenses, 17% for drug 
+possession, 16% for burglary, and 16% for aggravated and simple 
+assault (figure 4). The top 10 most serious offenses made up 82% 
+of known offense types for all cases brought on appeal.
+
+The median time for an appellate court to resolve an 
+appeal was approximately 10 months
+******************************************************
+
+In 2010, the median time for appellate courts to resolve an 
+appeal was 297 days (figure 5). Appeals heard by permission 
+underwent an additional step in the appellate process—petitioning 
+the court to grant or deny review. The median time for the court 
+to grant or deny a review was 92 days. Once an appeal was 
+initiated, the median time for completing the record preparation 
+was 69 days. The next step was for the petitioner or appellant to 
+brief and fully submit the appeal; the median time for this step 
+was 81 days. The final step, and the longest, was for the 
+appellate court to issue a decision. The median time for the 
+court to issue a decision after the appeal was fully briefed and 
+submitted (or after oral argument, if held) was 107 days.
+
+Case processing times for cases disposed in 2010 should be used 
+with caution when attempting to estimate the case processing 
+times of either cases disposed in other years or cases filed in a 
+particular year. Case processing times are affected by many 
+factors, including existing court rules and guiding legislation, 
+which differ across time periods and vary over the lifespan of a 
+case.
+
+Court types, court structures, and proportion of caseloads 
+undergoing reviews on the merits all contributed to time 
+variations
+***********************************************************
+
+When examining the total duration of cases, time on appeal varied 
+depending on whether or not the court reviewed the case on the 
+merits. Excluding death penalty appeals, the median time from the 
+start of an appeal to the final resolution was more than 1 year 
+(421 days) for appeals reviewed on the merits and about 3.5 
+months (104 days) for those without a review on the merits 
+(figure 6). Time on appeal also varied by type of court (i.e., 
+COLR or IAC). For COLR appeals reviewed on the merits, 50% were 
+resolved in about 1 year (360 days). For IACs, 50% of the appeals 
+reviewed on the merits were resolved within 1.2 years (426 days).
+Differences in the appellate court structures in 2010 defined how 
+courts processed appeals. In Iowa, under a deflective appellate 
+court structure, briefing was consolidated at the COLR before the 
+appeal was assigned to the IAC. In Virginia, both the IAC and the 
+COLR had discretionary jurisdiction over the majority of their 
+caseloads, and fewer appeals were granted review. The most common 
+appellate structure in 2010 occurred when the IAC had mostly 
+mandatory review of its caseload and the COLR had mostly 
+discretionary review.
+
+The median time--—or the time needed to resolve half (50%) of the 
+courts’ appeals—did not vary considerably when comparing 
+appellate court structures (figure 7). However, at the 75th and 
+95th percentiles, courts with mostly discretionary review 
+resolved most appeals in a shorter time than courts with 
+mandatory jurisdiction. In states with mandatory review at the 
+COLR and without an IAC, a small percentage of appeals (5%) 
+remained unresolved until nearly 3 years (1,071 days) after the 
+appeal began.
+
+Additionally, court structures with larger percentages of 
+caseloads resolved on the merits took longer to resolve appeals. 
+Courts without an IAC and a mandatory review by the COLR reviewed 
+more than three-quarters (78%) of its caseload on the merits. 
+Courts with both an IAC and a COLR with discretionary review 
+granted fewer cases overall, and a lower percentage (25%) of its 
+caseload was reviewed on the merits (table 3).
+
+A total of 134 death penalty appeals 
+were resolved in 2010
+******************************************
+
+Appellate courts are expected to review appeals proportionally 
+with regard to the complexities of the case. Death penalty 
+appeals merit relatively more scrutiny and more time than 
+nondeath penalty appeals.
+
+In 2010, a total of 22 courts resolved 134 appeals of death 
+penalty cases. Another 14 appellate courts had jurisdiction over 
+death penalty appeals, but did not dispose of any such appeals in 
+2010. While the majority of death penalty appeals were heard by 
+COLRs, Tennessee and Alabama had specialized criminal 
+jurisdiction IACs that reviewed these appeals. Florida’s COLR 
+resolved the most death penalty appeals (23 appeals), followed by 
+California’s COLR (20 appeals). Connecticut, Utah, and Virginia 
+COLRs each resolved 1 death penalty appeal in 2010 (table 4).
+ 
+Median time to resolve death penalty appeals was three 
+times that of nondeath penalty appeals
+*********************************************************
+
+Case processing time in a year should be interpreted with caution 
+when attempting to estimate the case processing times of either 
+cases disposed in other years or cases filed in a particular 
+year. Because death penalty cases take substantially longer than 
+other types of cases, death penalty cases that are disposed of in 
+a year are initiated across a longer time and therefore have a 
+greater potential of being processed under different rules than 
+other cases. As such, case processing time for death penalty 
+cases should be interpreted with caution.
+
+Death penalty appeals received greater scrutiny by the state’s 
+appellate courts than nondeath penalty cases and had different 
+case processing rules than those for nondeath penalty appeals. 
+For example, many states automatically provide the notice of 
+appeal for death penalty cases to the appellate court through the 
+trial court clerk instead of requiring the appellant to file a 
+notice of appeal. States may also give the petitioner or 
+appellant additional time to file documents for death penalty 
+appeals. Florida allowed 60 days to file transcripts for a 
+nondeath penalty case, but allowed 110 days for a death penalty 
+case. Oklahoma allowed 90 days after judgment for transcripts to 
+be filed in a nondeath penalty appeal, compared to 6 months after 
+sentence for a death penalty appeal.  
+
+Half (50%) of death penalty appeals were resolved in about 2.4 
+years (888 days) and three-quarters (75%) were resolved in 3.4 
+years (1,224 days). In 5% of appeals, the appellate court 
+resolved the appeal in more than 13.9 years or 5,058 days (figure 
+8). The duration of death penalty appeals (13.9 years) was much 
+longer than that of nondeath penalty appeals (2.3 years for 
+misdemeanors and 2.4 years for nondeath penalty felonies) at the 
+95th percentile.
+
+Methodology 
+**************
+
+Data in this report are from the Bureau of Justice Statistics’ 
+(BJS) 2010 Survey of State Court Criminal Appeals (SSCCA). The 
+National Center for State Courts, in collaboration with Westat, 
+conducted the study. Criminal appeals disposed in 2010 were 
+sampled from all 143 appellate courts in the United States that 
+have criminal jurisdiction, which included 51 courts of last 
+resort (COLR) and 92 intermediate appellate courts (IACs) 
+(appendix table 1). The final sample of 5,045 appeals was 
+composed of--
+
+* a nationally representative probability sample of all criminal 
+appeals in 2010
+
+* a complete census of all death penalty appeals in 2010
+
+*a supplemental oversample of COLR appeals resolved in 2010 
+identified in the national sample that were also reviewed by the 
+corresponding IAC.
+
+The first component was a sample that included 4,539 criminal, 
+nondeath penalty appeals disposed in 2010. The second component 
+was a full census (134 appeals) of all death penalty appeals in 
+the nation. Combined, these data included 4,673 appeals from 51 
+COLRs and 90 IACs, which were the main study data for this 
+report. The SSCCA also included a supplemental oversample of 372 
+appeals that were heard by both the IAC and COLR. 
+
+While there was no court-level nonresponse, two of the IACs did 
+not provide any data for the SSCCA. North Dakota’s COLR had the 
+authority to transfer cases to an IAC but had not done so in 
+2010. North Dakota’s IAC was authorized as a temporary court of 
+appeals that was activated when the COLR reached a certain 
+threshold of appeals during the previous year. The threshold was 
+not reached in 2009; therefore, its temporary IAC was not active 
+in 2010. Two cases were sampled in one of Illinois’ IACs 
+(appellate court, fifth district), but were excluded because they 
+did not meet the definitional criteria for inclusion in the SSCCA 
+(i.e., they were study ineligible). Because these appeals were 
+ineligible, appeal-level replacement was not appropriate and was 
+not used. Data represent appeals to the appellate court by right 
+(usually called an appeal and initiated by a notice of appeal) or 
+by permission (usually called a petition and initiated by a 
+petition for leave to appeal or a petition for certiorari).
+
+Inclusion criteria were applied to all appeals. The appeals met 
+two basic criteria: (1) they arose from a final judgment or 
+verdict or sentence in a criminal case, and (2) they were 
+disposed by the appellate court in 2010.
+
+Appeals were generally resolved in calendar year 2010. Exceptions 
+include courts that used a court term or fiscal year calendar to 
+draw the sample or courts that used closure dates other than the 
+date of disposition (e.g., Idaho’s sample was drawn from the 
+“closed date,” which is the date the court issued a remittitur). 
+Regardless of the dates used, all courts represent a full 12 
+months of dispositions.
+
+Alternatively, an appeal was ineligible if it involved defendants 
+tried as juveniles, was post-conviction in nature, occurred 
+pretrial, was interlocutory, contested a probation revocation 
+judgment, or contested a civil commitment. 
+
+Determining the eligibility of an appeal often required a full 
+review of the issues on appeal. For example, postconviction 
+issues (e.g., an application for habeas corpus, making a claim of 
+ineffective counsel, or making a claim that the death penalty is 
+unconstitutional) filed after an initial direct appeal had been 
+decided by the court were excluded. Writs, such as prohibition 
+and mandamus (with the exception of writs of certiorari, if the 
+court used such a writ to initiate an appeal by permission), were 
+also excluded. Interlocutory appeals are appeals filed in 
+response to a trial court’s decision on a motion and do not 
+result in a final judgment at the trial court. Appeals of these 
+interim decisions were also excluded. Finally, violations of 
+court orders were excluded when such violations were not new 
+criminal charges (e.g., probation violations and violations of 
+civil commitment orders). An example of a violation that was 
+retained in the sample was failure to register as a sex offender. 
+This violation was included because it is a crime to not register 
+as a sex offender, making the appeal of the conviction or 
+sentence comparable to other direct appeals.
+
+Sampling
+**************
+
+Each appellate court compiled a universe list of appeals using 
+the inclusion criteria described previously. The data obtained 
+for the 2010 SSCCA come from a stratified, single-stage 
+probability sample of 5,045 cases derived from the universe list 
+of appeals. Appeals were stratified by type of case or type of 
+court (i.e., death penalty, COLR, and IAC), and appeals were 
+sampled at a fixed overall rate within each stratum. Initial 
+sampling rates were calculated for each stratum based on the 
+ratios of the target sample size desired to the expected total 
+population for each stratum. Appendix table 2 shows the target 
+sample sizes and expected total population assumed for each 
+stratum and the resulting initial sampling rates. A census was 
+taken for death penalty cases.
+ 
+After sampling cases in about half (50%) of the courts, the 
+number of cases actually collected (i.e., the actual yield) was 
+evaluated. The actual yield was lower than expected, which 
+indicated smaller population sizes. Based on this evaluation, the 
+sampling rates for the remaining half of courts were increased. 
+This increase in rates not only adjusted for the actual yields, 
+it also took into account the design effect and therefore the 
+reduction in effective sample sizes introduced by changing from 
+the initial rates within each stratum. This was done using a 
+mathematical program that solved for the new set of rates, taking 
+into account the current actual yield, the expected total yield, 
+design effects, and effective sample sizes required. Appendix 
+table 3 shows the initial sampling rates, revised sampling rates, 
+and total actual sample sizes.
+
+In most instances, courts were able to provide clean, study-
+eligible lists of cases to which the rates were applied. However, 
+some lists provided by appellate courts were known to be 
+overinclusive (i.e., the list included study-ineligible cases). 
+If a list was overinclusive, a two-part approach was used. First, 
+the rate of eligible cases was estimated by reviewing an initial 
+sample and a partial sample. Second, a sampling rate that took 
+into account the eligible case rate was used for the remaining 
+sample.
+
+Data collection and preparation
+**********************************
+
+All appeals were coded directly from court records, including the 
+appellate court docket, the initial appellant or petitioner 
+brief, and the court’s decision or opinion. Court records were 
+accessed through various means, such as electronic court records, 
+public information access through the court’s website, private 
+law libraries, and hard copies (requested through the mail or 
+acquired from in-person visits to appellate court clerks’ 
+offices).
+
+Based on a review of these documents, the data collection team 
+coded each appeal. Each appeal represented one record, except 
+when the actions that occurred within an appeal prompted the 
+completion of an additional data record. Circumstances that 
+resulted in additional records include--
+
+* Consolidated cases—Appeals may be consolidated at various points 
+during case processing. If two or more cases were consolidated 
+after briefing (i.e., after the parties had filed briefs in the 
+individual cases), then each case was coded separately to capture 
+all of the issues presented to the court. Cases consolidated 
+before briefing were coded together because all issues were 
+presented in one brief.
+
+*Cross-appeals—If either party filed a cross-appeal in a case, the 
+cross-appeal was coded separately to capture all of the issues 
+presented to the court. 
+
+*More than one appeal disposed in 2010—If a sampled appeal 
+accompanied an additional appeal from the same underlying trial 
+court case that was disposed in 2010, each was coded separately. 
+For example, an IAC may have disposed of a case in early 2010 by 
+remanding it to the trial court for additional review. The trial 
+court decision was made and the case was appealed to the IAC 
+again, with a disposition on the new appeal also made in 2010. If 
+either of those decisions was selected in the sample, both of the 
+cases were coded. Another example is an appeal that was initially 
+dismissed (e.g., for procedural error), then later re-filed and 
+accepted for review. If both the dismissal and the disposition on 
+review occurred in 2010, then both cases were coded, even if only 
+one of the cases was on the original sample list.
+
+To determine the legal issues most commonly addressed by the 
+appellate courts, these data required a review of all dispositive 
+opinions, whether published or not. Data captured the content of 
+the first six legal issues addressed by the appellate courts, and 
+also captured a count of all legal issues presented in the 
+opinion.
+
+Quality assurance
+********************
+
+The coding team performed a multi-level quality check. Each 
+appeal was coded, reviewed, and then entered into a database, 
+with each task performed by a different member of the team. The 
+appeals were entered into a data system designed to check for 
+logic errors during data entry. As a final stage of quality 
+control, the project team cleaned the data by court to uncover 
+inconsistent case processing practices within each court. During 
+the cleaning stage, data were sorted by coder and date coded. 
+Early coding was most likely to contain errors. Therefore, the 
+first third of appeals coded by each team member was selected and 
+reviewed for errors.
+
+Weighting, estimation, and variance estimation
+***********************************************
+
+Because the SSCCA estimates were based on data obtained from a 
+probability sample, each sample appeal required the assignment of 
+a weight to provide unbiased estimates with measurable precision. 
+A base weight was calculated for each appeal as the inverse of 
+the overall probability of selection, which reflected stratum 
+(i.e., death penalty, COLR, and IAC) and whether the case was 
+sampled before or after the rate change. It also determined the 
+effects of the two-step process for sampling from overinclusive 
+lists. A nonresponse adjustment factor was not required because 
+the one unavailable case was handled through substitution. 
+Poststratification or raking was inappropriate, as no 
+corresponding control totals were available. The sums of the 
+resulting weights are the best available estimates of the size of 
+the population of inference, either overall or by subgroup. The 
+distribution of weights was reviewed overall and by the relevant 
+factors (e.g., stratum and before or after rate change), and 
+preliminary weighted estimates were produced as part of the 
+review. The resulting full sample weights were used for the 
+estimates presented.
+
+For variance estimation, a set of 100 balanced repeated 
+replication (BRR) replicate weights was produced and used for the 
+variance estimates, standard errors, and confidence intervals. 
+BRR was chosen because it performs better than the jackknife for 
+quantiles such as medians, which are often used with these data 
+given the number of dates in the court record. In creating the 
+BRR replicate weights, each major analytic domain (i.e., death 
+penalty selected with certainty, COLR, and IAC) was spread across 
+the 100 replicates, such that they received the appropriate 
+maximum number of degrees of freedom. Replicate group assignment 
+was carried out through sorting by court and selection order 
+within court. The latter maximized the degrees of freedom for 
+more detailed estimates (e.g., state and court structure). All of 
+the estimates were calculated using WesVar along with the 
+corresponding standard error. Numerous methods were available for 
+estimating percentiles, and statistical software packages (e.g., 
+SAS or SPSS) may use different methods (optional or default), 
+which may generate different estimates.
+
+Standard error computations
+****************************
+
+Probability sampling implies some imprecision in the estimates 
+because the entire population is not enumerated. This imprecision 
+is measurable and is reported or reflected in standard errors. 
+These measures reflect and convey the imprecision in probability 
+sample estimates and allow for inference to the total population, 
+comparisons between subgroups, or comparisons across time that 
+acknowledge this imprecision.
+
+Variances, standard errors, and confidence intervals depend on 
+the estimate involved, the sample design, the sample size, and 
+the subgroup sample size (if appropriate). The ratio of the 
+standard error for an estimate to the estimate itself is a useful 
+way to compare the relative precision of estimates across 
+estimates.
+
+In this report, the coefficient of variation (CV) was also 
+calculated for all estimates, representing the ratio of the 
+standard error to the estimate. If the CV was greater than 50% or 
+the estimate was based on 10 or fewer sample cases, the estimate 
+is noted with a “!” symbol in the tables and figures, indicating 
+the data should be interpreted with caution.
+
+Terms and definitions
+**************************
+
+Direct appeal--occurs when the defendant appeals the final 
+judgment of a trial court. The appeal can be taken from the final 
+judgment of the defendant’s conviction, sentence, or both.  
+
+Discretionary review/appeal by permission--an appeal that the 
+court can choose to review. Appeal by permission cases must first 
+be either granted or denied by the court. Only granted appeals 
+receive further review.
+
+Dispositive opinion--resolves the appeal, resulting in a decision 
+by the court.
+
+En banc review--all judges of the appellate court, or the entire 
+bench, decide the appeal.
+
+Harmless errors--rulings that, while mistaken, do not require a 
+reversal of the judgment by the appellate court or warrant a new 
+trial.
+
+Mandatory review/appeal by right--an appeal that the court must 
+review.
+
+Panel review--a review of an appeal before a set of judges. Panel 
+sizes for appellate courts vary by state.
+
+Postconviction appeals--an application for habeas corpus, making a 
+claim of ineffective counsel, or making a claim that the death 
+penalty is unconstitutional. These appeals are filed after an 
+initial, direct appeal has been decided by the court.
+
+Published opinions--historically available in print and held 
+precedential authority. With advances in technology, the term 
+published currently implies more than one meaning for appellate 
+decisions. For the purposes of this report, all decisions and 
+opinions were included, whether or not they held precedential 
+authority.
+
+Reviewed on the merits--the appellate court has considered the 
+arguments of the parties and made a decision based on the 
+substantive legal issues raised on appeal. This occurs following 
+oral arguments and/or is based on a review of the briefs.
+
+Reversible error--a finding by the appellate courts that the lower 
+court incorrectly resolved the issue, and this error was 
+substantial enough to potentially change the outcome of the 
+trial.
+
+*******************************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. William J. Sabol is director.
+
+
+This report was written by Nicole L. Waters, Ph.D., and Anne 
+Gallegos, M.P.A., National Center for State Courts, and James 
+Green, M.A., and Martha Rozsi, Westat. Tracey Kyckelhahn verified 
+the report.
+
+Irene Cooperman, Morgan Young, and Jill Thomas edited the report, 
+and Barbara Quinn and Tina Dorsey produced the report.
+
+September 2015, NCJ 248874
+*******************************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+***************************
+8/27/2015 3:50pm JER
+***************************

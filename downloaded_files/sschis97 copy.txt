@@ -1,0 +1,1388 @@
+U.S. Department of Justice
+Bureau of Justice Statistics
+
+Survey of State Criminal History Information Systems, 1997
+
+April 1999,  NCJ  175041
+
+
+This report is one in a series.  More recent editions 
+may available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#sschis 
+
+Jan M. Chaiken, Ph.D.
+Director
+
+
+
+Acknowledgments.  This report was prepared by SEARCH,
+The National Consortium for Justice Information and
+Statistics, Kenneth E. Bischoff, Chairman, and Gary R.
+Cooper, Executive Director.  The project director and
+author of the report was Sheila J. Barton, Deputy
+Executive Director.  Support for the project was
+provided by Jane L. Bassett, Publishing Assistant,
+Corporate Communications.  The Federal project monitor
+was Carol G. Kaplan, Chief, Criminal History
+Improvement Programs, Bureau of Justice Statistics.
+
+Report of work performed under BJS Cooperative
+Agreement No. 95-RU-RX-K001, awarded to SEARCH, The
+National Consortium for Justice Information and
+Statistics, 7311 Greenhaven Drive, Suite 145,
+Sacramento, California 95831.  Contents of this
+document do not necessarily reflect the view or
+policies of the Bureau of Justice Statistics or the
+U.S. Department of Justice.
+
+Copyright (c) SEARCH, The National Consortium for
+Justice Information and Statistics 1998.
+
+The U.S. Department of Justice authorizes any person
+to reproduce, publish, translate or otherwise use all
+or any part of the copyrighted material in this
+publication with the exception of those items
+indicating they are copyrighted or printed by any
+source other than SEARCH, The National Consortium for
+Justice Information and Statistics.
+
+
+Contents
+
+
+List of data tables  
+
+Foreword   
+
+Glossary of terms      
+
+Introduction    
+
+     Major findings    
+Level of automation of master name indexes and
+criminal history files   
+Level of disposition reporting    
+Level of felony flagging    
+Timeliness of trial court disposition data    
+
+     Detailed findings    
+Status of State criminal history files    
+Completeness of data in State criminal history
+repository    
+Disposition data    
+Correctional data  
+Timeliness of data in State criminal history
+repository    
+     -Arrests    
+     -Disposition data    
+     -Admission to correctional facilities    
+Procedures to improve data quality    
+Linking of arrests and dispositions    
+Other data quality procedures    
+Audits    
+
+Data tables    
+
+Methodology   
+
+List of data tables
+
+1.   Overview of State criminal history record
+systems, December 31, 1997   
+
+2.   Number of subjects (individual offenders) in
+State criminal history file, 1993, 1995, and 1997  
+
+3.   Number of final dispositions reported to State
+criminal history repository, 1989, 1993, 1995, and
+1997   
+
+4.   Automation of master name index and criminal
+history file, 1989, 1993, 1995, and 1997  
+
+5.   Data required to be submitted to State criminal
+history repository, 1997  
+
+6.   Arrest records with fingerprints, 1989, 1993,
+1995, and 1997 
+
+7.   Notice to State criminal history repository of
+release of arrested persons without charging, 1989,
+1993, 1995, and 1997 
+
+8.   Completeness of prosecutor and court disposition
+reporting to State criminal history repository, 1989,
+1993, 1995, and 1997 
+
+9.   Policies/practices of State criminal history
+repository regarding modification of felony
+convictions, 1997   
+
+10.  Fingerprinting of incarcerated offenders and
+linkage to records maintained by State criminal
+history repository, 1997  
+
+11. Probation and parole data in State criminal
+history repository, 1989, 1993, 1995,
+and 1997  
+
+12.  Average number of days to process arrest data
+submitted to State criminal history repository and
+current status of backlog, 1997  
+
+13.  Average number of days to process disposition
+data submitted to State criminal history repository
+and current status of backlog, 1997   
+
+14.  Average number of days to process correctional
+admission data submitted to State criminal history
+repository and current status of backlog, 1997   
+
+15.  Procedures employed by State criminal history
+repository to encourage complete arrest and
+disposition reporting, 1997  
+
+16.  Methods used to link disposition information to
+arrest/charge information on criminal history record,
+1997  
+
+17.  Procedure followed when linkage cannot be made
+between court or correctional information in the
+criminal history database, 1997  
+
+18.  Strategies employed by State criminal history
+repository to ensure accuracy of data in criminal
+history database, 1997   
+
+19.  Audit activities of State criminal history
+repository, 1989, 1993, 1995, and 1997  
+
+20.  Data quality audits of State criminal history
+repository, 1997   
+
+21.  Criminal history records of Interstate
+Identification Index (III) participants maintained by
+the State criminal history repository and the Federal
+Bureau of Investigation, FY 1997  
+
+22.  Fingerprint cards processed and dispositions
+received by the Federal Bureau of Investigation, FY
+1997  
+
+23.  Fees charged by State criminal history
+repository for noncriminal justice purposes, 1997  
+
+Foreword
+
+SEARCH conducted four previous surveys in this series
+for the Bureau of Justice Statistics, covering 1989,
+1992, 1993, and 1995.  This year's report largely
+updates the information collected in previous years.
+
+The National Instant Criminal Background Check System
+(NICS) mandated by the Brady Handgun Violence
+Prevention Act became operational November 30, 1998. 
+This survey provides a summary of quantitative
+information at the end of 1997.  The levels of
+coverage, completeness, accuracy, and accessibility of
+the State criminal history information systems
+directly affect the effectiveness and efficiency of
+the NICS.  
+
+The Bureau of Justice Statistics hopes that the
+information contained in this report will assist
+States as they continue to improve their systems and
+to remain vigilant in maintaining the goals they have
+already achieved.
+
+Jan M. Chaiken, Ph.D.
+Director
+
+Glossary of terms
+
+Automated Fingerprint Identification System (AFIS): An
+automated system for searching fingerprint files and
+transmitting fingerprint images. AFIS computer
+equipment can scan fingerprint impressions (or utilize
+electronically transmitted fingerprint images) and
+automatically extract and digitize ridge details and
+other identifying characteristics in sufficient detail
+to enable the computer's searching and matching
+components to distinguish a single fingerprint from
+thousands or even millions of fingerprints previously
+scanned and stored in digital form in the computer's
+memory. The process eliminates the manual searching of
+fingerprint files and increases the speed and accuracy
+of ten-print processing (arrest fingerprint cards and
+noncriminal justice applicant fingerprint cards). AFIS
+equipment also can be used to identify individuals
+from "latent" (crime scene) fingerprints, even
+fragmentary prints of single fingers in some cases.
+Digital fingerprint images generated by AFIS equipment
+can be transmitted electronically to remote sites,
+eliminating the necessity of mailing fingerprint cards
+and providing remote access to AFIS fingerprint files. 
+
+Central Repository: The database (or the agency
+housing the database) which maintains criminal history
+records on all State offenders. Records include
+fingerprint files and files containing identification
+segments and notations of arrests and dispositions.
+The central repository is generally responsible for
+State-level identification of arrestees, and commonly
+serves as the central control terminal for contact
+with FBI record systems. Inquiries from local agencies
+for a national record check (for criminal justice or
+firearm check purposes) are routed to the FBI via the
+central repository. Although usually housed in the
+Department of Public Safety, the central repository
+may in some States be maintained by the State Police
+or some other State agency. 
+
+Criminal History Record Information (CHRI) or Criminal
+History Record Information System: A record (or the
+system maintaining such records) which includes
+individual identifiers and describes an individual's
+arrests and subsequent dispositions. Criminal history
+records do not include intelligence or investigative
+data or sociological data such as drug use history.
+CHRI systems usually include information on juveniles
+if they are tried as adults in criminal courts, but in
+most cases do not include data describing involvement
+of an individual in the juvenile justice system. All
+data in CHRI systems are usually backed by
+fingerprints of the record subjects to provide
+positive identification. State legislation varies
+concerning disclosure of criminal history records for
+noncriminal justice purposes. 
+
+Data Quality: The extent to which criminal history
+records are complete, accurate and timely. The key
+concern in data quality is the completeness of records
+and the extent to which records include dispositions
+as well as arrest and charge information. Other
+concerns include the timeliness of data reporting to
+State and Federal repositories, the timeliness of data
+entry by the repositories and the readability of
+criminal history records. 
+
+Felony or Serious Misdemeanor: The category of
+offenses for which fingerprints and criminal history
+information are accepted by the FBI and entered in the
+Bureau's files, including the III system. Serious
+misdemeanor is defined to exclude certain minor
+offenses such as drunkenness or minor traffic
+offenses. 
+
+Interstate Identification Index (III): An
+"index-pointer" system for the interstate exchange of
+criminal history records. Under III, the FBI maintains
+an identification index to persons arrested for
+felonies or serious misdemeanors under State or
+Federal law. The index includes identification
+information, (such as name, date of birth, race, and
+sex), FBI Numbers and State Identification Numbers
+(SID) from each State holding information about an
+individual. Search inquiries from criminal justice
+agencies nationwide are transmitted automatically via
+State telecommunications networks and the FBI's
+National Crime Information Center (NCIC)
+telecommunications lines. Searches are made on the
+basis of name and other identifiers. The process is
+entirely automated and takes approximately five
+seconds to complete. If a hit is made against the
+Index, record requests are made using the SID or FBI
+Number, and data are automatically retrieved from each
+repository holding records on the individual and
+forwarded to the requesting agency. As of December
+1998, 39 States participate in III and the system
+operates for criminal justice inquiries only.
+Responses are provided from FBI files when the 
+State originating  the record is not a participant in
+III. Participation requires that the State maintain an
+automated criminal history record system capable of
+interfacing with the III system and capable of
+responding automatically to all interstate and
+Federal/State record requests. If extended to cover
+noncriminal justice inquiries, as planned, the III
+system would eliminate the need for duplicate
+recordkeeping at the Federal and State level since it
+would no longer be necessary for the FBI to maintain
+records on State offenders. At present, III ensures
+higher quality criminal justice responses because, in
+most cases, reply data are supplied directly by the
+State from which the record originates. 
+
+Juvenile Justice Records: Official records of juvenile
+justice adjudications. Most adult criminal history
+record systems do not accept such records, which are
+frequently not supported by fingerprints and which
+usually are confidential under State law. Pursuant to
+an order dated July 15, 1992, the FBI accepts, and
+will disseminate, juvenile records on the same basis
+as adult records. States are not required to submit
+such records to the FBI, however. 
+
+Master Name Index (MNI): A subject identification
+index maintained by criminal record repositories that
+includes names and other identifiers for all persons
+about whom a record is held in the systems. As of
+1992, almost all State MNIs were automated and
+included almost 100 percent of record subjects in the
+repositories. The automated name index is the key to
+rapidly identifying persons who have criminal records
+for such purposes as presale firearm checks, criminal
+investigations or bailsetting. MNIs may include
+"felony flags," which indicate whether record subjects
+have arrests or convictions for felony offenses. 
+
+National Crime Information Center (NCIC): An automated
+database of criminal justice and justice-related
+records maintained by the FBI. The database includes
+the "hot files" of wanted and missing persons, stolen
+vehicles and identifiable stolen property, including
+firearms. Access to NCIC files is through central
+control terminal operators in each State that are
+connected to NCIC via dedicated telecommunications
+lines maintained by the FBI. Local agencies and
+officers on the beat can access the State control
+terminal via the State law enforcement network.
+Inquiries are based on name and other nonfingerprint
+identification. Most criminal history inquiries of the
+III system are made via the NCIC telecommunications
+system. NCIC data may be provided only for criminal
+justice and other specifically authorized purposes.
+For criminal history searches, this includes criminal
+justice employment, employment by Federally chartered
+or insured banking institutions or securities firms,
+and use by State and local governments for purposes of
+employment and licensing pursuant to a State statute
+approved by the U.S. Attorney General. Inquiries
+regarding presale firearm checks are included as
+criminal justice uses. 
+
+National Crime Prevention and Privacy Compact: An
+interstate and Federal/State compact designed to
+facilitate the exchange of criminal history data among
+States for noncriminal justice purposes and to
+eliminate the need for the FBI to maintain duplicate
+data about State offenders. Under the compact, the
+operation of this system is overseen by a policymaking
+council comprised of representatives of the Federal
+and State governments, as well as system users. The
+key concept underlying the compact is agreement among
+all States that all criminal history information
+(except sealed records) will be provided in response
+to noncriminal justice requests from another State -
+regardless of whether the information being requested
+would be permitted to be disseminated for a similar
+noncriminal justice purpose within the State holding
+the data. (That is, the law of the State which is
+inquiring about the data - rather than the law of the
+State which originated the data - governs its use.) In
+some States, ratification of the compact will have the
+effect of amending existing State legislation
+governing interstate record dissemination, since most
+States do not currently authorize dissemination to all
+of the Federal agencies and out-of-State users
+authorized under the compact. At present, noncriminal
+justice inquiries are handled by the FBI from its
+files of voluntarily contributed State arrest and
+disposition records. This requires that the FBI
+maintain duplicates of State records and generally
+results in less complete records being provided, since
+FBI files of State records are not always complete due
+to reporting deficiencies. The FBI cannot abandon the
+duplicate records without a formal compact, however,
+since subsequent failure of a State to continue
+participation after cessation of entry of data into
+the FBI's State offender files would jeopardize future
+noncriminal justice services to the Federal and State
+agencies that now rely on those files. The compact was
+passed by Congress and signed into law by the
+President in October 1998. The compact will now be
+submitted for ratification by State legislatures. 
+
+National Fingerprint File (NFF): A system and
+procedures designed as a component of the III system,
+which, when fully implemented, would establish a
+totally decentralized system for the interstate
+exchange of criminal history records. The NFF will
+contain fingerprints of Federal offenders and a single
+set of fingerprints on State offenders from each State
+in which an offender has been arrested for a felony or
+a serious misdemeanor. Under the NFF concept, States
+will forward only the first-arrest fingerprints of an
+individual to the FBI accompanied by other
+identification data such as name and date of birth.
+Fingerprints for subsequent arrests would not be
+forwarded.  Disposition data on the individual would
+also be retained at the State repository and would not
+be forwarded to the FBI. Upon receipt of the
+first-arrest fingerprint cards (or electronic images),
+the FBI will enter the individual's fingerprint
+impressions in the NFF and will enter the person's
+name and identifiers in the III, together with an FBI
+Number and a State Identification (SID) Number for
+each State maintaining a record on the individual.
+Charge and disposition information on State offenders
+will be maintained only at the State level, and State
+repositories will be required to respond to all
+authorized record requests concerning these
+individuals for both criminal justice and noncriminal
+justice purposes. States would have to release all
+data on record subjects for noncriminal justice
+inquiries regardless of whether the data could be
+released for similar purposes within the State. The
+NFF concept is presently being tested in Florida, New
+Jersey, North Carolina, and Oregon. These States are
+in a position to conduct the test since they have
+nonrestrictive laws governing release of data for
+noncriminal justice purposes.
+
+Positive Identification: Identification of an
+individual using biometric characteristics that are
+unique and not subject to alteration. In present
+usage, the term refers to identification by
+fingerprints but may also include identification by
+retinal images, voiceprints, or other techniques.
+Positive identification is to be distinguished from
+identification using name, sex, date of birth, or
+other personal identifiers as shown on a document
+subject to alteration or counterfeit such as a birth
+certificate, Social Security card, or driver's
+license. Because individuals can have identical or
+similar names, ages, etc., identifications based on
+such characteristics are not reliable. 
+
+------------------------------------------------------
+Note to Readers: This is a report of the results of
+the Survey of State Criminal History Information
+Systems.  In some of the tables that follow, data from
+earlier data quality surveys are included. Caution
+should be used in drawing comparisons between the
+results of earlier surveys and the survey reported
+here. Since the last national data quality survey, the
+U.S. Justice Department has continued to implement
+assistance programs dedicated to improving criminal
+history records. As a result, some States are focusing
+new or additional resources on the condition of their
+records and in many cases, know more about their
+records today than in the past. For these and other
+reasons, trend comparisons may not as accurately
+reflect the status of the Nation's criminal history
+records as the current data considered alone. 
+------------------------------------------------------
+
+
+Introduction
+
+This report is based on the results from a two-part
+survey of the administrators of the State criminal
+history record repositories in January -November 1998.
+The report is largely based upon data as of December
+31, 1997. Fifty-three jurisdictions were surveyed,
+including the 50 States, the District of Columbia, the
+Commonwealth of Puerto Rico, and the U.S. Virgin
+Islands.  Responses were received to at least one part
+of the survey from 52 jurisdictions. Only Puerto Rico
+did not complete either part of the survey. 
+Throughout this report, the 50 States will be referred
+to as "States"; the District of Columbia, Puerto Rico,
+and the Virgin Islands will be referred to as
+"territories," consistent with prior surveys; "Nation"
+refers collectively to both the States and
+territories.
+     
+In addition, the Federal Bureau of Investigation
+provided information relating to the number of
+fingerprint cards and dispositions received by the FBI
+during Fiscal Year (FY) 1997 and the number of
+criminal history records of the States participating
+in the Interstate Identification Index system that are
+maintained by the State criminal history repositories
+and the number of records maintained by the FBI for
+the States.
+
+Major Findings
+
+Level of automation of master name indexes and
+criminal history files
+
+Overview of State criminal history record systems,
+December 31, 1997 (Table 1):
+
+*  Forty-nine States, the District of Columbia, and
+Puerto Rico have automated at least some records in
+the criminal history record file.
+
+*  Twenty States (Alabama, Arizona, Colorado, Florida,
+Georgia, Hawaii, Kentucky, Maryland, Michigan, 
+Montana, Nevada, New Hampshire, New Jersey, New
+Mexico, Oregon, Rhode Island, Texas, Utah, Washington,
+and Wyoming) have fully automated criminal history
+files and master name indexes.
+
+Automation of master name index and criminal history
+file, 1997 (Table 4):
+
+*  Forty-five States have fully automated master name
+indexes. The Virgin Islands does not maintain a master
+name index.
+
+* Maine and the Virgin Islands have no automated
+criminal history files.
+
+*  Of those States maintaining partially automated
+criminal history files, when an offender with a prior
+manual record is arrested, the prior manual record is
+subsequently automated in 23 States.  In two States
+(California and Minnesota) and the District of
+Columbia, only the new information is automated. 
+
+Level of disposition reporting
+
+Overview of State criminal history record systems,
+December 31, 1997 (Table 1):
+
+*  Twenty-one States (Alaska, California, Hawaii,
+Iowa, Maine, Maryland, Massachusetts, Montana, New
+Hampshire, New Jersey, New York, North Carolina, North
+Dakota, South Carolina, South Dakota, Vermont,
+Virginia, Washington, Wisconsin and Wyoming) and the
+District of Columbia representing approximately 40% of
+the Nation's population (based on 53 jurisdictions)
+and 40% of the Nation's criminal history records,
+report that 80% or more arrests within the past 5
+years in the criminal history database have final
+dispositions recorded.
+
+*  A total of 25 States representing approximately 47%
+of the Nation's population and 45% of the Nation's
+criminal history records, report that 70% or more
+arrests within the past 5 years in the criminal
+history database have final dispositions recorded.
+
+*  A total of 29 States representing approximately 60%
+of the Nation's population and 62% of the Nation's
+criminal history records, report that 60% or more
+arrests within the past 5 years in the criminal
+history database have final dispositions recorded.
+
+*  Overall, the figures are lower when arrests older
+than 5 years are considered.  Eleven States report
+that 80% or more arrests in the entire criminal
+history database have final dispositions recorded. 
+Twenty-two States report that 70% or more arrests in
+the entire criminal history database have final
+dispositions recorded.  Twenty-six States report that
+60% or more arrests in the entire criminal history
+database have final dispositions recorded.
+
+Number of final dispositions reported to State
+criminal history repository, 1997 (Table 3):  
+
+Twenty-nine States and the District of Columbia
+provided data on the number of final dispositions
+reported to their criminal history repositories
+indicating that over 4.6 million final dispositions
+were reported in 1997.  The responding jurisdictions
+represent approximately 58% of the Nation's
+population.
+
+
+Level of felony flagging
+
+Overview of State criminal history record systems,
+December 31, 1997 (Table 1):
+
+*  Forty-two States and Puerto Rico currently flag
+some or all felony convictions in their criminal
+history databases.
+
+*  Twenty States collect sufficient data to permit
+them to flag at least some previously unflagged felony
+convictions.
+
+
+Timeliness of trial court disposition data
+
+Average number of days to process disposition data
+submitted to State criminal history repository, 1997
+(Table 13):
+
+*  An average 42 days separates the final court
+dispositions and receipt of that information by the
+State criminal 
+history repositories, ranging from less 
+than 1 day in Colorado, Delaware, the District of
+Columbia, and New Jersey to 360 days in Pennsylvania. 
+The majority of responding repositories receive the
+data in 30 days or less.
+
+*  An average 33 days separates the receipt of final
+trial court dispositions and entry of disposition data
+into the criminal history databases, ranging from less
+than 1 day in States where dispositions are entered
+either directly by the courts or by tape to 180 days
+in Indiana and Minnesota.  Half of the responding
+jurisdictions enter the data in 10 days or less.
+
+*  Twenty-six States indicate having backlogs in
+entering disposition data into the criminal history
+database.
+
+
+Detailed findings
+
+Status of State criminal history files
+
+Number of subjects (individual offenders) in State
+criminal  history file, 1997  (Table 2):
+
+*  Over 54.2 million criminal history records were in
+the criminal history files of the State criminal
+history repositories on December 31, 1997. (An
+individual offender may have records in several
+States.)
+
+*  Eighty-seven percent of the criminal history
+records maintained by the State criminal history
+repositories are automated.  Approximately 6.8 million
+records, or 13%, are not automated.
+
+Automation of master name index and criminal history
+file, 1997 (Table 4):
+
+*  All of the reporting States and the District of
+Columbia have automated at least some records in
+either the criminal history record file or the master
+name index.  In Maine, a portion of the master name
+index has been automated but is not in use.
+
+*  Of the responding jurisdictions, 45 States have
+fully automated master name indexes.  Six
+jurisdictions do not have fully automated master name
+indexes.  Of those six jurisdictions, four States and
+the District of Columbia have partially automated
+master name indexes.  The Virgin Islands does not
+maintain a master name index.
+
+*  Of those jurisdictions maintaining partially
+automated criminal history files, when an offender
+with a prior manual record is arrested, the record is
+automated in 23 States. In California, Minnesota, and
+the District of Columbia, only the new information is
+automated. 
+
+Data required by State law to be submitted to State
+criminal history repository, 1997 (Table  5):
+
+*  Thirty-three States require prosecutors to report
+to State criminal history repositories their decisions
+to decline prosecution in criminal cases.  In
+Michigan, arrest fingerprints are submitted after the
+prosecutor's decision to charge a crime punishable by
+over 92 days.
+
+*  Forty-four States, the District of Columbia and the
+Virgin Islands require felony trial courts to report
+the dispositions of felony cases to the State criminal
+history repository. 
+
+*  State prison admission of felons must be reported
+to the State criminal history repository in 35 States
+and the District of Columbia.  State prison release
+information on felony cases must be reported to the
+State criminal history repository in 30 States and the
+District of Columbia.
+
+*  Admission data on felons housed in local
+correctional facilities must be reported to the State
+criminal history repository in 22 States and the
+District of Columbia.  Release data on felons housed
+in local correctional facilities must be reported to
+the State criminal history repository in 15 States and
+the District of Columbia.
+
+*  The reporting of probation information is mandated
+in 26 States and the District of Columbia, while 27
+States and the District of Columbia require the
+reporting of parole information.
+
+Arrest records with fingerprints, 1997 (Table 6):
+
+*  During 1997, over 7.6 million arrest fingerprint
+cards (or electronic substitutes) were submitted to
+the State criminal history repositories.
+
+*  Thirty-six States, representing 69% of the Nation's
+population, have records that are 100%
+fingerprint-supported.  In 10 States and the District
+of Columbia, some of the arrests in the criminal
+history files are fingerprint-supported.  In New York,
+Puerto Rico, and the Virgin Islands, the inquiry
+regarding fingerprint-supported criminal history files
+was either not applicable or the percentage was
+unknown.  In Massachusetts and Mississippi, there are
+no fingerprint-supported criminal history records.
+
+
+Completeness of data in State criminal history
+repository
+
+Notice to State criminal history repository of release
+of arrested persons without charging, 1997
+(Table 7):
+
+*  More than half of the States (32) require law
+enforcement agencies to notify the State criminal
+history repository when an arrested person is released
+without formal charging but after the fingerprints
+have been submitted to the repository. 
+
+Disposition data
+
+Completeness of prosecutor and court disposition
+reporting to State criminal history repository, 1997
+(Table 8): 
+
+* Twenty-three States (Alaska, California, Colorado,
+Connecticut, Delaware, Hawaii, Idaho, Iowa, Maine,
+Maryland, Massachusetts, Minnesota, Montana, Nebraska,
+New Jersey, North Carolina, North Dakota, Oregon,
+South Carolina, South Dakota, Vermont, Virginia, and
+Wisconsin) and the District of Columbia report that
+criminal history repositories receive final felony
+trial court dispositions for 80% or more of the cases. 
+
+Seven States (Alaska, Colorado, Connecticut, Maryland,
+Massachusetts, Oregon, and South Carolina) estimate
+that they receive notice in 100% of the cases.
+
+A.  A total of 25 jurisdictions, or 1 additional State
+(Arkansas) report that final felony trial court
+dispositions in 70% or more of the cases in their
+jurisdictions are received by the State criminal
+history repositories.
+
+B.  A total of 30 jurisdictions, or 5 additional
+States (Illinois, Missouri, Oregon, Texas, and Utah),
+report that final felony trial court dispositions in
+60% or more of the cases in their jurisdictions are
+received by the State criminal history repositories.
+
+C. A total of 31 jurisdictions, or 1 additional State
+(Washington), report that final felony trial court
+dispositions in 50% or more of the cases in their
+jurisdictions are received by the State criminal
+history repositories.
+
+*  Of the respondents indicating that there is either
+a legal requirement for prosecutors to notify the
+State criminal history record repository of
+declinations to prosecute or where the information is
+reported voluntarily, 10 States and one territory
+(Delaware, District of Columbia, Illinois, Maryland,
+Massachusetts, New Jersey, New York, North Carolina,
+North Dakota, Virginia and Wyoming) estimate that they
+receive notice in 80% or more of such cases. Six
+States (Delaware, Maryland, Massachusetts, New Jersey,
+New York and Wyoming) estimate that notice is received
+in 100% of the cases. All but Massachusetts report a
+legal requirement to notify the repository. (See Table
+5.)
+
+*  Twelve States were able to estimate the number of
+prosecutor declinations received.  The numbers ranged
+from 100 in Wyoming to 200,000 in California.
+
+Policies/practices of State criminal history
+repository regarding modification of felony
+convictions, 1997 (Table 9): 
+
+*  Expungements:  Twenty-five States and the District
+of Columbia have statutes that provide for the
+expungement of felony convictions.  In 10 States and
+the Virgin Islands, the record is destroyed by the
+State criminal history repository. In Washington, the
+record is returned to the court.  In eight States, the
+record is retained with the action noted on the
+record.  Six States seal the record.  In Alaska, the
+sealed record is removed from the automated system and
+becomes a manual record.
+ 
+*  Setting aside of convictions:  Thirty-nine States
+have statutes that provide for setting aside felony
+convictions.  In two States, the record is destroyed. 
+In 34 States, the record is retained with the action
+noted only.  In Nevada, the record is sealed. 
+
+*  Pardons:  Almost all of the jurisdictions (48
+States, the District of Columbia and the Virgin
+Islands) have statutes that provide for the granting
+of a pardon.  In 45 States, the criminal history
+record is retained with the action noted.  In three
+jurisdictions (South Dakota, Vermont, and the Virgin
+Islands), the record is destroyed. 
+
+*  Restoration of civil rights:  Forty States and the
+District of Columbia have legal provisions for the
+restoration of a convicted felon's civil rights.  In
+the majority of those jurisdictions (35 States), the
+record is retained with the action noted.  In two
+States (South Dakota and Vermont), the record is
+destroyed. Restoration of civil rights is not tracked
+in Alaska, and in Missouri, no action is taken. 
+
+Correctional data
+
+Fingerprinting of incarcerated offenders and linkage
+to records maintained by State criminal history
+repository, 1997 (Table 10):
+
+*  In 36 States and the District of Columbia, there is
+a legal requirement (State statute or State
+administrative regulation having the force of law)
+that the State prison system must fingerprint admitted
+prisoners and send the fingerprints to the State
+criminal history repository.
+
+*  A total of 25 States and the District of Columbia,
+have the same legal requirement for reporting by local
+jails. In Minnesota, the requirement applies only to
+juveniles.
+
+*  In the 45 jurisdictions where State correctional
+facilities are legally required to report information
+or the information is reported voluntarily, the
+majority of jurisdictions (35 States) estimate that in
+at least 95% of the cases, admission information is
+reported to the State repository.  Twenty-seven of
+those jurisdictions estimate that 100% of the
+admissions are reported to the repository.  Seven
+jurisdictions estimate a reporting rate of less than
+95%, ranging from 85% in Virginia to 0% in the
+District of Columbia, Florida, and Kansas.
+ 
+*  For reporting from local jails where required by
+law or completed voluntarily, nine States report that
+95% or more of the admissions are reported to the
+State repositories.  Seven States report rates of less
+than 95% ranging from 75% in Indiana to 0% in the
+District of Columbia and New Hampshire.
+
+*  In 41 States, fingerprints received from State and
+local correctional facilities are processed by the
+State criminal history record repository to establish
+positive identification of incarcerated offenders and
+to ensure that correctional information is linked to
+the proper records.
+
+Probation and parole data in State criminal history
+repository, 1997 (Table 11):
+
+*  Of the 38 jurisdictions where reporting of
+probation data is legally required or voluntarily
+reported, 12 estimate that at least 90% of the cases
+in which probation is ordered are reported to the
+State criminal history repository.  An additional
+three States report that in at least 75% of the cases
+the State criminal history repository receives
+probation information.  Five States report that
+information is received in 50% or less of the cases. 
+
+*  Nineteen jurisdictions where reporting of parole
+data is legally required or voluntarily reported
+estimate that parole information is reported in 90% of
+the cases.  Five States report receiving parole
+information in less than 90% of the cases, ranging
+from 80% in Texas to 0% in Florida and Idaho. In
+Colorado, 100% of admission to parole information is
+received; release from parole is not reported.
+
+
+Timeliness of data in State criminal history
+repository
+
+-Arrests
+
+Average number of days to process arrest information
+submitted to State criminal history repository, 1997
+(Table 12):
+
+*  The average number of days between arrest and
+receipt of arrest data and fingerprints by the State
+criminal history repositories is 13, ranging from less
+than 1 day for automated reports in California to up
+to 60 days in Nebraska.  The majority (27) receive the
+data in 14 days or less.
+
+*  The average number of days between receipt of
+fingerprints by the State criminal history repository
+and entry into the master name index by the State
+criminal history repositories is 23, ranging from 0 in
+Delaware to up to 120 days in Michigan. The majority
+of jurisdictions (29) enter the data in 10 days or
+less.
+
+*  The average number of days between receipt of
+fingerprints and entry of arrest data into the
+criminal history databases is 26, ranging from less
+than 1 day in Delaware the District of Columbia and
+Georgia to up to 120 days in Connecticut and Nebraska.
+The majority of jurisdictions (29) enter the data in
+14 days or less.
+
+*  Twenty-nine States indicate that they had at the
+time of the survey backlogs in entering arrest data
+into the criminal history database.  The number of
+person-days to clear the backlogs range from 4 days in
+Minnesota to 1,600 person-days to clear an estimated
+250,000 unprocessed or partially processed fingerprint
+cards in Massachusetts. Initial fingerprint
+classification is a more time-consuming task than
+entry of disposition data into the database.
+
+
+-Disposition data
+
+Average number of days to process disposition data
+submitted to State criminal history repository and
+current status of backlog, 1997 (Table 13):
+
+*  The average number of days between the final court
+dispositions and receipt of that information by the
+State criminal history repositories is 42, ranging
+from less than 1 day in Colorado, Delaware, the
+District of Columbia and New Jersey to 360 days in
+Pennsylvania.  The majority of responding
+jurisdictions receive the data in 30 days or less.
+
+*  The average number of days between receipt of final
+trial court dispositions and entry of disposition data
+into the criminal history databases is 33, ranging
+from less than 1 day in States where dispositions are
+entered either directly by the courts or by tape to
+180 in Indiana and Minnesota. Half of the responding
+jurisdictions enter the data in 10 days or less.
+
+*  Twenty-six States indicate that they had at the end
+of 1997 backlogs in entering disposition data into the
+criminal history database.
+
+
+-Admission to correctional facilities
+
+Average number of days to process correctional
+admission data submitted to State criminal history
+repository, 1997 (Table 14):
+
+*  The average number of days between the admission of
+offenders to State correctional facilities and receipt
+of the information by the State criminal history
+repository is 16, ranging from 1 day in Colorado,
+Delaware, Florida, Illinois, New York and Rhode Island
+to 56 days in Virginia. 
+
+*  The average number of days between the admission of
+offenders to local jails and receipt of the
+information by the State criminal history repository
+is 20, ranging from 5 days in Colorado to 30 days in
+California, Idaho, North Dakota, and Wyoming. 
+
+*  The average number of days between receipt of
+correctional admissions information by the State
+criminal history repository and entry into the
+criminal history databases is 37, ranging from less
+than 1 day in New York and Virginia to approximately
+365 days in Michigan. The majority (19) enter the
+information in 15 days or less. 
+
+*  Sixteen States indicate that they had backlogs in
+entering the correctional information into the
+criminal history databases.
+
+
+Procedures to improve data quality
+
+Procedures employed by State criminal history
+repository to encourage complete arrest and
+disposition reporting, 1997 (Table 15):
+
+*  The method most used to encourage complete arrest
+and disposition reporting is telephone calls conducted 
+by 36 States and the District of Columbia.
+
+*  Twenty-two States and the District of Columbia
+generate lists of arrests with missing dispositions as
+a means of monitoring disposition reporting.
+
+*   Thirty-two States and the District of Columbia
+report using field visits to encourage complete arrest
+and disposition reporting.
+
+*  Twenty-eight States generate form letters as a
+method of encouraging complete arrest and disposition
+reporting.
+
+*  Other jurisdictions report using such methods as
+training, audits, and electronic contact as methods to
+encourage complete arrest and disposition reporting.
+
+
+Linking of arrests and dispositions
+
+Methods used to link disposition information to
+arrest/charge information on criminal history record,
+1997 (Table 16):
+
+*  Twenty-nine States, the District of Columbia, and
+the Virgin Islands utilize methods for linking
+disposition information to particular charges and/or
+specific counts.
+
+*  All responding jurisdictions report using at least
+one method for linking disposition information and
+arrest/charge information on criminal history records,
+and nearly every jurisdiction indicates multiple
+mechanisms to ensure linkage:
+
+- Thirty-two States and the District of Columbia
+employ a unique tracking number for the individual
+subject.       
+
+- Thirty-seven States and the District of Columbia use
+a unique arrest event identifier.
+
+- Twenty-three States and the District of Columbia
+utilize a unique charge identifier. 
+
+- Thirty-seven States, the District of Columbia, and
+the Virgin Islands use the arrest date; thirty-seven
+States, the District of Columbia, and the Virgin
+Islands use the subject's name.
+
+- Thirty States and the District of Columbia report
+using the reporting agency's case number.
+
+- Individual jurisdictions also report using other
+methods, such as the court case number, the
+originating agency (ORI) number, the booking number,
+and unique combinations of numbers. 
+
+Procedures followed when linkage cannot be made
+between court or correctional information and arrest
+information in the criminal history database, 1997
+(Table 17):
+
+*  Forty-one jurisdictions report that they sometimes
+receive final court dispositions that cannot be linked
+to arrest information in the criminal history record
+database. 
+
+The jurisdictions vary in the percentage of court
+dispositions that cannot be linked to arrest cycles in
+the criminal history database from less than 1% to
+70%. Eight jurisdictions (District of Columbia,
+Kentucky, Massachusetts, New Hampshire, Ohio, Texas,
+Vermont, and Wyoming) report that all final court
+dispositions can be linked to the arrest cycle in the
+criminal history database.  
+
+*  Although most jurisdictions cannot quantify the
+number of cases in which correctional information
+cannot be linked to arrest information, 34
+jurisdictions report that this does occur.  Of the 10
+reporting jurisdictions, the percentage of
+correctional dispositions that cannot be linked to
+arrest cycles in the criminal history database range
+from less than 1% in Nevada to 15% in New Mexico.
+ 
+*  The jurisdictions use a variety of procedures when
+a linkage cannot be established.  Nine States create
+"dummy" arrest segments from court disposition
+records; five States create "dummy" court segments
+from custody records. Ten  States and the Virgin
+Islands enter court information into the database
+without any linkage to a prior arrest; and 13 States
+enter custody information into the database without
+any linkage to a prior court disposition. Eighteen
+States do not enter the unlinked court information.
+Seven jurisdictions do not enter unlinked custody
+information. Fifteen States utilize other procedures,
+such as contacting or returning the information to the
+originating or contributing agency or using temporary
+or pending files until a match can be established.
+
+
+Other data quality procedures
+
+Strategies employed by State criminal history
+repository to ensure accuracy of data in criminal
+history database, 1997 (Table 18):
+
+*  To prevent the entry and storage of inaccurate data
+and to detect and correct inaccurate entries in the
+criminal history database, a large majority of the
+jurisdictions, a total of 45 States, the District of
+Columbia, and the Virgin Islands, complete a manual
+review of incoming source documents or reports.
+
+*  Other methods used most frequently include computer
+edit and verification programs employed by 43 States
+and the District of Columbia. 
+
+*  Manual double-checking before data entry is
+completed in 29 jurisdictions.  Manual review of
+transcripts before dissemination is performed in 28
+jurisdictions.
+
+*  Nineteen States and the District of Columbia
+perform random sample comparisons of the State
+criminal history repository files with stored
+documents.
+
+*  Fifteen States and the District of Columbia
+generate error lists that are returned to the
+reporting agencies.
+
+*  Fifteen States use various methods, such as audits
+and contacting contributing agencies for additional
+information.
+
+
+Audits
+
+Audit activities of State criminal history repository,
+1997 (Table 19):
+
+*  Forty-seven States and the District of Columbia
+maintain transaction logs to provide an audit trail of
+all inquiries, responses, and record updates or
+modifications.
+
+*  More than half of the repositories, a total of 31
+jurisdictions report that the State criminal history
+repository or some other agency performed random
+sample audits of user agencies to ensure accuracy and
+completeness of repository records and to ensure that
+the agencies comply with applicable laws and
+regulations.
+
+Data quality audits of State criminal history
+repository, 1997 (Table 20):
+
+*  During the 5 years before the survey, an audit of
+the State criminal history repository's database
+(other than ongoing systematic sampling) was conducted
+in 27 States and the District of Columbia to determine
+the level of accuracy and completeness of the criminal
+history file.
+
+*  Of the jurisdictions where audits were performed,
+in 23 States and the District of Columbia, another
+agency conducted the audit; in 3 States the repository
+conducted its own audit; and 1 State did not indicate
+the auditing entity.
+
+* Thirteen  jurisdictions in 1997 reported not having
+conducted an audit during the previous 5 years and not
+planning to audit in the coming 3 years.
+
+*  In 25 of the jurisdictions where audits were
+conducted, changes were made as a result of the audit
+to improve data quality of the records.  In three 
+jurisdictions, changes were underway prior to the
+audit or were in the planning stage at the time of the
+survey. 
+
+*  Twenty-four States and the District of Columbia had
+data quality audits planned or scheduled for the next
+3 years.
+
+*  Forty-six  States and four territories had
+initiatives underway at the repository or contributing
+agencies to improve data quality.  Initiatives
+included audit activities (29); automation changes
+(39); disposition or arrest reporting enhancements
+(35); felony flagging (19); fingerprint enhancements
+(30); agency interfaces (31); legislation (20); plan
+development (26); establishment of task forces/
+advisory groups (19); implementation or improvement of
+tracking numbers (21); and training (26).    
+
+Criminal history records of Interstate Identification
+Index (III) participants maintained by the State
+criminal history repository and the Federal Bureau of
+Investigation, 1997 (Table 21):
+
+*  As of 1997, over 18.3 million III records are
+indexed with the State's identification (SID)
+pointers.  Approximately 12 million records are
+maintained by the FBI for the States.
+
+Fingerprint cards and dispositions received by the
+Federal Bureau of Investigation, FY 1997 (Table 22):
+
+*  Over 8.5 million fingerprints were received by the
+FBI in FY 1997.  Of that number, over 5.5 million were
+for criminal justice purposes, and over 2.9 million
+were for noncriminal justice purposes.  California
+submitted the highest number of criminal justice
+fingerprints  (1,075,000). Florida submitted the
+highest number of noncriminal justice fingerprints
+(416,900).  Florida, New Jersey, North Carolina, and
+Oregon were participants in the National Fingerprint
+File in 1997, and therefore submitted only the first
+fingerprint card of an individual to the FBI.
+
+* Final dispositions received by the FBI in 1997
+totaled 527,300, with California submitting the
+highest number (123,100).
+
+Fees charged by State criminal history repository for
+noncriminal justice purposes , 1997 (Table 23):
+
+* Almost all of the responding States (47), the
+District of Columbia, and the Virgin Islands currently
+charge fees for conducting criminal history record
+searches for noncriminal justice requesters.
+Mississippi and Vermont do not charge fees.
+
+* Fees for fingerprint-supported searches range from
+$7 in Maine to up to $52 in California.  In some
+cases, California does not charge a fee for the
+search.
+
+* Fees for name searches range from $2 in Wisconsin in
+some cases to $25 in Alabama, Connecticut,
+Massachusetts, and South Carolina.  Six States
+(California, Delaware, Georgia, Maryland, New York,
+and Wyoming) do not conduct name searches for
+noncriminal justice purposes.
+
+* Nine States (California, Indiana, Michigan, New
+Hampshire, Ohio, South Carolina, Virginia, Washington
+and Wyoming) and the Virgin Islands charge different
+fees for volunteer searches.
+
+Methodology
+
+This report is based upon the results from a two-part
+survey conducted of the administrators of the State
+criminal history record repositories in January -
+November 1997.  Fifty-three jurisdictions were
+surveyed, including the 50 States, the District of
+Columbia, the Commonwealth of Puerto Rico, and the
+U.S. Virgin Islands.  Responses for at least one part
+of the survey were received from 53 jurisdictions.
+Puerto Rico did not submit a survey response to either
+part.
+
+The  survey instruments consisted of 43 questions,
+having several parts.  The survey was designed to
+collect comprehensive data relating to State criminal
+history information systems.  Fifteen topical areas
+are covered in this report, as follows: 
+
+*  current quality and quantity of records in the
+criminal history databases;
+
+*  level of automation of master name indexes and
+criminal history records maintained by the State
+repositories;
+
+*  capacity of criminal history system to flag
+convicted felons in the database;
+
+*  level of fingerprint-supported arrest reporting to
+the State repositories and the processing and
+timeliness of the information that is entered into
+criminal history record databases;
+     
+*  notice to the State repository of persons released
+without charging following submission of fingerprints
+to the State repository;
+
+*  level of prosecutor-reported information in
+criminal history databases;
+
+*  level and timeliness of disposition reporting by
+the courts to the State criminal history repositories;
+
+*  types and timeliness of information reported to the
+State criminal history repositories by State and local
+correctional facilities;
+
+*  level of probation/parole-related information in
+State criminal history databases;
+
+*  extent to which the records in State criminal
+history databases contain final disposition
+information;
+
+*  policies and practices of the State repository
+regarding modification of felony convictions;
+
+*  ability of the State repositories to link reported
+disposition data to arrest data in State criminal
+history record databases; 
+
+*  level of audit activity in the States and the
+strategies employed the State repositories to ensure
+accuracy of the data in the criminal history record
+databases; and
+
+*  participation of the States in III and NFF; and
+
+*  fees charged by State criminal history repositories
+for conducting record searches for noncriminal justice
+requesters.
+
+The Federal Bureau of Investigation also provided
+information in two areas.  The information reported by
+the FBI relates to the number of  fingerprint cards
+and dispositions received by the FBI during FY 1997
+and the number of criminal history records of the
+States participating in the Interstate Identification
+Index system that are maintained by the State criminal
+history repositories and the number of records
+maintained by the FBI for the States.
+
+Following the receipt of the responses, all data were
+tabulated.  Survey respondents were requested to
+respond to particular questions relating to the
+current data compared to data from earlier surveys. 
+Respondents also were permitted a final review of the
+data after it was placed in the tables that appear in
+this report.
+
+Numbers and percentages shown in the tables were
+rounded.  In most cases, numbers were rounded to the
+nearest 100.  Percentages were rounded to the nearest
+whole number.  
+
+In the analyses of the tables, averages and totals
+were calculated using the mid-point of the range where
+ranges appear in the underlying data.  In instances
+where the result is .5, when it followed an even
+number, the number was rounded down to the even number
+(e.g., 4.5 became 4); in instances where the .5
+followed an odd number, the number was rounded up to
+the next even number (e.g., 1.5 became 2).
+
+Data reported for 1989 were taken from BJS, Survey of
+Criminal History Information Systems (March 1991). 
+Data reported for 1993 were taken from BJS, Survey of
+Criminal History Information Systems, 1993 (January
+1995). Data reported for 1995 were taken from BJS,
+Survey of Criminal History Information Systems, 1995 
+(May 1997).
+
+
+
+
+4/13/99
+
+

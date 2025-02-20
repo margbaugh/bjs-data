@@ -1,0 +1,827 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+********************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5744
+*********************************************************
+***********
+Bulletin
+***********
+
+*****************************************
+Census of Problem-Solving Courts, 2012
+*****************************************
+
+Suzanne M. Strong, Ph.D., and Ramona R. Rantala, BJS 
+Statisticians Tracey Kyckelhahn, Ph.D., 
+Former BJS Statistician
+
+In 2012, the Bureau of Justice Statistics’ (BJS) Census of 
+Problem-Solving Courts (CPSC) counted 3,052 problem-solving 
+courts in the United States (figure 1). The most common types of
+problem-solving courts were drug courts (44%) and mental health 
+courts (11%) (figure 1). Most courts (53%) reported that they 
+were established prior to 2005, including drug (64%), youth 
+specialty (65%), hybrid DWI/drug (63%), and domestic violence
+(56%) courts.
+
+Problem-solving courts are a relatively recent development in the 
+U.S. criminal justice system. These courts were created to 
+address underlying problems that result in criminal behavior. 
+Problem-solving courts are typically diversionary, meaning that a
+participant agrees to follow the guidelines of the court to avoid 
+prosecution, incarceration, or other typical criminal justice 
+outcomes. The criminal problem-solving court concept has been 
+extended to civil and family court, such as family dependency 
+matters, and to address the needs of certain populations, such as
+justice-involved veterans.
+
+**************************************************************
+*************
+HIGHLIGHTS
+*************
+
+* In 2012, 65% of all problem-solving courts accepted cases after 
+the defendant entered a guilty plea.
+
+* More than half (56%) of problem-solving courts in 2012 did not 
+accept applicants with a history of violent crime and nearly two-
+thirds (65%) did not accept applicants with a history of sex 
+offenses.
+
+* In 38% of veterans courts and 11% of domestic violence courts, 
+applicants with a history of violent crime were ineligible.
+
+* Fifty-three percent of all problem-solving courts active in 
+2012 were established prior to 2005.
+
+* Most veterans courts (55%) were established between 2011 and 
+2012.
+
+* Participants in problem-solving courts spent a median of 1 year 
+in the program in 2012. 
+
+* Overall, 57% of all problem-solving courts reported that more than half of the exits were successful program completions.
+
+* Twenty-one percent of youth specialty courts reported that 100% 
+of participants completed the program in 2012.
+
+* Successful program completion commonly included dismissal of 
+the case (61%) or a suspended sentence (40%).
+
+* Fewer than half (44%) of all problem-solving courts tracked 
+participant progress after program completion in 2012.
+***************************************************************
+
+The CPSC was sent to 3,633 problem-solving courts thought to be 
+operational in 2012 in all 50 states and the District of Columbia 
+and the territories of Guam and Puerto Rico. Of the originally 
+targeted courts, 3,052 were in existence in 2012 and 2,793 
+responded to the survey. (See Methodology for more information.)
+
+On behalf of BJS, staff at the National Center for State Courts 
+emailed respondents to explain the CPSC project and provided a 
+hyperlink to the online questionnaire. For courts that were 
+unwilling or unable to complete the survey online, a paper 
+questionnaire was mailed later in the data collection process or 
+at the respondent’s request. The respondent was directed to 
+answer one questionnaire per problem-solving court. If 
+respondents had multiple problem-solving courts under their 
+control, they were to complete a separate questionnaire for each 
+court. (See Problem-solving court definitions and distribution by 
+state text box.)
+
+****************************************************************
+*****************************************
+Problem-solving court definitions 
+and distribution by state
+******************************************
+
+Problem-solving courts were established to treat other underlying 
+causes of crime (e.g., drug addiction, mental health issues, or 
+homelessness) or to address the needs of specific populations 
+(e.g., veterans).
+
+Problem-solving courts that met each of the following conditions 
+were included in the 2012 census:
+
+* used therapeutic justice*** Footnote 1 Therapeutic justice 
+focuses on rehabilitating offenders using some form of counseling 
+and on minimizing punishment.***to reduce recidivism
+
+* operated within the judiciary
+
+* led by a judicial officer
+
+* had an exclusive docket
+
+* had participants that were admitted or that exited in 2012, or 
+indicated that it was operational but did not have eligible 
+participants enrolled in 2012.
+
+In the 2012 Census of Problem-Solving Courts (CPSC), a problem-
+solving court was defined as specialized program or docket that 
+operates within a jurisdiction or set of jurisdictions. A single 
+jurisdiction could run multiple problem-solving courts, or 
+multiple jurisdictions could participate in a single problem-
+solving court. The unit of count for the survey was the problem-
+solving court. If a problem-solving court had participants from 
+multiple jurisdictions, it was counted once. If one jurisdiction 
+runs three distinct problem-solving courts, then three problem-
+solving courts were counted.
+
+
+The CPSC identified many types of problem-solving courts. Often, 
+these courts can be classified under more than one type. For 
+example, a juvenile drug court in Indian country could also be 
+labeled as a tribal wellness court. In these situations, the 
+respondent’s self-classification was used. For a small number of 
+surveys in which the respondent did not affirmatively indicate a 
+primary attribute, the problem-solving court was classified using 
+other responses.
+
+Problem-solving courts were classified using the following 
+typology:
+
+* Drug courts handle an underlying drug problem contributing to 
+criminal behavior using nontraditional judicial proceedings and 
+treatment with team-based services. These courts include adult 
+drug courts, juvenile drug courts, and reentry drug courts, which 
+could either address adult or juvenile populations. *** Footnote 2 
+Although one juvenile drug court was located on tribal lands, it 
+self-identified as a juvenile drug court and was counted in that 
+category and not as a tribal wellness court.***
+
+* Mental health courts divert defendants with mental illness, 
+traumatic brain injury, or developmental disabilities into 
+judicially supervised, community-based treatment. Mental health 
+courts include adult mental health courts, juvenile mental health 
+courts, and adult co-occurring disorder courts.
+
+* Family problem-solving courts (referred to as family courts) 
+handle juvenile or family court cases of child abuse or neglect, 
+adjudication of parental rights, or custody and visitation, in 
+which parental substance abuse is a contributing factor.
+
+* Youth specialty courts serve juvenile offenders and address 
+underlying issues that result in court involvement. Youth 
+specialty courts include youth/teen courts and truancy courts.*** 
+Footnote 3 Seven courts that specifically served youth ages 16 
+and 17 who were charged in adult criminal courts were classified 
+as youth specialty courts.***
+
+* Hybrid driving while intoxicated (DWI)/drug courts handle 
+alcohol- or drug-dependent offenders who have also been charged 
+with a driving offense.
+
+* DWI courts focus on changing the behavior of the alcohol-
+dependent offender or offenders with a high blood alcohol content 
+who were arrested for DWI or driving under the influence. DWI 
+courts include juvenile DWI courts.
+
+* Domestic violence courts handle criminal cases that involve 
+offenses against persons who are related in some way, most often 
+through intimate partnership or family relationship. Domestic 
+violence courts include integrated domestic violence courts, 
+which combines a docket for both domestic violence and family 
+issues (e.g., custody and visitation). ***Footnote 4 Two of the 
+five courts classified as domestic violence courts were “other” 
+courts that indicated they were youth domestic violence courts. 
+Three were hybrid courts handling domestic violence and drug 
+abuse cases.***
+
+* Veterans courts serve justice-involved veterans and sometimes 
+active-duty personnel. These courts include veterans drug courts, 
+veterans mental health courts, and general veterans courts.
+
+
+* Tribal wellness courts are in the tribal justice system and 
+incorporate the wellness concept to meet the specific substance 
+abuse needs of each tribal community. Tribal wellness courts 
+include Tribal Healing to Wellness Courts and tribal hybrid 
+courts.
+
+* Other courts include adult community, homelessness, general 
+problem-solving (courts that address multiple case types and 
+serve a variety of defendants with underlying problems), reentry 
+(except reentry drug courts), parole violation, gambling, gun, 
+prostitution, elder abuse, and other specialty courts. Because 
+this category contains many types of courts, it is rarely 
+described in this report. 
+
+The number of problem-solving courts varied by state and 
+territory in 2012. California (208) and New York (188) 
+had the most problem-solving courts (table 1). Vermont 
+(6) and Guam (5) had the fewest.
+*************************************************************
+
+***************************************
+Development of problem-solving courts
+***************************************
+
+In 2012, a majority (61%) of problem-solving courts were located 
+in counties with a population of 100,000 or more
+*************************************************************
+
+The distribution of problem-solving courts varied by the type of court 
+and the size of the population served. In 2012, the total resident 
+population in the jurisdiction served by each problem-solving 
+court ranged from 3,800 to 9,826,800. ***Footnote 5 The resident 
+population includes all counties served by the problem-solving 
+court. Courts identified as municipal courts included the 
+population of the city of the court.*** About a quarter of these 
+courts were either in large jurisdictions with populations 
+greater than 500,000 or in small jurisdictions with populations 
+of 50,000 or fewer (table 2). More than a third (36%) were 
+located in jurisdictions with populations between 100,001 and 
+500,000. Large jurisdictions had a disproportionately high number 
+of veterans, domestic violence, and mental health courts, while 
+small jurisdictions had a disproportionately high number of 
+hybrid DWI/drug courts and a disproportionately low number of 
+mental health, domestic violence, and veterans courts.
+
+
+1 in 8 problem-solving courts active in 2012 
+were established in 2011 or 2012
+***************************************************
+
+Some problem-solving courts that were active in 2012 reported 
+admitting their first participants as early as 1989. Half of 
+problem-solving courts (53%) reported that they were established 
+prior to 2005. Nearly two-thirds of drug (64%), youth specialty 
+(65%), and hybrid DWI/drug (63%), and more than half of domestic 
+violence (56%) courts were instituted prior to 2005 (table 3). 
+Existing youth specialty courts reported that they were 
+established early in the history of problem-solving courts. Half 
+(49%) of youth specialty courts reported that they were 
+established before 2001, including 9% that were established 
+between 1989 and 1990 (not shown). In comparison, veterans, DWI, 
+and mental health courts were established more recently. More 
+than half (55%) of veterans courts reported being established in 
+2011 or 2012, and 37% reported being founded between 2006 and 
+2010. More than half (54%) of DWI courts reported being 
+established between 2006 and 2010, and 18% reported being founded 
+in 2011 or 2012. DWI (72%) and mental health (64%) courts 
+reported being established between 2006 and 2012.
+
+****************************************
+Admissions to problem-solving courts
+****************************************
+
+In 2012, most problem-solving courts admitted 
+participants after a plea was entered
+********************************************* 
+
+Problem-solving courts varied by the point at 
+which they intervene in a case. Some courts took cases that had 
+reached a specific processing stage, while others took on cases 
+at multiple processing points. Additionally, problem-solving 
+courts accepted multiple case types and identified different 
+entry points for criminal or civil and family cases. In 2012,
+35% of problem-solving courts accepted a case at filing or prior 
+to a plea, while 64% accepted a case after a plea was entered 
+(table 4). Most (73%) domestic violence courts accepted cases at 
+case filing or prior to a plea. Half (50%) of youth specialty 
+courts accepted a case prior to a plea. Most (61%) family 
+problem-solving courts accepted a case after a judicial order, 
+which can occur at any point during a case’s life-cycle. More 
+than 8 in 10 (85%) hybrid DWI/drug courts accepted a case after a 
+plea was entered.
+
+In 2012, in most problem-solving courts applicants 
+with a history of violent crime or sex offenses 
+were ineligible 
+*******************************************************
+
+Participants had to meet certain criteria to be accepted into a 
+problem-solving court. In 2012, most problem-solving court 
+participants with a history of violent (57%) or sex (65%) 
+offenses were ineligible (figure 2). Domestic violence and 
+veterans courts were exceptions to this pattern. The majority 
+of domestic violence courts accepted participants with a 
+history of violent crime (89%) or sex offenses (88%). 
+The majority of veterans courts (62%) accepted participants 
+with a history of violence.
+
+Most problem-solving courts admitted fewer than
+50 participants in 2012 and did not exceed 
+reported capacity
+********************************************************
+
+In 2012, courts varied in the number of participants admitted. 
+About 3 in 4 courts (72%) admitted fewer than 50 individuals in 
+2012 (table 5). Among domestic violence court, 78% admitted 50 or 
+more individuals and 20% admitted 500 or more in 2012. The large 
+majority of tribal wellness courts (91%) admitted fewer than 20 
+individuals in 2012.
+
+Capacity was defined as the maximum number of participants a 
+problem-solving court could manage. Most problem-solving courts 
+(61%) reported a capacity of 20 to 99 participants (appendix 
+table 3). Most family problem-solving courts (86%) and tribal 
+wellness courts (100%) reported a capacity of fewer than 50 
+individuals. Domestic violence courts were larger, with a 
+majority (59%) reporting a capacity of 100 or more.
+
+Among problem-solving courts that reported the number of active 
+participants in 2012, more than half (53%) reported between 10 
+and 49 active participants (appendix table 4). Tribal wellness 
+courts had the fewest active participants, with more than half 
+(52%) reporting nine or fewer. Domestic violence courts had the 
+most active participants, with more than half (53%) reporting 100 
+or more.
+
+Most problem-solving courts reported that the number of active 
+participants was within or below their reported capacity. In 
+2012, 5% of courts with a capacity of 19 or fewer individuals 
+operated over that capacity, as did 1% of courts with a capacity 
+of 20 to 49 and 4% of courts with a capacity of 50 to 99 
+(table 6).
+
+*******************************************
+Participation in problem-solving courts
+*******************************************
+
+In 2012, almost 90% of all problem-solving 
+courts held preliminary reviews to discuss 
+participant progress prior to the official 
+status hearing 
+*******************************************
+
+Problem-solving courts met periodically to monitor a participant’s 
+progress through the court’s program. Depending on the type of 
+court, an official status hearing was held daily, weekly, or 
+monthly. The staff in most courts met prior to the official 
+court review to discuss the participant’s progress. Nearly 
+two-thirds (63%) of all problem-solving courts reported meeting 
+at least weekly to review the progress of their participants 
+(table 7). Most (91%) problem-solving courts required the 
+participant to attend the court hearing. Of these courts, 99% 
+reported that the judge interacted directly with the participant 
+at the court hearing.
+
+Youth specialty courts and domestic violence courts met on a 
+different schedule than most other problem-solving courts. 
+Twenty-one percent of youth specialty courts met weekly, and 30% 
+met monthly or more than once per month but less frequently than 
+weekly (34%). Forty-two percent of youth specialty courts 
+reported that the participant was required to attend status 
+hearings. Of these courts, 90% reported that the judge interacted 
+directly with the participant. More than a quarter of domestic 
+violence courts met daily (28%), and more than a third met weekly 
+(35%). Eighty percent of domestic violence courts required the 
+participant to attend status hearings. Of these courts, 98% of 
+domestic violence status hearings involved direct interaction 
+between the judge and the participant.
+
+Most (88%) problem-solving courts reported that staff held 
+preliminary reviews of each case prior to status hearings 
+(table 8). Forty percent of youth specialty courts and
+45% of domestic violence courts met to review cases prior to the 
+official court hearing. Of the courts that held preliminary 
+reviews, judges and service providers were present in 93% of 
+these reviews, while probation agents were present in 90%, and 
+prosecutors and defense attorneys were present in 79%. Law 
+enforcement officers were present in 40% of preliminary reviews.
+
+Substance abuse treatment was the most 
+commonly reported service used by 
+problem-solving court participants in 2012
+************************************************
+
+Problem-solving courts reported services used by at least 10% of 
+active participants. Most (87%) problem-solving courts reported 
+that they offered and participants used substance abuse 
+treatment, ranging from 41% of youth specialty courts to 97% of 
+family courts (appendix table 6). Most (89%) problem-solving 
+courts reported that they offered and participants used 
+individual counseling sessions, ranging from 63% of domestic 
+violence courts to 96% of tribal wellness courts. Almost three 
+quarters (72%) of all courts offered and participants used some 
+form of life skills training (e.g., time management), ranging 
+from 40% of domestic violence courts to 92% of family courts. In 
+2012, half (49%) of all problem-solving courts offered and 
+participants used anger management programs, ranging from
+26% of DWI courts to 71% of veterans courts.
+
+*************************************************************
+********************************************
+Juvenile drug and mental health courts
+********************************************
+
+Drug (1,330) and mental health (301) courts were divided into 
+subgroups based on the population served. Approximately a quarter 
+of drug courts (23%) and a tenth of mental health courts (11%) 
+were designated exclusively for juveniles (figure 3). ***Footnote 
+6 Seventeen adult drug courts accepted juvenile cases.*** Many 
+court characteristics varied depending on whether the court 
+served adults or juveniles.
+
+* Juvenile problem-solving courts were smaller than adult courts. 
+In 2012, nearly three-quarters of juvenile drug and mental health 
+courts had fewer than 20 active participants, compared to roughly 
+a third of adult drug and mental health courts.
+
+* Individual counseling services were used in the majority of 
+drug courts (94%) and mental health courts (95%), regardless of 
+whether they served juveniles or adults.
+
+* The average time in programs was less than 1 year in two thirds 
+of juvenile drug courts (65%) and 1 year or more in two-thirds of 
+adult drug courts (69%).
+
+* A significantly higher proportion of juvenile mental health 
+courts (59%) tracked program graduates than adult mental health 
+courts (41%).
+
+Drug and mental health courts for juveniles were
+smaller than those for adults
+***************************************************
+
+The differences in size among adult and juvenile drug and mental 
+health courts were significant. Juvenile courts tended to be 
+smaller than adult courts. In 2012, 41% of juvenile drug courts 
+had a capacity of 19 or fewer participants, compared to 10% of 
+adult drug courts (table 9). Conversely, a higher proportion of 
+adult drug courts (50%) had a capacity of 50 or more participants 
+than juvenile drug courts (11%).
+
+Results were similar for mental health courts. Nearly half (48%) 
+of juvenile mental health courts had a capacity of 19 or fewer 
+participants, compared to 16% of adult mental health courts. 
+Three percent of juvenile mental health courts had a capacity of 
+50 or more, and none had a capacity of 100 or more. In 
+comparison, 23% of adult mental health courts had a capacity of 
+50 or more, and 16% had a capacity of 100 or more.
+
+The difference in the number of active participants was also 
+significant. Nearly three-quarters of juvenile drug courts (74%) 
+and juvenile mental health courts (71%) had fewer than 20 active 
+participants in 2012, compared to about a quarter (28%) of adult 
+drug courts and about a third (34%) of adult mental health 
+courts. The findings for admissions and exits were similar 
+(appendix table 7).
+
+Almost all drug and mental health courts (99%) operated at or 
+below capacity (not shown). A majority of juvenile drug courts 
+(65%) operated below capacity. Slightly less than half of adult 
+drug courts (48%), adult mental health courts (44%), and juvenile 
+mental health courts (44%) were below capacity.
+
+******************************************************
+Individual counseling was commonly used by
+participants in nearly all adult and juvenile 
+drug and mental health courts
+*******************************************************
+
+Some services were offered by drug and mental health courts 
+equally for adult and juvenile participants. Individual 
+counseling services were the most common and were used in the 
+vast majority of drug courts (94%) and mental health courts (95%) 
+for both juveniles and adults (appendix table 9). 
+
+For most services, the proportion of courts offering these services 
+differed significantly between those serving adults and those 
+serving juveniles. Services more common for adult drug courts 
+included assistance in locating housing (56% of adult compared to 
+15% of juvenile drug courts), assistance in accessing benefits 
+(48% compared to 26%), job training or assistance (65% compared 
+to 41%), and use of medication to treat addiction (27% compared 
+to 11%). In mental health courts, these services were also more 
+commonly used by adults than juveniles. Conversely, cognitive 
+behavioral therapy was used in a significantly higher percentage 
+of juvenile mental health courts (81%) than adult mental health
+courts (72%).
+
+*****************************************************
+Most juvenile problem-solving courts accepted cases
+after sentencing or release
+******************************************************
+
+Juvenile problem-solving courts intervened at different points in 
+the life cycle of cases than adult problem-solving courts. Most 
+adult drug (80%) and mental health (74%) courts accepted cases 
+after a plea was entered but prior to sentencing (appendix table 
+11). Significantly more juvenile drug (59%) and mental health 
+(68%) courts accepted cases after sentencing or upon release than 
+adult drug (39%) or mental health (38%) courts.
+
+*******************************************************
+Juveniles spent less time in programs than adults
+*******************************************************
+
+Juveniles spent significantly less time in problem-solving court 
+programs than adults. The average time in programs was less than 
+1 year in about two-thirds of juvenile drug courts (65%) and 
+juvenile mental health courts (70%), compared to about a third of 
+adult drug courts (31%) and nearly half of adult mental health 
+courts (49%).
+
+***************************************************
+Case dismissal was the most common benefit for
+program graduates
+***************************************************
+
+The most common benefit of successful completion of a problem-
+solving court program was case dismissal. Nearly two-thirds of 
+all drug courts (65%) and about three-quarters of all mental 
+health courts (74%) could dismiss the case when the program was 
+completed successfully. About half of adult drug courts (47%) and 
+adult mental health courts (51%) could suspend sentences, which 
+was significantly higher than the proportion of juvenile drug 
+courts (31%) and juvenile mental health courts (26%) that offered 
+this benefit to graduates. In comparison, a significantly greater 
+percentage of juvenile drug courts could expunge records upon 
+successful completion (32%), compared to adult drug courts (25%).
+
+*********************************************************
+Most juvenile mental health courts tracked participants
+after program completion
+*********************************************************
+
+Nearly 6 in 10 juvenile mental health courts (59%) tracked 
+program graduates. This was significantly greater than the 
+proportion of adult mental health courts (41%) that tracked 
+graduates. About half of adult drug courts (52%) and juvenile 
+drug courts (48%) tracked participants after program completion.
+*************************************************************
+
+**************************************
+Funding of problem-solving courts
+**************************************
+
+Most problem-solving courts were funded 
+by state grants or through the state 
+budget in 2012
+*********************************************
+
+Problem-solving courts reported the percentage of their total 
+budgets that came from different sources. Fewer than a quarter 
+(23%) of these courts operating in 2012 reported that they 
+received some federal grants to support their programs. Four 
+percent reported that the court was entirely funded with federal 
+grants (table 10). Sixty percent reported receiving funding from 
+the state (grants or budget), and 23% reported that the court was 
+entirely funded by the state. Twenty percent of problem-solving 
+courts reported that up to 50% of their funding came from court 
+fees or fines. (See appendix table 1.)
+
+************************************
+Exits from problem-solving courts
+************************************
+
+57% of all problem-solving courts reported 
+that more than half of the exits in 2012 
+were successful program completions
+***********************************************
+
+More than half (57%) of problem-solving courts reported that
+51% of exits were successful program completions (table 11).
+Two-thirds (66%) of hybrid DWI/drug courts reported that
+51% of exits were successful program completions in 2012.
+In comparison, 62% of family problem-solving courts had
+50% or fewer exits by successful program completions.
+Tribal wellness (26%) and veterans courts (22%) reported that no 
+participants successfully completed the court program. Veterans 
+courts estimates were based on a low response rate to the 
+question and must be interpreted with caution. Of the veterans 
+courts that reported no successful program completions, 42% were 
+instituted in 2012. Of the tribal wellness courts that reported 
+no successful program completions, 33% (2 courts) were pilot 
+programs (not shown). It is possible that the participants 
+admitted had not yet met the requirements of the program by the 
+end of 2012.
+
+In 2012, most (93%) problem-solving courts reported at least one 
+benefit to participants for successful program completion.
+Sixty-one percent of these courts reported case dismissal and
+40% reported a suspended sentence as a benefit (table 12).
+Eighty percent of veterans, 78% of tribal wellness, 75% of youth 
+specialty, and 74% of mental health courts reported case 
+dismissal as a benefit for successful program completion.
+Twenty-two percent of courts reported that a benefit of 
+successful program completion was that the record was expunged. 
+Eleven percent of courts reported that a benefit of successful 
+program completion was an expedited settlement of the case. 33% 
+of family problem-solving courts reported this benefit.
+
+Fifty-one percent of domestic violence courts reported that the 
+case was dismissed. In 2012, 50% of DWI courts reported that a 
+suspended sentence was a benefit of successful completion of 
+court. For veterans courts, 78% reported that case dismissal and 
+64% reported that a suspended sentence were benefits of 
+successful completion of the court program.
+
+A majority of family problem-solving courts (58%) reported other 
+benefits of successful completion. Some form of family 
+reunification was the most commonly (50%) reported other benefit 
+for successfully completing family problem-solving courts in 2012 
+(not shown). Forty-five percent of domestic violence courts 
+reported other benefits of successful completion. Fifty percent 
+of DWI courts reported other benefits of successful completion. 
+Of these, the most commonly reported other benefit was partial or 
+full driving privileges restored (12%) (not shown).
+
+In 2012, less than half (44%) of all problem-solving courts 
+reported that they tracked participant progress after program 
+completion (figure 4). Eleven percent of domestic violence courts 
+and 59% of DWI courts tracked graduates after successful 
+completion.
+
+********************
+Methodology
+********************
+
+Survey overview
+******************
+
+The Census of Problem-Solving Courts (CPSC) is the Bureau of 
+Justice Statistics’ (BJS) first information collection from all 
+problem-solving courts in the United States, Puerto Rico, and
+Guam. The National Center for State Courts (NCSC) fielded the 
+survey on behalf of BJS. The survey defined problem-solving 
+courts as those that—
+
+* used therapeutic justice to reduce recidivism
+
+* operated within the judiciary
+
+* had a judicial officer in charge
+
+* had an exclusive docket
+
+* either admitted participants, had active participants, or 
+exited participants between January 1 and December 31,
+2012.
+
+The CPSC collected information about the type of court, problems 
+addressed, court capacity, cases accepted, sources of funding, 
+services provided, number of admissions and exits, and tracking 
+of graduates. Additional information collected but not presented 
+in this report included stakeholder involvement in court 
+planning, staff, training, presence of a court case 
+management system, program evaluation, and demographic data on 
+exiting court participants. Demographic data were not provided 
+for a sufficient number of participants to provide reliable 
+national estimates.
+
+Universe identification
+************************
+
+The universe list of problem-solving courts began with the
+National Drug Court Institute (NDCI) directory of state problem-
+solving court coordinators, which is updated every 6 months. An 
+initial letter was sent to each contact, asking them to identify 
+all of the problem-solving courts in their state and to provide a 
+court-level contact for each program. This file was supplemented 
+and verified by the Council of State Governments, Center for 
+Court Innovation, National Association of Youth Courts, NCSC, and 
+NDCI. The final list was further refined using information from 
+court websites and press releases.
+
+The unit of count for the CPSC is the problem-solving court.
+If a single courthouse location operated multiple problem-solving 
+courts, each problem-solving court was counted separately. A 
+problem-solving court that sat in multiple locations was also 
+counted as a single court.
+
+The original universe list included the 50 states, the District 
+of Columbia, Guam, Puerto Rico, and the Virgin Islands. The
+Virgin Islands did not have any problem-solving courts in
+2012. The U.S. territories of American Samoa and Northern
+Mariana Islands were excluded by design.
+
+Court response rate and court verification
+********************************************
+
+The survey was sent to 3,633 problem-solving courts expected to 
+be operating in all 50 states, the District of Columbia,
+Guam, and Puerto Rico in 2012. If a court did not respond to the 
+survey, staff followed up with phone calls and emails to the 
+respondent. The verification process included the type of court.
+If there was no response to the phone calls or emails, and if no 
+other person responsible for problem-solving courts could confirm 
+the existence of the court, that court was considered to be 
+unverifiable and was removed from the universe list. After 
+repeated follow-up, 376 nonresponding courts could not be 
+verified and were eliminated, leaving 259 verified nonresponding 
+courts in the universe. After reviewing completed surveys, an 
+additional 204 responding courts were excluded because they did 
+not meet the criteria for inclusion.
+
+The final universe contained 3,052 problem-solving courts, of 
+which 2,793 responded for an overall 92% response rate. To 
+compensate for the 259 nonresponders, all courts except drug 
+courts had analytic weights calculated by first stratifying by 
+court type and then weighting reporting courts so that their 
+weighted counts equaled the universe count of the stratum. Due to 
+their large numbers, drug courts were additionally stratified 
+into three substrata by the size of population served, and 
+analytic weights were calculated in a similar manner within 
+population strata as was done with the other court types. This 
+led to a slight underestimation of the total number of juvenile 
+drug courts and a slight overestimation of the total number of 
+adult drug courts because the drug court strata did not control 
+for the juvenile or adult distinction, and 6% of adult drug 
+courts and 7% of juvenile drug courts did not respond. These 
+nonresponse adjustments and the resulting analytical weights for 
+each type of court are included in appendix table 21.
+
+Item nonresponse
+******************
+
+The CPSC included 44 questions. For responding courts, there was 
+no discernible pattern to item nonresponse. If a majority of 
+items was skipped, the respondent was identified as a 
+nonresponder and included in the weighting scheme. Overall, the 
+item nonresponse rate for each question was less than 10%, unless 
+otherwise noted in the tables.
+
+Accuracy of the estimates
+*****************************
+
+Because the CPSC was designed to be a census of problem-solving 
+courts and included only verified courts, any error should come 
+from failure to respond to the survey. Court-level (or unit) 
+nonresponse ranged from 2% missing (driving while intoxicated 
+courts) to 16% missing (youth courts). To account for unit 
+nonresponse, the responses are weighted as previously discussed. 
+Because such weighting may introduce some error into the 
+estimates, standard errors were estimated for every table 
+produced for this report. The standard error varies by estimate 
+and type of court. Overall, an estimate with a small standard 
+error is considered to be more reliable than an estimate with a 
+large standard error. Estimates with larger standard errors are 
+considered to be less precise and should be interpreted with some 
+degree of caution. All standard errors were produced using SUDAAN 
+Statistical Software for Analyzing Correlated Data.
+
+Additionally, readers can use the estimates and the standard 
+errors of the estimates provided in this report to generate a 
+confidence interval around the estimate as a measure of the 
+margin of error. The following example illustrates how standard 
+errors can be used to generate confidence intervals:
+
+According to the CPSC, in 2012, an estimated 27.0% of youth 
+specialty courts reported that the court tracked successful 
+graduates of the program (figure 5). The standard error of this 
+estimate is 1.3 (appendix table 20). A confidence interval around 
+the estimate was generated by multiplying the standard errors by 
+±1.96 (the t-score of a normal, two-tailed distribution that 
+excludes 2.5% at either end of the distribution). Therefore, the 
+95% confidence interval around the estimate is 27.0 ± (1.3 × 
+1.96) or 24.5 to 29.5. In other words, if different samples of 
+problem-solving courts using the same procedures were taken from 
+the U.S. population in 2012, 95.0% of the time, 24.5% to 29.5% of 
+youth courts would respond that they tracked graduates. When the 
+confidence intervals for the counts of other types of problem-
+solving courts that tracked successful graduates do not overlap 
+with the confidence interval for youth specialty courts, then 
+those problem-solving courts can be said to have different 
+tracking counts than youth specialty courts.
+
+*************************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is
+Acting Director.
+
+This report was written by Suzanne M. Strong, Ramona R. Rantala, 
+and Tracey Kyckelhahn. Ramona R. Rantala, Suzanne M. Strong, and 
+Marshay Lentini verified the report.
+
+The late Donald J. Farole, BJS Statistician, conceptualized the 
+Census of Problem-Solving Courts project.
+
+Nicole Waters, National Center for State Courts, carried out data 
+collection and processing with assistance from Jennifer Elek, 
+Deborah Smith, Kathryn Holt, and Shauna Strickland.
+
+Irene Cooperman, Brigitte Coulton, and Jill Thomas edited the 
+report, and Barbara Quinn produced the report.
+
+September 2016, NCJ 249803
+*************************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+***********************
+9/6/2016 3:15pm JER 
+***********************

@@ -1,0 +1,609 @@
+CJEE EXTRACTS DEFINITIONS OF TERMS AND CONCEPTS
+
+Following is a glossary of terms and concepts used in the CJEE
+Extracts program and comments regarding their limitations.
+These definitions are based largely on those used in the U.S. 
+Census Bureau's governmental finances and employment statistics
+program.  The justice functional definitions were developed for
+the original surveys of Justice Expenditure and Employment
+(CJEE Surveys) and, as described in the "Differences in
+operational definitions" section of CJEECOMP.TXT 
+("Comparability Issues Between the CJEE Survey and the CJEE
+Extracts Programs") on this zip archive, the justice
+definitions cannot always be fully operationally implemented in
+the CJEE Extracts series.
+     
+These terms are grouped into five categories:
+-- governmental units and types of governments
+-- population 
+-- governmental expenditure
+-- governmental employment
+-- governmental functions.
+
+
+These data are preliminary and subject to change. They will be superseded
+by data released approximately a year from their initial publications.
+Federal data are updated for two years after the initial preliminary release.
+Although every effort is made to obtain financial information from state and
+local government entities, financial statements and completed
+questionnaires
+may not be available at the time the Census Bureau closes the processing.
+Missing data are imputed until complete data are obtained. 
+
+
+GOVERNMENTAL UNITS AND TYPES OF GOVERNMENTS
+
+A government is an organized entity characterized by popular 
+election of the officials or their appointment by public officials, 
+a high degree of public accountability, and the power to raise 
+revenue to provide authorized services.  In addition, a governmental 
+unit must have sufficient discretion in the management of its own 
+affairs to distinguish it from the administrative structure of any
+other governmental unit.  For detailed information concerning
+the identification and classification of governments, see U.S.
+Bureau of the Census, "Governmental Organization, 2002 Census
+of Governments," Vol. 1, No. 2, GC02(1)-2, 2005, or at
+http://www.census.gov/govs/.
+
+Federal government.  The term federal encompasses all
+activities of the United States Government other than
+employment of the Armed Forces.  District of Columbia data 
+are excluded from this category and included with data for
+municipalities.
+
+State governments.  This category refers to the governments of
+the 50 states that constitute the United States.
+
+Local governments.  Census Bureau classifies local governments 
+by five major types:
+-- county
+-- municipality
+-- township
+-- independent school district
+-- special district.
+
+Counties.  Organized county governments are found throughout
+the nation except in Connecticut, the District of Columbia,
+Rhode Island, and limited portions of a few other states. 
+These governments are legally designated as boroughs in
+Alaska and parishes in Louisiana.  Excluded from county
+government statistics and included with municipalities or
+townships are certain local governments that combine area 
+and governmental characteristics of both counties and
+municipalities or townships. 
+
+Municipalities and townships. Municipalities as used in the
+CJEE Extracts program includes two of the Census Bureau's
+separate classes of local governments -- municipalities and
+townships.  A municipality is a political subdivision within
+which a municipal corporation has been established to provide
+general local government services for a specific population
+concentration in a defined area.  A municipality may be legally
+termed a city, village, borough (except in Alaska), or town
+(except in the New England states, Minnesota, New York, and
+Wisconsin).  Included in this category are certain cities that
+are completely or substantially consolidated with their county
+governments, operate outside the geographic limits of any
+county, or for other reasons have no organized county
+government operations within their boundaries. 
+
+In the individual city tables, certain cities displayed are
+either independent, being wholly outside any county area, or
+operate entirely or in part as a consolidated city-county
+government.  These governments are classified as municipalities
+by the Census Bureau and are included as municipalities in the
+tables presenting data by type of government.  In general,
+these cities are more similar to large counties than to other
+large cities in the scope of their justice responsibilities;
+that is, in addition to police protection, which is the primary
+justice function of most municipalities, these cities also
+operate extensive judicial and correctional systems and may
+have significant public defense expenditures.
+
+The annual CJEE Extracts tables 15-17 and 20 display data for the 
+independent cities of Washington, D.C. (which also has state-type 
+responsibilities); Baltimore, MD; and St. Louis, MO, and for 
+the consolidated city-county governments of San Francisco, CA; 
+Denver, CO; Jacksonville, FL; Honolulu, HI; Indianapolis, IN;
+Baton Rouge and New Orleans, LA; Boston, MA; New York City,
+NY; Philadelphia, PA; and Nashville-Davidson,TN.
+
+Townships, as distinguished from municipalities, are created to
+serve inhabitants of areas defined without regard to population 
+concentration.  This classification is applied to local governments 
+in 20 states, including government units officially designated as 
+towns in the 6 New England states, New York, and Wisconsin; some
+plantations in Maine; and some locations in New Hampshire. 
+In Minnesota the terms town and township are used interchangeably.  
+Data for townships are included under the municipalities category.
+
+Independent school districts.  These governments are organized
+local entities providing public elementary, secondary, or
+higher education, which, under state law, have sufficient
+administration and fiscal autonomy to qualify as separate
+governments.  Excluded are dependent public school systems of
+county, municipal, township, or state governments.  Justice
+data are not collected for these independent school districts
+because these governments generally perform no justice
+functions.  However, data for these governments are included in
+the denominator when justice expenditure is presented as a
+percentage of all government expenditure to allow comparisons
+across states and governments that make varying use of these
+districts.
+
+Special districts.  These are organized local entities (other
+than counties, municipalities, townships, and school districts)
+authorized by state law to provide a limited number of
+designated functions and with sufficient autonomy to qualify as
+separate governments.  They are known by a variety of names,
+including districts, authorities, boards, and commissions. 
+Justice data are only collected for these districts where their 
+primary purpose is either law enforcement or corrections.  Data 
+for these governments are included in the denominator when justice
+expenditure is presented as a percentage of all government
+expenditure to allow comparisons across states and governments
+that make varying use of these districts. 
+
+POPULATION 
+
+The resident population data used are for July 1 of each year
+from the U.S. Census Bureau, Current Population Reports.
+They are consistent with the 1990 and 2000 decennial
+enumerations, and they do not include adjustments for census
+coverage errors.  They are the most current estimates available
+when the tables were assembled.  The data in the trend tables
+may differ from population data used in single year tables
+earlier in this series and in other sources that used estimates
+available at the time they were prepared.
+
+
+GOVERNMENTAL EXPENDITURE
+
+Expenditure is all amounts of money paid out (net of recoveries
+and any correcting transactions) other than for retirement of
+debt (including interest), investment in securities, extensions
+of loans, or agency transactions.  It includes only external
+cash payments and excludes any intragovernmental transfers and
+noncash transactions, such as the provision of meals or housing
+of employees.  It also includes any payments financed from
+borrowing, fund balances, intergovernmental revenue, and other
+current revenue.  In several instances, two or more governments
+share the expense of maintaining a court or a justice agency. 
+In these cases, the allowable direct expenditure amount is
+reported for each government in the appropriate category.
+
+When a government pays pensions directly to retired employees
+from appropriated funds, such payments are included as
+expenditure of the government concerned.  However, state and
+local government contributions to retirement systems they
+operate are not included in expenditure data, because many
+governments make lump-sum contributions to plans covering all
+government employees and cannot report separately for justice
+employees.  Neither in governments' basic accounting records
+(from which criminal justice expenditure figures are drawn) nor
+in the records of their general-coverage employee benefit
+systems is there usually any breakdown of amounts contributed
+in terms of the various agencies or functions involved.  Nor has
+an adequate procedure for calculating the proportion of such
+contributions allocable to justice employees been developed
+because of the wide variation in the coverage of various plans,
+employee status requirements, benefit rates, and so forth. 
+Expenditure is divided into major categories by character and
+object as follows:
+
+Direct expenditure is all expenditure except thoes classified 
+as intergovernmental and is further divided into two categories:
+-- Direct current includes salaries, wages, fees, commissions,
+and the purchase of supplies, materials, and contractual
+services.
+-- Capital outlay includes expenditure for the three object
+categories of construction, equipment, and purchase of land and
+existing structures.
+
+Data are presented separately in the CJEE Extracts program for
+state construction of correctional institutions; the other
+category in those tables includes equipment and the purchase of
+land and existing structures.
+
+Construction:  The production of fixed works and structures, as 
+well as additions, replacements, and major alterations thereto
+undertaken either on a contract basis by private contractors or
+through force account construction by the employees of the
+government.  Included are the planning and designing of
+specific projects; grading, landscaping, and other site
+improvement; and providing equipment and facilities that are
+integral parts of the structure.
+
+Equipment:  The purchase and installation of apparatus,
+furnishings, office equipment, motor vehicles, and the like
+having an expected life of more than 5 years.  This includes
+both additional equipment and replacements.  Rentals for
+equipment, including rental payments that may be credited on
+the purchase price if purchase options are exercised, are
+classified as direct current expenditure.  Equipment and
+facilities that are integral parts of constructed structures
+are classified under construction.
+
+Purchase of land and existing structures:  Purchase of these
+assets as such, purchase of rights-of-way, title search, and
+similar activities associated with purchase transactions.
+
+Expenditure for interest on general debt, assistance and
+subsidies, and insurance benefits are not applied to specific
+functions because they are not ordinarily available on a
+functional basis from government financial reports.  In
+instances where bonded or mortgaged general indebtedness is
+identified for specific purposes, the interest payments are
+aggregated with other interest expenditures, which makes
+reliable and consistent breakouts of such data over a long
+period of time impossible.
+
+Intergovernmental expenditure comprises payments from one
+government to another, including grants-in-aid, shared
+revenues, fiscal assistance, and amounts for services performed
+by one government for another on a reimbursable or cost-sharing
+basis (e.g., payments by one government to another for
+boarding prisoners).  It excludes amounts paid to other
+governments for purchase of commodities, property, or utility
+services; any tax imposed and paid as such; and employer
+contributions for social insurance (e.g., contributions
+to the fFederal gGovernment for old-age, survivors', disability,
+and health insurance and local government payments to
+state-operated retirement systems on behalf of their
+employees).
+
+Total expenditure is direct and intergovernmental expenditure
+of a government or type of government.  In the expenditure
+tables, certain totals have been adjusted to exclude
+duplicative intergovernmental expenditure amounts.  For
+example, money paid by a state government to a county
+government within that state is reported by the state
+government as an intergovernmental expenditure and by the
+county government as a direct expenditure when the money is
+spent (for salaries, wages, equipment, and so forth). 
+Therefore, to arrive at a combined state-local government total
+that does not duplicate these transactions, intergovernmental
+expenditure amounts are deducted from the state-local total,
+because those amounts also are reflected in the direct
+expenditure of the recipient government.  The same treatment is
+used for intergovernmental payments between counties and
+municipalities within the same state when computing local
+totals.  Totals reported for all governments also are
+adjusted to exclude duplicative intergovernmental expenditure
+involving the federal government.
+
+The column labeled total direct expenditure in the CJEE 
+Extracts table 3 presents data for all government functions, 
+including justice and nonjustice activities.  The comparable 
+tables for the 1971-79 CJEE Survey reports limited these columns 
+to general expenditure, which excluded utility system expenditure, 
+liquor store expenditure, and insurance trust expenditure.  The  
+change to the all-inclusive total expenditure category was made in
+1982 to allow comparison of justice expenditure with all
+government spending.  Comparable data for all years can be
+found in annual Census Bureau Governmental Finances reports,
+Series GF, No. 5.
+
+Character and object are two standard governmental accounting
+classifications of expenditure data used by the Census Bureau
+as a single entity in the presentation of expenditure data.
+Character refers to the period of time the expenditure is
+presumed to benefit.  The four character groupings are (1)
+current operating expenses, presumed to benefit the current
+fiscal period; (2) capital outlays, presumed to benefit the
+current and future periods; (3) intergovernmental, when one
+government transfers resources to another; and (4) debt
+service, presumed to benefit prior fiscal periods, as well as
+current and future periods. Debt service is not applicable to
+available justice expenditure data.  Object applies to the
+article purchased or the service obtained, for example,
+personal services, contractual services, equipment, and
+construction.  (Definitions adapted from Government Finance
+Officers Association, "Government Accounting, Auditing, and
+Financial Reporting," pages 319 and 343, Chicago: 1994, as
+provided by the U.S. Bureau of the Census.) 
+
+Variable pass-through expenditure data were collected through
+the CJEE Surveys.  Those data were developed to comply with the
+Omnibus Crime Control and Safe Streets Act of 1968, as amended,
+which required that block grants made by the Law Enforcement
+Assistance Administration (LEAA), and later by the Bureau of
+Justice Assistance (BJA), to each state be allocated between
+the state and local governments on the basis of the ratio of
+state-to-local law enforcement expenditure from their own
+revenue sources.  The Justice System Improvement Act of 1979
+changed the distribution formula and based the new one on
+expenditure from general purpose revenue sources. The Justice
+Assistance Act of 1984 returned to the variable pass-through
+formula.  Justice expenditure data cannot be produced on either
+basis from this limited CJEE Extracts program.
+
+GOVERNMENTAL EMPLOYMENT
+
+Employment and employees refer to all persons gainfully
+employed by and performing services for a government. 
+Employees include all persons paid for personal services
+performed, including persons paid from federally funded
+programs, paid elected officials, persons in a paid-leave
+status, and persons paid on a per meeting, annual,
+semiannual, or quarterly basis.  Unpaid officials, pensioners,
+persons whose work is performed on a fee basis, and contractors
+and their employees are excluded from the count of employees.
+
+Under this definition are two classes:
+
+Full-time employees include those persons whose hours of work
+represent full-time employment in their employer government
+during the pay period including October 12 of the year
+specified in the table for 1980 to 1997.  Generally, it includes 
+full-time temporary or seasonal workers employed during that pay 
+period.  October is used because public employment is relatively
+stable in that month and free from seasonal employment 
+fluctuations. In 1997, the reference month changed to March of 
+each year.  
+
+Part-time employees are those persons who work less than the
+standard number of hours for full-time work in their employer
+government during the pay period including October 12 of the
+year specified in the table and persons paid by more than one
+government.
+
+Full-time equivalent employment is a statistical measure that
+estimates the total workforce accounting for the less than
+full-time employment of part-time employees.  Prior to 1986,
+the formula for computing full-time equivalent employment was
+payroll-based; specifically, it was calculated by dividing the
+total payroll amount (full-time plus part-time) by the
+full-time payroll amount and multiplying the resultant quotient
+by the number of full-time employees.  Beginning in 1986, it is
+computed by dividing the part-time hours paid by the standard
+number of hours for full-time employees in the particular
+government and then adding the resulting quotient to the number
+of full-time employees.  In both formulae, the calculation is
+performed separately at the individual function type for each
+respondent government.  Consequently, summaries by state, type
+of government, and function are aggregates of individual
+calculations. 
+
+The formula was changed because the previously used
+payroll-based formula necessarily assumed that there is little
+or no difference between average wage rates for full-time and
+part-time workers; however, this is seldom the case. 
+Part-time pay scales are generally below those for full-time
+workers, thus resulting in an understatement of full-time
+equivalent employment.  The understatement was estimated at
+between 2.8% and 3.8% at the national level.  The previously
+used payroll-based methodology may also produce a trend bias
+if the rate of change in part-time employment is different from
+that in full-time employment (FTE).  Users should keep in mind the
+expected understatement of FTE in years prior to 1986 when
+making trend comparisons.
+
+October and March payrolls represent gross payrolls for the 1-month
+period of October or March and comprise the gross payroll before
+deductions.  It includes all salaries, wages, fees, or
+commissions paid to employees during the pay period, including
+October 12 or March 12 of the year cited in the table.  Payroll amounts
+reported for a period other than 1 month were converted to
+represent an amount for the month of October or March.
+
+Average monthly salaries are for full-time employees only and
+are calculated by dividing full-time employee payrolls by the
+number of full-time employees for October of the year indicated
+in the table.
+
+GOVERNMENTAL FUNCTIONS
+
+General government functions include all activities other than
+those classed as public utilities (water supply, electric
+power, gas supply, and transit systems), liquor stores
+(dispensaries operated by 17 state governments and by local
+governments of 5 states, as of 2008), and insurance trust
+systems (no employment data are associated with insurance
+trusts).  All government functions include the latter.
+
+Justice is the combined functions of police protection,
+judicial and legal services, and corrections as defined in
+detail below.  As noted below, it consistently includes civil
+justice functions, as well as criminal justice functions where
+criminal functions cannot be segregated in available source
+documents.
+
+Police protection is the function of enforcing the law,
+preserving order and traffic safety, and apprehending those who
+violate the law, whether these activities are performed by a
+police department, a sheriff's department, or a special police
+force maintained by an agency whose primary responsibility is
+outside the justice system but that has a police force to
+perform these activities in its specialized area (geographic or
+functional).  However, see the "Differences in operational
+definitions" section of CJEECOMP.TXT  ("Comparability Issues
+Between the CJEE Survey and the CJEE Extracts Programs") on
+this zip archive for areas where this definition is difficult
+to apply in the CJEE Extracts series. 
+
+This category includes--
+-- regular police services
+-- police patrols and communications
+-- crime prevention activties
+-- temporary lockups and holding tanks
+-- traffic safety and engineering (but not highway planning and
+engineering)
+-- vehicular inspection and licensing
+-- buildings used exclusively for police purposes
+-- the maintenance of buildings used for police purposes
+-- medical examiners and coroners
+-- law enforcement activities of sheriff's offices 
+-- unsworn school crossing guards, parking meter readers, and
+animal wardens, if employed by a police agency.
+
+Private security police are outside the scope of the survey.
+
+The special police forces included in the data are only those
+that are part of a general purpose government.  Those special
+police forces that are part of independent school districts or
+special districts are not included in the data, as these districts 
+are not general purpose governments.
+
+Police protection employment data are further divided between--
+-- sworn employees, which represent persons with the power of
+arrest
+-- nonsworn employees, which are all others.
+
+In most states, sheriff's departments are multifunctional
+agencies providing police protection, judicial, or
+correctional services.  In order to allocate expenditure and
+employment data to the proper activity, the data for sheriff's
+departments are prorated, resulting in differences in other
+police reporting programs such as the BJS Law Enforcement,
+Management, and Administrative Statistics (LEMAS) program and
+the FBI's Uniform Crime Reporting (UCR) program, which report
+the numbers of employees in law enforcement agencies regardless
+of functions performed. 
+
+Short-term custody and detention are considered part of the
+police protection function.  Data for lockups or tanks
+holding prisoners less than 48 hours are included in the police
+protection category.  Data for institutions with authority to
+hold prisoners 48 hours or more are included in the corrections
+category.
+
+Judicial and legal services covers all civil and criminal
+activities associated with courts, including prosecution and
+public defense.  However, see the "Differences in operational
+definitions" section of CJEECOMP.TXT ("Comparability Issues
+Between the CJEE Survey and the CJEE Extracts Programs") on
+this zip archive for areas where this definition is difficult
+to apply in the CJEE Extracts series. 
+
+The judicial and legal services category in the CJEE Extracts
+series includes the following court functions covered as a
+separate category in the periodic CJEE Survey: 
+-- civil and criminal functions of courts at all levels of
+legal jurisdiction: appellate (last resort and intermediate),
+general jurisdiction, and limited jurisdiction
+-- activities associated with courts, such as law libraries,
+grand juries, petit juries, and medical and social service
+activities (except probation, which is classified as
+corrections where separately identifiable)
+-- court reporters, judicial councils, bailiffs, and register
+of wills and similar probate functions, court (civil)
+activities of sheriff's offices in some jurisdictions.
+
+Also included in the judicial and legal category are all
+civil and criminal justice activities of prosecution and legal
+service agencies.  It includes the following prosecution and
+legal service activities covered as a separate category in the
+periodic CJEE Survey: 
+-- attorneys general, district attorneys, state's attorneys,
+and their variously named equivalents
+-- corporation counsels, solicitors, and legal departments with
+various names, including those providing legal advice to the
+chief executives and subordinate departmental officers,
+representation of the government in law suits, and the
+prosecution of accused violators of criminal law
+-- various investigative agencies having full arrest powers and
+attached to offices of attorneys general, district attorneys,
+or their variously named equivalents.
+
+These activities are included whether performed by one office
+or several because in some jurisdictions a single office
+provides all legal services, whereas in others a prosecutor's
+office handles only criminal matters and a separate attorney's
+office performs all civil legal services. 
+
+Also included in the judicial and legal category are the
+civil and criminal justice activities of public defenders,
+other agencies that provide legal counsel and representation in
+either criminal or civil proceedings, and other government
+programs that pay the fees of court-appointed counsel.  It
+includes the following public defense activities covered as a
+separate category in the periodic CJEE Survey: 
+-- court-paid fees to individually retained counsel
+-- fees paid by the court to court-appointed counsel
+-- government contributions to private legal aid societies and
+bar association-sponsored programs
+-- activities of an established public defender office or
+program.
+
+This category excludes--
+-- monetary judgments and claims or other payments of a
+government as a defendant in judicial or administrative
+proceedings
+-- legal units of noncriminal justice agencies, whose functions
+may be performed by a legal service department in other
+jurisdictions (such as a county counsel).
+
+Corrections is the function of government involving the
+confinement and rehabilitation of adults and juveniles
+convicted of offenses against the law, and the confinement of
+persons suspected of a crime and awaiting adjudication.
+However, see the "Differences in operational definitions"
+section of CJEECOMP.TXT ("Comparability Issues Between the
+CJEE Survey and the CJEE Extracts Programs") on this zip
+archive for areas where this definition is difficult to apply
+in the CJEE Extracts series. 
+
+Corrections direct expenditure for state governments is further
+divided into two subcategories:
+-- correctional institutions
+-- other corrections.
+
+Correctional institutions are any facilities for the
+confinement and correction of convicted adults or juveniles
+adjudicated delinquent or in need of supervision, and for the
+detention of those adults and juveniles accused of a crime and
+awaiting trial or hearing.  (Data for lockups or tanks
+holding prisoners less than 48 hours are included in the police
+protection category.)
+
+ Correctional institutions include--
+-- prisons and penitentiaries
+-- reformatories
+-- jails
+-- houses of correction
+-- other variously named correctional institutions, such as
+correctional farms, workhouses, industrial schools, and
+training schools
+-- institutions and facilities exclusively for the confinement
+of the criminally insane
+-- institutions and facilities for the examination, evaluation,
+classification, and assignment of inmates 
+-- facilities for the confinement, treatment, and
+rehabilitation of drug addicts and alcoholics, if the
+institution is administered by a correctional agency.
+
+When an institution maintains a prison industry or agricultural
+program, data on the cost of production or the value of prison
+labor used by agencies of the same government, if identifiable,
+are excluded (and classed as expenditure for the function using
+the product or services).  Expenditure for the manufacture,
+production, sale, and distribution of goods produced for sale
+or use outside the government is included under this heading. 
+It excludes the cost of maintaining prisoners in institutions
+of other governments, which are classified as an
+intergovernmental expenditure for which the institutions vs.
+other corrections distinctions are not applied.
+
+Other corrections consists of all noninstitutional correctional
+activities, including--
+-- parole boards and programs
+-- pardon boards
+-- nonresidential resettlement or halfway houses for those not
+in need of institutionalization
+-- probation activities and programs, even if administered by a
+court (but see the "Differences in operational definitions"
+section of CJEECOMP.TXT ("Comparability Issues Between the
+CJEE Survey and the CJEE Extracts Programs") on this zip
+archive for areas where this definition is difficult to apply
+in the CJEE Extracts series.
+-- correctional administration not directly connectable to
+institutions
+-- payments to another government for boarding prisoners 
+classified as intergovernmental expenditure for which the
+institutions and "other corrections distinctions discussed
+above are not applied.  In practice, intergovernmental payments
+of this type are difficult to detect for insignificant amounts
+between local governments.
+-- miscellaneous items that cannot be directly related to
+institutional care.  

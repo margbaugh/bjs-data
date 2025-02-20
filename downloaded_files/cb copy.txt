@@ -1,0 +1,768 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Technical Report
+
+Cybercrime against Businesses:
+Pilot test results, 2001 Computer Security Survey
+
+
+
+March 2004, NCJ 200639
+
+
+--------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cb.htm
+--------------------------------------------------------------
+Ramona R. Rantala
+BJS Statistician               
+-------------------------------------------------
+Highlights
+                
+CSS pilot test data for 2001 showed that --
+*  Of the 500 sampled companies, 42% responded.
+*  95% of responding companies used computers.
+*  99% of companies with computers reported
+whether they detected incidents of cybercrime.
+*  Nearly 75% of companies with computers detected at least 
+one incident.
+*  Of all companies detecting incidents, 91% had 100 or more 
+employees.
+*  68% of companies detecting incidents reported losses totaling 
+$61 million. 
+*  83% of companies detecting computer attacks or other computer 
+security incidents reported having 1 or more hours of downtime.
+*  Fewer than 5% of companies detecting computer attacks said the
+offender was a company employee.
+*  Of companies detecting computer attacks, 12% or fewer reported 
+incidents to law enforcement authorities.
+*  94% percent or more companies answered each core question on 
+computer infrastructure and security practices.
+*  More than 97% of checks on returned questionnaires passed 
+completeness and consistency edits.
+
+Response time varied by company size -- 
+
+*  Companies with fewer than 100 employees typically spent less 
+than 1 hour to complete the survey.
+*  Those with 1,000 or more employees took 23/4 hours on average 
+complete the survey.
+*  The overall average completion time was 13/4 hours.
+
+Pilot test development included --  
+*  external consultations with Federal entities such as the
+National Security Council, businesses, trade associations, 
+and academia
+*  pre-testing questionnaire on 69 companies representing 14 
+industries
+*  pilot sample of 500 companies, covering 11% of employment 
+and 16% of payroll nationwide.
+
+118 companies provided reasons for not
+participating --
+
+*  82% reported that their company did not participate in 
+voluntary surveys of any kind. 
+*  17% were concerned about confidentiality of reported data.   
+*  14% said data were not available.
+
+Note: Respondents could provide more than one reason.   
+----------------------------------------------------
+                
+Among 198 businesses responding to a 2001 pilot survey, 74% reported
+being a victim of cybercrime. Other findings on the 198 businesses
+included the following: nearly two-thirds had been victimized by a
+computer virus at least once; a quarter had experienced denial of
+service attacks, such as the degradation of Internet connections due
+to excessive amounts of incoming information; about a fifth reported
+that their computer systems had been vandalized or sabotaged.  
+
+These are some of the findings from the Computer Security Survey 
+(CSS) 2001 pilot, which covered a group of 500 businesses nationwide. 
+These findings are not nationally representative but illustrate the
+feasibility and utility of a data collection program to be initiated 
+in 2004 among some 36,000 businesses.
+
+The Bureau of Justice Statistics (BJS), collaborating with the U.S. 
+Census Bureau, conducted the CSS pilot. Results of this test 
+demonstrated a need for an increased response rate to produce valid 
+national estimates and a need to refine survey questions.
+
+Various estimates exist on cybercrime against businesses, but when
+implemented, CSS will provide the first official national statistics 
+on the extent and consequences of cybercrime against the Nation's 
+5.3 million businesses.***Footnote 1: This figure excludes farms and 
+businesses owned and operation by only one person.***
+
+Data collection and unit response
+
+The CSS pilot sample was 500 companies, drawn from 5.3 million. 
+Nearly half of the 500 were selected from the largest companies in 
+each industry; the remainder were randomly selected to represent
+businesses of all sizes and types. The sample covered 11% of 
+employment nationwide.
+
+The CSS pilot began as a mail survey. Questionnaire packages 
+contained a cover letter, the survey form, answers to frequently 
+asked questions, and instructions. (The questionnaire is available 
+on the BJS website <http://www.ojp.usdoj.gov/bjs/quest.htm>.) 
+After all follow-ups, the response rate was slightly below 42%.
+
+Response rates varied by industry.  For example, 100% of sampled 
+social service companies but fewer than 20% of accounting firms 
+completed the survey.
+
+Response rates also varied by size of company. Response for 
+companies with 1,000 or more employees was 29% compared to 
+58% for companies with fewer than 1,000 employees.
+     
+Cybercrime incidents
+
+Nearly three-fourths (147 companies) of businesses detected at 
+least 1 computer security incident in 2001. Computer viruses 
+were most common (64%), followed by denial of service attacks 
+(25%) and vandalism or sabotage (19%).   
+
+Larger companies detected incidents most often. Of the 147 
+companies detecting incidents, 91% had 100 or more employees. 
+At least 7 in 10 companies detecting incidents of cybertheft 
+had 1,000 or more employees.
+
+At least 92% of companies detecting incidents reported the number 
+of incidents detected. More than half of the victims of computer 
+virus, denial of service, and fraud detected multiple incidents in 
+2001.
+
+"Other" computer security incidents
+
+Most companies detecting "other" computer security incidents described 
+what took place. Hacking, or gaining unauthorized access to computers, 
+was the most common response supplied by respondents (31%). Spam -- 
+frequent, unwanted e-mail advertisements -- was the second most common
+(19%). Spoofing (gaining unauthorized access through a message using an 
+IP address apparently from a trusted host), sniffing (monitoring data
+traveling over a network), and port scanning (looking for open "doors" 
+into a computer) together constituted 19% of incidents.
+
+Reporting to law enforcement
+  
+Reporting incidents to law enforcement varied by type of incident. 
+Seven in eight companies detecting embezzlement reported it to 
+authorities, and about 5 in 10 reported fraud. More than half of 
+companies detecting computer attacks or thefts of proprietary 
+information indicated they did not contact law enforcement.
+
+Employee offenders
+
+For at least one type of incident, 7 out of 10 companies indicated 
+whether or not suspected offenders were employees. Suspected 
+offenders were employees for more than 50% of companies detecting 
+cybertheft, but fewer than 6% of computer attack victims said 
+employees were responsible.
+
+Monetary losses
+
+Reporting of monetary losses varied by type of incident. Nearly 90% 
+of companies detecting embezzlement reported the amount of loss. Of 
+those detecting denial of service, 7 in 10 companies estimated 
+recovery costs.  Among the responding companies, there was a reported 
+total of $61 million in losses and recovery costs for 2001. Computer
+viruses accounted for losses of nearly $22 million, fraud more than 
+$18 million, and denial of service $14 million. 
+
+Computer downtime
+
+Response to questions on downtime varied by both type of computer 
+attack and type of downtime. Of companies detecting denial of service, 
+90% reported that incidents lasted 1 hour or longer. For computer
+viruses, two-thirds of victims reported their PC's were down for at 
+least an hour. Of those detecting vandalism or sabotage, 57% reported 
+website downtime of 1 hour or more.
+
+Most significant incident
+
+Of the 147 companies detecting incidents, nearly 86% identified 1 
+incident as most significant. Computer viruses were reported as 
+most significant by 62% of companies.
+
+Eighty-eight percent of companies detecting incidents reported having 
+one (35%) or more (53%) affected net- works. Local area networks, 
+individual workstations connected to the LAN, and e-mail were most 
+commonly affected. Seven in ten companies identified how company 
+networks were accessed: By Internet was the most common. 
+
+Fourteen percent of companies that detected incidents reported their 
+most significant incident to one or more law enforcement agencies. For 
+those that did not report to authorities, more than half said the 
+incident was not worth pursuing, and 3 in 10 "did not think to report" 
+it (not shown in a table).
+
+More than half of companies could not identify the offender in general 
+terms for their most significant incident. Three in ten classified the
+offender as a hacker.
+
+Computer security in 2000 and 2001
+
+When asked about the difference in the number of computer security 
+incidents detected in 2001 from the previous year, 56% of companies 
+with 1,000 or more employees said they detected more incidents in
+2001.
+
+When asked about insurance, 10% of all companies said they had 
+separate policies or riders to cover losses due specifically to 
+computer security breaches.
+
+Response to piracy questions was sparse. Of the 25 companies that 
+developed digital products for resale, 4 reported incidents of 
+piracy, and 1 estimated consequent lost revenue (not shown in a 
+table).
+
+Computer infrastructure and security
+
+Questions on computer infrastructure and security had high response 
+rates. Ninety-one percent of all respondents reported having one 
+(11%) or more than one (80%) type of network. Nearly 5% indicated 
+they used no computers. Of the 198 companies that used computers, 
+96% reported using one or more types of computer security 
+technology. Anti-virus software was the most common.
+
+Eighty-three percent of companies using computers reported one (13%) 
+or more (70%) types of computer security practices, such as periodic 
+audits and reviews of system administrative logs. Companies that had 
+business continuity or disaster recovery programs were asked what 
+actions they took in 2001 with those programs -- testing, using, or 
+updating. Forty-four percent of 135 companies indicated that they 
+took only one action. Thirty-three percent took two or more actions.
+
+Seventy-three percent of companies reported spending $1,000 or more 
+in 2001 on computer security technology. Nearly  80% of companies 
+with 1,000 or more employees spent at least $1,000.
+
+Pilot test data quality
+
+Preliminary data edits from the pilot test were drafted to evaluate 
+data quality. Tolerance parameters were estimated. Pilot test results 
+will be used to refine data edit parameters for the full-scale survey.  
+
+More than 97% of checks on returned questionnaires passed completeness 
+and consistency edits. These edits indicate full-year data and 
+consistent reporting on comparable items, respectively. For example, 
+a company would fail one consistency edit if it reported that its local 
+area network (LAN) was affected by the most significant incident, but 
+did not report having a LAN in the questionnaire section on computer
+infrastructure.
+
+Fewer cases (88%) passed edits on duplicate reporting for computer 
+attacks. This duplication illustrates overlap in denial of service,
+vandalism or sabotage, and computer virus.***Footnote 2: Respondents
+are instructed to report incidents under the first applicable category.
+CSS questions about denial of service and vandalism or sabotage ask 
+for the number of incidents caused by viruses.***  Because the former 
+two can be caused by viruses, some respondents reported these incidents 
+under all applicable categories.
+
+Recommendations
+
+The working groups that developed the questionnaire and conducted 
+the pilot test were comprised of staff from both BJS and the 
+Census Bureau. These groups reviewed the process and results of 
+the pilot. Listed below are recommendations from these groups for 
+the full-scale survey:
+ 
+Response and follow-up
+
+Several strategies could be employed to increase company response. 
+Each addresses a different aspect of nonresponse:
+
+*  The primary reason given for not completing CSS was that the 
+survey was voluntary. Mandatory reporting for this survey would 
+help to increase unit response.  
+
+*  Launch a more aggressive marketing strategy, including high-
+level endorsements and trade association support for reliable 
+national statistics.
+
+*  Offer shortened questionnaires to more companies or reduce the 
+entire survey to core questions.
+
+*  Expand telephone follow-up to contact all delinquent companies 
+until a response or refusal is received.
+
+Content
+
+Responding to new surveys involves learning processes. Companies that 
+have responded in the past better understand questions, definitions, 
+and instructions. By year two or three, problems identified should be
+minimized.
+
+Recommendations for survey questions that appear 
+difficult or burdensome to report include the 
+following:
+
+*  Drop questions on amount spent on computer security technology.
+*  Modify or drop questions on other monetary losses and costs. 
+*  Further develop and test downtime questions and instructions.
+*  Further develop and test computer attack questions in order to 
+resolve duplication between denial of service, vandalism or 
+sabotage, and computer virus data.  
+*  For computer viruses, decide if an average duration of downtime 
+by type of machine is wanted (servers and PC's). If so, keep 
+questions on number of servers and number of PC's as stated on 
+CS-1. 
+*  Either define computer virus incident as distinct infection or 
+further develop and test a definition.
+* Based on descriptions of "other" computer security incidents, 
+provide a pick-list: hacking, spoofing, spam, sniffing, port 
+scanning, and other (specify).
+*  Modify or drop Section IV. Some questions are repetitive to 
+respondents who have only one incident. These same questions 
+appear to be confusing to those with multiple incidents of the 
+most significant type. If dropping Section IV, consider 
+incorporating into Section III the questions on affected networks, 
+mode of access, details of reporting incident to authorities or 
+reasons for not reporting, and relationship between offender and 
+company.
+
+Questionnaire design and layout
+
+The CSS pilot questionnaire design, layout, and question sequence 
+received favorable remarks throughout questionnaire development and 
+pilot testing. However, in Section III, types of incidents with 
+questions beginning mid-page had lower response than those beginning 
+at the top of a column.  Dropping or modifying several questions 
+will create enough space to begin questions for each type of 
+computer security incident at the top of a column.
+
+Edits
+
+Preliminary tests showed clear patterns of duplicate incident data 
+under two or more types (denial of service, vandalism or sabotage, 
+and computer virus).  The tests also showed that some companies 
+reported multiple occurrences of a type instead of the single most 
+significant incident. To flag these duplications or erroneous 
+multiple reporting, the edit identified companies that failed one 
+or more criteria (number of incidents, monetary loss, and downtime). 
+Revise edits so that failure occurs only for companies reporting 
+identical data for all criteria of two given types.
+
+Reporting unit
+
+Future surveys should be designed for company-level data collection, 
+and allow companies to report by subsidiary or division on request. 
+Forms for reporting below company level should differ visibly from 
+the main form: for example, be a different color. These forms should 
+be aggregated to the company level prior to data entry.
+
+Methodology
+
+Preliminary research
+
+Research was conducted to determine what types of cybercrime data 
+would interest organizations such as government agencies, businesses, 
+and trade associations and what types were currently being collected.   
+
+Current collections include the Computer Security Institute (CSI) 
+reports on Computer Crime and Security Survey ***Footnote 3: The FBI's
+San Francisco office provided input in the development of CSI's survey,
+but they do not sponsor the survey. CSI does not use random sampling.
+It depends on "self-selected" sampling such as CSI members. CSI results
+are illustrative only and cannot be used to generate national estimates.***
+and the FBI National Incident-Based Reporting System (NIBRS) 
+data.***Footnote 4: NIBRS is a voluntary reporting program in
+which law enforcement agencies provide data.  NIBRS includes
+details on offenses, victims, and losses. It records whether
+offenders used computers to commit the crime.*** These data were
+also analyzed to determine what types of cybercrime businesses 
+experienced most often and what types resulted in greatest dollar 
+loss. Six types of incidents were identified: fraud, embezzlement, 
+theft of proprietary information, denial of service, vandalism
+or sabotage, and computer virus.  Current literature and news 
+articles were also used to determine what types of data were 
+important and what gaps needed to be filled.
+
+External consultations for survey development
+
+The Computer Security Survey Workshop was held April 24, 2002, in 
+Alexandria, VA. Participants, including Federal Government agencies, 
+trade associations, businesses, academia, and lobbyists, met to share 
+ideas about what questions should be in the pilot. Presentations and
+discussions addressed the nature and prevalence of cybercrime, 
+preventive and responsive security practices, need for reliable data,
+questionnaire content, and data collection strategies.
+
+----------------------------------------
+Cybercrime definitions for types of computer
+security incidents                
+         
+Embezzlement: the unlawful misappropriation of money or other 
+things of value, by the person to whom it was entrusted 
+(typically an employee), for his/her own use or purpose. 
+    
+Fraud: the intentional misrepresentation of information or 
+identity to deceive others, the unlawful use of credit/debit 
+card or ATM, or the use of electronic means to transmit deceptive 
+information, to obtain money or other things of value. Fraud may 
+be committed by someone inside or outside the company.
+
+Theft of proprietary information: the illegal obtaining of designs, 
+plans, blueprints, codes, computer programs, formulas, recipes, 
+trade secrets, graphics, copyrighted material, data, forms, files, 
+lists, and personal or financial information, usually by electronic 
+copying.
+
+Denial of service: the disruption or degradation of an Internet 
+connection or e-mail service that results in an interruption of 
+the normal flow of information. Denial of service is usually 
+caused by events such as ping attacks, port scanning probes, and 
+excessive amounts of incoming data.
+
+Vandalism or sabotage: the deliberate or malicious, damage, 
+defacement, destruction or other alteration of electronic files, 
+data, web pages, and programs.
+
+Computer virus: a hidden fragment of computer code which propagates 
+by inserting itself into or modifying other programs.  
+
+Other: includes all other intrusions, breaches and compromises of 
+the respondent's computer networks (such as hacking or sniffing) 
+regardless of whether damage or loss were sustained as a result.  
+--------------------------------------------------         
+
+--------------------------------------------------
+Glossary of business terms 
+         
+Company
+Company: Business entity owning more than 50% interest in or 
+overseeing operations and/or business establishments
+Establishment: Generally each physical location of a business
+Single-unit: Company with exactly one establishment
+Multi-unit: Company with two or more establishments
+Subsidiary: Company wholly controlled by another 
+Parent: Business entity owning more than 50% interest in or overseeing 
+all operations, subsidiaries and/or establishments of a multi-unit 
+company Business Register: Census Bureau Business Register 2001 lists 
+more than 7.5 million active establishments with a payroll in calendar 
+year 2001
+
+Industry      
+Industry: Line of business operated by company
+NAICS: North American Industrial Classification System, which replaced
+Standard Industrial Classification in 1997
+Principal: Line of business with greatest aggregate payroll
+
+Complexity         
+Single-industry: Single or multi-unit company operating a single 
+line of business
+Complex: Company operating two to six lines of business 
+Very complex: Company operating seven or more lines of business
+    
+Size indicators         
+Employee: Person hired and paid by company  
+Employment: Aggregate number of employees   
+Payroll: Dollar amount paid to employees
+    
+Risk          
+Risk level: Based on principal industry, indicates company's potential 
+level of vulnerability and/or damage due to cybercrime
+Infrastructure: Principal industry is part of national infrastructure     
+High: Principal industry appears high risk cybercrime target
+Medium: Principal industry appears medium risk cybercrime target
+Low: Principal industry appears low risk cybercrime target
+
+Reporting
+Segmental: Company reports data for each industry or subsidiary on 
+separate forms
+Company-level: Company reports aggregate data for all industries or
+subsidiaries on one form
+---------------------------------------------------
+    
+The CSS working group presented the project status paper Computer 
+Security Survey: Status on Questionnaire Development Efforts to 
+Measure the Nature of Computer-Related Crime to the Census Bureau's 
+Advisory Committee of Professional Associations.  Committee members 
+supported CSS goals and commended the survey design, layout, and
+question sequence.
+
+The National Security Council, President's Critical Infrastructure 
+Protection Board, FBI National Infrastructure Protection Center, 
+Carnegie Mellon Software Engineering Institute, Manufacturers
+Alliance, and Business Software Alliance were also consulted. 
+
+These consultations resulted in addressing major issues identified as
+important to the survey, including data sensitivity and confidentiality, 
+data availability, collection authority (mandatory or voluntary),
+response burden, and company reluctance to contact law enforcement. 
+The recommendations resulted in reworded survey questions on 
+cybertheft and software piracy and added questions about suspected 
+offenders and reporting incidents to law enforcement for each type 
+of incident detected.
+
+Cognitive testing
+
+Drafts of CSS questionnaires were refined through three rounds of 
+pre-testing, also called cognitive testing. During cognitive testing,
+employees from businesses read and answered the survey questions
+out loud. They explained what they were thinking, how they 
+interpreted questions or terminology, what they included in their 
+answers, and whether data were available. 
+
+Cognitive testing was conducted over 6 months and required between 
+1 and 2 hours per company. Sixty-nine companies participated, 
+representing finance, manufacturing, and 12 other industries in 
+7 States and Washington, DC. 
+
+Cognitive testing revealed two concepts that needed clarification.
+
+Economic loss was difficult to define in a manner that would be 
+interpreted consistently by all companies. For the pilot, 
+definitions for monetary losses included lists of examples.
+
+The concept of computer virus incidents was also difficult to define.  
+Many respondents equated virus incidents with distinct infections; 
+others, with different viruses. To understand how to capture computer
+virus incident data, an alternate series of virus questions was 
+developed. The main form CS-1 retained the distinct infections 
+definition. The alternate form CS-1A, sent to a fifth of the pilot
+sample, used different viruses. (See box on page 11 for details).
+
+Census Bureau business surveys are usually sent to contacts designated 
+by the company and kept on file in the Business Register. Because CSS
+questions are more technical, however, the computer or technical staff 
+would seem to be a more appropriate recipient of the questionnaire. 
+Cognitive testing showed that chief information officers, information
+technology directors, or security officers were the most likely to 
+complete the survey.  
+
+Consequently, pilot questionnaires were mailed to Business Register 
+contacts, requesting that they be forwarded appropriately. For 
+companies without Business Register contacts, forms were addressed 
+to "Information Technology Director."
+
+Cybercrime and financial data are sensitive. During cognitive testing, 
+many companies expressed concern regarding how (and by whom) their 
+data would be used. To alleviate some of this concern, Title 13
+confidentiality laws were placed on the front page of the CSS pilot 
+and repeated in the section on types of computer security incidents.  
+
+These reminders reassured many subsequent respondents. Sending 
+questionnaires to Business Register contacts also eased some concern 
+because of their past experience with Title 13 confidentiality laws.
+
+Business data can be collected at various levels: subsidiary, division, 
+or company. (See box on page 8 for definitions.) Many companies, 
+particularly large ones, operate in multiple industries. Reporting by
+division or subsidiary would allow better attribution of information 
+to each line of business, and reduce burden for companies that keep 
+records at that level. 
+
+Cognitive testing revealed that many complex companies had one 
+information technology division for the entire company. For these 
+companies, reporting by subsidiary would increase the burden.
+Other companies found multiple forms confusing. As a result, CSS 
+pilot data were collected at the company level.
+
+As a result of all research, external contacts, and cognitive testing, 
+the CSS pilot questionnaire was divided into five sections, each 
+focusing on a different aspect of computer security. Section II 
+focused on computer infrastructure and security practices and Section 
+III on prevalence of incidents and their cost to companies.
+  
+Sample design
+
+Sampling frame construction relied on Census Bureau's 2001 Business 
+Register. Aggregated to the company level, the Business Register 
+contains principal industry, complexity, and employment data for 
+approximately 5.3 million companies with 1 or more paid employees, 
+excluding about 16 million firms that had no payroll and 2 million 
+that engaged in farming.  
+
+A risk factor code, indicating the company's potential level of 
+vulnerability and/or damage due to cybercrime, was assigned to 
+each company based on primary industry.
+
+Sampling was stratified and made without replacement. Strata were 
+defined by principal industry, complexity, employment, and risk 
+factor. 
+
+Due to their nationwide economic importance, 236 companies were 
+selected from the largest companies from each industry. These are 
+referred to as "certainty" companies, and will be included in the
+sample each time the survey is conducted.  
+
+The remainder of the sample was selected at random from each 
+stratum. It comprised 29 very complex and 35 complex companies, 
+one for each principal industry represented. Two hundred single-
+industry companies completed the sample.
+
+Follow-up procedures
+
+After all mail-back deadlines had passed, 26.2% of sampled companies 
+had returned completed forms. Two rounds of telephone follow-up were 
+conducted to increase response.
+
+In the first round of telephone follow-up, companies which had 
+neither returned questionnaire nor refused to respond were contacted.  
+Operational status, new information, requests for forms, expected 
+return dates, reasons for refusal (as applicable), and duration of 
+phone calls were tracked for each company.  Response rose by 6.4%.
+
+A second telephone follow-up was conducted, limited to companies that 
+said they would not participate. Protocols included explaining the 
+importance of computer security information, emphasizing current
+lack of reliable data, ascertaining reasons for non-response, and 
+offering a short form. The short form had core questions about types 
+of networks, access, computer security technology, and practices; 
+number of servers and PC's; detection and number of incidents by 
+type; and, for most significant incident, type of incident, affected 
+networks, means of access, and relationship between suspected offender 
+and company. This last follow-up increased response by 9.2%.
+
+Of companies not completing the pilot survey, 118 provided reasons for 
+not participating. Eighty-two percent said they did not participate in
+voluntary surveys, but that they would if CSS were mandatory. 
+
+Response burden
+
+Time spent completing CSS varied by company size. Companies with fewer 
+than 100 employees spent less than an hour, on average. Companies with 
+1,000 or more employees took an average of about 23/4 hours to complete 
+the CSS pilot.
+
+-------------------------------------------------
+Differences between questions and responses for the
+questionnaire CS-1 and its alternate CS-1A
+
+Although many respondents classify virus incidents as distinct 
+infections, cognitive testing revealed that some think in terms 
+of different viruses.  
+
+To understand better how to collect information on virus incidents, 
+alternate questions were drafted. Four-fifths of sample companies 
+received the primary form, CS-1, containing questions modified 
+through cognitive testing. A fifth received the alternate, CS-1A, 
+containing untested questions about computer viruses. Tables in 
+this report use aggregated responses from both questionnaires.  
+
+Differences between the two sets of questions include the definition 
+of a virus incident. CS-1 defines a virus incident as a distinct 
+infection, though the same virus might be responsible; CS-1A, as a
+different virus.
+
+Response rates for detection of virus incidents were slightly higher 
+for CS-1 (94%), than for CS-1A (89%). 
+
+For companies detecting incidents, CS-1 showed higher response rates 
+for incident details. For example, 97% of companies receiving CS-1 
+reported the number of incidents detected, compared to 83% for CS-1A .
+
+Small sample size and low response for CS-1A yield high standard 
+deviations, making it difficult to form reliable conclusions about 
+item response to the alternate set of questions. How-ever, counting 
+only unique viruses underestimates the magnitude of virus incidents 
+because companies can contract a virus more than once.
+
+Moreover, post-survey evaluation shows that two-thirds of companies 
+equate virus incidents with distinct infections.
+-----------------------------------------------
+
+Item response analysis
+
+Item response analysis describes patterns in data as reported. Only 
+one type of imputation was used: companies that did not check Yes to 
+detecting an incident but supplied positive response elsewhere were 
+imputed as having detected that type of incident.  Response analysis 
+excludes 10 companies that reported no computer use because questions
+were not applicable. Response values are given only in general 
+categories because pilot testing was aimed at determining 
+feasibility, not producing national estimates.
+
+Respondents were asked to report losses, expenditures, and downtime 
+in rounded amounts. In tables 6 and 11 zeros could include amounts 
+under $500. In table 7 zeros for downtime could include less than 30 
+minutes. 
+
+All tabulations and analyses are based on unweighted data. Due to 
+small sample size and a relatively small number of respondents, the 
+weighted estimates for CSS tabulations have standard errors ranging 
+from 7% to 102%. Weighted responses for some CS-1A questions had a 
+much higher standard error because of the extremely small sample size
+coupled with the generally low response rate. 
+
+One company requested segmental reporting for its three divisions. 
+Two divisions returned forms, which were keyed individually. Each 
+segment was weighted as a third. If two segments reported differently, 
+their response was rounded down to zero. Responses for this company 
+were adjusted manually to correct for this rounding error.
+
+Data edits were performed on all data elements to identify reporting 
+problems and evaluate the quality of reported data. Data edit failure 
+does not necessarily mean the information is incorrect. It simply 
+means that it is out of tolerance and has the potential for being 
+incorrect. With no established baseline, tolerance limits had to be 
+estimated.
+
+Companies that did not answer questions due to proper use of skip 
+patterns are excluded from analysis of those items. 
+
+--------------------------------------------
+The Bureau of Justice Statistics is the statistical
+agency of the U.S. Department of Justice.  Lawrence
+A. Greenfeld is director.
+
+Ramona R. Rantala, BJS statistician, wrote this
+report. Patrick A. Langan and Erica L. Schmitt
+reviewed the report. Cathy T. Maston reviewed the
+statistics. Tom Hester edited the report. 
+
+Representatives of the U.S. Census Bureau, BJS, the
+U.S. Department of Commerce, and the University of
+Maryland served on the team to create the 2001
+Computer Security Survey. Census Bureau participants 
+were Peggy Allen, Amy Anderson, Michael Armah, Ruth 
+Bramblett, Stephanie Brown, Roger Brown, Carol Caldwell, 
+Ann Daniele, Charles Funk, John Gates, Brad Jensen, Nancy 
+Kenly, Ron Lee, Denise Lewis, Thomas Mesenbourg, Jr., 
+Marilyn Monahan, Richard Moore, Jr., Marleen Motonis,
+Rebecca Morrison, John Seabold, Kristin Stettler.
+BJS participants were Marshall DeBerry, Jr.,
+Lawrence Greenfeld, Ramona Rantala, and Brian
+Tokar (student intern). The Department of Commerce
+participant was Pat Buckley. Martin David was the
+University of Maryland participant.
+
+To conduct the pilot took the cooperation and work of
+staff in the following Census Bureau offices or
+divisions: Forms and Mail Management and the
+Publication Services Branches in the Administrative
+and Customer Service Division, DocuPrint Staff in the
+Technologies Management Office, Annual Survey
+Processing and the Mailout and Data Capture
+Branches in the Economic Planning and Coordination
+Division, National Processing Center, Client Support
+and the Manufacturing and Company Statistics Annuals 
+Branches in the Economic Statistical Methods and 
+Programming Division, Business Investment Branch in 
+the Company Statistics Division, and Telephone Follow-
+up Staff in the Governments Division, Manufacturing and
+Construction Division, Services Sector Statistics
+Division, and Company Statistics Division.
+
+Richard Moore, Jr., and Jason Chancellor provided the 
+data tabulations. Pam Sadowski and Susan Carodiskey 
+provided graphics and web page design work. Jane Karl, 
+Dawn LeBeau, Edith Stakem, Vivian Waters, Amber Niner, 
+Melody Jones, and Debbie Vaughn gave secretarial or 
+administrative support. Two hundred seventy-seven 
+companies cooperated by participating in cognitive 
+testing or responding to the pilot-survey questionnaire.
+
+March 2004, NCJ 200639    C
+--------------------------------------------
+
+
+End of file 
+02/23/04 ih

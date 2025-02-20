@@ -1,0 +1,932 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+------------------------------------------------------
+This file is text only without graphics and many of 
+the tables. A Zip archive of the tables in this report 
+in spreadsheet format (.csv) and the full report 
+including tables and graphics in .pdf format are 
+available on BJS website at: 
+https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5946
+------------------------------------------------------
+
+*******************
+Special Report
+*******************
+
+Indicators of Mental Health Problems Reported by Prisoners 
+and Jail Inmates, 2011-12
+
+Jennifer Bronson, Ph.D., BJS Statistician
+Marcus Berzofsky, Dr. P.H., RTI International
+
+About 1 in 6 state and federal prisoners (14%) and 1 in 4 jail 
+inmates (26%) reported experiences that met the threshold for 
+serious psychological distress (SPD) in the 30 days prior to a 
+survey that was conducted between February 2011 and May 2012 
+(figure 1). Similarly, 37% of prisoners and 44% of jail inmates 
+had been told in the past by a mental health professional that 
+they had a mental disorder. Half of prisoners (50%) and a third 
+of jail inmates (36%) either did not meet the threshold for SPD or 
+had not been told they had a mental health disorder.
+
+This report presents two prevalence estimates of mental health 
+problems among state and federal prisoners and local jail 
+inmates: met the threshold for SPD and told by a mental health 
+professional as having a mental disorder. The Kessler 6 (K6) 
+nonspecific psychological distress scale was used to assess SPD 
+among prisoners and jail inmates in the 30 days prior to the 
+survey. The estimates are from self-reported data and should not 
+be interpreted as representing a clinical diagnosis of a mental 
+disorder. The estimates are from self-reported data and should not 
+be interpreted as representing a clinical diagnosis of a mental disorder. 
+(See Measurement of mental health indicators text box.) 
+In this report, SPD in the past 30 days prior to the interview is 
+defined as a current mental health problem. In this report 
+having ever been told by a mental health professional as having a 
+mental disorder is defined as having a history of a mental health 
+problem.
+
+***************************************************************
+************
+HIGHLIGHTS
+***********
+
+* More jail inmates (26%) than prisoners (14%) met the threshold 
+for serious psychological distress (SPD) in the past 30 days.
+
+* Among those who had been told they had a mental disorder, the 
+largest percentage of prisoners (24%) and jail inmates (31%) 
+reported they had a major depressive disorder. 
+
+* More prisoners (14%) and jail inmates (26%) met the threshold 
+for SPD in the past 30 days than the standardized general 
+population (5%).
+
+* Prescription medication was the most common treatment type for 
+prisoners and jail inmates who met the threshold for SPD in the 
+past 30 days.
+
+* Fourteen percent of prisoners and 10% of jail inmates who met 
+the threshold for SPD in the past 30 days were written up or 
+charged with assault. 
+
+* A larger percentage of females in prison (20%) or jail (32%) 
+than males in prison (14%) or jail (26%) met the threshold for SPD 
+in the past 30 days. 
+
+* More white prisoners and jail inmates met the threshold for SPD 
+in the past 30 days than black or Hispanic prisoners and jail 
+inmates. 
+
+* Prisoners incarcerated for a violent crime (17%) were as likely 
+as those incarcerated for a property crime (16%) to have met the 
+threshold for SPD in the past 30 days.
+****************************************************************
+
+This report examines the prevalence of the two mental health 
+indicators by different time periods, demographics, criminal 
+justice history, and current offenses. The percentage of inmates 
+who had a mental health indicator and who received mental health 
+treatment while incarcerated are also presented. Estimates are 
+based on the Bureau of Justice Statistics’ (BJS) 2011-12 National 
+Inmate Survey (NIS-3). NIS-3 data were self-reported, and 
+analyses include state and federal prisoners and local jail 
+inmates. 
+
+To facilitate comparisons to the general population, data from 
+the National Survey on Drug Use and Health (NSDUH) were 
+standardized to match the prison population and the jail 
+population by age, sex, race, and Hispanic origin (see 
+Methodology). In addition, the general population was divided 
+into three groups based on self-reported involvement with the 
+criminal justice system in the year prior to the interview: no 
+involvement, under supervision (probation or parole), or 
+arrested.
+
+****************************************************************
+*******************************************
+Measurement of mental health indicators
+*******************************************
+
+The 2011-12 National Inmate Survey (NIS-3) assessed the 
+prevalence of serious psychological distress (SPD) in the 30 days 
+prior to the interview and the percentage who had ever been told 
+they had a mental disorder by a mental health professional. These 
+two measures are used as indicators that an inmate likely has a 
+current mental health problem or a history of a mental health 
+problem. The estimates are from self-reported data and should not 
+be interpreted as representing a clinical diagnosis of a mental 
+disorder. Findings also should not be used to infer causation 
+between an indicator of a mental health problem and 
+incarceration, because the temporal relationship is unknown.  
+
+SPD – The Kessler 6 (K6) nonspecific psychological distress scale 
+was used to assess those who met the threshold for SPD in the 30 
+days prior to the interview. The K6 is a six-question tool 
+developed to screen for serious mental illness among adults age 
+18 or older in the general U.S. population, with a score of 13 or 
+higher indicating SPD.***Footnote 1 Kessler, R. C., Barker, P. 
+R., Colpe, L. J., Epstein, J. F., Gfroerer, J. C., Hiripi, E., 
+Howes, M., Zaslavsky, A. M., et al. (2003). Screening for serious 
+mental illness in the general population. Archives of General 
+Psychiatry, 60(2), 184–189. Kessler, R. C., Green, J. G., Gruber, 
+M. J., Sampson, N. A., Bromet, E., Cuitan, M., Zaslavsky, A. M., 
+et al. (2010). Screening for serious mental illness in the 
+general population with the K6 screening scale: results from the 
+WHO World Mental Health survey initiative. International Journal 
+of Methods in Psychiatric Research, 19(Supp. 1), 4-22.*** Inmates 
+were asked how often during the 30 days prior to the interview 
+they felt--
+
+* nervous
+
+* hopeless
+
+* restless or fidgety 
+
+* so depressed that nothing could cheer them up 
+
+* everything was an effort 
+
+* worthless.
+
+The response options were (1) all of the time, (2) most of the 
+time, (3) some of the time, (4) a little of the time, and (5) 
+none of the time. The responses were recoded from 4 to 0, with 4 
+assigned to “all of the time” and 0 assigned to “none of the 
+time.” A summary scale with a range of 0 to 24 was then produced 
+by combining the responses from all six items. Inmates with a 
+score of 13 or higher were considered to have SPD, inmates with a 
+score of 8 to 12 were considered to have an anxiety disorder (not 
+reported), and inmates with a score of 7 or fewer were considered 
+to not have an indicator of a current mental health problem (see 
+Methodology).
+
+History of a mental health problem – This measure is based on the 
+question, “Have you ever been told by a mental health 
+professional, such as a psychiatrist or psychologist, that you 
+had (1) manic depression, bipolar disorder, or mania; (2) a 
+depressive disorder; (3) schizophrenia or another psychotic 
+disorder; (4) post-traumatic stress disorder; (5) another anxiety 
+disorder, such as panic disorder or obsessive compulsive 
+disorder; (6) a personality disorder, such as antisocial or 
+borderline personality; or (7) a mental or emotional condition 
+other than those listed above?” Inmates who answered positively 
+to this question were considered to have a history of a mental 
+health problem.
+
+The time period in which an inmate was told they had a mental 
+disorder is unknown (e.g., told last week or last year). This 
+measure is also affected by a person’s access to professional 
+mental health care. These two indicators are not mutually 
+exclusive. An inmate could have met the threshold for SPD and a 
+history of a mental health disorder. Relatedly, an inmate may 
+have met the threshold for SPD, but not have ever been told by a 
+mental health professional that they had a mental disorder. Or, 
+they could have been told they had a mental disorder but did not 
+meet the threshold for SPD. 
+
+Trends are not presented because prior inmate surveys did not 
+include the K6 scale. In addition, prior BJS inmate surveys were 
+collected with different modes (e.g., audio computer assisted 
+self-interview versus computer-assisted personal interviewing). 
+This could introduce bias when comparing prevalence estimates of 
+mental health indicators across survey years.
+****************************************************************
+
+************************************************
+Prisoners and jail inmates were more likely to 
+have ever been told they had a major depressive 
+disorder than other mental disorders 
+************************************************
+
+Prisoners and jail inmates who had been told in the past by a 
+mental health professional that they had a mental disorder were 
+asked to specify the disorder. Nearly a quarter (24%) of the 
+prisoners who had ever been told they had a mental disorder said 
+they were told they had major depressive disorder, a larger 
+percentage than any other mental disorder (table 1). The second 
+most common disorder reported by prisoners was bipolar disorder 
+(18%). An estimated 13% of prisoners reported they were told they 
+had post-traumatic stress disorder (PTSD) or a personality 
+disorder, such as antisocial or borderline personality disorder. 
+Less than 1 in 10 (9%) prisoners said they were told they had 
+schizophrenia or another psychotic disorder. 
+
+Of those jail inmates with a history of a mental health problem, 
+31% had been told they had major depressive disorder, compared to 
+being told they had bipolar disorder (25%), an anxiety disorder 
+(18%), or PTSD (16%). With the exception of personality disorder, 
+jail inmates were more likely than prisoners to have been told 
+they had each type of mental disorder.
+
+************************************************
+Prisoners and jail inmates were three to five 
+times as likely to have met the threshold for 
+SPD as adults in the general U.S. population 
+************************************************
+
+The percentage of prisoners who met the threshold for SPD (14%) 
+was more than three times that of adults in the standardized 
+total U.S. general population (5%) or those in the standardized 
+general U.S. population with no criminal involvement in the past 
+year (4%) (figure 2). However, the percentage of prisoners who 
+met the threshold for SPD was almost the same as those in the 
+standardized general population who had been arrested (13%) in 
+the year prior to the interview.
+
+The percentage of jail inmates who met the threshold for SPD (26%) 
+was five times higher than the percentage of adults who met the 
+threshold for SPD in the total standardized general U.S. 
+population (5%) or those in the standardized general population 
+with no criminal involvement in the past year (4%) (figure 3). 
+The percentage of jail inmates who met the threshold for SPD was 
+almost double the percentage of adults in the standardized 
+general population who had SPD who were on probation or parole 
+(11%) or who had been arrested in the past year (14%).
+
+***************************************************
+Female prisoners and jail inmates were more likely 
+to have met the threshold for SPD than males 
+***************************************************
+
+A larger percentage of female prisoners than male prisoners met 
+the threshold for SPD or had been told by a mental health 
+professional that they had a mental health disorder (table 2). 
+Among prisoners, 20% of females and 14% of males met the threshold 
+for SPD. More females (66%) than males (35%) in prison also had 
+a history of a mental health problem. Like prisoners, a larger 
+percentage of female jail inmates (32%) met the threshold for 
+SPD than male jail inmates (26%). Females in jail (68%) were 
+also more likely to have been told they had a 
+mental disorder than males in jail (41%).
+
+Seventeen percent of white prisoners met the threshold for SPD, 
+which was larger than the percentage of black (12%) and Hispanic 
+(12%) prisoners with SPD. Inmates of other races (20%) were more 
+likely than white prisoners to have met the threshold for SPD. 
+White prisoners (50%) were also more likely than black prisoners 
+(30%) to have ever been told they had a mental disorder. An 
+estimated 48% of prisoners of other races had ever been told they 
+had a mental disorder, which did not statistically differ from 
+their white counterparts. 
+
+The pattern of SPD among jail inmates by race and Hispanic origin 
+was also similar to that of prisoners. An estimated 31% of white 
+jail inmates met the threshold for SPD, which was larger than the 
+22% of black jail inmates and 23% of Hispanic jail inmates. White 
+(57%) jail inmates were also more likely than black (36%) or 
+Hispanic (31%) jail inmates to have ever been told they had a 
+mental disorder.
+
+**************************************************
+Prisoners age 65 or older were less likely to have 
+a mental health indicator, compared to other age 
+groups
+**************************************************
+
+There was little variation in the prevalence estimates of mental 
+health indicators among prisoners by age group. One in six (15%) 
+prisoners ages 18 to 64 reported experiences that met the 
+threshold for SPD (not shown). Prisoners age 65 or older (10%) 
+were less likely than prisoners ages 18 to 24 (15%) to have met 
+the threshold for SPD. Similarly, the percentage of prisoners who 
+had ever been told they had a mental disorder also varied little 
+across age groups. An estimated 37% of prisoners in each age 
+category, from ages 18 to 64, reported ever being told they had 
+a mental disorder. A smaller percentage of prisoners age 65 or 
+older (31%) than prisoners ages 18 to 24 (36%) had ever been told 
+they had a mental disorder. 
+
+Prevalence estimates of SPD among jail inmates varied somewhat by 
+age. An estimated 26% of jail inmates ages 18 to 44 and ages 55 
+to 64 reported experiences that met the threshold for SPD. Jail 
+inmates ages 45 to 54 (29%) were more likely to have met the 
+threshold for SPD than those ages 18 to 24 (26%). Approximately 
+42% of jail inmates ages 18 to 24 met the threshold for SPD, 
+compared to those ages 35 to 44 (44%), ages 45 to 54 (48%), and 
+ages 55 to 64 (50%).
+
+**************************************************
+Prisoners who were married were less likely to 
+have met the threshold for SPD than prisoners 
+with other marital statuses
+**************************************************
+
+Married prisoners (12%) were less likely to have met the threshold 
+for SPD than prisoners who were widowed (18%), divorced (15%), 
+separated (16%), or never married (15%) (table 3). Married 
+prisoners (31%) were also less likely to have ever been told they 
+had a mental disorder than prisoners with other marital statuses. 
+An estimated 28% of married jail inmates met the threshold for 
+SPD, which was similar to the percentage of widowed (31%), 
+divorced (28%), or separated (29%) jail inmates who met the 
+threshold for SPD. However, the percentage of never married jail 
+inmates who met the threshold for SPD (25%) was less than the 
+percentage of married jail inmates who had SPD (28%).
+
+Married jail inmates were the least likely to have ever been told 
+they had a mental disorder (40%) when compared to inmates with 
+other marital statuses. Approximately 58% of jail inmates who 
+were widowed, 51% who were divorced, 50% who were separated, and 
+43% who were never married had ever been told they had a mental 
+disorder. 
+
+**************************************************
+Prisoners and jail inmates with a college degree 
+were more likely than high school graduates to 
+have a history of a mental health problem 
+**************************************************
+
+An estimated 16% of prisoners with less than a high school 
+education met the threshold for SPD. This was larger than the 
+percentage who met the threshold for SPD and who were high school 
+graduates (12%) or who had a college degree or more (13%). An 
+estimated 38% of prisoners with less than a high school degree 
+had ever been told they had a mental disorder, compared to 32% of 
+those with a high school degree. However, prisoners with at least 
+a college degree (41%) were more likely than those without a high 
+school degree or equivalent (38%) to have been told they had a 
+mental disorder.
+
+Among jail inmates, 27% of those with less than a high school 
+education met the threshold for SPD. This did not statistically 
+differ from the percentage of jail inmates with some college 
+education (26%). An estimated 45% of jail inmates with less than 
+a high school degree had ever been told they had a mental 
+disorder, compared to 39% with a high school degree or 
+equivalent, 47% with some college, and 50% of those with a 
+college degree or more.
+
+**************************************************
+The percentage of prisoners incarcerated for a 
+violent offense who met the threshold for SPD was 
+similar to those incarcerated for a property 
+offense who met the threshold for SPD
+**************************************************
+
+Prisoners incarcerated for a violent offense (17%) or a property 
+crime (16%) were equally likely to have met the threshold for SPD 
+(table 4). Likewise, the percentage of prisoners incarcerated for 
+a violent offense who had a history of a mental health disorder 
+(42%) was similiar to the percentage of prisoners incarcerated 
+for a property offense (41%) who had a mental health disorder. 
+Prisoners incarcerated for a violent crime were more likely to 
+have met the threshold for SPD than those incarcerated for a drug 
+crime (10%), DWI/DUI (14%), or other public order offense (13%). 
+Among prisoners with a history of a mental health problem, those 
+incarcerated for a drug offense (27%), a DWI/DUI (32%), or other 
+public order offense (36%) were less likely to have ever been 
+told they had a mental disorder than prisoners incarcerated for 
+a violent offense (42%).
+
+An estimated 29% of jail inmates incarcerated for a violent 
+offense met the threshold for SPD. This was larger than the 
+percentage of jail inmates incarcerated for a property offense 
+(27%), a drug offense (25%), a DWI/DUI (24%), or other public 
+order offense (26%). The percentage of jail inmates incarcerated 
+for a violent crime who had ever been told they had a mental 
+disorder (48%) did not statistically differ from the percentage 
+of jail inmates incarcerated for a property offense (50%). 
+However, this was higher than the percentage incarcerated for 
+a drug (40%), DWI/DUI (38%), or other public order (45%) offense. 
+
+**************************************************
+The percentage of prisoners who met the threshold 
+for SPD did not differ by sentence length
+**************************************************
+
+Among sentenced prisoners, those sentenced to 1 to 4 years (13%), 
+5 years or more (14%), or a life sentence (17%) were as likely to 
+have met the threshold for SPD as prisoners sentenced to less than 
+1 year (15%). There was no statistical difference across sentence 
+length in the percentage of prisoners who reported they had ever 
+been told they had a mental disorder (about 36% across sentence 
+length categories).
+
+Unsentenced jail inmates (23%) were less likely than sentenced 
+jail inmates (29%) to have met the threshold for SPD. There was no 
+statistical difference between the percentage of unsentenced 
+(44%) and sentenced (45%) jail inmates who had ever been told 
+they had a mental disorder. Compared to jail inmates with a 
+sentence of less than 1 year (22%), those with a sentence of 5 
+years or more (25%) were more likely to have met the threshold for 
+SPD.  
+
+**************************************************
+The percentage of inmates who had ever been told 
+they had a mental disorder did not differ by time 
+served since admission
+**************************************************
+
+Among prisoners, 17% who had served less than 1 month since 
+admission in the current facility met the threshold for SPD. This 
+percentage was not statistically different than the percentage 
+who had served 1 to 5 months (15%), 6 to 11 months (15%), or 5 
+years or more (14%). However, prisoners who had served 1 to 4 
+years (14%) were less likely to have met the threshold for SPD, 
+compared to those with less than 1 month time served (17%). There 
+was no difference by time served and the percentage of prisoners 
+who had ever been told they had a mental disorder, averaging 37% 
+across time served groups. 
+
+Jail inmates who had served less than 1 month were more likely to 
+have met the threshold for SPD (29%) than inmates who had been in 
+the current facility for 1 to 5 months (26%), 6 to 11 months 
+(23%), or 1 to 4 years (24%) since admission. As was the case 
+with prisoners, there was no difference by time served and the 
+percentage of jail inmates who reported that they had been told 
+they had a mental disorder (about 43%).
+
+**************************************************
+A larger percentage of prisoners and jail inmates 
+with more than one arrest than those with one 
+arrest had been told they had a mental disorder
+**************************************************
+
+Prisoners with more than one arrest were more likely to have a 
+mental health indicator than prisoners with one arrest (table 5). 
+Twelve percent of prisoners with one arrest met the threshold for 
+SPD, compared to 14% of those with 2 to 3 arrests, 15% with 4 to 
+10 arrests, and 18% with 11 or more arrests. Prisoners with one 
+arrest (27%) were less likely to have ever been told they had a 
+mental disorder than all other prisoners. For example, among 
+prisoners who reported 11 or more arrests in their lifetime, 49% 
+had been told at some point that they had a mental disorder. 
+
+Unlike prisoners, the percentage of jail inmates who met the 
+threshold for SPD did not increase with number of arrests. About 
+24% of jail inmates in each arrest category met the threshold for 
+SPD. Like prisoners, jail inmates with multiple arrests were more 
+likely to have been told they had a mental disorder. More than 
+half (56%) of jail inmates who had been arrested 11 times or more 
+had been told they had a mental disorder, compared to a third 
+(31%) of jail inmates with one arrest. 
+
+**************************************************
+Prisoners who spent 5 years or more previously 
+incarcerated were more likely to have met the 
+threshold for SPD than those with no prior time 
+served
+**************************************************
+
+Total time incarcerated in a correctional facility includes the 
+time spent as an adult or juvenile in a prison, jail, or other 
+correctional facility prior to admission to the current facility. 
+Among prisoners who met the threshold for SPD, there was no 
+statistical difference between those with no prior incarceration 
+time (13%) and those who spent up to 5 years incarcerated (an 
+average of 14%). However, prisoners who spent 5 years or more 
+total time in a prior correctional facility (17%) were more 
+likely than those with no prior incarceration time (13%) to have 
+met the threshold for SPD. Prisoners with no prior incarceration 
+time were the least likely to have been told they had a mental 
+disorder (29%). An estimated 37% of prisoners who were previously 
+incarcerated for 6 to 11 months, 38% of those incarcerated for 1 
+to 4 years, and 43% of those incarcerated for 5 years or more had 
+been told they had a mental disorder.
+
+Twenty-five percent of jail inmates with no prior incarceration 
+time met the threshold for SPD, which was more than the 22% of 
+jail inmates incarcerated for 1 to 4 years. Jail inmates with no 
+prior incarceration (35%) were less likely than inmates with any 
+prior incarceration (41% to 54%) to have been told they had a 
+mental disorder. More than half (54%) of jail inmates 
+incarcerated for 5 years or more had been told they had a mental 
+disorder.
+
+**************************************************
+Almost three-quarters of inmates who met the 
+threshold for SPD had received mental health 
+treatment in their lifetime 
+**************************************************
+
+Approximately 3 in 4 prisoners (74%) and jail inmates (73%) who 
+met the threshold for SPD said they had received mental health 
+treatment in their lifetime (table 6). About 42% of prisoners and 
+43% of jail inmates who met the threshold for SPD said they had 
+stayed overnight in a hospital, and about 62% said they had taken 
+prescription medication during their lifetime for a mental health 
+problem.
+
+Of prisoners who had been told they had a mental disorder, 88% 
+said they had received mental health treatment in their lifetime, 
+including 45% had stayed overnight in a hospital, 76% had 
+received prescription medicine, and 75% had received counseling 
+or therapy. Among jail inmates, 90% of those who had ever been 
+told they had a mental disorder received mental health treatment 
+in their lifetimes, including 80% who had received prescription 
+medication.
+
+**************************************************
+Prisoners who had a mental health indicator were 
+more likely than similar jail inmates to have 
+received treatment since admission to their 
+current facility
+**************************************************
+
+More than half (54%) of prisoners who met the threshold for SPD 
+had received mental health treatment since admission to the 
+current facility, compared to a third (35%) of jail inmates. An 
+estimated 46% of prisoners who met the threshold for SPD had 
+received prescription medication, 42% had received counseling or 
+therapy, and 34% had received prescription medication and 
+counseling or therapy. Among jail inmates who met the threshold 
+for SPD, 30% had received prescription medication, 18% had 
+received counseling or therapy, and 13% had received prescription 
+medication and counseling or therapy since admission.
+
+Prisoners who had ever been told they had a mental disorder (63%) 
+were more likely than jail inmates (44%) to have received 
+treatment since admission. Among those with a mental health 
+problem, a greater percentage of prisoners (49%) than jail 
+inmates (24%) had received counseling or therapy. Likewise, a 
+greater percentage of prisoners (39%) than jail inmates (18%) 
+with a mental health problem had received a combination of 
+counseling or therapy and prescription medication.
+
+**************************************************
+About a third of inmates with a mental health 
+indicator were currently receiving treatment
+**************************************************
+
+Inmates who had a mental health indicator were also asked if they 
+were currently receiving treatment for a mental health problem. 
+An estimated 36% of prisoners and 30% jail inmates who met the 
+threshold for SPD said they were receiving treatment for a mental 
+health problem as of the time of the interview. There was no 
+statistical difference between the percentage of prisoners and 
+jail inmates who met the threshold for SPD and said they were 
+currently receiving prescription medication (29% of prisoners and 
+26% of jail inmates). Jail inmates who met the threshold for SPD 
+were half as likely to report receiving counseling or therapy 
+(13%) as prisoners who met the threshold for SPD (26%).
+
+Among inmates who had ever been told they had a mental disorder, 
+37% of prisoners and 38% of jail inmates said they were currently 
+receiving treatment for a mental health problem. An estimated 30% 
+of each group said they were currently taking prescription 
+medication.
+
+**************************************************
+Prisoners and jail inmates who met the threshold 
+for SPD were more likely than those without SPD 
+to be written up or charged with an assault while 
+incarcerated
+**************************************************
+
+Prisoners and jail inmates were asked if they had been written up 
+or charged with assaulting an inmate, physically assaulting a 
+correctional officer or staff, or verbally assaulting a 
+correctional office or staff since admission to the current 
+facility.***Footnote 2 Estimates derived from the 90% sample 
+only. See Methodology.*** Compared to prisoners without an 
+indicator of a mental health problem (4%), prisoners who met the 
+threshold for SPD (14%), or who had ever been told they had a 
+mental disorder (12%) were more likely to be written up or 
+charged with a verbal or physical assault against a correctional 
+officer, staff, or assault of another inmate (table 7). Three 
+percent of prisoners with no indicator of a mental health problem 
+were written up or charged with assaulting another inmate, 
+compared to 9% of prisoners who met the threshold for SPD and 7% 
+of those who had been told they had a mental disorder. 
+
+Among jail inmates with no indicator of a mental health problem, 
+4% were written up or charged with assault. This group was less 
+likely to be written up or charged with assault than jail inmates 
+who met the threshold for SPD (10%) or who had been told they had 
+a mental disorder (10%).
+
+*************
+Methodology
+*************
+
+The 2011-12 National Inmate Survey
+************************************
+
+The 2011-12 National Inmate Survey (NIS-3) was conducted in 233 
+state and federal prisons, 358 jails, and 15 special facilities 
+(military, Indian country, and Immigration and Customs 
+Enforcement (ICE) facilities) between February 2011 and May 2012. 
+The data were collected by RTI International under a cooperative 
+agreement with the Bureau of Justice Statistics (BJS).
+
+The NIS-3 administered two questionnaires to inmates: a survey 
+about sexual victimization and an alternative survey about mental 
+and physical health, past drug and alcohol use, and treatment for 
+substance abuse. Inmates were randomly assigned to receive one of 
+the two questionnaires so that, at the time of the interview, the 
+content of the survey remained unknown to facility staff and the 
+interviewers.
+
+A total of 106,532 inmates participated in NIS-3, receiving 
+either the sexual victimization survey or the randomly assigned 
+alternative survey. Combined, the surveys were administered to 
+inmates in state and federal prisons (43,721), jails (61,351), 
+military facilities (605), Indian country jails (192), and ICE 
+facilities (663).
+
+The interviews, which averaged 35 minutes in length, used 
+computer-assisted personal interviewing (CAPI) and audio 
+computer-assisted self-interviewing (ACASI) data collection 
+methods. For approximately the first 2 minutes, interviewers 
+conducted a personal interview using CAPI to obtain background 
+information and the date of admission to the facility. For the 
+remainder of the interview, inmates interacted with a computer-
+administered questionnaire using a touchscreen and synchronized 
+audio instructions delivered via headphones. Respondents 
+completed the ACASI portion of the interview in private, with the 
+interviewer either leaving the room or moving away from the 
+computer. The entire ACASI questionnaire (listed as the National 
+Inmate Survey-3) is available on the BJS website.
+
+A shorter paper questionnaire (PAPI) was made available for 
+inmates who were unable to come to the private interviewing room 
+or interact with the computer. The paper form was completed by 
+751 prisoners (1.9% of all prisoner interviews) and 264 jail 
+inmates (0.5% of all jail inmate interviews). Those who completed 
+the PAPI were not asked about their physical health, mental 
+health, past drug and alcohol use, or treatment for substance 
+abuse.
+
+Additional information on the methodology for sample selection of 
+facilities and inmates can be found in Sexual Victimization in 
+Prisons and Jails Reported by Inmates, 2011–12 (NCJ 241399, BJS 
+web, May 2013). 
+
+Mental health module
+**********************
+
+The analysis of the mental health module was restricted to adult 
+prisoners or jail inmates. Juvenile inmates who were 16 or 17 
+years of age and inmates in military, Indian country, or ICE 
+facilities were excluded from this report.
+
+To determine whether inmates had an indicator of a current mental 
+health problem, the NIS-3 included the Kessler 6 scale for 
+nonspecific psychological distress (see Measurement of mental 
+health indicators text box). The NIS-3 also included questions to 
+assess whether or not an inmate had a history of a mental health 
+problem, defined as having ever been told by a mental health 
+professional that they had a mental disorder. The mental health 
+indicator questions were contained in a mental health screener 
+that was part of a mental health module. 
+
+Among inmates who received the sexual victimization survey (90% 
+of inmates surveyed), all inmates received the mental health 
+screener component. Respondents who completed the core sexual 
+victimization survey in less than 35 minutes were eligible to 
+receive the follow-up mental health component. Respondents who 
+did not indicate a mental health problem legitimately skipped the 
+items in the detailed follow up. Based on these thresholds, within 
+prisons 37,359 inmates received the mental health screener 
+questions. Among those respondents, 84% (31,508 prisoners) were 
+eligible to receive the detailed mental health follow-up items. 
+Among jail respondents, 52,384 inmates received the mental health 
+screener items. Among those, 92% (48,338 jail inmates) were 
+eligible to receive the detailed mental health follow-up items.
+  
+Among inmates who received the alternative survey on mental and 
+physical health, past drug and alcohol use, and treatment for 
+substance abuse (10% of inmates surveyed), both mental health 
+components were administered to prisoners and jail inmates. All 
+4,304 prisoners and 6,704 jail inmates who were randomized to the 
+alternative survey received the full mental health module.  
+
+Nonresponse bias analysis
+***************************
+
+Bias occurs when the estimated prevalence of an outcome is 
+different from the actual prevalence of the outcome for a given 
+facility. One potential source of bias is nonresponse. For each 
+survey in the NIS-3, a nonresponse bias analysis was conducted to 
+determine whether inmates did not receive the mental health 
+module due to it only being administered in ACASI. The PAPI 
+respondents were found to have a higher prevalence of sexual 
+victimization and more likely to reside in administrative 
+segregation. These two conditions may be correlated to an 
+inmate’s mental health status. Given that the PAPI respondents 
+made up 1.9% of prisoners and 0.5% of jail inmates, it was 
+determined that a weight adjustment could reduce the potential 
+bias due to PAPI respondents not receiving the mental health 
+screener items. 
+
+Weighting and nonresponse adjustments
+**************************************
+
+Responses from interviewed inmates were weighted to produce 
+national-level estimates. Each interviewed inmate was assigned an 
+initial weight corresponding to the inverse of the probability of 
+selection within each sampled facility. A series of adjustment 
+factors was applied to the initial weight to minimize potential 
+bias due to nonresponse and to provide national estimates. For 
+the analysis of the mental health module, these adjustments were 
+one of two types:
+
+1. adjustments to account for survey nonresponse
+
+2. adjustments to account for survey mode nonresponse.
+
+Methods to adjust for survey nonresponse are described in detail 
+in Sexual Victimization in Prisons and Jails Reported by Inmates, 
+2011-12 (NCJ 241399, BJS web, December 2014). Bias could result 
+if the PAPI respondents were different from the ACASI 
+respondents. The adjustment for mode nonresponse included a 
+calibration of the weights so that the weight from a PAPI 
+respondent was assigned to an ACASI respondent with similar 
+characteristics. Because both ACASI and PAPI respondents provided 
+demographic and criminal history information, these data were 
+used in weight adjustment. For each inmate, these adjustments 
+were based on a generalized exponential model, developed by 
+Folsom and Singh (2002), and applied to the sexual victimization 
+survey respondents. ***Footnote 3 Folsom, Jr., R. E., & Singh, A. 
+C. (2002). The generalized exponential model for sampling weight 
+calibration for extreme values, nonresponse, and 
+poststratification. Proceedings of the American Statistical 
+Association, Survey Research Methods Section, 598-603.***
+
+The mode nonresponse adjustment maintained the bench marked 
+totals designed to make national-level estimates for the total 
+number of inmates age 18 or older who were held in jails at 
+midyear 2011 or in prison at yearend 2011. These benchmark totals 
+represented the estimated number of inmates by sex, from BJS’s 
+2011 Annual Survey of Jails and 2011 National Prisoner 
+Statistics. The national estimates for state prisons were 
+1,154,600 adult males and 83,400 adult females; for federal 
+prisons, 190,600 adult males and 13,200 adult females; and for 
+jails (with an average daily population of six or more inmates), 
+628,620 adult males, and 91,551 adult females.
+
+After the adjustment for potential nonresponse bias, a final 
+adjustment was conducted to combine the data from the sexual 
+victimization survey and the alternative survey. For this 
+adjustment, the weight for each responding inmate was multiplied 
+by the probability of receiving the survey type received. In 
+other words, the survey nonresponse and mode nonresponse adjusted 
+weight for the ACASI respondents were multiplied by 0.90 and for 
+respondents to the sexual victimization survey and alternative 
+survey.
+
+Comparison of estimates by NIS-3 survey type
+*********************************************
+
+Prior to producing estimates from the combined set of sexual 
+victimization and alternative survey respondents, a comparison of 
+key estimates was conducted. This was done to ensure that 
+questions on sexual victimization did not alter how inmates 
+responded to the mental health screener items, compared to 
+inmates that were not asked about their sexual victimization 
+status. 
+
+Using the analysis weights created for each survey, estimates 
+were produced and tested to determine if they were significantly 
+different. For all key estimates, the sexual victimization and 
+alternative survey respondents had statistically similar 
+estimates. Therefore, it was determined that the combined data 
+could be used for all analyses.
+ 
+Standard errors and tests of significance
+*******************************************
+
+As with any survey, the NIS-3 estimates are subject to error 
+arising from their basis on a sample rather than a complete 
+enumeration of the population of adult inmates in prisons and 
+jails. For each mental health indicator, the estimated sampling 
+error varies by the size of the estimate, number of completed 
+interviews, and intra-cluster correlation of the outcome within 
+facilities. 
+
+A common way to express this sampling variability is to construct 
+a 95% confidence interval around each survey estimate. Typically, 
+multiplying the standard error by 1.96 and then adding or 
+subtracting the result from the estimate produces the confidence 
+interval. This interval expresses the range of values that could 
+result among 95% of the different samples that could be drawn.
+
+To facilitate the analysis, rather than provide the detailed 
+estimates for every standard error, differences in the estimates 
+of sexual victimization for subgroups in this report have been 
+tested and notated for significance at the 95% confidence level. 
+For example, the difference in the percentage of female jail 
+inmates who met the threshold for serious psychological distress 
+(SPD) (32.3%) compared to male jail inmates (26.0%) is 
+statistically significant at the 95% confidence level (table 2). 
+In all tables providing detailed comparisons, statistically 
+significant differences at the 95% confidence level or greater 
+have been designated with two asterisks (**). 
+
+General population estimates 
+******************************
+
+In the general population, prevalence rates of SPD in the past 30 
+days come from the National Survey on Drug Use and Health 
+(NSDUH). The NSDUH is an annual nationwide survey that provides 
+national and state-wide estimates on the use of tobacco products, 
+alcohol, illicit drugs, and the prevalence of mental health 
+problems among the general U.S. population. Respondents are 
+randomly selected at the household level.***Footnote 4 SAMHSA. 
+NSDUH - About the Survey. Retrieved on March 30, 2016 from 
+https://nsduhweb.rti.org/respweb/project_description.html.*** 
+This sampling method is unlikely to capture persons who are 
+homeless, in temporary shelters, transient or highly mobile, or 
+in hospitals or residential rehabilitation or treatment centers--
+all populations who may have a higher risk for mental disorders, 
+substance use disorders, or both. 
+
+To be most comparable to the inmate population included in the 
+NIS-3, the survey years 2009 through 2012 of NSDUH were used in 
+this analysis. While the NIS-3 reference period does not include 
+2009 or 2010, these years were included to increase the precision 
+in the general population estimates. An analysis of the estimates 
+of general population across the 4 years found that the mental 
+health estimates did not change appreciably during this period. 
+Therefore, including additional years of data to increase 
+precision would not shift the study period estimates enough to 
+alter any comparisons to the 2011-12 inmate population. 
+
+The NSDUH includes indicators that measure a person’s self-
+reported past year criminal justice involvement. With this 
+information, the total general population was split into three 
+groups: 
+
+* persons not involved in the criminal justice system during the 
+past 12 months
+
+* those on probation or parole during the past 12 months
+
+* those arrested in the past 12 months. 
+
+These groups are not mutually exclusive in that a person can be 
+both on probation or parole and have been arrested in the past 12 
+months. It is assumed that persons in the general population on 
+probation and parole or those arrested in the past 12 months are 
+more similar to the inmate populations than those not involved 
+with the criminal justice system during the past 12 months. 
+
+Standardization of general 
+population estimates
+************************************
+
+When comparing two populations, differences found for some 
+characteristics or conditions may be statistically different as a 
+result of a true difference in the populations or due to basic 
+demographics differences that are associated with the outcome of 
+interest. Standardizing the estimates is one method to determine 
+if these demographic differences are the sole cause for 
+differences found in other characteristics or conditions. 
+
+Standardization of survey estimates consists of calibrating the 
+survey weights for one population such that, for key demographic 
+characteristics that are known for each population, the 
+distributions are identical. This process was done using SUDAAN’s 
+PROC DESCRIPT procedure. The resulting estimates are not a 
+representation of the standardized population by themselves 
+(i.e., generalizations about the population cannot be made from 
+standardized estimates), but are appropriate estimates for 
+comparison with other populations of interest. 
+
+In this report, estimates were standardized for each of the four 
+general population types (e.g., the total general population and 
+three criminal justice involvement subgroups). For each general 
+population type, estimates were standardized to the inmate 
+populations’ distribution by sex, race, Hispanic origin, and age. 
+Because the inmate populations for prisoners and jail inmates 
+differed, the general population was standardized separately to 
+each inmate population (see appendix tables 1 and 2). Figure 2 
+includes standardized estimates to the prison population. Figure 
+3 includes standardized estimates to the jail population.   
+
+***************************************************************
+The Bureau of Justice Statistics (BJS) of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Murlow is acting 
+director.
+
+This report was written by Jennifer Bronson of BJS and Marcus 
+Berzofsky of RTI International. Todd Minton verified the report.
+
+Caitlin Scoville and Jill Thomas edited the report. Steve 
+Grudziecki produced the report.
+
+June 2017, NCJ 250612
+***************************************************************
+
+***************************************************************
+Office of Justice Programs
+Building Solutions * Supporting Communities * Advancing Justice
+www.ojp.usdoj.gov
+***************************************************************
+
+***************************************************
+4/5/2017 JER 10:05am /Revised on 5/11/2017 11:30am
+***************************************************

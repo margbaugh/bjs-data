@@ -1,0 +1,750 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Special Report
+
+State Court Processing Statistics, 1990-2004
+Pretrial Release of Felony Defendants in State Courts
+
+November 2007,  NCJ 214994
+----------------------------------------------------------
+
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in 
+spreadsheet format (.csv) and the full report including 
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/prfdsc.htm
+
+-----------------------------------------------------------
+
+By Thomas H. Cohen, Ph.D.
+and Brian A. Reaves, Ph.D.
+BJS Statisticians
+
+------------------------------------------------------------
+
+Between 1990 and 2004, 62% of felony defendants in State
+courts in the 75 largest counties were released prior to the
+disposition of their case. Beginning in 1998, financial
+pretrial releases, requiring the posting of bail, were more
+prevalent than non-financial releases. This increase in the
+use of financial releases was mostly the result of a decrease
+in the use of release on recognizance (ROR), coupled with an
+increase in the use of commercial surety bonds. These
+findings are from a multi-year analysis of felony cases from
+the biennial State Court Processing Statistics (SCPS)
+program, sponsored by the Bureau of Justice Statistics.
+
+Among defendants detained until case disposition, 1 in 6 had
+been denied bail and 5 in 6 had bail set with financial
+conditions required for release that were not met. The higher
+the bail amount set, the lower the probability of release.
+About 7 in 10 defendants secured release when bail was set at
+less than $5,000, but this proportion dropped to 1 in 10
+when bail was set at $100,000 or more.
+
+Murder defendants were the least likely to be released
+pretrial. Defendants charged with rape, robbery, burglary,
+and motor vehicle theft also had release rates lower than the
+overall average. The highest release rate was for defendants
+charged with fraud. 
+
+Defendants were less likely to be released if they had a
+prior arrest or conviction or an active criminal justice
+status at the time of arrest (such as those on probation or
+parole). A history of missed court appearances also reduced
+the likelihood that a defendant would be released. 
+
+About a third of released defendants were charged with one or
+more types of pretrial misconduct. Nearly a fourth had a
+bench warrant issued for failing to appear in court, and
+about a sixth were arrested for a new offense. More than half
+of these new arrests were for felonies. 
+
+Logistic regression analyses that controlled for factors such
+as offense and criminal history found that Hispanics were
+less likely than non-Hispanic defendants to be released, and
+males were less likely than females to be released. 
+
+Logistic regression was also used to calculate the
+probability of pretrial misconduct for defendants with a
+given characteristic, independent of other factors.
+Characteristics associated with a greater probability of
+being rearrested while on pretrial release included being
+under age 21, having a prior arrest record, having a prior
+felony conviction, being released on an unsecured bond, or
+being part of an emergency release to relieve jail crowding.
+ 
+Compared to release on recognizance, defendants on financial
+release were more likely to make all scheduled court
+appearances. Defendants released on an unsecured bond or as
+part of an emergency release were most likely to have a bench
+warrant issued because they failed to appear in court. The
+probability of failing to appear in court was higher among
+defendants who were black or Hispanic, had an active criminal
+justice status at the time of arrest, or had a prior failure
+to appear. 
+
+About 3 in 5 felony defendants in the 75 largest counties
+were released prior to case disposition
+
+From 1990 to 2004, an estimated 62% of State court felony
+defendants in the 75 largest counties were released prior to
+the disposition of their case (table 1). Defendants were
+about as likely to be released on financial conditions
+requiring the posting of bail (30%) as to be granted a
+non-financial release (32%). Among the 38% of defendants
+detained until case disposition, about 5 in 6 had a bail
+amount set but did not post the financial bond required for
+release.
+
+From 1990 to 2004, surety bond (33%) and release on
+recognizance (32%) each accounted for about a third of all
+releases. Other release types that accounted for at least 5%
+of releases during this period were conditional release
+(12%), deposit bond (9%), unsecured bond (7%), and full cash
+bond (5%). (See box on page 3 for definitions of release
+types.) 
+
+Since 1998 a majority of pretrial releases have included
+financial conditions
+
+Except for a decline to 57% in 2004, the percentage of
+defendants released each year varied only slightly, from 62%
+to 64%. A more pronounced trend was observed in the type of
+release used (figure 1). From 1990 to 1998, the percentage of
+released defendants under financial conditions rose from 24%
+to 36%, while non-financial releases dropped from 40% to 28%.
+ 
+Surety bond surpassed release on recognizance in 1998 as the
+most common type of pretrial release 
+ 
+The trend away from non-financial releases to financial
+releases was accompanied by an increase in the use of surety
+bonds and a decrease in the use of release on recognizance
+(ROR) (figure 2). From 1990 through 1994, ROR accounted for 
+41% of releases, compared to 24% for surety bond. In 2002 and 
+2004, surety bonds were used for 42% of releases, compared to 
+23% for ROR.
+
+Two-thirds of defendants had financial conditions required
+for release in 2004, compared to half in 1990
+
+Including both released and detained defendants, the
+percentage required to post bond to secure release rose from
+53% in 1990 to 68% in 2004 (not shown in table). Overall,
+about half (48%) of defendants required to post bail for
+release did so. From 1998 through 2004, 51% posted bail,
+compared to 45% in prior years.
+
+The higher the bail amount the lower the probability 
+of pretrial release
+
+The median bail amount for detained defendants ($15,000) was
+3 times that of released defendants ($5,000); the mean amount
+was about 5 times higher ($58,400 versus $11,600) (not shown
+in table). For all defendants, the median bail amount was
+$9,000 and the mean was $35,800.
+
+There was a direct relationship between the bail amount and
+the probability of release. When the bail was under $10,000,
+most defendants secured release, including 7 in 10 defendants
+with bail under $5,000 (figure 3). The proportion released
+declined as the bail amount increased, dropping to 1 in 10
+when bail was $100,000 or higher.
+
+Defendants arrested for violent offenses or who had a
+criminal record were most likely to have a high bail 
+amount or be denied bail
+
+Courts typically use an offense-based schedule when setting
+bail. After assessing the likelihood that a defendant, if
+released, will not appear in court and assessing any danger
+the defendant may present to the community, the court may
+adjust the bail higher or lower. In the most serious cases,
+the court may deny bail altogether. The use of a high bail
+amount or the denial of bail was most evident in cases
+involving serious violent offenses. Eighty percent of
+defendants charged with murder had one of these conditions;
+with rape, 34%; and with robbery, 30% (table 2). 
+
+Defendants who had an active criminal justice status (13%)
+were about 4 times as likely as other defendants (3%) to have
+bail denied. Defendants with 1 or more prior felony
+convictions (10%) were more than twice as likely as those
+without such a conviction (4%) to have bail denied.
+
+------------------------------------------------------------
+Commercial bail and pretrial release
+
+An estimated 14,000 commercial bail agents nationwide secure
+the release of more than 2 million defendants annually,
+according to the Professional Bail Agents of the United
+States. (See Methodology for other sources on bail and
+pretrial release.) Bond forfeiture regulations and procedures
+vary by jurisdiction, but most States regulate commercial
+bail and license bail agents through their departments of
+insurance. Four States do not allow commercial bail:
+Illinois, Kentucky, Oregon, and Wisconsin. Also, the District
+of Columbia, Maine, and Nebraska have little commercial bail
+activity.
+
+Bail agents generally operate as independent contractors
+using credentials of a surety company when posting appearance
+bond for their client. For a fee, the surety company allows
+the bail agent to use its financial standing and credit as
+security on bonds. In turn, the bail agent charges the
+defendant a fee (usually 10% of the bail amount) for
+services. In addition, the bail agent often requires
+collateral from the defendant.
+
+A bail agent usually has an opportunity to recover a
+defendant if they fail to appear. If the defendant is not
+returned, the agent is liable to the court for the full bail
+amount. Most jurisdictions permit revocation of the bond,
+which allows the agent to return the defendant to custody
+before the court date, freeing the agent from liability. The
+agent may be required to refund the defendant's fee in such
+cases. Courts can also set aside forfeiture judgments if good
+cause is shown as to why a defendant did not appear.
+ 
+Commercial bail has been a target of critics since the 1960s.
+Some organizations, such as the American Bar Association and
+the National District Attorney's Association, have
+recommended its abolishment. Some critics have succeeded in
+obtaining reforms in the release process, beginning with the
+Manhattan Bail Project in 1961. 
+
+This project showed that defendants could be successfully
+released pretrial without the financial guarantee of a surety
+bail agent if verified information concerning their stability
+and community ties were presented to the court. 
+
+The success of the Manhattan Bail Project resulted in a wide
+range of pretrial reforms in the Federal system, culminating
+in the Bail Reform Act of 1966. This Act created a
+presumption in favor of release for most non-capital
+defendants and led to the creation of non-surety release
+options, such as refundable deposit bail and conditional
+release. Many States followed the Federal system and created
+such release options. The Bail Reform Act of 1984 set forth
+new procedures which allowed the pretrial detention of
+defendants believed to be a danger to the community in
+addition to a flight risk.
+-----------------------------------------------------------
+
+Financial releases took longer on average than 
+non-financial releases
+
+About half of all pretrial releases occurred within 1 day of
+arrest, and about three-fourths within 1 week. Non-financial
+releases (59%) were more likely to occur within a day of
+arrest than financial releases (45%). For all release types,
+more than 90% occurred within 1 month of arrest. Among
+defendants released under financial conditions, the amount of
+time from arrest to release increased with bail amounts,
+ranging from a mean of 8 days for those with a bail amount of
+less than $5,000 to 22 days for bail amounts of $50,000 or
+more (not shown in table).
+
+About a quarter of released defendants had failed to appear
+in court during a prior case
+ 
+A majority (61%) of the defendants released into the
+community to await disposition of their case had been
+arrested previously (table 3). This included 27% who had
+failed to appear in court during a prior case. About half had
+1 or more prior convictions (48%), and nearly a third (30%)
+had at least one prior felony conviction. About 1 in 4
+released defendants had an active criminal justice status
+from a prior case at the time of their arrest. 
+
+-----------------------------------------------------------
+The role of pretrial services programs in the release process
+
+According to a BJA nationwide study, about 300 pretrial
+services programs were operating in the U.S. during
+2001.***Footnote: John Clark and D. Alan Henry, Pretrial
+Services Programming at the Start of the 21st Century: A
+Survey of Pretrial Services Programs, Washington D.C.: Bureau
+of Justice Assistance, July 2003 (NCJ 199773)***. More than
+two-thirds of the programs had begun since 1980 and nearly
+half since 1990. The programs operated in a variety of
+administrative settings,  including probation offices,
+courts, sheriffs' offices, independent agencies, and private
+non-profit organizations.
+
+Pretrial programs play an important role in the release
+process. Standards published by the American Bar Association
+and the National Association of Pretrial Services Agencies
+have specified core functions a model pretrial program should
+provide. 
+
+Information gathering and assessment 
+
+An important function of a pretrial program is to conduct a
+pretrial investigation to assist judicial officers in making
+release decisions. Prior to the initial court appearance, the
+pretrial program gathers information about the defendant,
+primarily through voluntary interviews and records checks.
+Some defendants may not be eligible for pretrial release
+because of the severity of the charged offense or an existing
+criminal justice status such as parole, probation, or an
+outstanding warrant.
+
+Information collected from the pretrial investigation
+typically includes:
+
+*residency 
+*employment status
+*community ties
+*criminal record
+*court appearance record
+*criminal justice status
+*mental health status
+*indications of substance abuse
+
+Often a risk assessment tool is used to incorporate the
+information from the pretrial investigation into a score that
+guides the release decision. Periodic validation of the
+instrument ensures that it provides an accurate, unbiased
+measure of a defendant's potential for misconduct if
+released. 
+
+Supervision and follow-up 
+
+Pretrial services programs provide supervision and monitoring
+of a defendant's compliance with release conditions, such as
+testing for drug or alcohol use and electronic monitoring of
+defendants confined to a restricted area. These programs also
+assist with locating and returning defendants who fail to
+appear in court. Such assistance may include providing
+information to law enforcement officials or working directly
+with defendants to persuade them to return. 
+
+Pretrial programs may regularly review the status of detained
+defendants for changes in their eligibility for release and
+facilitate their release where appropriate.
+--------------------------------------------------------
+
+Prior criminal activity was more prevalent among pretrial
+detainees. About half had a criminal justice status at the
+time of arrest. A large majority had prior arrests (83%) and
+convictions (75%). More than half (57%) had a prior felony
+conviction, including 15% with a conviction for a violent
+felony. Nearly half (44%) had a prior failure to appear.     
+
+Many factors influence the pretrial release decision
+
+SCPS collects information on some of the factors courts
+consider when making pretrial release decisions, such as
+arrest offenses, criminal justice status, prior arrests,
+prior court appearance record, and prior convictions. It does
+not collect data on residency, employment status, community
+ties, mental health status, or substance abuse history.
+ 
+The unique contribution of the factors collected in SCPS to
+the release decision can be assessed using logistic
+regression techniques. Logistic regression produces nonlinear
+estimations for each independent variable which can be
+transformed into predicted probabilities (table 4). In the
+case of pretrial release, the logistic regression analyses
+yielded patterns similar to that of the bivariate results.
+(See Methodology for more information on the logistic
+regression techniques).
+
+Murder defendants (19%) had the lowest probability of being
+released, followed by those charged with robbery (44%),
+burglary (49%), motor vehicle theft (49%), or rape (53%).
+Defendants charged with fraud (82%) were the most likely to
+be released. 
+
+Male and Hispanic defendants less likely to be released than
+females and whites
+
+Female defendants (74%) were more likely than males (60%) to
+be released pretrial. By race and Hispanic origin,
+non-Hispanic whites (68%) had a higher probability of release
+than Hispanics (55%). Pretrial detention rates for Hispanics
+may have been influenced by the use of immigration holds to
+detain those illegally in the U.S.
+
+Defendants with a prior criminal record less likely to be
+released than those without a prior arrest
+
+Defendants on parole (26%) or probation (43%) at the time of
+their arrest for the current offense were less likely to be
+released than those without an active criminal justice status
+(70%). Defendants who had a prior arrest, whether they had
+previously failed to appear in court (50%) or not (59%), had
+a lower probability of release than those without a prior
+arrest (79%). 
+
+Defendants with a prior conviction (51%, not shown in table)
+had a lower probability of being released than those without
+a conviction (77%). This was true even if the prior
+convictions were for misdemeanors only (63%). The effect of a
+conviction record on release was more pronounced if the
+defendant had at least one prior felony conviction (46%).
+
+About 1 in 5 detained defendants eventually had their case
+dismissed or were acquitted
+
+Sixty percent of released defendants were eventually
+convicted -- 46% of a felony and 14% of a misdemeanor (table
+5). Conviction rates were higher for detained defendants,
+with 78% convicted, including 69% of a felony. 
+
+On average, released defendants waited nearly 3 times longer
+than detainees for case adjudication 
+
+Released defendants waited a median of 127 days from time of
+arrest until adjudication, nearly 3 times as long as those
+who were detained (45 days). For those released, the average
+time from release to adjudication was nearly 1 month longer
+for those on financial release (125 days) than for those
+released under non-financial conditions (101 days) (table 6).
+By specific release type, defendants released on recognizance
+had the shortest wait (98 days), while those released on
+property bond had the longest (140 days). 
+
+Incidents of pretrial misconduct increased with length of
+time in release status
+
+The number of defendants charged with pretrial misconduct
+increased with the length of time spent in a release status.
+About a third (32%) of failure-to-appear bench warrants were
+issued within a month of release and about two-thirds (68%)
+within 3 months. The pattern was similar for rearrests, with
+29% occurring within 1 month of release and 62% within 3
+months.
+
+A third of released defendants were charged with pretrial
+misconduct within 1 year after release
+
+From 1990 through 2004, 33% of defendants were charged with
+committing one or more types of misconduct after being
+released but prior to the disposition of their case (figure
+4). A bench warrant for failure to appear in court was issued
+for 23% of released defendants. An estimated 17% were
+arrested for a new offense, including 11% for a felony. 
+
+Pretrial misconduct rates stable from 1990-2004
+
+Overall misconduct rates varied only slightly from 1990
+through 2004, ranging from a high of 35% to a low of 31%
+(figure 5). For failure to appear, the range was from 21% to
+24%, and the fugitive rate ranged from 5% to 8%. Overall
+rearrest rates ranged from 13% to 21%, and felony rearrest
+rates from 10% to 13%.
+
+Pretrial misconduct rates highest for emergency releases
+
+About half (52%) of the 1% of defendants released under an
+emergency order to relieve jail crowding were charged with
+some type of misconduct (table 7). Pretrial misconduct rates
+for other types of releases ranged from 27% to 36%. 
+
+After emergency release (45%), the highest failure-to-appear
+rate was for defendants released on unsecured bond (30%).
+Property bond (14%), which also accounted for just 1% of
+releases, had the lowest failure-to-appear rate followed by
+surety bond (18%). 
+
+About 1 in 4 defendants who failed to appear in court were
+fugitives at end of a 1-year study period
+
+By type of release, the percent of the defendants who were
+fugitives after 1 year ranged from 10% for unsecured bond
+releases to 3% of those released on surety bond. 
+
+Overall, 28% of the defendants who failed to appear in court
+and had a bench warrant issued for their arrest were still
+fugitives at the end of a 1-year study period. This was 6% of
+all defendants released pretrial (not shown in table).
+Compared to the overall average, the percentage of absconded
+defendants who remained a fugitive was lower for surety bond
+releases (19%).
+
+Likelihood of pretrial misconduct lower for defendants
+released after being charged with murder or rape
+
+Defendants released after being charged with murder (19%) or
+rape (18%) had misconduct rates that were about half that for
+defendants charged with motor vehicle theft (39%), drug
+trafficking (39%), or burglary (37%).
+ 
+Younger, male, black, and Hispanic defendants more likely to
+be charged with pretrial misconduct 
+
+Released defendants age 20 or younger (33%) had higher
+misconduct rates than those age 40 or older (28%). This
+pattern also existed for rearrest and failure-to-appear
+rates. Male defendants (34%) had a higher misconduct rate
+than females (28%). Black (36%) and Hispanic (34%) defendants
+had a higher misconduct rate than whites (28%). 
+
+Prior criminal activity associated with greater        
+probability of pretrial misconduct 
+
+Defendants who had an active criminal justice status at the
+time of arrest -- such as pretrial release (48%), parole
+(47%), or probation (44%) -- had a higher misconduct rate than
+those who were not on a criminal justice status (27%). This
+difference was observed for both failure to appear and
+rearrest. 
+
+Defendants with a prior failure to appear (49%) had a higher
+misconduct rate than defendants who had previously made all
+court appearances (30%) or had never been arrested (23%).
+Defendants with a prior failure to appear (35%) were about
+twice as likely to have a bench warrant issued for failing to
+appear during the current case than other defendants (18%). 
+
+Defendants with at least one prior felony conviction (43%)
+had a higher rate of pretrial misconduct than defendants with
+misdemeanor convictions only (34%) or no prior convictions
+(27%).
+-------------------------------------------------------- 
+
+Logistic regression analysis of pretrial misconduct
+
+Logistic regression was used to assess the impact of given
+characteristics independent of other factors on the
+probability of a released defendant being charged with
+pretrial misconduct. The predicted probabilities generated
+from these analyses are presented in the adjacent table. (See
+Methodology for more information on logistic regression).
+
+Type of release
+
+Predicted overall misconduct rates were higher for unsecured
+bond (42%) and emergency (56%) releases. This was also the
+case for rearrest and failure to appear rates. Property
+(17%), surety (20%), deposit (20%), and full cash (20%) bonds
+all had lower predicted failure-to-appear rates than
+recognizance (24%). The percent of released defendants
+predicted to be fugitives after 1 year was lowest for
+property (3%) and surety bonds (4%). Emergency release and
+property bonds each accounted for 1% of all releases,
+compared to about 30% each for surety bonds and recognizance.
+(See table 7 for the number of defendants accounted for by
+each type of pretrial release).
+
+Arrest offense
+
+Drug trafficking defendants (38%) had higher predicted rates
+of overall misconduct, rearrest and failure-to-appear than
+defendants charged with murder (19%), rape (21%), assault
+(26%), fraud (29%), or a weapons offense (31%). 
+
+Demographic characteristics
+
+Defendants age 20 or younger (39%) had a higher predicted
+misconduct rate than those ages 21 to 39 (35%) 
+or age 40 or older (30%). This pattern held for rearrest, 
+but for court appearance record only defendants age 40 
+or older were predicted to perform better than those under
+age 21.
+
+Male defendants (35%) were predicted to have a higher
+misconduct rate than females (32%). Hispanic (37%) and black
+(36%) defendants were predicted to be charged with misconduct
+more often than whites (32%). This difference also existed
+for failure to appear, but not rearrest.
+
+Criminal history
+
+Defendants with an active criminal justice status at the time
+of arrest, such as parole (42%), probation (39%), or pretrial
+release (42%), had higher predicted misconduct rates than
+those without such a status (33%). This difference was
+observed for both failure to appear and rearrest. 
+
+Compared to those without prior arrests (29%), defendants
+with an arrest record were predicted to be charged with
+misconduct more often, especially if they had previously
+failed to appear in court (47%). This pattern was observed
+for both failure to appear and rearrest. Defendants with
+prior felony convictions (39%) had a higher predicted
+misconduct rate than other defendants (33%). This pattern
+also existed for rearrest, but not failure to appear.
+-------------------------------------------------------
+
+Methodology
+
+Data utilized
+
+This report analyzed data from the State Court Processing
+Statistics (SCPS) series, covering felony cases filed in May
+of even-numbered years from 1990 through 2004. SCPS is a
+biennial data collection series that examines felony cases
+processed in a sample of 40 of the Nation's 75 most populous
+counties. The counties included in the sample have varied
+over time to account for changing national population
+patterns. For a year-by-year summary of the counties
+participating in SCPS, see Appendix table 1. For more
+information on the SCPS methodology see the BJS report Felony
+Defendants in Large Urban Counties, 2002 at
+http://www.ojp.usdoj.gov/bjs/abstract/fdluc02.htm>.
+
+Each SCPS data collection tracks approximately 15,000 felony
+cases for up to one year, with the exception of murder
+defendants who are followed for up to two years. In addition
+to defendant demographic characteristics and criminal
+history, SCPS also obtains data on a variety of felony case
+processing factors, including the types of arrest charges
+filed, conditions of pretrial release such as bail amount and
+type of release, and instances of pretrial misconduct
+including failure to appear in court, rearrest while on
+pretrial release, and other violations that resulted in the
+revocation of release. Adjudication and sentencing outcomes
+are also recorded. 
+
+Using multivariate statistical techniques 
+
+This report analyzes pretrial release and misconduct through
+both bivariate and multivariate statistical techniques. While
+the bivariate statistics provide a descriptive overview of
+pretrial release and misconduct among felony defendants in
+the 75 most populous counties, multivariate analysis can help
+disentangle the impacts that independent variables such as
+demographic characteristics, prior criminal history, severity
+of arrest charges, and release type have on dependent
+variables such as the probability of pretrial release and
+misconduct. Logistic regression models were used to estimate
+the probability of pretrial release and misconduct. This is
+one widely accepted method for analyzing the effects of
+multiple independent factors on dichotomous or binomial
+outcomes. 
+
+The regression analyses excluded data from 1990 because of
+the large number of cases missing data on race or Hispanic
+origin. The regression models also excluded cases that had
+missing data on either the independent or dependent
+variables. This resulted in reductions in the number of cases
+analyzed. From 1992 through 2004, 99,899 felony defendants
+were either released or detained, but when missing data were
+excluded from the regression models, the number of cases
+analyzed declined to 71,027. 
+
+To determine the impact of missing data, logistic regression
+models excluded certain independent factors to increase the
+number of analyzed cases. Since the results from these
+analyses did not differ appreciably from the full model,
+missing data did not affect the results. 
+
+SCPS data are drawn from a sample and weighted to represent
+cases processed in the 75 most populous counties during the
+month of May. When the regressions used these weighted data,
+the large number of weighted cases resulted in statistical
+significance for nearly all the variables in the model.
+Effect weighting was employed to address this issue. Through
+effect weighting, the SCPS data were weighted to the number
+of cases actually sampled rather than the number of cases in
+the universe represented by the sample.
+
+Generalized estimating equation techniques
+
+One primary assumption of binary logistic regression is that
+all observations in the dataset are independent. This
+assumption is not necessarily appropriate for the SCPS series
+because the data are collected on a county basis. The
+county-based nature of SCPS creates a presumption of
+clustered data. In clustered datasets, "the data can be
+grouped into natural or imposed clusters with observations in
+the same clusters tending to be more alike than observations
+in different clusters."*** Footnote: Paul D. Allison, 2001.
+Logistic Regression Using the SAS System: Theory and
+Application, Cary, N.C.: SAS Institute Inc., page 179***. The
+clustered nature of the SCPS data was handled by utilizing
+generalized estimating equation (GEE) techniques. Logistic
+regression modeling with generalized estimating equation
+(GEE) techniques provides for more efficient computation of
+regression coefficients and more robust standard error
+estimates.
+
+Interpreting logistic regression probabilities
+
+Logistic regression produces nonlinear estimations for each
+independent variable that can be difficult to interpret. In
+this report, the logistic regression coefficients are made
+interpretable by transforming them into predicted
+probabilities (see table 4 and box on page 10). The predicted
+probabilities were calculated by setting all independent
+variables to their mean levels, setting the independent
+variable of interest to a value of one, multiplying the means
+of each independent variable by their respective logistic
+regression parameter estimates, taking the exponential
+function of the summed product of means and parameter
+estimates, and then calculating the probability of that
+exponential function. 
+
+Limitations of models
+
+The logistic regression analyses were limited and intended to
+reflect the effects of only selected factors that were
+available in the SCPS data. Other factors could potentially
+be related to pretrial release and misconduct. Examples of
+these include: defendants' residence, employment status,
+community ties, mental health status, and substance abuse. If
+data on these variables were available, the logistic
+regression results could be altered.
+
+Additional sources on bail and pretrial release include:
+
+Demuth, Stephen. 2003. "Racial and Ethnic Differences in
+Pretrial Release Outcomes: A Comparison of Hispanic, Black,
+and White Felony Arrestees." Criminology: 41(3): 873.
+
+Feeley, Malcolm M., 1983. "Court Reform on Trial: Why Simple
+Solutions Fail." New York, NY: Basic Books, Inc., pp. 40-79.
+
+Goldkamp, John. 1985. "Danger and Detention: A Second
+Generation of Bail Reform." Journal of Criminal Law and
+Criminology: 76:1.
+
+Helland, Eric and Alexander Tabarrok, 2004. "Public versus
+Private Law Enforcement: Evidence from Bail Jumping." Journal
+of Law and Economics: (47): pp. 93-122.
+
+Kennedy, Spurgeon and D. Alan Henry. 1996. Commercial Surety
+Bail: Assessing Its Role in the Pretrial Release and
+Detention Decision
+<http://www.pretrial.org/publications.html>.
+
+Watson, Jerry W. and L. Jay Labe, 2001. "Bail Bonds". The Law
+of Miscellaneous and Commercial Surety Bonds, Chicago, IL:
+American Bar Association, pp. 127-142.
+
+-----------------------------------------------------------
+     
+-----------------------------------------------------------
+
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. Jeffrey L. Sedgwick is the
+director.
+
+This Special Report was written by Thomas H. Cohen, Ph.D.,
+and Brian A. Reaves, Ph.D. William J. Sabol, Ph.D. provided
+technical assistance. Tracey Kyckelhahn provided
+verification. Tina Dorsey produced and edited the report,
+under the supervision of Doris J. James. Jayne Robinson
+prepared the report for final printing.
+
+November 2007, NCJ 214994
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+This report in portable document format and in ASCII and its
+related statistical data and tables  are available at the BJS
+World Wide Web Internet site:
+<http://www.ojp.usdoj.gov/bjs/abstract/prfdsc.htm>.
+
+-----------------------------------------------------------
+ 
+
+End of file
+11/19/2007 JR

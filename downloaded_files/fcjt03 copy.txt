@@ -1,0 +1,1434 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Federal Criminal Justice Trends, 2003
+
+Federal Justice Statistics Program
+
+August 2006,  NCJ 205331
+
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables.  A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/fcjt03.htm
+-------------------------------------------------------
+
+Mark Motivans
+
+Jeffrey L. Sedgwick
+Director
+
+This Bureau of Justice Statistics Report was 
+prepared using data from the Federal Justice 
+Statistics Program (FJSP). The FJSP is managed by
+the Bureau of Justice Statistics (BJS) and the 
+Urban Institute under BJS grant number 2005-BJ-CX-
+K004. Principal staff at BJS are Mark Motivans and 
+Steven K. Smith. Principal staff at the Urban
+Institute are William Adams, Christine Arriola, 
+Avi Bhati, Kamala Mallik Kane, Barbara 
+Parthasarathy, Laura Winterfield, and Yan Yuan.
+Thomas H. Cohen provided statistical review. 
+Carolyn C. Williams, Tom Hester, Marianne Zawitz, 
+Joanna Bradford, and Rhonda Keith of BJS provided
+editorial review.
+
+This report is made possible through the cooperation 
+of the following Federal agencies and their staffs:
+The United States Marshals Service (USMS), the 
+Administrative Office of the United States Courts 
+(AOUSC), the Executive Office for U.S. Attorneys 
+(EOUSA), and the Federal Bureau of Prisons (BOP). 
+The staff who provided expert advice about the 
+source records include: Joe Briggs (USMS);James 
+Tauber (DEA); Steven Schlesinger, Catherine 
+Whitaker, and Pragati Patrick (AOUSC); Siobhan 
+Sperin and Barbara Tone (EOUSA); and Christine 
+Kitchens (USSC).
+
+BJS authorizes any person to reproduce, publish, 
+translate, or otherwise use all or any part of the
+material in this publication; citation to source, 
+however, is appreciated. An electronic version of 
+this report and the data underlying graphics may 
+be found on the BJS Internet Home Page
+(http://www.ojp.usdoj.gov/bjs/). The BJS-sponsored 
+Federal Justice Statistics Resource Center(FJSRC)
+Internet Home Page (http://fjsrc.urban.org) provides
+online access to the Federal Justice database. 
+Users may download data from the Federal Justice 
+database for independent analysis or use the
+online query system to quickly obtain customized 
+statistics.
+
+To order additional copies of this report or CD-ROMs 
+containing the Federal Justice database, call the
+National Criminal Justice Reference Service at 
+1-800-851-3420.
+
+http://www.ojp.usdoj.gov/bjs/
+
+Contents
+
+Highlights
+
+Enforcement trends
+Arrests and bookings for Federal offenses
+U.S. Marshals Service
+Drug Enforcement Administration
+ 
+Matters investigated by U.S. attorneys
+Immigration suspects referred to U.S. attorneys
+Drug suspects referred to U.S. attorneys
+Firearm suspects referred to U.S. attorneys
+
+Matters concluded by U.S. attorneys
+Prosecutions in U.S. district court
+
+Judicial and sentencing trends
+Pretrial release
+Cases filed in U.S. district court
+Cases terminated in U.S. district court
+Defendants sentenced
+Cases appealed
+
+Correction trends
+Offenders in prison
+Offenders on supervision
+
+Notes, 38
+
+Methodology
+Table construction and interpretation
+Offense classifications
+Data sources
+
+Appendix
+
+Tables
+
+Enforcement
+1. Suspects arrested for Federal offenses and 
+   booked by USMS, by offense
+2. Characteristics of suspects arrested and 
+   booked by the U.S. Marshals Service
+3. Characteristics of immigration suspects arrested 
+   and booked by the U.S. Marshals Service
+4. Suspects arrested by Drug Enforcement 
+   Administration agents, by type of drug at arrest
+5. Characteristics of suspects arrested by the Drug 
+   Enforcement Administration for all drugs and for 
+   methamphetamine
+6. Suspects in criminal matters investigated by U.S. 
+   attorneys, by offense
+7. Disposition of suspects in matters concluded by 
+   U.S. Attorneys 
+Judicial and sentencing 
+8. Number of pretrial defendants detained at any 
+   time prior to trial by offense
+9. Behavior of defendants released prior to trial 
+   by offense
+10. Characteristics of defendants at initial hearing 
+    in Federal district court
+11. Defendants in cases concluded in U.S. district 
+    court
+12. Adjudication outcomes of defendants in cases 
+    concluded in U.S. District court
+13. Type of counsel of defendants in cases concluded 
+    by offense
+14. Characteristics of defendants convicted in U.S. 
+    district court
+15. Defendants convicted and percent receiving prison 
+    by offense
+16. Defendants receiving prison sentence and mean 
+    sentence imposed
+17. Defendants receiving a probation-only sentence
+18. Defendants sentenced under the U.S. Sentencing 
+    Guidelines
+19. Federal drug offenders receiving safety valve, 
+    1998-2003
+20. Federal offenders resentenced pursuant to Rule 
+    35(b)
+21. Criminal appeals filed in U.S. district court
+Corrections
+22. Federal prison population at fiscal yearend by 
+    offense
+23. Characteristics of the Federal prison population 
+24. Inmates in the Federal Bureau of Prisons by age
+25. Average time served to first release from Federal 
+    prison
+26. Offenders under Federal supervision, by offense
+27. Characteristics of offenders under Federal 
+    supervision
+28. Offenders under Federal supervision by type of 
+    supervision
+29. Offenders terminating Federal supervision by outcome
+Methodology
+M. 1. Breakout of main category offenses
+M. 2. Source agencies for data tables in Federal Criminal 
+     Case Processing
+Appendix
+A.1. Suspects arrested for Federal offenses and 
+     booked by the USMS
+A.2. Suspects in criminal matters investigated by 
+     U.S. attorneys
+A.3. Suspects in criminal matters concluded by U.S. 
+     attorneys
+A.4. Suspects in criminal matters prosecuted by 
+     U.S. attorneys
+A.5. Suspects in criminal matters concluded by U.S.
+     magistrates
+A.6. Suspects in criminal matters declined by U.S. 
+     Attorneys
+A.7. Defendants in cases proceeded against in U.S. 
+     district courts
+A.8. Defendants in cases terminating in U.S. district 
+     courts
+A.9. Defendants in cases terminating in U.S. district 
+     courts: Percent convicted
+A.10. Offenders convicted and sentenced in U.S. 
+      district courts
+A.11. Offenders convicted and sentenced to prison 
+      in U.S. district courts
+A.12. Criminal appeals filed
+A.13. Offenders convicted and sentenced to probation
+A.14. Offenders convicted and sentenced to prison: 
+      Mean number of months of imprisonment imposed
+
+Figures
+
+Enforcement
+1. Suspects arrested for Federal offenses and 
+   booked by USMS, by selected offenses
+2. Percent of growth in suspects arrested and 
+   booked by the U.S. Marshals by Federal judicial 
+   district
+3. Suspects arrested and booked by the U.S. 
+   Marshals for an immigration offense 
+4. Citizenship of suspects arrested and booked 
+   by the U.S. Marshals Service
+5. Country of citizenship of non-U.S. citizens 
+   arrested and booked by the U.S. Marshals
+6. Drug suspects arrested by the Drug Enforcement 
+   Administration
+7. Suspects arrested by the Drug Enforcement 
+   Administration for methamphetamine by State
+8. Suspects referred to U.S. attorneys by selected 
+   offenses
+9. Immigration suspects referred to U.S. attorneys
+10. Percent of immigration matters referred to U.S. 
+    attorneys by Federal judicial district
+11. Drug suspects referred to U.S. attorneys
+12. Percent of drug matters referred to U.S. attorneys 
+    by Federal judicial district
+13. Firearms suspects referred to U.S. Attorneys
+14. Percent of firearms matters referred to U.S. 
+    attorneys by Federal judicial district
+15. Suspects prosecuted, declined, disposed by U.S. 
+    Magistrates
+Judicial and sentencing
+16. Defendants terminating pretrial services
+17. Percent of growth in defendants detained prior 
+    to trial by Federal judicial district
+18. Primary method of pretrial release
+19. Criminal history of suspects arraigned in Federal 
+    district court
+20. Percent of cases filed in U.S. district court 
+    by Federal judicial district
+21. Percent of all felony cases concluded in each 
+    Federal judicial district that ended in trial
+22. Type of counsel at case conclusion
+23. Average prison sentence imposed by offense
+24. Percent of defendants sentenced within the U.S. 
+    Sentencing Guidelines range
+25. Percent of defendants sentenced within the U.S. 
+    Sentencing Guidelines by selected offenses
+26. Percent of drug offenders sentenced to statutory 
+    minimum sentences
+27. Percent of defendants sentenced under the U.S. 
+    Sentencing Guidelines by cell
+28. Percent of drug defendants sentenced receiving 
+    safety valve provision by Federal judicial district
+29. Percent of defendants resentenced under Rule 
+    35(b) by Federal judicial district
+30. Criminal appeals terminated in U.S. district 
+    court by appeal type
+31. Number of criminal appeals terminated 
+32. Outcome of criminal appeals terminated on the 
+    merits
+Corrections
+33. Offenders under the jurisdiction of the Federal 
+    Bureau of Prisons by custody security level
+34. Offenders under the jurisdiction and custody 
+    of the Federal Bureau of Prisons
+35. Offenders in custody with the Federal Bureau 
+    of Prisons by gender
+36. Time served by inmates in Federal prison at 
+    fiscal yearend
+37. Expected and actual time served among first 
+    releasees from Federal prison
+38. Percent of offenders under Federal supervision 
+    by type of supervision
+39. Annual average percent change in offenders under 
+    Federal supervision by type of supervision
+40. Percent of growth in offenders under Federal 
+    supervision by Federal judicial district
+
+----------------------------------------------------
+
+Highlight
+
+Federal criminal justice trends, 1994-2003
+
+Number of suspects/defendants increased steadily 
+across all stages of the Federal criminal justice 
+system 
+
+Drug offenders most prevalent; immigration and 
+weapon offenders increased most rapidly
+
+* The 10-year average annual increase was greatest 
+for immigration (ranging from 14% for arrests to 
+25% for prison sentences imposed) and weapon 
+offenses (ranging from 10% for prosecution to 11%
+for matters investigated by U.S. Attorneys). 
+
+* Drug offenses remained the most prevalent offense 
+across stages over 10-year period.
+
+Southwest United States produced a disproportionate 
+share of suspects and defendants processed
+
+* Five of 94 Federal judicial districts (Southern 
+District of California, District of Arizona, 
+District of New Mexico and Southern and Western 
+Districts of Texas) comprised 31% of all suspects 
+arrested and booked, 19% of suspects investigated, 
+23% of defendants in cases filed in U.S. district 
+court, and 28% of offenders sentenced to prison
+(1994-2003).
+
+Likelihood of prosecution, conviction, 
+and imprisonment sentence increased
+
+* The percent of suspects prosecuted(of matters 
+concluded by U.S. attorneys) increased from 54% 
+in 1994 to 62% in 2003. 
+
+* Eighty-nine percent of defendants were convicted 
+in 2003 (of those charged) compared with 83% in 
+1994. The conviction rate for drug defendants
+increased from 86% in 1994 to 92% in 2003. 
+
+* The percent of offenders sentenced to prison (of 
+those convicted) increased from 65% in 1994 to 76% 
+in 2003. Eighty-three percent of defendants 
+convicted of a felony were sentenced to prison in 
+2003 compared with 78% in 1994. 
+
+Rate of pretrial detention increased
+
+* Seventy-six percent of defendants terminating 
+pretrial services in 2003 were detained compared 
+with 58% in 1994. 
+
+*  Fifty-nine percent of defendants in 2003 had a 
+prior conviction at initial hearing compared with 
+48% in 1994.
+
+Criminal trials declined
+
+* Jury trials decreased from 8% of cases concluded 
+in 1994 to 4% in 2003.
+
+* Ninety-six percent of convictions in U.S. 
+district court in 2003 were the result of guilty 
+pleas compared with 91% in 1994.
+
+Number of Federal prison inmates increased
+
+* The Federal prison population increased an average 
+of 7% each year from 1994-2003. The largest average
+annual increases over this period were for 
+immigration (24%) and weapon offenses (10%). Drug 
+offenders comprised 57% of prisoners in 2003
+compared to 61% in 1994.
+
+* The average prison term imposed decreased from 
+63 months in 1994 to 59 months in 2003. The 
+average prison term imposed declined for drug 
+offenders from 84 months in 1994 to 82 months in 
+2003 and increased for violent offenders from 92
+ months in 1994 to 98 months in 2003.
+
+* Offenders released for the first time from
+Federal prison served an average of 33 months in 
+prison in 2003 compared to 25 months in 1994.
+
+* 26% of inmates in Federal prison at fiscal yearend 
+2003 had served 5 years in prison up from 9% in 
+1994. Of those who had served 5 or more years at 
+yearend 2003, 22% were over the age of 50.
+
+Federal sentencing guidelines applied in 
+most cases 
+
+* Sixty-nine percent of offenders sentenced in 2003 
+received sentences within ranges set forth under 
+the Federal sentencing guidelines (compared with
+72% in 1994). 
+
+* Sixty-nine percent of immigration offenders were 
+sentenced within the Federal sentencing guidelines 
+in 2003 (compared with 91% in 1994).
+
+* Just over half of offenders (54%) sentenced under 
+the Federal sentencing guidelines from 1994-2003 
+were assigned the lowest criminal history score 
+level as determined by the guidelines at
+sentencing.
+
+* The percent of drug offenders receiving a 5-year 
+or greater statutory minimum sentence under the 
+Federal sentencing guidelines decreased from 66% 
+in 1996 to 60% in 2003.
+
+Supervised release most common form 
+of Federal community supervision 
+
+* Offenders on Federal supervised release surpassed 
+the number of offenders on probation from 1994 to 
+2003. Offenders on supervised release comprised 70% 
+of offenders on community supervision in 2003 
+compared with 39% in 1994.
+
+* Offenders on Federal parole comprised 3% of 
+offenders under supervision in 2003 compared 
+with 15% in 1994.
+
+Drug offenders on Federal supervision
+increased
+
+* Drug offenders surpassed property offenders as 
+most common offense under Federal supervision in 
+1999. Drug offenders increased from 32% of those 
+on supervision in 1994 to 42% in 2003. 
+
+* Forty percent of offenders under Federal
+supervision in 2003 reported a drug abuse
+history compared with 31% in 1994.
+----------------------------------------------------
+
+Enforcement trends
+
+Arrests and bookings by the U.S. Marshals Service
+
+Drug offenses were the most prevalent offense 
+among suspects arrested and booked by U.S. Marshals.
+
+* Immigration offenses had the greatest net increase 
+(18,843 more arrests in 2003 than 1994).
+
+Suspects arrested and booked by the U.S. Marshals
+Service increased an average of 6% annually from
+1994-2003.
+
+Four Federal judicial districts along the Southwest 
+border comprised 54% of the growth in arrests and 
+bookings between 1994 and 2003.
+  
+Illegal entry/reentry offenses comprised the bulk 
+of U.S. Marshals Service arrests for immigration 
+offenses.
+
+Non-U.S. citizens comprised a growing share of 
+suspects arrested and booked by the U.S. Marshals.
+
+* In 2003 non-U.S. citizens made up 38% of suspects
+arrested compared to 27% in 1994.
+
+Citizens of Mexico comprised the largest share of 
+non-U.S. citizen suspects arrested and booked by 
+the U.S. Marshals Service from 1994 to 2003.
+
+Drug arrests by the Drug Enforcement
+Administration   
+
+The number of drug arrests by the Drug Enforcement 
+Administration reached a peak in 1999.
+
+Methamphetamine arrests comprised 22% of Drug
+Enforcement Administration arrests in 2003 
+compared with 11% of arrests in 1994.
+
+From 1994 to 2003 the Drug Enforcement Administration 
+made more than 26,000 methamphetamine arrests, 44% 
+of all domestic methamphetamine arrests, in 4 States: 
+California, Texas, Arizona, and Missouri.
+
+* Twenty-five percent of DEA arrests for 
+methamphetamine were in California.
+     
+Demographic characteristics of suspects arrested 
+for methamphetamine remained mostly the same 
+between 1995 and 2003.
+
+Matters investigated by U.S. attorneys
+
+The number of suspects referred for immigration and
+weapons matters increased steadily from 1994-2003. 
+
+* Suspects referred for drug offenses also increased 
+and remained the most prevalent offense of referral.
+
+The number of suspects in matters referred to U.S. 
+attorneys increased an average of 3% each year 
+from 1994-2003.
+
+* Suspects referred for property offenses declined 
+an annual average of 2%.
+
+Immigration suspects referred to U.S. attorneys
+
+The number of suspects investigated for illegal 
+reentry increased more than other types of 
+immigration offenses.
+
+Sixty-three percent of immigration matters referred
+to U.S. attorneys from 1994-2003 were from the five
+Federal judicial districts along the U.S.-Mexico
+border.
+
+Drug suspects referred to U.S. attorneys
+
+The number of suspects investigated for trafficking 
+increased more than conspiracy and other drug 
+offenses.
+
+Five Federal judicial districts comprised 26% of 
+all drug suspects referred to U.S. Attorneys from 
+1994 to 2003.
+
+Firearm suspects referred to U.S. Attorneys
+
+Investigations of firearm suspects increased an 
+annual average of 11% from 1994-2003.
+
+* Suspects referred for firearm possession comprised
+90% of firearm referrals in 2003 compared with 64% 
+in 1994.
+
+Six Federal judicial districts each comprised 3% 
+or more of all suspects investigated for firearm 
+matters from 1994 to 2003.
+
+Matters concluded by U.S. attorneys
+
+U.S. attorneys prosecuted 80,106 suspects in 2003 
+compared to 50,802 in 1994.
+     
+* Matters concluded by U.S. magistrate increased by 
+a yearly average of 6% from 1994-2003.
+     
+Sixty-two percent of suspects were prosecuted by U.S.
+attorneys in 2003, up from 54% in 1994.
+
+* The median time from receipt of a matter to its 
+disposition (prosecution, declination, disposal by 
+U.S. magistrate)decreased from just over 3 months in 
+1994 to less than 2 months in 2003. 
+     
+* The number of suspects in matters declined decreased 
+from 36% of matters concluded in 1994 to 26% in 2003.
+
+Judicial and sentencing trends
+
+I. Initial hearing/Pretrial release
+
+The number of defendants terminating pretrial services
+increased by an average of 6% each year from 1994 
+to 2003. 
+
+The number of defendants detained at anytime prior 
+to trial increased by an annual average of 9%.
+
+* Nearly a third of detained defendants terminating 
+pretrial services were charged with a drug offense.
+     
+* Defendants charged with immigration offenses had 
+the largest increase of those receiving pretrial 
+detention.
+     
+* The percent of defendants detained prior to case 
+termination increased from 58% in 1994 to 76% by 
+2003.
+
+Five Federal judicial districts along the Southwest 
+U.S. border comprised 48% of the growth in persons 
+detained at any time prior to trial from 1994 to 
+2003.
+
+Unsecured bond remained the primary method of release
+for defendants released any time prior to case 
+disposition during the 1994-2003 period.
+
+A greater percentage of defendants released prior 
+to trial violated a condition of their release
+(technical violation, new crime, failure to appear) 
+in 2003 (20%) compared with 1994 (15%).
+
+Most defendants in pretrial cases commenced from 
+1994-2003 had a prior conviction.
+
+* The proportion of pretrial defendants with a prior 
+conviction at initial hearing has been increasing.
+
+The characteristics of defendants with a prior 
+conviction varied modestly from all offenders.
+
+II. Cases filed and terminated in U.S. district 
+court
+
+From 1994 to 2003, 23% of criminal cases were filed 
+in Federal judicial districts along the Southwest 
+U.S. Border
+
+Defendants in criminal cases concluded in U.S. 
+district court increased at a yearly average of 4% from 
+1994 to 2003 with immigration offenses increasing at 
+the greatest rate.
+
+* The percent of defendants convicted increased for 
+all types of felonies.
+
+Three Federal judicial districts had a trial rate 
+(percent of bench or jury trials of all concluded cases) 
+that was more than double the national average of 6% 
+from 1994-2003. Three districts had a trial rate that 
+was less than half the national average.
+
+The proportion of all defendants convicted in the Federal
+courts increased from 83% during 1994 to 89% in 2003.
+
+* The median case processing time from case filing to
+disposition increased from 5 months in 1994 to 6 months 
+in 2003.
+     
+* Cases concluded before a jury declined from 4,639 
+in 1994 to 2,909 in 2003.
+
+In 2003 the most common types of counsel at case
+termination were public defender and Criminal Justice Act
+appointed counsel.
+
+Type of counsel at case termination varied by type 
+of offense:
+
+* In 2003 more than 40% of the caseload for Criminal 
+Justice Act-appointed and private counsel was made up 
+of drug offenses.
+
+* Immigration offenses comprised almost one-third of the
+caseload for public defenders in 2003. 
+
+Defendants convicted in U.S. District courts in 1996
+differed from those convicted in 2003.
+
+III. Defendants sentenced
+
+Seventy-six percent of sentenced defendants received 
+some imprisonment in 2003 compared with 65% in 1994.
+
+* The percent of sentenced defendants receiving a prison
+sentence increased across all felony offenses
+for the 10-year period.
+     
+During 2003 the average prison sentence was greatest 
+for violent (98 months), weapons (84 months), and drug 
+offenders (82 months).
+
+The average prison sentence imposed decreased from 63
+months in 1994 to 59 months in 2003.
+    
+* The number of defendants sentenced to prison increased 
+at a yearly average of 7% over the 10-year period.
+
+Probation-only sentences imposed decreased at an annual
+average of 1% across the 10-year period.
+
+Most Federal judicial districts (81 out of 94) sentenced
+defendants within the ranges determined by the U.S.
+Sentencing Guidelines at least 60% of the time from
+1994-2003.
+
+Defendants convicted and sentenced for property and violent
+offenses were more likely to be sentenced within the ranges
+determined by the U.S. Sentencing Guidelines than defendants
+convicted of drug or immigration offenses from 1994-2003.
+
+* The percent of immigration offenders sentenced within the
+guidelines decreased from 91% in 1994 to 69% in 2003.
+
+Sixty-nine percent of defendants sentenced in 2003 received
+sentences within ranges set forth under the Federal
+sentencing guidelines (compared with 72% in 1994).
+
+* Substantial assistance departures (where a defendant
+receives a reduction in the guideline sentence for assisting
+the Government) comprised 16% of sentences in 2003
+compared with 20% in 1994.
+     
+* One percent or less of defendants sentenced between 1994
+and 2003 received an upward departure (where a defendant
+receives a more severe sentence due to aggravating factors).
+
+The percent of drug offenders sentenced who received a
+statutory minimum sentence of 5 years or more under the
+Federal sentencing guidelines decreased from 66% in 1996
+to 60% in 2003.
+
+Just over half (54%) of defendants sentenced under the
+Federal sentencing guidelines from 1994-2003 were
+assigned the lowest criminal history score level as
+determined by the guidelines at sentencing.
+
+The safety valve provision permits the court to impose 
+a sentence without regard to the statutory drug minimum
+taking into account the defendant's criminal history, 
+role in offense and cooperation with authorities as well 
+as whether offense involved death/injury, weapons or 
+violence (see: 18 U.S.C. sec. 3553(f)).
+
+Drug defendants in 3 Federal judicial districts received 
+the safety valve provision at nearly double the national 
+rate of 30%.
+
+The safety valve provision was increasingly used for 
+drug offenders over this period: 38% of drug defendants 
+received the safety valve provision in 2003 compared 
+with 25% in 1998.
+
+Some offenders assisting the Government in investigations
+and prosecution of others met the criteria for a reduction 
+in sentence under Rule 35(b) of the Federal Rules of 
+Criminal Procedure. 
+
+* Twenty-nine percent of Rule 35(b) defendant
+resentencings from 1992 to 2001 occurred in four
+Federal judicial districts.
+
+Between 1992 and 2001, average sentence length
+reductions for prisoners resentenced under 
+Rule 35(b) ranged from 36% to 43%.
+
+IV. Cases appealed
+
+Guideline-based appeals comprised 85% of appeals
+terminated from 1994-2003.
+
+Criminal appeals increased an annual average of 2% from
+1994-2003 with the bulk of this growth occurring among
+appellants with an immigration offense as the most serious
+offense of conviction.
+
+* The rate of appeals per 100 convictions decreased
+from 21 appeals per 100 convictions in 1994 to 16
+appeals per 100 convictions in 2003.
+     
+* The rate of appeals for drug offenses decreased the
+most over this period.
+
+Most criminal appeals terminated from 1994 to 2003
+(77%) were terminated on the merits of the case;
+and, of these, the majority (85%) affirmed the
+decision of the lower court in whole or in part.
+
+Corrections trends
+
+I. Offenders in the custody and under the jurisdiction
+of the Federal Bureau of Prisons
+
+Most offenders under the jurisdiction of the Federal
+Bureau of Prisons were classified as medium or
+Low custody from 1995-2003.
+
+Offenders under the jurisdiction and in custody of the
+Federal Bureau of Prisons increased at similar rates
+from 1994 to 2003-an average annual rate of 7%.
+
+II. Offenders in the custody of the Federal Bureau of
+Prisons
+
+Drug offenders comprised 57% of the Federal prison
+population in 2003 compared with 61% in 1994. Immigration
+(24%) and weapon offenders (10%) increased at the greatest
+rate from 1994 to 2003.
+
+Characteristics of the Federal prison population changed
+moderately from 1994 to 2003.
+
+Male offenders comprised 93% of inmates in the custody of
+the Federal Bureau of Prisons in 2003 and increased an
+annual average of 7% from 1994 to 2003; females comprised
+7% of inmates in 2003 and increased by an annual average
+of 6% from 1994 to 2003.
+
+Twenty-six percent of offenders in the custody of the
+Federal Bureau of Prisons in 2003 had been
+incarcerated more than 5 years compared with 9% of
+offenders in 1994.
+
+Inmates 50 years and older comprised 13% of the
+population in the custody of the Federal Bureau of
+Prisons and 22% of the inmates who had served 5 years
+or more at fiscal yearend 2003.
+
+Expected time to be served in Federal prison increased an
+average of 5% each year (1987-2003) from 23 months in
+1987 to 48 months in 2003. 
+      
+* Actual time served also increased an average of 5%
+each year over the same period from 15 months in
+1987 to 33 months in 2003.  Expected time to be
+served in Federal prison increased an average of 5%
+each year (1987-2003) from 23 months in 1987 to 48
+months in 2003.
+
+Of offenders who had been released from Federal prison
+for the first time, the average prison time served was 
+33 months in 2003 compared with 25 months in 1994. 
+
+* Increases in average time served were greatest for 
+weapon offenders followed by immigration, 
+and drug offenders.
+
+III. Offenders on Federal supervision
+
+The number of offenders on supervision (probation,
+supervised release, and parole) increased an average 
+of 3% per year from 1994 to 2003.
+
+* More than two of three offenders on Federal supervision 
+in 2003 were on supervised release.
+
+Drug offenses surpassed property offenses as most
+common offense of offenders under Federal supervision.
+
+* Forty-two percent of defendants under supervision were
+convicted of drug offenses in 2003 compared with 32% in
+1994.
+
+Offenders under supervised release increased at an
+average annual rate of 9% between 1994 and 2003.
+
+Characteristics of offenders under Federal supervision from
+1994-2003 varied by type of supervision. For example, 23%
+of offenders on probation at yearend 2003 had a known
+drug history compared to 47% of offenders on supervised
+release and 44% of offenders on parole.
+
+Drug offenders under Federal supervision increased from
+30,198 in 1994 to 47,826 in 2003.
+
+Five Federal judicial districts along the Southwest U.S.
+border and the Central district of California comprised 32%
+of the growth in offenders under Federal supervision from
+1994 to 2003.
+
+Parolees were more likely to violate conditions of
+supervision (technical violation, new crime) than
+offenders on supervised release or probation in 2003.
+
+Notes
+
+Figure notes
+
+Figure 1, p. 1. Shows the top five offenses in terms of 
+net and percent growth in suspects arrested and booked by 
+the U.S. Marshals Service from 1994-2003. Source: U.S. 
+Marshals Service, Prisoner Tracking System, fiscal year.
+
+Figure 2, p. 2. The following districts are not shown on map:
+District of Columbia (2-6%); Puerto Rico (<1%); Guam (<1%);
+Virgin Islands (<1%); Northern Mariana Islands (<1%). The
+Western District of North Carolina did not report arrests in
+1994. The map shows the percent distribution of the net
+increase in arrests between 1994 and 2003 (50,334) by
+Federal judicial district. Percentages shown are rounded.
+Source: U.S. Marshals Service, Prisoner Tracking System,
+fiscal year.
+
+Figure 3, p. 3. Source: U.S. Marshals Service, Prisoner
+Tracking System, fiscal year.
+
+Figure 4, p. 4. Citizenship status was missing in 13% of
+cases in 1994, 9% in 1998, and 7% in 2003. Yearly average
+of 9% missing citizenship status (1994-2003). Source: U.S.
+Marshals Service, Prisoner Tracking System, fiscal year.
+
+Figure 5, p. 4. A total of 1,044,078 suspects were arrested
+and booked by U.S. Marshals from 1994-2003. Of these, 9%
+were missing country of citizenship (948,077). Of cases with
+country of citizenship, 35% were non-U.S. Citizens. These
+327,825 arrests are displayed by country of citizenship in
+map. Percentages based on non-missing cases. Source: U.S.
+Marshals Service, Prisoner Tracking System, fiscal year.
+
+Figure 6, p. 5. Source: Drug Enforcement Administration
+Defendant Statistical System, fiscal year.
+
+Figure 7, p. 6. Percent distribution based on total 
+number of methamphetamine arrests by the Drug Enforcement
+Administration (N=59,903) by State. Not shown on map:
+Alaska (0.2%); Guam (0.4%); Hawaii (1.3%); Virgin Islands,
+and Puerto Rico (each < 0.1%). Source: Drug Enforcement
+Administration Defendant Statistical System, fiscal year.
+
+Figure 8, p. 7. Matters referred to U.S. attorneys by 
+selected offenses. A matter is a referral that an 
+assistant U.S. attorney spends more than 1 hour 
+investigating. The most serious offense investigated 
+is based on the criminal lead charge as determined by 
+the assistant U.S. attorney for the criminal
+matter. Source: Executive Office for U.S. Attorneys, 
+Central System File, fiscal year.
+
+Figure 9, p. 8. Illegal reentry includes: 8 U.S.C. § 
+1326; Illegal entry 8 U.S.C. § 1325; alien smuggling 
+8 U.S.C. §§ 1322-1324, 8 U.S.C. § 1327; and misuse of 
+visas 18 U.S.C. § 1546, 8 U.S.C. §§ 1252-1253, 8 U.S.C. 
+§§ 1321 (lead charge). Source: Executive Office for 
+U.S. Attorneys, Central System File, fiscal year.
+
+Figure 10, p. 8. Percent distribution based on total 
+number of immigration (as lead charge) matters referred 
+to U.S. attorneys from 1994-2003 (N=127,550) by Federal 
+judicial district. Not shown on map: District of Columbia, 
+Guam, Northern Mariana Islands, Puerto Rico, and Virgin 
+Islands (each representing less than 1%). Source: 
+Executive Office for U.S. Attorneys, Central System 
+File, fiscal year.
+
+Figure 11, p. 9. Drug trafficking includes: 21 U.S.C. § 841
+and 21 U.S.C § 960; Conspiracy includes: 21 U.S.C. § 846 &
+21 U.S.C § 963; "Other drug offenses" include: drug
+possession, protected location offenses, manufacturing
+offenses, continuing criminal enterprise offenses,
+sale/importation of drug paraphernalia, and transhipment of
+controlled substances (lead charge). Source: Executive Office
+for U.S. Attorneys, Central System File, fiscal year.
+
+Figure 12, p. 9. Percent distribution based on number of drug
+matters referred to U.S. attorneys (as lead charge) from
+1994-2003 with non-missing data (350,215) by Federal
+judicial district. Not shown on map: Puerto Rico (1.4%);
+District of Columbia (1.1%); Virgin Islands and Northern
+Mariana Islands (each < 1%). Source: Executive Office for
+U.S. Attorneys, Central System File, fiscal year.
+
+Figure 13, p. 10. The following statutes were used to classify
+firearms into three categories: 18 U.S.C. §§ 922-924; 18
+U.S.C §§ 929-930, 26 U.S.C § 5812, 26 U.S.C § 5822, 26
+U.S.C § 5841, 26 U.S.C § 5842, 26 U.S.C § 5861 (lead
+charge). See Appendix Table 3 in Federal Firearm Offenders,
+1992-98 (BJS Special Report, NCJ 180795, 2000). Note:
+Firearms matters are a subset of weapon referrals shown in
+Table 6. Source: Executive Office for U.S. Attorneys, Central
+System File, fiscal year.
+
+Figure 14 , p. 10. Percent distribution based on number of
+firearm (as lead charge) matters referred to U.S. attorneys
+from 1994 to 2003 with non-missing data (75,135) by Federal
+judicial district. Not shown on map: District of Columbia (2%);
+Guam, Virgin Islands, Puerto Rico, Northern Mariana Islands
+(each < 1%). Source: Executive Office for U.S. Attorneys,
+Central System File, fiscal year.
+
+Figure 15, p. 11. Excludes matters which were declined
+immediately. Source: Executive Office for U.S. Attorneys,
+Central System File, fiscal year.
+
+Figure 16, p. 12. Includes defendants who terminated pretrial
+services during fiscal years 1994-2003. Includes only those
+defendants whose cases were filed by complaint, indictment,
+or information. Source: Pretrial Services Agency, Pretrial
+Services Act Information System, fiscal year.
+
+Figure 17, p. 13. The following districts are not shown: Puerto
+Rico, Guam, Virgin Islands, and Northern Mariana Islands
+(each <1%). Based on net increase in pretrial detention
+between  1994 and 2003 (31,557). The percent distribution of
+this net difference is shown by Federal judicial district. Source:
+Pretrial Services Agency, Pretrial Services Act Information
+System data base, fiscal year.
+
+Figure 18, p. 13. Includes defendants released prior to trial
+during the fiscal year. Source: Pretrial Services Agency,
+Pretrial Services Act Information System, fiscal year.
+
+Figure 19, p. 15. Includes defendants who had an initial
+hearing in U.S. district court from 1994-2003. Prior criminal
+history is determined only for those defendants whose PSA
+records explicitly showed no prior conviction. Source: Pretrial
+Services Agency, Pretrial Services Act Information System,
+fiscal year. 
+
+Figure 20, p. 16. Shows the percent distribution of cases filed
+calculated by summing the number of cases filed in each
+district and displaying the percent contribution to the overall
+total by Federal judicial district. The following districts are not
+shown: Puerto Rico, Guam, Virgin Islands, Northern Mariana
+Islands, and the District of Columbia (comprising 3% of all
+cases filed). Percents are rounded. Source: Administrative
+Office of the U.S. Courts, Criminal Master File, fiscal year.
+
+Figure 21, p. 17. The trial rate is computed for each district by
+dividing the number of cases concluded in which a bench or
+jury trial occurred into the total number of cases concluded in
+that district. The following districts are not shown: Puerto Rico,
+Guam, Virgin Islands, Northern Mariana Islands, and the
+District of Columbia (trial rates range from 6% to 12%). The
+displayed percent is rounded. The District of Columbia had a
+trial rate of 12%. Source: Administrative Office of the U.S.
+Courts, Criminal Master File, fiscal year.
+
+Figure 22, p. 18. Type of counsel at the time of case
+termination. A total of 4% of cases concluded from 1994-2003
+were missing type of counsel. Source: Administrative Office
+of the U.S. Courts, Criminal Master File, fiscal year.
+
+Figure 23, p 20. Average prison sentence imposed on
+defendants convicted and sentenced to any prison term
+during the fiscal year. Source: Administrative Office of the
+U.S. Courts, Criminal Master File, fiscal year.
+
+Figure 24, p. 22. Map shows the rate at which a Federal
+judicial district imposed sentences within ranges as
+determined by the U.S. Sentencing Guidelines. The rate is
+computed by dividing the number of sentences that were
+within guideline range by the total number of sentences
+imposed during fiscal years 1994-2003 (based on
+non-missing data).  The following districts were missing 5% or
+more of departure information: C. District of CA (38%); E.
+District of VA (25%); S. District of CA (18%); E. District of NY
+(15%); W. District of WA (16%); District of UT (15%): District
+of OR (11%); M. District of TN (10%); M. District of GA (10%);
+District of GU (9%); W. District of NC (9%); M. District of AL
+(8%); W. District of KY (8%); S. District of NY (7%); N. District
+of CA (8%); District of CO (7%); N. District of NY (7%); S.
+District of FL (7%); District of PR (7%); S. District of GA (6%);
+N. District of IN 6%); and, N. District of IL (5%). Overall, 6%
+of cases from 1994-2003 were missing departure information.
+The displayed percent is rounded. Source: U.S. Sentencing
+Commission, Monitoring Data Base. 
+
+Figure 25, p. 22. Percent of defendants sentenced within
+ranges determined by the U.S. Sentencing Guidelines based
+on non-missing data. A maximum of 9% of cases were
+missing departure information for a particular year. Source:
+U.S. Sentencing Commission, Monitoring Data Base.
+
+Figure 26, p. 23. Includes defendants sentenced under
+Chapter 2, Part D of the U.S. Sentencing Guidelines:
+Trafficking, protected locations, continuing criminal enterprise,
+communications facility, rent/manage drug establishment, and
+simple possession. Percentages based on non-missing
+cases. Less than 1% of cases missing information on
+mandatory-minimum sentence. Source: U.S. Sentencing
+Commission, Monitoring Data Base.
+
+Figure 27, p. 24. Figure depicts the sentencing grid used to
+determine sentence imposed. Along the vertical axis are 43
+offense levels which are ranked in terms of severity of offense
+from least (1) to most (43). Each Federal offense is
+associated with an offense severity score. The offense level
+is subject to modification depending upon aggravating and
+mitigating factors. The horizontal axis shows the defendant's
+criminal history score. A criminal history score of 1
+corresponds to the mildest criminal history (including no prior
+convictions/arrests). The criminal history score increases with
+the magnitude and/or seriousness of the defendant's prior
+criminal history. The sentencing grid (shown in figure) is used
+to locate the cell corresponding to the defendant's final
+offense severity score and criminal history score. A frequency
+of the final cell used to determine the defendant's sentence
+was generated for all defendants sentenced under the
+Federal guidelines from 1994 to 2003. This distribution is
+shown in figure. For example, 3% of all defendants sentenced
+under the guidelines from 1994 to 2003 were sentenced in the
+cell corresponding to an offense severity score of 6 and a
+criminal history score of 1. Darker shading refers to cells with
+a relatively greater share of the total percent of sentences
+imposed across this 10-year period. Lighter shading refers to
+cells with a relatively lesser share of the total sentences
+imposed. Of 530,433 defendants sentenced, 31,727 were
+missing information on offense severity/criminal history score.
+A small share of defendants were sentenced under more than
+one guideline and are not displayed. There were a total of
+498,706 cases with complete information on final criminal
+history score and offense severity score. Source: U.S.
+Sentencing Commission, Monitoring Data Base.
+
+Figure 28, p. 25. Map shows the rate for each Federal judicial
+district of sentenced drug offenders who received a safety
+valve provision. For example Title 18 §3553(f), provides for
+relief from statutory minimum sentences with 1) Government's
+recommendation and 2) if the defendant meets the following
+criteria: no more than 1 criminal history point, no use of
+violence or credible threats of violence or possess a firearm
+or other dangerous weapon in connection with offense;
+offense did not result in death or serious bodily injury to any
+person; defendant was not an organizer, leader, manager, or
+supervisor of others in the offense and was not engaged in
+continuing criminal enterprise; defendant has truthfully
+provided to the Government. Percents based on non-missing
+data. Missing ranged from 6% of cases in 1994 to 12% in
+2003 (missing safety valve and/or complete guideline
+application information). Source: U.S. Sentencing
+Commission, Monitoring Data Base.
+
+Figure 29, p. 26. The map shows the distribution of
+resentencing under Rule 35(b) by Federal judicial district.
+Rule 35(b) of the Federal Rules of Criminal Procedure permits
+the reduction of sentence for substantial assistance to the
+Government. Upon the Government's motion within 1 year of
+sentencing, the court may reduce the offender's sentence if
+the offender provided substantial assistance in the
+investigation or prosecution of another person and that the
+reduction in sentence complies with the Federal sentencing
+guidelines and policy statement by the U.S. Sentencing
+Commission. The Government may make a motion more than
+1 year after sentencing to reduce the sentence of an offender
+if the information wasn't known to the defendant 1 year or
+more after sentencing or the information provided to the
+Government within 1 year of sentencing did not become
+useful to the Government until more than 1 year after
+sentencing. Source: Federal Bureau of Prisons (BOP), online
+Sentry System.
+
+Figure 30, p.27. Figure excludes other guideline based
+appeals. Source: Administrative Office of the U.S. Courts,
+Appeals database.
+
+Figure 31, p. 28. Source: Administrative Office of the U.S.
+Courts, Appeals database.
+
+Figure 32, p. 28. Figure excludes other dispositions. Source:
+Administrative Office of the U.S. Courts, Appeals database. 
+
+Figure 33, p. 29. The number of offenders under BOP
+jurisdiction in 1994 is for period ending Dec. 31st. Source:
+Federal Bureau of Prisons as reported in Prisoners in 1994,
+BJS Bulletin <www.ojp.usdoj.gov/bjs>. The number of
+offenders under BOP jurisdiction from 1995-2003 is for period
+ending Sept. 30th. Source: Federal Bureau of Prisons, State
+of the Bureau, <www.bop.gov>. The number of offenders
+under BOP custody from 1994-2003 is for period ending Sept.
+30th. Source: Federal Bureau of Prisons as reported in the
+Compendium of Federal Justice Statistics,
+<www.ojp.usdoj.gov/bjs>.
+
+Figure 34, p. 29. Source: Federal Bureau of Prisons, online
+Sentry System.
+
+Figure 35, p. 31. Data include offenders sentenced in Federal
+courts (excludes persons committed by the D.C. Superior
+Court). Source: Federal Bureau of Prisons, online Sentry
+System.
+
+Figure 36, p. 32. Percentages based on non-missing cases.
+Data include offenders sentenced in Federal courts (excludes
+persons committed by the D.C. Superior Court). Source:
+Federal Bureau of Prisons, online Sentry System.
+
+Figure 37, p. 33. Time served calculated from prisoner's
+arrival into BOP jurisdiction until first release from prison, 
+plus any jail time served and credited. Note: Beginning in 
+2000, average time served is calculated for offenders in BOP
+custody and offenders in contract and private facilities, 
+but not those committed for violations of the District of 
+Columbia criminal code. Source: Federal Bureau of Prisons, 
+online Sentry System, fiscal year. 
+
+Figure 38, p. 34. Note:  Data for 1987 through 1994 are
+based on a count of the supervised population as of June 30.
+Beginning in 1995 data are based on a count as of September
+30. Source: Administrative Office of the U.S. Courts, Federal
+Probation and Supervision Information System (FPSIS), fiscal
+year.
+
+Figure 39, p. 35. Source: Administrative Office of the U.S.
+Courts, Federal Probation and Supervision Information
+System, fiscal year.
+
+Figure 40, p. 37. The difference was taken between the
+number of inmates under Federal supervision at fiscal
+yearend 1994 and in 2003. This difference provides the net
+growth for offenders under Federal supervision between 1994
+and 2003 and the percent distribution of the net growth is
+displayed by Federal judicial district on the map. Source:
+Administrative Office of the U.S. Courts, Federal Probation
+and Supervision Information System, fiscal year.
+
+Table notes
+
+Table 1, p. 1. Percentages based on non-missing cases.
+Missing comprised less than 1% for each year. Source: U.S.
+Marshals Service (USMS) Prisoner Tracking System (PTS),
+fiscal year.
+
+Table 2, p. 2. Percentages based on non-missing cases. In
+1994 the following were missing: citizenship (13%), and
+gender, age, and race (each <2%). In 2003 missing included
+citizenship 
+Notes
+
+(7%) and gender, age, and race (each <2%). Source: U.S.
+Marshals Service (USMS), Prisoner Tracking System.
+
+Table 3, p. 3. Percentages based on non-missing cases. In
+1994 missing included citizenship (6%), and gender, age and
+race (each <1%). In 2003 missing included citizenship (5%),
+and gender, age, and race (<1%). Information on suspect
+ethnicity not available. Source: U.S. Marshals Service
+(USMS), Prisoner Tracking System.
+
+Table 4, p. 5. Other or non-drug includes paraphernalia and
+other items. Source: Drug Enforcement Administration (DEA),
+Defendant Statistical System.
+
+Table 5, p. 6. Percentages based on non-missing cases.  The
+following describes the maximum missing data for each
+variable across offense categories: sex (<1%), race (< 4%),
+ethnic (< 9%), age (<2%), and citizenship (<6%). 1995 is the
+base year due to missing demographic data for 1994. Source:
+Drug Enforcement Administration (DEA), Defendant Statistical
+System.
+
+Table 6, p. 7. Percentages based on non-missing cases.
+About 1% of cases each year are missing offense information.
+Source: Executive Office for the U.S. Attorney, Central
+System File.
+
+Table 7, p. 11. Only records which show a matter terminated
+by reason of declination, disposition by a U.S. Magistrate, or
+filed as a case in U.S. district court were selected. Matters
+"declined immediately" C those cases in which the U.S.
+attorney spent less than 1 hour investigating C were excluded.
+Source: Executive Office for U.S. Attorneys, Central System
+File, fiscal year. 
+
+Table 8, p. 12. Detained defendants included defendants who
+were detained at any time prior to case termination. Totals
+include defendants whose offense category could not be
+determined. Source: Pretrial Services Agency, Pretrial
+Services Act Information System, fiscal year.
+
+Table 9, p. 14. Total includes defendants whose offense
+category could not be determined. Source: Pretrial Services
+Agency, Pretrial Services Act Information System, fiscal year.
+
+Table 10, p. 15. Source: Pretrial Services Agency, Pretrial
+Services Act Information System, fiscal year. 
+
+Table 11, p. 16. Most serious offense is based on the offense
+carrying the maximum statutory penalty. Includes defendants
+whose offense category could not be determined. See
+Methodology for a listing of detailed offense categories within
+each major offense category. Source: Administrative Office of
+the U.S. Courts, Criminal Master File, fiscal year.
+
+Table 12, p. 17. Case processing time is computed from case
+filing to disposition. Source: Administrative Office of the U.S.
+Courts, Criminal Master File, fiscal year.
+
+Table 13, p. 18. Note: Most serious offense is based on the
+disposition offense with the most severe sentence.
+Includes offenders whose offense category could not be
+determined or whose sentence was unknown. Source:
+Administrative Office of the U.S. Courts, Criminal Master File,
+fiscal year.
+
+Table 14, p. 19. Percentages based on non-missing cases.
+Offender characteristics could not be determined for
+16%-20% of defendants across characteristics in 1996. In
+2003 missing information comprised less than 1% across
+characteristics. Table was created by matching the AOUSC
+master data files with the U.S. Senten-cing Commission
+(USSC) monitoring system files and the Pretrial Services
+Agency (PSA) data files. Source: Compendium of Federal
+Justice Statistics, <www.ojp.usdoj.gov/bjs>.
+
+Table 15, p. 20. Percentages based on non-missing cases.
+Missing data comprised less than 1% for each year. Source:
+Administrative Office of the U.S. Courts, Criminal Master File,
+fiscal year.
+
+Table 16, p. 21. Note: Most serious offense is based on the
+disposition offense with the most severe sentence.
+Includes offenders whose offense category could not be
+determined or whose sentence was unknown. Source:
+Administrative Office of the U.S. Courts, Criminal Master File,
+fiscal year.
+
+Table 17, p. 21. Source: Administrative Office of the U.S.
+Courts, Criminal Master File, fiscal year.
+
+Table 18, p. 23. Percentages based on non-missing cases.
+Four percent of cases sentenced in 1994 were missing
+departure information and/or offenses information. In 2003,
+8% of cases were missing departure and/or offense
+information. Downward departure category includes
+Government-initiated departures. Source: U.S. Sentencing
+Commission, Monitoring Data Base.
+
+Table 19, p. 25. Percents are based on non-missing data.
+Includes defendants sentenced under Chapter 2, Part D of the
+U.S. Sentencing Guidelines: Trafficking, protected locations,
+continuing criminal enterprise, communications facility,
+rent/manage drug establishment, and simple possession. Six
+percent of cases in 1994 were missing safety valve and/or
+complete guideline application information.  In 2003 12% of
+cases were missing safety valve and/or guideline application
+information. Source: U.S. Sentencing Commission, Monitoring
+Data Base.
+
+Table 20, p. 26. Source: Database with special data set
+covering all prisoner admissions 1986-1997 and subsequently
+updated with annual Federal Bureau of Prisons, online Sentry
+System to capture resentencing.
+
+Table 21, p. 27. Offenses represent the statutory offense of
+conviction against a defendant in a criminal appeal. Includes
+offenders whose offense category could not be determined.
+Number of defendants 
+Notes
+
+convicted derived from 1994 and 2003 defendants in cases
+terminated. Source: Administrative Office of the U.S. Courts,
+Court of Appeals File and Criminal Master File, fiscal year.
+
+Table 22, p. 30. Data includes only offenders sentenced in
+Federal court. Total includes prisoners whose offense
+category could not be determined. Source: Federal Bureau of
+Prisons, online Sentry System, fiscal year.
+
+Table 23, p. 31. Percentages based on non-missing cases.
+Data includes only offenders sentenced in Federal court.
+Source: Federal Bureau of Prisons, online Sentry System,
+fiscal year.
+
+Table 24, p. 32. Percentages based on non-missing cases.
+Data includes only offenders sentenced in Federal court.
+Source: Federal Bureau of Prisons, online Sentry System,
+fiscal year.
+
+Table 25, p. 33. Note: Most serious offense is based on the
+offense having the longest sentence. Starting in 2000 the
+universe for this table includes offenders in BOP custody and
+offenders in contract and private facilities, but not those
+committed for violations of the District of Columbia criminal
+code. Includes prisoners whose offense category could not be
+determined. Source: Federal Bureau of Prisons, online Sentry
+System, fiscal year.
+
+Table 26, p. 34. Most serious offense of conviction is based
+on the offense with the longest sentence imposed. Includes
+offenders under the three major forms of supervision:
+probation, supervised release, and parole. Includes offenders
+whose offense category could not be determined. Excludes
+organizational defendants. Source: Administrative Office of
+the U.S. Courts, Federal Probation and Supervision
+Information System.
+
+Table 27, p. 35. Percentages based on non-missing cases.
+Excludes organizational defendants. Source: Administrative
+Office of the U.S. Courts, Federal Probation and Supervision
+Information System.
+
+Table 28, p. 36. Percentages based on non-missing cases.
+Excludes organizational defendants. Source: Administrative
+Office of the U.S. Courts, Federal Probation and Supervision
+Information System.
+
+Table 29, p. 37. Percentages based on non-missing cases.
+Excludes organizational defendants. Source: Administrative
+Office of the U.S. Courts, Federal Probation and Supervision
+Information System.
+
+Methodology
+
+The Federal justice database
+
+The source of data for all tables in Federal
+Criminal Justice Trends is the Bureau of
+Justice Statistics (BJS) Federal justice
+database. The database is constructed from
+source files provided by the U.S. Marshals
+Service (USMS), the Drug Enforcement
+Administration (DEA), the Executive Office
+for U.S. Attorneys (EOUSA), the
+Administrative Office of the U.S. Courts
+(AOUSC), the United States Sentencing
+Commission (USSC), and the Federal
+Bureau of Prisons (BOP).  AOUSC also
+maintains the data collected by the U.S.
+Court of Appeals and the Federal Probation
+and Supervision Information System
+(FPSIS). 
+
+The universe of the BJS Federal justice
+database includes criminal suspects
+investigated for violations of Federal criminal
+law, criminal suspects arrested for violations
+of Federal criminal law, defendants in
+Federal pretrial cases opened, defendants in
+cases filed in U.S. district courts, and
+offenders entering Federal corrections and
+correctional supervision.
+
+Wherever possible matters or cases were
+selected based on an event that occurred
+during each fiscal year (October 1 through
+September 30) from 1994 through 2003. 
+
+The offense classification procedure used in
+this report is based on the classification
+system followed by the AOUSC. Specific
+offenses in the AOUSC classification are
+combined to form the BJS categories shown
+in this report's tables (see Compendium of
+Federal Justice Statistics, 2003 (NCJ
+210299) available on-line from the Bureau of
+Justice Statistics website.
+
+Felony and misdemeanor distinctions are
+provided where possible. Felony offenses
+are those with a maximum penalty of more
+than 1 year in prison. Misdemeanor offenses
+have a maximum penalty of 1 year or less. 
+
+Offenses in the tables are classified, at the
+most general level, into felony and
+misdemeanor categories. Felonies are
+divided into six main level offense
+classifications: violent, property, drug,
+public-order, weapon and immigration
+offenses. Property and public-order offenses
+have two sub-levels. The main-level and
+sub-group categories are composed of
+individual offense types. When possible drug
+offenses are divided into the individual
+offense level.
+
+"Other public-order offenses" include detail at
+the individual offense type level. Table M.1
+shows a list of specific offenses under each
+offense category.   
+
+End of file
+08/30/06 ih

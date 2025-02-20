@@ -1,0 +1,577 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+-----------------------------------------------------------------
+
+This file is text only without graphics and many of the 
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5828
+
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to http://www.bjs.gov/index.cfm?ty=pbse&sid=75
+-----------------------------------------------------------------
+
+**********
+Bulletin
+*********
+
+*********************************
+Publicly Funded Forensic Crime
+Laboratories: Quality Assurance
+Practices, 2014
+*********************************
+
+Andrea M. Burch and Matthew R. Durose, BJS Statisticians
+Kelly Walsh and Emily Tiry, Urban Institute
+
+As of December 31, 2014, 88% of the nation’s 409 publicly funded 
+forensic crime laboratories were accredited by a professional
+forensic science organization, compared to 82% in 2009 and 70% 
+in 2002 (figure 1). Similar to previous years, state labs were 
+more likely to be accredited than labs operated by other 
+jurisdictions. Since 2002, the proportion of accredited crime 
+labs increased among all jurisdictions. The most growth occurred 
+among municipal labs, which increased from 44% in 2002 to
+67% in 2014.
+
+This report presents data from the Bureau of Justice Statistics’ 
+(BJS) 2014 Census of Publicly Funded Forensic Crime Laboratories 
+(CPFFCL) and provides comparisons with data from prior years. The 
+report describes the quality assurance practices of U.S. crime 
+labs, such as accreditation, proficiency testing, written 
+standards for performance expectations, codes of ethics, 
+externally certified personnel, and resources dedicated to 
+research. For information on lab operations, functions, budgets, 
+personnel, workload, and outsourcing, see Publicly Funded 
+Forensic Crime Laboratories: Resources and Services, 2014
+(NCJ 250151, BJS web, November 2016).
+
+
+****************************************************
+***************
+HIGHLIGHTS
+****************
+
+* In 2014, 88% of the nation’s crime labs were accredited by a 
+professional organization, up from 70% in 2002.
+
+* State crime labs were more likely to be accredited than labs 
+operated by other jurisdictions in 2014.
+
+* In 2014, more crime labs held accreditation by the American 
+Society of Crime Lab Directors/Laboratory Accreditation Board, 
+International (ASCLD/LAB, International) (73%) than any other 
+type of accreditation.
+
+* As in previous years, nearly all (98%) crime labs conducted 
+proficiency testing in 2014.
+
+* Seventy-five percent of crime labs had written standards for 
+employee performance expectations in 2014.
+
+*In 2014, 94% of crime labs maintained a written code of ethics.
+
+* A larger proportion of crime labs employed at least one 
+externally certified analyst in 2014 (72%) than in 2009 (60%).
+
+* The proportion of crime labs that dedicated resources 
+to research doubled from 7% in 2009 to 14% in 2014
+
+*****************************************************
+
+Crime labs receive requests from criminal justice agencies to 
+examine and report on physical evidence collected during criminal 
+investigations. In 2014, U.S. crime labs received an estimated 
+3.8 million requests for forensic services (see Publicly Funded 
+Forensic Crime Laboratories: Resources and Services, 2014, NCJ 
+250151, BJS web, November 2016). Forensic findings and expert 
+opinions are often presented in legal proceedings and play a 
+critical role in the administration of justice. To ensure the 
+accuracy and dependability of their work, crime labs use quality 
+assurance practices. (See Description of quality assurance 
+practices text box.) 
+
+**************************************
+Nearly all (99%) state crime labs 
+were accredited in 2014 
+**************************************
+
+Eighty-eight percent of crime labs were accredited by a 
+professional forensic science organization in 2014 (table 1). 
+During 2014, state crime labs (99%) were more likely than federal 
+(89%), county (85%), and municipal (67%) labs to be accredited by 
+a professional forensic organization.
+
+More than 98% of crime labs employing 25 or more full-time 
+employees were accredited in 2014. In comparison, 90% of crime 
+labs employing between 10 and 24 full-time personnel and 70% of 
+crime labs employing nine or fewer personnel were accredited 
+during the same year.
+
+An estimated 98% of crime labs that performed eight or more 
+forensic functions were accredited in 2014. A larger proportion 
+of single-function (91%) crime labs were accredited than labs 
+performing between two and four forensic functions (81%).
+
+****************************************
+ASCLD/LAB, International was the most 
+common type of accreditation in 2014
+****************************************
+
+Eighty-three percent of crime labs held an international 
+accreditation standard in 2014, with 73% accredited by the 
+American Society of Crime Lab Directors/Laboratory Accreditation 
+Board, International (ASCLD/LAB, International) and 10% 
+accredited by Forensic Quality Services, International (FQS-
+International). ***Footnote 1 ANSI-ASQ National Accreditation 
+Board (ANAB) acquired FQS and is in the process of acquiring 
+ASCLD/LAB, International. See http://anab.org/news/
+latest-news/anab-and-ascldlab-merge-operations/***.
+ International accreditation programs are based on the 
+International Organization for Standardization (ISO) and have 
+more rigorous requirements than noninternational standards. 
+***Footnote 2 ISO develops worldwide standards for a variety of 
+industries to promote quality, safety, and efficiency of products 
+and services. See http://www.iso.org/
+iso/catalogue_detail.htm?csnumber=39883***. Both ASCLD/LAB, 
+International and FQS-International require crime labs to comply 
+with the ISO/International Electrotechnical Commission (IEC) 
+17025 standard, which specifies the requirements for competence 
+to carry out tests and calibrations to produce precise and 
+accurate data.
+
+Since 2009, the proportion of crime labs with an ISO-based 
+accreditation standard increased from 27% to 83%.***Footnote 3 
+See Census of Publicly Funded Forensic Crime Laboratories, 2009 
+(NCJ 238252, BJS web, August 2012)***. The ASCLD/LAB, 
+International’s sunset of the noninternational Legacy 
+Accreditation Program resulted in a significant increase in the 
+proportion of labs with an ISO-based accreditation standard. 
+***Footnote 4 The last applications for ASCLD/LAB, Legacy program 
+were accepted on March 31, 2009. Since then, applications for 
+accreditation or re-accreditation must be in the ASCLD/LAB, 
+International program. Due to the 5-year cycle for 
+recertification, all labs were expected to transition from the 
+ASCLD/LAB, Legacy program to ASCLD/LAB, International by 2015***.
+
+In 2014, state crime labs (90%) were more likely than county 
+(65%), federal (65%), and municipal (43%) crime labs to be 
+accredited by an ISO standard through ASCLD/LAB, International. 
+An estimated 15% of municipal crime labs held FQS-International 
+accreditation, compared to 9% of county and 8% of state labs.
+
+A larger proportion of crime labs employing 25 or more full-time 
+employees were accredited by ASCLD/LAB, International than labs 
+with 24 or fewer employees. Labs with 100 or more full-time 
+employees (31%) were most likely to hold FQS-International 
+accreditation. About 75% of single-function crime labs held 
+ASCLD/LAB, International. In comparison, 2% of single-function 
+crime labs were accredited by FQS-International.
+
+***********************************************************
+*************************
+Description of quality 
+assurance practices
+*************************
+
+Quality assurance practices are systems of management procedures 
+that help improve the validity and reliability of findings by 
+establishing standard processes and methods for conducting 
+forensic work. Forensic crime labs develop quality assurance 
+practices and implement them to reduce errors in forensic 
+techniques and analysts’ interpretation. These practices also 
+help improve consistency across practitioners. Practices such as 
+obtaining professional accreditation, testing the proficiency of 
+analysts, and external certification of analysts are regarded as 
+benchmarks for measuring compliance to industry-established best 
+practices.
+
+Accreditation is the process in which third-party professional 
+forensic science accreditation bodies assess a crime lab’s 
+policies and procedures to evaluate technical competency and 
+ability to generate valid forensic findings and interpret 
+results. The accreditation process includes reviews of the crime 
+lab’s management practices, staff competence, training, 
+continuing education, appropriateness of test methods, 
+maintenance of test equipment, testing environment, handling of 
+test items, sampling, documentation, and quality assurance of 
+data. Professional accreditation organizations periodically 
+monitor accredited labs to ensure crime labs maintain the 
+standards required to remain compliant with industry best 
+practices. Although accreditation does not guarantee that a crime 
+lab will not make an error, it does increase confidence in the 
+lab’s ability to produce valid results by demonstrating that the 
+lab is complying with standard operating procedures.
+
+Proficiency testing is a quality control tool used to examine the 
+performance of the crime lab personnel and to determine whether 
+personnel are following industry standards. To receive and 
+maintain professional accreditation, a crime lab is required to 
+evaluate the technical competence of analysts, other personnel, 
+and the overall performance of the crime lab through proficiency 
+testing. Proficiency tests are conducted internally or externally 
+using declared tests (an examiner knows the sample to be analyzed 
+is a test sample), random case reanalysis (an examiner’s work is 
+randomly selected for reanalysis by another examiner), and blind 
+tests (the examiner or crime lab is not aware of being tested).
+
+Analyst certification is recognition by an external organization 
+that an individual has acquired and demonstrated specialized 
+knowledge, skills, and abilities in the standard practices 
+necessary to perform duties and produce valid forensic findings. 
+While accreditation is a quality assessment of a crime lab, 
+certification is a quality assessment of an individual. External 
+certification programs may assess analysts though exams, 
+proficiency testing, evaluation of education, training and 
+practical experience, adherence to codes of ethics, and other 
+standards.
+************************************************************
+
+1 in 3 crime labs conducted random case reanalysis in 2014 In 
+2014, 98% of crime labs conducted proficiency testing, which was 
+similar to 2009 (97%) and 2002 (97%) (figure 2). As in previous 
+years, nearly all (95%) crime labs evaluated the technical 
+competence of employees through declared examinations. The 
+percentage of crime labs that conducted random case reanalysis in 
+2014 (35%) was similar to that reported in 2009 (34%), but a 
+decrease from 2002 (54%). The proportion of crime labs conducting 
+blind examinations decreased from 27% in 2002 to 10% in both 2009 
+and 2014.
+
+In 2014, federal crime labs (39%) were more likely than county 
+(8%), state (7%), and municipal (5%) labs to test the proficiency 
+of employees through blind examinations (table 2). In addition, 
+federal crime labs (49%) were also more likely to conduct random 
+case reanalysis than labs operated by other jurisdictions.
+
+About 1 in 5 (21%) mid-sized crime labs operating with between 25 
+and 49 full-time employees performed blind proficiency tests. A 
+larger proportion of mid-sized crime labs than labs of other 
+sizes conducted blind proficiency tests. Crime labs with 24 or 
+fewer (5%) full-time employees were less likely than labs with 25 
+or more full-time employees to conduct blind proficiency tests. A 
+larger proportion of crime labs performing a single forensic 
+function (19%) than labs performing two or more functions 
+conducted blind proficiency tests.
+
+An estimated 61% of crime labs with 100 or more full-time 
+employees performed random case reanalysis tests, compared to 
+less than 30% of crime labs with 24 or fewer full-time employees. 
+An estimated 44% of crime labs performing eight or more forensic 
+functions conducted random case reanalysis tests in 2014, 
+compared to about a third of labs performing between five and 
+seven functions (34%), between two and four functions (32%), and 
+a single function (32%).
+
+**************************************
+Municipal crime labs with written 
+standards for performance increased 
+between 2009 and 2014
+**************************************
+
+In 2014, 75% of crime labs had written standards
+for performance expectations, up from 72% in 2009
+(figure 3). Written standards establish a threshold for employee
+performance and ensure that performance measures are
+applied consistently across employees with similar roles.
+Federal crime labs (97%) were more likely than state (83%),
+municipal (75%), and county (51%) labs to have written
+standards for performance in 2014. Between 2009 and 2014,
+the most growth in the proportion of labs with written
+standards for performance expectations occurred in municipal
+crime labs, increasing from 59% to 75%. The proportion of
+county crime labs with written standards of performance
+expectations declined from 59% in 2009 to 51% in 2014.
+
+**************************************
+The majority (94%) of crime labs 
+maintained a written code of ethics 
+in 2014
+**************************************
+
+An estimated 94% of crime labs had a written code of ethics in 
+2014 (table 3). Labs create or adopt ethical codes to improve the 
+quality of forensic findings. Ethical codes guide behaviors to 
+ensure analysts work within the confines of their expertise, 
+provide objective findings and testimony, avoid conflicts of 
+interest, and avoid susceptibility to outside influences. State 
+crime labs (98%) were more likely than county (94%), municipal 
+(87%), and federal (85%) crime labs to have a written code of 
+ethics in 2014. The majority (67%) of crime labs adopted one of 
+many existing code of ethics, while 27% of crime labs created and 
+implemented their own written code of ethics. ***Footnote 5 See 
+National Academies Press Code of Ethics section at 
+http://www.nap.edu/read/12589/chapter/2?term=code#26***.
+ State crime labs (32%) were more likely than county
+(23%) and federal (14%) crime labs to create their own written 
+code of ethics.
+
+**************************************
+More crime labs employed externally 
+certified analysts in 2014 than 
+in 2009
+**************************************
+
+During 2014, 72% of crime labs employed at least one externally 
+certified analyst (figure 4). The proportion of crime labs 
+employing one or more analysts with external certification 
+increased from 60% in 2009 to 72% in 2014 (up 20%). Seventy-eight 
+percent of municipal crime labs employed one or more externally 
+certified analysts in 2014, compared to 70% of state and 63% of 
+federal crime labs. Between 2009 and 2014, state-operated crime 
+labs experienced the largest increase in the proportion of labs 
+employing one or more externally certified analysts. The decrease 
+from 2009 to 2014 in the proportion of federal crime labs with at 
+least one externally certified analyst was not statistically 
+significant.
+
+In 2014, about 9 in 10 crime labs with 50 or more full-time 
+personnel employed at least one externally certified analyst 
+(table 4). In comparison, about 45% of labs with nine or fewer 
+full-time employees employed one or more externally certified 
+analysts in 2014. Crime labs that performed eight or more 
+forensic functions (88%) were more likely than crime labs 
+performing fewer functions to employ at least one externally 
+certified analyst. An estimated 24% of crime labs performing a 
+single forensic function employed at least one externally 
+certified analyst in 2014. Crime labs with professional 
+accreditation (74%) were more likely than crime labs without 
+accreditation (57%) to employ at least one externally certified 
+analyst.
+
+**************************************
+More than half (56%) of federal crime 
+labs dedicated resources to research 
+in 2014
+**************************************
+
+An estimated 14% of crime labs devoted staff, time, supplies, or 
+other resources to forensic science research in 2014 (table 5).
+Forensic science research includes experimentation aimed at the 
+discovery and interpretation of facts, the revision of accepted 
+methods, or practical application of new or revised methods or 
+technologies. The National Institute of Justice (NIJ) provided 
+the most resources dedicated to research. Between 2009 and 2014, 
+NIJ funded nearly $120 million in forensic science research 
+projects. ***Footnote 6 See The Impact of Forensic Science 
+Research and Development. Washington, D.C.: U.S. Government 
+Printing Office***.  This funding sought to provide new crime-
+solving techniques and increase the reliability and efficiency of 
+forensic testing.
+
+The proportion of crime labs that dedicated resources to research 
+doubled from 7% in 2009 to 14% in 2014, a proportion similar to 
+2002 (13%). As in 2009, federal crime labs (56%) were more likely 
+than state (11%), county (11%), and municipal labs (4%) to have 
+resources dedicated to research in 2014. Between 2009 and 2014, 
+federal crime labs had the largest increase in the proportion of 
+crime labs with resources dedicated to research. For all years 
+with available data, larger crime labs were more likely to 
+dedicate resources to research than smaller labs.
+
+***************
+Methodology
+***************
+
+Overview
+**********
+
+The Bureau of Justice Statistics (BJS) periodically conducts the 
+Census of Publicly Funded Forensic Crime Laboratories (CPFFCL) to 
+collect data on crime lab services, budgets, staffing, workload, 
+outsourcing, and quality assurance practices. The data collection 
+is directed to federal, state, county, and municipal crime labs 
+that are funded solely by the government or whose parent 
+organization is a government agency. The CPFFCL includes agencies 
+that employ one or more full-time scientists (1) with a minimum 
+of a bachelor’s degree in chemistry, physics, biology, 
+criminalistics, or a closely related forensic science field, and 
+(2) whose principal function is examining physical evidence in 
+criminal matters and providing reports and testimony to courts of 
+law regarding such evidence.
+
+About half of the crime labs included in the CPFFCL were part of 
+a multi-lab system (two or more physically separate facilities 
+that are overseen by a single organization). The CPFFCL attempted 
+to collect information from each lab in multi-lab systems. The 
+CPFFCL did not include operations that engage exclusively in 
+evidence collection and documentation, such as fingerprint 
+recovery and development, crime scene response, and photography. 
+In addition, the census did not collect data on the forensic 
+services performed by police identification units outside of the 
+crime lab and it did not include privately operated crime labs.
+
+Data collection and response rate
+**********************************
+
+BJS conducted its fourth CPFFCL to collect detailed information 
+on the workload and operations of the nation’s 409 crime labs 
+during 2014 and to examine changes since the previous censuses 
+conducted in 2002, 2005, and 2009. The CPFFCL population frame 
+and questionnaire were developed by BJS and the Urban Institute 
+with input from the American Society of Crime Laboratory 
+Directors as well as researchers and practitioners in the 
+forensic science field. BJS pretested the CPFFCL questionnaire on 
+a small sample of labs representing facilities of different sizes 
+and governmental affiliations.
+
+In April 2015, the Urban Institute initiated the data collection 
+on behalf of BJS through a web-based data collection interface 
+and mailed questionnaire. Follow-up emails and phone calls were 
+made to nonrespondents and labs that submitted incomplete 
+questionnaires. Of the 409 eligible crime labs that received the 
+questionnaire, 360 (88%) provided responses to at least some of 
+the items (table 6). ***Footnote 7 A total of 306 (87%) of the 351 
+crime labs in 2002 provided responses to the 2002 CPFFCL 
+questionnaire. Of the 389 crime labs in the 2005 CPFFCL, 351 
+(90%) provided responses to the 2005 questionnaire. Of the 411 
+crime labs surveyed in the 2009 CPFFCL, 397 (97%) provided 
+responses to that data collection***.Of the 360 respondents, 351 
+(98%) completed the questionnaire through the automated web 
+system. The 2014 CPFFCL response rate ranged from 94% for state 
+labs to 72% for federal labs.
+
+Methods for producing national estimates
+******************************************
+
+To generate national estimates for this report, BJS used 
+imputation methods to account for missing data among labs that 
+did not respond to either the entire CPFFCL questionnaire (unit-
+level response) or certain questions (item-level response). 
+Because the CPFFCL data collection was a census with no sampling, 
+each crime lab was initially self-representing and had a design 
+weight of 1. BJS developed weighting class adjustments for the 
+2002, 2005, 2009, and 2014 CPFFCL data to compensate for unit 
+nonresponse and reduce nonresponse bias. Sixteen subpopulations 
+of labs were stratified into groups by crossing four categories 
+of jurisdiction (federal, state, county, and municipal) and four 
+categories of staff size (9 or fewer, 10 to 24, 25 to 49, and 50 
+or more). A seventeenth stratum was assigned to the FBI crime 
+laboratory, given its unique size of more than 500 employees. 
+Within each of the subgroups, statistical weights were applied to 
+the data from the crime labs that responded to the census to 
+allow their responses to represent the labs that did not respond.
+
+In addition to adjusting for unit nonresponse through the use of 
+weighting class adjustments, BJS also imputed for item 
+nonresponse. BJS measured staff size by full-time equivalent 
+employees and included both full-time and part-time employees 
+with part-time employees weighted by 0.5. For the labs that 
+responded to the CPFFCL but did not report employee data, 
+imputations were made for the count- and percentage-based 
+measures using their employee data reported in the other CPFFCL 
+data collections. If that information was not available, BJS used 
+the median staff size in 2014 among labs of similar jurisdiction. 
+Among the 360 labs that responded to the 2014 CPFFCL, 339 
+reported their 2014 employee total. For the 22 labs that did not 
+report their 2014 staff total, the previous reported staff total 
+was used. Estimates for the 2002, 2005, and 2009 CPFFCL were 
+generated using similar imputation methods. When employee totals 
+from other CPFFCL data collections were not available to account 
+for item nonresponse, the median staff size of labs of similar 
+jurisdiction was used.
+
+When a respondent was unable to provide some requested items, BJS 
+used sequential hot-deck imputation procedures to impute the 
+missing responses in the 2002, 2005, 2009, and 2014 data. 
+Sequential hot-deck imputation replaces a missing value with a 
+response provided by a crime lab with similar characteristics. 
+BJS grouped both respondents and nonrespondents into the strata 
+described above and then sorted within each stratum by the number 
+of forensic functions each lab performed. Once the list of crime 
+labs were sorted within strata, the respondents provided donor 
+responses for nonrespondents using the nearest neighbor method. 
+This method identifies and replaces a missing value with the 
+response donated from the lab listed immediately prior to the lab 
+with missing data. If the donor listed immediately prior to the 
+lab with missing data also had a missing response, BJS imputed a 
+response from a donor listed immediately after the lab with the 
+missing value. BJS repeated the process of going backwards and 
+forwards to obtain donated responses from neighbors until all 
+missing values were imputed.
+
+Comparability to prior reports
+*******************************
+
+Data on quality assurance practices presented in the 2002, 2005, 
+and 2009 CPFFCL reports were not adjusted for lab nonresponse. 
+Estimates presented in this report may differ from previously 
+presented data because some adjustments for unit or item 
+nonresponse were made. For example, Census of Publicly Funded 
+Forensic Crime Laboratories, 2009 (NCJ 238252, BJS web, August 
+2012) reported that 75% of county labs were accredited in 2009. 
+This report indicates that 74% of county labs were accredited in 
+2009. In the 2009 report, data on accreditation were based on 389 
+crime labs (or 98% of the 397 labs responding the 2009 census). 
+In this 2014 report, the 2009 data have been adjusted to account 
+for nonresponse crime labs and represent 411 crime labs (or the 
+total number of labs included in the 2009 CPFFCL). 
+
+Conducting tests of statistical significance
+********************************************
+
+BJS conducted tests to determine whether differences in the 
+estimates were statistically significant. All differences 
+discussed in this report are statistically significant at or 
+above the 95% confidence interval. Standard errors were generated 
+using SPSS statistical software that estimates variance for 
+complex survey designs. The standard errors for the tables and 
+figures are presented in appendix tables. These standard error 
+estimates may be used to construct confidence intervals around 
+percentages in this report. For example, the 95% confidence 
+interval around the percentage of crime labs accredited in 2014 
+is 88% ± 1.96 × 0.7% (or approximately 87% to 89%) where 88% is 
+the point estimate in table 1 and 0.7% is the standard error in 
+appendix table 2.
+
+The standard errors may also be used to test the significance of 
+the difference between two statistics by pooling the standard 
+errors of the two estimates. For example, the standard error of 
+the difference between state and federal crime labs accredited in 
+2014 would be 2.9% (or the square root of the sum of the squared 
+standard errors for each group). The 95% confidence interval 
+around the difference would be 1.96 × 2.92% (or 5.72%). Because 
+the observed difference of 10% (99% minus 89%) is greater than 
+5.72%, the difference would be considered statistically 
+significant.
+
+*********************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is acting 
+director.
+
+This report was written by Andrea M. Burch and Matthew R. Durose 
+of BJS and Kelly Walsh and Emily Tiry of Urban Institute.  
+Christina Aldada, Samantha Lowry, Eddie Mohr, Elizabeth 
+Pelletier, Jennifer Yahner, and Lilly Yu from the Urban Institute 
+assisted with data collection and processing activities. 
+Anastasios Tsoutis verified the report.
+
+Caitlin Scoville and Jill Thomas edited the report. Barbara Quinn 
+and Tina Dorsey produced the report.
+
+November 2016, NCJ 250152
+**********************************************************
+
+**************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+**************************************************
+
+**********************
+10/31/2016/JER/3:25pm
+**********************

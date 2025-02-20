@@ -1,0 +1,1131 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Tribal Crime Data Collection Activities, 2012
+Steven W. Perry, BJS Statistician
+
+September 2012, NCJ 239077
+------------------------------------------
+This file is text without graphics and many of 
+the tables. A Zip archive of the tables in 
+this report in Comma-delimited format (CSV) 
+and the full report including tables and graphs 
+in PDF format are available at:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4493
+----------------------------------------------
+*************
+Introduction
+*************
+
+The Tribal Law and Order Act (TLOA), enacted July 29, 2010, 
+requires the Bureau of Justice Statistics (BJS) to 
+(1) establish and implement a tribal data collection system 
+and (2) support tribal participation in national records and 
+information systems (P.L. 111-211, 124 Stat. 2258, § 251(b)). 
+The act further requires that the director of BJS consult 
+with Indian tribes to establish and implement this data 
+collection system. The BJS director is required to report to 
+Congress within one year of enactment, and annually 
+thereafter, the data collected and analyzed in accordance 
+with the act. 
+
+This report describes activities in support of BJS’s tribal 
+crime data collection system and summarizes findings and 
+program enhancements between 2008 and 2012. This analysis 
+includes data from the 2010 U.S. Census, the Census of State 
+and Local Law Enforcement Agencies (CSLLEA), the FBI’s 
+Uniform Crime Reporting (UCR) Program, the Edward Byrne 
+Memorial Justice Assistance Grant (JAG) Program, and the 
+Federal Justice Statistics Program (FJSP).
+
+The tribal justice system in Indian country varies across 
+tribal nations and regions of the country. Criminal 
+jurisdiction in Indian country—federally recognized 
+reservations, tribal communities, and identified trust lands—
+varies by type of crime committed, whether the offender or 
+victim is a tribal member, and the state in which the offense 
+occurred. Due to the sovereign status of federally recognized 
+tribes in the United States, crimes committed in Indian 
+country are often subject to concurrent jurisdiction between 
+multiple criminal justice agencies. 
+
+Advances in the quality and quantity of tribal crime data 
+created additional funding opportunities for American Indian 
+tribes in 2010. As a result of improved reporting and the 
+disaggregation of crime data about individual tribes, the 
+annual Edward Byrne Memorial Justice Assistance.
+
+********************************
+*************
+Highlights
+*************
+
+* In 2010, the self-identified American Indian and Alaska 
+Native (AIAN) population totaled 5.2 million, or 1.7% of the 
+estimated 308.7 million people in the United States.
+
+* About 3.5 million (76%) of the 4.6 million people living on 
+American Indian reservations or in Alaska Native villages in 
+2010 were not AIAN.
+
+* Tribally operated law enforcement agencies in Indian 
+country employed 3,043 full-time equivalent (FTE) personnel 
+in 2008.
+
+* From 2008 to 2011, about $2 million in Edward Byrne 
+Memorial Justice Assistance Grant (JAG) program awards were 
+allocated to tribal governments.
+
+* The FBI’s Crime in the U.S., 2010 included crime data from 
+144 tribal law enforcement agencies, up from 12 tribal 
+agencies in the 2008 report.
+
+* From 2008 to 2010, tribal law enforcement agencies across 
+the U.S. reported about 72,000 violent and property crimes to 
+the FBI’s Uniform Crime Reporting Program.
+
+* Suspects investigated for violent offenses in Indian 
+country totaled 23% of all federal investigations for violent 
+offenses in FY 2010.
+
+In 2002, about 188 tribes reported they had some form of a 
+tribal justice system.***Footnote 1 Census of Tribal Justice 
+Agencies in Indian Country, 2002, NCJ 205332, BJS website, 
+December 2005.*** In September 2008, American Indian tribes 
+operated 178 law enforcement agencies located in 
+28 states and employed about 3,000 full-time sworn personnel. 
+***Footnote 2 Compendium of Tribal Crime Data, 2011, 
+NCJ 234459, BJS website, June 2011.*** Indian country housed 
+2,239 inmates in about 80 jails and detention facilities at 
+midyear 2011. 
+
+Gaps exist in the available information on the tribal justice 
+system, such as the understanding of existing and emerging 
+issues in the administration and operations of tribal courts 
+in the U.S; their annual caseloads; the implementation of 
+TLOA enhancements; and selection criteria for judges, 
+prosecutors, and public defenders. In August 2011, BJS 
+awarded a multi-year grant to conduct a National Survey of 
+Tribal Court Systems to address some of these concerns. In 
+addition, BJS initiated the development and design of an 
+Indian country justice statistics webpage with the goal of 
+pulling together all available statistical data on the tribal 
+justice system in one place.
+ 
+***********************
+2010 Census and race
+***********************
+
+To adequately understand the nature and context of American 
+Indian crime and justice, the results of the 2010 U.S. Census 
+of Population and Housing prove useful. These results provide 
+information about the number and demographic characteristics 
+of American Indians and Alaska Natives (AIAN) who reside in 
+the U.S., where they live, their tribal affiliations, and 
+residential patterns within Indian country and off 
+reservation lands.
+ 
+The 2010 Census asked individuals to self-identify their 
+race. Respondents were able to select one or more race 
+categories, as well as their Hispanic or Latino origin 
+(ethnicity). AIAN is the label given to persons whose 
+ancestors originate from North, Central, or South America and 
+who maintain tribal affiliation or community attachment. 
+
+In April 2010, the total self-identified AIAN population 
+accounted for 5.2 million, or 1.7%, of the estimated 308.7 
+million people in the United States. ***Footnote 3 U.S. 
+Census Bureau (2011). Overview of Race and Hispanic Origin: 
+2010. Retrieved from 
+http://www.census.gov/prod/cen2010/briefs/c2010br-02.pdf.***
+
+
+ This includes people who identified themselves as AIAN only 
+(56%) or AIAN in combination with at least one other race 
+category (44%) (table 1). Between 2000 and 2010, the number 
+of people who self-reported themselves as AIAN (either alone 
+or in combination with at least one other race) increased by 
+26.7%, a growth rate almost three times that of the overall 
+U.S. population (9.7%) (not shown in table). 
+
+Between 2000 and 2010, the number of American Indians and 
+Alaska Natives who described themselves as being of 
+multiracial increased 39.2%, compared to an 18.4% increase in 
+those who described themselves as being a single race. As a 
+result, the percentage of American Indians and Alaska Natives 
+who described themselves as being of more than one race 
+increased from 40% in 2000 to 44% in 2010.
+
+In 2010, about 23% of AIAN people classified themselves as 
+being of Hispanic or Latino origin. This proportion was 
+similar whether they described themselves as being a single 
+race (23%) or multiracial (22%).
+
+*****************************
+AIAN grouping or affiliation 
+*****************************
+
+In the 2010 Census, persons who identified themselves as AIAN 
+on the questionnaire were asked to report their enrolled 
+tribe or principal tribal affiliation. Respondents could 
+report one or more tribal affiliation. Census information on 
+tribal affiliation is based on self-identification and 
+therefore is not limited to federally or state-recognized 
+tribes or actual tribal enrollment. 
+
+AIAN persons in the United States may belong to a tribe--or a 
+band or clan--that has a distinct history, culture, and often 
+a separate language. In 2010, among the total 5.2 million 
+self-described AIAN persons (either of one race or 
+multiracial), 3.4 million (65%), indicated a tribal 
+affiliation (not shown in table).***Footnote 4 U.S. Census 
+Bureau (2011). The American Indian and Alaska Native 
+population: 2010. Retrieved from 
+http://www.census.gov/prod/cen2010/briefs/c2010br-10.pdf.*** 
+AIAN persons of a single race were more likely to report a 
+tribal grouping, compared to AIAN persons identifying as two 
+or more races. In 2010, 70% (or 2.9 million) of AIAN persons 
+who reported a single race specified a tribal grouping, 
+compared to 60% (or 1.4 million) of AIAN persons who reported 
+they were two or more races. 
+
+In 2010, ten tribes comprised 40% of the AIAN population who 
+report affiliation with one or more tribes (table 2). The 
+Cherokee tribe had the largest AIAN population (819,000) in 
+the U.S., followed by the Navajo (332,000), Choctaw 
+(196,000), Mexican American Indian (175,000), Chippewa 
+(170,000), Sioux (170,000), Apache (112,000), Blackfeet 
+(105,000), Creek (88,000), and Iroquois (81,000).
+
+Over half (56%) of AIAN persons in 2010 classified themselves 
+as being of a single race. Among the 10 largest tribes in 
+2010, the proportion of AIAN persons that classified 
+themselves as a single race varied by tribe (figure 2). 
+Persons who described themselves as Navajo had the highest 
+proportion (86%) of individuals who identified with a single 
+race in 2010. Among the 332,000 persons affiliated with the 
+Navajo, 286,000 reported being of a single race. In 
+comparison, among the 105,000 persons that reported 
+affiliation with the Blackfeet tribe 27,000 (26%) indicated 
+they were of a single race.
+
+*****************************
+American Indian reservations 
+and Alaska Native villages
+*****************************
+ 
+A total of 565 tribal entities are recognized and eligible 
+for funding and services from the Bureau of Indian Affairs. 
+There were 334 federally and state-recognized American Indian 
+reservations in 2010. In the U.S., 4.8 million people lived 
+on American Indian reservations or in Alaska Native villages. 
+A quarter (or 1.1 million) of these individuals classified 
+themselves as AIAN. (See Methodology for more information 
+about federally recognized tribes, reservations, and Alaska 
+Native village statistical areas.)
+
+Most (77% or 3.5 million) of the 4.6 million people living on 
+American Indian reservations in the continental U.S. did not 
+identify as AIAN during 2010 (table 3). A total of 243,000 
+people resided within Alaska Native village statistical 
+areas, and about 78,000 (or 32%) self-identified as AIAN. 
+
+During 2010, a minority (23% or 1.1 million) of the 5.2 
+million AIAN persons in the U.S. lived on American Indian 
+reservations or in Alaska Native villages. A greater 
+proportion of AIAN persons who lived in tribal areas 
+identified themselves as being of one race (84%) than 
+multiracial (16%). About 67% of the AIAN-only population 
+lived outside of tribal areas, compared to 92% of the AIAN 
+multiracial population. 
+
+The Census Bureau ranked the American Indian reservations 
+based on the number of AIAN persons (either of one race or 
+multiracial) living on the reservation.***Footnote 5 U.S. 
+Census Bureau (2011). The American Indian and Alaska Native 
+Population: 2010. Retrieved from 
+http://www.census.gov/prod/cen2010/briefs/c2010br-10.pdf.*** 
+Navajo Nation was the largest reservation with more than 
+169,000 identifying as AIAN. The next largest reservations 
+with more than 10,000 persons identifying as AIAN included 
+Pine Ridge (17,000), Fort Apache (13,000), Gila River 
+(11,000), Osage (10,000), San Carlos (10,000), Rosebud 
+reservation and trust land (10,000) (table 4). 
+
+Among reservations, the Navajo Nation had the largest total 
+(including AIAN and non-AIAN residents) population in 2010 
+(174,000). The Osage Reservation in Oklahoma had the second 
+largest total population (47,000), and it had the largest 
+proportion (79%) of residents that were not AIAN. 
+
+Alaska Native villages were also ranked by AIAN population 
+(either of one race or multiracial). The three Alaska Native 
+village statistical areas with the largest AIAN populations 
+in 2010 were: Knik (7,000), Bethel (4,000), and Kenaitze 
+(3,000).
+
+Among the Alaska Native villages in 2010, Knik (66,000) had 
+the largest total population, followed by Kenaitze (33,000) 
+and Chickaloon (23,000). About 90% of the residents of these 
+villages were not AIAN.
+
+-----------------------
+Tribal law enforcement
+-----------------------
+
+**********************************
+Tribal sworn full-time equivalent 
+(FTE) law enforcement staffing 
+**********************************
+Tribally operated law enforcement agencies provide a broad 
+range of public safety services, such as responding to calls 
+for service, investigating crimes, enforcing traffic laws, 
+executing arrest warrants, serving process, and conducting 
+search and rescue operations within the boundaries of tribal 
+lands in the U.S. 
+
+In September 2008, AIAN tribes operated 178 law enforcement 
+agencies that employed at least one full-time sworn officer 
+with general arrest powers in the continental U.S.***Footnote 
+6 For additional information on the Bureau of Indian Affairs 
+police and operations see 
+http://www.bia.gov/WhoWeAre/BIA/OJS/DOLE/index.htm.*** About 
+90% of tribally operated law enforcement agencies were 
+general purpose police departments, and the others were 
+special jurisdiction agencies responsible for enforcing 
+natural resources laws.
+
+Tribally operated law enforcement agencies in 2008 employed 
+3,043 sworn full-time equivalent (FTE) personnel (table 5). 
+Collectively, tribes operated law enforcement agencies in 28 
+states. The largest tribal law enforcement agency, the Navajo 
+Police Department, employed 393 FTE personnel in Arizona, New 
+Mexico, and Utah. Washington (24), Arizona (22), Oklahoma 
+(19), and New Mexico (17) had the largest numbers of tribal 
+law enforcement agencies (not shown in table).
+ 
+In addition to tribally operated law enforcement agencies, 
+the Bureau of Indian Affairs (BIA), within the Department of 
+the Interior (DOI), operated 42 agencies that provided law 
+enforcement services in Indian country.6 These agencies 
+police Indian tribes and reservations that do not have their 
+own police force and oversee other tribal police 
+organizations. As federal police officers, BIA police enforce 
+federal laws relating to Indian country and, in some 
+instances, are granted authority to enforce tribal law by 
+tribal ordinance or statute. Nationwide, BIA employed an 
+estimated 277 full-time sworn personnel in 2008.
+
+Alaska is a Public Law 280 state. (See Methodology for more 
+information about Public Law 280.) Alaska Native tribes 
+generally do not have police departments, but many have 
+Village Public Safety Officers (VPSO) who reside in the 
+community. The VPSO Program began as a means of providing 
+rural Alaskan communities with needed public safety services 
+at the local level. For additional information, see 
+http://www.dps.state.ak.us/ast/vpso/.
+
+***************************************
+Tribal Uniform Crime Reporting Program 
+training and technical assistance
+***************************************
+
+The FBI’s Uniform Crime Reporting (UCR) Program is a national 
+data collection system that captures information on crimes 
+known to law enforcement agencies across the country. Among 
+their many uses, the UCR data are used to distribute federal 
+funds to state and local justice systems. In the past, many 
+tribal justice systems were ineligible to receive some 
+federal funds because they did not contribute data to the UCR 
+Program.
+
+Between 2009 and 2010, over 140 individual law enforcement 
+officials, representing almost 70 tribal nations across the 
+U.S., received training on the UCR Program sponsored by BJS 
+in coordination with the FBI. The purpose of the two-day 
+training was to expand the number of tribal agencies 
+reporting to the UCR and to improve the accuracy of the 
+reported data. 
+
+These UCR trainings addressed the unique needs and problems 
+faced by Indian country sworn personnel who are responsible 
+for reporting data to the UCR. In addition to the standard 
+UCR training, 21 tribal law enforcement agencies also 
+completed training on the FBI’s National Incident Based 
+Reporting System (NIBRS) (table 6).***Footnote 7 National 
+Incident Based Reporting System (NIBRS) is an incident-based 
+reporting system that collects more comprehensive and 
+detailed data on crime from local, state, and federal law 
+enforcement agencies.****
+
+***************************************
+******************************
+Tribal Data Exchange Process:
+****************************** 
+
+How do tribal crime statistics get into the UCR?
+From 2009 to 2012, BJS funded the Recovery Act: Tribal Crime 
+Data Collection, Analysis, and Estimation Project to improve 
+tribal crime data reporting. The goal of this project was to 
+enhance the utility of tribal crime and justice data by 
+increasing the number of tribes reporting crime data to the 
+FBI’s Uniform Crime Reporting (UCR) Program, and in doing so  
+increasing the number of tribes eligible for the Edward Byrne 
+Memorial Justice Assistance Grant (JAG) Program.
+
+In order to accomplish this goal, BJS formed a tribal federal 
+coordinating committee composed of representatives from BJS, 
+the FBI, and the Bureau of Indian Affairs (BIA) at the 
+Department of Interior. An important activity of the federal 
+coordinating committee was to implement the Tribal Data 
+Exchange Process (TDEP) developed by BJS. 
+
+TDEP enables the integration of tribal justice data into 
+regional and national criminal justice systems, such as the 
+UCR. TDEP illustrates to stakeholders the conceptual process 
+of collecting, validating, verifying, and disseminating 
+Indian country crime and justice information. This model is 
+premised upon collaboration between federal and tribal 
+organizations and provides a culturally sensitive approach to 
+information-sharing. TDEP simplifies the process into four 
+primary steps involving the custody of the data (figure 3).
+**************************************
+
+********************************
+Offenses known to tribal law 
+enforcements agencies between 
+2008 and 2010
+********************************
+
+The FBI asks law enforcement agencies to report eight crime 
+types to the traditional UCR Program: four violent crimes 
+(murder, forcible rape, robbery, and aggravated assault) and 
+four property crimes (burglary, larceny-theft, motor vehicle 
+theft, and arson). These eight crimes are often considered 
+the barometer of the overall crime problem in a jurisdiction. 
+From 2008 to 2010, tribal law enforcement agencies across the 
+U.S. reported about 72,000 violent and property crimes to the 
+UCR Program (table 7).  
+
+Of the approximately 17,000 violent crimes reported by tribal 
+law enforcement agencies between 2008 and 2010, 77% were 
+aggravated assaults, 15% were forcible rapes, 5% were 
+robberies, and 3% were criminal homicides. During the same 
+time, tribal law enforcement agencies reported approximately 
+54,000 property crimes to the FBI: 55% were larceny-thefts, 
+26% were burglaries, 14% were motor vehicle thefts, and 5% 
+were arsons.
+
+***************************************
+Tribe-specific reporting of crime data 
+***************************************
+
+From 2008 to 2010, the overall number of tribal law 
+enforcement agencies with identifiable crime data in the 
+FBI’s UCR Program increased. In 2010, 144 AIAN tribal law 
+enforcement agencies had disaggregated data published in the 
+FBI’s annual Crime in the United States. report, compared to 
+only 12 tribal law enforcement agencies in the 2008 report. 
+In 2010, 79% of violent offenses reported by tribal law 
+enforcement agencies could be traced back to the originating 
+tribal reservation, up substantially from 1% in 2008 (figure 
+4). Between 2008 and 2010, the proportion of property 
+offenses reported by tribal law enforcement agencies that 
+were traceable to the tribe increased from 13% to 88%.
+
+********************************
+Tribes and Justice Assistance 
+Grant (JAG) Program 
+********************************
+
+A total of $2,050,537 was made available to tribal 
+governments through the Edward Byrne Memorial Justice 
+Assistance Grant (JAG) Program between 2008 and 2011 (table 
+8). The Bureau of Justice Assistance (BJA) administers the 
+JAG Program. BJS calculates the JAG formula-based award 
+amounts using specifications outlined in the legislation. JAG 
+awards may be used for the following seven purposes areas: 
+law enforcement; prosecution and courts; prevention and 
+education; corrections and community corrections; drug 
+treatment; planning, evaluation, and technology improvement; 
+and crime victim and witness programs.
+
+The total 2011 JAG funding allocation for tribal nations was 
+approximately $632,000, a 322% increase over the $150,000 
+allocation in 2008. In addition, the overall number of tribes 
+eligible for JAG awards increased from 5 in 2008 to 23 in 
+2011. The five largest total tribal government JAG 
+allocations in 2011 were awarded to the Blackfeet ($91,922), 
+Navajo Nation ($73,720), Standing Rock Sioux Tribe ($42,527), 
+Rosebud ($39,878), and Choctaw ($35,657). Four of the five 
+tribes also received the highest awards in 2010 (the Standing 
+Rock Sioux Tribe was not included). All of the tribes that 
+were eligible for direct awards in 2011 were from 11 states. 
+From 2008 to 2011, about 77% of all direct tribal JAG awards 
+went to tribal governments in Arizona ($633,958), Montana 
+($405,960), North Dakota ($279,557), and South Dakota 
+($255,276).
+
+------------------------
+Tribal court systems
+------------------------
+
+The tribal justice systems promote self-determination, 
+advance and protect the rights of self-government, and fight 
+crime and violence in Indian country. The number of cases 
+handled in tribal courts across the U.S. is unknown. Some 
+criminal and civil issues are handled directly by indigenous 
+forums or tribal courts, some are sent through the federal 
+court system, and others are handled by state courts. The 
+court systems operating in Indian country vary by tribe. The 
+Indian country judicial system revolves around a core of five 
+legal institutions: indigenous forums (also known as 
+traditional courts), Court of Indian Offenses (Code of 
+Federal Regulations (CFR)), inter-tribal courts, the courts 
+of appeal, and tribal courts of general jurisdiction. For a 
+definition of the tribal justice system, see Methodology.
+
+BJS has actively coordinated and collaborated with federal 
+and tribal partners to develop and design the 2012 National 
+Survey of Tribal Court Systems (NSTCS-12). The NSTCS-12 is 
+part of BJS’s multifaceted effort to expand its statistical 
+activities related to tribal crime and justice issues. 
+
+*******************************
+2012 National Survey of Tribal 
+Court Systems
+*******************************
+
+Through the NSTCS-12, BJS will gather information to improve 
+the nation’s understanding of the administrative and 
+operational characteristics of tribal justice systems, 
+including budgets, staffing, caseloads and case process, 
+indigent defense services, implementation of various enhanced 
+sentencing provisions of the Tribal Law and Order Act (TLOA), 
+and various indigenous or traditional dispute forums 
+operating within Indian country. To facilitate this effort, 
+BJS has undertaken the following steps.
+
+Since December 2011, BJS has coordinated regular meetings 
+with the various Department of Justice (DOJ) components, 
+including the Office of Tribal Justice; FBI; Office for 
+Access to Justice Initiative; National Institute of Justice; 
+BJA; Office for Victims of Crime; Office of Juvenile Justice 
+and Delinquency Prevention; Sex Offender Sentencing, 
+Monitoring, Apprehending, Registering, and Tracking Office; 
+and the DOI’s BIA. The various DOJ components described the 
+types of information about tribal courts relevant to their 
+respective programs and roles. They also provided guidance to 
+address emerging TLOA issues.
+
+In March 2012, the director of BJS sent a letter to all 
+federally and state-recognized tribes across the U.S. 
+announcing the new survey and its significance, as well as 
+inviting participation and input from tribal nations in the 
+design and development of the survey instrument. The NSTCS-12 
+design and development process includes, but is not limited 
+to 1) conducting outreach to and collaborating with tribal 
+justice agencies and experts, 2) verifying contact 
+information for all tribal courts in the U.S., 3) identifying 
+subject matter and policy topics, 4) exploring methods to 
+ensure high response rates, and 5) determining the types of 
+follow-up required.
+
+********************************
+Outreach and collaboration with 
+tribal justice systems
+********************************
+
+Since 2011, BJS has actively conducted (and will continue to 
+conduct) outreach with tribal members and justice 
+professionals through its participation and attendance at 
+various Indian country-related conferences or meetings:
+
+* Office of Justice Programs Tribal Justice, Safety and 
+Wellness Conference, New Mexico, December 2011
+
+* Indian Law and Order Commission Field Hearing, Washington, 
+DC, March 2012
+
+* Bureau of Justice Assistance Tribal Civil and Criminal 
+Legal Assistance Program Planning and Coordination Meeting, 
+Washington, DC, June 2012
+
+* Justice Department’s Tribal Nations Leadership Council, 
+Washington, DC, July 2012
+
+* 2012 National Tribal Judicial Conference, Minnesota, 
+October 2012
+
+* Office for Victims of Crime 13th National Indian Nations 
+Conference, California, December 2012.
+The NSTCS-12 is also being developed and designed in 
+consultation with tribal justice professionals. The following 
+organizations serve as partners for the NSTCS-12 and met at 
+the Office of Justice Programs in May 2012:
+
+* American Indian Development Associates, New Mexico
+
+* Hamline University School of Law, Minnesota
+
+* Kansas University School of Law’s Tribal Law and Government 
+Center
+
+* National Judicial College, the National Tribal Judicial 
+Center, Nevada
+
+* Standing Rock Sioux Tribe, South Dakota
+
+* The Supreme Court of the Navajo Nation, Arizona
+
+* Syracuse University College of Law, the Center for 
+Indigenous Law, Governance, and Citizenship 
+
+* Tanana Chiefs Conference, Alaska
+
+* Tribal Law and Policy Institute, California
+
+* University of Colorado at Boulder, American Indian Law 
+Clinic
+
+* University of North Dakota School of Law’s Tribal Judicial 
+Institute.
+
+BJS has also assembled a panel of tribal judges and court 
+administrators to serve as consultants to the project. BJS 
+selected tribal court personnel in similar positions to those 
+that will actually complete the instrument. BJS met with the 
+panel in Rapid City, South Dakota in August 2012. The 
+following tribal courts are formal partners and nine will be 
+field testing the NSTCS-12 questionnaire:
+
+* Organized Village of Kake, Alaska
+
+* Central Council of Tlingit and Haida Tribes, Alaska
+
+* Citizen Potowatomi Nation, Oklahoma
+
+* Eastern Band of Cherokee Supreme Court, North Carolina
+Fort Peck, Montana
+
+* Intertribal Court of Southern California, California
+
+* Navajo Nation Supreme Court, Arizona
+
+* Pokagon Band of Potawatomi, Michigan
+
+* Pueblo of Tesuque, New Mexico
+
+* Rosebud Sioux Tribal Court, South Dakota
+
+* Sisseton-Wahpeton Oyate, Prairie Island Indian Community, 
+Turtle Mountain, and Mille Lacs Band of Ojibwe, North Dakota
+ 
+* Tulalip Tribes, Washington.
+
+Following the Office of Management and Budget (OMB) approval 
+for the NSTCS-12 form, BJS will submit the survey to 
+approximately 300 federally recognized tribal justice systems 
+in the United States. The anticipated response period for the 
+NSTCS-12 is from March 2013 through July 2013. BJS will 
+prepare a report of the data collected in FY2014. BJS will 
+also provide public access to the NSTCS-12 data file on the 
+BJS website, along with topical pages containing text, tables 
+and graphics on a wide range of tribal justice issues.?
+
+*********************
+NSTCS-12 Methodology:
+**********************
+
+Tribal courts vary considerably across the U.S. and a single 
+survey instrument would not suffice for this endeavor. 
+Therefore, the proposed survey instrument will include a core 
+survey and two modules or supplements. 
+
+* The core survey will be administered to all tribal courts 
+in the lower 48 states;
+
+* Alaska module: the 200 plus tribes in Alaska will receive 
+an extract of the core survey with questions specifically 
+targeting the courts operating in the natives villages; and  
+
+* Court of Federal Regulations (CFR): The 20 plus CFR courts 
+operating on behalf of BIA will receive a simplified 
+instrument that captures the critical items not collected in 
+the administrative processes by the Department of Interior.
+
+The NSTCS-12 will serve as an authoritative source for tribal 
+court statistics, foster greater transparency in addressing 
+the problems of crime and justice in Indian country, and 
+enrich tribal eligibility for justice program funding 
+resources, prevention programs, and justice services. The 
+tribal justice professionals have identified substantial 
+benefits, both empirical and practical, of the NSTCS-12 data 
+collection and subsequent analyses for tribal nations, 
+including: 
+
+* define the organizational structure of tribal courts.
+
+* describe the magnitude of tribal court workload and the 
+spectrum of work.
+ 
+* identify and define the Alaska Native village courts 
+system.
+
+
+* demonstrate funding and service needs for tribal courts.
+
+* demonstrate the integrity of the tribal judicial processes.
+*
+provide a voice to educate the federal government and other 
+agencies about the important work and effectiveness of tribal 
+courts and justice systems.
+
+* include tribes in the national dialogue on justice systems.
+
+* help the federal government fulfill the trust 
+responsibility to Indian nations through accurate and 
+reliable information.
+
+-----------------------------
+Tribal jails and detention 
+centers in Indian country
+------------------------------
+
+BJS initiated the Survey of Jails in Indian Country (SJIC) in 
+1998 as a component of the Annual Survey of Jails (ASJ). The 
+SJIC includes all known Indian country correctional 
+facilities operated by tribal authorities or the Bureau of 
+Indian Affairs (BIA), U.S. Department of the Interior.
+
+The number jails or detention centers operating in Indian 
+country rose 16% from 69 facilities in 1998 to 80 as of 2011. 
+The recent survey collected data on the number of inmates and 
+percent of capacity occupied based on the average daily 
+population (ADP), midyear population, and peak population in 
+facilities in June 2011. Also, the survey gathered 
+information on staffing, offense types, and conviction 
+status, as well as an addendum that collected in-depth data 
+on inmates, health services and facility programs.
+
+Based on the recent results from Jails in Indian Country, 
+2011 (NCJ 238978, BJS website, September 2012) about 78,700 
+American Indian or Alaska Natives were under correctional 
+supervision—either at federal, state, local, or tribal 
+facilities—in the United States. About 3% (2,239) of all 
+American Indians or Alaska Natives under correctional  
+supervision were confined in 80 Indian country jails across 
+the U.S. at midyear 2011. Additional and detailed results 
+from the Jails in Indian Country reports are available on the 
+BJS website.
+
+-----------------------------------
+AIAN in the federal justice system
+----------------------------------- 
+
+United States attorneys prosecute violations of federal laws 
+in Indian country. Section 1153 of U.S. Title 18 grants 
+jurisdiction to federal courts over Indians who commit in 
+Indian country any of the crimes listed under the Major 
+Crimes Act of 1885, regardless of whether the victim was an 
+Indian or non-Indian. At the federal level, Indian country 
+means all land within the limits of any Indian reservation 
+under the jurisdiction of the United States government, 
+including all dependent communities and Indian allotments as 
+described in 18 USC § 1151. Data on suspects investigated and 
+charged in U.S. district court come from BJS’s Federal 
+Justice Statistics Program (FJSP). These data do not identify 
+the race of suspects but do identify whether the offense 
+occurred in Indian country.
+
+*************** 
+Investigations 
+***************
+
+Criminal referrals, or matters, are submitted to the U.S. 
+attorneys by federal investigative agencies—Drug Enforcement 
+Agency, FBI, and Bureau of Indian Affairs—and state and local 
+investigative agencies. The U.S. attorney decides the 
+appropriateness of bringing criminal charges and may initiate 
+prosecution. 
+
+In fiscal year 2010, U.S. attorneys investigated 195,260 
+suspects in matters from across the United States for 
+violation of federal laws. Just over 1% (2,283) were for 
+alleged offenses occurring in Indian country (table 9).
+
+A total of 6,353 suspects in 2010 were investigated by 
+federal prosecutors for a violent offense. The 1,479 suspects 
+investigated for violent offenses in Indian country 
+represented 23% of all federal investigations for violent 
+offenses in fiscal year 2010. Violent crimes were the 
+majority (67%) of offenses investigated by U.S. attorneys in 
+Indian country in fiscal year 2010. The number of Indian 
+country suspects investigated by U.S. attorneys for violence 
+declined 3%, from 1,525 in 2000 to 1,479 in 2010. The number 
+of Indian country suspects investigated for property, drug, 
+and other offenses increased 57%, from 475 in 2000 to 746 in 
+2010. Over half (55%) of the total 2,283 Indian country 
+investigations in 2010 were in the judicial districts of 
+Arizona, South Dakota and New Mexico (figure 5).
+
+**************
+Charges filed 
+**************
+
+At the conclusion of the investigation of a criminal matter, 
+U.S. attorneys may decline prosecution, file criminal charges 
+in a U.S. district court, or refer the matter to a U.S. 
+magistrate or a state jurisdiction. In fiscal year 2010, U.S. 
+attorneys filed criminal cases against 100,253 defendants in 
+all federal district courts. About 1% (1,192) of these 
+involved cases in Indian country (table 10). 
+
+In fiscal year 2010, 3,493 defendants were charged with a 
+violent offense in cases filed in U.S. district court during 
+fiscal year 2010. The 727 Indian country defendant cases made 
+up 21% of the total. Sixty-three percent of all defendants 
+charged in U.S. district courts for crimes in Indian country 
+were charged with violent crimes, compared to about 4% 
+nationally. Indian country suspects were more likely to be 
+charged in U.S. district court for violent crimes relative to 
+other offenses because federal jurisdiction focuses on major 
+crimes committed on tribal lands.
+
+Overall, the number of federal district court filings for all 
+violent crime increased by 29%, from 78,000 in 2000 to 
+100,300 in 2010. The number of all filing against Indian 
+country defendants for violent crimes increased 7% from 677 
+in 2000 to 727 in 2010. 
+
+***********************************
+Improving federal justice statistics 
+in Indian country
+***********************************
+
+
+During FY 2013, BJS will coordinate with federal justice 
+agencies that contribute data to the Federal Justice 
+Statistics Program (FJSP) to determine the criteria they use 
+to flag federal cases handled in Indian country. BJS will 
+produce summary information about youth and adults processed 
+by the federal justice system for crimes occurring in Indian 
+country using federal administrative data that spans from 
+arrest to imprisonment for fiscal years 2009-2011. In the 
+future, the Federal Criminal Case Processing query tool on 
+the BJS website will allow data users to create customized 
+tables on Indian country cases as a standard feature.   
+
+-------------------------
+Indian country justice 
+statistics webpage
+-------------------------
+
+To ensure Indian country justice statistics are easily 
+located and accessible from a central source, BJS is 
+developing the Indian country justice statistics webpage to 
+serve as a repository link for crime and justice information 
+and statistical data related to Indian county or tribal 
+justice systems (figure 6). 
+
+This webpage will include links to American Indian or tribal-
+specific 1) publications and products, 2) statistical data 
+collections, 3) funding sources; 4) other relevant non-DOJ 
+statistical data, and 5) a questions and answers section. 
+Currently available on the site are the 2008 through 2010 
+published violent and property crime data files disaggregated 
+by tribe.
+
+**************
+Methodology
+**************
+
+The Bureau of Justice Statistics (BJS) is the principal 
+statistics agency in the Department of Justice. BJS collects, 
+analyzes, publishes, and disseminates information on crime, 
+criminal offenders, crime victims, and criminal justice 
+operations. BJS also provides financial and technical support 
+to state, local, and tribal governments to improve their 
+statistical capabilities and the quality and the utility of 
+their criminal history records. BJS provides statistical 
+information to the President, Congress, other officials, and 
+the public with accurate, timely, and objective data about 
+crime and the management of criminal justice. 
+
+This report is comprised of a compilation of analyses from 
+various data collected by federal statistical agencies and 
+organizations. 
+
+*************************************
+2010 Census of Population and Housing
+*************************************
+
+The U.S. Census counts every resident in the United States. 
+It is mandated by Article I, Section 2 of the Constitution 
+and takes place every 10 years. The data collected by the 
+decennial census determine the number of seats each state has 
+in the U.S. House of Representatives and are also used to 
+distribute billions in federal funds to local communities. 
+National and state population totals from the 2010 Census 
+were released in December 2010 (see 
+http://2010.census.gov/2010census/about/).
+
+* Race and ethnicity: The Census Bureau collects information 
+on race based on the U.S. Office of Management and Budget’s 
+(OMB) 1977 Revisions to the Standards for the Classification 
+of Federal Data on Race and Ethnicity. Federal standards 
+require that race and Hispanic or Latino origin (ethnicity) 
+are asked as separate questions, as race and ethnicity 
+represent distinct concepts. 
+
+* Alternate population estimates: The estimate of 5.2 million 
+American Indian and Alaska Native (AIAN) people living in the 
+United States in 2010 is based on self-reports of race. This 
+and other estimates published throughout the report do not 
+include any statistical imputation procedures to account for 
+nonrespondents or for people who described themselves as some 
+other race on the 2010 Census questionnaire. The Census 
+Bureau reconciles the 2010 Census race categories with the 
+race categories that appear in administrative data by 
+recoding the some other race responses in the 2010 Census to 
+one or more of the five 1997 Office of Management and Budget 
+(OMB) race categories: White, Black or African American, 
+AIAN, Asian, and Native Hawaiian and Other Pacific Islander. 
+The first estimates for July 2011 indicated there are 6.5 
+million AIAN in the U.S., including the statistically imputed 
+some other race responses (see 
+http://www.census.gov/popest/methodology/2011-stco-char-
+meth.pdf).
+
+* Federally recognized tribes: Information on federally 
+recognized tribes can be found in the Federal Register, Vol. 
+75, No. 190, October 1, 2010, entitled Indian Entities 
+Recognized and Eligible to Receive Service from the United 
+States Bureau of Indian Affairs, Department of the Interior, 
+Bureau of Indian Affairs, issued by the Office of Management 
+and Budget (see 
+http://www.bia.gov/idc/groups/xofa/documents/document/idc0120
+38.pdf and 
+http://www.bia.gov/idc/groups/xofa/documents/document/idc0120
+39.pdf).
+
+* Designated reservations and Alaska Native village 
+statistical areas: Not every federally recognized tribe in 
+the U.S. has designated tribal lands or reservations. 
+American Indian reservation areas include federal 
+reservations, off-reservation trust land, Oklahoma tribal 
+statistical areas, state reservations, and federally or 
+state-designated American Indian statistical areas. Alaska 
+Native villages refer to tribal lands or areas located in the 
+state of Alaska.
+
+************************************
+Census of State and Local Law 
+Enforcement Agencies (CSLLEA) 2008 
+************************************
+
+The Bureau of Justice Statistics’ (BJS) Census of State and 
+Local Law Enforcement Agencies (CSLLEA) is conducted every 4 
+years to provide a complete enumeration of agencies and their 
+employees. Employment data are reported by agencies for sworn 
+and non-sworn (civilian) personnel and, within these 
+categories, by full-time or part-time status. The CSLLEA 
+provides national data on the number of state and local law 
+enforcement agencies and employees for local police 
+departments, sheriffs’ offices, state law enforcement 
+agencies, and special jurisdiction agencies. It also serves 
+as the sampling frame for BJS surveys of law enforcement 
+agencies. The 2008 CSLLEA form was mailed to 20,110 agencies 
+that were determined to be potentially operating on the 
+reference date of September 30, 2008 (see 
+http://www.bjs.gov/content/pub/pdf/csllea08.pdf). 
+
+* Public Law 280: Public Law 280 (Pub.L. 83-280, August 15, 
+1953, codified as 18 U.S.C. § 1162, 28 U.S.C. § 1360, and 25 
+U.S.C. §§ 1321–1326) is a federal law establishing a method 
+whereby states may assume jurisdiction over reservation 
+Indians. Public Law 83-280 (commonly referred to as Public 
+Law 280 or P.L. 280) conferred jurisdiction from the federal 
+government to six mandatory state governments: California, 
+Minnesota (except the Red Lake Reservation), Nebraska, Oregon 
+(except the Warm Springs Reservation), Wisconsin, and Alaska. 
+Public Law 280 also permitted other states to acquire 
+jurisdiction at their option. The optional P.L. 280 states 
+assumed jurisdiction either in whole or in part over Indian 
+country within their boundaries: Nevada, Idaho, Iowa, 
+Washington, South Dakota, Montana, North Dakota, Arizona, and 
+Utah. Under the Act, states, local sheriffs and state law 
+enforcement agencies take tribal members to state courts for 
+prosecution in cases arising from criminal matters within 
+reservation boundaries.
+
+*********************************************
+Offenses known to law enforcement, 2008-2010
+*********************************************
+
+The FBI’s Uniform Crime Reporting (UCR) Program collects 
+offenses that come to the attention of law enforcement for 
+selected violent crimes and property crimes, as well as data 
+regarding clearances of these offenses. Data are collected on 
+four violent crimes: murder and non-negligent manslaughter, 
+forcible rape, robbery, and aggravated assault. Data are 
+collected on four property crimes: burglary, larceny-theft, 
+motor vehicle theft, and arson (see http://www.fbi.gov/about-
+us/cjis/ucr/crime-in-the-u.s/2010/crime-in-the-u.s.-
+2010/tables/10tbl11.xls/view).
+
+*******************************
+Edward Byrne Memorial Justice 
+Assistance Grant (JAG) Program
+********************************
+
+The JAG Program is administered by the Bureau of Justice 
+Assistance (BJA) and authorized under Public Law 109-162.  It 
+is the leading source of federal justice funding to state and 
+local jurisdictions. The JAG Program provides states, tribes, 
+and local governments with critical funding necessary to 
+support a range of program areas, including law enforcement; 
+prosecution and courts; crime prevention and education; 
+corrections and community corrections; drug treatment and 
+enforcement; planning, evaluation, technology improvement; 
+and crime victim and witness initiatives. All JAG allocations 
+(eligibility information) are calculated by BJS based on the 
+statutory JAG formula and published in an annual technical 
+report, Justice Assistance Grant (JAG) program (see 
+https://www.bja.gov/ProgramDetails.aspx?Program_ID=59). The 
+report includes a detailed step-by-step breakdown of the JAG 
+award calculation process.
+
+*************************
+2012 National Survey of 
+Tribal Court Systems 
+*************************
+
+The National Survey of Tribal Court Systems (NSTCS-12) is 
+part of a multifaceted effort by BJS to expand its 
+statistical activities related to American Indian and Alaska 
+Native crime and justice issues. The goal of the NSTCS-12 is 
+to provide baseline information upon which to build a tribal 
+court statistics infrastructure that will improve the 
+nation’s understanding of the organization and operational 
+characteristics of courts in Indian country. Each federally 
+recognized tribe in the U.S. will be contacted to verify and 
+determine the operation of a recognized judicial system.  
+Respondents will complete an automated or paper version of 
+the NSTCS-12. Tribal courts should expect to receive the 
+survey materials in early 2013. 
+
+As defined in the Indian Tribal Justice Technical and Legal 
+Assistance Act of 2000 (PL 106-559), the term tribal court, 
+tribal court system, or tribal justice system means the 
+entire judicial branch, and employees thereof, of an Indian 
+tribe. This includes, but is not limited to, traditional 
+methods and forums for dispute resolution, trial courts, 
+appellate courts, including inter-tribal appellate courts, 
+alternative dispute resolution systems, and circuit rider 
+systems, established by inherent tribunal authority whether 
+or not they constitute a court of record.
+
+*****************************************
+Federal Justice Statistics Program (FJSP)
+******************************************
+
+The Federal Justice Statistics Program provides annual data 
+on workload, activities, and outcomes associated with federal 
+criminal cases. Information is acquired on all aspects of 
+processing in the federal justice system, including arrests, 
+initial prosecution decisions, referrals to courts or 
+magistrates, court dispositions, sentencing outcomes, 
+sentence length, and time served. The program collects data 
+from the Executive Office for U.S. Attorneys (EOUSA), the 
+Pretrial Services Agency (PSA), the Administrative Office of 
+the U.S. Courts (AO), the U.S. Sentencing Commission (USSC), 
+and the Federal Bureau of Prisons (BOP).
+
+***********************************************
+The Bureau of Justice Statistics is the statistical agency of 
+the U.S. Department of Justice. James P. Lynch is the 
+director.
+
+This report was written by Steven W. Perry. Mark Motivans 
+provided statistical review and verification of the report.
+Vanessa Curto and Jill Thomas edited the report, and 
+Tina Dorsey produced the report, under the supervision of 
+Doris J. James.
+
+October 2012, NCJ 239077
+
+***********************************************
+
+************************************
+Office of Justice Programs
+Innovation * Partnerships 
+* Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************
+
+*********************
+9/27/2012/JER/1:00pm
+*********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

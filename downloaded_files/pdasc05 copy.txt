@@ -1,0 +1,506 @@
+U.S. Department of Justice 
+Office of Justice Programs 
+Bureau of Justice Statistics 
+
+March 2011, NCJ 233094
+
+Punitive Damage Awards in State Courts, 2005
+
+By Thomas H. Cohen, J.D., Ph.D., BJS Statistician
+and Kyle Harbacek, BJS Intern
+
+--------------------------------------------------------------------------------
+This file is text only without graphics and many of the tables. A Zip
+archive of the tables in this report in spreadsheet format (.csv) and the full
+report including tables and graphics in .pdf format are available from
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbse&sid=2376
+   
+--------------------------------------------------------------------------------- 
+
+Punitive damages were sought in 12% of the estimated 25,000 tort and
+contract trials concluded in state courts in 2005. Punitive damages were
+awarded in 700 (5%) of the 14,359 trials where the plaintiff prevailed.
+Among the trials in which punitive damages were requested by plaintiff
+winners, 30% received these damages. The median punitive damage award
+for the 700 trials with punitive damages was $64,000 in 2005, and 13% of
+these cases had punitive awards of $1 million or more.
+
+Damages awarded in civil trial litigation can take the form of
+compensatory or punitive awards. Punitive damages are not awarded for
+the purpose of compensating injured plaintiffs, but are almost exclusively
+reserved for civil claims in which the defendant's conduct was considered
+grossly negligent or intentional. Punitive damages are intended to serve as
+a means for punishing the defendant and deterring others from committing
+similar actions (Black's Law Dictionary, 1990).
+
+This BJS special report examines tort and contract cases concluded by
+bench or jury trial in which punitive damages were sought or granted in a
+national sample of state trial courts in 2005. The report on punitive
+damages in civil trials is the fourth in a series based on data collected from
+the 2005 Civil Justice Survey of State Courts (CJSSC). The CJSSC
+examines tort, contract, and real property cases disposed by bench and jury
+trials in general jurisdiction courts in 2005. Since the CJSSC
+is based on a 2005 disposition date, many of these cases were filed in prior
+years, but disposed in 2005. Cases were classified as trials for inclusion in
+the CJSSC if both litigants appeared at trial, both sides presented contested
+evidence, at least one litigating party sought monetary damages, and the
+trial was heard through completion.
+
+The CJSSC provides case-level information about sampled civil trials,
+such as characteristics of litigants involved in trials, type of trial (i.e.,
+bench or jury), civil trial winners, compensatory and punitive damage
+awards, and case processing times. The 2005 CJSSC examined tort,
+contract, and real property trials concluded in a national sample of urban,
+suburban, and rural jurisdictions. Prior iterations of the CJSSC focused on
+tort, contract, and real property trial litigation in a sample of the nation's
+75 most populous counties. The 2005 CJSSC also represents the first time
+that information was collected on whether litigants requested punitive
+damages in civil trial litigation.
+
+-------------------------------------------------------------------------------
+
+HIGHLIGHTS
+
+*Litigants sought punitive damages in 12% of the estimated 25,000 civil
+trials concluded in 2005.
+
+*Punitive damages were sought in 10% of all tort trials; however, for
+certain case types including slander or libel, conversion, and intentional
+tort cases, punitive damages were requested in approximately 30% of
+trials.
+
+*Punitive damages were awarded in 700 (5%) of the 14,359 trials where
+plaintiffs prevailed.
+
+*Plaintiffs received punitive damages in 30% of the 1,761 civil trials in
+which these damages were requested and the plaintiff prevailed.
+
+*The median punitive damage award was $64,000, and 13% of cases with
+punitive awards had damages of $1 million or more.
+
+*In 76% of the 632 civil trials with both punitive and compensatory
+damages, the ratio of punitive to compensatory damages was 3 to 1 or less.
+
+*Differences in punitive damages between bench and jury trials were
+greater in contract cases than in tort cases.
+
+*Litigants filed motions for post-trial relief in nearly half of civil trials 
+with punitive damages and appeals in about a third of civil trials with
+punitive damages.
+---------------------------------------------------------------------------------
+
+Punitive damages were sought in 12% of civil trials
+
+Punitive damages were sought in 12% of the estimated 25,000 tort and
+contract trials concluded in the national sample of counties in 2005 (table
+1). Real property trials are not analyzed in this report because information
+on plaintiff winners receiving punitive damages for this case type were not
+available.
+
+Punitive damages were sought in 10% of the 16,057 tort trials; however,
+for certain tort case types, such as slander or libel, conversion, and
+intentional tort cases, punitive damages were requested in approximately
+30% of trials. For the more common tort case types, including premises
+liability, automobile accident, and medical malpractice--which together
+accounted for 84% of tort trials--litigants requested punitive damages in
+7% of these cases.
+
+Punitive damages were sought in 16% of the 8,874 contract trials
+concluded in the national sample in 2005. For certain contract case types,
+such as tortious interference, fraud, and employment discrimination cases,
+punitive damages were sought in more than 30% of trials. In some of the
+more common contract case types, such as seller plaintiff cases, punitive
+damages were sought in less than 10% of trials.
+
+The variation in punitive damage claims by case type might be influenced
+by the legal elements inherent in the CJSSC case categories. Certain civil
+claims, such as intentional torts (e.g., assault or battery) or slander or 
+libel tend to have elements of willful or intentional behavior that would be
+expected to support a punitive damages request.*** Footnote 1 Eisenberg,
+Theodore; Heise, Michael; Waters, Nicole L.; and Wells, Martin T., The
+Decision to Award Punitive Damages: An Empirical Study (June 1, 2009).
+Cornell Legal Studies Research Paper No. 09-011, CELS 2009 4th Annual
+Conference on Empirical Legal Studies Paper. Available at SSRN:
+http://ssrn.com/abstract=1412864.*** Other CJSSC case categories, such
+as automobile accident or premises liability, typically do not involve
+elements of intentional or reckless behavior that could be used to support a
+punitive damages award.
+
+------------------------------------------------------------------------------------
+Report focuses on punitive damages in the 3% of civil cases concluded by
+trial 
+
+When examining punitive damage awards in civil trial litigation, it is
+important to consider that the number of cases being analyzed is relatively
+small compared to the entire universe of potential civil dispositions. The
+2005 CJSSC included aggregate counts of civil trial and non-trial
+dispositions in 116 jurisdictions. In these jurisdictions, an estimated 3% of
+the 439,341 civil cases were disposed of by bench or jury trial (table 2).
+Trial rates varied slightly across the primary civil case categories with 4% 
+of tort and 2% of contract cases being resolved through bench or jury trial.
+Although punitive award figures are available for the 3% of civil cases
+disposed through trial, no information is available about punitive damages
+as part t of the settlement agreement for civil cases that settled.
+----------------------------------------------------------------------------------------
+
+Punitive damages were sought in a fifth of trials involving individuals
+suing government defendants
+
+The CJSSC data allow for an examination of punitive damage claims by
+the characteristics of plaintiffs and defendants involved in civil trial
+litigation. In more than 70% of civil trials, individuals sued either other
+individuals or businesses (table 3). For these trials, punitive damages were
+requested relatively infrequently. Punitive damages were sought in 10% of
+trials in which both the plaintiff and defendant were individuals and 16%
+of trials in which the plaintiff was an individual and the defendant a
+business. The third most common litigant pairing category involved
+businesses suing other businesses, and punitive damages were sought in
+13% of these cases. Punitive damages were also sought in about 21% of
+trials with individual plaintiffs and government defendants.
+
+Litigants sought punitive damages in 25% of trials with compensatory
+awards exceeding $1 million
+
+Compensatory damages are awarded for the purpose of compensating
+injured parties for economic (e.g., lost wages and medical expenses) or
+non-economic (pain and suffering) damages. Litigants sought punitive
+damages in 12% of civil trials with compensatory awards ranging from $1
+to $100,000, and 15% of trials with compensatory awards ranging from
+$100,001 to $1 million (table 4). Punitive damages were sought in 25% of
+civil trials with compensatory awards above $1 million.
+
+Punitive damages were awarded in 5% of trials with plaintiff winners
+
+Punitive damages were awarded in 700 (5%) of the 14,359 civil trials in
+which the judge or jury found for the plaintiff (table 5). By general case
+type, punitive damages were awarded in a higher percentage of contract
+trials (8%) than tort trials (3%). Several prevalent case categories,
+including medical malpractice, automobile accident, and premises liability,
+recorded punitive damages being awarded in 1% or less of cases.
+
+In comparison to these case categories, several specific case types
+concluded with relatively higher rates of punitive damage awards. Among
+torts, punitive damages were awarded in nearly a third of intentional tort
+cases. For contracts, courts awarded punitive damages in more than a fifth
+of contractual fraud or employment discrimination cases.
+
+Punitive damages were awarded in nearly 1 of every 3 trials in which these
+damages were requested
+
+The overall percentage of civil trials with plaintiff winners awarded
+punitive damages increases to 30% when the base of trials is reduced to
+include only those 1,761 trials in which punitive damages were sought
+(table 6). Punitive damages were awarded in 23% of tort and 35% of
+contract trials in which these damages were requested.
+
+Punitive damages were awarded in 7% of trials involving individual
+plaintiffs and business defendants
+
+Overall, there was little difference in the percentage of trials with punitive
+damage awards when categorized by litigant pairings. The percentage of
+trials with punitive damages ranged from 3% in cases involving business
+litigants only to 7% in cases involving individual plaintiffs and business
+defendants (table 7). Among trials in which punitive damages were
+requested, damages were awarded in a third involving individual plaintiffs
+and business defendants (33%) (not shown in table).
+
+Median punitive damage awards were $64,000
+
+The median damage amounts awarded to plaintiff winners in the 700 trials
+with punitive damages was $64,000 (table 8). Nearly 30% of punitive
+awards equaled or exceeded $250,000 and 13% were $1 million or more.
+For the general civil case categories, the median punitive awards ranged
+from $55,000 in tort to $69,000 in contract cases.
+
+In 76% of trials with punitive damages the ratio of punitive to
+compensatory awards was 3 to 1 or less
+
+The relationship between the plaintiff's economic and non-economic
+losses and the amount of punitive damages awarded, as expressed by the
+ratio of compensatory and punitive damages, has been an area of interest
+in Supreme Court jurisprudence. In several cases--culminating in the 2003
+decision of State Farm Automobile Insurance Company v. Campbell (123
+S.Ct. 1513: 1524, April 7, 2003)--the Court held that, "Few awards
+exceeding a single digit ratio between punitive and compensatory damages
+will satisfy due process." Eight percent of trials with punitive damages
+reported ratios of punitive to compensatory awards of greater than 10 to 1
+(not shown in table).
+
+In 76% of the 632 civil trials with both punitive and compensatory awards,
+the ratio of punitive to compensatory damages was 3 to 1 or less (table 9).
+In trials with a ratio of punitive to compensatory awards ranging between 1
+to 1 and 3 to 1, the median punitive and compensatory awards were similar
+($100,000). About 24% of trials with punitive damages registered a ratio
+of punitive to compensatory awards of more than 3 to 1. In these trials, the
+median compensatory award was about $22,000, while the median
+punitive award was $352,000.
+
+Differences in punitive damages between bench and jury trials were
+greater in contract than tort cases
+
+Juries and judges differ more frequently in contract than in tort cases in
+terms of punitive damage award activity. Between tort bench and jury
+trials, no detectable differences were observed between the percent that
+requested or were awarded punitive damages (table 10). Even when the
+population of tort cases was restricted to those in which punitive damages
+were sought, the percentage of litigants awarded these damages in jury and
+bench trials were identical (22%) (not shown in table).
+
+In contrast to tort cases, punitive damages were sought more frequently
+and awarded more often in contract jury trials than in contract bench trials.
+Punitive damages were sought in 28% of jury and 9% of bench trials
+involving contract claims. In cases with plaintiff winners, punitive
+damages were awarded in 20% of contract cases adjudicated before juries
+and 2% of contract cases tried before judges.
+
+Post-trial motions were filed in nearly half of trials with punitive damages
+
+After a trial reaches final verdict or judgment, litigants can file post-trial
+motions seeking to modify or overturn the trial court outcome. These
+motions include motions for judgments notwithstanding the verdict, or
+motions for a new trial, to modify the award, or for some other form of
+relief. Overall, litigants filed post-trial motions in nearly half (47%) of the
+700 civil trials with punitive damage awards (table 11). In comparison,
+post-trial motions were filed in about 30% of the 14,550 civil trials with
+plaintiff winners, including those with and without punitive awards (not
+shown in table).
+
+Litigants filed appeals in nearly a third of trials with punitive damages
+
+Filing a notice with the trial court to take an appeal to the state's
+intermediate appellate court or court of last resort represents another
+option for litigants seeking to overturn or modify a verdict or judgment
+that they believe does not comply with state law. Notices of appeal were
+filed with the trial court by one or both parties in 29% of the 700 civil
+trials with punitive damage awards (table 12). Among the 14,550 civil
+trials with plaintiff winners, the percent in which an appeal was filed by
+one or both parties was 17% (not shown in table). Notices of appeal were
+filed in a fifth of tort and a third of contract cases with punitive damages.
+
+Methodology
+
+The Civil Justice Survey of State Courts (CJSSC) examines tort, contract,
+and real property trials disposed of in general jurisdiction courts. The 2005
+CJSSC contained two sampling frames. First, the sample was designed so
+that inferences could be made about general civil trials litigated in the
+nation's 75 most populous counties. The 75 most populous counties design
+was maintained in order to compute trends in civil trial litigation. The
+sample design for the 75 most populous counties sample was the same as
+the ones used for the 2001, 1996, and 1992 BJS civil trial studies.
+
+Selection of counties
+
+The sample is a stratified sample with 46 of the 75 most populous counties
+selected. The 75 most populous counties were divided into five strata: four
+were based on civil disposition data obtained in 1992 through telephone
+interviews with court staff in the general jurisdiction trial courts, and one
+stratum was added in 2001 to reflect population changes. Stratum 1
+consisted of the 14 counties with the largest number of civil case
+dispositions. Every county in stratum 1 was selected with certainty.
+Stratum 2 consisted of 13 counties with 11 chosen for the sample. From
+strata 3, 10 of the 18 counties were selected. Nine of the 26 counties in
+stratum 4 were included in the sample. Stratum 5 was added to the 2001
+sample to replace Norfolk County, Massachusetts, a stratum 4 site that
+participated in the 1992 and 1996 studies but that fell out of the 75 most
+populous counties in the 2000 census. Mecklenburg County, North
+Carolina, and El Paso County, Texas, were randomly selected from the
+four counties whose population increased sufficiently that they joined the
+ranks of the 75 most populous counties.
+
+In addition to sampling civil trial litigation in the nation's 75 most
+populous counties, a sample of counties from which to estimate the civil
+trial litigation outside the 75 most populous was developed. The sample of
+civil trial litigation outside the nation's 75 most populous counties was
+constructed by first forming 2,518 primary sampling units (PSUs) from
+3,066 counties--3,141 U.S. counties total minus the 75 counties from the
+2001 CJSSC. The PSUs were formed through use of the following criteria:
+(1) they respected state lines, (2) they were based on one or more
+contiguous counties, and (3) they required a minimum estimated 2004
+population of 10,000 persons. The average number of counties in each
+PSU was 1.22, with a maximum of 5 counties per PSU.
+
+The 2,518 PSUs were stratified into 50 strata according to census region,
+levels of urbanization, and population size, which was based on the square
+root of the estimated 2004 population in each of these PSUs. Two PSUs
+were selected with equal probability within each of the fifty strata for a
+total of 100 PSUs and 110 counties in the supplemental sample. Hence, a
+total of 156 counties, 46 representing the nation's 75 most populous and
+110 representing the remainder of the nation, were used for the sample. All
+PSUs selected for the CJSSC either participated or substitutes were found
+for non-responsive units from a shadow sample; therefore, non-response
+adjustments were not needed for this survey.
+
+Selection of cases
+
+The second stage of the sample design generated lists of cases for coding.
+Each participating jurisdiction identified cases disposed of by jury trial or
+bench trial between January 1, 2005, and December 31, 2005. Some
+jurisdictions produced a list covering 12 months of trials for a fiscal year.
+Trial cases sampled met the following criteria for jury and bench trials:
+both litigants appeared at trial, both sides presented contested evidence, at
+least one litigating party sought monetary damages, and the trial was heard
+through completion. These criteria excluded many cases initially classified
+as bench or jury trials from the sample. Civil trials in state courts of
+limited jurisdiction and small claim cases were also excluded.
+
+Weighting
+
+For the sample of civil trials occurring in the nation's 75 most populous
+counties, data on 7,682 civil trials met the study criteria. When these trials
+are weighted to the nation's 75 most populous counties, they represent
+10,813 civil trials. For the sample of civil trials occurring outside the
+nation's 75 most populous counties, data on 1,190 civil trials met the study
+criteria. When these trials are weighted, they represent 16,135 civil trials
+disposed in counties outside the nation's 75 most populous (appendix table
+1).
+
+The weighted estimate of 26,948 civil trials represents a small percentage
+of the reported 7.5 million civil cases filed in all unified/general
+jurisdiction state courts nationwide in 2005. This nationwide count
+comprises all tort, contract, real property, small claims, probate/estate,
+mental health cases,  and other civil cases filed in state courts of
+unified/general jurisdiction. Although no nationwide counts of tort and
+contract filings in state courts are available, the National Center for State
+Courts Court Statistics Project reports 425,611 tort cases being filed in the
+unified/general jurisdiction courts of 32 states and 1,121,979 contract
+cases being filed in the unified/general jurisdiction courts of 28 states in
+2005 (LaFountain, R., Schauffler, R., Strickland, S., Raftery, W., &
+Bromage, C., Examing the Work of State Courts, 2006; A National
+Perspective from the Court Statistics Project (National Center for State
+Courts 2007)).
+
+Confidence of intervals
+
+Because the data come from a sample, a sampling error and confidence
+intervals are associated with each reported number. Confidence intervals
+and standard errors for several key variables are reported in table 10 and
+appendix table 2. These confidence intervals show where the reported
+CJSSC numbers would fall 95% of the time in repeated sampling. BJS
+statisticians examined the distribution of unweighted outcome statistics
+and the sampling error, confidence intervals, and coefficients of variation
+associated with each to identify outcome statistics most prone to sampling
+error. Those statistics with a coefficient of variation twice the estimated
+mean were deemed to be statistically unreliable and were not included in
+this report.
+
+Collection of counts of all civil dispositions
+
+In conjunction with collecting detailed case level information on general
+civil trials, the counties participating in this survey were asked to complete 
+a survey instrument constructed in a spreadsheet format that contained
+information on all general civil cases disposed in 2005. Frequency counts
+were obtained for trial and non-trial dispositions in these counties. The
+non-trial dispositions included cases dismissed for want of prosecution,
+granted default or summary judgments, settled or withdrawn prior to trial,
+settled through mediation or another method of alternative dispute
+resolution, or transferred to another court. This secondary data collection
+was used to gather disposition outcomes in trial and non-trial cases by case
+types.
+
+GLOSSARY
+
+Torts--Claims arising from personal injury or property damage caused by
+negligent or intentional acts of another person or business. Examples of
+torts include--
+
+Automobile accident--Personal injury or death caused by the negligent
+operation of a motor vehicle (not boat or airplane).
+
+Conversion--Personal injury or property damage caused by the
+unauthorized use or control of another's personal property.
+
+Intentional tort--Personal injury, death, or property damage caused by
+another's intentional act.
+
+Medical malpractice--Personal injury or death caused by a medical
+professional's negligent care.
+
+Other professional malpractice--Personal injury, death, or property damage
+caused by the negligent act of a non-medical professional.
+
+Other negligent acts--Negligence for an act not represented by other case
+categories.
+
+Premises liability--Personal injury or death caused by dangerous condition
+of residential or commercial property.
+
+Product liability--Personal injury or damage caused by the negligent
+manufacture or design of a product or exposure to toxic substances.
+
+Slander, Libel, or Defamation--Damage caused to the career or reputation
+of an individual due to false accusations, comments, or statements made
+by another.
+
+Contracts--Cases that include all allegations of breach of contract.
+
+Buyer plaintiff--Buyer claims no delivery or delivery of incomplete,
+incorrect, or poor quality goods or services.
+
+Employment discrimination--Firing, failure to promote, or failure to hire
+due to age, race, gender, or religion. Also, any dispute between employer
+and employee not based on an allegation of discrimination.
+
+Fraud--Claim of negligent or intentional misrepresentation of the nature of
+a person, product, or service within a legal contract.
+
+Other contract claim--Any contractual dispute other than the case
+categories
+used in this study, such as stockholder claims.
+
+Rental/lease agreement--A dispute between a landlord and a tenant over
+the terms of a lease or rental property.
+
+Seller plaintiff--Any debt collection for delivery of goods or services,
+including lenders seeking payment of money owed by a buyer or
+borrowers.
+
+Tortious interference--Dispute alleging a defendant's intentional procuring
+of breach of a commercial or contractual relationship and damages.
+
+Damage award terms
+
+Compensatory damages--Damages awarded to compensate plaintiffs for
+financial losses, pain, suffering, or emotional distress resulting from
+defendants' negligence. Compensatory damages include both economic
+and non-economic damages:
+
+Economic damages--Economic damages are awarded for actual financial
+losses (e.g., medical costs, lost wages, lost future earnings, property
+damages) suffered by litigant.
+
+Non-economic damages--Non-economic damages are awarded for pain
+and suffering, emotional distress, or loss of consortium.
+
+Punitive damages--Punitive damages are awarded as a punishment for
+intentionally or grossly negligent behavior. They are awarded for the
+purposes of punishment rather than compensation.
+
+-------------------------------------------------------------------------
+
+Office of Justice Programs * Innovation *  Partnerships * Safer
+Neighborhoods * http://www.bjs.gov
+
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+The Bureau of Justice Statistics is the statistical agency of the
+U.S. Department of Justice. James P. Lynch is the director.
+
+This report was written by Thomas H. Cohen and Kyle Harbacek 
+under the supervision of Duren Banks. Ron Malega verified the report.
+Nicole L. Waters, Ph.D. of the National Center for State Courts provided
+comments. Catherine Bird and Jill Thomas edited the report, Barbara
+Quinn produced the report, and Jayne Robinson prepared the report for
+final printing under the supervision of Doris J. James.
+
+March 2011, NCJ 233094
+
+This report in portable document format and in ASCII and its related
+statistical data and tables are available at the website:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=2376.
+--------------------------------------------------------------------------
+3/21/2011/JER/3:19
+
+
+
+               

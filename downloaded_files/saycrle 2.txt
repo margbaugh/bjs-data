@@ -1,0 +1,886 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Sexual Assault of Young Children as Reported to 
+Law Enforcement: Victim, Incident, and offender
+Characteristics
+
+------------------------------------------------------------------
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from: 
+http://www.ojp.usdoj.gov/bjs/abstract/saycrle.htm
+-------------------------------------------------------------------
+
+
+By Howard N. Snyder, Ph.D.
+National Center for Juvenile Justice
+
+July 2000, NCJ 182990
+
+A Statistical Report
+using data from the National
+Incident-Based Reporting System
+
+This work was supported in part by a grant from
+the American Statistical Association with funds
+provided by the U.S. Department of Justice,
+Bureau of Justice Statistics.
+
+Acknowledgments
+
+I would like to acknowledge the technical support given to this
+effort by the Criminal Justice Information Services Division of
+the Federal Bureau of Investigation and the financial support
+provided by a grant from the American Statistical Association.
+
+Contents
+
+Introduction
+
+The data  
+
+Findings
+Age of the victims of sexual assault  
+Gender of sexual assault victims
+Other offenses in sexual assault incidents 
+Other victims in sexual assault incidents
+Location of sexual assault
+Weapons in sexual assault
+Time of day of sexual assault
+Gender and age of offenders in sexual assault
+Victim-offender relationships in sexual assault
+Offender profiling
+Probability of arrest and clearance
+Correlates of the probability of arrest
+
+Summary and conclusions
+
+NIBRS definitions of forcible sex offenses
+
+Appendix A 
+
+Bibliography
+
+Introduction
+
+To law enforcement and the public, sexual assaults, and
+especially the sexual assaults of young children, are a major
+social concern.  Caretakers worry about such attacks when their
+children are out of sight.  Law enforcement, child protective
+services, and legislatures work to reduce the incidence of these
+crimes.  However, while a few highly publicized incidents are
+engraved in the public's consciousness, there is little
+empirically-based information on these crimes.  Until recently,
+law enforcement and policymakers had few hard facts on which to
+base their response to these crimes, their victims, and their
+offenders.
+
+The only existing national data collection effort that explored
+the incidence of sexual assault ignored crimes against young
+victims.  The National Crime Victimization Survey (NCVS)
+estimated there were 197,000 incidents of forcible rape and
+110,000 incidents of other sexual assault in the United States
+in 1996 involving victims ages 12 or above (Ringel, 1997). 
+Victims reported that a third (31%) of these sexual assaults (or
+94,000 victimizations) were reported to law enforcement
+agencies.  However, for 1996, the Uniform Crime Reporting
+Program (UCR) estimated that there were 96,000 forcible rapes
+alone reported to law enforcement agencies (FBI, 1997).  The UCR
+does not capture reported crime information on other sexual
+assaults such as forcible sodomy, sexual assault with an object,
+and forcible fondling.  However, it can be assumed from their
+relative volume in the NCVS that tens of thousands of sexual
+assaults other than forcible rape came to the attention of law
+enforcement in 1996.  The large difference between the NCVS and
+the UCR estimates may reflect differences in the two data
+collection methods; or, if both estimates are valid, they
+indicate that many victims of sexual assault are youth under age 12.  
+
+Beyond their volume, little is known about the victims, their
+offenders, and other characteristics of these crimes.  However,
+the UCR's relatively new National Incident-Based Reporting
+System (NIBRS) has the potential to yield detailed descriptions
+of sexual assaults reported by participating law enforcement
+agencies.  NIBRS captures a wide range of information on each
+incident of sexual assault reported to law enforcement.  This
+information includes demographic information on all victims; the
+levels of victim injury; victims' perceptions of offenders'
+ages, gender, race, and Hispanic ethnicity; and the
+victim-offender relationships.  NIBRS also collects information
+on all offenses involved in the incident; the types of weapons
+used; the locations of the incident, the dates and times of the
+incident; the demographics of arrestees (if any); and the
+methods of clearance, such as  arrest or victim refusal to
+cooperate with the investigation.  To some, the value of the
+NIBRS data is limited by the small and non-scientific sample of
+contributing law enforcement agencies.  From 1991 through 1996
+the sample of reporting agencies increased; however, even the
+reporting agencies in the 1996 sample were responsible for less
+than 10% of the U.S. population.  While there is no way to
+assess the national representativeness of the sample, the number
+of sexual assault victimizations in the NIBRS sample is very
+large.  Therefore, accepting the inherent qualifications
+associated with any analysis of NIBRS data, the sheer number of
+reports and the detailed information available on each crime
+provides researchers and policymakers with a unique opportunity
+to study the sexual assaults of young children.
+
+The data
+
+The 1991 through 1996 NIBRS master files contain reports from
+law enforcement agencies in 12 States: Alabama, Colorado, Idaho,
+Illinois, Iowa, Massachusetts, Michigan, North Dakota, South
+Carolina, Utah, Vermont, and Virginia.  These reports were
+scanned to identify incidents of sexual assault.  The FBI's
+offense coding structure classifies sexual assault into four
+separate offense categories.  From most to least serious, these
+crimes are forcible rape, forcible sodomy, sexual assault with
+an object, and forcible fondling.  If more than one of these
+offenses occurred, the most severe sexual charge was used to
+classify the sexual assault in the incident.
+
+To study the sexual assault of young children, two research
+bases (differing by unit of count) were extracted from the 1991
+through 1996 NIBRS master files.  One base summa- rized the
+information for each of the 60,991 victims of sexual assault,
+the incident characteristics, and (where available) information
+on their offender(s).  The second base compiled information for
+each of the 57,762 victim-identified offenders in sexual assault
+incidents, their victims, and related incident characteristics.
+
+Findings
+
+Age of the victims of sexual assault
+
+The most serious sexual assault charge was forcible fondling in
+45% of all sexual assaults reported to law enforcement in the
+1991 through 1996 NIBRS master files.  Incidents of forcible
+rape were nearly as common (42%), while incidents of forcible
+sodomy (8%) and sexual assault with an object (4%) were far less
+frequent.  One percent of victims of these crimes was age 54 or
+older.  Seven percent of victims were over age 34. Another 12% 
+were ages 25 through 34, and 14% were between ages 18 and 24.  
+The remainder, over two-thirds (67%) of all victims of sexual assault 
+reported to law enforcement agencies, were juveniles (under the 
+age of 18 at the time of the crime).  More than half of all juvenile 
+victims were under age 12.  That is, 33% of all victims of sexual 
+assault reported to law enforcement were ages 12 through 17 and 34% 
+were under age 12. ***Footnote 1: This finding that a third of sexual 
+assault victims reported to law enforcement were under age 12 largely 
+accounts for the discrepancy between the NCVS and the UCR estimates 
+of the number of sexual assaults reported to law enforcement.***  
+Most disturbing is that one of every seven victims of sexual assault
+(or 14% of all victims) reported to law enforcement agencies
+were under age 6.
+
+The age profile of sexual assault victims varied with the nature
+of the crime.  Juveniles were the large majority of the victims
+of forcible fondling (84%), forcible sodomy (79%), and sexual
+assault with an object (75%).  In contrast, juveniles were the
+victims in less than half (46%) of forcible rapes.  In each
+sexual assault category except forcible rape, children below the
+age of 12 were about half of all victims.
+
+The detailed age distribution of the victims of sexual assault
+emphasizes the high proportion of juvenile victims.  The single
+age with the greatest proportion of sexual assault victims
+reported to law enforcement was age 14.  There were more victims 
+in each individual age group between 3 and 17 than in any individual 
+age group over age 17 (any adult age group), and more victims age 
+2 than in any age group above age 40.  For victims under age 12, 
+4-year-olds were at greatest risk of being the victim of a sexual 
+assault.
+
+The victim age distribution differed with the nature of the
+offense.  The risk of being the victim of forcible rape increased 
+dramatically from age 10 to age 14, where it peaked.  By age 20, 
+the risk had dropped to less than half the peak 14-year-old rate, 
+and dropped to a 10th of the 14-year-old peak by age 40.  For 
+the other types of sexual assault, the victim age curves had two 
+peaks, one (as in forcible rape) around age 13 or 14 and the other 
+around age 4.  The risk of being the victim of forcible sodomy peaked 
+at age 4.  By age 11 the risk of forcible sodomy dropped to half the 
+peak rate, then increased for a couple of years through age 13, 
+before falling to a 10th of the peak rate by the early 20s.  The risk 
+of being the victim of sexual assault with an object peaked at ages 
+3 and 4, then fell to less than half the peak rate by age 8.  After
+age 8 the risk of sexual assault with an object increased through age 
+14 to almost three-fourths the 3- and 4-year-old peak, and then dropped 
+to a 10th of the peak rate by the mid-20s.  The risk of forcible fondling, 
+the other high volume sex assault offense along with forcible rape, first
+peaked at age 4, dropped marginally through the pre-teen years, and then
+increased to its absolute peak for victims age 13.  After age
+13, the risk of forcible fondling dropped precipitously, so that
+by age 24 the risk was a 10th of that of 13-year-olds.
+
+Gender of sexual assault victims
+
+Females were more than six times as likely as males to be the
+victims of sexual assaults known to law enforcement agencies. 
+More specifically, 86% of all victims of sexual assault were
+female.  The relative proportion of female victims generally
+increased with age.  Sixty-nine percent of victims under age 6
+were female, compared with 73% of victims under age 12, and 82%
+of all juvenile (under age 18) victims.  The female proportion
+of sexual assault victims reached 90% at age 13 and 95% at age
+19.
+
+Nearly all forcible rapes (99%) involved a female victim. 
+***Footnote 2: Males can be victims of a forcible rape when
+the perpetrator is a female.***  Females were the large majority 
+of victims in incidents of sexual assault with an object (87%) 
+and forcible fondling (82%).  In contrast, the majority of victims 
+of forcible sodomy (54%) were males.  In general, across all specific 
+offense categories, the proportion of female victims increased 
+with the age of the victim.  A greater percentage of juvenile sexual
+assault victims were male (18%) than were adult sexual assault
+victims (4%).  Males were 15% of the juvenile victims of sexual
+assault with an object, 20% of the juvenile victims of forcible
+fondling, and 59% of the juvenile victims of forcible sodomy. 
+For victims under age 12, the male proportions were even
+greater: sexual assault with an object (19%), forcible fondling
+(26%), and forcible sodomy (64%).  
+
+Based on the NIBRS data, the year in a male's life when he is
+most likely to be the victim of a sexual assault is age 4. By 
+age 17 his risk of victimization has been cut by a factor of 5.  
+A female's year of greatest risk is age 14.  Her risk drops to 
+half the peak level by age 17 and to a fifth of the peak level 
+by age 27.  At his peak victimization age of 4, a male's risk 
+of sexual assault victimization is just half that of females of 
+the same age. In the later juvenile years (ages 14 to 17), the 
+female victimization rates are at least 10 times greater than the 
+male rates for similar age groups.
+
+Other offenses in sexual assault incidents
+
+In 92% of sexual assault victimizations, a single sexual assault
+was the only crime against the victim recorded for the offender.
+Crimes against adults were more likely to involve multiple charges 
+than were crimes against juveniles.  That is, law enforcement recorded 
+that 16% of all adult sexual assault victims also experienced another 
+offense in the incident, compared with 5% of juvenile victims.  
+Overall, female victims of sexual assault were more likely to 
+experience multiple offenses than were male victims (10% versus 4%).  
+This gender difference was far less for juvenile victims; 5% of 
+female juvenile victims experienced multiple offenses compare with 
+3% of male juvenile victims.  When juvenile victims experienced
+multiple offenses, the most serious other charge in 47% of the
+incidents was another sex offense, 21% involved a non-sexual
+assault, 17% a kidnaping, and in 8% a burglary.  When adult
+victims experienced multiple offenses, in 13% of the incidents
+the most serious other charge was another sex offense, in 20% a
+non-sexual assault, in 30% a kidnaping, in 10% a robbery, and in
+21% a burglary.
+
+Other victims in sexual assault incidents
+
+When adults were sexually assaulted, the adult was the only
+victim in the incident in the vast majority of victimizations
+(96%).  Juvenile victimizations were far more likely to include
+other victims.  In 19% of juvenile sexual assault
+victimizations, the juvenile was victimized along with another
+individual.  Thirteen percent of juvenile victimizations
+involved a second victim; the remaining 6% involved three or
+more victims (not necessarily victims of sexual assault).
+
+Younger juvenile victims were more likely than older juvenile
+victims to be sexually assaulted with other victims.  The
+proportion of youth victimized with others was greater for
+juvenile victims under age 12 (25%) than for older juveniles
+(13%).  However, within the younger juvenile group, this
+age-related pattern was reversed; that is, youth ages 6 through
+11 were more likely to be victimized with others than were youth
+under age 6.  Twenty-one percent of victims under age 6 were
+victimized with others compared to 28% of victims ages 6 through 11.
+
+Forcible rapes were more likely to involve a single victim than
+any other sexual assault.  In 94% of forcible rape victimizations, 
+there were no other victims involved,  compared with 79% of forcible 
+fondling, 81% of forcible sodomy, and 85% of victimizations of 
+sexual assault with an object. Within each type of sexual assault, 
+juvenile victims were more likely to be victimized with others than 
+were adults. Regardless of the nature of the sexual assault, juveniles 
+under age 12 were more likely than older juveniles to be victimized
+with others.  But, as in the overall pattern, within each
+detailed offense category, youth ages 6 through 11 were more
+likely to be victimized with others than were the youngest
+victims, under age 6.
+
+Females were more likely to be victimized alone than were males.
+In 96% of adult female sexual assault victimizations, the
+female was the only victim, compared with 88% of adult male
+victimizations.  This discrepancy held for juvenile victims; in
+83% of juvenile female sexual assault victimizations, the
+female was the only victim, compared with 71% of male
+victimizations.  This discrepancy also held for victims under
+age 12; females under age 12 were the lone victims in 77% of
+their sexual assaults compared with 69% of young males.  Similar
+gender differences were found in each specific sexual assault
+offense category.
+
+When there was more than one victim in the incident, the victims
+were likely to be of similar ages.  This relationship was
+stronger for juvenile victims than adult victims.  In adult
+victimizations involving more than one victim, 71% percent of
+the victimizations involved another adult and 35% involved a
+juvenile victim, with 6% involving both another adult and a
+juvenile victim.  However, in juvenile victimizations with more
+than one victim, 96% percent of the victimizations involved
+another juvenile and 6% involved an adult victim, with 2%
+involving both another juvenile and an adult victim.  For
+victims under age 12 who were victimized with others, 90% of
+victimizations involved another youth under age 12, 15% involved
+older juveniles, and 4% involved adult victims.
+
+Location of sexual assault
+
+Most (70%) of the sexual assaults reported to law enforcement
+occurred in the residence of the victim, the offender, or the
+residence of another individual.  Less than two-thirds of
+forcible rapes (64%) occur in a residence compared with
+three-quarters of other sexual assaults: forcible sodomy (74%),
+sexual assault with an object (76%), and forcible fondling
+(74%).  Sexual assaults against females were less likely to
+occur in a residence than were those against male victims (69%
+versus 77%).  
+
+Young victims were generally more likely to be victimized in a
+residence than were older victims.  The age of the victim was 
+strongly related to where the assault occurred. Seventy-seven 
+percent of sexual assaults with juvenile victims occurred in a 
+residence compared with 55% of adult victimizations.  Older 
+juveniles were more likely than younger juveniles to be victimized 
+in a location other than a residence.  While just 16% of the sexual 
+assaults of youth below the age of 12 occurred in a place other than 
+a residence, 31% of the victimizations of youth ages 12 through 17 
+occurred in such locations.  The most common non-resident locations 
+for sexual assaults of juveniles were roadways, fields/woods, schools, 
+and hotels/motels.  For adults the most likely locations after a
+residence included roadways, fields/woods, hotels/motels, parking 
+lots, and commercial/office buildings.
+
+When a juvenile female was the victim of a sexual assault, the
+incident was almost as likely to occur in a residence as when a
+juvenile male was the victim.  Seventy-six percent of juvenile
+female victims of sexual assault were victimized in their home
+or in another residence compared with 80% of juvenile male
+victims.  The proportion of victimizations that occurred in
+residences was also similar for female and male victims under
+age 12 (85% versus 83%) and for female and male victims ages 12
+through 17 (69% versus 72%).
+
+Weapons in sexual assault
+
+In 93% of sexual assault victimizations the NIBRS data provided
+information on the most serious weapon used in the incident.  In
+77% of sexual assaults where the weapon information was
+available, the only weapon involved was what the FBI label as a
+personal weapon such as hands, feet, or fists.  A firearm was
+used or brandished in just 2% of sexual assault victimizations. 
+Other non-personal weapons such as a knife or club, were used or
+brandished in another 6% of sexual assaults.  In 14% of
+victimizations the records indicate that no weapon was involved.
+
+The use of a weapon other than a personal weapon increased with
+the age of the victim.  Rarely did the sexual assaults of youth
+under age 12 involve a firearm.  A firearm was involved in just
+1% of the sexual assaults of youth ages 12 through 17.  Other
+non-personal weapons were more common in these crimes, being
+involved in 4% of crimes against both juveniles under age 12 and
+victims between ages 12 and 17.  For adult victims, firearms
+were a slightly more common attribute of sexual assault, being
+used in 5% of victimizations.  Other non-personal weapons were
+more common in adult, rather than in juvenile assaults, being
+used in 11% of the sexual assaults of persons ages 18 and over.
+
+Time of day of sexual assault
+
+The time of day when sexual assaults occurred was related
+primarily to the age of the victim.  For adult victims, sexual 
+assaults were most common between midnight and 2 a.m.  From morning 
+through 7 p.m. the number of adult sexual assaults committed in each 
+1-hour period was essentially constant.  The number of adult assaults 
+began to increase in the 8 p.m. hour and increased consistently until 
+the peak in the 2 a.m. hour.  ***Footnote 3: The time of incident
+information in NIBRS is truncated to the hour, so that a crime that 
+occurred at 2:45 a.m. is coded as a 2 a.m. crime.***  The temporal 
+pattern for the sexual assaults of very young victims, children under 
+age 6, was quite different.  For these young victims, the temporal
+distribution appears to be a combination of two separate distributions.  
+The primary temporal pattern for these crimes has a peak in the 3 p.m. 
+hour.  This is also the hour other research has found to be the period 
+when juveniles are most likely to be the victims of violent crime in
+general (Snyder and Sickmund, 1999).  This primary temporal
+pattern shows a consistent increase in the frequency of sexual
+assaults of very young victims before 3 p.m. and a consistent
+decline in the hours after 3 p.m.  The secondary temporal
+pattern for the sexual assaults of very young children shows the
+hours of 8 a.m., noon, and 6 p.m. (traditional meal times) to be
+periods when the number of sexual assaults of very young victims
+spike.  The temporal patterns of sexual assault of youth ages 6
+through 11, and juveniles ages 12 through 17, appear to be a
+combination of the patterns of the very young, and the adult
+victims.  These temporal distributions combine the after-school
+and mealtime hour patterns of very young victims and the
+temporal patterns of sexual assault for adults.
+
+Gender and age of offenders in sexual assault
+
+Nearly all of the offenders in sexual assaults reported to law
+enforcement were male (96%).  Female offenders were most common
+in assaults against victims under age 6.  For these youngest
+victims, 12% of offenders were females, compared with 6% for
+victims ages 6 through 12, and 3% for victims ages 12 through
+17.  Overall, 6% of the offenders who sexually assaulted
+juveniles were female, compared with just 1% of the female
+offenders who sexually assaulted adults.
+
+The age profile of offenders in sexual assault varied with the
+nature of the crime.  Overall, 23% of sexual assault offenders 
+were under age 18 and 77% were adults.  Juveniles were
+a substantially smaller proportion of the offenders in forcible
+rapes (17%) than in sexual assaults with an object (23%),
+forcible fondlings (27%), and incidents of forcible sodomy (36%).
+
+Sixteen percent of juvenile offenders were under the age of 12. 
+These very young offenders were seldom the offenders in forcible
+rapes (1% of all offenders and 7% of juvenile offenders), while
+they made up greater proportions of the juvenile offenders in
+forcible fondlings (19%), sexual assaults with an object (17%),
+and forcible sodomies (23%).  Young adults (persons 18 through
+24) were 22% of adult offenders in forcible fondlings; however,
+they were 35% of adult offenders in forcible rapes. 
+Correspondingly, adults over age 34 were 28% of all adult
+offenders in forcible rapes and 47% of the adult offenders in
+forcible fondlings. 
+
+In general, the detailed age profile of offenders in sexual
+assault crimes shows that the single age with the greatest
+number of offenders from the perspective of law enforcement
+was age 14.  ***Footnote 4: Analyses of the NIBRS data on age
+of offender is complicated by the fact that the distribution of
+ages is greatly affected by the use of age estimates by the victims.
+See Appendix A for more details.***  The frequency of offenders 
+within age groups declined gradually with age, reaching half the peak
+frequency by the late 30s.
+
+The age profile of offenders varied with the age of the victim.  
+Juvenile offenders assaulted 4% of adult victims, while adult offenders
+assaulted 67% of juvenile victims. Younger juvenile victims tended to 
+have a greater proportion of juvenile offenders than did older juvenile
+victims.  Thirteen percent of offenders of victims under age 6 were ages 
+7 through 11, and 27% of the offenders of these very young victims were
+ages 12 through 17.  That is, 40% of the offenders of victims under age 
+6 were themselves juveniles.  A similar proportion (39%) of offenders of
+victims ages 6 through 11 were also juveniles.  For older juvenile 
+victims, the proportion of juvenile offenders dropped to 27%.
+
+Victim-offender relationships in sexual assault
+
+About one-quarter (27%) of all offenders were family members of
+their victims.  The offenders of young victims were
+more likely than the offenders of older victims to be family
+members.  Almost half (49%) of the offenders of victims under
+age 6 were family members, compared with 42% of the offenders
+who sexually assaulted youth ages 6 through 11, and 24% of
+offenders who sexually assaulted juveniles ages 12 through 17. 
+Overall, just 12% of the offenders who sexually assaulted adults
+were family members of the victims, compared with 34% of the
+offenders of juvenile victims.
+
+Except for victims under age 6, most sexual assault offenders
+were not family members but were otherwise known to the victim. 
+Sixty percent of all sexual assault offenders were classified by
+law enforcement as acquaintances of the victim.  Just 14% of
+offenders were strangers to their victims.  Strangers were a
+greater proportion of the offenders of adult victims (27%) than
+juvenile victims (7%).  The youngest juveniles were least likely
+to have an offender who was a stranger.  Just 3% of the
+offenders in the sexual assaults of children under age 6 were
+strangers, compared with 5% of the offenders of youth ages 6
+through 12, and 10% of offenders of juveniles ages 12 through 17.
+
+In general, the victim-offender relationships were similar for
+male and female victims; however, there were differences in the
+offender profiles for victims under age 12.  Compared with young 
+male victims, a greater proportion of female victims under age 12 
+was assaulted by family members.  For male victims under age 12, 
+40% of offenders were family members compared with 47% of the 
+offenders of females under age 12.
+
+Offender profiling
+
+Using NIBRS data, it is possible to develop probability
+statements about the characteristics of the offenders given
+certain characteristics of the incident.  For example,
+knowing that a victim under age 6 was assaulted in a residence,
+the NIBRS data indicate that the most likely offender was a
+juvenile acquaintance age 12 through 17 (probability 15.2%) or a
+family member age 25 through 34 (probability 15.0%).  When a
+very young victim was assaulted some place other than a
+residence, the probability that the offender was an adult family
+member declines, while the probability that the offender was a
+juvenile acquaintance under age 12 increases substantially. 
+When the victim was a little older (ages 6 through 11) and
+assaulted in some place other than a residence, the likelihood
+that the offender was a juvenile acquaintance increases even
+more (probability 41.0%).
+
+The offenders of adolescents (victims ages 12 through 17) were 5
+times more likely to be adult family members when the crime was
+committed in a residence than when it was committed elsewhere. The 
+probability that the offender was a juvenile age 12 through 17 was 
+twice as great when the crime occurred outside of a residence.  For 
+adult victims, the offender profile was also related to the location 
+of the crime.  Offenders of adult victims were 3 times more likely 
+to be adult strangers when the crime occurred outside of a residence 
+than when it occurred inside a residence.  
+
+Probability of arrest and clearance
+
+The NIBRS data indicate that an arrest was made in 27% of all
+sexual assault victimizations.  There were only minor
+offense-related differences in arrest probabilities: forcible
+rape (25%), forcible sodomy (30%), sexual assault with an object
+(28%), and forcible fondling (27%).  Crimes were also cleared by
+means other than arrest, or what the FBI has labeled clearances
+by exceptional means.  More specifically, in 7% of sexual
+assault victimizations the victim refused to cooperate. 
+Prosecution was declined in 6% of sexual assaults, implying that
+there was insufficient evidence to charge or convict the
+offender.  In a small proportion of cases, the offender had
+died, making arrest impossible.  Overall, in the NIBRS sample,
+42% of all sexual assaults were cleared by law enforcement
+through arrest or by exceptional means.  ***Footnote 5: It should
+be noted that 41% of forcible rapes in the NIBRS data were cleared
+by arrests or exceptional means, a level below the national figure
+of 52% reported by the FBI in Crime in the United States 1996.***  
+
+In general, the assaults of juvenile victims were more likely to
+result in an arrest (29%) than were adult victimizations (22%). 
+Assaults against the youngest victims were the least likely of
+juvenile victimizations to result in arrest.  An offender was
+arrested in just 19% of the sexual assaults of children under
+age 6, compared to 33% of victims ages 6 through 11, and 32% of
+victims ages 12 through 17.  In all, arrest probabilities were
+similar in victimizations of children under age 6 and of adults,
+while the probability of arrest was greater when the victim was
+between the ages of 6 and 17.  
+
+One factor in the relatively lower arrest probability for crimes
+against adult victims can be found in a study of clearances by
+other means.  When considering both arrest and other exceptional
+means, the probability that adult victimizations were cleared
+(39%) was closer to the clearance probabilities for crimes
+against victims ages 6 through 11 (45%) and victims ages 12
+through  17 (45%).  These clearance probabilities were more
+similar than the arrest probabilities because a much larger
+proportion of adult crimes were classified as cleared by law
+enforcement when the victim refused to cooperate.  However, even
+when considering all means of clearances, the youngest victims
+(under age 6) still had the smallest proportion of their
+victimizations cleared by law enforcement (34%).
+
+The probability that an offender would be arrested or the matter
+cleared by arrest or exceptional means was largely unrelated to
+the offender's age.  The only age-related difference was for very 
+young offenders.  While the crimes of very young offenders were far 
+less likely to result in arrest than were those of other offenders, 
+the proportion of their crimes cleared were similar.  The reason for 
+this pattern is that law enforcement considered many of these crimes 
+to be cleared because the offender had been identified, but due to the 
+young age of the offender no arrest was made.
+
+Correlates of the probability of arrest
+
+While age of the offender was differentially related to the
+likelihood of arrest, only for the very young offender, other
+incident characteristics were correlated with the probability of
+arrest and the probability that the offense would be otherwise
+cleared by law enforcement.  Based on the results of a logistic
+regression, the factors that had the largest influence on the
+probability of arrest (in order of their odds ratios) were --
+
+*  the number of victims in the incident -- with more than one
+victim increasing arrest probabilities
+*  the number of offenders in the incident -- with incidents
+with just one offender increasing arrest probabilities
+*  the age of the victim -- with juvenile victims increasing
+arrest probabilities
+*  the sex of the victim -- with male victims decreasing arrest
+probabilities.
+
+Other incident characteristics that influenced the probability
+of arrest to a lesser degree, but still remained statistically
+significant were --
+
+*  the relationship of the victim and the offender -- with
+offenders who were strangers decreasing arrest probabilities
+*  the location of the incident -- with incidents occurring
+outside of residences decreasing arrest probabilities
+*  the injury to the victim -- with incidents in which the
+victim was injured decreasing arrest probabilities.
+
+These correlates were roughly similar for predictions of
+clearances with one exception.  Incidents with offenders who
+were known to the victim were substantially more likely to be
+cleared than those in which the offender was a stranger to the
+victim.  This difference between the arrests and clearance
+correlates reflects those incidents in which the offender is
+known to the victim but the victim refuses to cooperate with law
+enforcement.
+
+Summary and conclusions
+
+Based on NIBRS data, crimes against juvenile victims are the
+large majority (67%) of sexual assaults handled by law
+enforcement agencies.  One of every seven victims was under the
+age of 6, and over a third of all sexual assaults involved a
+victim who was under the age of 12.  This implies that by design
+the National Crime Victimization Survey is missing over a third
+of all sexual assaults that occur in the United States each
+year.  The only large, multi-jurisdictional source of
+information on these crimes, therefore, is the FBI's National
+Incident-Based Reporting System (NIBRS).
+
+With the more complete view of sexual assault patterns in the
+NIBRS data, the characteristics of sexual assaults of young
+juveniles can be differentiated from those of older juveniles
+and adults.  Juvenile victims of sexual assault were more likely
+to be male (18%) than were adult victims (4%).  Nearly a quarter
+(27%) of the victims under age 12 were male.  Juveniles under
+the age of 12 were about half of all the victims of forcible
+sodomy, sexual assault with an object, and forcible fondling and
+about an eighth of all victims of forcible rape reported to law
+enforcement agencies.
+
+Juvenile victims were more likely to be victimized with others
+than were adults.  One of every five juvenile victims of sexual
+assault were victimized in incidents with more than one victim,
+while just 4% of adult sexual assault victims were victimized
+with others.  Juveniles under 12 were far more likely to be
+victimized in groups than were older juveniles; 25% of these
+young juveniles were victimized with others, compared to 13% of
+older juvenile victims.  When juveniles under the age of 12 were
+victimized with others, 90% of victimizations involved other
+victims under age 12, 15% involved older juvenile victims, and
+4% also involved adult victims.
+
+Nearly 5 of every 6 sexual assaults of young juveniles occurred
+in a residence.  Crimes against older juveniles and, especially,
+adult victims were far more likely to occur in other places. 
+Weapons other than the offender's hands and feet were rarely
+used in the sexual assault of young juveniles.  The temporal
+pattern of sexual assault shows that unlike adults, young
+juveniles are at highest risk of sexual assault in the hours
+when meals are served and after school.
+
+Adults were the offenders in 60% of the sexual assaults of youth
+under age 12.  Rarely were the offenders of young juvenile
+victims strangers.  Strangers were the offenders in just 3% of
+sexual assaults against victims under age 6 and 5% of the sexual
+assault victimizations of youth ages 6 through  11.  Sexual
+assaults of children under the age of 6 were the least likely of
+all such crimes to result in arrest or be otherwise cleared. 
+The NIBRS data indicate that law enforcement identified the
+offender in just a third (34%) of the sexual assaults of
+children under age 6 and nearly half (45%) of the victimizations
+of youth ages 6 through 11.
+
+In all, the characteristics of the large number of sexual
+assaults of youth under age 12 differ on significant dimensions
+from the sexual assaults of older juveniles and adult victims. 
+This substantial component of America's crime problem has been
+characterized by subjective assessments or atypical high profile
+crimes for too long.  NIBRS data provide policymakers
+(especially in the communities where NIBRS-compatible,
+management information systems exist) with the information
+required to make empirically-based judgments about the scope and
+characteristics of sexual crimes against our youngest citizens. 
+With this critical information, justice professionals and
+policymakers can focus their energies on possible interventions
+designed to reduce this very serious crime that affects the most
+vulnerable of our children and causes lifelong problems for its
+victims. 
+
+NIBRS definitions of forcible sex offenses
+
+Forcible sex offenses  Any sexual act directed against another
+person, forcibly and/or against that person's will; or not
+forcibly or against the person's will where the victim is
+incapable of giving consent because of his/her temporary or
+permanent mental or physical incapacity.
+
+Forcible rape (except "statutory rape")  The carnal knowledge of
+a person, forcibly and/or against that person's will; or not
+forcibly or against the person's will where the victim is
+incapable of giving consent because of his/her temporary or
+permanent mental or physical incapacity.  If force was used or
+threatened, the crime should be classified as forcible rape
+regardless of the age of the victim.  If no force was used or
+threatened and the victim was under the statutory age of
+consent, the crime should be classified as statutory rape.
+
+Forcible sodomy  Oral or anal sexual intercourse with another
+person, forcibly and/or against that person's will; or not
+forcibly or against the person's will where the victim is
+incapable of giving consent because of his/her youth or because
+of his/her temporary or permanent mental or physical incapacity.
+
+Sexual assault with an object  To use an object or instrument to
+unlawfully penetrate, however slightly, the genital or anal
+opening of the body of another person, forcibly and/or against
+that person's will; or not forcibly or against the person's will
+where the victim is incapable of giving consent because of
+his/her youth or because of his/her temporary or permanent
+mental or physical incapacity.  An "object" or "instrument" is
+anything used by the offender other than the offender's
+genitalia.  Examples are a finger, bottle, handgun, stick, etc.
+
+Forcible fondling  The touching of the private body parts of
+another person for the purpose of sexual gratification, forcibly
+and/or against that person's will; or not forcibly or against
+the person's will where the victim is incapable of giving
+consent because of his/her youth or because of his/her temporary
+or permanent mental or physical incapacity.  Forcible fondling
+includes "indecent liberties" and "child molesting."  Because
+forcible fondling is an element of forcible rape, forcible
+sodomy, and sexual assault with an object, it should be reported
+only if it is the sole forcible sex offense committed against a
+victim. 
+
+Appendix A
+
+Law enforcement may report the victim's perception of offender
+age as a point estimate or as a range.  This results in two
+analysis problems.  First, victims often express the offender's
+age as 5-year age range, for example, 25 to 30.  In such
+instances, the NIBRS data record the midpoint of the range which
+would be 27.  In other situations the victim gives a specific
+age, but these estimates are most likely to fall on ages
+divisible by 5, such as 20, 25, 30, 35.  Both of these response
+patterns create artificial peaks, one at 5-year points and one
+between 5-year points.  A presentation of the raw NIBRS data on
+offender age confirms this peaking in the data.  For
+presentation in this paper, the offender age data were smoothed.
+
+Bibliography
+
+Federal Bureau of Investigation.  Crime in the United States
+1996. Washington, DC:  Government Printing Office, 1997.
+
+Federal Bureau of Investigation.  NIBRS Flatfile Tape Master
+Record Descriptions. Washington, DC:  U.S. Department of
+Justice, 1995.
+
+Greenfeld, L.  Sex Offenses and Offenders:  An Analysis of Data
+on Rape and Sexual Assault. BJS report, NCJ 163392, February
+1997.
+
+Ringel, C.  Criminal Victimization 1996: Changes 1995-96 with
+Trends 1993-96.  BJS Bulletin, NCJ 165812, November 1997.
+
+Snyder, H. and Sickmund, M. Juvenile Offenders and Victims: 1999
+National Report.  Washington, DC: U.S. Department of Justice,
+Office of Juvenile Justice and Delinquency Prevention, 1999.
+
+End of file
+6/30/00 ih
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acknowledgments
+
+
+
+I would like to acknowledge the technical support given to this
+effort by the Criminal Justice Information Services Division of
+the Federal Bureau of Investigation and the financial support
+provided by a grant from the American Statistical Association.
+
+
+
+Contents
+
+
+
+Introduction
+
+
+
+The data  
+
+
+
+Findings
+
+Age of the victims of sexual assault  
+
+Gender of sexual assault victims
+
+Other offenses in sexual assault incidents 
+
+Other victims in sexual assault incidents
+
+Location of sexual assault
+
+Weapons in sexual assault
+
+Time of day of sexual assault
+
+Gender and age of offenders in sexual assault
+
+Victim-offender relationships in sexual assault
+
+Offender profiling
+
+Probability of arrest and clearance
+
+Correlates of the probability of arrest
+
+
+
+Summary and conclusions
+
+
+
+NIBRS definitions of forcible sex offenses
+
+
+
+Appendix A 
+
+
+
+Bibliography
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,643 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Program Report
+
+National Criminal History Improvement Program (NCHIP)
+
+Improving Criminal History Records for Background 
+Checks, 2005
+
+
+July 2006, NCJ 211485
+
+
+------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.cvs) and the ful report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/ichrbc05.htm
+
+This report is one in a series. More recent editions may
+be available. To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#ichrbc
+--------------------------------------------------------
+
+Gerard F. Ramker 
+Chief, BJS Criminal History 
+Improvement Programs 
+
+-----------------------------------------------------
+Highlights
+
+Since 1995 criminal records accessible for background 
+checks increased 83% and the growth rate in automated
+records was 57%
+
+* At the end of 2003, States held approximately 71 
+million criminal records on individuals. 
+
+* About 9 out of 10 of these records were automated 
+and 3 out of 4 automated records were accessible for 
+conducting presale firearms and other background checks. 
+
+* As of December 2005, 48 States belonged to the 
+Interstate Identification Index (III), meeting the 
+FBI's rigorous standards for participation.
+
+* The National Instant Criminal Background Check System 
+(NICS) supports nearly 8 million checks annually at the 
+presale stage of firearms purchases. 
+
+* Approximately 1.9% of all applications for firearm 
+purchases were rejected, primarily for the presence 
+of a prior felony conviction history.
+
+As of January 2006-- 
+
+- all 50 States, the District of Columbia, Guam, Puerto 
+Rico, and the U.S. Virgin Islands were contributing to 
+the National Sex Offender Registry file which held 
+414,470 records.
+
+- 45 States, the District of Columbia, and the U.S. 
+Virgin Islands were submitting data to the National 
+Protection Order File which held over 949,810 records.
+------------------------------------------------------
+
+Introduction
+
+Criminal history records describe an arrest and all
+subsequent actions concerning each criminal event that
+are positively identifiable to an individual. Accurate,
+timely, and complete criminal history record information-- 
+ 
+* enables States to immediately identify persons who are
+prohibited from firearm purchase or are ineligible to 
+hold positions of responsibility involving children, the
+elderly, or the disabled 
+
+* enables criminal justice agencies to make decisions on
+pretrial release, career criminal charging, determinate 
+sentencing, and correctional assignments 
+
+* is critical to assist law enforcement in criminal
+investigations and decision making 
+
+* is required for background checks for national security,
+employment, licensing, and related economic purposes, as 
+required under recent legislation.
+
+The Bureau of Justice Statistics' National Criminal History
+Improvement Program (NCHIP) provides grants and technical 
+assistance to the States to improve the quality, timeliness, 
+and immediate accessibility of criminal history records and 
+related information.
+
+The goal of the NCHIP grant program is to improve the
+Nation's safety and security by enhancing the quality, 
+completeness, and accessibility of criminal history
+record information and by insuring the nationwide 
+implementation of criminal justice and noncriminal 
+justice background check systems. Achieving this goal 
+is contingent upon accomplishing four objectives --  
+
+providing direct financial and technical assistance to 
+the States to improve their criminal records systems
+and other related systems to support background checks
+
+ensuring the infrastructure is developed to connect each
+State's records systems to FBI records systems and, in 
+turn, to connect each State's background check databases 
+to one another
+
+providing the training and technical assistance to States
+needed to insure that records systems are developed and 
+managed to conform to FBI standards and the most appropriate 
+technologies and that States adhere to the highest standards 
+of practice with respect to privacy and confidentiality
+
+assessing and measuring through systematic evaluation and
+standardized performance measurement and statistics, the 
+extent of progress in implementing improvements in state-
+level and national records holdings and background check 
+systems. 
+
+The NCHIP program serves as an umbrella for various records
+improvements activities and funding streams each of which has 
+unique goals and objectives. 
+
+Program history
+
+Initiated in 1995 the NCHIP program has made awards to all
+the States, the District of Columbia, and 5 U.S. Territories 
+totaling $495 million through fiscal year 2005 (see appendix). 
+NCHIP awards are based on need rather than population or 
+other formula-based methodology. California (7.3%), New York 
+(6.1%), and Texas (5.2%) have received awards totaling $92 
+million or about 19% of total NCHIP funds awarded.
+
+In FY 2005 BJS awarded approximately $26 million in NCHIP
+funds to promote continued development of criminal records 
+infrastructure. The FY 2005 appropriation from Congress
+included $24.7 million to support continued assistance to
+the States and localities and an additional $2.91 million 
+to support the development of anti-stalking databases 
+(files of protection and/or restraining order records). 
+
+The FY 2006 NCHIP Program Announcement, released in March
+2006, provides for the continued development of the criminal 
+records infrastructure to support NICS and other background 
+check purposes. BJS urges States to develop a component of 
+their program for the courts and prosecutors to electronically 
+communicate disposition transactions for inclusion in criminal
+records. The announcement also encourages States to incorporate 
+mental health records into background check systems.
+
+The FY 2006 appropriation is $9.87 million for NCHIP plus
+$2.9 million for antistalking databases. The President's 
+proposed budget for FY 2007 seeks $39.18 million for NCHIP 
+(plus $2.94 million for anti-stalking databases) to support 
+a court-directed special emphasis on improving disposition 
+reporting.
+
+-----------------------------------------
+Authorizing legislation
+
+For 2006 the appropriation for the NCHIP program was 
+made pursuant to the Crime Identification Technology 
+Act of 1998 and the procedures for applying for NCHIP 
+grants reflect the provisions of that act. State 
+matching funds are required for NCHIP applications. The 
+NCHIP program implements the grant provisions for —
+
+* the Crime Identification Technology Act of 1998(CITA), 
+Pub. L. No. 105-251, 112 Stat. 1871(1998), codified at 
+42 U.S.C. Section 14601 et seq.
+
+* the Brady Handgun Violence Prevention Act(Brady Act), 
+Pub. L. No. 103-159, 107 Stat.1536 (1993), codified as 
+amended at 18 U.S.C. Section 921 et seq.
+ 
+* the National Child Protection Act of 1993 (NCPA), Pub. 
+L. No. 103-209, 107 Stat. 2490 (1993), codified as amended 
+at 42 U.S.C. Sections 3759, 5101 note, 5119, 5119a, 5119b, 
+5119c 
+
+* those provisions of the Omnibus Crime Control and Safe 
+Streets Act of 1968 (Omnibus Act), Pub. L. No. 90-351, 
+82 Stat. 197 (1968), codified as amended at 42 U.S.C. 
+Section 3711 et seq., as amended; and the Violent Crime 
+Control and Law Enforcement Act of 1994 (Violent Crime 
+Control Act), Pub. L. No.103-322, 108 Stat. 1796 (1994), 
+codified as amended at 42 U.S.C. Section 13701 et seq., 
+which pertain to the establishment, maintenance, 
+analysis, or use of criminal history records and 
+criminal record systems 
+
+* relevant requirements of the Jacob Wetterling Crimes 
+Against Children and Sexually Violent Offender 
+Registration Act, Pub. L. No. 103-322, 108 Stat. 2038, 
+Megan's Law, Pub.L. No. 104-145, 110 Stat. 1345, and 
+the Pam Lychner Sexual Offender Tracking and 
+Identification Act of 1996, Pub. L. No. 104-236, 110 
+Stat. 3093
+
+* the Victims of Trafficking and Violence Protection Act 
+of 2000, Pub. L. No. 106-386, 114 Stat. 1464 (2000) and 
+related laws pertaining to the identification, collection, 
+analysis and interstate exchange of records relating to 
+domestic violence and stalking (including protection 
+orders).
+----------------------------------------------
+
+Accomplishments 
+
+NCHIP-funded criminal records improvement efforts have
+achieved several successes.
+
+Improved accessibility of records 
+
+All States have received funds under NCHIP to upgrade the
+quality and availability of criminal history record systems. 
+Funds have been awarded for acquisition of advanced
+equipment, development of software, and conversion of manual 
+records to an automated format which permits instant access 
+and linkage. Automated criminal records permit immediate 
+access for law enforcement and other purposes such as 
+background checks. At the end of 2003, States held
+approximately 71 million criminal records on individuals. 
+About 9 out of 10 of these records were automated and 3 out
+of 4 automated records were accessible for conducting presale 
+firearms and other background checks. Since 1995 the number 
+of criminal records accessible for background checks has
+increased 83%, while the rate of growth in the number of 
+automated records over the same years was 57% (highlights).
+
+Full participation in the Interstate 
+Identification Index (III) 
+
+To ensure compatibility, all record enhancements funded
+under NCHIP are required to conform to FBI standards for 
+III participation. III participation is critical since it 
+constitutes the primary system through which the FBI 
+accesses State-held data for NICS checks. In 1989 only 20
+States were members of the FBI's III system that permits 
+instant access to out-of-state data. By yearend 1993, 26 
+States were participants. As of January 2006, 48 States 
+are members of III indicating that they meet the FBI's 
+rigorous standards for participation.
+
+Automation of records 
+and fingerprint data 
+
+States have used funds to establish automated fingerprint
+identification systems (AFIS) and to purchase live-scan 
+equipment for State and local agencies. AFIS enables 
+States to conduct automated searches for records based 
+on fingerprint characteristics and to interface with the 
+FBI's Integrated Automated Fingerprint Identification 
+Systems (IAFIS). 
+
+As of January 2006, 48 States, the District of Columbia, 
+and 3 territories (American Samoa, Guam, and the U.S. 
+Virgin Islands) participate in IAFIS, which became 
+operational in July 1999. In addition to ensuring that 
+records are properly matched to the correct offender, 
+AFIS minimizes the time and manpower required for 
+searching fingerprint databases, which facilitates 
+matching of latent prints obtained at a crime scene. 
+
+Livescan equipment permits law enforcement to take 
+fingerprints without use of inkpads or other similar
+procedures and to electronically transfer fingerprints 
+to the State's AFIS for comparison and matching against 
+State and FBI held prints. Almost all States have 
+received NCHIP funds to use in connection with 
+fingerprint automation systems.
+
+National Instant Criminal 
+Background Check System (NICS) 
+
+The Brady Act requires that a background check be conducted
+using the FBI's NICS to identify potential purchasers who 
+are prohibited from purchasing firearms. Over 63 million
+records in thirteen files are used for NICS checks. The 
+effectiveness of the system is dependent on the extent to 
+which complete records are available in response to system 
+inquiries. NCHIP funds have been used to increase the
+number of records which are accessible to the system and to
+fund the development of court systems to ensure that records 
+include final dispositions. 
+
+The NICS is now supporting nearly 8 million checks annually
+at the presale stage of firearms purchases. Since 1999 under 
+the permanent provisions of the Brady Act, almost 48
+million applications for firearm transfers were subject to 
+background checks. Approximately 896,000, or 1.9% of all 
+applications were rejected, primarily for the presence of a 
+prior felony conviction history, but also in a growing 
+proportion of checks for nonfelony prohibiting background 
+factors, enumerated in the 1968 Gun Control Act as amended. 
+State and local agencies maintain a significant role in 
+background checks, having conducted checks on almost half of 
+the applications for firearm transfers or permits in 2003, 
+while the FBI was responsible for the remainder.
+
+National Sex Offender Registry 
+
+Beginning in FY 1998 NCHIP funds have been provided to assist 
+States in developing and enhancing the operation of State sex 
+offender registries that include information on convicted sex 
+offenders. These funds have been used for purchase of equipment, 
+training, and development of procedures required to ensure
+that released offenders are registered with proper authorities 
+and that State systems are capable of interfacing with the FBI's 
+National Sex Offender Registry system. The FBI's permanent 
+National Sex Offender Registry became operational in July 
+1999. As of January 2006 all 50 States, the District of
+Columbia, Guam, Puerto Rico, and the U.S. Virgin Islands
+were contributing to the National Crime Information Center 
+(NCIC) file that held 414,470 records.
+
+Domestic violence records 
+and protection orders 
+
+NCHIP has put special emphasis on ensuring that domestic
+violence-related offenses are included in criminal records. 
+The Federal Gun Control Act as amended prohibits sales of 
+firearms to persons subject to a qualifying domestic 
+violence related protection order or convicted of a
+qualifying domestic violence misdemeanor. Funds have been 
+awarded specifically for development of State protection 
+order files that are compatible with the FBI's national file 
+so as to permit interstate enforcement of protection orders 
+and the denial of firearm transfers to prohibited persons
+subject to a protection order. The NCIC's National
+Protection Order File became operational in May 1997. As 
+of January 2006, 45 States, the District of Columbia, and 
+the U.S. Virgin Islands were submitting data to the file
+which held over 949,810 records of protection orders. 
+
+Involvement of the Courts and 
+Systems Integration to Improve
+Disposition Reporting 
+
+Ensuring that States demonstrate a commitment to support
+court efforts relating to the development of record 
+systems is among the most important priorities of NCHIP. 
+All NCHIP applications are required to demonstrate that 
+court needs have been considered.
+
+For FY 2005, 37 States included direct funding to the courts
+or funded court-related activities and disposition reporting. 
+Such projects totaled over $6 million(25%)of the NCHIP funds 
+awarded in 2005. The following are examples of court 
+improvement projects that States are undertaking with 2005 
+NCHIP awards:
+
+The Administrative Office of the Courts in Alabama is
+continuing to expand its project to collect criminal
+disposition data from the municipal courts, flagging all
+court dispositions that are domestic violence related, and 
+is developing a new arrest-to-court disposition automated
+matching program. 
+
+The Alaska Department of Public Safety (DPS) is providing
+funds to the Alaska Court System for data exchange and 
+infrastructure projects, including the exchange of court
+records and criminal history data between the court system 
+and other criminal justice agencies, and providing training 
+and technical assistance to users of the court information 
+system.
+
+The Arizona Criminal Justice Commission is developing a
+comprehensive disposition reporting system involving an 
+improved web entry front-end to include error checking, 
+mass update capabilities, enhanced charge tracking, 
+utilization of the Global Justice XML Data Model, and
+improved justice and law enforcement system integration. 
+
+The Arkansas Crime Information Center (ACIC) is using 
+funds to support the identification and collection of 
+missing disposition information. Funds are also being
+used by the Administrative Office of the Courts for
+completion of a technology project resulting in the
+automatic transmission of criminal case dispositions 
+to the ACIC.
+
+The California Department of Justice is implementing a 
+pilot project in two county courts to add electronic
+thumbprint images to dispositions and supporting both 
+the transmission of disposition data from the
+Administrative Office of the Courts to the State 
+repository and the processing of real-time automated
+disposition reporting from five counties. 
+
+The Florida Department of Law Enforcement(FDLE)is
+implementing a project with the Florida Association of 
+Court Clerks to research and obtain missing disposition
+data. FDLE will also complete system enhancements to 
+provide criminal judges, Clerks of Court, and State 
+Attorneys electronic access to sentencing and commitment 
+data. 
+
+The Georgia Bureau of Investigation is assisting the 
+courts in developing a new court case management
+system that will enable electronic transmission of
+disposition data from the courts to the central criminal
+history repository.
+
+The Hawaii Department of the Attorney General is supporting
+the upgrade of the Judiciary's current telecommunications 
+technology to allow the transmission of criminal justice 
+information over the State network to CJIS-Hawaii.
+
+The Louisiana Commission on Law Enforcement, in cooperation
+with the Integrated Criminal Justice Information System
+(ICJIS)Policy Board, the Supreme Court, the District 
+Attorneys' Association, the Sheriffs' Association, and the 
+State Police, is continuing the development and implementation 
+of the ICJIS and its component systems. 
+
+The Maine Department of Public Safety is conducting an
+analysis of both the quality of court disposition
+reporting to the criminal record repository and the
+contributory factors related to low reporting rates,
+developing a plan to mitigate low disposition reporting
+rates, and finalizing a strategy to link dispositions to
+the State's criminal history record system.
+
+Maryland is researching and identifying existing Arrest 
+and Disposition Reporting(ADR)system records lacking 
+final court dispositions and matching arrests to the 
+correct disposition for entry into the repository. Also, 
+a process will be created to update the ADR system with 
+court disposition information for older records that 
+have no court tracking number associated with them.
+
+
+The Minnesota Bureau of Criminal Apprehension is using 
+funds to improve information about both misdemeanor 
+domestic violence offenses and dispositions and orders 
+of protection by developing integrated standard business 
+practices on gathering proper identification on targeted 
+misdemeanors and other court disposition data to be 
+transferred to the criminal history files. 
+ 
+The Mississippi Department of Public Safety, Criminal
+Information Center(CIC)is initiating the testing and 
+installation of an interface between the Mississippi
+Criminal History System and the courts and
+prosecutor's new case management system.
+
+The Missouri State Highway Patrol and the Office of State
+Court Administrators is supporting an initiative aimed at 
+improving the accuracy and completeness of Missouri's 
+Criminal History Record System. The project involves the 
+identification of missing criminal arrests and final
+disposition information through manual field research at 
+the criminal justice agencies. 
+ 
+New Hampshire is using grant funds to continue support for
+its Administrative Office of the Courts to review and enter 
+domestic violence and stalking restraining orders into the
+State criminal justice information system and to the FBI's 
+NCIC.
+
+The New Jersey Department of Law and Public Safety, in
+collaboration with the Administrative Office of the 
+Courts (AOC), is installing livescan units in a Camden
+County Jail which will permit an interface with the 
+County Correction Information System. Also, the AOC will
+continue to build interfaces between its database and the 
+information systems of several State criminal justice
+agencies to allow for an easy exchange of critical 
+information and to eliminate duplication of effort. 
+
+The New Mexico Department of Public Safety is implementing
+security measures in the Magistrate Courts of New Mexico 
+and providing ongoing technical support to the courts and 
+counties in transferring data to the State's Repository.  
+Funds will also support protective order database 
+enhancements necessary to transfer data to the New Mexico 
+Law Enforcement Telecommunications System and the FBI's 
+NCIC.
+
+The New York State Division of Criminal Justice Services
+providing support to the Administrative Office of the 
+Courts to continue the identification and correction of
+inaccurate court information and to reduce the current 
+number of missing dispositions in the State Repository. 
+
+North Carolina is initiating the development of a new
+Criminal Court Information System (CCIS) to replace the 
+outdated Automated Criminal Infraction System (ACIS)
+currently being used by the courts in North Carolina. 
+The CCIS will greatly increase efficient, accurate, and
+timely reporting of court data into an electronic 
+database accessible to all law enforcement agencies.
+
+The Ohio Office of Criminal Justice Services is continuing
+its development of the Ohio Courts Network to automate 
+reporting and sharing of information.
+
+The Oregon State Police is carrying out a disposition
+acquisition project with the Oregon Judicial Department. 
+
+In Tennessee, funds are being used by the Administrative
+Office of the Courts (AOC) to enhance existing databases 
+to verify judgment information electronically submitted 
+to the AOC and to enable access to the data by other 
+courts and criminal justice agencies. 
+
+Utah is supporting the development and implementation of 
+an electronic filing interface between county prosecutors 
+and the Administrative Office of the Courts to eliminate
+duplicate, manual data entry of prosecutor information by 
+the courts and to research and update missing disposition 
+data from the courts to be included into the Utah 
+Computerized Criminal History system.
+
+In Vermont, the Office of the Court Administrator is
+improving access to the judiciary's criminal case and
+disposition information, electronic protection orders, 
+and mental health records.
+
+The Wyoming Supreme Court is developing a data extraction
+system that maps data from those district courts that are 
+experiencing difficulty transmitting data to the court's
+central database.
+
+Improved performance 
+measurement--The Records 
+Quality Index 
+
+To help quantify the impact of NCHIP funds, BJS created a 
+Records Quality Index(RQI). The purpose of the RQI is to 
+measure the performance of criminal history record systems
+and to help BJS to-- 
+  
+* assess the status of records quality at both the State 
+and national levels
+
+* identify critical records improvement activities by
+pinpointing areas of deficiency
+
+* help BJS target specific State- and local-level problems 
+and deficiencies in NCHIP program announcements.
+
+The Records Quality Index(RQI)is a composite of different
+outcome and process measures, including:
+
+* the extent of automation of the State's criminal history
+records
+
+* the response to Interstate Identification Index (III)
+inquiries
+
+* the automated transmission of arrests to the repository
+
+* the criminal history database flagging of certain 
+convictions
+
+* the transmission of criminal fingerprints to IAFIS, the
+FBI's automated fingerprint identification system
+
+* the transmission of applicant fingerprints to IAFIS
+
+* the extent of electronic data submission to FBI files
+
+* the transmission of dispositions to the repository
+
+* the authorized access to State files including sex 
+offender registries and registries of the courts'
+protection or restraining orders
+
+* the State's participation in the National Fingerprint 
+File and National Crime Prevention and Privacy Compact
+
+* the timeliness of criminal case processing in the State
+
+* the completeness of disposition reporting in the State.
+
+Similar to how the Dow Jones Industrial Average may be 
+used to gauge the performance of the overall stock market, 
+the criminal history Records Quality Index, based on a 
+small set of key measures, characterizes the performance 
+of the States' criminal history record systems toward
+achieving the goals of the Federal records improvement
+programs.
+
+The National RQI(NRQI)is a weighted average of the individual 
+State RQI's for which the weights reflect the number of 
+criminal history records in each State as a proportion of the 
+total. During the seven-year measurement period, the NRQI 
+reflects steady records quality improvement. The NRQI nearly 
+tripled between 1997 and 2003, growing by 169% during this 
+period.
+
+---------------------------------------------------
+Program assessment
+
+In 2003 the NCHIP program was reviewed by the Office of 
+Management and Budget using the Program Assessment 
+Rating Tool (PART) and was determined to be effectively 
+meeting its goals and objectives. A 2004 U.S. Government 
+Accountability Office study for House of Representative 
+Committee on the Judiciary also found that NCHIP helped 
+States make significant progress in building a national 
+criminal records infrastructure.
+
+Efforts carried out under the National Criminal History 
+Improvement Program are highly consistent with the U.S. 
+Department of Justice's strategic goal to, "Improve the 
+crime fighting and criminal justice system administration 
+capabilities of State, tribal, and local governments." 
+The efforts to improve the Nation's criminal history 
+records also contribute directly to the Office of 
+Justice Programs' goal of providing and coordinating 
+information, research and development, statistics, 
+training, and support to help the justice community 
+build the capacity it needs to meet its public safety 
+goals.
+-----------------------------------------------------
+
+---------------------------------------------------------------------
+The Bureau of Justice Statistics is the statistical agency of the U.S. 
+Department of Justice. Jeffrey L. Sedgwick is director. 
+
+This report was written by Gerard F. Ramker, Chief, BJS Criminal 
+History Improvement Programs. Carolyn C. Williams produced the 
+report and provided editorial review. Jayne Robinson prepared 
+the report for final printing. July 2006, NCJ 211485
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+This report in portable document format and in ASCII and its related 
+statistical data and tables are available at the BJS World Wide Web 
+Internet site: <http://www.ojp.usdoj.gov/bjs/>
+--------------------------------------------------------------------
+
+End of file 
+07/20/06 ih

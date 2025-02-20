@@ -1,0 +1,908 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5136
+
+
+-------------------------------------------------------
+
+Special Report	
+
+Crimes Against the Elderly, 2003–2013
+
+Rachel E. Morgan, Ph.D., BJS Statistician, 
+and Britney J. Mason, BJS Intern
+
+For the period 2003–13, elderly persons age 65 or older experienced 
+nonfatal violent crime victimizations at lower rates (3.6 
+victimizations per 1,000 persons age 65 or older) than younger 
+persons ages 12 to 24 (49.9 per 1,000), persons ages 25 to 49 
+(27.6 per 1,000), and persons ages 50 to 64 (15.2 per 1,000) 
+(figure 1). Nonfatal violent crime includes rape or sexual 
+assault, robbery, aggravated assault, and simple assault. Each 
+year, the elderly accounted for approximately 2% of violence and 
+2% of serious violence, which equals 136,720 violent crimes and 
+47,640 serious violent crimes. However, the elderly made up 
+about 21% of the population age 12 or older during this time 
+period. The rate of property crime was also lower compared to 
+younger persons.
+
+This report uses data from the National Crime Victimization 
+Survey (NCVS) to provide detailed information on nonfatal 
+violent victimization and property victimization against the 
+elderly, including victim and incident characteristics. Findings 
+in this report are also supplemented by data from the 2012 
+Identity Theft Supplement (ITS) to the NCVS. In addition, the 
+primary source of information on homicides was obtained from 
+mortality data based on death certificates in the National Vital 
+Statistics System of the National Center for Health Statistics 
+(NCHS), Centers for Disease Control and Prevention’s (CDC) Web-
+based Injury Statistics Query and Reporting System (WISQARS). 
+These mortality data include causes of death reported by 
+attending physicians, medical examiners, and coroners, and 
+demographic information about decedents reported by funeral 
+directors who obtain information from family members and other 
+informants. The NCHS collects, compiles, verifies, and prepares 
+these data for release to the public.
+
+In this report, elderly persons are defined as persons age 65 or 
+older. This definition is consistent with definitions of elderly 
+used by other federal governmental agencies, such as the U.S. 
+Census Bureau (see figure 2). Comparison age groups include 
+persons ages 12 to 24, 25 to 49, and 50 to 64. Trend estimates 
+from the NCVS are based on 2-year rolling averages centered on 
+the most recent year. For example, estimates reported for 1994 
+represent the average estimates for 1993 and 1994. For ease of 
+discussion, the report refers to all 2-year estimates by the 
+most recent year. Other data in this report focus on the most 
+recent 11-year aggregate period from 2003 through 2013, referred 
+to throughout the report as 2003–13. Both approaches--using 
+rolling averages and aggregating years--increase the reliability 
+and stability of estimates and facilitate comparisons of 
+detailed victimization characteristics.
+
+***************************************************************
+***********
+Highlights
+***********
+
+This report describes crimes against persons age 65 or older, by 
+victim and incident characteristics. Data are from the National 
+Crime Victimization Survey (NCVS), the Centers for Disease 
+Control and Prevention’s (CDC) Web--based Injury Statistics 
+Query and Reporting System (WISQARS), and the U.S. Census 
+Bureau. In 2003–13--
+
+* The rates of nonfatal violent crime (3.6 per 1,000 persons) 
+and property crime (72.3 per 1,000) against elderly persons were 
+lower than those of younger persons.
+ 
+* The ratio of the estimates of property crime to violent crime 
+was higher for the elderly (13 to 1) than for younger persons 
+ages 25 to 49 (3 to 1) and persons ages 50 to 64 (5 to 1).
+
+* Elderly homicide rates declined 44%, from 3.7 homicides per 
+100,000 persons in 1993 to 2.1 per 100,000 in 2011. 
+
+* Persons age 65 or older experienced more incidents of identity 
+theft (5.0%) than persons ages 16 to 24 (3.8%), but less than 
+persons ages 25 to 49 (7.9%) and ages 50 to 64 (7.8%). 
+
+* Among elderly violent crime victims, about 59% reported being 
+victimized at or near their home.
+
+* A smaller percentage of elderly victims (18%) suffered an 
+injury during the incident, compared to victims ages 12 to 24 
+(30%) and ages 25 to 49 (25%). 
+
+* The elderly (56%) reported incidents of violent crime to 
+police more than persons ages 12 to 24 (38%). No differences 
+were detected with the elderly and other age groups. 
+
+* About 11% of elderly victims of violent crime received 
+assistance from victim service agencies.
+****************************************************************
+
+****************************************************************
+*********************************
+Growth of the elderly population 
+in the United States
+*********************************
+
+According to the U.S. Census Bureau, the large increases in the 
+elderly population that have occurred since 1990 are projected 
+to continue through 2020. As many Baby Boomers are currently 
+reaching age 65, the elderly population will continue to grow 
+and remain an important part of the total U.S. population. In 
+2010, about 40.3 million persons were age 65 or older, an 
+increase of 5.3 million since 2000 when the elderly population 
+totaled about 35 million (figure 2). Among the total U.S. 
+population, the percentage of persons age 65 or older increased 
+from 12.4% in 2000 to 13.0% in 2010, and is projected to reach 
+16.8% by 2020.
+****************************************************************
+
+************************************
+Elderly persons had lower rates of 
+property crime than younger persons
+************************************
+
+Like violent crime, the elderly population had lower rates of 
+property crime compared to younger persons from 2003 to 2013. 
+Households headed by persons age 65 or older (72.3 per 1,000 
+households) experienced property crime at a rate about a quarter 
+of that for households headed by persons age 24 or younger 
+(262.0 per 1,000) (table 1). Property crime includes household 
+burglary, motor vehicle theft, and theft. The elderly 
+experienced theft (51.8 per 1,000 households) more than any 
+other type of property crime.
+
+During 2003–13, the elderly experienced 1,796,740 property 
+crimes annually, compared to 136,720 violent crimes annually 
+(table 2). About 93% of all crime experienced by the elderly was 
+property crime. The ratio of property crime to violent crime for 
+the elderly was higher than for younger persons. In 2003–13, 13 
+property crimes were committed against the elderly for every 
+violent crime committed against the elderly. In comparison, 
+persons ages 25 to 49 experienced three property crimes for 
+every violent crime, and persons ages 50 to 64 experienced five 
+property crimes for every violent crime. 
+
+****************************************************************
+
+***********************************************
+The National Crime Victimization Survey (NCVS)
+***********************************************
+
+The NCVS collects information on nonfatal crimes reported and 
+not reported to the police against persons age 12 or older from 
+a nationally representative sample of U.S. households. It 
+produces national rates and levels of violent and property 
+victimization, as well as information on the characteristics of 
+crimes and victims, and the consequences of victimization. The 
+NCVS is based on interviews with victims, it does not measure 
+homicide. 
+
+This report examines violent crimes and property crimes. Violent 
+crime includes rape or sexual assault, robbery, aggravated 
+assault, and simple assault. The Bureau of Justice Statistics 
+(BJS) classifies rape, sexual assault, robbery, and aggravated 
+assault as serious violent crimes. Property crime includes 
+burglary, motor vehicle theft, and other theft. The survey also 
+measures personal larceny, which includes pickpocketing and 
+purse snatching. For additional estimates not included in this 
+report, see the NCVS Victimization Analysis Tool (NVAT) on the 
+BJS website. 
+
+Victimization is the basic unit of analysis used throughout this 
+report. Victimization is a crime as it affects one person or 
+household. For personal crimes, the number of victimizations is 
+equal to the number of victims present during a criminal 
+incident. The number of victimizations may be greater than the 
+number of incidents because more than one person may be 
+victimized during an incident. Each crime against a household is 
+counted as having a single victim, the affected household. The 
+victimization rate is a measure of the occurrence of 
+victimizations among a specified population group. For personal 
+crimes, this is based on the number of victimizations per 1,000 
+residents age 12 or older. For household crimes, the 
+victimization rate is calculated using the number of incidents 
+per 1,000 households.
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. It excludes violence against children age 11 or younger. 
+The sample includes persons living in group quarters, such as 
+dormitories, rooming houses, and religious group dwellings, but 
+excludes persons living in military barracks and institutional 
+settings, such as correctional or hospital facilities, and 
+persons who are homeless.
+
+****************************************************************
+
+*******************************************
+The nonfatal violent crime rate for the 
+elderly declined 41% from 1994 to 2013
+*******************************************
+
+From 1994 to 2013, the rate of nonfatal violent crime for all 
+age groups decreased (figure 3). Overall, the rate of violent 
+crime against persons age 65 or older declined 41%, from 7.4 
+victimizations per 1,000 persons in 1994 to 4.4 per 1,000 in 
+2013. Violent crime committed against the elderly declined at a 
+slower rate than violent crime committed against persons ages 12 
+to 24 and ages 25 to 49. Since 2003, rates of violent crime have 
+increased 27% for the elderly population and 9% for persons ages 
+50 to 64. Rates of nonfatal violent crime for persons ages 12 to 
+24 declined 37% and persons ages 25 to 49 declined 9% from 2003 
+to 2013. However, the elderly continue to have low violent crime 
+rates compared to other age groups.
+
+*******************************************
+Elderly homicide rates were lower than 
+homicide rates for all other ages from 
+1993 to 2011
+*******************************************
+
+From 1993 to 2011 (most recent data available), homicide rates 
+decreased for all age groups (figure 4). The homicide rates for 
+the elderly declined 44%, compared to a decline of 55% for 
+persons ages 12 to 24, 42% for persons ages 25 to 49, and 36% 
+for persons ages 50 to 64. The elderly rate declined from about 
+3.7 homicides per 100,000 persons in 1993 to 2.1 homicides per 
+100,000 persons in 2011. Similar to nonfatal violent crime, 
+homicide rates for persons age 65 or older were consistently 
+lower than all other age groups across this period.
+
+Similar to the overall decline in homicide, the firearm homicide 
+rate for the elderly population decreased by 41% from 1993 to 
+2011 (figure 5). Persons ages 25 to 49 and ages 50 to 64 also 
+experienced a 41% decline in homicide. The firearm homicide rate 
+for the elderly declined from about 1.4 per 100,000 persons age 
+65 or older in 1993 to 0.8 per 100,000 in 2011. Since 2003, the 
+rates of firearm homicide increased for the elderly population 
+(up 9%) and for persons ages 50 to 64 (up 1%). However, the 
+elderly continued to have relatively low rates overall.
+
+From 1993 to 2011, the rates of nonfirearm homicide decreased 
+for all age groups. The rates for the elderly declined by 46%, 
+compared to a decline of 51% for persons ages 12 to 24, 44% for 
+persons ages 25 to 49, and 28% for persons ages 50 to 64 (figure 
+6). The rate for the elderly declined from about 2.2 per 100,000 
+in 1993 to 1.2 per 100,000 in 2011. 
+
+*******************************************
+Property crime committed against the elderly 
+decreased by 48% from 1994 to 2013
+*******************************************
+
+Similar to violent crime, the rate of property crime for all age 
+groups declined from 1994 to 2013 (figure 7). During this 
+period, property crime decreased by 48% for the elderly, 
+compared to declines of 55% for persons ages 12 to 24, 60% for 
+persons ages 25 to 49, and 52% for persons ages 50 to 64. The 
+elderly rate declined from about 141.0 victimizations per 1,000 
+households in 1994 to 73.9 per 1,000 households in 2013. The 
+rates for the elderly were lower than all other age groups 
+across this period. Property crime committed against the elderly 
+declined by 50% from 2003 to 2013. 
+
+*******************************************
+Elderly victims of violent and property 
+crimes most often lived in urban areas
+*******************************************
+
+Elderly victims of violent and property crimes most often 
+resided in urban areas. In 2003–13, elderly persons living in 
+urban areas experienced violent crime at a rate of 5.1 per 1,000 
+persons age 65 or older, while elderly persons living in 
+suburban (3.2 per 1,000) and rural (2.8 per 1,000) areas 
+experienced violent crime at lower rates (table 3). Similarly, 
+elderly victims living in urban areas had a higher rate of 
+property crime (88.7 per 1,000 households) compared to those 
+living in suburban areas (65.2 per 1,000 households) and rural 
+areas (66.6 per 1,000 households) (table 4). 
+
+In 2003–13, about 59% of nonfatal violent crime against persons 
+age 65 or older occurred at or near their homes, 6% occurred at 
+or near a friend, neighbor, or relative’s home, and about 35% 
+occurred at other locations, including commercial places, 
+parking lots or garages, schools, open areas, and public 
+transportation (table 5). A greater percentage of victimization 
+against the elderly compared to all other age groups occurred at 
+or near their homes. 
+
+****************************************************************
+
+*******************************************
+About 2.1 million elderly persons were 
+victims of identity theft in 2012
+*******************************************
+
+
+Identity theft victims are defined as persons age 16 or older 
+who experienced one or more of the following incidents:
+
+* Unauthorized use or attempted use of an existing account, such 
+as credit or debit card, checking, savings, telephone, online, 
+or insurance account (referred to as fraud or misuse of an 
+existing account).
+
+* Unauthorized use or attempted use of personal information to 
+open a new account, such as a credit or debit card, telephone, 
+checking, savings, loan, or mortgage account (referred to as 
+fraud or misuse of a new account).
+
+* Misuse of personal information for a fraudulent purpose, such 
+as getting medical care, a job, or government benefits; renting 
+an apartment or house; or providing false information to law 
+enforcement when charged with a crime or traffic violation 
+(referred to as fraud or misuse of personal information). 
+
+Approximately 2.1 million persons age 65 or older (5%) were 
+victims of one or more incidents of identity theft in 2012 
+(table 6). Among elderly identity theft victims, existing credit 
+card (3.2%) or bank accounts (1.4%) were the most common types 
+of misused information. This distribution was similar across age 
+groups. Generally, persons age 65 or older experienced more 
+incidents of identity theft (5.0%) than persons ages 16 to 24 
+(3.8%), but fewer than persons ages 25 to 49 (7.9%) and ages 50 
+to 64 (7.8%).
+
+****************************************************************
+
+*******************************************
+Domestic violence was a smaller percentage 
+of violent crimes committed against elderly 
+persons than against persons ages 25 to 49 
+and ages 50 to 64
+*******************************************
+
+From 2003–13, the elderly (49%) were equally likely to know 
+their offenders as persons ages 25 to 49 and ages 50 to 64, but 
+were less likely than persons ages 12 to 24 (57%) (table 7). 
+About 43% of violent victimizations against the elderly were 
+committed by strangers. 
+
+A smaller percentage of violent crimes committed against persons 
+age 65 or older (14%) were crimes of domestic violence, compared 
+to persons ages 25 to 49 (26%) and ages 50 to 64 (20%). Domestic 
+violence includes rape, sexual assault, robbery, and aggravated 
+and simple assault committed by intimate partners, immediate 
+family members, or other relatives. As with any source of 
+information, there are limitations with the current data that 
+should be recognized. Because the nature of the victim–offender 
+relationship is defined by the victim, the characteristics of 
+intimate partner violence in this report may differ based on how 
+the respondent perceived their relationship with the offender. 
+To some victims, intimate relationships with offenders may 
+be primarily restricted to current or former boyfriends or 
+girlfriends. Others may describe those offenders as friends or 
+acquaintances rather than boyfriends or girlfriends. 
+
+While 43% of violent crimes against the elderly were committed 
+by a stranger, the elderly accounted for 2% of all stranger 
+crime (table 8). The majority of stranger crime was committed 
+against persons ages 12 to 24 (37%) and persons ages 25 to 49 
+(48%). From 2003–13, the percentage of victimizations that 
+involved an intimate partner was lower for the elderly (1%) than 
+for persons ages 12 to 24 (28%) and persons ages 25 to 49 (62%), 
+and lower than persons ages 50 to 64 (8%). The percentage of 
+victimizations committed by immediate family members was lower 
+for the elderly (2%) compared to all other age groups. Elderly 
+victims accounted for 2.1% of violent crime, 2.4% of crime 
+committed by strangers, and 1.4% of domestic violence that 
+occurred each year.
+
+Single elderly persons living without children had higher rates 
+of victimization compared to married elderly persons living 
+without childrenIn 2003–13, the rate of violent victimizations 
+against elderly males (4.2 per 1,000 males age 65 or older) was 
+slightly higher than the rate for elderly females (3.2 per 1,000 
+females) (table 9). There were no statistically significant 
+differences in rates of violent crime among the elderly by race.
+
+Among the elderly population and other age groups, rates of 
+violent victimization varied by the victim’s marital status. 
+Persons age 65 or older who were married (2.6 per 1,000 persons) 
+or widowed (2.3 per 1,000 persons) were the least likely to be 
+victims of violent crime. Elderly persons who were separated 
+(19.6 per 1,000 persons) or divorced (10.8 per 1,000 persons) 
+were the most likely to be victimized. Since the NCVS reflects a 
+respondent’s marital status at the time of the interview, it is 
+not possible to determine whether a person was separated or 
+divorced at the time of the victimization or whether separation 
+or divorce followed the violence. 
+
+Single elderly victims living without children (5.2 
+victimizations per 1,000 persons) were victimized at higher 
+rates than married elderly victims living without children (2.4 
+per 1,000).
+
+Elderly persons who rented their living quarters had more than 
+double the rate of violent crime (7.3 victimizations per 1,000 
+persons) than elderly persons who either owned or were buying 
+their home (3.0 victimizations per 1,000). 
+
+****************************************************************
+*******************************************
+There were no statistically significant differences between 
+violent crime rates for elderly persons with a disability and 
+elderly persons without a disability
+
+The NCVS defines disability as the product of interactions among 
+individual’s bodies; their physical, emotional, and mental 
+health; and the physical and social environment in which they 
+live, work, or play. Disability exists where this interaction 
+results in limitations of activities and restrictions to full 
+participation at school, work, home, or in the community. 
+Disabilities are classified according to six limitations: 
+hearing, vision, cognitive, ambulatory, self-care, and 
+independent living.
+Over the 5-year period from 2008 to 2012, persons age 65 or 
+older who had disabilities experienced 284,040 nonfatal violent 
+crimes (table 10). However, there were no differences in the 
+rate of violence for persons age 65 or older with a disability 
+compared to persons age 65 or older without a disability.
+****************************************************************
+
+*******************************************
+Elderly persons who were not employed 
+were more likely to experience violent 
+nd property crime victimization than 
+elderly persons who were employed 
+*******************************************
+
+Employment status affects both nonfatal violent and property 
+crime rates for persons age 65 or older. For both types of 
+crime, persons who were not employed were more likely to be 
+victimized than employed persons. In 2003–13, the rate of 
+violent crime against elderly persons who were not employed or 
+were retired (2.8 per 1,000) was 9 times higher than the rate 
+for elderly persons who were employed (0.3 per 1,000) (table 
+11). The rate of property crime against persons age 65 or older 
+who were not employed or were retired (53.5 per 1,000 persons) 
+was 12 times higher than the rate for persons age 65 
+or older who were employed (4.3 per 1,000). 
+
+*******************************************
+Elderly violent crime victims were as 
+likely to encounter a weapon as persons 
+of other ages
+*******************************************
+
+Though the elderly were victimized at a lower rate, when 
+victimized they were as likely to encounter a weapon and a 
+firearm as persons of other ages. About 1 in 5 (20%) violent 
+victimizations against the elderly involved a weapon (i.e., a 
+firearm, knife, or other object) (table 12). A firearm was used 
+in about 8% of violent crimes against elderly victims. Knives 
+were used in about 4% of violent victimizations against persons 
+65 or older, while about 6% involved other types of weapons.
+
+*******************************************
+Of the elderly who were injured during 
+violent crime incidents, most reported 
+bruises or cuts
+*******************************************
+
+A smaller percentage of elderly victims suffered an injury 
+(18%), compared to younger victims ages 12 to 24 (30%) and ages 
+25 to 49 (25%) (table 13).  Among the elderly who were injured, 
+most reported bruises or cuts. Approximately 45% of elderly 
+victims who were injured received some type of treatment. Of 
+those treated, about 55% of persons age 65 or older received 
+treatment in a doctor’s office, hospital emergency room, or 
+overnight in a hospital. About 45% of injured elderly victims 
+were treated at the scene of the crime, in their home, the home 
+of a neighbor or friend, or other location. No statistically 
+significant differences were detected among age groups in the 
+percentage treated for injury or location of treatment.
+
+*******************************************
+The elderly reported 56% of violent crime 
+and 38% of property crime to police
+*******************************************
+
+In 2003–13, the elderly (56%) were more likely to report violent 
+crime to the police than persons ages 12 to 24 (38%) (table 14). 
+There were no differences in reporting between the elderly and 
+persons of other ages. A slightly higher percentage of elderly 
+serious violent crime victims (64%) reported the incident to the 
+police, compared to elderly victims of simple assault (52%). 
+Persons age 65 or older reported about 38% of property crime to 
+police.  In comparison to household burglary (50%) and motor 
+vehicle theft (83%), theft (32%) was the property crime least 
+likely to be reported to police by persons age 65 or older. This 
+was also true for the other age groups.
+
+*******************************************
+About 21% of elderly victims of serious violent crime sought 
+assistance from victim service agencies
+*******************************************
+
+Victim service agencies are publicly or privately funded 
+organizations that provide victims with support and services to 
+aid their physical and emotional recovery, offer protection from 
+future victimizations, guide them through the criminal justice 
+system process, and assist them in obtaining restitution. 
+Similar to other age groups, about 1 in 10 (11%) elderly violent 
+crime victims received assistance from victim service agencies 
+(table 15). Serious violent crime victims age 65 or older 
+received more assistance (21%), compared to persons ages 12 to 
+24 (10%) and ages 50 to 64 (10%) and slightly more assistance 
+than persons ages 25 to 49 (13%).
+
+************
+Methodology
+*************
+
+Estimates in this report are based primarily on data from the 
+Bureau of Justice Statistics’ (BJS) National Crime Victimization 
+Survey (NCVS), including data from the Identity Theft Supplement 
+(ITS). Additional data come from the Centers for Disease Control 
+and Prevention’s (CDC) Web-based Injury Statistics Query and 
+Reporting System (WISQARS).
+
+Survey coverage
+******************
+
+The NCVS is an annual data collection conducted by the U.S. 
+Census Bureau for BJS. The NCVS is a self-report survey in which 
+interviewed persons are asked about the number and 
+characteristics of victimizations experienced during the 
+prior 6 months. The NCVS collects information on nonfatal 
+personal crimes (rape or sexual assault, robbery, aggravated and 
+simple assault, and personal larceny) and household property 
+crimes (burglary, motor vehicle theft, and other theft) both 
+reported and not reported to police. In addition to providing 
+annual level and change estimates on criminal victimization, the 
+NCVS is the primary source of information on the nature of 
+criminal victimization incidents.
+
+Survey respondents provide information about themselves (e.g., 
+age, sex, race and Hispanic origin, marital status, education 
+level, and income) and whether they experienced a victimization. 
+For each victimization incident, information is collected about 
+the offender (e.g., age, sex, race and Hispanic origin, and 
+victim–offender relationship), characteristics of the crime 
+(including time and place of occurrence, use of weapons, nature 
+of injury, and economic consequences), whether the crime was 
+reported to police, reasons the crime was or was not reported, 
+and experiences with the criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a 
+nationally representative sample of households in the United 
+States. The NCVS defines a household as a group of members who 
+all reside at a sampled address. Persons are considered 
+household members when the sampled address is their usual 
+place of residence at the time of the interview and when they 
+have no usual place of residence elsewhere. Once selected, 
+households remain in the sample for 3 years, and eligible 
+persons in these households are interviewed every 6 months 
+either in person or over the phone for a total of seven 
+interviews. 
+
+Generally, all first interviews are conducted in person. New 
+households rotate into the sample on an ongoing basis to replace 
+outgoing households that have been in the sample for the 3-year 
+period. The sample includes persons living in group quarters, 
+such as dormitories, rooming houses, and religious group 
+dwellings, and excludes persons living in military barracks 
+and institutional settings, such as correctional or hospital 
+facilities, and persons who are homeless. (For more information, 
+see the Survey Methodology for Criminal Victimization in the 
+United States, 2008, NCJ 231173, BJS web, May 2011.)
+
+Limitations of the estimates
+*****************************
+
+The NCVS was designed to measure the incidence of criminal 
+victimization against the U.S. civilian household population, 
+excluding persons who live in institutions and the homeless. In 
+this report, institutions refer to adult correctional 
+facilities, juvenile facilities, nursing facilities or skilled 
+nursing facilities, in-patient hospice facilities, residential 
+schools for people with disabilities, and hospitals with 
+patients who have no usual home elsewhere. The measures of crime 
+against persons age 65 or older cover only elderly persons who 
+are living among the general population in household settings. 
+Subsequently, there is some coverage error in using just the 
+noninstitutionalized population. For example, according to the 
+U.S. Census, about 3.1% of the elderly population were living in 
+nursing homes in 2010. Because persons in these facilities would 
+not be covered in the NCVS, estimates of violence against these 
+persons are not counted. The lack of information from the 
+institutions will result in an undercount of violence 
+against persons age 65 or older. Additionally, some care should 
+be taken when comparing victimization rates within the elderly 
+population. Data from the U.S. Census Bureau indicate that an 
+estimated 0.9% of the U.S. population ages 65 to 74 lived in a 
+nursing home in 2010, compared to 3.2% of the population ages 75 
+to 84 and 11.2% of the population age 85 or older.
+
+Weighting adjustments for 
+estimating personal victimization
+*****************************************
+
+In 2013, 90,630 households and about 160,040 persons age 12 or 
+older were interviewed for the NCVS. Each household was 
+interviewed twice during the year. The response rate was 84% for 
+households and 88% for eligible persons. Victimizations that 
+occurred outside of the United States were excluded from this 
+report. In 2013, less than 1% of the unweighted victimizations 
+occurred outside of the United States and were excluded from the 
+analyses.
+
+Estimates in this report use data primarily from the 1993 to 
+2013 NCVS data files weighted to produce annual estimates for 
+persons age 12 or older living in U.S. households. Because the 
+NCVS relies on a sample rather than a census of the entire U.S. 
+population, weights are designed to inflate sample point 
+estimates to known population totals and to compensate for 
+survey nonresponse and other aspects of the sample design.
+
+The NCVS data files include both household and person weights. 
+The household weight is commonly used to calculate estimates of 
+property crimes, such as motor vehicle theft or burglary, which 
+are identified with the household. Person weights provide an 
+estimate of the population represented by each person in the 
+sample. Person weights are most frequently used to compute 
+estimates of crime victimizations of persons in the total 
+population. After proper adjustment, both household and person 
+weights are also used to form the denominator in calculations of 
+crime rates.
+
+The victimization weights used in this analysis account for the 
+number of persons present during an incident and for repeat 
+victims of series incidents. The weight counts series incidents 
+as the actual number of incidents reported by the victim, up to 
+a maximum of 10 incidents. Series victimizations are 
+victimizations that are similar in type but occur with such 
+frequency that a victim is unable to recall each individual 
+event or to describe each event in detail. Survey procedures 
+allow NCVS interviewers to identify and classify these similar 
+victimizations as series victimizations and collect detailed 
+information on only the most recent incident in the series. In 
+2013, about 1% of all victimizations and 4% of all violent 
+victimizations were series incidents. Weighting series incidents 
+as the number of incidents up to a maximum of 10 produces more 
+reliable estimates of crime levels, while the cap at 10 
+minimizes the effect of extreme outliers on the rates. 
+Additional information on the series enumeration is detailed in 
+Methods for Counting High Frequency Repeat Victimizations in the 
+National Crime Victimization Survey (NCJ 237308, BJS website) 
+April 2012.
+
+Standard error computations
+*******************************
+
+When national estimates are derived from a sample, as with the 
+NCVS, caution must be taken when comparing one estimate to 
+another estimate or when comparing estimates over time. Although 
+one estimate may be larger than another, estimates based on a 
+sample have some degree of sampling error. The sampling error of 
+an estimate depends on several factors, including the amount of 
+variation in the responses, and the size of the sample. When the 
+sampling error around an estimate is taken into account, the 
+estimates that appear different may not be statistically 
+different. 
+
+One measure of the sampling error associated with an estimate is 
+the standard error. The standard error can vary from one 
+estimate to the next. Generally, an estimate with a small 
+standard error provides a more reliable approximation of the 
+true value than an estimate with a large standard error. 
+Estimates with relatively large standard errors are associated 
+with less precision and reliability and should be interpreted 
+with caution. 
+
+To generate standard errors around numbers and estimates from 
+the NCVS, the Census Bureau produced generalized variance 
+function (GVF) parameters for BJS. The GVFs take into account 
+aspects of the NCVS complex sample design and represent the 
+curve fitted to a selection of individual standard errors based 
+on the Jackknife Repeated Replication technique. The GVF 
+parameters were used to generate standard errors for each point 
+estimate (i.e., counts, percentages, and rates) in this report. 
+
+BJS conducted tests to determine whether differences in 
+estimated numbers and percentages in this report were 
+statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically for 
+the NCVS, all comparisons in the text were tested for 
+significance. The Student’s t-statistic was the primary test 
+procedure, which tests the difference between two sample 
+estimates.
+
+Data users can use the estimates and the standard errors of the 
+estimates provided in this report to generate a confidence 
+interval around the estimate as a measure of the margin of 
+error. The following example illustrates how standard errors can 
+be used to generate confidence intervals:
+
+* In 2003–13, according to the NCVS, the rate of nonfatal 
+violent crime against persons age 65 or older was 3.6 per 1,000 
+(see table 2). Using the GVFs, it was determined that the 
+estimate has a standard error of 0.3 (see appendix 
+table 1). A confidence interval around the estimate was 
+generated by multiplying +/- 1.96 (the t-score of a normal, two-
+tailed distribution that excludes 2.5% at either end of the 
+distribution). Therefore, the 95% confidence interval around the 
+3.6 estimate from 2013 is 3.6 +/- (0.3 X 1.96) or (3.0 to 4.3). 
+In other words, if different samples using the same procedure 
+were taken from the U.S. population in 2003–13, 95% of the time 
+the rate of nonfatal violent crime against persons age 65 or 
+older would be between 3.0 and 4.3 per 1,000 persons age 65 or 
+older.
+
+In this report, BJS also calculated a coefficient of variation 
+(CV) for all estimates, representing the ratio of the standard 
+error to the estimate. CVs provide a measure of reliability and 
+a means to compare the precision of estimates across measures 
+with differing levels or metrics. In cases where the CV was 
+greater than 50%, or the unweighted sample had 10 or fewer 
+cases, the estimate was noted with a “!” symbol. (Interpret data 
+with caution. Estimate based on 10 or fewer sample cases, or the 
+coefficient of variation is greater than 50%.)
+
+Data Collection for 
+Disability Statistics 
+************************
+
+In 2007, the NCVS adopted questions from the U.S. Census 
+Bureau’s American Community Survey (ACS) to measure the rate of 
+victimization against people with disabilities. The NCVS does 
+not identify persons in the general population with 
+disabilities. The ACS Subcommittee on Disability Questions 
+developed the disability questions based on questions used in 
+the 2000 Decennial Census and earlier versions of the ACS. The 
+questions identify persons who may require assistance to 
+maintain their independence, be at risk for discrimination, or 
+lack opportunities available to the general population 
+because of limitations related to a prolonged (6 months or 
+longer) sensory, physical, mental, or emotional condition. More 
+information about the ACS and the disability questions is 
+available on the U.S. Census Bureau website at 
+http://www.census.gov/acs/www/. 
+
+Changes to the disability questions 
+in the NCVS and ACS in 2008
+************************************
+
+In 2008, the U.S. Census Bureau changed some of the disability 
+questions on the ACS. The question about sensory disability was 
+separated into two questions about blindness and deafness, and 
+the questions about physical disability were asked only about 
+serious difficulty walking or climbing stairs. Also, questions 
+on employment disability and going outside of the home were 
+eliminated in 2008. Census Bureau analysis of 2007 and 2008 ACS 
+disability data revealed significant conceptual and measurement 
+differences between the 2007 and 2008 disability questions. The 
+Census Bureau concluded that data users should not compare the 
+2007 estimates of the population with disabilities and those of 
+later years. Because the 2007 and 2008 NCVS disability questions 
+mirrored the ACS, estimates of victimization of people with 
+disabilities from the 2007 and 2008 NCVS should not be compared. 
+As a result, the 2007 disability data are not presented in this 
+report. Further explanation about incomparability of the 2007 
+and 2008 ACS disability data is available at 
+http://www.census.gov/acs/www/Downloads/methodology/content_test
+/P4_Disability.pdf.
+
+Definitions of disability types
+********************************
+
+Disabilities are classified according to six limitations: 
+hearing, vision, cognitive, ambulatory, self-care, and 
+independent living.
+
+* Hearing limitation entails deafness or serious difficulty 
+hearing.
+
+* Vision limitation is blindness or serious difficulty seeing, 
+even when
+wearing glasses.
+
+* Cognitive limitation includes serious difficulty in 
+concentrating, remembering, or making decisions because of a 
+physical, mental, or emotional condition.
+
+* Ambulatory limitation is difficulty walking or climbing 
+stairs.
+
+* Self-care limitation is a condition that causes difficulty 
+dressing or bathing.
+
+* Independent living limitation is a physical, mental, or 
+emotional condition that impedes doing errands alone, such as 
+visiting a doctor or shopping.
+
+Data Collection for Identity 
+Theft Statistics
+****************************
+
+From January 1, 2012, through June 30, 2012, the Identity Theft 
+Supplement (ITS) was administered at the end of the NCVS 
+interview to persons age 16 or older in sampled NCVS households. 
+Proxy responders and those who completed the NCVS interview in a 
+language other than English were not eligible to receive the 
+ITS. All NCVS and ITS interviews were conducted in a computer-
+assisted personal interviewing (CAPI) environment. Interviews 
+were conducted by telephone or by personal visit.  A final 
+sample size of 69,814 of the original NCVS-eligible respondents 
+completed the ITS questionnaire, resulting in a response rate of 
+91.9%. The combined overall NCVS-ITS unit response rate 
+for NCVS households, NCVS persons, and ITS persons was 68.2%. 
+Because of the level of nonresponse, a bias analysis was 
+conducted. To the extent that those who responded to the survey 
+and those who did not differ in important ways, there is 
+potential for bias in estimates from the survey data. However, 
+the result of the nonresponse bias analysis suggested that there 
+was little or no bias of substantive importance due to 
+nonresponse in the ITS estimates.
+
+The ITS collected individual data on the prevalence of and 
+victim response to the attempted or successful misuse of an 
+existing account, misuse of personal information to open a new 
+account, or misuse of personal information for other fraudulent 
+purposes. Respondents were asked whether they had experienced 
+any of these types of misuse during the 12 months prior to the 
+interview. For example, persons interviewed in July 2012 were 
+asked about identity theft incidents that occurred between July 
+2011 and June 2012. To simplify the discussion of the findings, 
+this report refers to all identity theft experienced during the 
+12 months prior to the interviews as occurring in 2012.
+
+Persons who reported one or more incidents of identity theft 
+during 2012 were then asked more detailed questions about the 
+incident and response to the incident, such as how the identity 
+theft was discovered; financial, credit, and other problems 
+resulting from the incident; time spent resolving problems 
+associated with the theft; and reporting to police and credit 
+bureaus. For most sections of the survey instrument, victims who 
+experienced more than one incident during the 12-month reference 
+period were asked to think about only the most recent incident 
+when answering questions. Victims who experienced multiple 
+incidents of identity theft during the year were asked to report 
+on the total financial losses suffered as a result of all 
+incidents.
+
+Both victims and nonvictims were also asked a series of 
+questions about experiences with identity theft outside of the 
+12-month reference period and about measures taken to avoid or 
+minimize the risk of becoming an identity theft victim.
+
+For more information on crimes against the elderly, see previous 
+BJS publications: 
+
+* Crimes Against Persons Age 65 or Older, 1992–1997, NCJ 176352, 
+January 2000
+
+* Crimes Against Persons Age 65 or Older, 1993–2002, NCJ 206154, 
+January 2005
+
+* Violent Crimes Against the Elderly Reported by Law Enforcement 
+in Michigan, 2005–2009, NCJ 238546, June 2012
+
+
+***************************************************************T
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for 
+measuring crime, criminal victimization, criminal offenders, 
+victims of crime, correlates of crime, and the operation of 
+criminal and civil justice systems at the federal, state, 
+tribal, and local levels. BJS collects, analyzes, and 
+disseminates reliable and valid statistics on crime and justice 
+systems in the United States, supports improvements to state and 
+local criminal justice information systems, and participates 
+with national and international organizations to develop and 
+recommend national standards for justice statistics. William J. 
+Sabol is acting director.
+
+This report was written by Rachel E. Morgan, Ph.D., and Britney 
+J. Mason, BJS intern. Barbara A. Oudekerk, Ph.D., verified the 
+report.
+
+Jill Thomas and Lynne McConnell edited the report. Barbara Quinn 
+and Tina Dorsey produced the report.
+
+November 2014, NCJ 248339
+***************************************************************
+
+*****************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*****************************************************
+
+***********************
+11/04/2014/JER/3:00pm revised 2:25pm
+***********************

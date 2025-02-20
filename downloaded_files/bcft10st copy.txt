@@ -1,0 +1,788 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-----------------------------------------------------
+This report is one in series. More recent 
+editions may be available. To view a list 
+of all reports in the series go to 
+http://www.bjs.gov/index.cfm?ty=pbse&sid=13
+
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at:http://bjs.gov/index.cfm?ty=pbdetail&iid=4596
+
+------------------------------------------------------
+
+Background Checks for Firearm Transfers, 2010 - Statistical 
+Tables
+
+
+Ronald J. Frandsen
+Dave Naglich
+Gene A. Lauver
+Regional Justice Information Service
+
+Allina D. Lee
+Bureau of Justice Statistics
+
+February 2013, NCJ 238226
+
+
+Over 118 million applications for firearm transfers or 
+permits were subject to background checks from the inception 
+of the Brady Handgun Violence Prevention Act of 1993 on 
+March 1, 1994, through December 31, 2010. During this time 
+period, about 2.1 million applications, or 1.8%, were denied 
+(table 1). In 2010, 1.5% of the 10.4 million applications 
+for firearm transfers or permits were denied by the FBI 
+(approximately 73,000) or by state and local agencies 
+(approximately 80,000). The denial rate for applications 
+checked by the FBI (1.2%) was lower than the rate for 
+checks by state and local agencies (1.8%)(table 2).
+
+The data in this report were developed from the Bureau of 
+Justice Statistics’ (BJS) Firearms Inquiry Statistics (FIST) 
+program, which collects information on firearm background 
+checks conducted by state and local agencies and combines 
+this information with the FBI’s National Instant Criminal 
+Background Check System (NICS) transaction data.
+
+This report presents the overall trends in the estimated 
+number of applications and denials for firearm transfers or 
+permits since the inception of the Brady Act and describes 
+background checks for firearm transfers conducted in 2010. 
+Data include the number of firearm transaction applications 
+checked by state and local agencies and the FBI, the number 
+of applications denied and the reasons for denial, and 
+estimates of applications and denials by each type of 
+approval system. Statistical tables also provide data on 
+appeals of denied applications and arrests for falsified 
+documents.
+
+************************************
+List of tables 
+
+Table 1. Estimated number of applications and denials for 
+firearm transfers or permits since the inception of the 
+Brady Act, 1994–2010
+
+Table 2. Applications and denials, by type of agency and 
+type of check, 1999–2010
+
+Table 3a. Firearm applications received and denied by state 
+agencies, 1999–2010
+
+Table 3b. Local denial rates by community size and type of 
+permit, 1999–2010
+
+Table 4. Percent distribution of reasons for denial of 
+firearm transfer applications by checking agencies, 1999–
+2010
+
+Table 5. Percent change in the number of applications, 
+denials, and reasons for denial, 1999–2010
+
+Table 6. Appeals by type of checking agency, 2000–2010
+
+Table 7. Reported arrests of persons denied a firearm permit 
+or purchase, 2000–2010
+
+Table 8. Bureau of Alcohol, Tobacco, Firearms and Explosives 
+(ATF) investigation of National Instant Criminal Background 
+Check System (NICS) denials by the FBI, 2010
+
+Table 9. Number of National Instant Criminal Background 
+Check System (NICS) Index prohibited person records, 2010
+
+Table 10. Number of checking agencies in the 2010 FIST 
+survey
+
+**********************************************
+
+*****************
+Summary findings
+*****************
+
+* Since the inception of the Brady Act, over 118 million 
+applications for firearm transfers or permits were subject 
+to background checks. About 2.1 million applications, or 
+1.8%, were denied.
+
+* In 2010, 1.5% of the 10.4 million applications for firearm 
+transfers or permits were denied by the FBI (approximately 
+73,000) or by state and local agencies (approximately 
+80,000).
+
+* Among state agencies, denial rates for transfer checks or 
+permits ranged from less than 1% to more than 4% in 2010 
+(table 3a).
+
+* Among local agencies, the denial rate was 2.5% for 
+purchase permit checks and 1.3% for exempt carry permit 
+checks (table 3b). 
+
+* A felony conviction or indictment was the most common 
+reason for the FBI (47%) to deny an application in 2010. A 
+fugitive from justice charge was the second most common 
+reason (19%) (table 4).
+
+* Among the 21 state agencies that reported reasons for 
+denial, a felony conviction or indictment was the most 
+common reason to deny an application in 2010 (31%). A state 
+law prohibition (16%) was the second most common reason 
+(excluding other prohibitions).
+
+* Among all the agencies that reported reasons for denial in 
+2010, approximately 41% of applications were denied because 
+of a felony conviction (table 5). 
+
+* In 2010, nearly 37,000 denials (24%) were appealed. More 
+than 12,000 appeals (34%) resulted in reversal of the denial 
+(table 6). 
+
+* According to the four state agencies and 19 local checking 
+agencies that reported arrest data, 1,520 denied persons 
+were arrested in 2010 due to an outstanding warrant or the 
+submission of false information on an application (table 7).
+ 
+* Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) 
+field offices investigated 4,732 NICS Index denials (6.2%) 
+that were referred by the FBI in 2010 (table 8). 
+
+* From January 1, 2010, to December 31, 2010, records of 
+persons ineligible to possess a firearm due to a mental 
+health commitment or adjudication increased 25% in the NICS 
+Index; overall, the number of records in the Index increased 
+13% (table 9). 
+
+***********
+Background
+***********
+
+The Brady Handgun Violence Prevention Act of 1993 (Pub. L. 
+No. 103-159, 107 Stat.1536 (1993), codified as amended at 18 
+U.S.C. § 921 et seq.) mandates a criminal history background 
+check on any person who attempts to purchase a firearm from 
+a Federal Firearms Licensee (FFL). The permanent provisions 
+of the Brady Act established the NICS, which is accessed by 
+the FBI or a state point of contact (POC) prior to 
+transferring a firearm. The NICS is a system comprising data 
+on persons who are prohibited from purchasing or possessing 
+a firearm under the Brady Act or under state law. 
+
+The Brady Act prohibits the transfer of a firearm to a 
+person who--
+
+* is under indictment for, or has been convicted of, a crime 
+punishable by imprisonment for more than 1 year
+
+* is a fugitive from justice
+
+* is an unlawful user of, or addicted to, a controlled 
+substance
+
+* has been adjudicated as a mental defective or committed to 
+a mental institution
+
+* is an illegal alien or has been admitted to the United 
+States under a nonimmigrant visa
+
+* was dishonorably discharged from the U.S. Armed Forces
+
+* has renounced U.S. citizenship
+
+* is subject to a court order restraining him or her from 
+harassing, stalking, or threatening an intimate partner or 
+child
+
+* has been convicted of a misdemeanor crime of domestic 
+violence
+
+* is under age 18 for long guns or under age 21 for 
+handguns.
+
+An FFL contacts either the FBI or state POC to determine 
+whether a prospective purchaser is prohibited from receiving 
+a firearm. The FBI conducts all NICS checks for 29 states. 
+POC agencies, which may be statewide or local, conduct all 
+NICS checks for 13 other states. In the remaining 8 states, 
+POC agencies conduct NICS checks on handgun transfer 
+applicants and the FBI conducts checks on long gun transfer 
+applicants. Several states require an additional background 
+check, usually by a local agency that does not access the 
+NICS but uses only state records. State laws may require a 
+check on a permit applicant or a person who seeks to receive 
+a firearm from an unlicensed seller.
+
+For more information on the NICS, visit the FBI Criminal 
+Justice Information Service (CJIS) website at 
+http://www.fbi.gov/hq/cjisd/nics.htm. 
+
+BJS began the FIST project in 1995 to provide national 
+estimates of the total number of firearm applications 
+received and denied pursuant to the Brady Act and similar 
+state laws. The FIST project collects counts of firearm 
+transfers and permit checks conducted by state and local 
+agencies and combines this information with the FBI NICS 
+transaction data. In addition, FIST collects information on 
+reasons for denials, appeals of denials, and law enforcement 
+actions the FBI and the ATF have taken against denied 
+persons.
+
+****************************
+Components of the national 
+firearm check system
+***************************
+
+About 3,000 federal, state, and local agencies conduct 
+background checks on persons who apply to purchase a firearm 
+or for a permit that may be used to make a purchase. 
+Variations in federal and state procedures for determining 
+firearm possession eligibility are summarized below.
+
+************************
+Overview of the NICS
+************************
+
+Prospective firearm applicants must either undergo a NICS 
+background check that has been requested by a dealer or 
+present a state permit that the ATF has qualified as an 
+alternative to the point-of-transfer check. 
+
+ATF-approved permits are those that--
+
+* allow an applicant to possess, acquire, or carry a firearm
+
+* were issued not more than 5 years earlier by the state 
+where the transfer is to take place, after an authorized 
+government official verified that possession of a firearm by 
+the applicant would not be a violation of law. 
+
+All permits issued since November 29, 1998, must have 
+included a NICS check. Many state-qualifying permits may be 
+used for multiple purchases while valid. State laws often 
+provide that a permit will be revoked if the holder is 
+convicted of an offense or otherwise becomes ineligible 
+after receiving the permit. Prior to transferring a firearm 
+under the permanent Brady provisions, an FFL is required to 
+obtain a completed Firearm Transaction Record (ATF form 
+4473) from the applicant.
+
+An FFL initiates a NICS check by contacting either the FBI 
+or the state POC. Most inquiries are initiated by telephone. 
+In 2002, the FBI added E-Check to allow FFLs to request a 
+check electronically. The FBI or state POC queries available 
+federal, state, and local systems and notifies the FFL that 
+the transfer may proceed, may not proceed, or must be 
+delayed pending further review of an applicant’s record.
+ 
+An applicant who is denied may appeal to the FBI or the POC. 
+A denied person who submitted a false application or has an 
+outstanding warrant may be subject to arrest and prosecution 
+under federal or state laws.
+
+***********************************
+State and local NICS participation
+***********************************
+
+Each state government determines the extent of its 
+involvement in the NICS process. 
+
+* Three levels of state involvement currently exist:
+A full POC requests a NICS check on all firearm transfers 
+originating in the state. 
+
+* A partial POC requests a NICS check on all handgun 
+transfers; FFLs in the state are required to contact the FBI 
+for NICS checks for long gun transfers. 
+
+* The state does not maintain a POC; FFLs are required to 
+contact the FBI for NICS checks on all firearm transfers 
+originating in the state.
+
+******************
+Methodology
+******************
+
+Data used for this report are prepared by the Regional 
+Justice Information Service (REJIS) through a cooperative 
+agreement with the Bureau of Justice Statistics (BJS) under 
+the Firearm Inquiry Statistics (FIST) program, which 
+collects information on background checks for firearm 
+transfers or permits from federal, state, and local 
+agencies.
+
+****************
+Sample design 
+****************
+
+In 1996, when the data collection was implemented, a 4% 
+margin of error was put in place on the sampling process for 
+local agencies in the 30 states that did not have statewide 
+data collection. A total of 5,477 agencies were responsible 
+for background checks in these 30 states in 1996. Since the 
+project’s inception, the sampling design selected agencies 
+proportional to the size of the population served.
+
+State and local checking agencies were stratified into the 
+following groups by size of the population served in 1996: 
+
+* state agencies that served an entire state population
+
+* local agencies that served a population of more than 
+100,000 U.S. residents
+
+* local agencies that served a population of 10,000 to 
+100,000 U.S. residents 
+
+* local agencies that served a population of fewer than 
+10,000 U.S. residents. 
+
+The stratification classification of the county was based on 
+the largest city within the county. If cities within a 
+county conducted their own background checks, their 
+populations were subtracted from the county population.  If 
+an agency provided services for other agencies or 
+jurisdictions, then populations for those other agencies 
+were added to the populations of the reporting agency. 
+
+Checking agencies were determined by state law and were 
+specified in the state laws that require background checks 
+on applicants for a firearm transfers or permits. The mix of 
+state and local agencies conducting background checks has 
+changed over time, as the state statutes that govern how 
+background checks are conducted also change. Some agencies 
+that had conducted statewide checks at the time of the 
+original sample turned their background checks over to the 
+FBI. Other states that had not performed their background 
+checks for certain types of permits began statewide checking 
+systems. In some states, local agencies no longer conduct 
+background checks, as states either assume responsibility or 
+delegate responsibility to the FBI. Finally, some states 
+began reporting complete counts of applications and denials 
+to FIST (or publish such counts online) on behalf of local 
+checking agencies. As a consequence, the original sample has 
+been modified.
+
+Over time, the number of local agencies conducting checks 
+dropped from 3,104 in 1999 (the first year after provisions 
+of the Brady Act became permanent) to 2,052 in 2010 
+(table 10). Agencies in the original FIST sample have been 
+deleted as responsibility has been transferred to the state 
+or the FBI. In 2010, data were collected from 11 states that 
+operated local background checking agencies. 
+
+The sample of local agencies in these 11 states has not been 
+redrawn since 1996. Annual estimates have been produced by 
+using weighting factors derived from the original 
+stratification and adjusted for changes in the population 
+served by the remaining agencies in each size category. In 
+2010, population figures provided by the U.S. Census 
+Bureau’s Population Estimates Program for 2005 were used. 
+All estimates were taken from the July 1, 2005, population 
+estimates for states, counties, incorporated areas, and 
+minor civil divisions. The stratification based on 2005 
+population estimates applies to the years from 2006 to 2010.
+
+The sample has been continuously updated to reflect changes 
+in checking activity and willingness of sampled agencies to 
+participate in the survey. Agencies have been added to the 
+FIST sample if responding agencies in states fell to fewer 
+than 30 eligible agencies or less than 10 percent of 
+eligible agencies in that state. In adding agencies, special 
+emphasis has been placed on obtaining cooperation from 
+agencies in the largest size category (i.e., agencies 
+serving more than 100,000 population).
+
+*****************
+Changes in 2010
+****************
+
+For the 2010 survey sample, 781 local agencies were 
+initially surveyed. During data collection, REJIS discovered 
+that 20 of these local agencies were either ineligible to be 
+in the sample or were no longer in existence and were 
+therefore removed from the sample. Additionally, 71 local 
+agencies from Massachusetts were removed from the sample 
+because the state reported firearm data as a total entity 
+for the first time (though the background checks continue to 
+be conducted on a local level). Data from Massachusetts are 
+now reported in the state counts. Because the state of New 
+Jersey reported application and denial data for its local 
+checking agencies (100% of firearm applications and denials 
+were reported for all agencies), New Jersey’s 109 local 
+agencies were also excluded from the sample total for the 
+calculation of the response rate, although REJIS still 
+surveyed local agencies in the state to obtain their reasons 
+for denial.
+
+Kansas and Nebraska were added to the 2010 data collection 
+because the Bureau of Alcohol, Tobacco, Firearms, and 
+Explosives (ATF) allowed each state’s concealed carry permit 
+to serve as a National Instant Criminal Background (NICS) 
+Check System alternative to the point-of-transfer check 
+process. These two states, along with Massachusetts, were 
+added to the total number of states eligible to provide 
+state-level data for 2010. Connecticut, Illinois, New 
+Jersey, and Utah conduct instant checks and permit checks. 
+Each state, regardless of the number of reporting units, was 
+counted as a single response.*** Footnote 1 Past FIST 
+collections counted each state reporting unit as separate 
+respondents in states with multiple reporting units. The 
+change in methodology to count each state as a single 
+response applies only to the calculation of response rates 
+and does not impact the totals of any data items.*** In 
+total, 31 states were eligible to provide state-level data 
+for the 2010 collection.
+
+Wisconsin and Mississippi did not report their data for 
+2010, which left 29 of 31 states that reported data or 
+verified publicly available information. Of the remaining 
+580 local agencies in the sample, 488 (84%) reported at 
+least their total firearm transfer or permit applications 
+and denials. Overall, 517 state and local agencies provided 
+data, for a total response rate of 85%. 
+
+************
+Estimation
+************
+
+Data obtained from state and local agencies were combined 
+with FBI NICS transaction data to create an estimate of the 
+total number of firearm purchase applications received and 
+denied nationally. National estimates of applications and 
+denials were developed using population weighting factors. 
+When an agency did not provide data for all months, missing 
+data were imputed by calculating and applying a monthly 
+average based on available data. Imputing data for missing 
+months was necessary only in the case of three local 
+agencies, each of which reported only six months of counts.
+
+Michigan reported concealed carry permit data by fiscal 
+year, which was used to estimate for the calendar year. 
+Pennsylvania reported 423,100 instant checks, included in 
+the FIST national estimate, and 223,375 applications for 
+nonexempt licenses to carry. Also, Pennsylvania provided the 
+combined number of denials of all applications, which was 
+prorated to obtain the number of denials of instant checks. 
+
+The estimates of applications and denials for Wisconsin and 
+Mississippi are the same as the reported numbers from 2009. 
+Wisconsin’s growth in the number of applications and denials 
+in the last five years was inconsistent relative to the 
+growth for states overall. As a result, Wisconsin’s 2009 
+counts were used for 2010, rather than using trends over 
+time or rates of growth among similar states. Mississippi 
+submitted counts for the number of applications and denials 
+in 2009; however, counts were unavailable for several years 
+prior. As a result, 2009 counts were used as the best 
+available estimates for 2010 counts in Mississippi.
+
+FIST sample weighting is consistent with a post-
+stratification weighting scheme whereby agencies in FIST are 
+stratified by area population categories (of area 
+populations of <10,000; 10,000-100,000; and >100,000, 
+respectively). After data for sample units have been 
+collected, a ratio adjustment is made to adjust up the 
+results of the sample agencies in a particular size category 
+to reflect total population of agencies in that size 
+category. Population numbers used to determine these weights 
+were based on 2005 population estimates at the state level 
+and size category totals.
+
+****************
+Standard errors
+****************
+
+As with any survey, the FIST estimates for local agencies 
+are subject to error arising from the fact that they are 
+based on a sample rather than a complete enumeration. A 
+common way to express this sampling variability is to 
+construct a 95%-confidence interval around each survey 
+estimate. Typically, multiplying the standard error by 1.96 
+and then adding or subtracting the result from the estimate 
+produces the confidence interval. This interval expresses 
+the range of values that could result among 95% of the 
+different samples that could be drawn using the same 
+sampling procedures.
+
+Standard errors have been provided for the number of 
+applications and denials and for the percentage of 
+applications denied in local agencies (see appendix tables 1 
+and 2). These standard errors take into account the 
+probability of selection (assuming that added agencies and 
+replaced agencies since original sample selection have a 
+probability of selection that is proportionate to their 
+size) and post-stratification adjustments (adjusting for 
+partial year coverage and controlling the weighted sample 
+totals to population totals in 2005 for each size category).
+
+*******************
+Reasons for denial
+*******************
+
+Information about reasons for denial has been collected by 
+the FIST project since the program’s inception in 1996. The 
+FBI and some state agencies provided a reason for each 
+denial while other state agencies provided reasons only for 
+some denials or did not provide any reasons for denials. 
+Twenty-one state agencies provided reasons for denial. 
+Reasons for denial are reported only as the distribution of 
+the actual number of reasons received in the survey; no 
+estimation is made of the reported reasons for 
+denial.***Footnote 2 Reasons for denial are reported only as 
+a percentage relative to one another because data on reasons 
+for denial are not consistent in how they are reported. A 
+distribution of denial proportions is reported to provide an 
+overall context of the reasons for denials issued in 
+2010.*** The reported reasons for denial do not have an 
+impact on the overall estimate for the denial rate because 
+the reasons for denial are reported as counts and are not 
+included in the process for estimating the total number of 
+denials issued by state agencies.
+
+********************
+Appeals and arrests
+********************
+
+Information on appeals and arrests has been collected by the 
+FIST project since 2000. The FBI provided data on appeals 
+for 2010, and some state and local agencies provided data on 
+appeals and arrests for 2010. All information on appeals and 
+arrests were actual totals and not estimates. Fourteen state 
+agencies provided appeal counts and four state agencies 
+provided arrest counts. Twenty-five local agencies provided 
+appeal counts and 19 provided arrest counts.
+
+**************
+Definitions
+**************
+
+National Instant Criminal Background Check (NICS) is a 
+national system that checks available records in the 
+following files to determine if prospective transferees are 
+disqualified from receiving firearms: the Interstate 
+Identification Index (millions of criminal history records); 
+the National Crime Information Center (protection orders and 
+active felony or misdemeanor warrants); and the NICS Index 
+(a database created solely for use by NICS that contains 
+information provided by local, state, and federal agencies 
+about persons prohibited under federal law from receiving or 
+possessing a firearm). Additionally, a fourth search of the 
+applicable databases via the Department of Homeland 
+Security’s United States Immigration and Customs Enforcement 
+is conducted for background checks initiated on all non-
+United States citizens.
+
+Firearm is any weapon that is designed to or may readily be 
+converted to expel a projectile by the action of an 
+explosive.
+
+Handgun is a firearm that has a short stock and is designed 
+to be held and fired using a single hand, such as a pistol 
+or revolver.
+
+Long gun is a firearm with a barrel extended to around 
+30 inches to improve accuracy and range, commonly with a 
+shoulder butt, and designed to be fired with two hands, such 
+as a rifle or shotgun.
+
+Federal Firearms Licensee (FFL) is also known as a federally 
+licensed firearms dealer. A dealer must be licensed by ATF 
+to be classified as an FFL and enrolled with the FBI’s NICS 
+to request a NICS check. 
+
+Application for firearm transfer is information submitted by 
+a person to a state or local checking agency to purchase a 
+firearm or obtain a permit that can be used for a purchase. 
+Information may be submitted directly to a checking agency 
+or forwarded by a prospective seller.
+
+Denial occurs when an applicant is prohibited from receiving 
+a firearm or a permit that can be used to receive a firearm 
+because a disqualifying factor was found during a background 
+check.*** Footnote 3 While some local agencies in the FIST 
+sample reported reasons for denial, over 50% did not provide 
+data. For this reason, the data were not robust enough to 
+report the distribution of the counts ***
+
+Transactions are inquiries to the federal NICS system and 
+may include more than one inquiry per application.
+
+Instant check (instant approval) systems require a seller to 
+transmit a purchaser’s application to a checking agency by 
+telephone or computer, after which the agency is required to 
+respond immediately or as quickly as possible.
+
+Purchase permit systems require a prospective firearm 
+purchaser to obtain, after a background check, a government-
+issued document (called a permit, license, or identification 
+card) that must be presented to a seller to receive a 
+firearm. 
+
+Exempt carry permit is a state carry permit (issued after a 
+background check) that exempts the holder from a check at 
+the time of purchase under an ATF regulation or state law.
+
+Other approval systems require a seller to transmit a 
+purchaser’s application to a checking agency by telephone or 
+other electronic means. The agency is not required to 
+respond immediately but must respond before the end of the 
+statutory time limit.
+
+*********************
+Related Publications 
+*********************
+
+The report, Background Checks for Firearm Transfers, - 
+Statistical Tables, is available only in electronic format 
+for the following publication years:
+
+* 2009, NCJ 231679, October 2010
+
+* 2008, NCJ 227471, August 2009
+
+* 2007, NCJ 223197, July 2008
+
+* 2006, NCJ 221786, March 2008.
+
+Avabilable in print and electronic formats—
+
+* Background Checks for Firearm Transfers, 2005, 
+NCJ 214256, November 2006
+
+* Background Checks for Firearm Transfers, 2004, 
+NCJ 210117, October 2005
+
+* Background Checks for Firearm Transfers, 2003: Trends for 
+the Permanent Brady Period, 1999-2003, NCJ 204428, September 
+2004
+
+* Background Checks for Firearm Transfers, 2002,  
+NCJ 200116, September 2003
+
+* Background Checks for Firearm Transfers, 2001,  
+NCJ 195235, September 2002
+
+* Background Checks for Firearm Transfers, 2000,  
+NCJ 187985, July 2001
+
+* Background Checks for Firearm Transfers, 1999,  
+NCJ 180882, June 1999.
+
+Data on this subject for the Brady Interim Period prior to 
+the permanent provisions are available in Presale Handgun 
+Checks, the Brady Interim Period, 1994–98, NCJ 175034, BJS 
+website, June 1999.
+ 
+* Enforcement of the Brady Act, 2009: Federal and State 
+Investigations and Prosecutions of Firearm Applicants Denied 
+by a NICS Check in 2009 
+https://www.ncjrs.gov/pdffiles1/bjs/grants/234173.pdf
+
+* Enforcement of the Brady Act, 2008: Federal and State 
+Investigations and Prosecutions of Firearm Applicants Denied 
+by a NICS Check in 2008
+http://www.ncjrs.gov/pdffiles1/bjs/231052.pdf
+
+* Enforcement of the Brady Act, 2007: Federal and State 
+Investigations and Prosecutions of Firearm Applicants Denied 
+by a NICS Check in 2007
+http://www.ncjrs.gov/pdffiles1/bjs/grants/227604.pdf 
+
+* Enforcement of the Brady Act, 2006
+http://www.ncjrs.gov/pdffiles1/bjs/grants/222474.pdf
+
+* Federal Firearms Cases, FY 2008 
+http://www.ncjrs.gov/pdffiles1/bjs/grants/229420.pdf
+
+* Federal Firearms Cases, FY 2007 
+http://www.ncjrs.gov/pdffiles1/bjs/grants/224890.pdf 
+
+The following BJS surveys provide an overview of the firearm 
+check procedures in each of the states and the states’ 
+interaction with NICS:
+
+* Survey of State Procedures Related to Firearm Sales, 2005, 
+NCJ 214645, November 2006
+
+* Survey of State Procedures Related to Firearm Sales, 
+Midyear 2004, NCJ 209288, August 2005
+
+* Survey of State Procedures Related to Firearm Sales, 
+Midyear 2003, NCJ 203701, August 2004
+
+* Survey of State Procedures Related to Firearm Sales, 
+Midyear 2002, NCJ 198830, April 2003
+
+* Survey of State Procedures Related to Firearm Sales, 
+Midyear 2001, NCJ 192065, April 2002
+
+* Survey of State Procedures Related to Firearm Sales, 
+Midyear 2000, NCJ 186766, April 2001
+
+* Survey of State Procedures Related to Firearm Sales, 
+Midyear 1999, NCJ 179022, March 2000
+
+* Survey of State Procedures Related to Firearm Sales, 1997, 
+NCJ 173942, December 1998
+
+* Survey of State Procedures Related to Firearm Sales, 1996, 
+NCJ 160705, September 1997
+
+* Survey of State Procedures Related to Firearm Sales, 
+NCJ 160763, May 1996.
+
+The following BJS survey examines the quality and 
+accessibility of certain criminal and noncriminal records 
+when states conduct a firearm presale background check:
+
+* Survey of State Records Included in Presale Background * * 
+Checks: Mental Health Records, Domestic Violence Misdemeanor 
+Records, and Restraining Orders, 2003, 
+NCJ 206042, August 2004
+
+* Trends for Background Checks for Firearm Transfers, 
+1999-2008 
+http://www.ncjrs.gov/pdffiles1/bjs/grants/231187.pdf
+
+******************************************************
+
+The Bureau of Justice Statistics is the statistical agency 
+of the U.S. Department of Justice. William J. Sabol is the 
+acting director.
+
+The Regional Justice Information Service (REJIS) prepared 
+these tables under the supervision of Allina D. Lee of the 
+Bureau of Justice Statistics (BJS). Allen Beck of the Bureau 
+of Justice Statistics provided statistical consultation. 
+Tracey Kyckelhahn, BJS statistician, provided verification. 
+Terry J. Tomazic, Professor of Sociology at Saint Louis 
+University, served as statistical advisor and Jennifer 
+Karberg at REJIS managed the data collection and assisted 
+with data analysis on the project. The tables were prepared 
+under BJS cooperative agreement #2011-BJ-CX-K017. The BJS-
+sponsored Firearm Inquiry Statistics (FIST) program collects 
+information on firearm background checks conducted by state 
+and local agencies and combines this information with 
+Federal Bureau of Investigation (FBI) National Instant 
+Criminal Background Check System (NICS) transaction data.
+
+Vanessa Curto, Jill Thomas, and Morgan Young edited the 
+report, and Tina Dorsey and Morgan Young produced the 
+report, under the supervision of Doris J. James.
+
+February 2013, NCJ 238226
+
+********************************************************
+
+******************************************************
+Office of Justice Programs * Innovation * Partnerships 
+* Safer Neighborhoods * http://www.ojp.usdoj.gov
+******************************************************
+______________________
+2/11/13/JER/12:50pm
+

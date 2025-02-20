@@ -1,0 +1,724 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------------------
+Cybercrime against Businesses, 2005
+
+September  2008,  NCJ 221943
+
+-------------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including 
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cb05.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#cyber
+-------------------------------------------------------------
+
+By Ramona R. Rantala
+BJS Statistician
+
+-------------------------------------------------------------
+
+Among 7,818 businesses that responded to the National Computer Security
+Survey, 67% detected at least one cybercrime in 2005 (table 1). Nearly 60%
+detected one or more types of cyber attack, 11% detected cyber theft, and
+24% of the businesses detected other computer security incidents.
+Respondents, representing 36 economic industries, said they detected more
+than 22 million incidents of cybercrime in 2005. The vast majority of
+cybercrimes (20 million incidents) were other computer security incidents,
+primarily spyware, adware, phishing, and spoofing. There were nearly 1.5
+million computer virus infections and 126,000 cyber fraud incidents. 
+
+The effects of these crimes were measured in terms of monetary loss and
+system downtime. Ninety-one percent of the businesses providing
+information sustained one or both types of loss. The monetary loss for these
+businesses totaled $867 million in 2005. Cyber theft accounted for more
+than half of the loss ($450 million). Cyber attacks cost businesses $314
+million. System downtime caused by cyber attacks and other computer
+security incidents totaled 323,900 hours. Computer viruses accounted for
+193,000 hours and other computer security incidents resulted in more than
+100,000 hours of system downtime.
+
+Of the businesses responding to the survey, telecommunications businesses
+(82% of these businesses), computer system design businesses (79%), and
+manufacturers of durable goods (75%) had the highest prevalence of
+cybercrime in 2005. Utilities, computer system design businesses,
+manufacturers of durable goods, and internet service providers detected the
+highest number of incidents, with a total of more than 10.5 million
+incidents. Administrative support, finance, and food service businesses
+incurred the highest monetary loss with a combined total of 
+$325 million, more than a third of the total for all businesses. 
+
+Forestry, fishing, and hunting (44% of businesses) and agriculture (51%)
+had the lowest prevalence of cybercrime in 2005. Agriculture, rental
+services, and business and technical schools incurred the least monetary loss
+($3 million). 
+
+Insiders (i.e., employees, contractors, or vendors working for the business)
+were responsible for the cyber thefts against nearly 75% of businesses
+victimized by cyber theft. Conversely, more than 70% of businesses
+victimized by cyber attacks or other computer security incidents said the
+suspected offenders were outsiders (i.e., hackers, competitors, and other
+non-employees).
+ 
+Overall, few businesses that detected an incident (15%) reported
+cybercrimes to official law enforcement agencies. More than 50% of
+victimized businesses reported cyber thefts to police, while cyber attacks
+and other computer security incidents were reported to authorities by 6%
+and 12% of victimized businesses, respectively.
+
+The National Computer Security Survey provides the nation's first
+large-scale measure of cybercrime
+
+The President's National Strategy to Secure Cyberspace directs the
+Department of Justice to develop better data about the nature and prevalence
+of cybercrime and electronic intrusions.***1The National Strategy to
+Secure Cyberspace, February 2003;Recommendation A/R 2-1***.  Other
+data collections address cybercrime, but no large-scale (or
+nationally representative) survey collects sufficient information to
+accurately measure cybercrime and its consequences or to develop risk
+factors. 
+
+The National Computer Security Survey (NCSS) was developed by the U.S.
+Department of Justice (DOJ), Office of Justice Programs, Bureau of Justice
+Statistics in partnership with the U.S. Department of Homeland Security,
+National Cyber Security Division. The DOJ Computer Crime and
+Intellectual Property Section and the Computer Intrusion Section of the
+Federal Bureau of Investigation Cyber Division and the U.S. Secret Service
+also collaborated on the project. The survey was also supported by a wide
+variety of trade associations and industry groups. (A complete list is
+available online at <http://www.ojp.usdoj.gov/bjs/survey/ncss/ncss.htm>.)
+
+The NCSS documents the nature, prevalence, and impact of cyber intrusions
+against businesses in the United States. This report examines three general
+types of cybercrime: 
+
+* Cyber attacks are crimes in which the computer system is the target. Cyber
+attacks consist of computer viruses (including worms and Trojan horses),
+denial of service attacks, and electronic vandalism or sabotage. 
+
+* Cyber theft comprises crimes in which a computer is used to steal money
+or other things of value. Cyber theft includes embezzlement, fraud, theft of
+intellectual property, and theft of personal or financial data. 
+
+* Other computer security incidents encompass spyware, adware, hacking,
+phishing, spoofing, pinging, port scanning, and theft of other information,
+regardless of whether the breach was successful or damage or losses were
+sustained as a result.
+
+More than 8,000 businesses participated in the survey
+
+The National Computer Security Survey sample was a stratified, random
+sample of businesses designed to produce national and industry-level
+estimates. The sample was stratified by industry, risk level, and size of
+business. Thirty-six industries, as defined by the North American Industrial
+Classification System (NAICS), were within the scope of the survey. (See
+appendix table 1 for a complete list and definitions of industries,
+Methodology for a detailed description of the sample design, and page 11
+for a glossary.) 
+
+To produce national and industry-level estimates a sample of nearly 36,000
+businesses was selected (table 2). Responses were received from more than
+8,000 businesses, giving an overall response rate of 23%. Response rates
+varied by business size, with larger businesses responding at a higher rate.
+Response rates also varied by industry. Response rates were highest for
+utility businesses (37%). Telecommunications (16%) had one of the lowest
+response rates. (See appendix table 2 for response rates for all industries).
+Though response rates were not sufficient to support national or
+industry-level estimates, they were the highest of any survey of this kind.
+ 
+Computer virus infections were the most prevalent cybercrime among
+businesses in 2005
+
+Of the 8,000 respondent businesses representing 36 economic industries,
+more than 7,800 used some type of computer system. Two-thirds of the
+businesses that used computers detected at least one computer security
+incident (5,081 businesses) in 2005 (table 3). Nearly three-fifths detected
+one or more types of cyber attack. A tenth detected a cyber theft. A quarter
+of the businesses detected other computer security incidents, such as
+spyware or phishing. 
+
+Computer virus infection was the most prevalent type of cyber attack,
+detected by 52% of responding businesses. Nearly 90% of respondents
+reported that they were able to stop a virus before it caused an infection
+(not
+shown in a table). Of those businesses able to intercept viruses, 40% said
+they were successful in preventing all virus infections.
+
+Cyber fraud was the most common type of cyber theft, having been detected
+by 5% of the businesses responding to the survey (table 3). 
+
+Of the businesses detecting theft of intellectual property, 70% indicated at
+least one incident involving the theft of trade secrets (table 4). For victims
+of theft of personal or financial data, names and dates of birth were taken
+from 60% of businesses. More than 75% of the businesses detecting other
+computer security incidents indicated that some type of malware (primarily
+adware) was installed, and 58% of victims discovered spyware or keystroke
+logging applications. Slightly more than 50% of the businesses detecting
+other computer security incidents were victims of corporate identity theft in
+the form of phishing or spoofing.
+
+Prevalence of cybercrime varied by industry and risk level. In 2005,
+telecommunications businesses (82% of these businesses), computer system
+design businesses (79%), and manufacturers of durable goods (75%) had the
+highest prevalence of cybercrime (appendix table 3.) These three industries
+also showed the highest prevalence of cyber attacks. Finance (33% of
+businesses) and Internet service providers (21%) had the highest proportion
+of businesses detecting cyber theft. About a third of responding
+telecommunications businesses, manufacturers of durable goods, and
+architecture and engineering businesses detected other computer security
+incidents. 
+
+Forestry, fishing, and hunting (44% of businesses) and agriculture (51%)
+had the lowest prevalence of cybercrime in 2005. Forestry, fishing, and
+hunting also had the lowest proportion of businesses detecting cyber theft
+(3%), followed by warehousing (4%) and social services (5%).
+
+86% of victimized businesses detected multiple incidents
+
+The majority of victimized businesses (86%) detected multiple incidents,
+with half of these (43%) detecting 10 or more incidents during the year
+(table 5). However, the percentage of businesses detecting multiple
+incidents varied by type of incident. For victims of computer viruses, denial
+of service attacks, fraud, and other computer security incidents, the majority
+of victims detected multiple incidents. Conversely, fewer than half of the
+victims of vandalism or sabotage, embezzlement, theft of intellectual
+property, or theft of personal or financial data detected multiple incidents. 
+
+91% of businesses detecting cybercrime incurred losses
+
+The effects of cybercrime were measured in terms of monetary loss and
+system downtime. During testing of the survey instrument, many businesses
+indicated that they had no reliable way to estimate the costs associated with
+system downtime. The businesses cited various reasons for difficulty in
+estimating the cost: employees were able to work offline, customers could
+return after systems were restored, and there was no method for measuring
+lost sales. For these reasons, the NCSS asked only for duration of downtime
+rather than a dollar loss equivalent.
+
+Ninety-one percent of the businesses that detected incidents and answered
+questions on loss sustained one or both types of loss. Forty-one percent of
+businesses sustained both monetary loss and system downtime.
+
+Type of loss        Percent of businesses*
+------------------------------------------------------------------------------    
+No loss                       9    %
+Any loss                      91   %
+    Monetary loss only        38   
+    Downtime only             12   
+    Both                      41
+------------------------------------------------------------------------------    
+*Based on 4,083 businesses answering at least one question on monetary
+loss or downtime.             
+
+Of the 3,591 businesses that detected incidents and responded to monetary
+loss questions, 3,247 (90%) incurred monetary loss from the computer
+security incidents (table 6). The amount of monetary loss depended on the
+type of incident. Approximately 68% of the victims of cyber theft sustained
+monetary loss of $10,000 or more. By comparison, 34% of the businesses
+detecting cyber attacks and 31% of businesses detecting other computer
+security incidents lost more than $10,000. The other computer security
+incidents category had the highest proportion of businesses experiencing
+some form of cybercrime but incurring no monetary loss (20%).
+
+There was no downtime for a tenth of the businesses detecting cyber attacks
+or other computer security incidents (table 7). System downtime lasted
+between 1 and 24 hours for half of the businesses and more than 24 hours
+for a third of businesses detecting these types of incidents.  
+
+The duration of system downtime varied by type of incident. Denial of
+service attacks noticeably affected the computer systems of 92% of victims.
+By comparison, incidents of vandalism or sabotage shut systems down for
+73% of businesses, and other computer security incidents caused system
+downtime for 68% of victimized businesses.
+
+Cybercrime resulted in monetary loss of $867 million among businesses
+responding to the survey
+
+Nearly 4,500 businesses provided information on 22 million cybercrime
+incidents in 2005 (table 8). The 3,247 businesses that incurred monetary
+loss from cybercrime lost a total of $867 million. About 2,000 businesses
+said their business networks, PCs, or web sites (or combinations of the
+three) were down for a total of 324,000 hours. 
+
+Cyber attacks accounted for nearly 1.6 million incidents, more than $300
+million in loss, and 220,000 hours of system downtime. Computer viruses
+accounted for about 90% each of: cyber attack incidents (1.5 million
+incidents), monetary loss ($281 million), and system downtime (193,000
+hours).   
+
+Cyber theft accounted for less than 1% of all incidents but more than 50%
+of the total monetary loss ($450 million). Theft of intellectual property had
+the fewest number of incidents (607), and the greatest amount of monetary
+loss of all types of cyber theft (nearly $160 million). Embezzlement also
+cost businesses nearly $160 million. System downtime data were not
+collected for cyber theft.
+
+Although 24% of businesses detected other computer security incidents,
+these other incidents accounted for 92% of the total number of incidents, or
+20 million incidents. Other computer security incidents accounted for 12%
+of all monetary loss ($103 million) and 32% of system downtime (104,000
+hours).
+
+Two-thirds of computer security incidents were targeted against critical
+infrastructure businesses
+
+The number of incidents varied by risk level and industry.  Ninety-five
+percent of victimized scientific research and development businesses
+detected multiple incidents (appendix table 4). By comparison, fewer than
+80% of victimized businesses operating in management of companies;
+forestry, fishing, and hunting; or other services detected more than one
+incident.
+
+Critical infrastructure businesses detected 13 million incidents (nearly
+two-thirds of the total). High risk industries detected more than 4 million
+incidents (a fifth of the total).
+
+Risk level          Number of incidents 
+----------------------------------------------------------------------
+     All businesses           22,138,250     
+Critical infrastructure       13,039,900     
+High risk                      4,133,800 
+Moderate risk                  1,979,400 
+Low risk                       2,985,100 
+------------------------------------------------------------------------
+
+Utilities, computer system design businesses, durable goods manufacturers,
+and internet service providers detected the most incidents. Businesses in
+these four industries detected more than 10.5 million incidents in 2005 (not
+shown in a table). Forestry, fishing, and hunting; food service; and rental
+service businesses detected the lowest number of incidents. Combined,
+these 3 industries detected fewer than 10,000 incidents.
+
+Computer system design businesses (98%) incurred monetary loss more
+frequently than any other industry (appendix table 5). In 2005 computer
+security incidents resulted in losses of $10,000 or greater for more than half
+of the finance businesses, manufacturers of durable goods, insurance
+businesses, and mining businesses.
+
+Critical infrastructure ($288 million) and low-risk businesses ($298 million)
+sustained the greatest monetary loss from cybercrime in 2005.
+
+Risk level          Monetary loss
+               (in thousands) 
+----------------------------------------------------
+     
+        All businesses        $866,600  
+Critical infrastructure       $287,600  
+High risk                      205,100   
+Moderate risk                   76,100    
+Low risk                       297,800   
+-------------------------------------------------------
+
+Specifically, administrative support, finance, and food service businesses
+incurred the greatest monetary loss with a combined total of $325 million,
+more than a third of the total for all businesses (not shown in a table).
+Agriculture businesses, rental services, and business and technical schools
+incurred the least monetary loss with a combined loss of $3 million. 
+
+More than half of the manufacturers of durable goods (56%) sustained
+system downtime of 25 hours or longer (appendix table 6). By comparison,
+more than a third of legal services and accounting businesses had a total of 1
+to 4 hours of system downtime. Critical infrastructure industries suffered
+152,200 hours of system downtime (nearly half of the total). Health care
+businesses reported the greatest duration of system downtime (34,800
+hours). Accounting; forestry, fishing, and hunting; and warehousing had the
+least downtime--a total of 2,500 hours, with fewer than 1,000 hours each. 
+
+Insiders were involved in cyber theft for 74% of businesses in 2005
+
+A third of the victimized businesses indicated that they were unable to
+determine what affiliation any computer security offenders had with the
+business (table 9). The type of incident for which businesses had the least
+information about the offender was denial of service (50% of businesses).
+Conversely, some offender information was known by the majority of
+victims of theft of intellectual property, (94% of businesses) and
+embezzlement (93%).
+
+In 2005 someone from outside the business, such as a hacker or competitor,
+was responsible for at least one computer security incident against 71% of
+the businesses that were able to make a determination about the suspected
+offender (table 10). For cyber attacks and other computer security incidents,
+nearly 75% of businesses said the suspected offender was an outsider. By
+comparison, the majority of businesses detecting cyber theft reported that
+the suspected offender was an insider (employee, contractor, or vendor
+working for the business). For embezzelment, more than 90% of businesses
+said the suspected offender was an insider, which is to be expected due to
+the nature of the crime. For thefts of intellectual property, nearly 85% of
+businesses said an insider was involved. 
+
+Motion picture and sound recording businesses (87% of victimized
+businesses) had the highest percentage of outside offenders (see appendix
+table 7). By comparison, arts and entertainment businesses had the lowest
+(55%). Retail (54%), finance (50%), and utility businesses (50%) showed
+the highest percentage of inside offenders. Petroleum businesses (24%),
+architecture and engineering businesses (25), and business and technical
+schools (26%) had the lowest. Computer system design businesses had the
+second highest prevalence of outside offenders (84% of victimized
+businesses) and one of the lowest prevalence rates of inside offenders
+(29%). 
+
+Most businesses did not report cyber attacks to law enforcement authorities
+
+When a computer security incident was detected, businesses responded in a
+variety of ways. The majority of businesses (87%) reported the incident to
+some person or organization (table 11). Eighty percent of responding
+businesses reported incidents to someone within their business. Fifteen
+percent of respondents reported incidents to another organization, such as
+their computer security contractor or internet service provider. Fifteen
+percent of victimized businesses reported incidents to law enforcement. Law
+enforcement includes federal, state and local law enforcement agencies, and
+official organizations affiliated with law enforcement such as InfraGard (an
+organization that works with the Federal Bureau of Investigation) and
+CERT CC (an organization that works with the Department of Homeland
+Security). 
+
+Reporting of incidents to law enforcement authorities varied by the type of
+incident. The majority of businesses reported embezzlement (72%), fraud
+(63%), and theft of personal or financial data (60%). Few businesses
+reported theft of intellectual property (27%), any type of cyber attack (6%),
+or other computer security incidents (12%) to law enforcement officials. 
+
+Among businesses not reporting incidents to law enforcement authorities,
+the majority (86%) indicated that incidents were reported elsewhere (within
+the business or to an organization such as their security contractor) rather
+than to law enforcement (table 12). Half of the businesses responded that
+they thought there was nothing to be gained by reporting an incident to law
+enforcement. Other businesses said they did not think to report the incident
+(22%), did not know who to contact (11%), or thought the incident was
+outside the jurisdiction of law enforcement authorities (7%). 
+
+Few businesses (3%) indicated that their decision not to report an incident
+to law enforcement was based on the possibility of negative publicity or
+decreased confidence in the business. 
+
+Three-fifths of the businesses detecting cyber attacks reported that the
+Internet was involved
+
+One critical aspect of computer security is determining which networks
+were accessed in an incident. (Accessed networks include networks that
+were breached, used to get into another part of the computer system, or
+affected by the incident--for instance, networks vandalized or on which
+malware was surreptitiously installed.) NCSS data identify which systems
+tended to be targeted. Nearly 1,600 businesses that detected incidents also
+provided information on the systems the business used and which ones were
+accessed during an incident.
+
+A majority of the businesses detected at least one incident involving the
+Internet and/or a local area network (LAN) (table 13). The Internet was the
+most prevalent vehicle or target of cyber attacks (64% of businesses), while
+cyber thieves tended to access a business's LAN (57% of businesses). For
+victims of other computer security incidents, half of the businesses reported
+the Internet, half reported their LAN, and more than a quarter said their
+wide area network (WAN) was accessed.
+
+Other networks were accessed to a lesser extent. Intranet or Extranet
+connections were accessed during computer breaches for 17% of
+respondents, stand-alone workstations (15%), other networks such as virtual
+private networks (12%) and wireless connections (8%) were also accessed
+(not shown in a table).
+
+Another critical aspect of computer security is determining whether laptops
+not owned by the business posed more of a security threat than
+business-owned laptops. Nearly a third of the businesses said a
+business-owned laptop was involved in at least one computer security
+incident. Business-owned laptops were cited less frequently as having been
+used in cyber attacks (10% of businesses) or cyber thefts (20%) than in
+other computer security incidents (38%). In comparison, 8% of the
+businesses reported non-business laptops were used in a cyber attack, 7% in
+a cyber theft, and 16% in an other computer security incident (not shown in
+a table). 
+
+Of the 4,000 businesses detecting a virus infection, 51% provided
+information on how viruses were introduced into their computer systems.
+E-mail attachments were the most commonly cited vehicle (77% of
+businesses) for introducing computer virus infections (table 14). 
+
+Small businesses (83%) were somewhat more vulnerable to virus-laden
+e-mails than large businesses (72%). Conversely, large businesses (37%)
+were more vulnerable to portable media such as CDs or thumb drives as a
+source of virus infections, compared to small businesses (14%). This
+difference might be explained by a greater tendency of larger businesses to
+use portable media. 
+
+Internet downloads were the second most prevalent source of computer
+virus infections. Sixty-one percent of businesses detected virus infections
+from Internet downloads. This percent did not vary by business size. 
+
+Insufficient anti-virus software was the most prevalent vulnerability
+
+Overall, 62% of the businesses using anti-virus software said the software
+was inadequate in preventing incidents (table 15). Nearly half of the
+businesses using anti-spyware or anti-adware said the software did not
+prevent an incident. Internal controls (31% of businesses), e-mail logs and
+filters (27%), and firewalls (26%) were also commonly cited as insufficient.
+
+Security insufficiencies differed depending on the type of incident. The
+most prevalent security deficiencies were anti-virus software for cyber
+attacks (66% of businesses), misuse of authorized access for cyber theft
+(46%), and anti-spyware and anti-adware for other computer security
+incidents (62%).
+
+Other security measures appeared to be more successful in preventing
+incidents. Biometrics (5% of businesses), digital certificates (5%), password
+generators (6%), and encryption (7%) were least frequently cited as the
+mechanisms that were inadequate to prevent incidents (not shown in a
+table).
+
+Businesses that outsourced all or part of their computer security had a
+greater prevalence of incidents
+
+Businesses that outsourced all or part of their computer security had a
+higher prevalence of cybercrime compared to businesses that performed all
+security in-house. 
+
+Sixty-four percent of businesses that outsourced at least one security
+measure detected one or more cyber attacks in 2005 (table 16). By
+comparison, 55% of businesses that kept all security functions in-house
+detected a cyber attack that same year. 
+
+The security measure that showed the greatest difference in prevalence of
+attacks between outsourcing and in-house was physical security. Businesses
+that outsourced physical security had the highest prevalence of cyber attacks
+(73%), compared to businesses that managed their own physical security
+(60%). Several security measures showed little or no difference between the
+businesses that outsourced computer security and those that kept it in-house.
+These include business continuity plans and formal audit standards. Two
+security measures showed a slightly lower prevalence of cyber attacks when
+outsourced: network watch centers and configuration management.
+
+Methodology
+
+Sample design
+
+The National Computer Security Survey sample was a stratified, random
+sample of businesses designed to produce national and industry-level
+estimates. The sample was stratified by industry, risk level, and size of
+business. Thirty-six industries, as determined by the North American
+Industrial Classification System (NAICS), were within the scope of the
+survey. (See appendix table 1 for a complete list and definition of
+industries.) Risk level comprised four groups: critical infrastructure, high
+risk, moderate risk, and low risk. Critical infrastructure consisted of
+businesses operating in the industries with which the Department of
+Homeland Security formed Information Sharing and Analysis Centers
+(ISACs). Each of the remaining businesses was designated as high,
+moderate, or low risk depending on its industry of operation's risk of
+incidents, loss, and downtime. Business size was determined by the number
+of employees and was divided into nine size categories. The sampling
+frame, Dunn and Bradstreet, contained records for nearly 7.3 million
+in-scope businesses. Businesses without employees on their payroll such
+as family owned and operated businesses--were out of scope. 
+
+Sampling was done at the enterprise level, except in cases of businesses
+with large subsidiaries operating in different economic sectors. To preserve
+the ability to provide industry-level findings, these businesses were sampled
+at the highest level of subsidiary with distinct lines of business. 
+
+A sample of 35,596 businesses was drawn to produce national and
+industry-level estimates and to track changes of more than 2.5% over time.
+(See appendix table 2 for a summary of the sample by risk level and
+industry.) Businesses with more than 5,000 employees and Fortune 500
+businesses were drawn with certainty to ensure the representation of all
+industries. Because some industries typically do not have large businesses,
+the largest 50 businesses were also included with certainty. Due to the
+particular importance of the nation's critical infrastructure, businesses in
+these strata were over-sampled. High risk industries such as manufacturing,
+retail, and wholesale were also over-sampled.
+
+Tables
+
+Denominators reflect the number of businesses that responded to the
+questions relevant to a given table. For example, in table 5 the denominator
+represents the number of businesses that responded to questions on
+networks used by the business, whether computer security incidents were
+detected, and networks that were affected in those incidents (if any). Unless
+otherwise noted, missing items or responses of "don't know" have been
+omitted. Totals and medians are based on positive responses and exclude
+zeroes.
+
+Incident percentages are based on 7,636 businesses that had a computer and
+responded to at least 1 incident question; 7,626 businesses responded to at
+least 1 question on cyber attacks, 7,561 to at least 1 question on cyber
+theft,
+and 7,492 to at least 1 question on other computer security incidents. 
+
+For theft of intellectual property, 29% of 198 businesses provided multiple
+types; for personal or financial data, 60% of 235 businesses specified more
+than 1 type; and for other computer security incidents, 59% of 1,762
+businesses identified multiple types.
+
+Missing and excluded data
+
+Of the 8,079 businesses providing information on whether or not they had
+computer systems, 14 businesses reported contradictory information.
+Because the responses from these 14 businesses could not be reconciled,
+they were excluded from all analyses.
+
+Each table underwent a detailed disclosure analysis to ensure the
+confidentiality of responses given by individual businesses. As a result,
+some responses were excluded from totals and medians. Table 8 and
+appendix table 6 were affected. Six responses were excluded from the
+number of computer security incidents; six responses were excluded from
+monetary loss; and three responses were excluded from system downtime.
+The disclosure analysis also resulted in the suppression of values for some
+cells in table 10, appendix table 6, and appendix table 7.
+
+Definitions of computer security incidents
+
+Computer virus--a hidden fragment of computer code which propagates by
+inserting itself into or modifying other programs. Includes viruses, worms,
+and Trojan horses. Excludes spyware, adware, and other malware.  
+     
+Denial of service--the disruption, degradation, or exhaustion of an Internet
+connection or e-mail service that results in an interruption of the normal
+flow of information. Denial of service is usually caused by ping attacks, port
+scanning probes, or excessive amounts of incoming data.          
+Electronic vandalism or sabotage--the deliberate or malicious damage,
+defacement, destruction or other alteration of electronic files, data, web
+pages, or programs.
+          
+Embezzlement--the unlawful misappropriation of money or other things of
+value, by the person to whom the property was entrusted (typically an
+employee), for his or her own purpose. Includes instances in which a
+computer was used to wrongfully transfer, counterfeit, forge or gain access
+to money, property, financial documents, insurance policies, deeds, use of
+rental cars, or various services by the person to whom they were entrusted.
+          
+Fraud--the intentional misrepresentation of information or identity to
+deceive others, the unlawful use of a credit or debit card or ATM, or the use
+of electronic means to transmit deceptive information, in order to obtain
+money or other things of value. Fraud may be committed by someone inside
+or outside the business. Includes instances in which a computer was used to
+defraud the business of money, property, financial documents, insurance
+policies, deeds, use of rental cars, or various services by forgery,
+misrepresented identity, credit card or wire fraud. Excludes incidents of
+embezzlement.  
+     
+Theft of intellectual property--the illegal obtaining of copyrighted or
+patented material, trade secrets, or trademarks (including designs, plans,
+blueprints, codes, computer programs, software, formulas, recipes, graphics)
+usually by electronic copying. Excludes theft of personal or financial data
+such as credit card or social security numbers, names and dates of birth,
+financial account information, or any other type of information.
+          
+Theft of personal or financial data--the illegal obtaining of information that
+potentially allows someone to use or create accounts under another name
+(individual, business, or some other entity). Personal information includes
+names, dates of birth, social security numbers, or other personal
+information. Financial information includes credit, debit, or ATM card
+account or PIN numbers. Excludes theft of intellectual property such as
+copyrights, patents, trade secrets, and trademarks. Excludes theft of any
+other type of information.
+          
+Other computer security incidents--Incidents that do not fit within the
+definitions of the specific types of cyber attacks and cyber theft.
+Encompasses spyware, adware, hacking, phishing, spoofing, pinging, port
+scanning, sniffing, and theft of other information, regardless of whether
+damage or losses were sustained as a result.
+          
+Definitions of other terms
+
+Business--a company, service or membership organization consisting of one
+or more establishments under common ownership or control. For this
+survey, major subsidiaries were treated as separate businesses.
+          
+CERT C.C--an organization that works with the U.S. Computer Emergency
+Readiness Team (CERT) and the private sector. CERT C.C. studies
+computer and network security in order to provide incident response
+services to victims of attacks, publish alerts concerning vulnerabilities and
+threats, and offer information to help improve computer and network
+security. 
+     
+DHS National Cyber Security Division (NCSD)--works cooperatively with
+public, private, and international entities to secure cyberspace and
+America's cyber assets. Its strategic objectives are to build and maintain an
+effective national cyberspace response system and to implement a cyber-risk
+management program for protection of critical infrastructure.    
+     
+DOJ Computer Crime and Intellectual Property Section (CCIPS)--is
+responsible for implementing the Department's national strategies in
+combating computer and intellectual property crimes worldwide. The
+Computer Crime Initiative is a comprehensive program designed to combat
+electronic penetrations, data thefts, and cyber attacks on critical
+information
+systems. 
+          
+FBI Cyber Division, Computer Intrusion Section--addresses computer
+intrusions, which often have international facets and national economic
+implications. The Cyber Division as a whole simultaneously supports FBI
+priorities across program lines, assisting counterterrorism,
+counterintelligence and other criminal investigations when aggressive
+technological investigative assistance is required.    
+     
+Information Sharing and Analysis Centers (ISACs)--organizations that work
+with the U.S. Government, law enforcement agencies, technology providers,
+and security associations such as U.S. CERT. ISACs maintain secure
+databases, analytic tools and information gathering and distribution
+facilities
+designed to allow authorized individuals to submit reports about
+information security threats, vulnerabilities, incidents and solutions. 
+          
+InfraGard--an information sharing and analysis effort serving the interests
+and combining the knowledge base of a wide range of members. At its most
+basic level, InfraGard is a partnership between the Federal Bureau of
+Investigation and the private sector.   
+     
+Subsidiary--a company in which another business has more than 50%
+ownership or the power to direct or cause the direction of management and
+policies.
+          
+U.S. CERT--The United States Computer Emergency Readiness Team is a
+partnership between the Department of Homeland Security and the public
+and private sectors. Established in 2003 to protect the nation's Internet
+infrastructure, U.S. CERT coordinates defense against and responses to
+cyber attacks across the nation. 
+
+United States Secret Service (USSS)--Originally founded to suppress the
+counterfeiting of U.S. currency, the USSS now investigates many financial
+crimes. The USSS has established working partnerships in both the law
+enforcement and business communities to address such cybercrime issues as
+protecting the critical infrastructure, Internet intrusions, and associated
+fraud. These partnerships include the Electronic Crimes Task Forces and the
+Cyber Investigative Section.       
+
+The Bureau of Justice Statistics is the statistical agency of the U.S.
+Department of Justice. Jeffrey L. Sedgwick is director.
+
+This Special Report was written by Ramona R. Rantala, BJS Statistician. 
+Mark Motivans verified the statistical information. Elizabeth Billheimer and
+Bethany Allen assisted with verification. 
+
+Ramona R. Rantala was project manager for the National Computer
+Security Survey. RAND Corporation staff, under a cooperative agreement
+and in collaboration with BJS, designed the sample, updated the
+questionnaire, and collected the data: Lois M. Davis, Principal Investigator;
+Daniela Golinelli, Statistician; Robin Beckman, Research Programmer;
+Sarah Cotton, Survey Director; Robert Anderson, Co-Principal Investigator;
+Anil Bamezai, Policy Researcher; Christopher Corey, Survey Technical
+Support Manager; Megan Zander-Cotugno, Survey Coordinator; and John
+Adams, Senior Statistician. Joseph Garrett, Senior Vice President, and Julie
+Young, Research Director of Marketing Research, Inc., designed and
+monitored the web-based data collection instrument. 
+
+Catherine Bird and Tina L. Dorsey edited and produced the report. Jayne E.
+Robinson prepared the report for final printing.
+
+September 2008, NCJ 221943
+------------------------------------------------------------------------------
+-----
+This report in portable document format and in ASCII and its related
+statistical data and tables are available at the BJS World Wide Web Internet
+site: <http://www.ojp.usdoj.gov/bjs/abstract/cb05.> 
+
+------------------------------------------------------------------------------
+---------
+Office of Justice Programs
+Innovation   Partnerships   Safer Neighborhoods
+http://www.ojp.usdoj.gov
+-------------------------------------------------------------------------
+12/11/2008/ TLD

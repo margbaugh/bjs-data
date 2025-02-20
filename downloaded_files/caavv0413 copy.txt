@@ -1,0 +1,855 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+****************************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5666
+****************************************************************
+
+*******************
+Special Report
+*******************
+
+****************************************
+Co-Offending Among Adolescents
+in Violent Victimizations, 2004–13
+**************************************** 
+
+Barbara A. Oudekerk, Ph.D., and 
+Rachel E. Morgan, Ph.D., BJS Statisticians
+************************************************
+
+For the 10-year period 2004–13, adolescents ages 12 to
+17 committed 50.0 nonfatal violent victimizations per
+1,000 adolescents (figure 1). In this report, adolescents
+are persons ages 12 to 17, young adults are persons ages 18
+to 29, and adults are persons age 30 or older. The rate of
+violent victimizations committed by adolescents—or the
+adolescent violent victimizing rate—was slightly higher
+than the violent victimizing rate for young adults (45.2 per
+1,000 young adults). (See Calculating rates using the National
+Crime Victimization Survey text box for more information.)
+The violent victimizing rate for adolescents was more than
+3.5 times higher than the rate for adults age 30 or older
+(13.7 victimizations per 1,000 adults).
+
+More nonfatal violent victimizations were committed
+by adolescents who acted alone than adolescents who
+acted with co-offenders. Adolescents who acted alone
+committed 31.8 violent victimizations per 1,000 adolescents.
+In comparison, adolescents who acted with at least one
+co-offender committed 18.1 violent victimizations per 1,000
+adolescents. However, co-offending violent victimizing rates
+were higher for adolescents than for young adults (12.9 per
+1,000) or adults (1.9 per 1,000).
+
+***********************************************************
+************
+HIGHLIGHTS
+************
+
+This report uses data from the National Crime Victimization
+Survey (NCVS) to describe victim, incident, and offender
+characteristics of nonfatal violent victimizations committed by
+adolescents ages 12 to 17 acting alone or with co-offenders
+for the 10-year period 2004 through 2013. Violence includes
+simple assault and serious violent victimization (rape or sexual
+assault, robbery, and aggravated assault):
+
+* Adolescent offenders who acted alone or with others
+committed 50.0 nonfatal violent victimizations per
+1,000 adolescents.
+
+* Adolescent offenders committed 22% of all violent
+victimizations, while making up 10% of the U.S. population
+age 12 or older during this period.
+
+* In violent victimizations committed by adolescents who
+acted with at least one other person, co-offenders were most
+commonly other adolescents (59%) or young adults (28%).
+
+* More violent victimizations were committed by adolescents
+who acted alone (64%) than those who acted with
+co-offenders (36%).
+
+* Simple assaults made up a greater percentage of violent
+victimizations committed by adolescents acting alone (77%)
+or with other adolescents (71%), compared to victimizations
+by adolescents acting with young adults (53%).
+
+* A greater percentage of adolescents who acted alone (61%)
+or with young adults (70%) used a weapon when engaging
+in serious violence than those who co-offended with other
+adolescents (50%).
+
+* The rate of serious violent victimizations committed by
+adolescent offenders decreased 83% from 1994 to 2013
+***********************************************************
+
+This report uses data from the National Crime Victimization
+Survey (NCVS) to provide detailed information about
+nonfatal violent victimizations committed by adolescents
+acting alone or with co-offenders. The NCVS collects data
+on victims’ reports of their experiences. The majority of
+this report includes only victimizations in which victims
+reported the perceived age of their offenders and all
+known offenders were age 12 or older (87% of all violent
+victimizations from 2004 through 2013).
+
+This report presents aggregate estimates for the period from
+2004 through 2013. Trend estimates are based on 2-year
+rolling averages centered on the most recent year from 1993
+to 2013. For example, estimates reported for 1994 represent
+the average estimates for 1993 and 1994. This report refers
+to all 2-year estimates by the most recent year. Rolling
+averages and aggregating years increases the reliability and
+stability of estimates and facilitates comparisons of detailed
+victimization characteristics.
+
+
+***********************************************************
+**************************************
+Calculating rates using the 
+National Crime Victimization Survey
+**************************************
+
+The NCVS produces annual victimization, incident, and
+prevalence rates for the residential population of the United
+States based on a sample from that population. It has also
+been used to generate offending rates.***Footnote*Lynch, J. P. & 
+Snyder, H. N. (2012). Juvenile crime trends and their 
+implications for understanding. Understanding the “Whys” Behind 
+Juvenile Crime Trends, 17-49. Available at 
+http://whysproject.org/whysFull.pdf.*** This report examines 
+victimizing rates, or the rate at which specific groups commit 
+victimizations (rather than offenses or incidents), focusing 
+specifically on adolescent victimizing rates.
+
+The following examples illustrate the difference between
+adolescent victimizing rates and adolescent offending,
+victimization, and incident rates. It shows how each rate
+would be calculated if three adolescent offenders robbed
+three victims--one adult and two adolescents--at gunpoint.
+
+* Victimizing rates are calculated as the number of
+victimizations committed by a specific group divided by
+the total population of the group. The victimizing rate does
+not include the number of offenders who committed the
+victimizations. The incident above would contribute three
+victimizations to the adolescent victimizing rate because
+the adolescents victimized three different people.
+
+* Offending rates are calculated as the number of offenders
+from a specific group who are involved in each incident,
+summed across all incidents, and divided by the total
+population of the group. Offenders may commit multiple
+crimes in a given year, and each offender would be counted
+separately in each incident. The incident above would
+contribute three offenders to the adolescent offending rate
+because three adolescents committed the incident.
+
+* Victimization rates are calculated as the number of
+victimizations committed against a specific group divided
+by the total population of the group. If a crime incident has
+more than one victim, each victim is counted separately.
+The incident above would contribute two victimizations
+to the adolescent victimization rate because two of the
+victims were adolescents.
+
+* Incident rates are calculated as the number of incidents
+(criminal acts) that occurred within a specific group divided
+by that population. An incident is counted only once
+regardless of the number of victims. The robbery above
+would contribute one incident to the adolescent incident
+rate because the two adolescents were robbed in the
+same incident.
+
+Both victimizing and offending rates are based on information
+about offenders of crime. This report presents victimizing rates
+because it includes the number and nature of victimizations
+committed by adolescents, and permits estimates of the
+amount of victim harm generated by adolescent offenders
+who acted alone compared to those who acted with others.
+Offending rates would not accurately achieve these goals.
+
+Offending rates would produce duplicate counts of harm
+rendered to one victim if the incident was committed by
+more than one adolescent offender. For example, three
+adolescents committing serious violence against one victim
+would be described as “three adolescents committed a serious
+violent crime” based on the offending rate, but as “one victim
+seriously victimized by adolescents” based on the victimizing
+rate. The greater the number of adolescents who committed
+victimizations with co-offenders and the greater the number
+of co-offenders per victimization, the greater the count of
+victim harm. Therefore, offending rates could produce inflated
+estimates of victim harm.
+
+Offending rates could also underestimate the amount of
+victim harm caused by adolescents. Offending rates count
+the number of offenders per incident and not the number of
+victims. For example, one adolescent who committed serious
+violence against three victims would be described as “one
+adolescent committed a serious violent crime” based on the
+offending rate but “three persons seriously victimized by an
+adolescent” based on the victimizing rate.
+***********************************************************
+
+*****************************************************
+Adolescents committed 22% of violent victimizations
+but made up 10% of the U.S. population
+*****************************************************
+
+During 2004–13, adolescents were offenders in 22%
+of total violent victimizations known to be committed
+by persons ages 12 and older (table 1). In comparison,
+adolescents made up 10% of the U.S. population age 12 or
+older during this time. Violent victimizations committed
+by adolescents involved co-offenders 36% of the time
+(table 2). Co-offenders were most often other adolescents
+(59%). Another 28% of violent victimizations committed by
+co-offending adolescents involved young adult co-offenders.
+Victimizations by co-offending adolescents were less
+likely to involve co-offending adults (7%) or co-offending
+children age 11 or younger (4%). Of the average annual
+5,647,900 violent victimizations in which victims reported
+offenders’ age, adolescents who acted alone accounted for
+14% of victimizations, adolescents who co-offended with
+other adolescents accounted for 5% of victimizations, and
+adolescents who co-offended with young adults accounted
+for 2% of victimizations (table 3).
+
+***********************************************************
+*******************************************
+Measuring offender age in the National 
+Crime Victimization Survey
+*******************************************
+
+The NCVS collects information on nonfatal crimes reported
+and not reported to the police against persons age 12
+or older from a nationally representative sample of U.S.
+households. It asks respondents who report a victimization
+to indicate whether the crime was committed by a single or
+multiple offenders.
+
+When an offender acted alone, the survey asks respondents
+to indicate whether they perceive the offender was age 11
+or younger; ages 12 to 14, 15 to 17, 18 to 20, or 21 to 29; or
+age 30 or older. When multiple offenders committed the
+crime, it asks respondents to provide perceived ages of the
+oldest and youngest offenders using the same age categories.
+Victimizations in which the victim could not estimate the
+age of the offenders and victimizations that were committed
+solely by offenders age 11 or younger were not included in
+this report. (See Methodology for more detail about offenders
+age 11 or younger and the limitations inherent in measuring
+offender age based on victim reports.)
+
+In this report, offenders were grouped into three age groups:
+adolescents ages 12 to 17, young adults ages 18 to 29, and
+adults ages 30 or older. These larger age categories make
+it possible to reliably examine co-offending subgroups. In
+violent victimizations committed by two or more offenders in
+2004–13, co-offenders tended to be close in age. For violent
+victimizations in which the youngest offender was between
+ages 12 to 14, the oldest co-offenders were also ages 12 to 14
+in about 46% of the victimizations (table 4). In another 39%
+of these victimizations, the oldest co-offenders were ages 15
+to 17. Similarly, for violent victimizations in which the age of
+the youngest offender was 15 to 17, the oldest co-offender
+was most often ages 15 to 17 (42%) or ages 18 to 20 (35%).
+The majority (89%) of the youngest co-offenders who
+committed violent victimizations with young adults were ages
+15 to 17 (table 5).
+***********************************************************
+
+Co-offending adolescents were generally the same
+race and sex
+*************************************************
+
+During 2004–13, adolescents who acted alone to commit
+violent victimizations were most often male (72%). When
+violent victimizations were committed by co-offending
+adolescents, co-offenders were usually the same sex.
+Adolescent males were offenders in 62% of violent
+victimizations committed by adolescents who acted
+with other adolescents (table 6). About 64% of violent
+victimizations committed by adolescents who acted with
+young adults involved at least one male adolescent offender
+who acted with all males.
+
+Violent victimizations committed by a group of adolescents
+involved a greater percentage of female offenders (26%)
+than those committed by adolescents who co-offended with
+young adults (10%). About a quarter (26%) of victimizations
+committed by adolescents who co-offended with young
+adults involved both male and female offenders.
+
+More than half (59%) of violent victimizations committed
+by adolescents who acted alone were committed by white
+adolescents, and a quarter (26%) were committed by black
+adolescents. Co-offenders were all white or all black in
+three-quarters (75%) of violent victimizations committed
+by a group of adolescents and in over two-thirds (70%) of
+victimizations committed by adolescents who co-offended
+with young adults. From 2004 to 2013, the majority (66%)
+of victimizations committed by adolescents who acted with
+other adolescents involved two or three offenders (table 7).
+More than half of violent victimizations committed by
+adolescents who acted with young adults involved four or
+more offenders (56%), compared to 28% of victimizations
+committed by a group of adolescents. When victimizations
+were committed by adolescents co-offending with
+adolescents or young adults, almost half (42% to 50%)
+of victims did not know whether the adolescents were
+gang members.
+
+**************************************************
+Simple assaults made up the majority of violent
+victimizations committed by adolescents
+**************************************************
+
+Violent victimizations committed by adolescents were
+more likely to be simple assaults than serious violent
+crimes (rape or sexual assault, robbery, or aggravated
+assault) if adolescents acted alone (77% for simple
+assaults compared to 23% for serious violent crimes) or
+co-offended with other adolescents (71% compared to
+29%) (table 8). In comparison, almost half (47%) of violent
+victimizations committed by adolescents who co-offended
+with young adults were serious crimes. Most serious
+violent victimizations committed by adolescents who acted
+alone (14%) or with young adults (27%) were aggravated
+assaults. In comparison, most serious violent victimizations
+committed by adolescents who co-offended with other
+adolescents were robberies (17%).
+
+**************************************************
+Most serious violence committed by adolescents 
+Did not result in injury
+**************************************************
+
+During 2004–13, a weapon was involved in a greater
+percentage of serious violent victimizations committed by
+adolescents who acted alone (61%) than serious violent
+victimizations committed by adolescents who co-offended
+with adolescents (50%) (table 9). About two-thirds (70%) of
+serious violent victimizations committed by adolescents who
+co-offended with young adults involved a weapon.
+
+Although more than half of serious violent victimizations
+involved a weapon across these co-offending subgroups, the
+majority of adolescent-perpetrated violent victimizations did
+not involve weapons (73%), as most adolescent-perpetrated
+violence was simple assault. Among all violent victimizations
+committed by adolescents, which included serious violence
+and simple assault, fewer than 1 in 5 (17%) victimizations
+involved a weapon (not shown).
+
+Most serious violent victimizations committed by
+adolescents did not result in injury (59% to 70% across
+subgroups) (table 10). An injury was involved in a
+greater percentage of serious victimizations committed
+by adolescents who co-offended with young adults (41%)
+than with other adolescents (30%). An injury was involved
+in a slightly greater percentage of serious victimizations
+committed by adolescents who co-offended with young
+adults (41%) than by those who acted alone (32%).
+
+This difference was due to a higher percentage of minor
+injuries in serious violence committed by adolescents
+who acted with young adults (24%) than alone (17%).
+The percentages of serious injuries were not significantly
+different for these two co-offending groups. Most injuries
+caused by adolescents who co-offended with other
+adolescents were bruises, cuts, or other minor injuries (26%
+of serious victimizations). Overall, including simple assaults
+and serious violence, 24% of total violent victimizations
+committed by adolescents resulted in an injury (not shown).
+Of these, 21% involved minor injuries and 3% involved
+serious injuries (not shown).
+
+**************************************************
+Police were notified in 71% of serious violent
+victimizations committed by adolescents who acted
+with young adults
+**************************************************
+
+More than two-thirds (71%) of serious violent victimizations
+committed by adolescents who co-offended with young
+adults were reported to police during 2004–13 (table 11).
+
+This was higher than in serious violent victimizations
+committed by adolescents who co-offended with other
+adolescents (51%) or acted alone (46%).
+
+Across all offender ages and co-offending subgroups,
+smaller percentages of simple assault than serious violent
+victimizations were reported to police. Similar to the
+pattern of reporting serious violence to police, a greater
+percentage of simple assaults committed by adolescents
+who co-offended with young adults were reported to
+police (46%) than adolescents who co-offended with other
+adolescents (34%) or acted alone (25%). In addition, more
+simple assaults committed by adolescents who co-offended
+with other adolescents were reported to police, than those
+committed by adolescents who acted alone.
+
+**************************************************
+A greater percentage of victims were strangers
+in serious violence committed by co-offending
+adolescents than by adolescents who acted alone
+**************************************************
+
+During 2004–13, across all offender age groups, most serious
+violent and simple assault victimizations committed by
+adolescents were committed against an acquaintance or
+stranger. When adolescents committed domestic violence,
+they usually offended alone. About 18% of serious violent
+victimizations and 8% of simple assaults committed by
+adolescents who acted alone were perpetrated against
+a current or former intimate partner or family member
+(table 12).
+
+A greater percentage of serious victimizations committed by
+adolescents who acted alone (48%) or with other adolescents
+(42%) were perpetrated against well-known or casual
+acquaintances than those committed by adolescents who
+co-offended with young adults (21%). Most (67%) serious
+victimizations committed by adolescents who co-offended
+with young adults were perpetrated against strangers.
+Strangers were victims in a greater percentage of serious
+violent victimizations committed by groups of adolescents
+(56%) than adolescents who acted alone (33%). The pattern
+of differences for victim–offender relationships across
+co-offending status were generally similar for simple assault
+and serious violent victimizations during 2004–13.
+
+**************************************************
+Adolescents were generally more likely to victimize
+other adolescents than older persons
+**************************************************
+
+When adolescents committed serious violent victimizations,
+most victims were also adolescents (table 13). Victims
+were adolescents in 66% of serious violent victimizations
+committed by adolescents who acted alone and in 69% of
+those committed by adolescents who co-offended with other
+adolescents. In comparison, victims were adolescents in 37%
+of serious violence committed by adolescents who acted with
+young adults. Victims were more likely to be male in serious
+violence committed by adolescents who acted with other
+adolescents (64%) or young adults (69%) than by adolescents
+who acted alone (51%).
+
+A greater percentage of serious violent victimizations
+committed by adolescents who acted alone involved white
+victims (63%) than those by adolescents who co-offended
+with other adolescents (48%). A greater percentage of
+victims were black (27%) or Hispanic (23%) in serious
+violence committed by adolescents who co-offended with
+other adolescents than those in which adolescents acted
+alone (15% each). A greater percentage of victims were
+Hispanic in serious violent victimizations committed by
+adolescents who co-offended with young adults (22%) than
+by adolescents who acted alone (15%).
+
+Most adolescent-perpetrated simple assault victimizations
+were committed against other adolescents (table 14).
+Victims were adolescents in the majority of simple assaults
+committed by adolescents who acted alone (76%) or with
+other adolescents (79%). In comparison, victims were
+young adults or older in most victimizations committed by
+adolescents who acted with young adults (64%). A slightly
+greater percentage of victims were male in simple assaults
+committed by adolescents who co-offended with young
+adults (66%) than by those who acted alone (56%). Victim
+race or Hispanic origin distributions were relatively similar
+in simple assaults committed by adolescents who acted
+alone, with other adolescents, and with young adults.
+
+**************************************************
+The adolescent serious violent victimizing rate
+decreased 83% from 1994 to 2013
+**************************************************
+
+From 1994 to 2013, the adolescent serious violent
+victimizing rate decreased from 65.5 to 11.4 serious violent
+victimizations per 1,000 adolescents (figure 2). The serious
+violent victimizing rate declined similarly from 1994 to 2013
+for adolescents who acted alone (30.3 victimizations to 4.8
+victimizations per 1,000 adolescents) and adolescents who
+acted with co-offenders of any age (35.2 to 6.6 victimizations
+per 1,000 adolescents, not shown). From 1994 to 2013, the
+serious violent victimizing rate also decreased similarly for
+adolescents who acted with other adolescents (16.8 to 3.1
+victimizations per 1,000 adolescents) and for adolescents
+who acted with young adults (14.6 to 1.6 victimizations per
+1,000 adolescents).
+
+The serious violent victimizing rate also decreased 33%
+from 2004 to 2013. Adolescents committed 17.1 serious
+victimizations per 1,000 adolescents in 2004, compared
+to 11.4 serious victimizations per 1,000 adolescents in
+2013. The decline from 2004 to 2013 was primarily due to
+decreases in serious violence committed by adolescents who
+acted alone (9.1 to 4.8 victimizations per 1,000 adolescents)
+or with young adults (4.1 to 1.6 victimizations per 1,000
+adolescents). The rate of serious violent victimizations
+committed by adolescents who co-offended with other
+adolescents did not change significantly during this period.
+
+From 1994 to 2013, the adolescent simple assault victimizing
+rate decreased 72%, from 139.6 to 38.7 simple assaults per
+1,000 adolescents (figure 3). The simple assault victimizing
+rate declined from 1994 to 2013 more for adolescents
+who acted alone (92.9 to 21.8 simple assaults per 1,000
+adolescents) compared to adolescents who acted with
+co-offenders of any age (46.7 to 16.9 simple assaults per
+1,000 adolescents, not shown). Simple assault victimizing
+rates declined similarly from 1994 to 2013 for adolescents
+who co-offended with other adolescents (27.7 to 11.8
+simple assaults per 1,000 adolescents) and adolescents who
+co-offended with young adults (14.9 to 2.4 simple assaults
+per 1,000 adolescents).
+
+From 2004 to 2013, the simple assault victimizing rate
+decreased 36% among adolescents who acted alone.
+Adolescents who acted alone committed 34.1 victimizations
+per 1,000 in 2004, which decreased to 21.8 simple assaults
+per 1,000 adolescents in 2013. During the same period,
+the rate of simple assaults committed by adolescents who
+co-offended with other adolescents increased 72%, from
+6.9 to 11.8 simple assaults per 1,000 adolescents. The simple
+assault victimizing rate among adolescents who acted with
+young adults did not change significantly from 2004 to 2013.
+
+****************
+Methodology
+****************
+
+Survey coverage
+******************
+
+The National Crime Victimization Survey (NCVS) is an
+annual data collection conducted by the U.S. Census Bureau
+for the Bureau of Justice Statistics (BJS). The NCVS is a
+self-report survey in which interviewed persons are asked
+about the number and characteristics of victimizations they
+experienced during the prior 6 months. The NCVS collects
+information on nonfatal personal crimes (rape or sexual
+assault, robbery, aggravated assault, simple assault, and
+personal larceny) and household property crimes (burglary,
+motor vehicle theft, and other theft) both reported and not
+reported to police. In addition to providing annual level and
+change estimates on criminal victimization, the NCVS is
+the primary source of information on the nature of criminal
+victimization incidents.
+
+Survey respondents provide information about themselves
+(e.g., age, sex, race and Hispanic origin, marital status,
+education level, and income) and whether they experienced
+a victimization. Information is collected for each
+victimization incident—about the offender (e.g., age, race
+and Hispanic origin, sex, and victim-offender relationship),
+characteristics of the crime (including time and place of
+occurrence, use of weapons, nature of injury, and economic
+consequences), whether the crime was reported to police,
+reasons the crime was or was not reported, and experiences
+with the criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a
+nationally representative sample of households in the United
+States. The survey defines a household as a group of persons
+who reside at a sampled address. Persons are considered
+household members when the sampled address is their
+usual place of residence at the time of the interview and
+when they have no usual place of residence elsewhere. Once
+selected, households remain in the sample for 3 years, and
+eligible persons in these households are interviewed every
+6 months either in person or over the phone for a total of
+seven interviews.
+
+Generally, all first interviews are conducted in-person. New
+households rotate into the sample on an ongoing basis to
+replace outgoing households that have been in the sample for
+a 3-year period. The sample includes persons living in group
+quarters, such as dormitories, rooming houses, and religious
+group dwellings, and excludes persons living in military
+barracks and institutional settings, such as correctional or
+hospital facilities, and individuals who are homeless. (For
+more information, see Survey Methodology for Criminal
+Victimization in the United States, 2008, NCJ 231173, BJS
+web, May 2011.)
+
+Weighting adjustments for estimating 
+Personal Victimization
+****************************************
+
+From 2004 to 2013, an annual average of 144,940 NCVS
+interviews were conducted with persons age 12 or older. The
+response rate was 87% for eligible persons. Response rates
+were lower among adolescents ages 12 to 17 (72%) than
+among young adults ages 18 to 29 (81%) and adults age 30
+or older (90%). Weighting adjustments in the NCVS have
+been found to produce demographic distributions among
+adolescents (including sex, race, number of persons in the
+household) that are comparable to adolescent demographic
+distributions in the American Community Survey.
+
+Victimizations that occurred outside of the United States
+were excluded from this report. On average each year
+from 2004 to 2013, less than 1% of the unweighted violent
+victimizations occurred outside of the United States and
+were excluded from the analyses.
+
+Estimates in this report use data from yearly NCVS data
+files weighted to produce annual estimates of violent
+victimizations for persons age 12 or older living in U.S.
+households. Because the NCVS relies on a sample rather
+than a census of the entire U.S. population, weights are
+designed to inflate sample point estimates to known
+population totals and to compensate for survey nonresponse
+and other aspects of the sample design.
+
+The victimization weights used in this analysis account
+for the number of persons present during an incident and
+for repeat victims of series incidents. The weight counts
+series incidents as the actual number of incidents reported
+by the victim, up to a maximum of 10 incidents. Series
+victimizations are victimizations that are similar in type but
+occur with such frequency that a victim is unable to recall
+each individual event or to describe each event in detail.
+Survey procedures allow NCVS interviewers to identify and
+classify these similar victimizations as series victimizations
+and collect detailed information on only the most recent
+incident in the series. In 2013, about 1% of all victimizations
+and 4% of all violent victimizations were series incidents.
+Weighting series incidents as the number of incidents up
+to a maximum of 10 produces more reliable estimates of
+crime levels, while the cap at 10 minimizes the effect of
+extreme outliers on the rates. Additional information on
+the series enumeration is detailed in Methods for Counting
+High Frequency Repeat Victimizations in the National Crime
+Victimization Survey (NCJ 237308, BJS web, April 2012).
+
+Limitations of using the NCVS to calculate 
+Victimizing rates by age of offender
+*********************************************
+
+Limitations to calculating violent victimizing rates by age
+of the offender using data from the NCVS include missing
+respondent data, bias in survey coverage, and differences
+in survey response rates by respondent age. This report is
+based on victimizations in which the victim provided an
+estimate of the offenders’ age. For the period 2004 to 2013,
+victims did not provide estimates of offender age in 12%
+of the total violent victimizations they reported. Available
+data suggest that offenders tend to be close in age to their
+victims. In 2004–13, there was no measurable difference in
+the percentage of missing data on offender age for adolescent
+victims compared to older victims. Data on offender age
+were missing for 12% of victimizations committed against
+adolescents ages 12 to 17, 12% of victimizations committed
+against young adults ages 18 to 29, and 11% of victimizations
+committed against adults age 30 or older.
+
+This report is also based on victimizations committed by
+at least one person age 12 or older, and excludes about
+1% of total violent victimizations against persons age 12
+or older that were committed solely by persons age 11 or
+younger in 2004–13. These victimizations were excluded
+due to insufficient sample sizes and because by design the
+NCVS survey coverage does not include children age 11 and
+younger. NCVS data likely underestimate the number of
+victimizations committed by children age 11 and younger
+because the most likely victims of these crimes (i.e., children
+age 11 and younger) are excluded from the NCVS sample.
+Similarly, NCVS data likely underestimate the number of
+adolescent offenders ages 12 to 14 because some of their
+victims (children age 11 and younger) are excluded from the
+NCVS sample.
+
+The NCVS allows for comparisons between adolescent
+offenders ages 12 to 14 and 15 to 17, but small sample sizes
+and missing information about co-offenders complicate
+these analyses. Grouping offender age into more categories
+resulted in insufficient sample sizes to examine many
+questions of interest. In victimizations committed by
+multiple offenders, it was not always clear whether
+adolescents ages 15 to 17 were involved as offenders. For
+example, victims might have reported the youngest offender
+to be age 12 to 14 and the oldest offender to be age 18 to 20.
+In this scenario, it would not be known if one or more of the
+offenders were ages 15 to 17. In addition, victims report their
+perceptions of the offender’s age. In some victimizations,
+particularly those committed by strangers, victims might
+inaccurately classify the age of the offender.
+
+Calculating victimizing rates by age of offenders is further
+complicated by missing data on the age of all co-offenders.
+Respondents are asked to estimate the age of the oldest and
+youngest offender. If the youngest offender was reported to
+be age 11 or younger and the oldest offender was reported
+to be age 18 or older, the involvement of an adolescent age
+12 to 17 is unknown. In 2004–13, this made up less than
+0.5% of violent victimizations. During the same period,
+0.5% of victimizations were reported to be committed
+by the youngest offenders (ages 12 to 17) acting with an
+oldest offender age 30 or older. Therefore, it was not known
+whether a young adult age 18 to 29 was involved.
+
+Offender race and Hispanic origin in the NCVS
+************************************************
+
+In 2012, BJS changed the manner in which the NCVS
+collects information about the perceived race of offender.
+These changes were made to be consistent with the Office
+of Management and Budget’s Standards for the Classification
+of Federal Data on Race and Ethnicity that specify the
+minimum number of categories for statistical reporting
+on race.
+
+Information on an offender’s race and Hispanic origin is
+collected from the victim, therefore, it is what the victim
+perceived it to be. Prior to 2012, the NCVS collected
+offender race as white, black or African American, other
+race, and don’t know. In 2012, offender race categories were
+expanded to include American Indian or Alaska Native; or
+Asian, Native Hawaiian, or Other Pacific Islander. In 2012,
+the NCVS also began collecting information on whether the
+offender was of Hispanic or Latino origin.
+
+Table 6 in this report includes information on the perceived
+race of offender. The “other race” category in this table
+includes offenders of other races from 2004–11 but also
+includes offenders who were American Indian or Alaska
+Native; or Asian, Native Hawaiian, or Other Pacific Islander
+from 2012–13. Respondents were also asked if the offender
+was of Hispanic or Latino origin. However, since it cannot
+be determined if an offender was of Hispanic and Latino
+origin prior to 2012, this category was excluded from the
+analysis for 2012 and 2013. Hispanic or Latino persons were
+grouped into their racial category or categories perceived by
+the victim. Single offenders of two or more races were also
+included in 2012 and 2013.
+
+The “multiple offenders of various races” category in table 6
+includes multiple offenders of different races. Prior to 2012,
+this included white, black or African American, and other
+race. In 2012 and 2013, this included white; black or African
+American; American Indian or Alaska Native; and Asian,
+Native Hawaiian, or Other Pacific Islander.
+
+Standard error computations
+*****************************
+
+When national estimates are derived from a sample, as with
+the NCVS, caution must be taken when comparing one
+estimate to another or when comparing estimates over time.
+Although one estimate may be larger than another, estimates
+based on a sample have some degree of sampling error. The
+sampling error of an estimate depends on several factors,
+including the amount of variation in the responses and the
+size of the sample. When the sampling error around an
+estimate is taken into account, the estimates that appear to
+be different may not be statistically different.
+
+The standard error is one measure of the sampling error
+associated with an estimate and can vary from one estimate
+to the next. Generally, an estimate with a small standard
+error provides a more reliable approximation of the true
+value than an estimate with a large standard error. Estimates
+with relatively large standard errors are associated with
+less precision and reliability and should be interpreted
+with caution.
+
+To generate standard errors around numbers and estimates
+from the NCVS, the Census Bureau produced generalized
+variance function (GVF) parameters for BJS. The GVFs take
+into account aspects of the NCVS complex sample design
+and represent the curve fitted to a selection of individual
+standard errors based on the Jackknife Repeated Replication
+technique. The GVF parameters were used to generate
+standard errors for each point estimate (such as counts,
+percentages, and rates) in this report.
+
+BJS conducted tests to determine whether differences in
+estimated numbers and percentages in this report were
+statistically significant once sampling error was taken into
+account. Using statistical programs developed specifically
+for the NCVS, all comparisons in the text were tested
+for significance. The Student’s t-statistic was the primary
+test procedure, which tests the difference between two
+sample estimates.
+
+Data users can use the estimates and the standard errors of
+the estimates provided in this report to generate a confidence
+interval around the estimate as a measure of the margin of
+error. The following example illustrates how standard errors
+can be used to generate confidence intervals:
+
+**In 2004 to 2013, according to the NCVS, the rate of
+nonfatal violent victimization committed by adolescent
+offenders ages 12 to 17 was 50.0 victimizations per 1,000
+adolescents (see figure 1). Using the GVFs, the estimate
+has a standard error of 2.3 (see appendix table 1). A
+confidence interval around the estimate was generated by
+multiplying +/- 1.96 (the t-score of a normal, two-tailed
+distribution that excludes 2.5% at either end of the
+distribution). Therefore, the 95% confidence interval
+around the 50.0 estimate from 2004 to 2013 is 50.0 +/-
+(2.3 × 1.96) or (45.5 to 54.5). In other words, if different
+samples using the same procedure were taken from the
+U.S. population from 2004 to 2013, 95% of the time
+the rate of nonfatal violent victimization committed by
+adolescent offenders ages 12 to 17 would be between 45.5
+and 54.5 victimizations per 1,000 adolescents.
+
+In this report, BJS also calculated a coefficient of variation
+(CV) for all estimates, representing the ratio of the standard
+error to the estimate. CVs provide a measure of reliability
+and a means for comparing the precision of estimates across
+measures with differing levels or metrics. When the CV
+was greater than 50%, or the unweighted sample had 10 or
+fewer cases, the estimate was noted with an exclamation
+point (! Interpret data with caution. Estimate based on 10 or
+fewer sample cases, or the coefficient of variation is greater
+than 50%).
+
+**********************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal
+and civil justice systems at the federal, state, tribal, and 
+local levels. BJS collects, analyzes, and disseminates reliable 
+and valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal
+justice information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is acting 
+director.
+
+This report was written by Barbara A. Oudekerk and Rachel E. 
+Morgan, BJS Statisticians. Erika Harrell verified the report.
+
+Lynne McConnell and Jill Thomas edited the report, and Barbara 
+Quinn produced the report.
+
+July 2016, NCJ 249756
+**********************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+**********************
+6/13/2016 1:20pm JER 
+**********************
