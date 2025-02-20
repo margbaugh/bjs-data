@@ -1,0 +1,2619 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics 
+
+
+Contacts between Police and the Public
+Findings from the 1999 National Survey
+
+
+---------------------------------------------------------
+This file is text only without graphics and many of the
+tables.A Zip archive of the tables in this report in
+spreadsheet format(.wk1) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cpp99.htm
+----------------------------------------------------------
+
+In 1999--
+21% of U.S. residents had a contact with police
+52% of contacts were in traffic stops
+19% of contacts were to report a crime
+Under 1% of contacts involved police use of  force
+10% of white drivers were stopped
+12% of black drivers were stopped
+9% of Hispanic drivers were stopped
+84% of drivers considered stop legitimate
+
+BJS statisticians Patrick A. Langan, Lawrence A. 
+Greenfeld, Steven K. Smith, Matthew R. Durose, 
+and David J. Levin wrote this report.  Mike Wajda, 
+BJS student intern, coded data from the interviewers' 
+forms.  Robert J. Kaminski provided information on 
+the programs at the National Institute of Justice. 
+Tom Hester and Ellen Goldberg edited and produced 
+the report. Maureen Henneberg provided review.
+
+Numerous people made possible the development 
+and administration of the Police-Public Contact 
+Survey.  Staff from the U.S. Census Bureau facilitated 
+the final construction of the questionnaire, managed 
+the field aspect of the data collection, processed the 
+data, and provided the estimation specifications.  
+
+In addition, a panel of the American Statistical 
+Association met to review and discuss the survey 
+procedures and questionnaire and subsequently 
+issued a report on its recommendations.  Assembled 
+by Mark Cohen, Vanderbilt University, the advisory 
+group included the following scholars:  James Lynch,  
+American University Professor of Justice, Law and 
+Society; James Fyfe, Temple University Professor 
+of Criminal Justice; Dennis Kenney, Director of 
+Research at the Police Executive Research Forum; 
+Stephen Mastrofski, George Mason University 
+Professor of Administration of Justice; and Joel 
+Garner, Director of the Joint Center for Justice 
+Studies. 
+
+At the Bureau of Transportation Statistics, Lee 
+Giesbrecht and David Banks provided helpful 
+advice in the BJS analysis of the 1995 Nationwide 
+Personal Transportation Survey.
+
+The International Association of Chiefs of Police, 
+as well as other law enforcement executives and 
+scholars, provided many valuable comments on 
+the survey procedures and questionnaire.
+
+Data presented in this report can be obtained 
+from the National Archive of Criminal Justice 
+Data at the University of Michigan, 1-800-999-0960.  
+The archive Internet site can be accessed through 
+the BJS site. 
+
+Electronic versions of this and other reports are 
+available from the BJS Internet site:
+http://www.ojp.usdoj.gov/bjs/
+
+Contents 
+
+Foreword   
+Highlights   
+Police-Public Contact Survey   
+Incidence and prevalence of police-public 
+contact   
+Traffic stops   
+Police use of force   
+Appendix   
+Questionnaire  
+
+Foreword
+
+This publication represents the annual report 
+to the Congress as required by Section 210402 
+of the Violent Crime Control and Law Enforcement 
+Act of 1994.  The findings are based upon the 
+largest self-report survey ever conducted among 
+the U.S. resident population about contacts 
+between the public and the police and the 
+outcomes of those contacts.  The objective of 
+the survey was to learn more about how often 
+and under what circumstances a traffic stop or 
+other contact becomes problematic.
+
+The Bureau of Justice Statistics (BJS) initiated 
+surveys of the public on their interactions with 
+police in 1996 with the first Police-Public Contact 
+Survey, a pretest among a nationally representative 
+sample of 6,421 persons aged 12 or older.  That 
+initial version of the questionnaire revealed that 
+about 20% of the public had a direct, face-to-face 
+contact with a police officer at least once during 
+the year preceding the survey.  At that time, BJS 
+estimated that about 1 in 500 residents, or about 
+a half million people, had experienced an encounter 
+with a police officer involving either a threat of 
+force or the actual use of force.
+
+An improved version of the Police-Public Contact 
+Survey (PPCS II) was fielded during the last 6 
+months of 1999 among a national sample nearly 
+15 times as large as the pretest sample in 1996.  
+It yielded nearly identical estimates of the 
+prevalence and nature of contacts between the 
+public and the police.  The most recent survey, 
+which obtained data from those age 16 or older, 
+resulted in a finding that about 21% of the 
+public had a direct, face-to-face contact at 
+least once with a police officer during the 
+year.  As in 1996, the 1999 survey revealed 
+that during the year about 1 in 500 persons, 
+or about 422,000 persons age 16 or older, 
+experienced a contact with a  police officer 
+which involved force or the threat that force 
+would be used.  
+
+The PPCS II, because of its much larger 
+sample size, permitted more extensive analysis 
+of demographic differences in police contacts.  
+In addition, the PPCS II added a new and more 
+detailed set of questions about traffic stops 
+by police, the most frequent reason given for 
+a contact with police.  Among licensed drivers, 
+an estimated 10% of white drivers, 12% of black 
+drivers, and 9% of Hispanic drivers were stopped 
+by police at least once in 1999.  
+
+Overall, most drivers who experienced a traffic 
+stop indicated that they felt the officer had a 
+legitimate reason for making the stop:  nearly 9 
+out of 10 white drivers and 3 out of 4 black 
+drivers described the officer as having had a 
+legitimate reason for the stop.  Respondents 
+maintained these perceptions regardless of the 
+race of the officer making the stop.  White 
+drivers' assessments of the legitimacy of the 
+stop were the same whether the officer making 
+the stop was white or black.  Similarly, black 
+drivers ascribed the same level of legitimacy 
+to stops by white officers and stops made by 
+black officers.  
+
+The PPCS provides a new opportunity to learn 
+more about police and citizen contacts.  It 
+is reassuring to find that most people, of 
+any race, who have a contact with the police, 
+most often through a traffic stop, evaluate 
+the stop as having been appropriate.  Given 
+the high level of attention and interest in 
+police-citizen interactions, BJS expects to 
+continue to collect such data from the public 
+and to supplement this information with new 
+data to be gathered from administrative 
+records of law enforcement agencies and those 
+other public agencies which are primarily 
+responsible for receiving and adjudicating 
+complaints arising from police/citizen 
+encounters.
+
+BJS is grateful for the assistance of the many 
+people who offered their advice and counsel in 
+the construction of the PPCS II questionnaire, 
+the Census Bureau which fielded the survey, 
+and those persons who willingly gave of their 
+time as respondents to participate in this 
+important national effort.
+
+----------------------------------------------
+Highlights
+
+Prevalence of citizen contact 
+with police
+
+*  In 1999 an estimated 43.8 million persons 
+age 16 or older, about 21% of all persons of 
+this age, had at least one face-to-face contact 
+with a police officer.  This is approximately 
+the same rate of contact between police and
+citizens found in 1996 when the Police-Public 
+Contact Survey (PPCS) was first administered.  
+
+*  On a per capita basis in 1999, the rate 
+of police-citizen contact for whites was about 
+17% higher than for blacks and about 32% higher 
+than for Hispanics.  The rate of contact for 
+males was about 20% higher than for females 
+and rates of contact varied inversely with age: 
+those age 18 to 19 experienced a rate of contact 
+160% above that of those age 50 or older.
+
+*  About two-thirds of all persons 
+experiencing a contact with police 
+during 1999 had one contact for a 
+single reason.  The remaining third 
+of those with contacts had either
+multiple contacts or multiple reasons 
+for a single contact. 
+
+Reasons for citizen contact 
+with police
+
+*  About half of all persons experiencing 
+a contact with police indicated that the 
+reason for the contact was a motor vehicle 
+stop. Being either a passenger or an operator 
+of a motor vehicle was the most common reason 
+given for a contact with police. 
+ 
+*  About 1 in 5 persons with a face-to-face 
+contact with a police officer said that they 
+had contacted the police to report a crime. 
+ 
+*  About 3% of all respondents with a contact 
+said the contact occurred because the police 
+suspected them of involvement in a crime.
+
+*  On a per capita basis, as passengers or 
+drivers, whites experienced a rate of contact 
+for traffic stops 6% above the rate estimated 
+for black respondents and 26% above that for
+Hispanics. 
+ 
+*  In 1999 an estimated 113 whites per 1,000 
+whites in the resident population experienced 
+at least one traffic stop as a driver or passenger. 
+The comparable rate among black residents was 
+107, and among Hispanics, 90.
+
+*  Persons age 18 to 19 had a per capita rate 
+of contact arising from a motor vehicle stop 
+of 225 per 1,000, more than 4 times the rate 
+of traffic stops experienced by those age 50 
+or older.
+
+*  The percentage of the 43.8 million 
+residents with a police contact in 1999:
+Motor vehicle stop               52% 
+Report a crime                   19
+Ask for assistance               12
+Report a neighborhood problem     9
+Involved in traffic accident      8
+Witness to a traffic accident     5
+Witness to a crime                3
+Questioned as crime suspect       3
+Attend crime prevention meeting   1
+Served warrant                    1
+
+Citizen contacts with police 
+in traffic stops
+
+*  In 1999 an estimated 10.3% of licensed 
+drivers were pulled over by police one or 
+more times in a traffic stop.  The 10.3% 
+represent 19.3 million stopped drivers.  
+The 19.3 million includes 4 million pulled 
+over more than once during the year.  An 
+estimated 2.1% of all licensed drivers were
+stopped two or more times.
+
+*  Of the 19.3 million, an estimated 60.8% 
+(11.7 million) were male and 39.2% 
+(7.6 million) were female; 77% (14.9 million) 
+were white, 11.6% (2.2 million) were black, 
+8.4% (1.6 million) were Hispanic, and 3% 
+(.6 million) were drivers of other races.
+
+*  Males (12.5%) were more likely than females 
+(8.2%) to be stopped at least once, and males 
+(2.9%) were more likely than females (1.4%) to 
+be stopped more than once.
+
+*  Blacks (12.3%) were more likely than whites 
+(10.4%) to be stopped at least once, and blacks 
+(3.0%) were more likely than whites (2.1%) to 
+be stopped more than once.  
+
+*  Nearly twenty percent (18.2%) of teenage 
+drivers were stopped at least once.
+
+*  Of the 19.3 million stopped drivers, police 
+issued a ticket to 54.2%, carried out a search 
+of some kind (either a physical search of the 
+driver or a search of the vehicle) on 6.6%, 
+handcuffed 3.1%, arrested 3.0%, used or 
+threatened force against 0.7%, and used or 
+threatened force that the driver deemed 
+excessive against 0.5%.
+
+*  During the traffic stop, police were more 
+likely to carry out some type of search on 
+a male (9.4%) than a female (2.3%), and more 
+likely on a black (11.0%) or Hispanic (11.3%) 
+than a white (5.4%).
+
+-----------------------------------
+Force in the Police-Public 
+Contact Survey
+
+Force includes contacts in which the 
+police officer pushed, grabbed, kicked, 
+or hit the citizen.  Hitting was defined 
+as striking with a hand or an object 
+held in the officer's hand.  Included in 
+the definition of force were police dog
+bites, spray with pepper spray or a chemical, 
+and a firearm pointed in the citizen's 
+direction.  Also included was the
+threat to carry out any of these types 
+of force.
+
+The survey provided an opportunity for 
+respondents to express their opinion as 
+to whether any police force or threat of 
+force used against them was "excessive."  
+The survey did not define "excessive" for 
+the respondent. Respondents who said they 
+had Police-Public Contact Survey experienced 
+police use or threat of force were asked 
+whether they felt any of the physical force 
+used or threatened against them was excessive.  
+If a respondent said the force was excessive, 
+he or she was asked about the specific type 
+of physical force considered excessive.
+----------------------------------------
+
+*  Police searched the driver or the vehicle 
+of an estimated 1.3 million drivers (6.6% 
+of all stopped drivers).  Two-thirds (66.4%) 
+of the 1.3 million searches were without
+the driver's expressed consent.  In nearly 
+90% (86.7%) of the 1.3 million searches, no 
+drugs, alcohol, illegal weapons, or other 
+evidence of criminal wrongdoing was found. 
+Searches conducted without the driver's 
+consent (12.9%) were not more likely to 
+find criminal evidence than consent 
+searches (14.2%).
+
+*  An estimated 11.4% of drivers stopped by 
+police said the reason for the stop was a 
+burned out headlight, a loud muffler, or some 
+other vehicle defect; 9.2% said a check for
+vehicle registration, insurance coverage, 
+driver's license, or some other record; 2.3% 
+said a roadside check for drunk drivers; 2.3% 
+said police suspected them of something;
+51.2% said speeding; and 23.6% said reckless 
+driving, illegal turn, going through a red 
+light, driving too closely, or some other 
+traffic offense.
+
+*  The vast majority of drivers stopped 
+by police (84%) said they had been stopped 
+for a legitimate reason, and an even larger 
+majority (90%) felt police had behaved 
+properly during the traffic stop.
+
+Citizen contacts with police 
+involving force or the threat 
+of force
+
+*  During 1999 approximately 422,000 persons 
+age 16 or older were estimated to have had 
+a contact in which police used or threatened 
+to use force against them.  This finding on 
+the prevalence of force encounters is similar 
+to the estimated 471,000 persons experiencing 
+force in 1996.
+
+*  An estimated 2 in 10 persons experiencing 
+a force encounter reported that the officer 
+issued a threat to use force only.
+
+*  The estimate of the number of persons 
+experiencing force or the threat of force 
+equals about 1% ( 0.96%) of the nearly 
+44 million people reporting face-to-face 
+contact with police.
+
+*  Among those with police contact, blacks 
+(2%) and Hispanics (2%) were more likely 
+than whites (just under 1%) to experience 
+police threat or use of force as a consequence
+of the contact.
+
+*  Respondents reported that police use or 
+threat of force primarily involved the citizen 
+being pushed or grabbed: less than 20% of those 
+experiencing force reported an injury.
+
+*  Overall, 57% of persons involved in a 
+police force incident reported that they 
+argued, disobeyed, or resisted the police 
+or that they had been drinking or using 
+drugs at the time.
+
+*  An estimated 49% of persons involved in 
+a force contact had charges filed against 
+them -- ranging from a traffic offense to 
+resisting arrest to assaulting an officer. 
+
+*  An estimated three-quarters of the 
+422,000 persons involved in a police 
+force incident characterized the force
+as excessive. Whites were as likely 
+as blacks to describe the force encounter 
+as having been excessive.  There were
+not statistically significant differences 
+between whites and Hispanics.
+
+*  The vast majority (92%) of persons 
+experiencing threat or use of force said 
+the police acted improperly. 
+----------------------------------------     
+
+Police-Public Contact Survey
+
+Title XXI of the Violent Crime Control 
+and Law Enforcement Act of 1994 requires 
+the Attorney General to publish an annual 
+summary of data about the use of excessive 
+force by police.  Since that time, the 
+following reports have been published:
+
+National Data Collection on Police Use 
+of Force (April 1996, NCJ 160113) summarizes 
+the literature and research available, 
+identifies potential strengths and weaknesses
+associated with alternative data collection 
+strategies, and identifies a series of 
+steps to acquire both administrative
+and self-report data.
+
+Police Use of Force: Collection of National 
+Data (November 1997, NCJ 165040) provides 
+findings from the first Police-Public Contact 
+Survey (PPCS-I) conducted in the spring of 
+1996 utilizing a nationally representative 
+sample of 6,421 respondents age 12 or 
+older. In addition, the report describes the 
+National Police Use-of-Force Database
+Project initiated by the International 
+Association of Chiefs of Police (IACP) with 
+funding from both the National Institute of 
+Justice (NIJ) and the Bureau of Justice 
+Statistics (BJS).  This report also 
+included preliminary findings on police-
+use-of force from a number of NIJ-funded
+studies.
+
+Use of Force by Police: Overview of National 
+and Local Data (October 1999, NCJ 176330) 
+provides initial data from the IACP's National 
+Police Use-of-Force Database Project, presents 
+findings from studies of the use of force in six
+jurisdictions, and offers new insights into the 
+measurement of suspect resistance in use-of-force 
+encounters.  In addition, BJS describes 
+plans for conducting a second national 
+survey during the last half of 1999.
+
+Traffic Stop Data Collection Policies 
+for State Police, 1999 (February 2000, 
+NCJ 180776) provides an overview of the
+status of administrative data collection, 
+both manual and electronically accessible 
+data, by State police agencies on traffic 
+stops and the outcomes associated with 
+those stops. The report describes the 
+number of States routinely collecting 
+information on drivers and other vehicle 
+occupants with respect to age, gender, race 
+or ethnicity, and immigration status.  The 
+study also describes data collected by these 
+agencies on use-of-force encounters.
+
+Studies of racial and ethnic disparities 
+in police traffic enforcement in New Jersey 
+and Maryland also prompted new interest in 
+national data from the United States on
+variations in law enforcement practices 
+attributable to race and ethnicity.  In addition, 
+the Congress considered a number of proposals 
+addressing the issue of law enforcement integrity, 
+with a particular concern about the need for data 
+to learn more about racial profiling practices
+(Law Enforcement Trust and Integrity Acts of 1999 
+and 2000). 
+     
+In June 1999 the President issued an Executive 
+Memorandum to Federal law enforcement agencies 
+requiring them to examine any practices which may 
+be the result of racial profiling. 
+
+Together these concerns led BJS to redesign the 
+PPCS-I to gather more detailed information on 
+traffic stops, the most frequent form of 
+police-citizen contact.  The Police-Public
+Contact Survey (PPCS) was pretested in the spring 
+of 1999 and was conducted between July 1, 1999, 
+and December 31, 1999, as a supplement to the 
+National Crime Victimization Survey (NCVS).  
+
+The final questionnaire incorporated some 
+elements of the British Crime Survey questions 
+on contacts with police to ensure comparability 
+to the extent possible.  Extensive public comment 
+was received, and a panel of law enforcement
+experts designated by the American Statistical 
+Association's Committee on Law and Justice 
+critiqued the instrument. 
+
+The 1999 PPCS national sample
+
+In 1999 the PPCS respondents included all NCVS 
+respondents age 16 or older, with the questionnaire 
+administered following the NCVS screener and incident 
+forms.  
+
+During the last 6 months of 1999 in which interviews were
+conducted, the NCVS sample consisted of 94,717 individuals
+age 16 or older. Of these, 10,424, or 11%, were NCVS
+non-interviews, though someone else in the household was
+interviewed.  In addition to those not interviewed for the
+NCVS, 986 persons either refused to participate in the PPCS
+or said they were not available for the interview or the
+interviewer failed to indicate the specific reason for
+non-interview.  
+
+By far the largest reason for not completing the PPCS in
+1999, accounting for 2,764 respondents, was the exclusion of
+the proxy interviews conducted for the NCVS when a person
+was unable, for physical, mental, or other reasons, to
+participate.  BJS staff determined that caregivers and
+other proxy interviewees would have difficulty describing
+the details of any contacts between police and the sampled
+respondent.
+
+The PPCS failed to interview 14,174 persons and interviewed
+80,543; this translates into an 85% response rate for the
+PPCS, compared to an overall response rate of 89% for the
+NCVS.  Among the PPCS interviews conducted, 24,829 (31%)
+were in person and 55,672 (69%) were by telephone.  
+
+The PPCS national sample, after adjustment for non-response,
+weights to a national estimate of 209,350,600 persons age 16
+and older. Distributions by gender, race, ethnicity, and age
+parallel the resident population projections (middle-series)
+published by the Census Bureau (http://www.census. gov/
+population/projections/nation/detail/d1999_00.pdf)
+reflecting the accuracy of the case-level adjustments to the
+weights:
+
+                         Resident population
+Charac-                  Census Bureau  PPCS
+teristic                 projection    sample
+Gender
+Male                        48.2%       48.2%
+Female                      51.8        51.8
+ 
+Race/ethnicity
+White                       74.1%       74.1%
+Black                       11.4        11.7
+Hispanic                    10.2        10.2
+White                        9.3         9.8
+Black                        0.6         0.2
+Other*                       0.3         0.1
+Other*                       4.3         4.0
+ 
+Age
+16-17                        3.8%        3.9%
+18-19                        3.8         3.8
+20-24                        8.6         8.7
+25-29                        8.7         8.8
+30-34                        9.4         9.5
+35-39                       10.7        10.8
+40-49                       19.8        20.0
+50 or older                 35.3        34.5
+ 
+Total                  210,604,000    209,350,600
+ 
+*Other includes Asians, Pacific Islanders, Native
+Hawaiians, American Indians, and Alaska Natives.
+
+Other information on survey 
+methodology
+
+Unless indicated otherwise, differences documented in this
+report were significant at the .05-level.  Certain
+differences were not significant at the .05- level but were
+significant at the .10- level. The term "some indication"
+refers to differences significant at the .10-level.
+
+Regarding racial designations given in the report, "white"
+refers to non-Hispanic whites, "black" refers to
+non-Hispanic blacks, and "other races" refers to
+non-Hispanics in the "other races" category. White
+Hispanics, black Hispanics, and Hispanics of "other races"
+are categorized in the report under the heading "Hispanic."
+
+Due to small samples and concerns about confidentiality, the
+report does not provide separate statistics on each of the
+racial categories that make up "other races" (Asians,
+Pacific Islanders, American Indians, Native Hawaiians, and
+Alaska Natives). 
+
+Incidence and prevalence of police-public contact
+ 
+In 1999 there were just over 209 million U.S. residents age
+16 or older. Based on the results of the 1999 Police Public 
+Contact Survey, conducted during the last 6 months of the
+year, an estimated 43.8 million residents, or about 21% of
+those age 16 or older, were estimated to have had at least
+one face-to-face contact for any reason with a law
+enforcement officer during the year. 
+
+Race, Hispanic origin, gender, and 
+age of citizens having face-to-face
+contact with police 
+
+In 1999 rates of contact between residents and the police
+translate into about 1 person with a contact for every 4.8
+residents age 16 or older.  
+
+Per capita rates of contact between residents and the police
+vary by the race and ethnicity of residents.  White
+residents experience contact with law enforcement officers
+at the highest rate: about 1 person for every 4.5 white,
+non-Hispanic residents age 16 or older experience a
+contact.  By contrast, about 1 person for every 5.3 black
+residents had contact, and at a lower rate, about 1 Hispanic
+for every 6 had a direct contact with a law enforcement
+officer.  Per capita, the white rate of police-citizen
+contact is about 17% higher than for blacks and about 32%
+higher than for Hispanics. Other races, primarily Asians,
+Pacific Islanders, American Indians, and Alaska Natives,
+experience contact with police at the lowest rate; on
+average, there is about 1 person with a contact for every
+6.2 persons in the resident population.  
+
+Age and sex are also important factors associated with the
+prevalence of police-citizen contacts.  About 1 male of
+every 4.4 males age 16 or older had a contact with a police
+officer in 1999; among women residents age 16 or older,
+there was about 1 with a contact for every 5.2 females. 
+Males had a per capita rate of contact about 20% higher than
+that for females.
+
+Contact rates generally vary inversely with age: residents
+in the youngest age groupings have higher rates of contact
+with police than those in the oldest age ranges.  Residents
+age 18 to 19 have the highest rates of contact with police: 
+the per capita rate of 343 per 1,000 equals about 1 person
+of this age with a contact for every 2.9 persons in this age
+group.  By contrast, among those 50 or older, rates of
+contact equal about 1 person with a contact for every 7.6
+persons of this age.
+   
+Size of jurisdiction
+
+Rates of contact between police and citizens also vary
+inversely with the size of the jurisdiction in which the
+resident lives.  The smaller the population of the
+jurisdiction, the higher the rate of contact with police. 
+This finding is illustrated in two ways:  residents of
+central cities reported contacts with police at rates of
+about 200 persons with contact per 1,000 residents while
+residents of non-metropolitan or rural areas reported a 9%
+higher rate.  Similarly, residents of jurisdictions with 
+fewer than 100,000 residents had a rate of contact with
+police which was 37% higher than those residing in
+jurisdictions of 1 million or more residents.
+
+Multiple contacts during the year and 
+multiple reasons for a contact
+
+Among the 43.8 million persons having contact with a police
+officer during the year, many reported more than one contact
+or a variety of reasons for having contacts.  Overall, about
+two-thirds of those who reported having a contact with a
+police officer had only the single contact during the year
+and gave a single reason for that contact (table not shown).
+The remaining third had combinations of numbers of 
+contacts and reasons for contact during the reference year.
+
+Of the 43.8 million persons with 
+contacts with police:
+
+*  65% had one contact for a single reason, and for half of
+these, the reason for the contact was a vehicle traffic stop
+
+*  an additional 16% of those with contacts had multiple
+reasons for contacts with police during the year
+
+*  an additional 11% said they had multiple contacts during
+the year but always for the same reason
+
+*  8% had multiple contacts for multiple reasons during the
+year.
+
+Persons with contacts with police distribute slightly
+differently with respect to their demographic composition
+than those who do not report a contact during the year. 
+Those with police contacts are generally more likely to be
+male, white, and younger than those who do not have contacts
+with police: 
+
+                          Resident population, age
+                          16 or older
+Charac-                   With police    Without po-
+teristic                  contact        lice contact
+Gender
+Male                        52.8%          47.0%
+Female                      47.2           53.0
+ 
+Race/ethnicity
+White                       78.2%          73.0%
+Black                       10.6           12.0
+Hispanic                     8.1           10.7
+Other race                   3.1            4.2
+ 
+Age
+16-17                        4.2%           3.8%
+18-19                        6.2            3.1
+20-24                       13.1            7.6
+25-29                       11.0            8.2
+30-34                       11.0            9.1
+35-39                       11.7           10.6
+40-49                       21.2           19.7
+50 or older                 21.5           38.0
+ 
+Total                   43,827,419      165,523,158
+ 
+Note:  Detail may not add to 100% because of rounding.
+
+Contact between citizens and the police can occur in one of
+three ways: initiated by a resident, by the police, or by
+both. Examples of self-initiated face-to-face contacts with
+a police officer include reporting a crime, asking the
+officer for assistance or directions, or reporting a
+neighborhood problem.  Examples of police-initiated 
+contact include motor vehicle stops, being questioned by the
+police about a crime as a suspect, victim, or witness, or
+attending police-sponsored community meetings on crime
+prevention.  Because up to a third of respondents to the
+PPCS described multiple contacts for a variety of reasons
+during the year, some experienced contacts of both types.
+
+Among the 43.8 million persons with contact with the police,
+an estimated 25.9 million persons (59%) experienced only
+police-initiated contacts. Nearly 12 million (27%)
+experienced only contacts that they had initiated. The
+remainder, just over 13% (5.9 million), said that they
+had both types of contacts with police during the year
+(table not shown). The percentage of respondents
+experiencing a police-initiated contact only was inversely
+related to age.  While about 8 in 10 16-to-17 year olds with
+a face-to-face encounter said that the contacts they had
+with police had been initiated by the police, just over half
+of those age 35 and older said that the only contacts they
+had with police had been initiated by a law enforcement
+officer.
+
+Motor vehicle stops, as either a driver or passenger, was
+the most frequent reason for contact, cited by more than
+half of all persons with a police contact during 1999. 
+Motor vehicle stops were also most commonly cited among
+those with two or more contacts during the year. Together,
+an estimated 22.7 million persons age 16 or older
+experienced a traffic stop as a driver or passenger during
+1999, about 11% of all persons in this age category.
+
+The second most common reason for contact with police was to
+report a crime, accounting for about 1 in 5 persons with a
+police contact.  About 8.4 million persons, or about 4% of
+the population age 16 or older, were estimated to have
+called the police at least once during the year to report 
+a crime. 
+
+Overall, about 19% of residents age 16 or older called the
+police for the same  problem at least twice during 1999. 
+
+The most common types of recurring reasons for experiencing
+a contact with police were: to report a neighborhood
+problem, motor vehicle stops, and attending crime prevention
+meetings.  About a quarter of those who called the police
+about a neighborhood problem during 1999 said that they
+called at least twice during the year about their concerns. 
+
+The least frequently recurring reason for police contact was
+to have been involved in a traffic accident.  An estimated
+3.4 million persons age 16 or older were involved in
+accidents in 1999, with about 6% of these persons
+reporting they were involved in two or more accidents during
+the year.
+
+On a per officer basis, the number of contacts with unique
+individuals age 16 or older averaged about 71 in 1999.  That
+is, the 622,041 sworn full-time State and local law
+enforcement officers in the United States had contacts with
+43,827,514 persons that year.  Officers employed in
+jurisdictions of less than 100,000 population on average in
+1999 had contacts with about 8 times the number of people in
+traffic stops as those officers employed in jurisdictions of
+1 million or more population.  In fact, for most of the
+categories of  reasons for contact, the ratio of contacts to
+officers in smaller jurisdictions is between 5 and 8 times
+the rate in the largest jurisdictions.  
+
+Varying rates of contacts
+
+In 1999 an estimated 11.3% of whites age 16 or older
+experienced at least one traffic stop as a driver or
+passenger, a rate equal to 113 per 1,000 whites age 16 or
+older in the resident population.  Blacks and Hispanics
+experienced traffic stops  while drivers or passengers at
+lower rates, 107 per 1,000 and 90 per 1,000, respectively. 
+Whites were more likely than blacks or Hispanics to call the
+police to ask for assistance, such as directions, and to
+report a neighborhood problem.  Whites and blacks were
+equally likely to have called the police during 1999 to
+report a crime and there were no differences by
+race/ethnicity in participation in community crime
+prevention meetings sponsored by the police.  In the
+aggregate, jurisdiction size was inversely related to the
+rate of contact between police and citizens.
+
+For blacks age 16 or older, smaller population areas had
+higher contact levels: black residents of areas with fewer
+than 100,000 persons had per capita rates of contact which
+were 22% higher than for persons residing in jurisdictions
+of 1 million or more population.  Among whites and
+Hispanics, the highest rates of contact with police occurred
+among residents of jurisdictions with populations of 500,000
+to 999,999.
+
+---------------------------------
+Law enforcement employees and contacts with the public
+
+No national data are available from police officers to
+describe their workload and with whom they come into contact
+to complement these data drawn from the general population. 
+BJS does, however, collect administrative data on the number
+of sworn officers.  While levels of contact can be
+calculated relative to the number of sworn officers, it is
+not known to what extent such measures may accurately
+reflect a typical officer's workload and contacts.
+
+In the aggregate during 1999, an estimated 71 persons age 16
+or older had contact with a police officer for each sworn
+officer employed by State or local law enforcement agencies
+nationwide.
+---------------------------------------
+
+The single most important factor affecting the rate of
+contact between residents and the police is age, largely due
+to the age distribution of those persons experiencing a
+motor vehicle stop.  Among those ages 18 to 24, the per
+capita rate of traffic stops is more than double that of
+persons age 40 or older.  In addition, persons age 16 to 19
+self-report an involvement in traffic accidents for which
+police responded at nearly twice the per capita rate
+reported in the aggregate for all age groups.  Finally,
+young people, age 16 to 19, describe a rate of contact as a
+suspect in crime which is nearly 4 times the per capita rate
+for all age groups. 
+
+In other words, for young people, the principal reasons for
+higher contact with the police are greater exposure to motor
+vehicle stops, higher involvement in traffic accidents, and
+greater likelihood of being questioned as a suspect in a
+crime.
+
+--------------------------------
+Possible criminal conduct 
+and contacts with police 
+               
+Overall, about 7 out of 1,000 per- sons in the population
+age 16 or older reported that they had at least one contact
+with police during the year for reasons related to possible
+criminal conduct:  They were a suspect in a crime or they
+were served a warrant by police.   Among subgroups of the
+population, men were more than twice as likely as women to
+report such reasons for contact, and blacks reported a
+higher rate of such contact than whites.  Those age 18 to 19
+reported a rate of contact for possible criminal contact
+which was much higher than that reported by persons age 50
+or older.
+
+                          Persons suspected
+                          of a crime or served
+                          a warrant
+                          Number
+Characteristic            with contact    Percent
+of persons who            with police     of those
+had contact with          per 1,000       suspected
+police                    residents       of a crime
+Total                        7.1            100.0%
+ 
+Gender
+Male                        10.0             67.3%
+Female                       4.5             32.6
+ 
+Race/ethnicity
+White                        6.6             68.9%
+Black                        9.9             16.3
+Hispanic                     8.2             11.7
+Other race                   5.7              3.2
+ 
+Age
+16-17                       23.6             12.8%
+18-19                       24.1             12.8
+20-24                       19.1             23.4
+25-29                        7.6              9.3
+30-34                        6.6              8.8
+35-39                        6.3              9.5
+40-44                        6.1              9.2
+45-49                        4.2              5.4
+50 or older                  1.8              8.9
+ 
+Size of jurisdiction
+where resided
+Under 100,000                6.7             70.5%
+100,000-499,999              9.5             18.1
+500,000-999,999              7.1              3.8
+1 million or more            7.7              7.6
+ 
+Note: Detail may not add to 100% because of
+rounding.
+------------------------------
+ 
+Traffic stops
+
+Number of drivers pulled over 
+by police in 1999
+
+The number of drivers age 16 or older pulled over by police
+at least once in a traffic stop in 1999 totaled 19.3 million
+persons.  The 19.3 million estimate is based on the 1999
+Police-Public Contact Survey. The 19.3 million includes
+stops of all kinds of motor vehicles -- for example,
+motorcycles, buses, and private and commercial cars and
+trucks -- and both personal and business travel.
+
+Driver gender
+
+Of the 19.3 million drivers stopped during the year,
+approximately 11.7 million, or 61%, were male, and 7.6
+million, or 39%, were female. 
+
+Driver race/ethnicity
+
+Of the 19.3 million stopped drivers, nearly 14.9 million, or
+77%, were white; 2.2 million or 11.6%, were black; and 1.6
+million, or 8.4%, were Hispanic.
+
+Driver age
+
+Most stopped drivers were adults under age 40.  Eleven
+percent were under age 20, and over 50% were between 20 and
+39 years of age. Stopped drivers between ages 40 and 49
+accounted for 20% and those age 50 or older, 18%. 
+
+Likelihood of driver being stopped
+
+The 1999 U.S. population totaled 209.4 million persons age
+16 or older.  An estimated 89%, or 186.3 million, were
+licensed drivers.  On at least one occasion in 1999, 19.3
+million were driving a car or other motor vehicle when it
+was pulled over by police in a traffic stop. The 19.3 
+million stopped drivers represent 10.3% of the Nation's
+186.3 million licensed drivers.  In other words, an
+estimated 10.3% of all licensed drivers -- approximately 1
+in 10 -- were pulled over by police at least once in 1999.
+
+The 19.3 million stopped drivers included 4 million who were
+pulled over 2 or more times during the year.  The 4 million
+make up 2.1% of the Nation's 186.3 million licensed drivers,
+indicating that 2.1% of all licensed drivers   approximately
+1 in 50 -- were pulled over more than once in 1999.  
+
+Driver gender 
+
+Ninety-three percent of males and 85% of females age 16 or
+older were licensed drivers in 1999.  Males (12.5%) were
+more likely than females (8.2%) to be stopped at least once. 
+Males (2.9%) were also more likely than females (1.4%) to be
+stopped more than once.
+
+Driver race/ethnicity and racial 
+profiling 
+
+Among all persons ages 16 or older in 1999, 92% of whites,
+74% of blacks, and 86% of Hispanics had a driver's license.
+
+White drivers and Hispanic drivers did not differ
+significantly in their chances of being stopped at least
+once in 1999 (10.4% of whites and 8.8% of Hispanics) or in
+their chances of being stopped more than once in 1999 (2.1%
+of whites and 2.0% of Hispanics).
+
+There was some indication that black drivers were more
+likely than white drivers to be stopped at least once in
+1999: 12.3% of blacks versus 10.4% of whites.  There was
+also some indication that black drivers were more likely
+than whites to be stopped more than once that year:  3.0% 
+of blacks versus 2.1% of whites.
+
+Put another way, blacks were 9.8% of licensed drivers but
+11.6% of drivers stopped at least once and 13.7% of drivers
+stopped more than once, while whites were 76.8% of licensed
+drivers and 77% of those stopped at least once and 74.9% of
+those stopped more than once.  Hispanics were 9.8% of
+licensed drivers, 8.4% of drivers stopped at least once,
+and 9.2% of drivers stopped more than once.
+
+In short, survey results indicated that in 1999 blacks had
+higher chances than whites of being stopped at least once
+and higher chances than whites of being stopped more than
+once. However, these racial differences are not necessarily
+evidence that police use race as a factor in deciding
+whether to make a traffic stop -- that is, not 
+necessarily evidence of "racial profiling."  
+
+To form evidence of racial profiling, the survey would have
+to show that (all other things being equal) --
+
+Blacks were no more likely 
+than whites to violate traffic laws,
+
+and
+
+Police pulled over blacks at a 
+higher rate than whites.  
+
+Because the survey has no information on how often people of
+different races break traffic laws -- having only data on
+how often people are stopped for breaking these laws --
+analysis of the data from the 1999 Police-Public Contact
+Survey cannot settle the question of whether or to what
+extent racial profiling exists.  Put another way, the
+analysis cannot determine whether racial differences in the
+breaking of traffic laws rather than racial profiling is the
+reason for the higher rates at which black drivers were
+stopped by police.
+
+Driver age 
+
+In 1999, 70% of all persons ages 16 to 19 had a driver's
+license. Among persons in their twenties, thirties, forties,
+or fifties, 90% or more had a license.  Of those ages 60 or
+older, 80% were licensed.
+
+The younger the driver, the greater the likelihood that he
+or she was pulled over by police at least once in 1999:
+18.2% of teenage drivers, 16.8% of drivers in their
+twenties, 11.3% of those in their thirties, 9.4% of those in
+their forties, 7.7% of those in their fifties, and 3.8% 
+of drivers age 60 or older.
+
+The younger the driver, the greater the likelihood that he
+or she was pulled over by police more than once in 1999: 
+6.5% of teenage drivers, 4.4% of drivers in their twenties,
+2.1% of those in their thirties, 1.3% of those in their
+forties, 1.1% of those in their fifties, and 0.4% of those
+age 60 or older.
+
+Number of traffic stops in 1999
+
+The vast majority (79%) of the 19.3 million drivers stopped
+in 1999 had only one traffic stop that year.   By contrast,
+1.8% were stopped by police five or more times.  On average,
+stopped drivers were pulled over 1.4 times.  The average was
+1.4 times for whites and Hispanics.  The average was greater
+for blacks (1.6).
+
+Police made an estimated 27 million traffic stops in 1999. 
+Whites made up 77.0% of stopped drivers and accounted for
+76.7% of traffic stops.  Blacks made up 11.6% of stopped
+drivers and accounted for 13.0% of stops.  Hispanics made up
+8.4% of stopped drivers and accounted for 8.1% of stops.
+
+Reason for being stopped
+
+Surveyed drivers were asked what reason the officer gave for
+the stop:
+
+Most (51.2%) said "speeding".
+
+11.4% said a "vehicle defect" (burned out taillight, loud
+muffler, and so forth).
+
+2.3% said a "roadside check for drunk drivers."  (Police may
+not stop motorists randomly at roadblocks to search for
+drugs but may stop motorists randomly to search for drunken
+drivers.)
+
+9.2% said a "record check" of some sort (for example, a
+check for driver's license or insurance coverage or vehicle
+registration).
+
+2.3% said they were stopped because police "suspected them
+of something" (for example, they were out late at night in a
+location that attracts people looking for drugs or
+prostitutes).
+
+22.7% said "some other traffic offense" (seat belt
+violation, illegal turn, going through a red light or a
+yellow light or a stop sign or a pedestrian crossing,
+following too closely, changing lanes without signaling,
+reckless driving, lights not on, loud music, curfew
+violation, throwing a cigarette out a window, and so forth).
+
+A small percentage of stopped drivers (1.6%) said police had
+not given a reason for the stop.
+
+Driver gender 
+
+Females were more likely than males to say the reason for
+the stop was "speeding" (females 54.1%, males 49.3%) or
+"record check" (females 10.6%, males 8.3%).  Males were more
+likely than females to say "vehicle defect" (males 12.5%,
+females 9.6%), "driver suspected of something" (males 3.0%,
+females 1.4%), or "other traffic offense" (males 23.6%, 
+females 21.3%).  Otherwise, there were no significant
+differences between the sexes.  For example, males (2.5%)
+and females (1.9%) were not significantly different in
+giving "roadside check for drunk drivers" as the reason.
+
+Driver race/ethnicity
+
+Whites were more likely than blacks to say the reason for
+the stop was "speeding" (whites 53.7%, blacks 43.4%), and
+blacks were more likely than whites to say "other traffic
+offense" (whites 21.0%, blacks 28.1%).  Otherwise, there
+were no significant differences between blacks and whites. 
+For example, whites (2.5%) and blacks (1.4%) were not 
+significantly different in having "roadside check for drunk
+drivers" as the reason.
+
+Whites were more likely than Hispanics to say "speeding"
+(whites 53.7%, Hispanics 42.1%), and Hispanics were more
+likely than whites to say "vehicle defect" (whites 10.4%,
+Hispanics 15.4%) or "other traffic offense" (whites 21.0%,
+Hispanics 27.9%).  Otherwise, whites and Hispanics did not 
+differ significantly.  For example, the percentage of whites
+(2.5%) and Hispanics (1.3%) who said "roadside check for
+drunk drivers" did not differ significantly.
+
+A small percentage of stopped drivers said police had not
+given a reason for the stop:  1.5% of whites, 2% of blacks,
+2.3% of Hispanics.
+
+Driver age
+
+Speeding -- The most consistent finding was that drivers in
+the oldest age category (60 or older) were less likely
+(43.1%) than drivers in each of the other age categories to
+give "speeding" as the reason for being stopped.
+
+Vehicle defect -- The most consistent finding was that
+drivers in the oldest age category (60 or older) were less
+likely (7.6%) than drivers in their teens (12.1%), or
+twenties (13.5%), or thirties (11.5%) to say "vehicle
+defect" was the reason.
+
+Roadside check for drunk drivers -- The most consistent
+finding was that teenage drivers (0.7%) were less likely
+than drivers in each of the older age categories to say
+"roadside check."
+
+Record check -- The most consistent finding was that teenage
+drivers (4.4%) and drivers in their twenties (7.2%) were
+less likely than drivers in each of the older age categories
+to say they were stopped for a "record check."
+
+Driver suspected of something -- The only significant
+differences were between teenage drivers and each of the
+older age categories.  Teenage drivers stopped by police
+(6.1%) were more likely than each of the others to say that
+the reason they were stopped was because they were suspected
+of something.
+
+Other traffic offense -- The only significant differences
+were between drivers age 60 or older and each of the younger
+age categories.  Drivers ages 60 or older stopped by police
+(29.9%) were more likely than each of the others to say that
+the reason they were stopped was for some other traffic
+offense.
+
+Traffic tickets
+
+Police issued a traffic ticket to just over half (54.2%) of
+the drivers they stopped. Another 26.4% received a warning,
+and the remaining 19.4% received neither ticket nor warning.
+The 54.2% included 1.6% charged with driving while impaired
+or intoxicated.
+
+Driver gender
+
+Males (55.8%) were more likely than females to be ticketed
+(51.9%).
+
+---------------------------
+Driver opinion on being stopped
+
+The vast majority of drivers pulled over by police (84%)
+felt they had been stopped for a legitimate reason.  Still,
+opinion was not uniform across the different segments of the
+population.
+
+Driver gender
+                  
+Females (87%) were more likely than males (82%) to say that 
+the stop was for a legitimate reason.
+
+Driver race/ethnicity
+
+The vast majority of blacks stopped by police (74%) felt
+they had been stopped for a legitimate reason.  So, too, did
+the vast majority of Hispanics (82%).  Nevertheless, blacks
+and Hispanics were less likely than whites (86%) to say the
+police had a legitimate reason for stopping them. 
+
+Driver age
+
+There were no significant differences between drivers of one
+age and drivers of another age in terms of opinion about
+whether they had been stopped for a legitimate reason. 
+
+                  Percent of stopped drivers
+                  who felt that they had been
+                  stopped for a legitimate reason
+Total                         84 %
+ 
+Gender
+Male                          82 %
+Female                        87
+ 
+Race/ethnicity
+White                         86 %
+Black                         74
+Hispanic                      82
+Other race                    85
+ 
+Age
+16-19                         84 %
+20-29                         85
+30-39                         84
+40-49                         84
+50-59                         83
+60 or older                   86
+--------------------------------
+
+Driver race/ethnicity
+
+Police were more likely to ticket blacks (60.4%) and
+Hispanics (65.6%) than whites (51.8%).
+
+Put differently, blacks were 11.6% of drivers stopped by
+police but 12.9% of ticketed drivers, and Hispanics were
+8.4% of stopped drivers but 10.1% of those ticketed, while
+whites were 77% of stopped drivers and 73.5% of the ticketed
+ones.
+
+Driver age
+
+The younger the driver, the greater the likelihood of a
+ticket.  That is, where significant differences existed
+between younger and older drivers, they were always in the
+direction of a greater likelihood of younger drivers being
+ticketed.  For example, teenage drivers (54.5%), and drivers
+in their twenties (59.0%), thirties (56.5%), or forties 
+(53.9%) were each more likely than either drivers in their
+fifties (45.7%) or drivers age 60 or older (40.1%).
+
+Arresting the driver
+
+Three percent of drivers stopped by police were arrested.  
+Arrests occurred for a variety of reasons, such as --
+*  Failing a sobriety test
+*  Having drugs or an illegal weapon 
+   on the driver or in the vehicle
+*  Having an outstanding warrant 
+   for arrest 
+*  Assaulting the police officer.
+
+Driver gender 
+
+Males (4.1%) were more likely than females (1.3%) to be 
+arrested.
+
+Driver race/ethnicity
+
+Blacks (5.2%) and Hispanics (4.2%) stopped by police were
+more likely than whites (2.6%) to be arrested.
+
+Stated differently, blacks were 11.6% of drivers stopped by
+police but 19.9% of drivers who were arrested, and Hispanics
+were 8.4% of stopped drivers but 11.7% of those arrested,
+while whites were 77% of stopped drivers and 66.3% of the
+ones who were arrested.
+
+Driver age
+
+The younger the driver, the greater the likelihood of an
+arrest.  That is, where significant differences existed
+between younger and older drivers, they were always in the
+direction of a greater likelihood of the younger driver
+being arrested. Teenage drivers (4.2%) and drivers in their
+twenties (3.4%), thirties (3.9%), or forties (2.6%) were
+more likely than those in their fifties (1.3%) or older
+(0.7%).
+
+Handcuffing the driver
+
+Police handcuffed 3.1% of the drivers they stopped.
+
+Driver gender
+
+Males (4.3%) were more likely than females (1.2%) to be
+handcuffed in a traffic stop.
+
+Driver race/ethnicity
+
+Blacks (6.3%) and Hispanics (4.9%) were more likely than
+whites (2.5%) to be handcuffed.
+
+Stated another way, blacks were 11.6% of drivers stopped by
+police but 23.4% of drivers who were handcuffed, and
+Hispanics were 8.4% of stopped drivers but 13.2% of those
+handcuffed, while whites were 77% of stopped drivers and
+61.8% of the ones who were handcuffed.
+
+Driver age
+
+The younger the driver, the greater the likelihood of
+handcuffs being used.  That is, where significant
+differences existed between younger and older drivers, they
+were always in the direction of a greater likelihood of
+younger drivers being handcuffed.  For example, drivers in
+each of the age categories below age 60 were more likely 
+than drivers age 60 or older (0%) to be handcuffed.  Teenage
+drivers (4.0%), drivers in their twenties (4.0%), and
+drivers in their thirties (3.9%) were more likely to be
+handcuffed than drivers in their fifties (1.2%).
+
+Police use of force against driver
+
+Based on survey results, 19.3 million drivers were stopped
+by police at least once in 1999.  Surveyed drivers were
+asked whether, in their opinion, police had used "force"
+against them (not including handcuffing) at any time during
+the traffic stop.  Approximately 139,000 drivers -- or 
+a little over 0.7% of the 19.3 million stopped by police -
+said "yes."  
+
+Surveyed drivers saying police had used force against them
+were then asked what type of force.  The most serious type
+that a surveyed driver said had been used was police
+pointing a gun but not firing; the least serious was a
+verbal threat.  From most to least serious, the 10 different 
+types of force that surveyed drivers said police had used
+were as follows:
+
+1.  Police pointed a gun at you but did not fire.
+2.  Police sprayed you with chemical or pepper spray.
+3.  Police kicked or hit you with his/her hand or something
+held 
+   in officer's hand, such as a baton.
+4.  Police pushed or grabbed you in a way that caused pain.
+5.  Police pushed or grabbed you in a way that did not cause
+pain.
+6.  Police threatened you by having a hand on his/her gun.
+7.  Police threatened to use chemical or pepper spray.
+8.  Police threatened to kick you or hit you with the
+officer's hand or with something held in the officer's hand
+(such as a baton).
+9.  Police threatened to push or grab you.
+10. Police threatened to arrest you or take you to jail or
+take some other nonviolent action.
+ 
+----------------------------------------
+Race of officer in traffic stops
+
+                              Percent of persons stopped
+                  All officers     White officers    Black  officers
+Outcome of       White    Black     White   Black     White   Black 
+traffic stop     driver   driver    driver  driver    driver  driver
+
+Ticketed          51.8%    60.4%     52.1%   60.6%     58.3%   65.9%
+Arrested           2.6      5.2       2.6     5.3       1.3     4.6
+Driver searched    5.4     11.0       5.3    11.2       2.8    10.9
+Felt they were 
+stopped
+for a legitimate 
+reason            86.0     74.0      81.6    65.7      82.7    64.6
+
+The survey uncovered evidence of black drivers' having worse
+outcomes than whites.  The question arises whether blacks'
+having worse outcomes was true regardless of the officer's
+race.  To answer it, black and white drivers stopped by
+white officers were compared, and black and white
+drivers stopped by black officers were compared. Results
+suggest that the various racial disparities had nothing to
+do with the officer's race.  In other words, blacks
+generally had the worse outcome whether they were stopped by
+a white officer or a black officer.
+
+A black driver (60.4%) was more likely than a white (51.8%)
+to be ticketed.  Among drivers stopped by white officers,
+blacks (60.6%) were more likely than whites (52.1%) to be
+ticketed.  Though the racial disparity was about as great
+among drivers stopped by black officers (65.9% of blacks,
+58.3% of whites), the disparity was not statistically
+significant, presumably because of the small sample.
+
+A black driver (5.2%) was more likely than a white (2.6%) to
+be arrested.  Among drivers stopped by white officers,
+blacks (5.3%) were more likely than whites (2.6%) to be
+arrested.  Though the racial disparity was about as great
+among drivers stopped by black officers (4.6% of blacks,
+1.3% of whites), the disparity was not statistically
+significant, presumably because of the small sample.
+
+A police officer was more likely to search a vehicle driven
+by a black (8.5%) than a white (4.3%), and that was true
+regardless of the officer's race.  
+
+A black driver (8.0%) was more likely than a white (3.5%) to
+be physically searched. Among drivers stopped by white
+officers, blacks (8.6%) were more likely than whites
+(3.3%) to be searched.  Though the racial disparity was
+nearly as great among drivers stopped by black officers
+(5.7% of blacks, 1.8% of whites), the disparity was not
+statistically significant, presumably because of the
+small sample.
+
+Black drivers stopped by police (74.0%) were less likely
+than whites (86.0%) to have the opinion they had been
+stopped for a legitimate reason.  Among drivers stopped
+by white officers, blacks (72.7%) were less likely than
+whites (86.2%) to feel the stop had a legitimate basis.
+There was also some indication that, among drivers
+stopped by black officers, black drivers (75.2%) were
+less likely than whites (84.8%) to say the stop was for
+a legitimate reason.
+----------------------------------------
+
+"Police shot at you" is not in the list of 10 because,
+though surveyed drivers were asked if police had done this, 
+none said "yes." Likewise, "police threatened you with a 
+police dog" and "police actually unleashed a dog on you" do 
+not appear on the list because no one said that police had 
+used either of these forms of force.
+
+Driver gender
+
+Males (1.2%) were more likely than females (0%) to say
+police had used force against them.
+  
+Driver race/ethnicity
+
+Police used force against 1.4% of black drivers, 1.4% of
+Hispanics, and 0.6% of whites, not a significant difference.
+
+Driver age
+
+The younger the driver, the greater the likelihood that
+police used force.  That is, where significant differences 
+existed between younger and older drivers, they were always 
+in the direction of a greater likelihood of younger drivers 
+experiencing police use of force.  For example, drivers in 
+each of the age categories below age 60 were more 
+likely to experience force than drivers age 60 or older
+(0.2%).   Also, drivers in their teens (2.1%), twenties 
+(0.9%), or thirties (0.7%) were more likely than drivers in 
+their fifties (0.1%) to experience force.
+
+Police use of excessive force 
+against driver
+
+Of the nationally estimated 139,000 drivers saying police
+had used some type of force (not including handcuffing) against 
+them during a traffic stop, nearly 100,000 felt that the force 
+was "excessive" .  The 100,000 make up about 72% of the 139,000 
+who said police had used force, and a little over one-half of 
+1% of the 19.3 million stopped drivers.
+
+Driver gender
+
+Males (0.8%) were more likely than females (0%) to say
+police had used excessive force.
+
+Driver race/ethnicity
+
+Police used what the drivers believed to be excessive 
+force against 1.0% of blacks stopped and 0.4% of whites 
+stopped, not a significant difference.
+
+Hispanics (1.4%) were significantly more likely than whites
+(0.4%) to feel that excessive force had been used.  
+
+Driver age
+
+The younger the driver, the greater the likelihood of 
+police using excessive force.  That is, where significant 
+differences existed between younger and older drivers, 
+they were always in the direction of a greater likelihood 
+of younger drivers saying that excessive force had 
+been used.  For example, drivers in their teens (1.4%),
+twenties (0.7%), or thirties (0.6%) were more likely than 
+drivers in their fifties (0%) to say excessive force was 
+used.  Similarly, drivers in their teens (1.4%) or twenties 
+(0.7%) were more likely than drivers in their sixties (0.2%).
+
+Searching the driver, vehicle, or both
+
+During a traffic stop police sometimes conduct a search for
+drugs, open containers of alcohol, stolen property, or other
+evidence of criminal wrongdoing.  The search may be of the 
+vehicle, of the driver, or of both the vehicle and the driver.
+
+In 6.6% of the 19.3 million traffic stops documented in the
+1999 national survey, police searched the driver, the vehicle, 
+or both.  The 6.6% represent close to 1.3 million drivers who 
+said they or their vehicle had been searched.  Of the nearly 
+1.3 million searches, 35% were searches just of the vehicle, 
+20% were searches just of the driver, and the remaining 45% 
+were searches of both the driver and the vehicle. 
+
+Driver gender 
+
+Police were more likely to conduct a search of the vehicle
+and/or the driver in traffic stops of males (9.4%) than 
+females (2.3%).
+
+Driver race/ethnicity
+
+Black (11.0%) and Hispanic (11.3%) motorists stopped by
+police were more likely than whites (5.4%) to be 
+physically searched or have their vehicle searched.
+
+Driver age
+
+The younger the motorist, the more likely police were 
+to search the vehicle or the driver.  That is, where 
+significant differences existed between younger and older 
+drivers, they were always in the direction of a greater 
+likelihood of younger drivers' being frisked or having 
+their vehicle searched.  For example, teenage drivers 
+(13.3%) were more likely than drivers in their twenties 
+(8.9%), who in turn were more likely than drivers in their 
+thirties (6.4%), who in turn were more likely than those 
+in their forties (3.8%).
+
+Searching the driver
+
+Overall, 4.3% of stopped drivers were physically searched 
+by police.  Such body searches often involve little more 
+than the driver being frisked or lightly patted down by 
+the officer.  Sometimes though, the search is more invasive, 
+involving, for example, the officer's reaching into the 
+driver's clothing.
+
+Driver gender 
+
+Driver searches (as distinct from vehicle searches) were
+more common among male drivers (6.4%) than female drivers 
+(1.2%).
+
+Driver race/ethnicity
+
+Black (8.0%) and Hispanic motorists (7.0%) were more likely
+than white motorists (3.5%) to be subjected to a search of 
+the driver.
+
+Driver age
+
+The younger the driver, the greater the likelihood of a
+search of the driver.  That is, where significant differences 
+existed between younger and older drivers, they were always 
+in the direction of a greater likelihood of younger drivers 
+being searched.  For example, drivers in their twenties 
+(6.1%) were more likely than drivers in their thirties 
+(4.3%), who in turn were more likely than drivers in their
+forties (2.5%).  All drivers, except those in their fifties, 
+were more likely than drivers in the oldest age category 
+(0.7%).
+
+Searching the vehicle
+
+Police searched the vehicle in about 5% of traffic stops.
+
+Driver gender
+
+Police were more likely to search a vehicle driven by 
+a male (7.5%) than a female (1.9%).
+
+Driver race/ethnicity
+
+Police were more likely to search a vehicle driven by a
+black (8.5%) or Hispanic (9.7%) than a white (4.3%).
+
+Driver age
+
+The younger the driver, the greater the likelihood of a
+vehicle search.  More specifically, where significant 
+differences existed between younger and older drivers, 
+they were always in the direction of a greater likelihood 
+of a vehicle search for the younger drivers.  To 
+illustrate, vehicles driven by persons in their thirties
+(5.2%) were more likely to be searched than vehicles driven 
+by persons in their forties (2.6%) or  in their fifties 
+(2.2%).  Teenage drivers (11.7%) and those in their twenties 
+(7.1%) or thirties (5.2%) or forties (2.6%) or fifties 
+(2.2%) were each more likely than those ages 60 or older 
+(0.9%).
+ 
+--------------------------------
+Driver opinion on whether police 
+acted properly
+
+An estimated 90% of the 19.3 million drivers pulled over 
+by police felt that police had behaved properly during 
+the traffic stop.
+
+Driver gender 
+
+There was some division of opinion between the approximately
+11.7 million males and 7.6 million females stopped by police. 
+When asked if police had behaved properly or improperly, 
+males (88%) were less likely than females (92%) to say 
+"properly."
+
+Driver race/ethnicity
+
+Of the nearly 14.9 million whites stopped by police, 91%
+said that police had behaved properly during the traffic 
+stop.  That compares to 82% of the 2.2 million blacks 
+stopped, and 87% of the 1.6 million Hispanics stopped.  
+Though vast majorities of blacks and Hispanics felt police 
+had behaved properly, blacks and Hispanics were less likely 
+than whites to hold that opinion. 
+
+Driver age
+
+With two exceptions, drivers of one age category were no
+different from drivers of another age category in terms 
+of opinion about whether police had behaved properly during 
+the traffic stop.  The two exceptions were the lower 
+percentages of teenage drivers (87%) and drivers in 
+their twenties (89%) who felt police had behaved properly 
+as compared to drivers in their fifties (92%).
+
+                       Percent of stopped drivers
+                       who felt that the police had
+                       behaved properly during the
+                       traffic stop
+Total                          90 %
+ 
+Gender
+Male                           88 %
+Female                         92
+ 
+Race/ethnicity
+White                          91 %
+Black                          82
+Hispanic                       87
+Other                          91
+ 
+Age
+16-19                          87 %
+20-29                          89
+30-39                          90
+40-49                          90
+50-59                          92
+60 or older                    91
+------------------------------------
+
+Searches and racial profiling
+
+One definition of racial profiling is "using race as 
+a key factor in deciding whether to make a traffic stop.
+"  Another definition is "using race as a key factor in 
+deciding whether, during a traffic stop, to search the 
+vehicle or the driver." Survey findings reported above 
+indicated the following about the likelihood of searches 
+and the race or ethnicity of the driver:
+
+1.  Black (11.0%) and Hispanic (11.3%) motorists stopped 
+by police were more likely than whites (5.4%) to be 
+physically searched or to have their vehicle searched.
+
+2.  Black (8%) and Hispanic motorists (7%) were more likely
+than white motorists (3.5%) to be subjected to a physical 
+search of the driver.
+
+3.  Police were more likely to search a vehicle driven by a
+black (8.5%) or Hispanic (9.7%) than by a white (4.3%).
+
+However, while the survey data can reveal these various
+racial disparities they cannot answer the question of 
+whether the driver's race, rather than the driver's conduct 
+at the time or any other specific circumstances surrounding 
+the stop, is the reason the search was conducted.  
+That is because the survey did not include questions about
+circumstances or driver conduct.  For example, having drugs 
+in plain view of police is a circumstance that would normally 
+warrant a legal search of the vehicle.  But since the survey 
+did not ask drivers whether any drugs within plain view were 
+in the vehicle, the analysis is necessarily limited.
+
+Limitation of the survey's 
+search data
+
+Surveyed drivers were asked about any searches that police
+may have conducted during the traffic stop.  Based on answers 
+to these questions, national estimates are made of--
+
+*  the number of drivers who were searched ("C" in figure 4)
+
+-----------------------------------
+                         Police
+Police asked             conducted
+permission to            a search
+search, and
+the driver --            Yes     No
+ 
+Consented                 A       D
+Did not consent           B       E
+                     --      --
+Total                     C       F
+------------------------------------ 
+
+*  the number of searches that were carried out with 
+the driver's permission ("searches with consent," "A") 
+and the number carried out without permission ("searches 
+without consent," "B").
+
+An estimate not available from the survey is the number of
+traffic stops in which the driver had refused a request to 
+conduct a search and no search was made ("E"). It is 
+unavailable because not all surveyed drivers, but only 
+drivers who said they or their vehicle had been searched, 
+were asked whether the officer had first requested permission 
+("A" and "B" ).  Consequently, the survey cannot estimate:
+
+*  how often a driver refused a request to conduct 
+a search ("B" + "E")
+
+*  the likelihood of police conducting a search after 
+the driver denied permission 
+
+*  the likelihood of a driver giving consent.
+
+Search of driver, vehicle, or both
+
+Search with or without driver consent 
+
+In some jurisdictions an officer need not have any 
+suspicion to ask for permission to conduct a search.  
+In some, police departments require that the officer 
+have at least a "reasonable suspicion" before
+asking for permission to conduct a search.  In all 
+jurisdictions, if the officer has "probable cause" to 
+believe that the person or the vehicle contains 
+evidence of a crime, the officer does not need to 
+ask for permission.
+
+Of the 1.3 million searches, a third, or about 427,000, 
+were by consent. In consent searches the search only 
+occurred after the officer had asked for and had been 
+granted permission from the driver.  The remaining two-
+thirds, or about 845,000, were not by consent; either 
+the officer had not asked permission before conducting 
+the search, which was the case in about 96% of searches 
+without consent, or the officer had asked but the driver 
+reported saying "no" (the other 4% of searches
+without consent). Physical searches (73.8%) were more 
+likely than vehicle searches (52.9%) to be searches 
+without consent. 
+
+Likelihood of search finding 
+criminal evidence
+
+In 13.3% of the 1.3 million searches, police found drugs, 
+an illegal weapon, open containers of beer, or other 
+possible evidence of a crime.  The likelihood of finding 
+criminal evidence was not significantly different between 
+the 845,000 searches without consent (12.9%) and the 
+427,000 searches with consent (14.2%) (table not shown).
+
+Driver opinion on searches with or 
+without consent
+
+Most (71%) of the approximately 845,000 drivers subjected 
+to a search of their body or vehicle without consent felt 
+that police had not had a legitimate reason for the search.  
+Most (55%) of the roughly 427,000 drivers who had consented 
+to being physically searched or having their vehicle searched 
+also felt that police had not had a
+legitimate reason.
+
+Search of driver
+
+Search with or without consent
+
+Approximately three-fourths (73.8%) of all body searches
+were without the driver's consent, according to surveyed 
+drivers.
+
+Likelihood of search finding 
+criminal evidence
+
+Of the 829,000 physical searches, 92% found no criminal
+evidence, according to surveyed drivers.  When evidence 
+was found, it was usually alcohol or drugs. The likelihood 
+of finding criminal evidence was not significantly different 
+between the 612,000 physical searches without consent (7.8%) 
+and the 217,000 physical searches with consent (8.5%) 
+(table not shown).
+
+Driver opinion on searches with or 
+without consent 
+
+Most (72%) of the approximately 612,000 drivers who were
+subjected to a physical search without their consent felt 
+that police had lacked a legitimate reason for the search 
+(table not shown).  Most (52%) of the roughly 217,000 who 
+had consented to being physically searched also felt that 
+police had not had a legitimate reason.
+
+Search of vehicle
+
+Search with or without consent 
+
+Roughly half of all vehicle searches (52.9%) were 
+without driver consent.  
+
+Likelihood of search finding 
+criminal evidence
+
+Nearly 90% of vehicle searches (87.4%) found no 
+evidence of criminal wrongdoing, according to surveyed 
+drivers.  Vehicle searches without consent (13.1%) were 
+not significantly more likely than searches with 
+consent (12.2%) to uncover evidence (table not shown).
+
+Driver opinion on searches with or 
+without consent
+
+Most (79%) of the approximately 540,000 drivers who were
+subjected to a vehicle search without their consent felt 
+that police had lacked a legitimate reason for the search 
+(table not shown).  Most (55%) of the roughly 481,000 who 
+had consented to a vehicle search also felt that police 
+had not had a legitimate reason.
+
+Interpreting opinion data regarding 
+searches
+
+Among drivers who did not give consent to being 
+physically searched or to having their vehicle searched, 
+most said police did not have a legitimate reason for 
+the search.  Among those who did give consent, 
+again most said police did not have a legitimate reason 
+for the search.  To law enforcement officers, the latter 
+might seem contradictory: drivers consenting to a search 
+but then saying the search was not for a legitimate 
+reason. From a legal perspective, the giving of consent 
+can make a search legitimate.
+
+It is not certain what drivers who had given consent meant
+when they said police did not have a legitimate reason. 
+They were not all necessarily expressing criticism of police.  
+Some who had consented may have merely meant that they had 
+nothing to hide.
+
+Small sample sizes
+
+Up to now, separate statistics were given on each of four
+categories:  physical searches with consent, physical searches 
+without consent, vehicle searches with consent, and vehicle 
+searches without consent.  Within each of the four, it would 
+be desirable to have comparative statistics by gender and 
+race and age -- for example, the percentage of white physical 
+searches without consent that found criminal evidence compared 
+to the percentage of black physical searches without 
+consent.  But these detailed estimates would be based on
+samples too small to form reliable statistical comparisons.  
+By combining physical searches and vehicle searches, additional 
+comparisons can be made.  
+
+Searching the driver, vehicle, or 
+both:  Gender
+
+Search with or without consent
+
+The proportion of all searches (both physical and vehicle)
+that were without consent was identical for males (66%) and
+females (66%).
+
+Likelihood of search finding criminal 
+evidence
+
+The proportion of male searches finding criminal evidence
+(14%) was not significantly greater than that of female 
+searches (12%).
+
+Searching the driver, vehicle, 
+or both:  Race/ethnicity
+
+Search with or without consent
+
+Black searches (physical or vehicle) were more likely 
+to be without consent (74%) than white searches (63%). 
+
+The percentage of all searches that were without the
+driver's consent was greater in physical or vehicle 
+searches of Hispanics (76%) than whites (63%).
+
+Likelihood of search finding criminal 
+evidence
+
+Searches of white drivers or their vehicles were more 
+likely to find criminal evidence (17%) than searches 
+of blacks (8%), but not significantly more likely than 
+searches of Hispanics (10%).
+
+Searching the driver, vehicle, or 
+both:  Age
+
+Search with or without consent
+
+The percentage of searches that were without consent 
+showed no clear pattern with age.
+
+Likelihood of search finding 
+criminal evidence
+
+No comparisons are made between drivers of different ages 
+because many of the samples on which the separate age
+categories are based are too small to form reliable 
+estimates.
+
+Driver opinion on driver, 
+vehicle, or both being 
+searched
+
+Of the nearly 1.3 million drivers who experienced 
+either a vehicle search, a driver search, or both, an 
+estimated 34% felt the search (or, in some cases, "both 
+searches") was for a legitimate reason.   The remaining 
+66% did not feel it was for a legitimate reason.
+
+Driver gender 
+
+Males (34%) were not significantly less likely than 
+females (40%) to have the opinion that the search was 
+for a legitimate reason.
+
+Driver race/ethnicity 
+
+Blacks (17%) were less likely than whites (39%) to feel 
+that police had a legitimate reason for searching them, 
+their vehicle, or both.  Opinion did not differ significantly 
+between whites and Hispanics (33%).
+
+Driver age
+
+Opinion that the search was for a legitimate reason
+generally did not vary with age. 
+
+Driver opinion on being physically 
+searched
+
+Of the approximately 829,000 drivers who were physically
+searched, an estimated 35% felt the search was for a 
+legitimate reason.  The remaining 65% did not feel it was 
+for a legitimate reason.
+
+Driver gender 
+
+Males were not significantly different from females in 
+their opinion about being physically searched: 36% of 
+males and 34% of females felt there was a legitimate 
+reason.
+
+Driver race
+
+Blacks who were physically searched by police (22%) were
+less likely than whites (40%) to feel that police had a 
+legitimate reason for making the search.  Hispanics (28%) 
+were not significantly less likely than whites to have 
+that opinion.
+
+Driver age
+
+Opinion that the physical search was for a legitimate 
+reason did not vary in any uniform way across the ages.
+
+Driver opinion on vehicle being 
+searched
+
+Of the 1 million drivers who said their vehicle had been
+searched by police, 34% felt the search was for a 
+legitimate reason.
+
+Driver gender 
+
+Males were not significantly different from females in
+opinion about their vehicle being searched: 33% of 
+males and 39% of females felt there was a legitimate 
+reason.
+
+Driver race/ethnicity
+
+Blacks whose vehicle was searched (15%) were less likely
+than whites (39%) to feel that police had a legitimate 
+reason for the search.  Hispanics (31%) were not significantly 
+less likely than whites to have that opinion.
+
+Driver age
+
+In general, the older the driver whose vehicle was searched, 
+the greater the likelihood that driver felt the search was
+for a legitimate reason.
+
+Police use of force
+
+The 1999 Police-Public Contact Survey asked respondents who
+said they had a face-to-face contact with police whether 
+the police officer(s) used or threatened to use physical 
+force against them.  
+
+During 1999 approximately 422,000 persons age 16 or older
+said the police used or threatened to use force against 
+them at least once.  This amounts to about 1% of the nearly 
+44 million people reporting face-to-face police contact 
+during 1999.  These overall findings are quite similar to 
+those from the 1996 survey, which reported that approximately 
+500,000 persons age 12 or older experienced police force 
+-- also representing about 1% of those persons who reported 
+face-to-face police contact in 1996. 
+
+About three-quarters (76%) of those experiencing force in
+1999 said the force used or threatened by the police was
+excessive.**In this report "use of force" includes threat 
+of force unless otherwise indicated.**  Among all persons 
+who had a police contact in 1999, 52.8% were males.  
+However, among those experiencing police use or threat of
+force, 86.9% were males.
+
+Persons ages 16 to 29 were 34.5% of the estimated 44 
+million who had a police contact but 68.1% of those 
+experiencing force during a contact.  Persons age 32 
+or less accounted for about 75% of all persons who 
+reported experiencing police use of force. The median 
+age of those experiencing force was 23.  The oldest 
+person reporting use of force in the survey was age 72. 
+
+Whites comprised 78.2% of all persons with a police 
+contact, blacks 10.6%, and Hispanics 8.1%. About 59% 
+of those experiencing force were white, 22.6% black, 
+and 15.5% Hispanic.
+
+Likelihood of experiencing force 
+
+Among persons 16 years or older with a face-to-face 
+contact, females (.27%) were less likely than males 
+(1.58%) to have had a contact with police that resulted 
+in force. 
+
+Younger persons age 16 to 29 (1.9%) with police contact were 
+significantly more likely than those over age 29 (.47%) to
+have had force used against them.  
+
+Among those persons age 16 or older with a face-to-face
+contact, blacks (2.06%) and Hispanics (1.85%) were more 
+likely than whites (.72%) to have reported that the police 
+used or threatened force against them.      
+
+Initiator of the contact resulting
+n force
+
+In the vast majority (95.4%) of the 422,000 force cases, 
+the citizens said that the police initiated the 
+face-to-face contact   most commonly through a traffic-
+related incident (39.2%) or because the police 
+suspected the citizen of a crime (18.8%) or thought the
+person was involved in a crime (17.8%). Traffic-related 
+force incidents include cases in which the police stopped 
+a motorist and cases in which police responded to an 
+accident. 
+
+Kind of force used
+
+Among those 422,000 persons who indicated that the police
+used or threatened to use force against them, 77.5% said 
+police actually used force and 22.5% said force was threatened 
+but not actually employed.   
+
+                                  Percent of
+Type of police         Number of  persons with
+contact                persons    force
+ 
+Total person
+with force             421,714       100.0%
+Force
+Force only             271,599        64.8
+Force and threat        53,371        12.7
+Threat only             94,744        22.5
+
+Respondents who said they experienced police use of 
+force were asked to describe the type of force.  About 
+72% of the 422,000 persons involved in a force incident 
+said the police pushed or grabbed them.  In about half 
+of these cases the respondent reported experiencing pain.  
+An additional 13.9% said the police threatened to push or
+grab them.
+
+Among those 422,000 involved in a force-related incident,
+15.3% of the persons said the police pointed a gun at them.  
+Other types of force or threats included the use of chemical 
+spray (9.8%) and the threat to fire a gun (5.4%).  No person 
+in the survey reported that an officer actually fired a gun 
+at him or her. Likewise, the survey did not contain any 
+respondents who reported being bitten by a police dog.
+
+Amount of force
+
+Citizens involved in a force incident were asked if they
+felt any of the physical force used or threatened against 
+them was excessive.  Most (76.1%) of the 422,000 people 
+involved in a police use of force incident said the force 
+was excessive.  Whites (73.1%) involved in force incidents 
+were just as likely as blacks (72.1%) to say the force was 
+excessive.  Among Hispanics with force used against them, 
+88.8% said it was excessive.  There was not a 
+statistically significant difference among estimates for
+whites, blacks, and Hispanics.  
+
+Citizens who characterized the incident as police use of
+excessive force most frequently identified the pushing or 
+grabbing with pain (40.2%) or without pain (28.4%) as 
+excessive.  About three-quarters of those who said the police 
+officer pointed a gun at them thought it was excessive (not 
+shown in table).
+
+Injuries from force
+
+Overall, about 15% of the approximately 422,000 persons
+involved in a force or threat of force incident reported 
+that they were injured as a result of the police action.   
+Twenty percent of whites, 10.5% of Hispanics, and 8.2% of 
+blacks in force incidents were injured.  These differences 
+were not statistically significant. 
+
+The most common type of injury sustained was bruises and
+cuts -- 86.3% of those injured.
+
+The 64,000 respondents who said they were injured were 
+asked what kind of treatment, if any, they received for 
+their injuries. About 40% of injured persons did not 
+receive any treatment, 33.5% received emergency services, 
+and 19.7% administered self-treatment. 
+
+Characteristics of incident
+
+About two-thirds of those involved in a force or threat 
+of force incident said the police searched them or their 
+vehicle. About 14% of the persons with force reported that 
+during the course of the force incident the police found 
+an item such as drugs, an open alcohol container, or a 
+weapon on or near them or their vehicle. 
+
+Forty-nine percent of the 422,000 persons involved in a
+contact with force had at least one kind of charge filed 
+against them   ranging from a traffic offense to assaulting 
+an officer.   A traffic-related offense was one of the most 
+common charges (12%).  
+
+Six percent were charged with drunk driving.  About 8% 
+were charged with resisting arrest and 3.4% were charged 
+with assaulting a police officer.  
+
+Officers involved in force incidents
+
+Most incidents involving force had more than one officer
+present (not shown in table).   About 20% of the persons 
+involved in a force incident reported that a single officer 
+was present.  The median number of officers involved in a 
+force incident was two.      
+
+Most persons (85.4%) involved in force incidents said the
+officer or a majority of officers was white and 3.6% said 
+the officer or a majority was black. 
+
+Citizen conduct 
+
+Persons experiencing force or threat of police force were 
+specifically asked if they thought any of their actions
+during the incident may have provoked the police officer(s) 
+to use or threaten to use physical force.  About 1 in 4 said 
+they did something to provoke the officer:  
+
+                          Number of persons
+                          who--
+                                  
+                   Experi-   Said they    Percent
+                     enced     provoked     of persons
+Race/ethnicity       force     the police   with force 
+
+Total               421,714     105,349        25.0 %
+White               248,539      78,023        31.4
+Black                95,440      14,407        15.1
+Hispanic             65,530      12,919        19.7
+ 
+Question: "Do you think any of your actions
+during (this/the most recent) incident may
+have provoked the police officer(s) to use or 
+threaten to use physical force?"
+
+Whites were not significantly more likely than blacks 
+to say specifically they did something during the 
+incident to provoke the police officer(s).
+
+Respondents were also asked whether they had engaged 
+in any of the following listed actions during the 
+incident:  
+
+Verbal
+*  Argued with or disobeyed the police officer(s)
+*  Cursed at, insulted, or called the police officer(s) 
+   a name 
+*  Said something threatening to the police officer(s)
+
+Cooperation
+*  Resisted being handcuffed or arrested
+*  Resisted being searched or having the vehicle searched
+*  Tried to escape by hiding, running away, or being in a 
+   high-speed chase
+
+Physical resistance
+*  Grabbed, hit, or fought with the police officer(s)
+*  Used a weapon to threaten the police officer(s)
+*  Used a weapon to assault the police officer(s)
+
+Other
+*  Did anything else that might have caused the police
+   officer to use or threaten to use physical force 
+   against you.
+
+This question was asked of all persons with force 
+regardless of their response to the above specific 
+question about whether they provoked the police.
+
+Overall, 57.0% reported they had engaged in at least 
+one type of action during the incident such as arguing, 
+disobeying, or resisting the police or using alcohol 
+or drugs.
+
+Whites (72.7%) involved in a force incident were
+significantly more likely than blacks (23.6%) to have 
+reported at least one type of action during the incident, 
+including drinking or using drugs.  Among Hispanics with 
+force, 52.6% reported they did something during the incident. 
+
+A third of those involved in a force incident said they
+argued with or disobeyed the police officer.  Slightly 
+more than 1 in 10 said they cursed or insulted the officer.
+
+Other actions reported by persons experiencing police use of 
+force include resisting arrests or handcuffing (7.2%),
+trying to escape (5.1%), and fighting with the police (2.4%). 
+
+Whites (43.0%) and Hispanics (43.9%) involved in a force or 
+threat of force incident were significantly more likely 
+than black citizens (15.2%) to say that they argued with the 
+police during the incident. 
+
+---------------------------------------------
+Attitudes toward the police differ by race   
+
+Several sources of public opinion indicate that the police
+enjoy a generally favorable image among the public.  However,
+differences do exist among black and white citizens regarding 
+their perceptions of the police.  Blacks are less likely than 
+whites to express a favorable opinion of the police, 
+to have confidence in the police, or to think the police 
+should use force in any situation. 
+
+In 2000 a majority of persons (81%) surveyed in the United 
+States said they had a favorable opinion of their local 
+police as well as the State police or troopers in their area.  
+Whites (85%) were more likely than blacks (58%) to have had 
+a favorable opinion of their local police.
+***Footnote 1: Sourcebook of Criminal Justice Statistics, 
+1999, BJS, table 2.34, Gallup Organization, Gallup Poll 
+Monthly, December 1999, no. 411.***  
+
+Differences between black and white respondents can also be
+found when asked about their level of confidence in the police. 
+In a 2000 national survey, 57% of whites said they had a great
+deal or quite a lot of confidence in the police, compared to 
+38% of blacks.  Nationally a majority of persons (54%) said 
+they had a great deal or quite a lot of confidence in the 
+police.***Footnote 2: Sourcebook of Criminal Justice Statistics, 
+1999, BJS, table 2.18, Gallup Organization, 2000.***     
+
+White and black attitudes toward police use of force have 
+consistently differed over the past 25 years as measured by 
+the survey question "[a]re there any situations you can
+imagine in which you would approve of a policeman striking 
+an adult male citizen?"  Surveyed annually over this time 
+period, a larger percentage of whites -- about three-quarters 
+-- than blacks -- about half -- responded "yes."
+***Footnote 3: Sourcebook of Criminal Justice Statistics, 
+1999, BJS, table 2.36, National Opinion Research Center, 
+General Social Surveys, 1972-1998. Question: "Are 
+there any situations you can imagine in which you would
+approve of a policeman striking an adult male citizen?"***  
+--------------------------------
+
+--------------------------------
+The median age of persons
+involved with the police
+generally declined as the contact
+became more serious, 1999
+
+Half the citizens with face-to-face contact with the police
+were age 36 or younger, 6 years younger than the median 
+for the whole population over age 16.  Half the persons who 
+reported experiencing force by a police officer were age 23 
+or younger.
+
+                           Number of
+                           persons age     Median
+                           16 or older     age
+U.S. population
+age 16 or older            209,350,600        42
+ 
+Persons with face-
+to-face contact with
+police in 1999              43,827,400         36
+ 
+Motorists stopped           19,277,000         34
+ 
+Persons searched             1,737,700         25
+ 
+Persons arrested             1,038,300         27
+ 
+Persons handcuffed           1,154,200         26
+ 
+Persons reporting
+that they experienced
+force by the police            421,700         23
+------------------------------------- 
+
+Respondents were specifically asked if they had been using
+alcohol or drugs during the force incident.  Twenty-one 
+percent of the citizens involved in a force or threat of 
+force incident said they were using drugs and/or alcohol at 
+the time.  Whites involved with police force (25.7%) were 
+significantly more likely than blacks (10.0%) to have reported 
+that they had used alcohol or drugs during the incident.
+
+Force and arrests
+
+Less than half (42.3%) of the persons who said force was
+used or threatened against them were arrested during the 
+incident.  Whites (45.9%) who experienced police force were 
+not significantly more likely than blacks (37.1%) or Hispanics 
+(35.5%) to also have been arrested.
+
+Force and handcuffing
+
+About half (52.1%) the persons experiencing force were also 
+handcuffed during the incident -- including 48.8% of whites, 
+67.2% of blacks, and 43.0% of Hispanics.  These differences 
+were not statistically significant.
+
+Citizen appraisal of police conduct 
+
+The vast majority (91.9%) of the persons involved in police
+use of force incidents said the police acted improperly.  
+Whites (88.5%) were nearly as likely as blacks (94.4%) to 
+contend the police acted improperly.   
+
+Although the majority of persons with force felt the police 
+had acted improperly, less than 20% of these people (about
+59,600) said they took formal action such as filing a complaint 
+or lawsuit with the authorities. 
+
+Those that did file a complaint were most likely (66.1%) to
+do so with the agency employing the police officer(s) involved
+in the force incident.  Few (3.7%) citizens who took formal
+action filed a police use of force complaint with their local
+prosecutor's office.
+
+Appendix
+
+Related background 
+publications and current grants
+
+The publications that follow are, in whole or in part, 
+related to police use of force and are among those 
+generated by research supported by the National
+Institute of Justice (NIJ) or  BJS either through grants 
+to outside researchers or through studies by in-house staff.
+
+Alpert, Geoffrey P. Police Pursuit: Policies and Training.
+Research in Brief. Washington, DC: U.S. Department of Justice, 
+NIJ, May 1997. NCJ 164831. (The related 60-minute videotape: 
+Alpert, Geoffrey P. Police in Pursuit: Policy and Practice. 
+Washington, DC: U.S. Department of Justice, NIJ. 
+NCJ 161836.)
+
+--. Helicopters in Pursuit Operations. Research in Action.
+Washington, DC: U.S. Department of Justice, NIJ, August 1998. 
+NCJ 171695.
+
+Bir, Cynthia A. The Evaluation of Blunt Ballistic Impacts of
+the Thorax. Ph.D. dissertation. Wayne State University, 2000.
+
+Edwards, Steven M., John Granfield, and Jamie Onnen.
+Evaluation of Pepper Spray. Research in Brief. Washington, DC: 
+U.S. Department of Justice, NIJ, March 1997. NCJ 162358.
+
+Fridell, Lorie A., and Antony M. Pate. "Death on Patrol:
+Killings of American Law Enforcement Officers." In Critical 
+Issues in Policing: Contemporary Readings, eds. Geoffrey P. 
+Alpert and Roger G. Dunham. Prospect Heights, IL: Waveland 
+Press, 1997.
+
+Garner, Joel; John Buchanan; Tom Schade; and John Hepburn. 
+Understanding the Use of Force By and Against the Police. 
+Research in Brief. Washington, DC: U.S. Department of
+Justice, NIJ, November 1996. NCJ 158614. (The related 60-
+minute videotape: Garner, Joel H. Use of Force By and Against 
+Police. Washington, DC: U.S. Department of Justice, NIJ. 
+NCJ 159739.)
+
+Geller, William A., and Hans Toch, eds. And Justice 
+for All: Understanding and Controlling Police Abuse of Force.
+Washington, DC: Police Executive Research Forum, 1995.
+
+Greenfeld, Lawrence A., Patrick A. Langan, and Steven K.
+Smith. Police Use of Force: Collection of National Data. 
+Washington DC: U.S. Department of Justice, BJS and NIJ, 
+November 1997. NCJ 165040.
+
+Jefferis, Eric S.; Robert J. Kaminski; Steven Holmes; and
+Dena Hanley. "The Effect of a Videotaped Arrest on Public
+Perceptions of Police Use of Force." Journal of Criminal 
+Justice, 25(5)(1997).
+
+Kaminski, Robert J., and Eric S. Jefferis. "The Effect of a
+Violent Televised Arrest on Public Perceptions of the Police: 
+A Partial Test of Easton's Theoretical Framework." Policing: 
+An International Journal of Police Strategies and Management, 
+21(4)(1998).
+
+Kaminski, Robert J. and Jeffrey Martin. "An Analysis of
+Police Officer Satisfaction with Defense and Control Tactics."
+Policing: An International Journal of Police Strategies and
+Management, 23 (2)(2000).
+
+Kaminski, Robert J.; Steven M. Edwards; and James W.
+Johnson. "The Deterrent Effects of Oleoresin Capsicum on 
+Assaults Against Police: Testing the Velcro-Effect 
+Hypothesis." Police Quarterly, 1(2)(1998).
+
+C. "Assessing the Incapacitative Effects of Pepper Spray
+During Resistive Encounters With Police." Policing: An
+International Journal of Police Strategies and Management, 
+22(1)(1999).
+
+Mastrofski, Stephen D.; Roger B. Parks; Albert J. Reiss,
+Jr.; Robert E. Worden; Christina DeJong; Jeffrey B. Snipes; 
+and William Terrill. Systematic Observation of Public Police: 
+Applying Field Research Methods to Policy Issues. Research 
+Report. Washington, DC: U.S. Department of Justice, NIJ, December 
+1998. NCJ 172859.
+
+McEwen, Tom. National Data Collection on Police Use of
+Force. Washington, DC: U.S. Department of Justice, BJS and 
+NIJ, April 1996. NCJ 160113.
+
+NIJ. Oleoresin Capsicum: Pepper Spray as a Force Alternative. 
+Technology Assessment Program. Washington, DC: U.S. Department 
+of Justice, NIJ, March 1994.
+
+--. Preliminary Investigation of Oleoresin Capsicum. Law 
+Enforcement and Corrections Standards and Testing Program. 
+Washington, DC: U.S. Department of Justice, NIJ, April 1995. 
+NIJ Report 100-95.
+
+--. Positional Asphyxia -- Sudden Death. National Law 
+Enforcement Technology Center Bulletin. Washington, DC: 
+U.S. Department of Justice, NIJ, June 1995.
+
+--. High Speed Pursuit: New Technologies Around the Corner. 
+National Law Enforcement and Corrections Technology Center 
+Bulletin. Washington, DC: U.S. Department of Justice, NIJ, 
+October 1996.
+
+--. Pursuit Management Task Force. Research Preview.
+Washington, DC: U.S. Department of Justice, National 
+Institute of Justice, August 1998. FS 000225.
+
+NIJ and BJS. Use of Force By Police: Overview of National 
+and Local Data. Research Report. Washington, DC: U.S.
+Department of Justice, October 1999. NCJ 176330.
+
+Pate, Antony M., and Lorie A. Fridell, with Edwin E.
+Hamilton. Police Use of Force: Official Reports, Citizen 
+Appendix
+
+Complaints, and Legal Consequences. Vols. I and II.
+Washington, DC: Police Foundation, 1993.
+
+Pinizzotto, Anthony J.; Edward F. Davis; and Charles E. 
+Miller III. In the Line of Fire: Violence Against Law 
+Enforcement. Washington, DC: U.S. Department of Justice, 
+FBI and NIJ, October 1997.
+
+Scrivner, Ellen M. The Role of Police Psychology in 
+Controlling Excessive Force. Research Report. Washington, 
+DC: NIJ, 1994. NCJ 146206.
+
+--. Controlling Police Use of Force: 
+The Role of the Police Psychologist. Research 
+in Brief. Washington, DC: U.S. Department of Justice, 
+NIJ, 1994. NCJ 150063.
+
+Current NIJ-supported grants for research
+
+The Impact of OC Spray on Respiratory Function in the
+Sitting and Prone Maximal Restraint Positions, Grant 
+#98-IJ-CX-0079
+
+Curbing Police Brutality: A Reanalysis of Citizen Complaints 
+at the Organizational Level, Grant #98-IJ-CX-0064
+
+Responding to the Problem Police Officer: An Evaluation of 
+Early Warning Systems, Grant #98-IJ-CX-0002 
+
+An Analysis of Police Use-of-Force Data, Grant 
+#95-IJ-CX-0104
+ 
+A Multi-Method Study of Police Special Weapons 
+and Tactics Teams, Grant #2000-IJ-CX-0003
+
+Applicability of Non-Lethal Weapons Technology 
+in Schools, Grant #99-9226-VA-IJ
+
+North Carolina Highway Traffic Study (on racial 
+profiling, but includes use of force), Grant 
+#99-MU-CX-0022
+
+Use of Force by the Montgomery County Police Department, 
+1992-1998, Grant #98-IJ-CX-0086
+
+The Phoenix Project: Predictors of Suspect Use of 
+Force, Grant #98-IJ-CX-0071
+
+The Force Factor: Measuring Police Use of Force 
+Relative to Suspect Resistance, Grant #98-IJ-CX-0018
+
+Impact Munitions Data Base of Use and Effects, 
+Grant #98-LB-VX-K006
+
+Police Response to Officer-Involved Shootings, 
+Grant #97-IJ-CX-0029
+
+An Evaluation of Oleoresin Capsicum (O.C.) Use by Law 
+Enforcement Agencies: Impact on Injuries to Officers 
+and Suspects, Grant #97-LB-VX-K018
+
+Understanding the Use of Force by  and against the Police, 
+Grant #95-IJ-CX-0066
+
+End of file
+ih 02/20/01
+
+
+
+
+ 
+
+
+
+
+  
+
+
+

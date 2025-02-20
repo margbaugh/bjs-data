@@ -1,0 +1,1124 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Technical Report
+
+Linking Uniform Crime Reporting Data to
+Other Datasets
+
+May 2001 NCJ 185233
+
+---------------------------------------------------------
+This file is text only without graphics and many of the 
+tables.  A Zip archive of the tables in this report in
+spreadsheet format (.wk1) and the full report including 
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/lucrdod.htm
+---------------------------------------------------------
+
+By
+Sue A. Lindgren
+Marianne W. Zawitz
+BJS Statisticians
+
+---------------------------------------------------------
+Highlights
+
+The Bureau of Justice Statistics (BJS) and
+the National Archive of Criminal Justice
+Data (NACJD) recently developed the
+Law Enforcement Agency Identifiers
+Crosswalk. For the first time, criminal
+justice researchers and statisticians will
+be able to analyze crime and arrest data
+reported by nearly 20,000 State and local
+law enforcement agencies in conjunction
+with sociodemographic data from other
+official datasets.
+
+The crosswalk merged data from three
+major datasets:
+
+*  The FBI's Uniform Crime Reporting
+(UCR) program file containing 18,725
+records, one for each law enforcement
+agency in the Nation that had ever
+reported to the UCR as of 1996.
+
+*  The BJS 1996 Directory of Law
+Enforcement Agencies (DLEA) file of
+18,745 law enforcement agencies, a
+complete census of publicly funded police
+and sheriffs' departments employing at
+least one part-time or full-time sworn
+police officer with full arrest powers.
+
+*  The Census Bureau's Governments
+Integrated Directory (GID), which is a
+complete listing of all 86,745 recognized
+local governments in the United States.
+
+The resulting file has 23,170 records: 
+
+*  14,313 from both the UCR and the DLEA
+*  4,418 from only the UCR
+*  4,439 from only the DLEA.
+
+Each record in the file contains the
+following geo-coding information where
+matches were possible:
+
+* The law enforcement agency's ORI
+code. 
+
+* The Census Bureau's Governments
+Division code (GOVID), identifying the
+parent government of the law enforcement
+agency.
+
+*  The National Institute of Standards and
+Technology (NIST) FIPS codes, identifying 
+the geographic area of the agency.
+-----------------------------------------------------------
+
+Since the 1930's the FBI's Uniform Crime
+Reporting (UCR) program has collected
+data on crimes reported to the police and
+on arrests.  These data come from State
+and local law enforcement agencies, and
+for the UCR the FBI developed its own
+agency identifiers. 
+
+Most other Federal data collections,
+including the decennial census and the
+census of governments, use geocodes
+and government entity identifiers
+developed by the Census Bureau or by
+what is now the National Institute for
+Standards and Technology (NIST).
+Because the UCR and other data sources
+do not share place identifiers, analysis of
+crime data in conjunction with data from
+other sources has been difficult.  
+
+To overcome this obstacle, the Bureau of
+Justice Statistics (BJS) and the National
+Archive of Criminal Justice Data (NACJD)
+have created a data file, the Law
+Enforcement Agency Identifiers
+Crosswalk, that lists agencies by the FBI's
+codes as well as the other major
+identifying standards in use today.  This
+report describes this file and its uses.  
+The file is available free of charge from 
+the NACJD.
+
+Origin of the crosswalk 
+
+The immediate need for a crosswalk was
+administration of the Local Law
+Enforcement Block Grant program,
+enacted in 1996, and the Juvenile
+Accountability Incentive Block Grant
+program, enacted the following year.
+
+In both these programs, government
+awards are based on a formula that
+includes a 3-year average of violent
+crimes from the UCR. The juvenile block
+grant program also uses government
+expenditure data from the Census
+Bureau's finance survey files.
+
+-------------------------------------
+Research uses for the Law Enforcement
+Agency Identifiers Crosswalk
+
+The crosswalk opens many opportunities
+for criminal justice research because it
+allows linking UCR offenses known,
+persons arrested, hate crimes, and
+supplementary homicide files to other
+official datasets.  Beyond this linking, 
+the crosswalk makes available the complete
+Federal Information Processing Standards
+(FIPS) geocoding for more complete
+geographic mapping of UCR data than
+previously possible. 
+
+Researchers have always been able to
+aggregate UCR data to the State, county, 
+and metropolitan area using those FIPS
+codes on the UCR tapes.  With the
+crosswalk, however, the more detailed
+FIPS codes and government identification
+(GOVID) codes on the crosswalk allow
+more detailed analyses at finer
+geographic levels. The GOVID also allows
+analysis of multiple datasets, further
+enriching analytic possibilities. 
+
+Using the GOVID researchers can link
+UCR data to --
+
+*  BJS surveys and censuses of correctional 
+programs that collect data on facility 
+operations and staffing as well as about 
+inmates
+
+*  Census Bureau's Governments Division
+files on government finance, expenditure,
+and employment, especially the quinquennial 
+Census of Governments, last done in 1997, 
+that collects data on all known governments 
+rather than a sample
+
+* the Federal Assistance Award Data
+System of the Census Bureau's
+Governments Division that produces
+datasets on all types of Federal financial
+assistance awards to all types of
+recipients.   
+
+Using the FIPS codes researchers can
+link the UCR files to data sets from the
+Census Bureau, Bureau of Labor
+Statistics, and other Federal agencies,
+including --
+
+*  the Decennial Census of Population and
+Housing, conducted every 10 years, that
+provides data on the full range of
+population and housing information, with
+extensive sociodemographic and
+economic data on persons and
+households, and about the housing stock. 
+
+*  the Current Population Survey that
+provides data on employment, unem-
+ployment, earnings, and hours of work.
+Data are available by demographic
+characteristics, occupation, industry, and
+class of worker. Supplemental questions
+produce data on topics like school
+enrollment, income, previous work
+experience, health, employee benefits,
+and work hours.
+
+*  the Survey of Income and Program
+Participation that provides information on
+source and amount of income; labor force
+participation; participation in income
+supplementing programs such as food
+stamps, pension systems, private health
+insurance coverage, public or subsidized
+rental housing, low-income energy
+assistance, and school breakfast and
+lunch programs; and general demographic
+characteristics.  
+
+*  the National Vital Statistics
+System Mortality Data, Multiple Cause-of-
+Death Public-Use Data Files that provide
+mortality data for cities, counties, and
+standard metropolitan areas. These data
+are produced by the National Center for
+Health Statistics from certificates filed for
+deaths occurring in each State. For
+example, the crosswalk file was used to
+link homicide data from the National Vital
+Statistics System to the FBI's
+Supplementary Homicide Reports for an
+analysis of the agreement between the
+two sources at the county level.***(Brian
+Wiersma and others, "A comparison of
+Supplementary Homicide Reports and
+National Vital Statistics system Homicide
+Estimates for U.S. Counties," Homicide
+Studies, 4,4, Nov. 2000, pp. 317-340.)***
+---------------------------------------
+
+The UCR coding does not associate the
+agency with its parent government.
+The current crosswalk was originally
+designed to link the number of violent
+crimes reported by individual police
+agencies to specific local governments for
+formula grant purposes. 
+
+FBI UCR codes (ORI)
+
+Law enforcement agencies voluntarily
+report summary crime and arrest data
+monthly to the FBI.  Initially most reporting
+agencies were in large cities, and before
+1957 the FBI did not aggregate data, even
+to the national level. Over the years the
+number and types of agencies reporting
+crime have increased. 
+
+Every agency that reports to the UCR is
+assigned a unique Originating Reporting
+Agency Identifier or ORI.  For the most
+part, police agencies have an ORI and
+report crimes, but other agencies -- like
+fire marshals, alcoholic beverage control
+agencies, regional and special purpose
+task forces, Federal agencies, and private
+colleges -- also have law enforcement
+responsibilities and are assigned ORI
+codes.
+
+By design, the ORI codes are the first
+seven digits of the FBI's National Crime
+Information Center (NCIC) number.
+Established in 1967, NCIC is a nationwide
+computerized system that provides law
+enforcement with ready data about
+wanted persons, stolen property, and
+other information.
+
+The ORI codes begin with a two-letter
+State designation which is similar, but not
+identical, to that used by the U.S. Postal
+Service. For example, Nebraska in the
+ORI numbers is NB, whereas the postal
+abbreviation is NE. 
+
+The remaining five digits of the ORI code
+are generally numeric. Depending on the
+State, the first two or three digits identify
+the county within the State and the
+remaining digits identify the reporting
+agency within the county. The last five
+digits sometimes incorporate alpha
+characters, such as SP for State police
+agency, WL for wildlife police, HP for
+highway patrol, and other combinations. 
+
+A government can have more than one
+agency with an ORI code. This is
+particularly true of State governments in
+which the State police have a barracks in
+every county, each with its own ORI code.
+Add to this, State wildlife agencies and 
+alcoholic beverage control agencies, and 
+the number of ORI's assigned to a State can 
+be large. Florida has the most, with 497 
+separate ORI's assigned to the State level 
+of government.
+
+About 96% of the general purpose local
+governments have one ORI in the UCR
+file. But 382 have 2, and New York City
+has 20. Of the 1,873 ORI's in multiple-ORI
+governments, half are in Texas, as a
+result of constables being added to the
+crosswalk from the 1996 Directory of Law
+Enforcement Agencies (DLEA). 
+
+Federal Information Processing 
+Standards (FIPS) codes
+
+FIPS codes were developed to uniquely
+identify geographic and population areas
+such as States, counties, cities,
+Metropolitan Statistical Areas,
+congressional districts, foreign geographic
+entities, and incorporated and
+unincorporated places. More than a single
+code, FIPS refers to standardized
+systems of numeric and/or alphabetic
+coding issued by the NIST, a Department
+of Commerce agency. 
+
+Geographic elements to be assigned
+codes are alphabetized and then assigned
+codes serially, generally with gaps that
+permit additions.***Footnote 1: For FIPS
+information see <http://www.census.gov/geo/
+www/tiger/glossary.html>. See also <http://  
+www.itl.nist.gov/fipspubs/index.htm>.***
+Codes for entities in a State are unique 
+within that State. The basic geographic 
+code formats used in the crosswalk are --
+
+* States -- 2 digits 
+* Counties and county equivalents -- 
+3 digits 
+* Places, including incorporated and
+unincorporated places and Census
+Designated Places -- 5 digits
+* Metropolitan Statistical Areas -- 4 
+digits
+* Consolidated Metropolitan Statistical
+Areas -- 2 digits.
+
+The Census Bureau's Governments
+Integrated Directory and GOVID
+
+The Census Bureau maintains the
+Governments Integrated Directory, a
+listing of all known local governments 
+in the United States. (See http://www.census.
+gov/govs/www/index.html>.)  
+
+The directory includes -- 
+*  3,043 county governments
+* 19,373 municipal governments
+* 16,629 township governments
+* 34,684 special districts such as
+housing and transit authorities
+* 13,726 independent school districts
+* 34,684 special districts such as
+housing and transit authorities
+* 13,726 independent school districts
+that are independent of any other
+government such as a county or a State.
+
+The Census Bureau assigned a unique
+9-digit GOVID code to each of these
+87,000 State and local government
+entities. The GOVID consists of--
+
+  Digit       Content
+  1-2         State ID
+   3          Type of government code
+  4-6         County code
+  7-9         Unit code 
+
+A particularly useful component of the
+GOVID is Government type. This single
+digit identifies --
+
+     Value     Government type
+      0        State                                
+      1        County               
+      2        Municipal 
+     3        Township                         
+      4        Special district
+      5        Independent school district 
+      6        Federal agency
+      7        Tribal                                      
+  
+How ORI relates to FIPS and GOVID
+
+Although the coding schemes have
+similarities, each results in codes that 
+are not the same for a particular agency 
+or locality. For example, Minneapolis City, 
+in Hennepin County, Minnesota, has the
+following codes from the three coding
+schemes included in the crosswalk:
+
+    Minnesota State ID
+    UCR ORI   MN
+    GOVID     24
+    FIPS      27
+
+    Hennepin County ID
+    UCR ORI   027
+    GOVID     027
+    FIPS      053
+
+    Minneapolis City, full ID
+    UCR ORI   MN 027 11
+    GOVID     24 2 027 020
+    FIPS      27 053 43000
+
+Crosswalk description
+
+The crosswalk file contains records for
+over 23,000 agencies. It was created by
+matching electronic files and manually
+looking up agency, government, and
+location information.
+ 
+------------------------------------------- 
+Contents of the crosswalk file
+
+FBI UCR   
+    Originating Agency Identifier (ORI)              
+    Agency Name         
+    Agency Covered By Another ORI Flag          
+    Multiple County Flag     
+    State Code          
+    County Code         
+    County Name         
+    Metropolitan Statistical Area
+    Population Group Code    
+    Population Covered  
+    Reporting Agency Address
+    Reporting Agency Zip Code
+                 
+Bureau of the Census (GOVID)
+   Governments Division State Number        
+   Government ID (Numeric)
+   Government ID (String)   
+   Census Government Type (Or BJS Assigned)      
+   Government Name     
+   Population 1994     
+
+Federal Information Processing Standards (FIPS)        
+    State Code          
+    County Code         
+    Place Code          
+    Metropolitan Statistical Area(MSA) Code         
+    Metropolitan Statistical Area Name          
+    Consolidated Metropolitan Statistical Area 
+    Code (CMSA)
+---------------------------------------------
+
+Three main electronic source files 
+were used:
+
+*  A file supplied by the FBI that contained
+ORI numbers, agency names, and UCR
+State and county codes for every ORI that
+had ever been issued. Mailing addresses
+of most agencies were also included.
+
+*  The BJS Directory of Law Enforcement
+Agencies (DLEA), 1996, that lists all
+active police agencies, regardless of UCR
+participation, with one or more
+part-time or full-time law enforcement
+officers with arrest power (sworn law
+enforcement officers). It was derived from
+a complete enumeration of all State and
+local police agencies in the United States.
+This file contained NCIC numbers as
+reported by the respondent agencies and
+the GOVID. The first seven digits of the
+NCIC number were assumed to be the
+ORI number. The date of this file -- 1996
+-- was the date assigned to the crosswalk
+file.
+
+* The Governments Integrated Directory,
+supplied by the Census Bureau, listed all
+local governments as defined by the
+Census Bureau for general statistical
+purposes -- counties, cities, townships,
+special districts, and independent school
+districts -- with name, address, GOVID,
+and FIPS State, county, metropolitan
+area, and place codes (where applicable).
+
+Through the ORI codes, the FBI file was
+matched to the DLEA file, which contained
+both ORI and GOVID. The result was
+matched to the GID using GOVID. The
+third file that emerged contained ORI,
+GOVID, and FIPS State, county, and
+place variables.
+
+Matches were obtained for 62% of the
+23,000 records in both the UCR and
+DLEA files. A few thousand records from
+each file remained unmatched.
+For most nonmatches, the agency was
+included in either the FBI file or the DLEA
+file. 
+
+In a few instances the ORI code in the
+DLEA differed from the ORI in the UCR.
+After verifying that the two records were
+from the same agency, the ORI from the
+UCR was used. 
+
+                 Number 
+Source           of records   Percent
+ Total            23,170       100.0%
+UCR and DLEA      14,313        61.8
+UCR only           4,418        19.1
+DLEA only          4,439        19.2
+ 
+It was apparent from agency names and
+the absence of UCR reporting that many
+agencies in the UCR files no longer exist.
+In addition, the ORI dataset includes
+some Federal agencies such as China
+Lake Naval Air Weapons Station,
+California, and Butner Federal prison in
+North Carolina, regional task forces,
+private colleges, and so on that do not
+meet the DLEA definition of a State or
+local law enforcement agency. 
+
+Of the agencies in the DLEA that do not
+match an ORI from the UCR, about 3,000
+of these have an ORI derived from the
+first seven digits of the NCIC number they
+reported in the DLEA census. A police
+agency can have an NCIC number
+assigned for participation in the NCIC
+program but not have an ORI because
+they do not participate in the UCR
+program.
+
+In addition, the DLEA lists only the main
+or headquarters offices and not individual
+branches for multibranch agencies, such
+as State police. The FBI lists all branches.
+
+Agencies covered by another ORI 
+
+Some police agencies report data to the
+UCR program for other localities.
+Sometimes this results from one
+jurisdiction contracting with another for
+police protection services rather than
+having its own police force.  In other
+cases the arrangement may be less
+formal. In these situations the reporting
+agency may include the crime and arrest
+data in its own reports or may report
+separately using the other agency's ORI
+number. 
+
+Overall, about 10% of the general purpose
+local government  agencies in the UCR
+files indicate that they are covered by
+another reporting agency, but many of
+these agencies appear to no longer
+operate; that is, the jurisdiction once had
+a police agency with an ORI number in
+the UCR system but has ceased to exist.
+About half of the agencies in the UCR
+coded as covered by another agency
+were not detected during the 1996 DLEA.
+
+Whether an ORI is covered by another
+reporting agency is indicated on the UCR
+and crosswalk files. This varies by the
+type of government: 3.8% of county ORIs,
+11.5% of municipal ORIs, and 17% of
+township ORIs are coded as covered by
+another reporting agency.
+
+Manual matches
+
+Nonmatched records were manually
+looked up in the Governments Integrated
+Directory file for the GOVID and FIPS
+codes.  Because almost all police
+agencies have a geographic reference in
+their name, this identifier of political
+geography and not the mailing address
+was used to find the FIPS place code. For
+example, a county sheriff's office may
+have a mailing address of a city within the
+county. Typically, a county encompasses
+a city, and the true geographic area the
+agency covers is the larger county. 
+
+Complicating the manual lookup was
+confusion of place names; many
+counties have localities that share their
+names with localities in other counties in
+the same State. Even within some
+counties the same name may refer to
+three localities: a city, a township, and a
+village. If an agency was definitely linked
+to a geographic area, that area's FIPS
+codes were assigned to that agency.
+Similarly, if the agency could be
+definitely linked to a government, that
+government's GOVID was added to the
+file for that agency record.
+
+Special situations
+
+State police. The crosswalk file contains
+both State police headquarters and
+branch locations, each with its own ORI
+and separate record. The GOVID for all
+State police agencies is that of their State
+government. The FIPS codes listed for
+branches of the State police are based on
+the area that the branch covers. For
+example, the Michigan State Police --
+Washtenaw County (ORI MI81081) is
+assigned the State of Michigan's GOVID
+and the FIPS place code of Washtenaw
+County. In other instances a State police
+branch may be assigned to a city, and the
+city FIPS place code is used. Headquarters 
+are given a separate FIPS place code (98000) 
+to indicate that they are not a branch office. 
+Analysts may, of course, recode these values 
+to meet their own needs.
+
+Colleges and universities. Many
+colleges and universities, both public and
+private, have their own police
+departments. Often the location of the
+university can be determined from its
+mailing address. For example, the
+University of Michigan Department of
+Public Safety covers the campus in Ann
+Arbor. The place code for the city of Ann
+Arbor was assigned to this agency,
+although the agency covers an area that
+is smaller than the one the FIPS place
+code represents. 
+
+With multibranch campuses it is not
+always possible to determine the location
+from the address. A FIPS place code was
+assigned only when it was certain that the
+agency's jurisdiction was confined to the
+campus within the place. 
+
+The GOVID's listed for college and
+university police agencies are the
+GOVID's of the government that created
+them. This is most often the State GOVID
+for public colleges and universities, or less
+frequently it is a county, city, or special
+district GOVID. Colleges and universities
+are either coded with a specific
+government type when it was apparent
+from the name or coded with 9 for
+university/college in the government type
+code.
+
+Independent school districts.  These
+districts matched electronically only if 
+they were in the UCR file and their ORI
+numbers were in the DLEA file.  Several
+States have independent school districts
+that the Census Bureau considers to be
+local governments, as distinguished from
+school districts that are dependent
+agencies of county governments. Some
+independent school districts have police
+agencies. These agencies were given the
+GOVID of their parent government
+whenever possible. Some colleges are
+also considered to be independent school
+districts. They were given their parent
+government's GOVID. In many instances
+the parent government could not be
+identified, but the government type was
+apparent and was coded accordingly. 
+
+Special districts.  Special districts
+include hospital districts, port authorities,
+airport authorities, transportation
+authorities, and rail and tunnel authorities.
+The prevalence of these special districts
+varies greatly by State. Like independent
+school districts, special districts matched
+electronically only if they were in the UCR
+file and their ORI numbers were available
+from the DLEA file, which included active
+special district police agencies. 
+
+However, there were many instances
+when a special police agency was listed in
+the UCR files without a match to the
+DLEA. In the crosswalk file there are
+approximately 250 special district
+agencies that could not be electronically
+matched by ORI number or manually
+matched to a parent government based
+on names and addresses. The FIPS place
+code listed with these agencies is based
+on the main geographic area that it
+serves.  For example, many railroad
+police contained a county name in the
+agency name on the UCR file, and the
+FIPS code for that county was used.
+
+Census designated places (CDP's).  
+CDP's are densely settled populations
+that have a name but are not legally
+incorporated. The Census Bureau does
+not consider them to be governments.
+Their boundaries, which usually coincide
+with visible features or the boundary of an
+adjacent incorporated place, have no legal
+status.***Footnote 2: 1990 Census of 
+Population and Housing, Summary Tape File
+3, Technical Documentation, December 1991.***      
+
+No elected officials serve traditional
+municipal functions for these areas. Given
+the above definition, CDP's were not listed
+in the Census Bureau's directory file, but
+some were listed on the UCR file.  FIPS
+place codes for them were obtained from
+the Census Bureau and included in the
+file. 
+
+Indian tribes.  The Census Bureau has
+assigned GOVID's to all tribal police
+agencies that have law enforcement
+functions as defined for the DLEA; those
+agencies were included in the crosswalk.
+Many of the Nation's 567 federally-recognized 
+tribes do not have a tribal police agency. 
+The Bureau of Indian Affairs, State police, 
+or a local sheriff perform law enforcement 
+functions for them. Consequently, these tribes 
+do not have a law enforcement agency specific
+to them in the crosswalk. 
+
+Tribal police records differ from other
+records in the crosswalk file in two ways:
+
+*  ORI. Not all tribal police agencies had
+ORI codes in the UCR or DLEA files.
+When an actual ORI for a tribal agency
+did not exist or when there were multiple
+ambiguous ORI's, an ORI was assigned
+to the tribal agency in the crosswalk file
+using the following hierarchy: UCR files,
+DLEA files, the local law enforcement and
+juvenile accountability block grant formula
+files, and missing data. In some instances
+for tribes without an actual ORI, an ORI
+was constructed for a tribal agency for
+block grant formula purposes by using the
+two-digit UCR State code followed by
+"TRIB" and "1," "2," and so on.
+
+*  FIPS codes. Tribal police agencies have
+been arbitrarily assigned a FIPS place
+code of 97000.
+
+Future routine crosswalk maintenance
+
+Routine periodic maintenance is needed
+because the crosswalk quickly becomes
+outdated. The next overall update is
+scheduled to follow the completion of the
+2000 Directory of Law Enforcement
+Agencies census in 2001. Thereafter, the
+DLEA is expected to be repeated every 4
+years. Some types of change that will
+affect the crosswalk include:
+
+*  Change in DLEA definition of local
+law enforcement agency. The 1996
+DLEA included all publicly funded police
+and sheriffs' departments that employed
+at least one full-time or part-time sworn
+officer with general arrest powers. The
+2000 DLEA will include only those
+agencies that are publicly funded and
+employ the equivalent of at least one
+full-time sworn officer. An agency will 
+be included if it employs two or more
+half-time officers, but not if it employs 
+only one part-time officer and no full-time
+officers. This change is designed to
+reduce the number of law enforcement
+agencies with very restricted responsibilities.  
+In Texas, for example, a constable may be an 
+office with a single person who performs 
+limited law enforcement duties only a few 
+days a month. The 1996 DLEA has 540 agencies
+with less than 1 full-time equivalent sworn
+officer (counting part-time as .5), and
+these appear to not have matches in the
+UCR. 
+
+*  Moving to a nine-digit ORI.  States
+and localities are implementing the
+National Incident Based Reporting System
+(NIBRS), creating a record for each crime. 
+Currently, UCR summary data are
+extracted from the NIBRS records. NIBRS
+includes a nine-digit ORI code. To ensure
+that each ORI code is unique, the FBI will
+move to using nine-digit ORI codes.  For
+consistency the crosswalk will also need
+to include the nine-digit ORI code.
+
+*  Creation of new agencies. In 1997 the
+FBI added 182 new ORI's across 22
+States.  These new ORI codes are not
+included in the crosswalk because it has
+a 1996 reference date. Why these were
+added seems to depend on the State, and
+it is doubtful that they all represent local
+law enforcement agencies meeting the
+BJS DLEA definition. For example,
+Tennessee added 62 colleges/universities, 
+25 drug task forces, and 26 ORI's for the 
+Tennessee Technical Centers in 26 locations. 
+Most of these are not reporting any violent 
+crime, but there were several that appear 
+to be new agencies.  These agencies are being
+surveyed for the 2000 DLEA to see if they
+meet the DLEA definition of a local law
+enforcement agency.
+
+*  Out-of-service ORI's. The crosswalk
+file contains records of two law
+enforcement agencies known to have
+been decommissioned since the 1996
+DLEA. Agencies may be defunct, for
+example, when a municipal government
+decides to contract with the county for
+police services rather than to maintain 
+its own police force. Police departments
+cease to exist, or an ORI was assigned to
+a regional task force that has completed
+its work, and so on. It would be helpful 
+for a variety of purposes to code these
+agencies as no longer operational.
+
+*  Abolished or created governments.
+The Massachusetts legislature recently
+abolished seven county governments and
+assigned their police protection functions
+to the State government. Conversely,
+States periodically establish new cities
+and towns. The Census Bureau continually 
+monitors State legislatures for such changes 
+and updates the directory files as changes 
+occur.  These will be reflected in the 
+crosswalk.
+
+Keeping the crosswalk current will be
+fairly straightforward. But, for describing
+trends, it may be necessary to devise a
+scheme to cover situations like those
+described above. 
+
+Future special efforts
+
+Aside from routine maintenance, future
+efforts include these areas where
+additional work is needed:
+
+*  Railroad police. Based on agency
+names, the file contains some 225 records
+for railroad police, usually 1 for each
+county in which a railroad operates. These
+all come from the UCR files, and none
+matches to the DLEA files. Most probably
+no longer exist. A special research project
+may be needed to address these
+situations.
+ 
+*  Colleges and universities. The current
+crosswalk has 70 colleges and
+universities that could not be linked to a
+parent government based on name; many
+of these are private schools. The U.S.
+Department of Education (DEd) directory
+of all colleges and universities indicates
+whether a school is private or public, and,
+if public, which government operates it.
+Using the DEd directory, the Census
+Bureau has created a file containing
+GOVID for public colleges and universities
+that will be electronically matched to the
+crosswalk in the future. The remaining
+private colleges and universities will be
+coded manually using the DEd directory. 
+
+Appendix 1. ORI codes and county
+identifiers
+
+For most jurisdictions, the first three digits
+after the two-letter State identifier of the
+ORI code represent the numeric county
+code. However, this is not always the
+case .  
+
+Of the 3,011 State police agencies on the
+crosswalk file from the UCR:
+*  68% match on the UCR county code
+and the 3rd-5th digits of the ORI code
+*  172 (about 6%) use alpha characters
+such as SP (State Police) or HP
+(Highway Patrol) in the county field of
+the ORI 
+*  110 have no UCR county code on the
+UCR files
+*  670 (22%) have a county code that
+does not match for any apparent reason.
+
+For general purpose local governments,
+83% of the appropriate county digits in the
+ORI numbers matched the UCR county
+code on the UCR files, but these varied
+greatly by State, with some States always
+matching and others never matching:
+
+*  19 States have 100% match between
+the UCR county code and the 3rd-5th
+digits of the ORI code
+
+*  11 States never or rarely match
+
+*  12 States match except for a few large
+cities that incorporate alpha characters
+in their ORI code.  For example, 
+Indianapolis's ORI is INIPD00, and
+Newark's is NJNDP00. Perhaps codes
+were assigned to these early
+participants in the UCR program before
+the standardized ORI coding scheme
+was developed. 
+
+*  8 additional States seem to follow the
+coding convention but have exceptions.
+In some cases a few nonmatches
+appear to be due to coding errors in the
+county code; in other instances it
+appears that the county code is correct,
+but the ORI county portion of the ORI
+code uses a different county number
+than the one in the county code variable.
+
+For special police agencies and
+universities that are not a part of State
+government, the ORI code matches the
+UCR county code about 70% of the time.
+
+Appendix 2. Comparing FBI population
+groups to Census type of government
+
+The FBI identifies each agency according
+to population groups that are used to
+present data and calculate estimates in
+Crime in the United States.   These
+groupings primarily identify if the agency
+serves a city or county and the population
+of the area it serves. It also stratifies
+counties according to whether they are in
+Metropolitan Statistical Areas, which the
+Census Bureau generally designates as
+urban areas with a center city of at least
+50,000 population.  
+
+The Census Bureau's Governments
+Division codes were compared to the FBI
+Population Groups for counties and cities. 
+Of those agencies classified as county
+agencies by the UCR -- 
+*  56% are also classified as counties by
+the Census Bureau  
+*  39% are classified as State agencies 
+*  5% are classified as other types of
+government.
+
+Of those agencies classified as city
+agencies by the UCR --
+*  79% are classified as municipal
+agencies by the Census Bureau
+*  14% are classified as townships
+*  5% are classified as State agencies.
+
+-----------------------------------------
+Abbreviations related to the crosswalk
+
+CDP    Census Designated Place
+CMSA   Consolidated Metropolitan Statistical Area
+Ded    U.S. Department of Education
+DLEA   Directory of Law Enforcement Agencies
+FAADS  Federal Assistance Awards Data System 
+FIPS   Federal Information Processing Standards
+FTE    Full-time Equivalent
+GID    Governments Integrated Directory
+GOVID  Government Identification
+JAIBG  Juvenile Accountability Incentive Block Grant
+LLEBG  Local Law Enforcement Block Grant
+MSA    Metropolitan Statistical Area
+NACJD  National Archive of Criminal Justice Data
+NCIC   National Crime Information Center
+NIBRS  National Incident-Based Reporting System
+NIST   National Institute of Standards and Technology
+NVSS   National Vital Statistics System 
+ORI    Originating Agency Identifier (FBI-UCR)
+SIPP   Survey of Income and Program Participation
+UCORI  A locality's crime is reported to Uniform Crime 
+       Reporting program by another agency 
+UCR    Uniform Crime Reporting program
+USPS   United State Postal Service
+--------------------------------------------
+
+-----------------------------
+How to obtain the Law 
+Enforcement Agency Identifiers
+Crosswalk, 1996
+
+On the Internet --
+*  Go to the website of the National
+Archive of Criminal Justice: 
+<www.icpsr.umich.edu/NACJD>
+*  Click on "Download Data"
+*  Enter study number 2876 in the box on
+left
+*  Click on "Enter"
+*  Answer questions (first time only) and
+email address
+*  List of files is presented
+*  Click on "Uncompressed" to browse
+*  Use "shift-click" to download.
+-------------------------------
+
+----------------------------------------
+Sources of data
+
+BJS and UCR files are available at
+NACJD <www.icpsr.umich.edu/ NACJD>.
+Census Bureau files are available at
+<www.census.gov>.  The Census Bureau
+website describes other datasets that may
+interest researchers and analysts looking
+for data to be analyzed with UCR data. 
+Selected census files and data from other
+government agencies are available at
+NACJD's parent organization, the
+Inter-university Consortium for Political
+and Social Research at
+<www.icpsr.umich.edu>.  The National
+Vital Statistics System data are available
+from the National Center for Health
+Statistics -- 
+<www.cdc.gov/nchs>.
+--------------------------------------------
+
+The Bureau of Justice Statistics 
+is the statistical agency of the U.S.
+Department of Justice.  Lawrence A.
+Greenfeld is acting director.
+
+Sue A. Lindgren and Marianne W. Zawitz,
+BJS, wrote this Technical Report.  Tom
+Zelenock, BJS Team Leader, under the
+supervision of Chris Dunn, Director,
+NACJD of ICPSR at the University of
+Michigan, conducted the electronic
+merging of files and the many manual
+lookups. He also prepared much of the
+documentation and codebook.  Stephen
+D. Owens, Governments Division, U.S.
+Census Bureau, provided the
+Governments Integrated Directory file,
+supplied technical assistance in its use,
+and reviewed this report.  Brian A.
+Reaves, BJS Statistician, oversaw the
+development of the Directory of Law
+Enforcement Agencies and answered
+many questions about it.
+
+Kenneth Candell of the Criminal Justice
+Information Services Division of the FBI
+under the direction of William C. Temple,
+Chief, Programs Support Section,
+reviewed this report. 
+
+May 2001, NCJ 185233
+
+End of file
+05/24/01 ih
+

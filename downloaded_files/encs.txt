@@ -1,0 +1,1191 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+special Report
+
+Effects of NIBRS
+on Crime Statistics
+
+
+July 2000, NCJ 178890
+
+--------------------------------------------------------
+This file is text only without graphics and many of the 
+tables.  A zip archive of the tables in this report in 
+spreadsheet format (.wk1) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/enibrsc.htm
+--------------------------------------------------------
+
+By Ramona R. Rantala
+BJS Statistician
+with technical support from
+Thomas J. Edwards
+FBI Systems Analyst
+
+--------------------------------------------------------    
+Highlights
+
+Differences between 
+Summary UCR and NIBRS
+
+Summary UCR
+* Consists of monthly aggregate crime 
+counts for eight Index crimes
+*  Records one offense per incident as 
+determined by hierarchy rule
+*  Hierarchy rule suppresses counts of 
+lesser offenses in multiple-offense incident
+*  Does not distinguish between attempted and 
+completed crimes
+*  Applies hotel rule to burglary
+*  Records rape of females only
+*  Collects weapon information for murder, 
+robbery, and aggravated assault
+*  Provides counts on arrests for the 8
+Index crimes and 21 other offenses.
+
+NIBRS
+*  Consists of individual incident records 
+for the 8 Index crimes and 38 other offenses 
+with details on --
+
+*  Offense         * Victim
+*  Offender        * Property
+*  Records each offense occurring in 
+incident
+*  Distinguishes between attempted and 
+completed crimes
+*  Expands burglary hotel rule to include 
+rental storage facilities
+* Records rape of males and females
+* Restructures definition of assault
+* Collects weapon information for 
+all violent offenses
+* Provides details on arrests for the 8 
+Index crimes and 49 other offenses.
+
+Sources of data discrepancies 
+between Summary UCR and NIBRS
+
+Human error
+Misclassifications of --
+*  Aggravated assault
+*  Motor vehicle theft
+*  Larceny
+
+Hierarchy
+*  Suppression of multiple offenses by 
+hierarchy rule
+
+Operational
+*  Modified offense definitions
+*  Converting State penal code 
+to FBI crime definitions
+*  Over-reporting because of  State practices
+*  Recording every possible offense with which 
+offender may be charged
+
+Computer
+*  Inadequate programming
+---------------------------
+
+When comparing data from the same year for the 
+jurisdictions in this study, NIBRS rates differ 
+only slightly from Summary UCR --
+
+*  Murder rates are the same
+*  Rape, robbery, and aggravated assault rates 
+in NIBRS are about 1% higher, on average, than 
+in Summary UCR
+*  NIBRS burglary rates are lower by an average 
+0.5%
+*  NIBRS larceny rates are higher by an average 
+3.4%
+*  NIBRS motor vehicle theft rates are higher by 
+an average 4.5%.
+
+----------------------------------------------------------
+
+In 1929 the FBI began the Summary Uniform 
+Crime Reporting (UCR) system, a voluntary 
+program to collect aggregate counts of Index 
+crimes -- murder, rape, robbery, aggravated 
+assault, burglary, motor vehicle theft, larceny, 
+and, after 1978, arson.
+
+" . . . [T]he Summary system of the UCR Program 
+has been very serviceable since its inception in 
+1929, " the FBI notes, "but it pales next to the 
+capabilities and potential of the National Incident
+-Based Reporting System (NIBRS).***Footnote"1: FBI, 
+CJIS Newsletter, NIBRS edition, 4, 1, p 1.***
+
+"In developing NIBRS, UCR Program managers have 
+provided law enforcement agencies with a 
+standardized, electronic blueprint for storing 
+the NIBRS data within their individual records
+management systems....  The goals of NIBRS are 
+to enhance the quantity, quality, and timeliness 
+of crime data collection ...and to improve the 
+thodology used in compiling, analyzing, auditing, 
+and publishing the collected crime 
+statistics.***Footnote"2: CJIS Newsletter, p.2.***
+
+As jurisdictions switch from the Summary UCR 
+system to NIBRS, many have expressed concern 
+about the effects incident-based reporting will 
+have on crime statistics.  Under Summary UCR 
+agencies report only the most serious Index 
+offense per incident of crime.  Because of 
+the new type of crime classification procedures 
+in NIBRS, in a multiple-offense incident more 
+than one offense will be reported.  Jurisdictions 
+are concerned about the effect this more thorough 
+reporting will have on their crime statistics.  
+
+Comparing crime rates from 
+Summary UCR and NIBRS
+
+Research for this report measured differences 
+between estimats of the aggravated assault rate, 
+comparing NIBRS to summary format, and identified 
+possible causes of those differences. Differences 
+in the rates for six other Index crime categories
+are examined to compare with aggravated assault.  
+Arson, which the FBI reports in the "Modified 
+Index" but not the Index crime figures, is not 
+included.
+
+The Bureau of Justice Statistics (BJS) selected 
+jurisdictions with full-year NIBRS reporting and 
+nonzero populations (that is, including agencies 
+with a specific population, such as a local police 
+department or sheriff's office, and generally 
+excluding State or county police).  In 1991, 269 
+agencies, covering a population of 4.1 million, 
+met the criteria.  By 1996, full-year NIBRS 
+participation had increased to 1,082 agencies, 
+covering a population of 14.8 million.  The 
+data came from nine NIBRS- certified States 
+(Idaho, Iowa, Massachusetts, Michigan, North 
+Dakota, South Carolina, Utah, Vermont, and 
+Virginia).
+
+Each agency is represented for each year in 
+which it met the selection criteria.  Although 
+156 agencies had a single year of data, the 
+rest of the agencies met the criteria for more 
+than 1 year.  The term "case" in this report 
+refers to an "agency-year."  A case includes 
+both NIBRS and Summary UCR aggregate crime
+counts within each agency for each year an 
+agency reported 12 months of NIBRS data.   A 
+total of 4,068 cases, comprising 1,131
+unique agencies, met these selection criteria.
+
+Two  FBI datasets were used.  In the first 
+dataset, the FBI provided NIBRS offense counts 
+aggregated by agency from 1991 to 1996.  Ten 
+crime categories, as defined in the Summary UCR
+program, were included.
+
+Through a computer program the FBI applied the 
+hierarchy rule and converted the NIBRS counts 
+to Summary UCR counts.  This process resulted 
+in two crime counts, NIBRS and Summary UCR, for
+each crime category, agency, and year. 
+
+The second data set was the 1996 NIBRS incident 
+file.  This file provided detail at the incident 
+level, such as which crimes occurred in 
+combination for multiple offense incidents and 
+the number of victims and offenders.  These 
+details help explain some of the crime rate 
+differences.  
+
+Overall results
+
+When the crime rates were calculated from NIBRS 
+and Summary UCR data, the average difference 
+between estimates was small.  On average the 
+NIBRS Index crime rate was 2% higher.  The 
+violent crime rate was higher by less than 
+1%, and the property crime rate was higher 
+by  slightly more than 2%, on average.
+
+---------------------------------- 
+Table 2. Offense categories for Summary 
+UCR and NIBR 
+
+Summary UCR
+
+Offenses and arrests are reported  
+for the following, listed in hierarchical  
+order:
+Part I (Index) offenses
+ 
+Murder
+Forcible rape
+Robbery
+Aggravated assault
+Burglary C breaking or entering
+Motor vehicle theft
+Larceny
+Arson (not subject to the hierarchy 
+rule)
+ 
+Arrests only are reported for the 
+following:
+Part II offenses
+ 
+Curfew and loitering law violations
+Disorderly conduct
+Driving under the influence
+Drug abuse violations
+Drunkenness
+Embezzlement
+Forgery and counterfeiting
+Fraud
+Gambling
+Liquor laws
+Offenses against family and children
+Other assaults
+Prostitution and commercial vice
+Runaways
+Sex offenses (except forcible rape
+and prostitution)
+Stolen property: buying, receiving, possess
+Suspicion
+Vagrancy
+Vandalism
+Weapons: carrying, possessing, other
+All other offenses (except traffic)
+ 
+NIBRS
+
+Offenses and arrests are reported for the
+following, for which a hierarchy does not
+apply:
+Group A offenses
+
+Arson
+Assault offenses
+Bribery
+Burglary/breaking and entering
+Counterfeiting/forgery
+Destruction/damage/vandalism
+of property
+Drug/narcotic offenses
+Embezzlement
+Extortion/blackmail
+Fraud offenses
+Gambling offenses
+Homicide offenses
+Kidnaping/abduction
+Larceny/theft offenses
+Motor vehicle theft
+Pornography/obscene material
+Prostitution offenses
+Robbery
+Sex offenses, forcible
+Sex offenses, nonforcible
+Stolen property offenses
+Weapon law violations
+ 
+Arrests only are reported for
+the following:
+Group B offenses
+ 
+Bad checks
+Curfew/loitering/vagrancy
+Disorderly conduct
+Driving under the influence
+Drunkenness
+Nonviolent family offenses
+Peeping Tom
+Runaways
+Trespassing
+All other offenses
+------------------------------
+
+For murder, rates from NIBRS and Summary 
+UCR are the same because both systems count 
+each homicide and manslaughter victim and 
+exclude justifiable homicide.
+
+Rape, robbery, and aggravated assault rates 
+each had an average difference of less than 
+1% between NIBRS and Summary UCR statistics.  
+
+NIBRS burglary rates were lower an average 
+of 0.5%.  Burglary is the only individual 
+crime category in which the NIBRS rate can
+be lower than Summary UCR.  (See page 5.)  
+Larceny rates were higher by slightly more 
+than 3% and motor vehicle theft rates by
+4.5%, on average.
+
+Individually, most cases studied showed only 
+slight differences between NIBRS and Summary 
+UCR estimates.  For murder, 100% of the cases 
+had identical murder rates from the two counting 
+methods.
+
+                       NIBRS crime rates differ
+                       from Summary UCR
+                       by 5.5% or less
+                        Number      Percent of
+                        of cases*   all cases
+All Index offenses        3,661        90%
+ 
+Violent offenses          3,937        97
+Murder                    4,068       100
+Rape                      3,957        97
+Robbery                   3,954        97
+Assault                   3,970        98
+ 
+Property offenses         3,643        90
+Burglary                  3,953        97
+Motor vehicle theft       3,234        80
+Larceny                   3,569        88
+ 
+*Cases are "agency-years" C agencies
+that submitted 12 months of NIBRS data
+for a year.
+ 
+In 3,970 cases of aggravated assault, 98% 
+of all cases, the difference between the 
+rates from NIBRS and Summary UCR was 5.5%
+or less. Results for rape, robbery and 
+total violent crime were similar, with 
+97% of cases showing differences of 5.5% 
+or less 
+
+The results for property crime varied.  
+The proportion of cases having a rate 
+change of 5.5% or less was 97% for burglary, 
+80% for motor vehicle theft, and 88% for 
+larceny.  Overall, 90% of cases showed rate 
+changes of 5.5% or less for both total
+property and total index crime.  
+
+Jurisdictions with little crime tend to show 
+exaggerated changes in crime rates.  For 
+example, a jurisdiction that experienced in
+a year two robberies, one of which was in 
+conjunction with a murder, would count one 
+robbery under Summary UCR and two under
+NIBRS.  Though the actual count differed by 
+one, the percent difference was 100%.  Such 
+jurisdictions should rely on the actual 
+numbers rather than percent differences to 
+express changes in measurement or over time.
+
+Differences in data collection and 
+crime classification between
+NIBRS and Summary UCR 
+
+Data collection
+
+In Summary UCR, for each of the seven Index crime
+classifications monthly totals are reported on 
+five elements: offenses reported or known to police 
+(including "unfounded" offenses and attempts); 
+unfounded, that is, false or baseless complaints; 
+number of actual offenses (including attempts);
+total offenses cleared by arrest or exceptional 
+means; and number of clearances involving only 
+persons under age 18.  
+
+UCR collects weapon information for murder, 
+robbery, and aggravated assault.  Attempts are 
+distinguished from completed crimes only for 
+forcible rape.  Murder attempts are reported as
+aggravated assault for both Summary UCR and 
+NIBRS.  Both systems also count each victim 
+of violent offenses.  For example, if an
+offender with a weapon simultaneously injures 
+two victims in an assault, both systems would 
+record two aggravated assaults.
+
+In incidents with multiple offenses, Summary 
+UCR records only the most serious offense, as 
+determined by the hierarchy rule. Reported 
+separately, arson is not subject to the hierarchy 
+rule and is not included in this study.
+
+Collected information on stolen property provides 
+the number of offenses and the monetary value of 
+property stolen for each Index crime.  These totals 
+are recorded by where a robbery took place; whether 
+a burglary occurred at a residence or nonresidence, 
+night or day; nature of larcenies; recovery of
+motor vehicles.  Summary UCR collects monetary 
+value of stolen and recovered property by type 
+of property on a supplemental form.
+
+Arrest data are collected for 21 Part II 
+offenses as well as the 8 Index crimes.
+
+Instead of collecting aggregate counts 
+by offense category, NIBRS collects detailed 
+information by crime incident, including 
+offense, victim, offender, property and 
+arrest information. Each incident is assigned 
+a number for identifying all information 
+that pertains to it.
+
+Details are collected for each occurrence 
+within 8 Index and 38 other specific Group 
+A offenses in NIBRS.  (For a list of specific 
+Part I, Part II, Group A, and Group B offenses,  
+These details include information on weapons, 
+location, time of day, alcohol or drug use by 
+offender and hate/bias motivation. Attempts 
+are distinguished from completed crimes for 
+all offenses.  In incidents with multiple 
+offenses, all offenses are reported.
+
+Data collected on each victim, offend-er, and 
+arrestee include age, sex, and race.  Relationship 
+of victim to offender is noted.  NIBRS also 
+collects detailed information on type, value,
+description and recovery of property; type and 
+quantity of drugs; and number of stolen and 
+recovered motor vehicles.
+
+Arrest data are collected for 
+11 Group B offenses in addition to 
+the 22 Group A offense categories.
+
+Crime classification
+
+Summary UCR and NIBRS differ in how they 
+classify or define several types of crimes.  
+
+Justifiable homicide is first recorded as murder 
+in Summary UCR, then as unfounded.  NIBRS records 
+justifiable homicide separately, not including 
+it with murder and manslaughter. Neither includes 
+justifiable homicide in total counts, so that
+homicide statistics are not affected. 
+
+Other differences affect numbers of specific 
+offenses.  NIBRS includes male victims of 
+female offenders in  forcible rape, which 
+would account for part of the higher rate 
+that was observed.
+
+----------------------------------
+Table 3.  Information that NIBRS records on 
+each crime incident
+ 
+Administrative segment:
+1 ORI number
+2 Incident number
+3 Incident date/hour
+4 Exceptional clearance indicator
+5 Exceptional clearance date
+ 
+Offense segment:
+6 UCR offense code
+7 Attempted/completed code
+8 Alcohol/drug use by offender
+9 Type of location
+10 Number of premises entered
+11 Method of entry
+12 Type of criminal activity
+13 Type of weapon/force used
+14 Bias crime code
+ 
+Property segment:
+15 Type of property loss
+16 Property description
+17 Property value
+18 Recovery date
+19 Number of stolen motor vehicles
+20 Number of recovered motor vehicles
+21 Suspected drug type
+22 Estimated drug quantity
+23 Drug measurement unit
+ 
+Victim segment:
+24 Victim number
+25 Victim UCR offense code
+26 Type of victim
+27 Age of victim
+28 Sex of victim
+29 Race of victim
+30 Ethnicity of victim
+31 Resident status of victim
+32 Homicide/assault circumstances
+33 Justifiable homicide circumstances
+34 Type of injury
+35 Related offender number
+36 Relationship of victim to offender
+ 
+Offender segment:
+37 Offender number
+38 Age of offender
+39 Sex of offender
+40 Race of offender
+ 
+Arrestee segment:
+41 Arrestee number
+42 Transaction number
+43 Arrest date
+44 Type of arrest
+45 Multiple clearance indicator
+46 UCR arrest offense code
+47 Arrestee armed indicator
+48 Age of arrestee
+49 Sex of arrestee
+50 Race of arrestee
+51 Ethnicity of arrestee
+52 Resident status of arrestee
+53 Disposition of arrestee under 18
+-----------------------------------
+ 
+Because assault is integral to all violent 
+offenses, it is unaffected by the hierarchy 
+rule in single-victim incidents. Moreover, 
+the definition of aggravated assault is 
+essentially the same for both reporting 
+systems.  The difference in treatment of 
+aggravated assault by the two systems lies 
+in classification and recording.  Summary 
+UCR collects assaults in five categories:  
+firearm; knife or cutting instrument; other
+dangerous weapon; hands, fists, feet, and 
+so on; and other   simple, not aggravated.  
+Though presence of a weapon indicates
+aggravated assault, if an incident results 
+in only minor injuries and no information 
+about the weapon is recorded, then it may 
+be misclassified as a simple assault.
+
+NIBRS restructures assault into three categories:  
+aggravated, simple, and intimidation.  The 
+collection of these characteristics by incident 
+and a broader collection of weapon
+information reduce the possibility of 
+misclassification.  
+
+Expanding the hotel rule for NIBRS had more 
+impact on crime statistics.  The hotel rule 
+applies to "[b]urglaries of hotels, motels, 
+lodging houses, and other places where
+lodging of transients is the main purpose 
+. . . This principle of scoring dictates that 
+if a number of dwelling units under a single 
+manager are burglarized and the offenses are 
+most likely to be reported to the police by 
+the manager rather than the individual tenants, 
+the burglary should be scored as one
+offense.***Footnote"3: FBI, UCR Hnadbook, 
+1984, p.20.***
+
+NIBRS expands the hotel rule to include 
+temporary rental storage facilities, such 
+as "mini-storage" and "self-storage"
+buildings.***Footnote 4: FBI, UCR Handbook,
+NIBRS ed., 1992, p. 13.***  If some mini- 
+storage lockers under the same management are 
+broken into, Summary UCR would count each as 
+a separate burglary whereas NIBRS could count 
+them as one.  The lower burglary rates in 
+NIBRS indicate the frequency of this type 
+of break-in.
+
+Distributions
+
+For total Index crime, the distribution of 
+rate changes shows that 92.5% of the cases 
+have rate difference between -0.5% and 15.5%.  
+Burglary rates that were lower in NIBRS than 
+in Summary UCR could influence total property 
+and total Index crime rates to the degree that 
+they also could have negative values.  Almost
+48% of the cases differed from -0.5% to +0.5% 
+in crime rates, comparing NIBRS to Summary UCR; 
+39% of all cases had no change.  Cases whose 
+rate was lower when comparing NIBRS counts to
+Summary UCR counts comprised 4.9% of all cases 
+studied. Overall, 96.4% of all cases had an 
+index crime rate difference of +15.5% or less.
+
+For violent crime, the distribution of rate 
+differences show that 98.9% of cases have 
+differences between 0 and 15.5% for total 
+violent crime.  Cases with a difference from 
+0 to 0.5% were 84.3% of the total; 82.2% of 
+all cases had no difference. 
+
+For total property crime, rates were -0.5% 
+to +15.5% higher for 91.7%.  
+
+In 48% of the cases the difference between 
+the rates resulting from the two reporting 
+systems was -0.5% to 0.5%, 40.1% of all cases 
+having no difference.  Cases whose rate was 
+lower when comparing NIBRS counts to Summary 
+UCR counts comprised 5.1% of all cases studied.  
+Overall, a total of  95.8% of cases showed a
+property crime rate difference of +15.5% or 
+less.  
+
+Jurisdictions with a population 
+greater than 25,000
+
+The largest jurisdictions in the dataset 
+(1991-96) covered populations between 25,000 
+and 250,000.  The overall results of the 378 
+cases from these larger jurisdictions are very 
+similar to the results from all jurisdictions 
+studied (the original 4068 cases).   
+
+The Index crime rate for NIBRS was about  
+2% higher than for Summary UCR.   The NIBRS 
+violent crime rate was higher by less than 1%, 
+and the NIBRS property crime rate was higher 
+by slightly more than 2%, on average.  Murder 
+rates from NIBRS and Summary UCR were the same.  
+The average difference in rates for rape from 
+the two systems was slightly more than 1%.  
+Robbery and aggravated assault rates were 
+higher by an average of less than 1%, going 
+from Summary UCR to NIBRS.  
+
+NIBRS burglary rates were lower by an average 
+of slightly more than 1%.  NIBRS larceny rates 
+were higher than those from Summary UCR by 
+slightly over 3%, and NIBRS motor vehicle theft 
+rates,  higher by just over 4%, on average.
+
+The distribution of the rate differences 
+for large jurisdictions was also similar to 
+the results of all jurisdictions studied.
+Among cases from large jurisdictions, 92.3% 
+had a difference of 5.5% or less (including 
+any lower rates) in the total index crime 
+rate, as measured by Summary UCR and NIBRS.  
+Among cases from jurisdictions with nonzero 
+populations, 90.0% had a negligible difference.  
+
+The distribution within this range was spread 
+out.  For example, 31.5% of these cases 
+experienced an Index crime rate difference
+from -0.5% to 0.5%.  A  few large jurisdictions 
+(6.3%) showed no difference, and in 9.8% of 
+the cases the Index crime rate was lower using 
+NIBRS data.
+
+The proportion of cases with a violent crime 
+rate change of 5.5% or less is 98.4% for large 
+jurisdictions.  More than half of the large 
+jurisdictions had a higher rate in 0.5%
+or less of cases.  Nearly 40% experienced no 
+change in the violent crime rate when using 
+NIBRS rather than Summary UCR.
+
+Among cases from populations 25,000 or over, 
+93.1% experienced a property crime rate change 
+of 5.5% or less, compared to 89.6% of
+all cases with nonzero populations.  
+The property crime rate did not differ 
+for nearly 8% and was lower for more 
+than 10% of the large jurisdictions.
+
+Although a smaller proportion of large 
+jurisdictions had no change at all, and 
+a higher proportion showed lower rates
+compared to all nonzero populations, 
+similar proportions had a 5.5% or less 
+difference in rates, comparing results 
+from NIBRS and Summary UCR.  The same 
+pattern holds true for proportions of 
+jurisdictions with a 15.5% or less 
+change in rates.
+
+Results for specific crime 
+categories, 1996
+
+Rates for larceny and motor vehicle theft 
+were found to be substantially higher and 
+that for aggravated assault, a slightly
+higher, comparing NIBRS to Summary UCR.  
+The 1996 NIBRS incident file was analyzed 
+to see what characteristics coincided with
+these higher rates.  Incidents with more 
+than one victim and/or more than one offender 
+were excluded from this analysis. 
+
+Larceny
+
+There were 381,233 incidents in the study 
+data with at least one count of larceny in 
+NIBRS in 1996.  These can be broken into 
+two categories:  369,690 single-offense 
+incidents and 11,543 multiple-offense incidents.  
+Of the multiple-offense incidents, 9,601 had 
+a combination of 1 or 2 larcenies and at least 
+1 other Index crime.  The remaining 1,942 
+multiple-offense incidents involved 2 or 3 
+counts of larceny and no other Index crime.
+
+Under the hierarchy rule of the Summary UCR, 
+the incidents involving only larceny would 
+each be counted as one incident, regardless 
+of whether there were multiple larcenies.  
+Because larceny is at the bottom of the 
+hierarchy, the 9,601 multiple-offense incidents 
+involving larceny and another Index crime 
+would be counted under the concurrent Index 
+crime, not the larceny.  
+
+
+From the above figures for 1996, 371,632 
+incidents including larceny were counted 
+under Summary UCR.  Under the NIBRS system
+the number of incidents involving larceny 
+increased 2.6%.  This higher rate can be 
+attributed to the hierarchy rule.
+
+The total counts of larceny under NIBRS would 
+be 383,256 (the number of incidents involving 
+1 larceny, plus twice the number of incidents 
+involving 2 larcenies, plus 3 times the number 
+of incidents involving 3 larcenies, regardless 
+of what other Index crimes may have been 
+concurrent).  Under Summary UCR, due to the
+hierarchy rule, the number of counts of larceny 
+equals the number of incidents that involve 
+only larceny.  There was a 3.1% difference 
+between NIBRS larceny counts and Summary UCR 
+larceny counts. 
+
+This 0.5% higher level over the number of 
+incidents was due to the reporting of 
+multiple counts of larceny within an 
+incident.  Three of the nine States with 
+NIBRS data had a disproportionate rise 
+in larceny rates.  The three States 
+together accounted for 17% of all larcenies, 
+but for 80% of the burglary- larceny 
+combinations and for 65% of the larceny-
+larceny combinations.  While the average 
+percent difference in larceny rates for 
+all nine States was 3.4%, the average for 
+the three States was 19.1% (not shown in 
+a table).  In multiple-offense incidents 
+some records from the three States
+included larceny segments contrary to 
+FBI instructions.  For example, the FBI 
+defines burglary as breaking and entering 
+with intent to commit a felony or theft.  
+Theft is included in the definition of 
+burglary and should not be reported as a
+concurrent larceny.***Footnote 5: FBI,
+Uniform Crime Reporting Handbook, NIBRS
+edition, 1992, p. 13.***
+
+Index crime combinations    Number of
+for 1 victim, 1 offender    incidents
+  Total                       2,106
+ 
+Violent
+ Murder                           5
+ Rape                             5
+ Robbery                        157
+ Assault                         41
+ Murder, robbery                  2
+ Rape, robbery                    1
+ 
+Violent and property
+ Rape, burglary                   1
+ Robbery, aggravated assault      3
+ Robbery, burglary                5
+ Robbery, larceny                 1
+ Assault, larceny                 1
+ Robbery, aggravated
+ assault, burglary                1
+ 
+Property
+ Burglary                       723
+ Larceny                      1,101
+ Burglary, larceny               44
+ Larceny, larceny                15
+ 
+
+Aggravated assault
+
+Index crime combinations    Number of
+for 1 victim, 1 offender    incidents
+Total                          725
+ 
+Violent
+Murder                           3
+Rape                            58
+Robbery                         75
+Rape, robbery                    2
+ 
+Violent and property
+Rape, burglary                   7
+Robbery, burglary                2
+Robbery, motor vehicle theft     3
+Robbery, larceny                 1
+Robbery, burglary, motor
+vehicle theft                    1
+ 
+Property
+Burglary                       294
+Motor vehicle theft             41
+Larceny                        225
+Burglary, larceny               10
+Motor vehicle theft, larceny     3
+ 
+
+Combination of assaults that
+occurred in incidents with
+one or more assaults            Number  of
+for 1 victim, 1 offender        incidents
+Total                            185,408
+ 
+Aggravated                        35,452
+Simple                           118,451
+Intimidation                      30,454
+ 
+Aggravated, simple                   393
+Aggravated, intimidation             222
+Aggravated, simple, 
+intimidation                          43
+ 
+Simple, intimidation                 393
+
+In the 1996 data, more than 8,200 incidents 
+were recorded as burglary-larceny combinations.  
+Though a small number of these may have included 
+a count of larceny distinctly separate from
+the burglary, the majority of these should 
+have been recorded as burglary only. 
+
+Combination of assaults that        Number
+occurred in incidents with          of
+larceny for 1 victim, 1 offender    incidents
+Total                                 1,072
+ 
+Aggravated                              226
+Simple                                  707
+Intimidation                            123
+ 
+Aggravated, simple                       11
+Aggravated, intimidation                  1
+Aggravated, simple,                       1
+intimidation                              
+ 
+Simple, intimidation                      3
+
+These States have penal codes with reporting 
+implications that differ from FBI standards.  
+Some State penal codes define burglary as 
+breaking and entering only and mandate recording
+larceny if property was stolen.  Others mandate 
+recording every crime an arrestee might be 
+charged with.  As a consequence, the crime 
+rates produced by NIBRS in these States 
+are erroneously inflated.  
+
+Motor vehicle theft
+
+In the 1996 NIBRS incident file, there were 
+40,667 incidents involving motor vehicle theft; 
+38,561 were single- offense incidents.  There 
+were 2,106 multiple-offense incidents that
+involved a single motor vehicle theft and 1 
+or more other Index crimes:  1,162 involved 
+larceny, 774 involved burglary, and 44
+involved all 3 property crimes (burglary, 
+larceny, and motor vehicle theft).  Two 
+hundred twenty-three incidents of motor
+vehicle theft involved one or more violent 
+offenses.  
+
+A total of 990 incidents involved motor 
+vehicle theft and what Summary UCR would 
+classify as a more serious offense, so that
+approximately 2.4% of the motor vehicle 
+thefts would have been suppressed by the 
+hierarchy rule.
+
+Some agencies ranked larceny above motor vehicle 
+theft in the hierarchy.  However, incidents 
+involving both motor vehicle theft and larceny 
+are classified as motor vehicle theft in Summary 
+UCR.***Footnote 7: FBI, Uniform Crime Reporting
+Handbook, 1984, p. 35.***  These agencies would 
+also show more motor vehicle thefts after 
+correction of this reporting error.
+
+Aggravated assault
+
+There were 36,110 incidents involving aggravated 
+assault in the data file.  Of these, 35,385 were 
+single-offense incidents.   The 725 multiple-
+offense incidents involved 1 count of aggravated
+assault and at least 1 other Index crime.  
+
+In 152 multiple-offense incidents an 
+aggravated assault was recorded with at 
+least 1 other violent crime.  These cases
+comprised 0.4% of all aggravated assaults 
+and would be suppressed by the hierarchy 
+rule in Summary UCR reporting. Eighty-four 
+multiple-offense incidents involved both 
+aggravated assault and robbery.  Because 
+incidents with only one victim and one 
+offender were selected, and assault is 
+one element of robbery, reporting both 
+appears to be either an error or another
+indication of the influence of State penal 
+code on classification for UCR data.  
+
+There were 185,408 incidents involving one 
+or more types of assault, 184,357 with a 
+single count of aggravated assault, simple 
+assault, or intimidation.  When multiple-
+offense cases were selected in the manner 
+described above, 1,051 incidents had some 
+combination of aggravated assault, simple 
+assault, and intimidation.  There were 
+658 incidents of aggravated assault
+with at least 1 lesser assault, and 
+393 incidents of simple assault with 
+intimidation.  
+
+There were 1,072 incidents involving 
+larceny and at least 1 type of assault.  
+Of these, 226 involved an aggravated 
+assault and larceny; 13 involved 
+aggravated assault, at least 1 lesser
+assault, and larceny; and 833 involved 
+1 or 2 lesser assaults and larceny.
+
+Conclusion
+
+Because of the selection criteria and 
+the voluntary nature of UCR reporting, 
+the cases in this analysis do not constitute 
+a random sample.  Although one must be 
+careful in drawing conclusions on a national 
+level, there is no reason to believe the 
+results are skewed.  The large sample 
+size (1,131 jurisdictions, 4,068 cases)  
+suggests that results may be applicable 
+to similar jurisdictions.
+
+To accurately compare NIBRS and Summary UCR 
+data, several factors need to be considered:  
+artifactual differences, non-uniform reporting 
+practices, and reporting errors. Artifactual 
+differences between the two reporting systems
+include expansion of the hotel rule and 
+modified or restructured crime definitions
+in NIBRS, and the use of the hierarchy rule 
+in Summary UCR. 
+
+By design NIBRS measures different aspects 
+of crime than Summary UCR.  Where Summary UCR 
+measures the overall number of incidents
+for an index of crime, NIBRS measures both 
+the overall number of incidents and the 
+occurrence of each type of crime within every
+incident.  NIBRS reporting gives more detail 
+about offenses that occur during the commission 
+of a crime without reporting significantly higher 
+crime rates in most cases.  However, NIBRS
+is more prone to non-uniform reporting 
+practices and programming errors, whereas 
+Summary UCR is more prone to reporting errors.
+
+Analysis for this report identified  several 
+instances of non-uniform reporting practices.  
+After 1996 the FBI began a series of data 
+edits to help reconcile some of those 
+practices. These edits, which were not in 
+place at the time the data used in this 
+research were collected, identify crime 
+combinations that do not comply with FBI 
+reporting standards.  A chart denoting these 
+combinations on page 115 of Uniform Crime
+Reporting National Incident-Based Reporting 
+System, Volume 4, Error Message Manual is 
+reproduced in .   Incident reports that
+contain any of the indicated combinations 
+(occurring to the same victim) are sent back 
+to the reporting agency for correction.   
+
+The data edits do not cover the non-uniform 
+reporting practices that had the most impact 
+on the crime statistics in this study.  For 
+example, although a combination of burglary 
+and larceny in a single incident is contrary 
+to FBI standards, this combination is not 
+included in the data edits because the FBI 
+makes an allowance for the rare occasion in 
+which this combination may legitimately be 
+reported.  This study found this combination 
+in certain jurisdictions because the State 
+or local penal code required it.  Consequent 
+to this study the FBI began addressing
+this issue in its State-level training program.
+
+It is important for jurisdictions to collect 
+and maintain data in compliance with their 
+penal codes.  Uniformity is also critical for 
+data submitted for reporting at the national 
+level.   Many States have worked on developing 
+a software program that can automatically convert 
+the crime codes as defined by State penal codes 
+to the appropriate NIBRS crime code.  At least 
+one State has successfully implemented an 
+automated State-to-NIBRS crime code conversion 
+system.  Others have been unsuccessful due
+to State codes overlapping more than one NIBRS 
+code.  In these cases, the conversion is done 
+manually while the States develop new programs 
+capable of distinguishing the complex codes.
+
+As noted in pages 2 and 8, the reporting errors 
+in Summary UCR identified in this report occur 
+largely from undercounting aggravated assault and 
+misapplying the hierarchy rule for motor vehicle 
+theft.  Further study is required to determine how 
+much impact the misapplication of the hierarchy 
+rule has on motor vehicle theft and larceny 
+statistics. The design of NIBRS automatically 
+reduces this type of reporting error.  As 
+States and jurisdictions are made aware 
+of these potential errors in Summary UCR 
+reporting, they can be corrected before 
+switching to NIBRS.   
+
+Another concern not addressed by this 
+analysis is the effect NIBRS reporting 
+might have on the rate of aggravated 
+assault. The effects of misclassifying 
+aggravated assaults as simple assault 
+depend on the proportion of misclassified 
+aggravated assaults.  To study such 
+effects requires having the original
+Summary UCR reported by an agency.  
+BJS had NIBRS data that had
+been converted to Summary UCR.
+
+It is not meaningful to compare Summary UCR 
+data from one year to NIBRS data from another.  
+When the two reporting methods are compared 
+within a given year, external variables are 
+controlled for.  When one year of data is 
+compared to another, many more variables, 
+such as the prevalence and reporting of 
+crime, or errors in applying the hierarchy 
+rule are introduced.  Not all of these 
+variables can be identified or measured, 
+compounding the error in the results.  After 
+several years of NIBRS data have been collected, 
+it would then be more meaningful to compare
+one year of NIBRS data to another.  
+
+The FBI has begun publishing a series of 
+topical studies using NIBRS data.  The first 
+one, "Juvenile Female Crime: A Special
+Study" appeared in Crime in the United States, 
+1997, section V; "Incidents of Family Violence" 
+appeared in the 1998 report. Studies covering 
+various topics will be published in other
+sections of Crime in the United States in 
+future years.  For the more expansive tables, 
+the FBI currently publishes statistics using 
+only Summary UCR data and NIBRS data that 
+have been converted back to Summary UCR.  
+They are preparing a report that compares 
+data submitted in Summary UCR format to 
+data submitted in NIBRS.  Plans for a
+NIBRS publication comparable to Crime in 
+the United States are under development.
+
+Methodology
+
+For comparisons the rate per 100,000 
+population was calculated for each crime 
+category in each case.  For a positive 
+percent change to indicate that the NIBRS 
+rate is higher than the corresponding 
+Summary UCR rate, the following formula 
+was used.
+
+  100 x (NIBRS Rate - Summary UCR Rate)
+       ------------------------------
+             Summary UCR Rate
+
+In a small number of cases for specific 
+offenses the Summary UCR count was zero, 
+and the NIBRS count was greater than zero.  
+The resulting percent difference was 
+mathematically undefined. These cases 
+were included in the denominators in the 
+calculation of percentages of cases.                                        
+
+Negative changes, indicating that the 
+NIBRS rate is lower than the corresponding 
+Summary UCR rate, are possible for burglary
+(and consequently for total property crime 
+and total index crime) due to the expansion 
+of the hotel rule in NIBRS.  
+
+To clearly see the effect of NIBRS on the 
+crime rates of larger jurisdictions, the 
+same analysis was done using a subset of
+these 4,068 cases.  Jurisdictions with 
+populations over 25,000 and that were not 
+combined reporters were selected.  Combined
+reporters are agencies that report data 
+for at least one other jurisdiction in 
+addition to their own.  To ensure this 
+analysis included only jurisdictions with 
+populations over 25,000, combined reporters 
+were excluded.  378 cases were selected. 
+None of the jurisdictions reporting NIBRS 
+data between 1991 and 1996 covered 
+populations over 250,000.
+
+The Bureau of Justice Statistics 
+is the statistical agency of the 
+U.S. Department of Justice.  
+Jan M. Chaiken, Ph.D., is director.
+
+BJS Special Reports address a specific 
+topic in depth from one or more data 
+sets that cover many topics.
+
+Ramona Rantala, BJS Statistician, wrote 
+this report.  Thomas Edwards, FBI 
+Systems Analyst, assisted with 
+the assembling of NIBRS data and 
+converting to the Summary UCR format.  
+Victoria Major, Yoshio Akiyama, 
+Sharon Propheter, James Nolan, and
+Christopher Enourato, all FBI CJIS 
+staff, assisted with reviewing this 
+report.  Tom Hester edited and 
+produced the report, assisted by 
+Ellen Goldberg.  Jayne Robinson 
+produced the report for final 
+printing.
+
+July 2000, NCJ 178890
+
+End of file
+ih 7/7/00
+revised  2/23/01 ih

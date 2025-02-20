@@ -1,0 +1,2893 @@
+U.S. Department of Justice
+Bureau of Justice Statistics
+
+U.S. Department of Education
+National Center for Education Statistics
+
+
+
+Indicators of School Crime and Safety, 2000
+
+
+----------------------------------------------------------------
+This file is text only without graphics and tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+http://www.ojp.usdoj.gov/bjs/abstract/iscs00.htm
+
+-----------------------------------------------------------------
+
+
+
+Phillip Kaufman
+Xianglei Chen
+Susan P. Choy
+MPR Associates, Inc.
+
+Sally A. Ruddy
+Amanda K. Miller
+Jill K. Fleury
+Education Statistics Services Institute
+
+Kathryn A. Chandler
+National Center for Education Statistics
+
+Michael R. Rand
+Patsy Klaus
+Michael G. Planty
+Bureau of Justice Statistics
+
+U.S. Department of Education, Office of
+Educational Research and Improvement, NCES
+2001-017
+U.S. Department of Justice, Office of Justice
+Programs, NCJ 184176
+
+U.S. Department of Education
+Richard W. Riley, Secretary
+
+U.S. Department of Justice
+Janet Reno, Attorney General
+
+Office of Educational Research and Improvement
+C. Kent McGuire, Assistant Secretary
+
+Office of Justice Programs
+Mary Lou Leary, Acting Assistant Attorney
+General
+
+National Center for Education Statistics
+Gary Phillips, Acting Commissioner
+
+Bureau of Justice Statistics
+Jan M. Chaiken, Director
+
+This report is one in a series.  To determine if a
+more recent version is available, go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#indicators
+
+ The National Center for Education Statistics
+(NCES) is the primary federal entity for
+collecting, analyzing, and reporting data
+related to education in the United States and
+other nations. It fulfills a congressional
+mandate to collect, collate, analyze, and report
+full and complete statistics on the condition of
+education in the United States; conduct and
+publish reports and specialized analyses of the
+meaning and significance of such statistics;
+assist state and local education agencies in
+improving their statistical systems; and report
+on education activities in foreign countries.
+
+The Bureau of Justice Statistics (BJS) is the
+primary federal entity for collecting,
+analyzing, publishing, and disseminating
+statistical information about crime, its
+perpetrators and victims, and the operation of
+the justice system at all levels of government.
+These data are critical to federal, state, and
+local policymakers in combating crime and
+ensuring that justice is both efficient and
+evenhanded.
+
+October 2000
+
+Suggested Citation
+
+Kaufman, P., Chen, X., Choy, S.P., Ruddy, S.A.,
+Miller, A.K., Fleury, J.K., Chandler, K.A.,
+Rand, M.R., Klaus, P., and Planty, M.G.
+Indicators of School Crime and Safety, 2000.
+U.S. Departments of Education and Justice. NCES
+2001-017/NCJ-184176. Washington, D.C.: 2000.
+
+This publication can be downloaded from the
+World Wide Web at http://nces.ed.gov or
+http://www.ojp.usdoj.gov/bjs/. Single hard
+copies can be ordered through ED Pubs at
+1-877-4ED-PUBS (NCES 2001-017) (TTY/TDD
+1-877-576-7734), and the Bureau of Justice
+Statistics Clearinghouse at 1-800-732-3277
+(NCJ-184176).
+
+Contact at NCES:
+Kathryn Chandler
+(202) 502-7326
+(e-mail) kathryn_chandler@ed.gov
+
+Contact at BJS:
+Michael Planty
+(202) 514-3214
+(e-mail) Michael.Planty@usdoj.gov
+
+Foreword
+
+The national focus on school crime and safety
+continues to be of paramount importance. During
+the past year, overall levels of crime in school
+decreased, and students seem to feel more safe
+in school than they did in the last few years.
+Yet, violence and theft still mar the school
+experiences of many students and challenge
+parents, teachers, and school officials to
+respond. 
+
+Continued progress in improving the safety of
+our children entrusted to schools relies on
+having accurate information about the nature,
+extent, and scope of the problem. This report is
+intended to provide information that will assist
+in developing policies and/or programs to
+prevent and cope with violence and crime in
+schools.
+
+This is the third edition of Indicators of
+School Crime and Safety, a joint effort by the
+Bureau of Justice Statistics and the National
+Center for Education Statistics. The report
+provides detailed statistical information to
+inform the nation on the current nature of crime
+in schools, and is a companion document to the
+Annual Report on School Safety: 2000. The Annual
+Report is a joint publication of the Departments
+of Education and Justice that provides an
+overview of the nature and scope of school crime
+and describes actions schools and communities
+can take to address this critical issue. The two
+reports respond to a 1998 request by President
+Clinton for an annual report card on school
+violence. 
+
+This edition of Indicators contains the most
+recent available data on school crime and safety
+drawn from a number of statistical series
+supported by the federal government. These data
+include results from a study of violent deaths
+in school, sponsored by the Department of
+Education and the Centers for Disease Control
+and Prevention, and the 1999 School Crime
+Supplement to the National Crime Victimization
+Survey (NCVS), which is conducted by the Census
+Bureau on behalf of our agencies. 
+
+The Bureau of Justice Statistics and National
+Center for Education Statistics continue to work
+towards providing more timely and complete data
+on the issue of school-related violence and
+safety. Not only is this report available on the
+Internet in its entirety, but individual
+indicators are updated there throughout the year
+as new data become available. The inclusion of
+detailed data from the full calendar year 1999
+NCVS (this edition includes only selected
+statistics from January-June 1999) and from a
+new survey of school administrators on crime and
+victimization in the schools is planned for next
+year's edition of Indicators.
+
+Gary Phillips, Ph.D.
+Acting Commissioner of Education Statistics
+
+Jan M. Chaiken, Ph.D.
+Director of the Bureau of Justice Statistics
+
+Executive Summary
+
+Schools should be safe and secure places for all
+students, teachers, and staff members. Without a
+safe learning environment, teachers cannot teach
+and students cannot learn. In fact, as the data
+in this report show, more victimizations happen
+away from school than at school. In 1998,
+students were about two times as likely to be
+victims of serious violent crime away from
+school as at school (Indicator 2).
+
+In 1998, students ages 12 through 18 were
+victims of more than 2.7 million total crimes at
+school (Indicator 2). In that same year, these
+students were victims of about 253,000 serious
+violent crimes at school (that is, rape, sexual
+assault, robbery, and aggravated assault). There
+were also 60 school-associated violent deaths in
+the United States between July 1, 1997 and June
+30, 1998-including 47 homicides (Indicator 1). 
+
+The total nonfatal victimization rate for young
+people declined between 1993 and 1998. The
+percentage of students being victimized at
+school also declined over the last few years.
+Between 1995 and 1999, the percentage of
+students who reported being victims of crime at
+school decreased from 10 percent to 8 percent
+(Indicator 3). This decline was due in part to a
+decline for students in grades 7 through 9.
+Between 1995 and 1999, the prevalence of
+reported victimization dropped from 11 percent
+to 8 percent for 7th graders, from 11 percent to
+8 percent for 8th graders, and from 12 percent
+to 9 percent for 9th graders.
+
+However, for some types of crimes at school,
+rates have not changed. For example, between
+1993 and 1997, the percentage of students in
+grades 9 through 12 who were threatened or
+injured with a weapon on school property in the
+past 12 months remained constant-at about 7 or 8
+percent (Indicator 4). The percentage of
+students in grades 9 through 12 who reported
+being in a physical fight on school property in
+the past 12 months also remained unchanged
+between 1993 and 1997-at about 15 percent
+(Indicator 5). 
+
+As the rate of victimization in schools has
+declined or remained constant, students also
+seem to feel more secure at school now than just
+a few years ago. The percentage of students ages
+12 through 18 who reported avoiding one or more
+places at school for their own safety decreased
+between 1995 and 1999-from 9 to 5 percent
+(Indicator 14). Furthermore, the percentage of
+students who reported that street gangs were
+present at their schools decreased from 1995 to
+1999. In 1999, 17 percent of students ages 12
+through 18 reported that they had street gangs
+at their schools compared with 29 percent in
+1995 (Indicator 16). 
+
+There was an increase in the use of marijuana
+among students between 1993 and 1995, but no
+change between 1995 and 1997. In 1997, about 26
+percent of these students had used marijuana in
+the last 30 days (Indicator 19). Furthermore,
+almost one-third of all students in grades 9
+through 12 (32 percent) reported that someone
+had offered, sold, or given them an illegal drug
+on school property-an increase from 24 percent
+in 1993 (Indicator 20).
+
+Therefore, the data shown in this report present
+a mixed picture of school safety. While overall
+school crime rates have declined, violence,
+gangs, and drugs are still evident in some
+schools, indicating that more work needs to be
+done. 
+
+Organization of the Current Report
+
+This report, the third in a series of annual
+reports on school crime and safety from the
+Bureau of Justice Statistics and the National
+Center for Education Statistics, presents the
+latest available data on school crime and
+student safety. The report repeats many
+indicators from the 1999 report but also
+provides updated data on fatal and nonfatal
+student victimization, nonfatal teacher
+victimization, students' perceptions of safety
+and the presence of gangs, and students'
+avoidance of places at school. In addition, it
+provides new data on students' reports of being
+the target of derogatory hate-related language
+and seeing hate-related graffiti at school.
+
+The report is organized as a series of
+indicators, with each indicator presenting data
+on a different aspect of school crime and
+safety. It starts with the most serious
+violence. There are five sections to the report:
+Violent Deaths at School; Nonfatal Student
+Victimization--Student Reports; Violence and
+Crime at School--Public School
+Principal/Disciplinarian Reports; Nonfatal
+Teacher Victimization at School--Teacher
+Reports; and School Environment. Each section
+contains a set of indicators that, taken
+together, describe a distinct aspect of school
+crime and safety.
+
+Rather than relying on data from a large omnibus
+survey of school crime and safety, this report
+uses a variety of independent data sources from
+federal departments and agencies including the
+Bureau of Justice Statistics, the National
+Center for Education Statistics, and the Centers
+for Disease Control and Prevention. Each data
+source has an independent sample design, data
+collection method, and questionnaire design, all
+of which may be influenced by the unique
+perspective of the primary funding agency. By
+combining multiple and independent sources of
+data, it is hoped that this report will present
+a more complete portrait of school crime and
+safety than would be possible with any single
+source of information.
+
+However, because the report relies on so many
+different data sets, the age groups, the time
+periods, and the types of respondents analyzed
+can vary from indicator to indicator. Readers
+should keep this in mind as they compare data
+from different indicators. Furthermore, while
+every effort has been made to keep key
+definitions consistent across indicators,
+different surveys sometimes use different
+definitions, such as those for specific crimes
+and "at school." Therefore, caution should be
+used in making comparisons between results from
+different data sets. Descriptions of these data
+sets are located in appendix B of this report. 
+
+Key Findings
+
+Some of the key findings from the various
+sections of this report are as follows:
+
+Violent Deaths at School
+
+From July 1, 1997 through June 30, 1998, there
+were 60 school-associated violent deaths in the
+United States. Forty-seven of these violent
+deaths were homicides, 12 were suicides, and one
+was a teenager killed by a law enforcement
+officer in the line of duty (Indicator 1).
+Thirty-five of the 47 school-associated
+homicides were of school age children. By
+comparison, a total of 2,752 children ages 5
+through 19 were victims of homicide in the
+United States from July 1, 1997 through June 30,
+1998. Seven of the 12 school-associated suicides
+occurring from July 1, 1997 through June 30,
+1998 were of school age children. A total of
+2,061 children ages 5 through 19 committed
+suicide that year.
+
+Nonfatal Student Victimization--Student Reports
+
+Students ages 12 through 18 were more likely to
+be victims of nonfatal serious violent
+crime-including rape, sexual assault, robbery,
+and aggravated assault-away from school than
+when they were at school (Indicator 2). In 1998,
+students in this age range were victims of about
+550,000 serious violent crimes away from
+schools, compared with about 253,000 at school.
+
+The percentage of students in grades 9 through
+12 who have been threatened or injured with a
+weapon on school property has not changed
+significantly in recent years. In 1993, 1995,
+and 1997, about 7 to 8 percent of students
+reported being threatened or injured with a
+weapon such as a gun, knife, or club on school
+property in the past 12 months (Indicator 4).
+
+In 1998, 12- through 18-year-old students living
+in urban, suburban, and rural locales were
+equally vulnerable to serious violent crime and
+theft at school. Away from school, however,
+urban and suburban students were more vulnerable
+to serious violent crime and theft than were
+rural students. (Indicator 2).
+
+Younger students (ages 12 through 14) were more
+likely than older students (ages 15 through 18)
+to be victims of crime at school. However, older
+students were more likely than younger students
+to be victimized away from school (Indicator 2).
+
+Violence and Crime at School--Public School
+Principal/Disciplinarian Reports
+
+In 1996-97, 10 percent of all public schools
+reported at least one serious violent crime to
+the police or a law enforcement representative.
+Principals' reports of serious violent crimes
+included murder, rape or other type of sexual
+battery, suicide, physical attack or fight with
+a weapon, or robbery. Another 47 percent of
+public schools reported a less serious violent
+or nonviolent crime (but not a serious violent
+one). Crimes in this category include physical
+attack or fight without a weapon, theft/larceny,
+and vandalism. The remaining 43 percent of
+public schools did not report any of these
+crimes to the police (Indicator 8).
+
+Elementary schools were much less likely than
+either middle or high schools to report any type
+of crime in 1996-97. They were much more likely
+to report vandalism (31 percent) than any other
+crime (19 percent or less) (Indicator 9).
+
+At the middle and high school levels, physical
+attack or fight without a weapon was generally
+the most commonly reported crime in 1996-97 (9
+and 8 per 1,000 students, respectively). Theft
+or larceny was more common at the high school
+than at the middle school level (6 versus 4 per
+1,000 students) (Indicator 9).
+
+Nonfatal Teacher Victimization at
+School--Teacher Reports
+
+Over the 5-year period from 1994 through 1998,
+teachers were victims of 1,755,000 nonfatal
+crimes at school, including 1,087,000 thefts and
+668,000 violent crimes (rape or sexual assault,
+robbery, and aggravated and simple assault)
+(Indicator 10). This translates into 83 crimes
+per 1,000 teachers per year.
+
+In the period from 1994 through 1998, senior
+high school and middle/junior high school
+teachers were more likely to be victims of
+violent crimes (most of which were simple
+assaults) than elementary school teachers (38
+and 60, respectively, versus 18 crimes per 1,000
+teachers) (Indicator 10).
+
+In the 1993-94 school year, 12 percent of all
+elementary and secondary school teachers were
+threatened with injury by a student, and 4
+percent were physically attacked by a student.
+This represented about 341,000 teachers who were
+victims of threats of injury by students that
+year, and 119,000 teachers who were victims of
+attacks by students (Indicator 11).
+
+School Environment
+
+Between 1995 and 1999, the percentages of
+students who felt unsafe while they were at
+school and while they were going to and from
+school decreased. In 1995, 9 percent of students
+ages 12 through 18 sometimes or most of the time
+feared they were going to be attacked or harmed
+at school. In 1999, this percentage had fallen
+to 5 percent. During the same period, the
+percentage of students fearing they would be
+attacked while traveling to and from school fell
+from 7 percent to 4 percent (Indicator 13).
+
+Between 1993 and 1997, the percentage of
+students in grades 9 through 12 who reported
+carrying a weapon on school property within the
+previous 30 days fell from 12 percent to 9
+percent (a 25 percent reduction) (Indicator 12).
+
+Between 1995 and 1999, the percentage of
+students ages 12 through 18 who avoided one or
+more places at school for fear of their own
+safety decreased, from 9 to 5 percent. In 1999,
+this percentage represented 1.1 million students
+(Indicator 14).
+
+Between 1995 and 1999, the percentage of
+students who reported that street gangs were
+present at their schools decreased. In 1995, 29
+percent of students reported gangs being present
+in their schools. By 1999, this percentage had
+fallen to 17 percent (Indicator 16).
+
+In 1997, about 51 percent of students in grades
+9 through 12 had at least one drink of alcohol
+in the previous 30 days. A much smaller
+percentage (about 6 percent) had at least one
+drink on school property during the same period
+(Indicator 18). 
+
+There was an increase in the use of marijuana
+among students between 1993 and 1995, but no
+change between 1995 and 1997. About one quarter
+(26 percent) of ninth graders reported using
+marijuana in the last 30 days in 1997. However,
+marijuana use on school property did not
+increase significantly between 1993 and 1995,
+nor between 1995 and 1997 (Indicator 19).
+
+In 1995 and 1997, almost one-third of all
+students in grades 9 through 12 (32 percent)
+reported that someone had offered, sold, or
+given them an illegal drug on school property.
+This was an increase from 1993 when 24 percent
+of such students reported that illegal drugs
+were available to them on school property
+(Indicator 20).
+
+In 1999, about 13 percent of students ages 12
+through 18 reported that someone at school had
+used hate-related words against them. That is,
+in the prior 6 months someone at school called
+them a derogatory word having to do with
+race/ethnicity, religion, disability, gender, or
+sexual orientation. In addition, about 36
+percent of students saw hate-related graffiti at
+school (Indicator 15).
+
+Acknowledgments
+
+The authors wish to thank the heads of their
+respective agencies, Gary Phillips of the
+National Center for Education Statistics (NCES)
+and Jan Chaiken of the Bureau of Justice
+Statistics (BJS), for backing this report. We
+also appreciate their support of our larger data
+collection and reporting agendas on school crime
+and safety.
+
+From BJS, we wish to thank Cathy Maston of the
+Victimization Statistics Branch for her work in
+preparing and verifying data from the NCVS.
+
+From NCES, we wish to thank Bruce Taylor,
+Shelley Burns, Arnold Goldstein, Aurora D'Amico,
+and Ellen Bradburn, who served as reviewers.
+They each provided input that substantially
+improved the publication.
+
+Outside of NCES and BJS, others who reviewed the
+report were Richard Lawrence of St. Cloud
+University; Meg Small, of the OESE/Safe and Drug
+Free Schools; Mary Schifferli, of the Office for
+Civil Rights of the 
+
+U. S. Department of Education; and Joanne
+Wiggins of the Planning and Evaluation Service
+of the U. S. Department of Education. Their
+advice was gratefully accepted. We particularly
+appreciated their willingness to review the
+report under very strict time constraints.
+
+Without the assistance of the following staff at
+MPR Associates this report could not have been
+produced: Barbara Kridl (overall production and
+proofreading), Francesca Tussing (production,
+proofreading, layout, and editing), Andrea
+Livingston (editing), and Leslie Retallick
+(figure design and text layout). They provided
+invaluable editorial, graphic, and production
+assistance.
+
+Violent Deaths at School
+
+1. Violent deaths at school and away from
+school*
+
+Violent deaths are tragic events that affect not
+only the individuals and their families directly
+involved but also everyone in the schools where
+they occur. Violent deaths at school receive
+national attention; accurate data on the
+magnitude of this problem are important.
+
+*The data reported here are new. 
+
+From July 1, 1997 through June 30, 1998, there
+were 60 school-associated violent deaths in the
+United States. Forty-seven of these violent
+deaths were homicides, 12 were suicides, and one
+was a teenager killed by a law enforcement
+officer in the line of duty.
+
+Thirty-five of the 47 school-associated
+homicides were of school age children. There
+were a total of 2,752 homicides of children ages
+5 through 19 occurring from July 1, 1997 through
+June 30, 1998.
+
+Seven of the 12 school-associated suicides
+occurring between July 1, 1997 through June 30,
+1998 were of school age children. There were a
+total of 2,061 suicides of children ages 5
+through 19 occurring that calendar year.
+
+Nonfatal Student Victimization-Student Reports
+
+2. Victimization of students at school and away
+from school*
+
+The amount of crime committed in the nation's
+schools continues to be a concern. While crime
+has decreased in recent years, theft and
+violence at school and to and from school can
+lead to disruptive and threatening environments
+reducing student performance.
+
+*This indicator has been updated to include 1998
+data.
+
+Students ages 12 through 18 experienced fewer
+nonfatal serious violent crimes (that is, rape,
+sexual assault, robbery, and aggravated assault)
+when they were at school than away from school.
+In 1998, students in this age group were victims
+of about 253,000 such crimes at school, and
+about 550,000 away from school (tables 2.1 and
+2.3). The victimization rate for serious violent
+crime was about the same at school from 1992 to
+1998 and declined from 1992 to 1998 away from
+school (figure 2.1 and tables 2.2 and 2.4).
+
+Students ages 12 through 18 were victims of
+about 1.2 million nonfatal violent crimes (that
+is, serious violent crime plus simple assault)
+at school, and about 1.3 million away from
+school in 1998 (tables 2.1 and 2.3). There was a
+decline in the victimization rate between 1992
+and 1998 at school as well as away from school
+(from 48 to 43 and from 71 to 48 per 1,000
+students ages 12 through 18, respectively)
+(figure 2.1 and tables 2.2 and 2.4). During most
+of this period, the victimization rates for
+nonfatal violent crime were generally lower at
+school than away from school.
+
+Students ages 12 through 18 were more likely to
+be victims of theft at school than away from
+school each year between 1992 and 1998, except
+for 1997. In that year, about the same number of
+thefts occurred at and away from school. In
+1998, about 1.6 million thefts occurred at
+school (58 percent of all crimes at school), and
+about 1.2 million away from school (49 percent
+of all crimes away from school) (tables 2.1 and
+2.3). The victimization rate declined for thefts
+at school between 1992 and 1998 as it did for
+thefts away from school during this period
+(figure 2.1 and tables 2.2 and 2.4).
+
+Considering total nonfatal crime (theft plus
+violent crime), 12- through 18-year-old students
+were victims of about 2.7 million crimes while
+they were at school in 1998, and about 2.5
+million away from school (tables 2.1 and 2.3).
+These represent victimization rates of 101
+crimes per 1,000 students at school, and 95
+crimes per 1,000 students away from school
+(figure 2.1 and tables 2.2 and 2.4).
+
+In 1998, the rates for serious violent crimes
+and theft were about the same for males and
+females at school, but higher for males than
+females away from school (figures 2.2 and 2.3
+and tables 2.2 and 2.4).
+
+In 1998, 12- through 18-year-old students living
+outside urban areas were just as vulnerable to
+serious violent crime and theft at school as
+were urban students (figure 2.2 and table 2.2).
+Away from school, urban and suburban students
+were more vulnerable to serious violent crime
+and theft than were rural students (figure 2.3
+and table 2.4).
+
+Younger students (ages 12 through 14) were more
+likely than older students (ages 15 through 18)
+to be victims of crime at school. However, older
+students were more likely than younger students
+to be victimized away from school (figures 2.2
+and 2.3 and tables 2.2 and 2.4).
+
+3. Prevalence of students being victimized at
+school*
+
+Some of the crimes committed against students
+involve violence, while others involve their
+property. Presenting information on the
+prevalence of victimization for students helps
+clarify what percentage of students are affected
+by different types of crime.
+
+*The data reported here are new.
+
+In 1999, a smaller percentage of students ages
+12 through 18 reported being victims of nonfatal
+crimes (including either theft or violent
+crimes) at school during the previous 6 months
+than in 1995 (10 percent and 8 percent,
+respectively)(figure 3.1 and table 3.1). About 7
+percent in 1995 were victims of theft compared
+with 6 percent in 1999. Also, 3 percent of
+students in 1995 reported being victims of
+violence at school compared with 2 percent in
+1999.
+
+The decline in the prevalence of victimization
+between 1995 and 1999 was due in part to a
+decline for students in grades 7 through 9
+(figure 3.1 and table 3.1). Between 1995 and
+1999, the prevalence of reported victimization
+dropped from 11 percent to 8 percent for 7th
+graders, from 11 percent to 8 percent for 8th
+graders, and from 12 percent to 9 percent for
+9th graders. During the same period, the
+prevalence of victimization remained relatively
+constant for 6th, 10th, 11th, and 12th graders.
+
+In both 1995 and 1999, public school students
+were more likely to report having been victims
+of violent crime during the previous 6 months
+than were private school students (table 3.1).
+Public school students were also more likely
+than private school students to report being
+victims of theft at school in 1995, but equally
+likely to experience theft in 1999. 
+
+4. Prevalence of students being threatened or
+injured with a weapon on school property*
+
+Every year, some students are threatened or
+injured with a weapon while they are on school
+property. The percentages of students victimized
+in this way provide an important measure of how
+safe our schools are and how this is changing
+over time.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+The percentage of students in grades 9 through
+12 who were threatened or injured with a weapon
+on school property in the 12 months before the
+survey has remained constant in recent years. In
+1993, 1995, and 1997, about 7 to 8 percent of
+students reported being threatened or injured
+with a weapon such as a gun, knife, or club on
+school property in the past 12 months (figure
+4.1 and table 4.1). 
+
+In each survey year, males were more likely than
+females to report being threatened or injured
+with a weapon on school property (figure 4.1 and
+table 4.1). For example, in 1997, 10 percent of
+males reported being threatened or injured in
+the past year, compared with 4 percent of
+females. Moreover, the percentage of females who
+reported being threatened or injured declined
+slightly over the period-from about 5 percent in
+1993 to 4 percent in 1997.
+
+Of 9th through 12th graders, those students in
+lower grades were more likely to be threatened
+or injured with a weapon on school property than
+were students in higher grades (figure 4.2 and
+table 4.1). For example, in 1993, 9 percent of
+9th graders reported being threatened or
+injured, compared with 6 percent of 12th
+graders. The comparable percentages in 1997 were
+10 percent for 9th graders and 6 percent for
+12th graders.
+
+There were few racial/ethnic differences in the
+percentages of students being threatened or
+injured with a weapon on school property in the
+12 months in each year (figure 4.3 and table
+4.1). About the same percentage of students from
+each racial/ethnic group reported being
+threatened or injured.
+
+5. Prevalence of students involved in physical
+fights on school property*
+
+Schools where there are numerous physical fights
+may not be able to maintain a focused learning
+environment. Students who are constantly
+involved in fights on school property cannot be
+ready to learn.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+In 1997, about 15 percent of all students in
+grades 9 through 12 said that they had been in a
+physical fight on school property in the last 12
+months (figure 5.1 and table 5.1). In that same
+year, 37 percent reported that they had been in
+a physical fight in any location (including on
+school property).
+
+The percentage of students who reported being in
+a fight anywhere declined slightly from 1993 to
+1997-from 42 percent in 1993 to 37 percent in
+1997 (figure 5.1 and table 5.1). However, the
+percentages of students who reported fighting on
+school property across these years were similar. 
+
+Males were more likely than females to have been
+in a fight anywhere and on school property
+(figure 5.1 and table 5.1). In 1997, 46 percent
+of males said they had been in a fight in the
+last 12 months, and 20 percent said they had
+been in a fight on school property. In that same
+year, about 26 percent of females reported they
+had been in a fight, and 9 percent said they had
+been in a fight on school property.
+
+Of 9th through 12th graders, those students in
+lower grades reported being in more fights than
+students in higher grades anywhere and on school
+property (figure 5.2 and table 5.1). For
+example, in 1997, 21 percent of 9th graders
+reported that they were in a fight on school
+property in the last 12 months; in contrast, 10
+percent of 12th graders were in fights on school
+property. 
+
+6. Prevalence of students being bullied at
+school*
+
+Bullying contributes to a climate of fear and
+intimidation in schools. Students ages 12
+through 18 were asked if they had been bullied
+(that is, picked on or made to do things they
+did not want to do) at school.
+
+*The data reported here are from a different
+source than the data presented for this
+indicator in earlier editions.
+
+In 1999, about 5 percent of students ages 12
+through 18 reported that they had been bullied
+at school in the last 6 months (table 6.1). In
+general, females were as likely as males to
+report being bullied.
+
+Males were more likely to be bullied in grades 6
+and 7 than were females (12 percent versus 7
+percent respectively), while there was little
+difference in the percentage of males and
+females being bullied in the other two grade
+levels (table 6.1 and figure 6.1).
+
+There were few differences among racial/ethnic
+groups in the percentage of students who
+reported being bullied (table 6.1). The
+exception was that white and black students were
+more likely to report being victimized by
+bullies than were students of other,
+non-Hispanic origin. About 2 percent in this
+group, which includes Asians, Pacific Islanders,
+American Indians, and Alaskan Natives, reported
+being bullied, compared with about 5 percent of
+white and 6 percent of black students.
+
+Students in lower grades were more likely to be
+bullied than students in higher grades (table
+6.1 and figure 6.1). About 10 percent of
+students in grades 6 and 7 reported being
+bullied, compared with about 5 percent of
+students in grades 8 and 9 and about 2 percent
+in grades 10 through 12.
+
+7. Prevalence of students having property stolen
+or deliberately damaged on school property*
+
+One way that students are victimized at school
+is by having their personal property stolen or
+deliberately damaged. While less harmful than
+attacks on students themselves, such crimes have
+financial consequences and can divert students'
+attention from their studies as well as
+contribute to perceptions of schools as unsafe
+places.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+It is relatively common for students to have
+something stolen or damaged on school property.
+In 1997, about one-third of all students in
+grades 9 through 12 said that someone stole or
+deliberately damaged their property, such as
+their car, clothing, or books, on school
+property during the last 12 months (figure 7.1
+and table 7.1). This proportion was similar in
+1993 and 1995.
+
+Generally, males were more likely than females
+to report being victims of theft or deliberate
+property damage on school property. In 1993,
+1995, and 1997, about 28 percent of females
+reported being victimized, compared with 37
+percent of males in 1993, 41 percent in 1995,
+and 36 percent in 1997 (table 7.1). 
+
+Students in lower grades were more likely than
+students in higher grades to report having
+something stolen or deliberately damaged at
+school (figure 7.2 and table 7.1). For example,
+in 1997, 37 percent of 9th graders had something
+of theirs damaged or stolen, compared with 28
+percent of 12th graders. 
+
+Violence and Crime at School-Public School
+Principal/Disciplinarian Reports
+
+8. Crimes reported to the police*
+
+The number of crimes that principals indicated
+they reported to police or other law enforcement
+representatives is a useful measure of the
+occurrences of serious crimes in the nation's
+schools. The percentage of schools reporting
+crimes provides an indication of how widespread
+crime is, while the number of crimes reported
+provides information on the magnitude of the
+problem.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+In 1996-97, 10 percent of all public schools
+reported at least one serious violent crime to a
+law enforcement representative (figure 8.1 and
+table 8.1). Another 47 percent of public schools
+reported a less serious violent or nonviolent
+crime (but not a serious violent one). The
+remaining 43 percent of public schools did not
+report any of these crimes to the police.
+
+The vast majority of crimes reported by public
+schools were of the less serious violent or
+nonviolent type in 1996-97 (402,000 out of the
+424,000 total crimes reported to the police)
+(table 8.3).
+
+The percentage of schools reporting crimes was
+similar at the middle and high school levels
+(figure 8.2 and table 8.1). At each level, about
+20 percent of the schools reported at least one
+serious violent crime, and about 55 percent
+reported at least one less serious violent or
+nonviolent crime, but no serious violent crime
+in 1996-97.
+
+The numbers of reported incidents per 1,000
+students were similar for middle and high
+schools for both serious violent and less
+serious violent and nonviolent crimes (figure
+8.2 and table 8.4). For both types of crimes,
+there was a lower rate at the elementary level
+than at the middle or high school levels. 
+
+The percentage of schools reporting at least one
+serious violent crime was much higher in cities
+(17 percent) than in towns (5 percent) or rural
+areas (8 percent) during 1996-97 (figure 8.2 and
+table 8.1).
+
+9. Specific crimes reported to the police*
+
+Data on the prevalence of specific types of
+crimes add detail to the more general discussion
+of serious violent crimes and less serious
+violent and nonviolent crimes. Each type of
+crime affects students and schools differently.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+About one-half (44 to 55 percent) of all public
+middle and high schools reported incidents of
+vandalism, theft or larceny, and physical
+attacks or fights without weapons to the police
+or other law enforcement representatives in the
+1996-97 school year (figure 9.1 and table 9.2).
+Considerably smaller percentages of public
+middle and high schools reported the more
+serious violent crimes of rape or other type of
+sexual battery (5 and 8 percent, respectively);
+robbery (5 and 8 percent); or physical attack or
+fight with a weapon (12 and 13 percent) (table
+9.1).
+
+Elementary schools were much less likely than
+either middle or high schools to report any of
+the types of crime described here in 1996-97
+(figure 9.1 and tables 9.1 and 9.2). They were
+much more likely to report vandalism (31
+percent) than any other crime (19 percent or
+less).
+
+In 1996-97, physical attack or fight without a
+weapon was generally the most commonly reported
+crime at the middle and high school levels (9
+and 8 per 1,000 public school students,
+respectively) (figure 9.2 and table 9.8). Theft
+or larceny was more common at the high school
+than the middle school level (6 versus 4 per
+1,000 students).
+
+Overall, there was relatively little variation
+by urbanicity in the crime rates at school
+discussed here during the 1996-97 school year
+(as measured by the number of crimes reported
+per 1,000 public school students) (figure 9.2
+and tables 9.7 and 9.8).
+
+Nonfatal Teacher Victimization at School-Teacher
+Reports
+
+10. Nonfatal teacher victimization at school*
+
+Students are not the only ones who are victims
+of crime at school. Teachers in school can also
+be the targets of violence and theft. In
+addition to the personal toll such violence
+takes on teachers, those who worry about their
+safety may have difficulty teaching and may
+leave the profession altogether. Information on
+the number of crimes against teachers at school
+can help show how severe and widespread the
+problem is.
+
+*The data reported here are new. 
+
+Over the 5-year period from 1994 through 1998,
+teachers were the victims of approximately
+1,755,000 nonfatal crimes at school, including
+1,087,000 thefts and 668,000 violent crimes
+(rape or sexual assault, robbery, aggravated
+assault, and simple assault) (table 10.1). On
+average, this translates into 351,000 nonfatal
+crimes per year, or 83 crimes per 1,000 teachers
+per year. Among the violent crimes against
+teachers during this 5-year period, there were
+about 80,000 serious violent crimes (12 percent
+of the violent crimes), including rape or sexual
+assault, robbery, and aggravated assault. On
+average, this translates into 16,000 serious
+violent crimes per year.
+
+During the 1994-98 period, the average annual
+rate of serious violent crime was similar for
+teachers (on average, 4 per 1,000 teachers),
+regardless of their instructional level, gender,
+race/ethnicity, and the urbanicity of the
+schools where they taught (figure 10.1 and table
+10.1).
+
+In the period from 1994 through 1998, senior
+high school and middle/junior high school
+teachers were more likely to be victims of
+violent crimes (most of which were simple
+assaults) than elementary school teachers (38
+and 60, respectively, versus 18 crimes per 1,000
+teachers) (figure 10.1 and table 10.1).
+
+During the 1994-98 period, senior high and
+middle/junior high school teachers were more
+likely to be targets of theft than elementary
+school teachers (63 and 67, respectively, versus
+39 thefts per 1,000 teachers) (figure 10.1 and
+table 10.1).
+
+The average annual violent crime rate for
+teachers at school varied by gender. Over the
+5-year period from 1994 through 1998, male
+teachers were more likely to be victims of
+violent crimes than female teachers (53 versus
+25 crimes per 1,000 teachers) (figure 10.1 and
+table 10.1).
+
+Teachers were differentially victimized by
+crimes at school according to where they taught.
+For example, over the 5-year period from 1994
+through 1998, urban teachers were more likely to
+be victims of violent crimes than rural and
+suburban teachers (40 versus 24 and 24,
+respectively, per 1,000 teachers). Urban
+teachers were also more likely to experience
+theft than suburban and rural teachers (63
+versus 46 and 31 per 1,000 teachers,
+respectively) (figure 10.1 and table 10.1).
+
+11. Prevalence of teachers being threatened with
+injury or attacked by students*
+
+Some of the offenses against teachers are
+committed by students. Data on physical attacks
+and threats against elementary and secondary
+teachers by students can provide a snapshot of
+the prevalence of this problem.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+In the 1993-94 school year, 12 percent of all
+elementary and secondary school teachers
+(341,000) were threatened with injury by a
+student from their school, and 4 percent
+(119,000) were physically attacked by a student
+(table 11.1).
+
+Teachers in central city schools were more
+likely to be victims than were teachers in urban
+fringe or rural schools in 1993-94 (table 11.1).
+About 15 percent of teachers in central city
+schools had been threatened with injury by
+students, compared with 11 and 10 percent of
+teachers in urban fringe and rural schools.
+About 6 percent of teachers in central city
+schools had been attacked by students, compared
+with 4 and 3 percent of teachers in urban fringe
+and rural schools.
+
+Public school teachers were more likely than
+private school teachers to be victimized by
+students in school in 1993-94 (figure 11.1 and
+table 11.1). Almost 13 percent of public school
+teachers had been threatened with injury by
+students, compared with 4 percent of private
+school teachers, and 4 percent of public school
+teachers had been physically attacked by
+students, compared with 2 percent of private
+school teachers. Teachers in public central city
+schools were about five times more likely to be
+targets of threats of injury and about three
+times more likely to be targets of attacks than
+their colleagues in private central city
+schools.
+
+In 1993-94, secondary school teachers were more
+likely than elementary school teachers to have
+been threatened with injury by a student from
+their school (15 percent versus 9 percent)
+(table 11.1). However, elementary school
+teachers were more likely than secondary school
+teachers to have been physically attacked by a
+student (5 percent versus 3 percent). The
+prevalence of teacher victimization by students
+did not vary according to the racial/ethnic
+backgrounds of teachers.
+
+School Environment
+
+12. Prevalence of students carrying weapons on
+school property*
+
+The presence of weapons at school can create an
+intimidating and threatening atmosphere, making
+teaching and learning difficult. The percentages
+of students who report that they carry a gun or
+other weapon on school property is an indicator
+of how widespread the problem of weapons at
+school is.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+In 1997, 18 percent of students reported
+carrying a weapon such as a gun, knife, or club
+at any time in the past 30 days. About 9 percent
+reported they had carried a weapon on school
+property in the past 30 days (figures 12.1 and
+12.2 and tables 12.1 and 12.2).
+
+Between 1993 and 1997, the percentage of
+students in grades 9 through 12 who reported
+carrying a weapon on school property at least 1
+day within 30 days before the survey fell from
+12 percent to 9 percent (a 25 percent reduction)
+(figure 12.1 and table 12.1). 
+
+There was also a decline in the percentage of
+students in grades 9 through 12 who carried a
+weapon at any time during the past 30 days-from
+22 percent in 1993 to 18 percent in 1997 (figure
+12.2 and table 12.2). 
+
+Males were about three times more likely than
+females to carry a weapon on school property.
+For example, in 1997, 13 percent of males
+carried a weapon on school property, compared
+with 4 percent of females (figure 12.1 and table
+12.1). 
+
+Students in lower grades were more likely to
+have carried a weapon anywhere in the previous
+30 days than were students in higher grades
+(figure 12.2 and table 12.2). For example, in
+1997, 23 percent of 9th graders had carried a
+weapon compared with 15 percent of 12th graders.
+
+Generally, students in lower grades were no more
+likely to carry a weapon to school than other
+students (figure 12.2 and table 12.1). The one
+exception to this general trend was in 1995, in
+which 12th graders were less likely to carry a
+weapon to school than were 10th or 9th grade
+students.
+
+13. Students' perceptions of personal safety at
+school and when traveling to and from school*
+
+One consequence of school violence is the fear
+that it can instill in students. Students who
+fear for their own safety may not be able or
+ready to learn. Concerns about vulnerability to
+attacks by others at school and on the way to
+and from school may also have a detrimental
+effect on the school environment and learning.
+
+*The 1999 data reported here are new.
+Comparisons between the 1989 data and the 1995
+and 1999 data should be made with caution due to
+changes in the questionnaire. See appendix B for
+details.
+
+Between 1995 and 1999, there were decreases in
+the percentages of students feeling unsafe while
+they were at school and while they were going to
+and from school (figures 13.1 and 13.2 and table
+13.1). In 1995, 9 percent of students ages 12
+through 18 sometimes or most of the time feared
+they were going to be attacked or harmed at
+school, while in 1999 this percentage fell to 5
+percent. Between these years, the percentage of
+students fearing they would be attacked while
+traveling to and from school fell from 7 percent
+to 4 percent.
+
+Between 1995 and 1999, there was a decline in
+fear of attacks at school and when traveling to
+and from school among all racial/ethnic groups.
+However, in both years, larger percentages of
+black and Hispanic students than white students
+feared such attacks (figures 13.1 and 13.2 and
+table 13.1).
+
+In both 1995 and 1999, students in lower grades
+were more likely to fear for their safety at
+school than were students in higher grades
+(table 13.1). For example, in 1999, 9 percent of
+students in grade 6 feared for their safety
+while at school, compared with 3 percent of
+students in grade 12.
+
+Between 1995 and 1999 there was a decline in
+fear of attacks at school and to and from school
+within almost all grades. However, in both 1995
+and 1999, students in lower grades were also
+more likely than students in higher grades to
+fear being attacked on the way to and from
+school (table 13.1).
+
+Between 1995 and 1999 there was a decline in
+fear of attacks at school and to and from school
+for students in all areas-urban, suburban and
+rural. However, in 1999, as in 1995, students in
+urban schools were more likely than students in
+suburban or rural schools to fear being attacked
+at school and when travelling to and from school
+(table 13.1).
+
+14. Students' reports of avoiding places in
+school*
+
+One consequence of crime in school is that
+students begin to perceive specific areas in
+school as unsafe. In trying to ensure their own
+safety, they begin to avoid these areas. Changes
+in the percentage of students avoiding areas in
+school may be a good barometer of how safe
+schools are?at least in the minds of those who
+attend these schools.
+
+*The 1999 data reported here are new.
+Comparisons between the 1989 data and the 1995
+and 1999 data should be made with caution due to
+changes in the questionnaire. See appendix B for
+details.
+
+Between 1995 and 1999, there was a decrease in
+the percentage of students ages 12 through 18
+who avoided one or more places in school-from 9
+percent in 1995 to 5 percent in 1999 (figure
+14.1 and table 14.1). Despite this decline, this
+percentage still represented 1.1 million
+students in 1999 who reported avoiding some
+areas in school out of fear for their own
+safety.
+
+The percentage of students of all racial/ethnic
+groups avoiding specific areas in school fell
+between 1995 and 1999 (figure 14.1 and table
+14.1). In both 1995 and 1999, black and Hispanic
+students were more likely to avoid areas in
+school than were white students.
+
+Between 1995 and 1999, there was a decrease in
+the percentage of students reporting avoiding
+areas in school among students of almost all
+grade levels (table 14.1). However, in both
+years, students in lower grades were more likely
+than students in higher grades to report
+avoiding areas in school.
+
+While in 1995, students in urban areas were more
+likely than suburban students to avoid areas in
+school (12 percent versus 8 percent,
+respectively), by 1999 urban and suburban
+students were equally as likely to avoid areas
+in school (figure 14.2 and table 14.1).
+
+15. Students' reports of being called
+hate-related words and seeing hate-related
+graffiti*
+
+A student's exposure to hate-related words or
+symbols at school can increase his or her
+feeling of vulnerability. An environment in
+which students are confronted with
+discriminatory behavior is not conducive to
+learning and creates a climate of hostility.
+
+*This is a new indicator.
+
+In 1999, about 13 percent of students ages 12
+through 18 reported that someone at school had
+used hate-related words against them (figure
+15.1 and table 15.1). That is, in the prior 6
+months someone at school called them a
+derogatory word having to do with
+race/ethnicity, religion, disability, gender, or
+sexual orientation. In addition, about 36
+percent of students saw hate-related graffiti at
+school.
+
+There was very little variation in these
+percentages based on the location of the
+students' households (table 15.1). Students in
+urban, suburban, and rural households were
+equally as likely to report being called
+hate-related words and to see hate-related
+graffiti.
+
+Females were more likely than males to report
+being targets of derogatory words and were also
+more likely to report seeing hate-related
+graffiti at their school (figure 15.1 and table
+15.1). About 14 percent of females reported
+being called hate words in 1999, compared with
+12 percent of males. About 39 percent of females
+had seen hate-related graffiti, compared with 34
+percent of males.
+
+Black students were more likely than white or
+Hispanic students to report being called hate
+words (table 15.1). About 17 percent of black
+students ages 12 through 18 reported being
+targets of derogatory words, compared with 13
+percent of white students and 12 percent of
+Hispanic students. Students of all racial/ethnic
+groups were equally likely to report
+hate-related graffiti at school.
+
+16. Students' reports of gangs at school*
+
+Street gangs are organized groups that are often
+involved in drugs, weapons trafficking, and
+violence. The presence of street gangs in school
+can be very disruptive to the school
+environment. Street gangs may not only create
+fear among students but also increase the level
+of violence in school. The percentage of
+students who report the presence of street gangs
+in their schools indicates the existence and
+severity of the gang problem in schools.
+
+*The 1999 data reported here are new.
+Comparisons between the 1989 data and the 1995
+and 1999 data should be made with caution due to
+changes in the questionnaire. See appendix B for
+details.
+
+Between 1995 and 1999, the percentage of
+students who reported that street gangs were
+present at their schools decreased (figure 16.1
+and table 16.1). In 1995, 29 percent of students
+reported street gangs being present in their
+schools. By 1999, this percentage had fallen to
+17 percent.
+
+Gangs were more likely to be reported in public
+schools than in private schools (figure 16.1 and
+table 16.1). In 1999, 19 percent of students in
+public schools reported that street gangs were
+present in their schools, compared with 4
+percent in private schools. A similar pattern of
+results was reported in 1995. However, between
+these two years, the percentage of public school
+students reporting that gangs were present in
+their schools decreased by about 40 percent
+(from 31 percent in 1995 to 19 percent in 1999)
+as did the percentage of private school students
+reporting gang presence (from 7 percent to 4
+percent).
+
+In 1999, urban students were more likely to
+report that there were street gangs at their
+schools (25 percent) than were suburban and
+rural students (16 percent and 11 percent,
+respectively) (figure 16.2 and table 16.1).
+Between 1995 and 1999, reports of gang presence
+decreased regardless of students' place of
+residence.
+
+In both years, Hispanic and black students were
+more likely than white students to report the
+existence of street gangs in their schools. In
+1995, Hispanic students were more likely than
+black students to do so (figure 16.3 and table
+16.1), while in 1999 they were equally as
+likely. Between 1995 and 1999, reports of gang
+presence decreased for whites, blacks,
+Hispanics, and students of other
+race/ethnicities.
+
+17. Public school principals' reports of
+discipline problems at school*
+
+Discipline problems in a school may contribute
+to an overall climate in which violence may
+occur. Schools that suffer from student drug or
+alcohol use, racial tensions, or verbal and
+physical abuse of teachers may be filled with
+pressures that result in school violence.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+During the 1996-97 school year, 16 percent of
+all public school principals reported that one
+or more discipline issues had been a serious
+problem in their school (figure 17.1 and table
+17.1). About the same percentage of principals
+in city, urban fringe, town, and rural settings
+reported one or more serious discipline
+problems.
+
+Public elementary schools were the least likely
+to report any serious discipline issues,
+followed by middle schools and then high schools
+(figure 17.1 and table 17.1). About 8 percent of
+elementary school principals reported one or
+more of these issues as a serious problem, while
+18 percent of principals in middle schools and
+37 percent of those in high schools did so.
+
+While overall there were no significant
+differences in reported serious problems by
+urbanicity, a greater percentage of principals
+in public city high schools than in rural high
+schools reported having serious discipline
+problems?47 percent compared with 28 percent
+(figure 17.1 and table 17.1).
+
+18. Prevalence of students using alcohol*
+
+The consumption of alcohol by students on school
+property, a crime in itself, may also lead to
+other crimes and misbehavior. It can lead to a
+school environment that is harmful to students,
+teachers, and staff.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+In 1997, 51 percent of students in grades 9
+through 12 had at least one drink of alcohol in
+the 30 days before being surveyed (figure 18.1
+and table 18.1). A much smaller percentage (6
+percent) had at least one drink on school
+property during the same period. 
+
+Approximately the same percentage of students
+had drunk alcohol in 1997 as in 1993 and
+1995-both in general and on school property. 
+
+Males were more likely than females to have used
+alcohol in 1993 and 1997 (figure 18.1 and table
+18.1). Furthermore, males were more likely than
+females to use alcohol on school property. For
+example, in 1997, 7 percent of males had used
+alcohol on school property compared with 4
+percent of females.
+
+Of 9th through 12th graders, in every survey
+year, students in higher grades were more likely
+to report drinking alcohol anywhere than were
+students in lower grades (figure 18.2 and table
+18.1). However, there were no differences by
+grade among students who said they had drunk
+alcohol on school property during 1993, 1995, or
+1997.
+
+19. Prevalence of students using marijuana*
+
+The use of other drugs such as marijuana on
+school property may also cause disruptions in
+the learning environment. The consumption of
+these substances leads to a school environment
+that is harmful to students, teachers, and
+school administrators.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+Between 1993 and 1997, 6 to 9 percent of
+students in grades 9 through 12 reported using
+marijuana on school property during the last 30
+days. About 18 to 26 percent reported using
+marijuana anywhere during the last 30 days
+(figure 19.1 and table 19.1).
+
+There was an increase in the use of marijuana
+among students between 1993 and 1995. In 1995,
+about 25 percent of all students in grades 9
+through 12 had used marijuana in the last 30
+days, compared with 18 percent in 1993 (figure
+19.1 and table 19.1). Marijuana use in 1997, at
+26 percent, was similar to that in 1995.
+However, marijuana use on school property did
+not increase significantly between 1993 and
+1995, or between 1995 and 1997. 
+
+Males were more likely than females to have used
+marijuana in every survey year (figure 19.1 and
+table 19.1), both in general and on school
+property. 
+
+Both males and females increased their overall
+use of marijuana from 1993 to 1997 (figure 19.1
+and table 19.1). The percentage of males who
+reported using marijuana in the 30 days before
+the survey increased from 21 percent in 1993 to
+30 percent in 1997. The percentage of females
+increased from 15 percent to 21 percent. 
+
+Students' grade in school was not associated
+with their use of marijuana on school property
+(figure 19.2 and table 19.1). However, in 1993
+and 1995, students in lower grades were less
+likely than students in higher grades to report
+using marijuana at any time during the last 30
+days. In 1997, this difference by grade was not
+apparent, with students in lower grades about as
+likely to report using marijuana as students in
+higher grades. This pattern occurred because the
+overall use of marijuana in 9th, 10th, and 11th
+grades increased from 1993 to 1997, while its
+use by 12th graders remained relatively
+constant. 
+
+20. Prevalence of students reporting drugs were
+made available to them on school property*
+
+Schools can be places where young people are
+offered or can purchase illegal drugs. The
+availability of drugs on school property is a
+disruptive and corrupting influence in the
+school environment.
+
+*This indicator repeats information from the
+1999 Indicators of School Crime and Safety
+report.
+
+In 1995 and 1997, almost one-third of all
+students in grades 9 through 12 (32 percent)
+reported that someone had offered, sold, or
+given them an illegal drug on school property
+(figure 20.1 and table 20.1). This was an
+increase from 1993 when 24 percent of such
+students reported that illegal drugs were
+available to them on school property. 
+
+The percentages of both males and females
+reporting that illegal drugs were made available
+to them on school property increased between
+1993 and 1995. However, in each survey year,
+males were more likely than females to report
+that drugs were offered, sold, or given to them
+on school property. For example, in 1997, 37
+percent of males reported the availability of
+drugs, while 25 percent of females did so. 
+
+Students' grade level in school did not appear
+to be associated with whether they had been
+offered, sold, or given drugs on school property
+(figure 20.2 and table 20.1). Generally, in each
+survey year, about the same percentage of
+students in each grade level reported the
+availability of illegal drugs.
+
+The racial/ethnic background of students was
+associated with whether they reported having
+illegal drugs offered, sold, or given to them on
+school property (figure 20.3 and table 20.1). In
+general, Hispanics were more likely than
+students from other racial/ethnic groups to
+report having drugs available to them on school
+property.
+
+Supplemental Tables
+
+Standard Error Tables may be obtained by
+contacting ASK_BJS@ojp.usdoj.gov
+
+
+APPENDIX A. SCHOOL PRACTICES AND POLICIES
+RELATED TO SAFETY AND DISCIPLINE*
+
+*This appendix repeats information from the 1999
+Indicators of School Crime and Safety report.
+
+Concern over school crime and violence has
+prompted many public schools to take various
+measures to reduce and prevent violence and
+ensure safety in schools. Such measures include
+adopting zero tolerance policies; requiring
+students to wear uniforms; employing various
+security measures such as requiring visitor
+sign-in and using metal detectors; having police
+or other law enforcement representatives
+stationed at the school; and offering students
+various types of violence prevention programs.
+Presented in this appendix are data on the
+implementation of such safety measures in public
+schools. This report does not evaluate the
+effectiveness of any of these efforts or
+strategies, and the inclusion of a strategy does
+not suggest that it is endorsed by the National
+Center for Education Statistics (NCES) or the
+Bureau of Justice Statistics (BJS) as an
+effective means of reducing or preventing
+violence. Likewise, the omission of a possible
+strategy does not suggest it is rejected by NCES
+or BJS as a policy to reduce or prevent
+violence. This information, along with
+supporting tables, was drawn from a recent NCES
+report titled Violence and Discipline Problems
+in U.S. Public Schools: 1996-97 (NCES 98-030).
+The report was based on data from the 1996-97
+Fast Response Survey System (FRSS)
+Principal/School Disciplinarian Survey on School
+Violence. Readers should consult that report for
+more detailed findings on variation by school
+characteristics.
+
+
+Zero Tolerance Policies
+
+Most public schools reported having zero
+tolerance policies toward serious student
+offenses (table A1). A "zero tolerance policy"
+was defined as a school or district policy that
+mandates predetermined consequences or
+punishments for specific offenses. At least 9
+out of 10 schools reported zero tolerance
+policies for firearms (94 percent) and weapons
+other than firearms (91 percent). Eighty-seven
+percent of schools had policies of zero
+tolerance for alcohol and 88 percent had zero
+tolerance policies for drugs. Most schools also
+had zero tolerance policies for violence and
+tobacco (79 percent each).
+
+
+School Uniforms
+
+Requiring students to wear school uniforms was
+not common. Three percent of all public schools
+required students to wear uniforms during the
+1996-97 school year (table A2). 
+
+
+Security Measures
+
+Schools took a number of measures to secure
+their schools. For example, 96 percent of public
+schools reported that visitors were required to
+sign in before entering the school building
+(table A3); 80 percent of public schools
+reported having a closed campus policy that
+prohibited most students from leaving the campus
+for lunch; 53 percent of public schools
+controlled access to their school building; and
+24 percent of public schools controlled access
+to their school grounds. In addition, 19 percent
+of public schools reported conducting drug
+sweeps, with middle schools and high schools
+being more likely to use drug sweeps than
+elementary schools (36 and 45 percent,
+respectively, versus 5 percent). While 4 percent
+of public schools reported that they performed
+random metal detector checks on students, daily
+use of metal detectors as a security measure was
+not common: only 1 percent of public schools
+reported taking this measure.
+
+
+Presence of Police or Other Law Enforcement
+Representatives in Schools
+
+In addition to the security measures described
+above, 6 percent of public schools reported
+having police or other law enforcement
+representatives stationed 30 hours or more at
+the school in a typical week during the 1996-97
+school year; 1 percent of schools had them
+stationed from 10 to 29 hours; and 3 percent had
+them stationed from 1 to 9 hours. Twelve percent
+of schools did not have police or other law
+enforcement representatives stationed during a
+typical week but made them available as needed,
+and 78 percent of schools did not have any such
+persons stationed at their schools (table A4).
+
+
+Violence Prevention or Reduction Programs
+
+A majority of public schools (78 percent)
+reported having some type of formal school
+violence prevention or reduction program (table
+A5). The percentage of schools with both 1-day
+and ongoing programs (43 percent) was higher
+than schools with only ongoing programs (24
+percent) and schools with only 1-day programs
+(11 percent).
+
+
+Policies to Prevent Firearms in School
+
+In the 1996-97 school year, there were over
+5,000 student expulsions for possession or use
+of a firearm (table A6). An additional 3,300
+students were transferred to alternative schools
+for possession or use of a firearm, while 8,144
+were placed in out-of-school suspensions lasting
+5 or more days. About 5 percent of all public
+schools (or 4,170) took one or more of these
+actions.
+
+
+APPENDIX B. TECHNICAL NOTES
+
+General Information
+
+The information presented in this report was
+obtained from many data sources, including
+databases from the National Center for Education
+Statistics (NCES), the Centers for Disease
+Control and Prevention (CDC), and the Bureau of
+Justice Statistics (BJS). While some of the data
+were collected from universe surveys, most were
+gathered by sample surveys. Some questions from
+different surveys may appear the same, but they
+were actually asked of different populations of
+students (e.g., high school seniors or students
+in grades 9 through 12); in different years;
+about experiences that occurred within different
+periods of time (e.g., in the past 4 weeks or
+during the past 12 months); and at different
+locations (e.g., in school or at home). Readers
+of this report should take particular care when
+comparing data from the different data sources.
+Because of the variation in collection
+procedures, timing, phrasing of questions, and
+so forth, the results from the different sources
+may not be strictly comparable. After
+introducing the data sources used for this
+report, the next section discusses the accuracy
+of estimates and describes the statistical
+procedures used.
+
+
+Sources of Data
+
+Table B1 presents some key information for each
+of the data sets used in the report, including
+the survey year, target population, response
+rates, and sample sizes. The remainder of the
+section briefly describes each data set and
+provides directions for obtaining more
+information. The exact wording of the interview
+questions used to construct the indicators are
+presented in table B2.
+
+
+Schools and Staffing Survey (SASS)
+
+This report draws upon data on teacher
+victimization from the 1993-94 Schools and
+Staffing Survey (SASS:93-94), which provides
+national- and state-level data on public and
+private schools, principals, school districts,
+and teachers. The 1993-94 survey was the third
+in a series of cross-sectional, school-focused
+surveys, following ones conducted in 1990-91 and
+1987-88. It consisted of four sets of linked
+questionnaires, including surveys of schools,
+the principals of each selected school, a
+subsample of teachers within each school, and
+public school districts. Data were collected by
+multistage sampling. Stratified by state,
+control, type, association membership, and grade
+level (for private schools), schools were
+sampled first. Approximately 9,900 public
+schools and 3,300 private schools were selected
+to participate in the 1993-94 SASS. Within each
+school, teachers were further stratified into
+one of five teacher types in the following
+hierarchy: 1) Asian or Pacific Islander; 2)
+American Indian, Aleut, or Eskimo; 3)
+bilingual/ESL; 4) new teachers (those with 1 to
+3 years of experience); and 5) experienced
+teachers (those with more than 3 years of
+experience). Within each teacher stratum,
+teachers were selected systematically with equal
+probability. Approximately 56,700 public school
+teachers and 11,500 private school teachers were
+sampled.
+
+This report focuses on teachers' responses. The
+overall weighted response rates were 84 percent
+for public school teachers and 73 percent for
+private school teachers. In the Public School
+Teacher Questionnaire, 91 percent of the items
+had a response rate of 90 percent or more, and
+in the Private School Teacher Questionnaire, 89
+percent of the items had this level of response.
+Values were imputed for questionnaire items that
+should have been answered but were not. For
+additional information about SASS, refer to R.
+Abramson, C. Cole, S. Fondelier, B. Jackson, R.
+Parmer, and S. Kaufman, 1996, 1993-94 Schools
+and Staffing Survey: Sample Design and
+Estimation (NCES 96-089), or contact:
+
+Kerry Gruber
+National Center for Education Statistics
+1990 K Street NW
+Washington, DC 20006
+Telephone: (202) 502-7349
+E-mail: Kerry_Gruber@ed.gov 
+
+
+National School-Based Youth Risk Behavior Survey
+(YRBS)
+
+The National School-Based Youth Risk Behavior
+Survey (YRBS) is one component of the Youth Risk
+Behavior Surveillance System (YRBSS), an
+epidemiological surveillance system that was
+developed by the Centers for Disease Control and
+Prevention (CDC) to monitor the prevalence of
+youth behaviors that most influence health. The
+YRBS focuses on priority health-risk behaviors
+established during youth that result in the most
+significant mortality, morbidity, disability,
+and social problems during both youth and
+adulthood. This report uses 1993, 1995, and 1997
+YRBS data.
+
+The YRBS used a three-stage cluster sampling
+design to produce a nationally representative
+sample of students in grades 9 through 12 in the
+United States. The target population consisted
+of all public and private school students in
+grades 9 through 12 in the 50 states and the
+District of Columbia. The first-stage sampling
+frame included selecting primary sampling units
+(PSUs) from strata formed on the basis of
+urbanization and the relative percentage of
+black and Hispanic students in the PSU. These
+PSUs are either large counties or groups of
+smaller, adjacent counties. At the second stage,
+schools were selected with probability
+proportional to school enrollment size. Schools
+with substantial numbers of black and Hispanic
+students were sampled at relatively higher rates
+than all other schools. The final stage of
+sampling consisted of randomly selecting within
+each chosen school at each grade 9 through 12
+one or two intact classes of a required subject,
+such as English or social studies. All students
+in selected classes were eligible to
+participate. Approximately 16,300, 10,900, and
+16,300 students were selected to participate in
+the 1993 survey, the1995 survey, and the 1997
+survey, respectively.
+
+The overall response rate was 70 percent for the
+1993 survey, 60 percent for the 1995 survey, and
+69 percent for the 1997 survey. NCES standards
+call for response rates of 70 percent or better
+and bias analyses are called for by NCES when
+that percentage is not achieved. For the YRBS
+data, a full nonresponse bias analysis has not
+been done to date. The weights were developed to
+adjust for nonresponse and the oversampling of
+black and Hispanic students in the sample. The
+final weights were normalized so that only
+weighted proportions of students (not weighted
+counts of students) in each grade matched
+national population projections. For additional
+information about the YRBS, contact:
+
+Laura Kann
+Division of Adolescent and School Health
+National Center for Chronic Disease Prevention
+and Health Promotion
+Centers for Disease Control and Prevention,
+Mailstop K-33
+4770 Buford Highway NE
+Atlanta, Georgia 30341
+Telephone: (404) 488-5330
+E-mail: lkk1@cdc.gov
+
+
+Fast Response Survey System: Principal/School
+Disciplinarian Survey on School Violence
+
+The Principal/School Disciplinarian Survey was
+conducted through the NCES Fast Response Survey
+System (FRSS) during the spring and summer of
+1997. The FRSS is a survey system designed to
+collect small amounts of issue-oriented data
+with minimal burden on respondents and within a
+relatively short time frame. The FRSS
+Principal/School Disciplinarian Survey focused
+on incidents of specific crimes/offenses and a
+variety of specific discipline issues in public
+schools. The survey was conducted with a
+nationally representative sample of regular
+public elementary, middle, and high schools in
+the 50 states and the District of Columbia.
+Special education, alternative and vocational
+schools, schools in the territories, and schools
+that taught only prekindergarten, kindergarten,
+or adult education were not included in the
+sample.
+
+The sample of public schools was selected from
+the 1993-94 NCES Common Core of Data (CCD)
+Public School Universe File. The sample was
+stratified by instructional level, locale, and
+school size. Within the primary strata, schools
+were also sorted by geographic region and by
+percent minority enrollment. The sample sizes
+were then allocated to the primary strata in
+rough proportion to the aggregate square root of
+the size of enrollment of schools in the
+stratum. A total of 1,415 schools were selected.
+Among them, 11 schools were found no longer to
+be in existence, and 1,234 schools completed the
+survey. In April 1997, questionnaires were
+mailed to school principals, who were asked to
+complete the survey or to have it completed by
+the person most knowledgeable about discipline
+issues at the school. The raw response rate was
+88 percent (1,234 schools divided by the 1,404
+eligible schools in the sample). The weighted
+overall response rate was 89 percent, and item
+nonresponse rates ranged from 0 percent to 0.9
+percent. The weights were developed to adjust
+for the variable probabilities of selection and
+differential nonresponse and can be used to
+produce national estimates for regular public
+schools in the 1996-97 school year. For more
+information about the FRSS: Principal/School
+Disciplinarian Survey on School Violence,
+contact:
+
+Shelley Burns
+National Center for Education Statistics
+1990 K Street NW
+Washington, DC 20006
+Telephone: (202) 502-7319
+E-mail: Shelley_Burns@ed.gov
+
+
+National Crime Victimization Survey (NCVS)
+
+The National Crime Victimization Survey (NCVS),
+administered for the U.S. Bureau of Justice
+Statistics by the Bureau of the Census, is the
+nation's primary source of information on crime
+victimization and the victims of crime.
+Initiated in 1972 and redesigned in 1992, the
+NCVS collects detailed information on the
+frequency and nature of the crimes of rape,
+sexual assault, robbery, aggravated and simple
+assault, theft, household burglary, and motor
+vehicle theft experienced by Americans and their
+households each year. The survey measures crimes
+reported as well as those not reported to
+police.
+
+The NCVS sample consists of about 55,000
+households selected using a stratified,
+multi-stage cluster design. In the first stage,
+the primary sampling units (PSUs), consisting of
+counties or groups of counties, are selected. In
+the second stage, smaller areas, called
+Enumeration Districts (EDs), were selected from
+each sampled PSU. Finally, from selected EDs,
+clusters of four households, called segments,
+were selected for interview. At each stage, the
+selection was done proportionate to population
+size in order to create a self-weighting sample.
+The final sample was augmented to account for
+housing units constructed after the decennial
+Census. Within each sampled household, Census
+Bureau personnel interviewed all household
+members ages 12 and older to determine whether
+they had been victimized by the measured crimes
+during the 6 months preceding the interview.
+About 90,000 persons ages 12 and older are
+interviewed each 6 months. Households remain in
+sample for 3 years and are interviewed 7 times
+at 6-month intervals. The initial interview at
+each sample unit is used only to bound future
+interviews to establish a time frame to avoid
+duplication of crimes uncovered in these
+subsequent interviews. After their seventh
+interview, households are replaced by new sample
+households. The NCVS has consistently obtained a
+response rate of about 95 percent at the
+household level. During the study period, the
+completion rates for persons within households
+were about 91 percent. Thus, final response
+rates were about 86 percent. Weights were
+developed to permit estimates for the total U.S.
+population 12 years and older. For more
+information about the NCVS, contact:
+
+Michael Planty
+Victimization Statistics
+U.S. Bureau of Justice Statistics
+810 7th Street NW
+Washington, DC 20531
+Telephone: (202) 514-3214
+E-mail: Michael.Planty@usdoj.gov
+Internet: www.ojp.usdoj.gov/bjs/
+
+
+School Crime Supplement (SCS)
+
+Created as a supplement to the NCVS and
+co-designed by the National Center for Education
+Statistics and Bureau of Justice Statistics, the
+School Crime Supplement (SCS) survey was
+conducted in 1989, 1995, and 1999 to collect
+additional information about school-related
+victimizations on a national level. The survey
+was designed to assist policymakers as well as
+academic researchers and practitioners at the
+federal, state, and local levels so that they
+can make informed decisions concerning crime in
+schools. The SCS asks students a number of key
+questions about their experiences with and
+perceptions of crime and violence that occurred
+inside their school, on school grounds, or on
+the way to or from school. Additional questions
+not included in the NCVS were also added to the
+SCS, such as those concerning preventive
+measures used by the school, students'
+participation in afterschool activities,
+students' perceptions of school rules, the
+presence of weapons and street gangs in school,
+the presence of hate-related words and graffiti
+in school, student reports of bullying at
+school, and the availability of drugs and
+alcohol in school, as well as attitudinal
+questions relating to fear of victimization and
+avoidance behavior in school.
+
+In 1989, 1995, and 1999, the SCS was conducted
+for a 6-month period from January through June
+in all households selected for the NCVS (see
+discussion above for information about the
+sampling design). It should be noted that the
+initial interview is included in the SCS data
+analysis. Within these households, the eligible
+respondents for the SCS were those household
+members who had attended school at any time
+during the 6 months preceding the interview, and
+were enrolled in grades 6 through 12 in a school
+that would help them advance toward eventually
+receiving a high school diploma. Eligible
+respondents were asked the supplemental
+questions in the SCS only after completing their
+entire NCVS interview. For the 1989 and the 1995
+SCS, 19-year-old household members also were
+considered eligible for the SCS interview. This
+upper age range was lowered to 18 for
+eligibility in the 1999 SCS because it was
+determined that most 19-year-olds did not meet
+the other eligibility requirement of being
+currently enrolled in a secondary school. In
+this report, 19-year-olds were excluded from the
+analysis of the 1995 data in order to meet the
+eligibility requirements and to allow for
+comparisons to the 1999 SCS. However, the
+19-year-olds were not dropped from the analysis
+of the 1989 data. 
+
+Comparisons between the 1989 data and the 1995
+and 1999 data should be made with caution due to
+the redesign of the NCVS in 1992. A new
+victimization screening procedure, put in place
+in 1992, was meant to elicit a more complete
+tally of victimization incidents than did the
+one used in prior NCVS collections. Therefore,
+NCVS item-based cross-year changes in reported
+victimization rates, or lack thereof, may only
+be the result of changes in how the questions
+were asked and not of actual changes in the
+incidence of victimization. Because NCVS
+questionnaires were completed before students
+were given the SCS, it is likely that these
+changes to the NCVS victimization screening
+procedures differentially affected responses to
+the 1989 and 1995 SCS victimization items. Other
+items in this report, such as fear at school,
+avoidance of places at school, and reports of
+gangs at school, followed the victimization
+items on the SCS survey. 
+
+Unlike prior Indicators reports, the prevalence
+of victimization for 1995 and 1999 was
+calculated by using NCVS incident variables
+appended to the 1995 and 1999 SCS data files.
+The NCVS type of crime variable was used to
+classify victimizations of students in the SCS
+as serious violent, violent, or theft. The NCVS
+variables asking where the incident happened and
+what the victim was doing when it happened were
+used to ascertain whether the incident happened
+at school. For prevalence of victimization, the
+NCVS definition of at school includes in the
+school building, on school property, or on the
+way to or from school. 
+
+Total victimization is a combination of violent
+victimization and theft. If the student reported
+an incident of either, he or she is counted as
+having experienced "total" victimization. If the
+student reported having experienced both, he or
+she is counted once under "total victimization."
+Serious violent crimes include rape, sexual
+assault, robbery, and aggravated assault.
+Violent crimes include serious violent crimes
+and simple assault. A total of 10,449 students
+participated in the 1989 SCS, 9,728 in the 1995
+SCS and 8,398 in 1999. In the 1999 SCS, the
+household completion rate was 94 percent. In the
+1989 and 1995 SCS, the household completion
+rates were 97 percent and 95 percent,
+respectively, and the student completion rates
+were 86 percent and 78 percent, respectively.
+For the 1999 SCS, the student completion rate
+was 78 percent. Thus, the overall SCS response
+rate (calculated by multiplying the household
+completion rate by the student completion rate)
+was 84 percent in 1989, 74 percent in 1995 and
+73 percent in 1999. Response rates for most
+survey items were high-mostly over 95 percent of
+all eligible respondents. The weights were
+developed to compensate for differential
+probabilities of selection and nonresponse. The
+weighted data permit inferences about the
+eligible student population who were enrolled in
+schools in 1989, 1995 and 1999. For more
+information about SCS, contact:
+
+Kathryn A. Chandler
+National Center for Education Statistics
+1990 K Street NW
+Washington, DC 20006
+Telephone: (202) 502-7326
+E-mail: Kathryn_Chandler@ed.gov 
+
+
+School Associated Violent Death Study (SAVD)
+
+The School Associated Violent Death Study (SAVD)
+is an epidemiological study developed by the
+Centers for Disease Control and Prevention in
+conjunction with the U.S. Department of
+Education and the U.S. Department of Justice.
+SAVD seeks to describe the epidemiology of
+school-associated violent deaths, identify
+common features of these deaths, estimate the
+rate of school-associated violent death in the
+United States, and identify potential risk
+factors for these deaths. The study includes
+descriptive data on all school-associated
+violent deaths in the United States including
+all homicides, suicides and firearm-related
+deaths where the fatal injury occurred on the
+campus of a functioning elementary or secondary
+school, while the victim was on the way to or
+from regular sessions at such a school, or while
+attending or on the way to or from an official
+school-sponsored event. Victims of such events
+include nonstudents as well as students and
+staff members. SAVD includes descriptive
+information about the school, event, victim(s)
+and offender(s). The first SAVD study collected
+data for July 1, 1992-June 30, 1994 and the
+follow-up study includes July 1, 1994-June 30,
+1999. The follow-up study is nearing completion,
+and data presented in this report include
+preliminary findings for the 1997-1998 school
+year. 
+
+SAVD uses a four step process to identify and
+collect data on school-associated violent
+deaths. Cases were initially identified through
+a search of the Lexis/Nexis and Dialog newspaper
+and media databases. Then police officials are
+contacted to confirm the details of the case to
+determine if the event meets the case
+definition. Once a case is confirmed, a police
+official and a school official are interviewed
+in regards to details about the school, event,
+victim(s), and offender(s).  If police officials
+are unwilling or unable to complete the
+interview, a copy of the full police report is
+obtained. The information obtained about schools
+includes school demographics,
+attendance/absentee rates, suspension/expulsions
+and mobility, school history of weapon carrying,
+security measures, violence prevention
+activities, school response to the event and
+school policies about weapon carrying. Event
+information includes the location of injury, the
+context of injury (while classes held, during
+break etc.), motives for injury, method of
+injury, and school and community events
+happening around the time-period. Information
+obtained on victim(s) and offender(s) includes
+demographics, circumstances of the event
+(date/time, alcohol or drug use, number of
+persons involved), types and origins of weapons,
+criminal history, psychological risk factors,
+school related problems, extracurricular
+activities, and family history including
+structure and stressors.
+
+One-hundred and five school-associated violent
+deaths were identified from July 1, 1992-June
+30, 1994 (See Kachur et al. June 12, 1996. JAMA.
+275:22: 1729-1733). While the current study is
+still ongoing, over 250 school-associated
+violent deaths have been identified for July 1,
+1994-June 30, 1999. The first study achieved a
+response rate of 85% for police officials and
+81% for school officials. To date, the current
+study has achieved 96% for police officials and
+79% for school officials. For additional
+information about SAVD, contact:
+
+Mark Anderson
+Division of Violence Prevention
+National Center for Injury Prevention and
+Control
+Centers for Disease Control and Prevention,
+Mailstop K60
+4770 Buford Highway NE
+Atlanta, GA 30341
+Telephone: (404) 488-4762
+E-mail: mea6@cdc.gov
+
+
+Accuracy of Estimates
+
+The accuracy of any statistic is determined by
+the joint effects of "nonsampling" and
+"sampling" errors. Both types of error affect
+the estimates presented in this report. Several
+sources can contribute to nonsampling errors.
+For example, members of the population of
+interest are inadvertently excluded from the
+sampling frame; sampled members refuse to answer
+some of the survey questions (item nonresponse)
+or all of the survey questions (questionnaire
+nonresponse); mistakes are made during data
+editing, coding, or entry; the responses that
+respondents provide differ from the "true"
+responses; or measurement instruments such as
+tests or questionnaires fail to measure the
+characteristics they are intended to measure.
+Although nonsampling errors due to questionnaire
+and item nonresponse can be reduced somewhat by
+the adjustment of sample weights and imputation
+procedures, correcting nonsampling errors or
+gauging the effects of these errors is usually
+difficult.
+
+Sampling errors occur because observations are
+made on samples rather than on entire
+populations. Surveys of population universes are
+not subject to sampling errors. Estimates based
+on a sample will differ somewhat from those that
+would have been obtained by a complete census of
+the relevant population using the same survey
+instruments, instructions, and procedures. The
+standard error of a statistic is a measure of
+the variation due to sampling; it indicates the
+precision of the statistic obtained in a
+particular sample. In addition, the standard
+errors for two sample statistics can be used to
+estimate the precision of the difference between
+the two statistics and to help determine whether
+the difference based on the sample is large
+enough so that it represents the population
+difference.
+
+Most of the data used in this report were
+obtained from complex sampling designs rather
+than a simple random design. In these sampling
+designs, data were collected through
+stratification, clustering, unequal selection
+probabilities, or multistage sampling. These
+features of the sampling usually result in
+estimated statistics that are more variable
+(that is, have larger standard errors) than they
+would have been if they had been based on data
+from a simple random sample of the same size.
+Therefore, calculation of standard errors
+requires procedures that are markedly different
+from the ones used when the data are from a
+simple random sample. The Taylor series
+approximation technique or the balanced repeated
+replication (BRR) method was used to estimate
+most of the statistics and their standard errors
+in this report. Table B3 lists the various
+methods used to compute standard errors for
+different data sets.
+
+Standard error calculation for data from the
+National Crime Victimization Survey and the
+School Crime Supplement relied on a combination
+of procedures. For statistics based on the 1995
+and 1999 SCS data, the Taylor series
+approximation method using PSU and strata
+variables available from the data set was
+employed. For statistics based on all years of
+NCVS data and the 1989 SCS data, standard errors
+were derived from a formula developed by the
+Census Bureau, which consists of three
+generalized variance function (gvf) constant
+parameters that represent the curve fitted to
+the individual standard errors calculated using
+the Jackknife Repeated Replication technique.
+The formulas used to compute the adjusted
+standard errors associated with percentages or
+population counts can be found in table B3. 
+
+
+Statistical Procedures
+
+The comparisons in the text have been tested for
+statistical significance to ensure that the
+differences are larger than might be expected
+due to sampling variations. Unless otherwise
+noted, all statements cited in the report are
+statistically significant at the .05 level.
+Several test procedures were used, depending
+upon the type of data being analyzed and the
+nature of the statement being tested. The
+primary test procedure used in this report was
+the Student's t statistic, which tests the
+difference between two sample estimates, for
+example, between males and females. The formula
+used to compute the t statistic is as follows:
+
+(1)
+
+where E1 and E2 are the estimates to be compared
+and se1 and se2 are their corresponding standard
+errors. Note that this formula is valid only for
+independent estimates. When the estimates are
+not independent (for example, when comparing a
+total percentage with that for a subgroup
+included in the total), a covariance term (i.e.,
+2*se1*se2) must be added to the denominator of
+the formula:
+
+(2)
+
+Once the t value was computed, it was compared
+with the published tables of values at certain
+critical levels, called alpha levels. For this
+report, an alpha value of 0.05 was used, which
+has a t value of 1.96. If the t value was larger
+than 1.96, then the difference between the two
+estimates was statistically significant at the
+95 percent level. 
+
+When multiple comparisons among more than two
+groups were made, for example, among
+racial/ethnic groups, a Bonferroni adjustment to
+the significance level was used to ensure that
+the significance level for the tests as a group
+was at the .05 level. Generally, when multiple
+statistical comparisons are made, it becomes
+increasingly likely that an indication of a
+population difference is erroneous. Even when
+there is no difference in the population, at an
+alpha of .05, there is still a 5 percent chance
+of concluding that an observed t value
+representing one comparison in the sample is
+large enough to be statistically significant. As
+the number of comparisons increase, the risk of
+making such an erroneous inference also
+increases. The Bonferroni procedure corrects the
+significance (or alpha) level for the total
+number of comparisons made within a particular
+classification variable. For each classification
+variable, there are (K*(K-1)/2) possible
+comparisons (or nonredundant pairwise
+combinations), where K is the number of
+categories. The Bonferroni procedure divides the
+alpha level for a single t test by the number of
+possible pairwise comparisons in order to
+produce a new alpha level that is corrected for
+the fact that multiple contrasts are being made.
+As a result, the t value for a certain alpha
+level (e.g., .05) increases, which makes it more
+difficult to claim that the difference observed
+is statistically significant.
+
+Finally, a linear trend test was used when a
+statement describing a linear trend, rather than
+the differences between two discrete categories,
+was made. This test allows one to examine
+whether, for example, the percentage of students
+using drugs increased (or decreased) over time
+or whether the percentage of students who
+reported being physically attacked in school
+increased (or decreased) with their age. Based
+on a regression with, for example, student's age
+as the independent variable and whether a
+student was physically attacked as the dependent
+variable, the test involves computing the
+regression coefficient (b) and its corresponding
+standard error (se). The ratio of these two
+(b/se) is the test statistic t. If t is greater
+than 1.96, the critical value for one comparison
+at the .05 alpha level, the hypothesis that
+there is a linear relationship between student's
+age and being physically attacked is not
+rejected. 
+
+
+APPENDIX C. GLOSSARY OF TERMS
+
+General Terms
+
+Cluster sampling - Cluster sampling is a
+technique in which the sampling of respondents
+or subjects occurs within clusters or groups.
+For example, selecting students by sampling
+schools and the students that attend that
+school. 
+
+Crime - Any violation of a statute or regulation
+or any act that the government has determined is
+injurious to the public, including felonies and
+misdemeanors. Such violation may or may not
+involve violence, and it may affect individuals
+or property.
+
+Incident - A specific criminal act or offense
+involving one or more victims and one or more
+offenders.
+
+Multi-stage sampling - A survey sampling
+technique in which there is more than one wave
+of sampling. That is, one sample of units is
+drawn, and then another sample is drawn within
+that sample. For example, at the first stage, a
+number of Census blocks may be sampled out of
+all the Census blocks in the United States. At
+the second stage, households are sampled within
+the previously sampled Census blocks. 
+
+Prevalence - The percentage of the population
+directly affected by crime in a given period.
+This rate is based upon specific information
+elicited directly from the respondent regarding
+crimes committed against his or her person,
+against his or her property, or against an
+individual bearing a unique relationship to him
+or her. It is not based upon perceptions and
+beliefs about, or reactions to, criminal acts.
+
+School - An education institution consisting of
+one or more of grades K through 12.
+
+School crime - Any criminal activity that is
+committed on school property.
+
+School year - The 12-month period of time
+denoting the beginning and ending dates for
+school accounting purposes, usually from July 1
+through June 30.
+
+Stratification - Stratification is a survey
+sampling technique in which the target
+population is divided into mutually exclusive
+groups or strata based on some variable or
+variables (e.g. metropolitan area) and sampling
+of units occurs separately within each stratum. 
+
+Unequal probabilities - A survey sampling
+technique in which sampled units do not have the
+same probability of selection into the sample.
+For example, the investigator may over-sample
+minority students in order to increase the
+sample sizes of minority students. Minority
+students would then be more likely than
+non-minority students to be sampled. 
+
+Specific Terms Used in Various Surveys
+
+National Crime Victimization Survey
+
+At school (students) - Inside the school
+building, on school property (school parking
+area, play area, school bus, etc.), or on the
+way to or from school.
+
+At school (teachers) - Inside the school
+building, on school property (school parking
+area, play area, school bus, etc.), at work
+site, or while working.  For thefts, "while
+working" was not considered, since thefts of
+teachers' property kept at school can occur when
+teachers are not present.
+
+Aggravated assault - Attack or attempted attack
+with a weapon, regardless of whether or not an
+injury occurs, and attack without a weapon when
+serious injury results.
+
+Rape - Forced sexual intercourse including both
+psychological coercion as well as physical
+force. Forced sexual intercourse means vaginal,
+anal, or oral penetration by the offender(s).
+This category also includes incidents where the
+penetration is from a foreign object such as a
+bottle.
+
+Robbery - Completed or attempted theft, directly
+from a person, of property or cash by force or
+threat of force, with or without a weapon, and
+with or without injury.
+
+Rural - A place not located inside the
+Metropolitan Statistical Area (MSA). This
+category includes a variety of localities,
+ranging from sparsely populated rural areas to
+cities with populations of less than 50,000.
+
+Serious violent crime - Rape, sexual assault,
+robbery, or aggravated assault.
+
+Sexual assault - A wide range of victimizations,
+separate from rape or attempted rape. These
+crimes include attacks or attempted attacks
+generally involving unwanted sexual contact
+between the victim and offender. Sexual assault
+may or may not involve force and includes such
+things as grabbing or fondling. Sexual assault
+also includes verbal threats.
+
+Simple assault - Attack without a weapon
+resulting either in no injury, minor injury, or
+in undetermined injury requiring less than 2
+days of hospitalization. Also includes attempted
+assault without a weapon.
+
+Suburban - A county or counties containing a
+central city, plus any contiguous counties that
+are linked socially and economically to the
+central city. On the data tables, suburban areas
+are categorized as those portions of
+metropolitan areas situated "outside central
+cities."
+
+Theft - Completed or attempted theft of property
+or cash without personal contact.
+
+Victimization - A crime as it affects one
+individual person or household. For personal
+crimes, the number of victimizations is equal to
+the number of victims involved. The number of
+victimizations may be greater than the number of
+incidents because more than one person may be
+victimized during an incident.
+
+Victimization rate - A measure of the occurrence
+of victimizations among a specific population
+group.
+
+Violent crime - Rape, sexual assault, robbery,
+or assault.
+
+Urban - The largest city (or grouping of cities)
+in an MSA.
+
+School Crime Supplement
+
+At school - In the school building, on the
+school grounds, or on a school bus.
+
+Any victimization - Combination of violent and
+property victimization.  If a student reported
+an incident of either, he or she is counted as
+having experienced any victimization.  If the
+student reported having experienced both, he or
+she is counted once under "any victimization."
+
+Property victimization - Theft of property from
+a student's desk, locker, or other locations at
+school.
+
+Violent victimization - Physical attacks or
+taking property from the student directly by
+force, weapons, or threats.
+
+Youth Risk Behavior Survey
+
+On school property - On school property is
+included in the question wording but was not
+defined for respondents.
+
+Weapon    Any instrument or object used with
+the intent to threaten, injure, or kill.
+Examples of weapons appearing in the
+questionnaire include guns, knives, and clubs.
+
+Illegal drugs - Examples of illegal drugs were
+marijuana, cocaine, inhalants, steroids, or
+prescription drugs without a doctor's
+permission, LSD, PCP, ecstasy, mushrooms, speed,
+ice, and heroin.
+
+FRSS Principal/School Disciplinarian Survey
+
+At school - In school buildings, on school
+buses, on school grounds, or at places that hold
+school-sponsored events or activities, but are
+not officially on school grounds.
+
+Central region - Illinois, Indiana, Iowa,
+Kansas, Michigan, Minnesota, Missouri, Nebraska,
+North Dakota, Ohio, South Dakota, and Wisconsin.
+
+City - A central city of a Metropolitan
+Statistical Area (MSA).
+
+Elementary school - A school that has a low
+grade of 3 or less and a high grade of 1 through
+8.
+
+Free/reduced-price lunch - The percent of
+students enrolled in the school who are eligible
+for the federally funded free or reduced-price
+lunch program.
+
+High school/combined - A school that has a low
+grade of 9 through 12 and a high grade of 10
+through 12. Schools that do not precisely meet
+these qualifications, and are not elementary and
+middle schools, are classified as "combined" and
+are included in the analyses with high schools.
+
+Less serious or nonviolent crime - Physical
+attack or fight without a weapon, theft or
+larceny, or vandalism.
+
+Minority enrollment - The percent of students
+enrolled in the school whose race or ethnicity
+is classified as one of the following: American
+Indian or Alaskan Native, Asian or Pacific
+Islander, black, or Hispanic, based on data in
+the 1993-94 Common Core of Data (CCD) file.
+
+Middle school - A school that has a low grade of
+4 through 9 and a high grade of 4 through 9.
+
+Northeast region - Connecticut, Delaware,
+District of Columbia, Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New
+York, Pennsylvania, Rhode Island, and Vermont.
+
+Robbery - The taking or attempting to take
+anything of value that is owned by another
+person or organization, under confrontational
+circumstances by force or threat of force or
+violence and/or by putting the victim in fear.
+
+Physical attack or fight - An actual and
+intentional touching or striking of another
+person against his or her will, or the
+intentional causing of bodily harm to an
+individual. This category should be used only
+when the attack is serious enough to warrant
+calling the police or other law enforcement
+representative.
+
+Rural - A place with a population less than
+2,500 and defined as rural by the U.S. Bureau of
+the Census.
+
+School enrollment - Total number of students
+enrolled as defined by the 1993-94 CCD.
+
+Serious violent crime - Murder, suicide, rape or
+sexual battery, physical attack or fight with a
+weapon, or robbery.
+
+Sexual battery - An incident that includes rape,
+fondling, indecent liberties, child molestation,
+or sodomy.
+
+Southeast region - Alabama, Arkansas, Florida,
+Georgia, Kentucky, Louisiana, Mississippi, North
+Carolina, South Carolina, Tennessee, Virginia,
+and West Virginia.
+
+Theft or larceny - The unlawful taking of
+another person's property without personal
+confrontation, threat, violence, or bodily harm.
+
+Town - A place not within an MSA, but with a
+population greater than or equal to 2,500 and
+defined as urban by the U.S. Bureau of the
+Census.
+
+Urban fringe - A place within an MSA of a
+central city, but not primarily its central
+city.
+
+Vandalism - The damage or destruction of school
+property.
+
+West region - Alaska, Arizona, California,
+Colorado, Hawaii, Idaho, Montana, Nevada, New
+Mexico, Oklahoma, Oregon, Texas, Utah,
+Washington, and Wyoming.
+Schools and Staffing Survey
+
+Central city - A large central city (a central
+city of a Metropolitan Statistical Area [MSA]
+with population greater than or equal to
+400,000, or a population density greater than or
+equal to 6,000 per square mile) or a mid-size
+central city (a central city of an MSA, but not
+designated as a large central city).
+
+Elementary school teachers - An elementary
+school teacher is one who, when asked for the
+grades taught, checked: 1) only "ungraded" and
+was designated as an elementary teacher on the
+list of teachers provided by the school; 2) 6th
+grade or lower, or "ungraded," and no grade
+higher than 6th; 3) 6th grade or lower and 7th
+grade or higher, and reported a primary
+assignment of prekindergarten, kindergarten, or
+general elementary; 4) 7th and 8th grades only,
+and reported a primary assignment of
+prekindergarten, kindergarten, or general
+elementary; 5) 6th grade or lower and 7th grade
+or higher, and reported a primary assignment of
+special education and was designated as an
+elementary teacher on the list of teachers
+provided by the school; or 6) 7th and 8th grades
+only, and reported a primary assignment of
+special education and was designated as an
+elementary teacher on the list of teachers
+provided by the school. A teacher at school that
+has grade 6 or lower, or one that is "ungraded"
+with no grade higher than the 8th.
+
+Rural or small town - Rural area (a place with a
+population of less than 2,500 and defined as
+rural by the U.S. Bureau of the Census) or a
+small town (a place not within an MSA, with a
+population of less than 25,000, but greater than
+or equal to 2,500, and defined as nonurban by
+the U.S. Bureau of the Census).
+     
+Secondary school teachers - A secondary school
+teacher is one who, when asked for the grades
+taught, checked: 1) "ungraded" and was
+designated as a secondary teacher on the list of
+teachers provided by the school; 2) 6th grade or
+lower and 7th grade or higher, and reported a
+primary assignment other than prekindergarten,
+kindergarten, or general elementary; 3) 9th
+grade or higher, or 9th grade or higher and
+"ungraded"; 4) 7th and 8th grades only, and
+reported a primary assignment other than
+prekindergarten, kindergarten, general
+elementary, or special education; 5) 7th and 8th
+grades only, and reported a primary assignment
+of special education and was designated as a
+secondary teacher on the list of teachers
+provided by the school; or 6) 6th grade or lower
+and 7th grade or higher, or 7th and 8th grades
+only, and was not categorized above as either
+elementary or secondary.
+
+Urban fringe or large town - Urban fringe of a
+large or mid-size city (a place within an MSA of
+a mid-size central city and defined as urban by
+the U.S. Bureau of the Census) or a large town
+(a place not within an MSA, but with a
+population greater or equal to 25,000 and
+defined as urban by the U.S. Bureau of the
+Census).
+
+S. Patrick Kachur et al., "School-Associated
+Violent Deaths in the United States, 1992 to
+1994"
+
+Homicide - An act involving a killing of one
+person by another resulting from interpersonal
+violence.
+
+School-associated violent death - A homicide or
+suicide in which the fatal injury occurred on
+the campus of a functioning elementary or
+secondary school in the United States, while the
+victim was on the way to or from regular
+sessions at such a school, or while the victim
+was attending or traveling to or from an
+official school-sponsored event. Victims
+included nonstudents as well as students and
+staff members.
+
+Suicide - An act of taking one's own life
+voluntarily and intentionally.

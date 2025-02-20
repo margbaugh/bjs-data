@@ -1,0 +1,2608 @@
+U.S. DEPARTMENT OF JUSTICE
+U.S. DEPARTMENT OF EDUCATION
+
+
+NATIONAL CENTER FOR EDUCATION STATISTICS 
+BUREAU OF JUSTICE STATISTICS
+
+March 1998
+
+1989 and 1995 School Crime Supplement to the National Crime
+Victimization Survey
+
+Students' Reports of School Crime:  1989 and 1995
+
+U.S. Department of Education, Office of Educational Research and
+Improvement, NCES 98-241 U.S. Department of Justice, Office of
+Justice Programs, NCJ-169607
+
+Kathryn A. Chandler, National Center for Education Statistics
+Christopher D. Chapman, National Center for Education Statistics
+Michael R. Rand, Bureau of Justice Statistics Bruce M. Taylor,
+Ph.D., Bureau of Justice Statistics
+
+U.S. Department of Education, Office of Educational Research and
+Improvement, NCES 98-241 U.S. Department of Justice, Office of
+Justice Programs, NCJ-169607
+
+U.S. Department of Education U.S. Department of Justice Richard
+W. Riley, Secretary Janet Reno, Attorney General
+
+Office of Educational Research and Improvement Office of Justice
+Programs Ricky T. Takai, Acting Assistant Secretary Laurie O.
+Robinson, Assistant Attorney General
+
+National Center for Education Statistics Bureau of Justice
+Statistics Pascal D. Forgione, Jr., Commissioner Jan M. Chaiken,
+Director
+
+The National Center for Education Statistics (NCES) is the 
+primary federal entity for collecting, analyzing, and reporting 
+data related to education in the United States and other 
+nations.  It fulfills a congressional mandate to collect, 
+collate, analyze, and report full and complete statistics  on
+the condition of education in the United States; conduct  and
+publish reports and specialized analyses of the meaning  and
+significance of such statistics; assist state and local 
+education agencies in improving their statistical systems;  and
+report on education activities in foreign countries.
+
+The Bureau of Justice Statistics (BJS) is the primary federal 
+entity for collecting, analyzing, publishing, and disseminating 
+statistical information about crime, its perpetrators and 
+victims, and the operation of the justice system at all  levels
+of government.  These data are critical to federal,  state, and
+local policymakers in combating crime and ensuring  that justice
+is both efficient and evenhanded.
+
+ March 1998
+
+Suggested Citation
+
+Chandler, K. A., Chapman, C. D., Rand, M. R. and Taylor, B. M.  
+Students' Reports of School Crime:  1989 and 1995.  U.S. 
+Departments of Education and Justice.  NCES 98-241/NCJ-169607. 
+Washington, D.C.: 1998.
+
+This publication can be downloaded from the World Wide Web at
+http://nces.ed.gov or http://www.ojp.usdoj.gov/bjs/.  Single
+hard copies can be ordered through the National Library of
+Education at 1-800-424-1616 (NCES 98-241), and the Bureau of
+Justice Statistics Clearinghouse at 1-800-732-3277 (NCJ-169607). 
+
+Contact at NCES: Kathryn Chandler (202) 219-1767 (e-mail)
+kathryn_chandler@ed.gov
+
+Contact at BJS: Michael Rand (202) 616-3494 (e-mail)
+randm@ojp.usdoj.gov
+
+NOTE:  Dr. Bruce Taylor is now with the General Accounting
+Office:  (e-mail) taylorb.ggd@gao.gov
+
+-------------------
+Foreword
+-------------------
+
+All of us are concerned when children are victims of crime, 
+especially violent crime, but schools bear a special responsibility 
+for the safety of students when they are in the classroom, 
+on school grounds, or on school-provided transportation.  
+For this reason, the Bureau of Justice Statistics and the 
+National Center for Education Statistics have collaborated 
+on collecting information about students' experience of 
+crime and crime-related conditions at school.
+
+This is the first report that analyzes the two (1989 and 1995)
+School Crime Supplements to the National Crime Victimization
+Survey together.  It presents a national portrait of the extent
+to which students ages 12 to 19 experience violent crime or
+theft of their property at school, and their perceptions of the
+presence of guns, street gangs, and illegal drugs at their
+schools.  It also highlights the important changes in these
+crime-related factors between 1989 and 1995.
+
+Much more data were collected than are analyzed in this report,
+so we plan future reports that provide more in-depth analyses of
+the 1989 and 1995 data.  In addition, we hope to produce more
+frequent updates of information from this survey of students and
+to present annually a variety of statistics about the safety of
+children in school.
+
+The students in this study were interviewed in their homes or by
+telephone from their homes.  These interviews were ably
+conducted by the Census Bureau, which also prepared the data for
+our analysis teams.  The Bureau of Labor Statistics helped in
+the wording of the questionnaire items.  We also want to thank
+all of the students who answered our questions and the adult
+members of their households who gave permission for this
+statistical data collection.
+
+ Pascal D. Forgione, Jr., Ph.D. Jan M. Chaiken, Ph.D.
+Commissioner of Education Statistics Director of the Bureau of
+Justice Statistics
+
+-------------------------
+ Acknowledgments 
+-------------------------
+
+Altogether, four federal statistical agencies contributed to the
+making of the 1995 School Crime Supplement (SCS) to the National
+Crime Victimization Survey (NCVS).  While the authors represent
+the Bureau of Justice Statistics (BJS) and the National Center
+for Education Statistics (NCES), persons at the Bureau of the
+Census and the Bureau of Labor Statistics also contributed.  The
+authors would like to thank Kathy Creighton and Marilyn Monihan
+and the headquarters and field staff of the Bureau of the Census
+for their hard work during the design, data collection, and data
+cleaning phases of this effort.  Also contributing during the
+design phase was Linda Stinson from the Office of Survey Methods
+Research at the Bureau of Labor Statistics, who helped test
+items for the questionnaire.  
+
+We are grateful to Paul Planchon, Associate Commissioner of
+NCES, for encouraging us to pursue this collection and report,
+and to Dan Kasprzyk, Director of Education Survey Programs at
+NCES for helping to find the resources necessary to complete the
+report.  In addition, we would like to thank Mary Frase and John
+Ralph, also from NCES, for their contributions during the design
+phase.  
+
+From BJS, we wish to thank Charles Kindermann, Chief of Crime
+Measurement, Methodology, and Systems Support, and Patsy Klaus
+of the Victimization Statistics Branch for their work in
+planning and fielding the SCS.
+
+Reviewers of the report included Marilyn McMillen, Dan Kasprzyk,
+Michael Cohen, Mary Frase, John Ralph, and Edie McArthur at NCES
+and Lawrence Greenfeld, Patsy Klaus, and Tom Hester at BJS. 
+Outside of NCES and BJS, school crime experts who reviewed the
+report were Paul Kingery of the Hamilton Fish National Institute
+on School and Community Violence, Barbara Allen-Hagen of the
+Office of Juvenile Justice and Delinquency Prevention of the
+U.S. Department of Justice, and, from other parts of the
+Department of Education, Ollie Moles of the Office of
+Educational Research and Improvement, Bill Modzeleski and Sara
+Strizzi of the Safe and Drug Free Schools Program, and Joanne
+Wiggins of the Planning and Evaluation Service.  The authors
+appreciate the thorough reading and thoughtful suggestions
+provided by these reviewers.  Their input substantially improved
+the publication.  Any remaining errors or problems are the sole
+responsibility of the authors.
+
+Finally, the authors would like to thank Amanda Miller of the
+Education Statistics Services Institute and Marilyn Marbrook,
+Chief of Publication and Electronic Dissemination at BJS,  for
+their assistance in preparing this document for publication and
+dissemination. 
+
+----------------------------------
+TABLE OF CONTENTS
+----------------------------------
+
+Section                                               
+
+Introduction and Background                              
+
+Student Victimization                                     
+
+Availability of Drugs                                    
+
+Street Gangs at School                                   
+
+Guns at School                                           
+
+Summary                                                  
+
+Methodology                                             
+
+Appendix A:  Tables of Standard Errors          
+         
+Appendix B:  Questionnaires                              
+
+---------------------------------
+LIST OF TABLES
+---------------------------------
+
+1.  Percent of students ages 12 through 19 reporting criminal
+victimization at school, by selected characteristics and
+perceptions of conditions at school:  1989 and 1995             
+                            
+
+2.  Percent of students ages 12 through 19 reporting the
+availability of drugs at school, by selected characteristics and
+perceptions of conditions at school: 1989 and 1995 
+
+3.  Percent of students ages 12 through 19 reporting the
+difficulty of obtaining various drugs at school:  1989 and 1995 
+                                                 
+
+4.  Percent of students ages 12 through 19 reporting the
+presence of street gangs at school, by selected characteristics
+and perceptions of conditions at school:  1989 and 1995         
+                                
+
+5.  Percent of students ages 12 through 19 reporting guns at
+school, by selected characteristics and perceptions of
+conditions at school:  1995                         
+
+
+---------------------------------
+LIST OF FIGURES 
+---------------------------------
+
+1.  Percent of students ages 12 through 19 who reported
+experiencing various forms of victimization at school: 1989 and
+1995                                                
+
+2.  Percent of students ages 12 through 19 who reported
+experiencing violent victimization at school, by gender:  1989
+and 1995                                           
+
+3.  Percent of students ages 12 through 19 who reported
+experiencing violent victimization at school, by age: 1995      
+                                           
+
+4.  Percent of students ages 12 through 19 who reported
+experiencing violent victimization at school, by student reports
+of street gang presence at school:  1989 and  1995              
+                                     
+
+5.  Percent of students ages 12 through 19 who reported
+experiencing various forms of victimization at school, by
+student reports of seeing a student with a gun at school:  1989
+and 1995                                           
+
+6.  Percent of students ages 12 through 19 who reported that
+drugs were available at school, by grade:  1989 and 1995        
+                                           
+
+7.  Percent of students ages 12 through 19 who reported that
+drugs were available at school, by school type:  1989 and 1995  
+                                            
+
+8.  Percent of students ages 12 through 19 who reported that
+drugs were available at school, by student reports of violent
+victimization at school:  1989 and 1995
+
+9.  Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by race/ethnicity:  1989
+and 1995
+
+10. Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by household income:  1989
+and 1995
+
+11. Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by place of residence: 
+1989 and 1995
+
+12. Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by school type:  1989 and
+1995
+
+13. Percent of students ages 12 through 19 who reported knowing
+a student who brought a gun to school, by age:   1995           
+                                       
+
+14. Percent of students ages 12 through 19 who reported the
+presence of guns at school, by student reports of street gang
+presence at school:  1995                         
+
+15. Percent of students ages 12 through 19 who reported the
+presence of guns at school, by student reports of drug
+availability at school:  1995  
+                         
+---------------------------------
+Introduction and Background 
+---------------------------------
+
+This report is the first focusing on data collected in the 1995
+School Crime Supplement (SCS), an enhancement to the National
+Crime Victimization Survey (NCVS). The NCVS is an ongoing
+household survey that gathers information on the criminal
+victimization of household members age 12 and older.  While this
+report does not cover all of the items in the dataset, it covers
+those pertinent to school crime.  These include:  victimization
+at school, drug availability at school, street gangs at school,
+and guns at school.  In this report, victimization is in terms
+of prevalence as opposed to counts of events.  In other words,
+the report focuses on the percent of students who have been
+victimized one or more times.
+
+To put the 1995 estimates in context, data from the 1989 SCS are
+also presented.  Key findings include:
+
+*  There was little or no change in the percent of students
+reporting any (violent or property) victimization at school
+(14.5 percent versus 14.6 percent), or the percent of students
+reporting property victimization at school (12.2 percent versus
+11.6 percent) between 1989 and 1995 (table 1).  However, there
+was an increase in the percent of students reporting violent
+victimization at school (3.4 percent versus 4.2 percent) between
+the two years.
+
+*  In 1989, most students, 63.2 percent, reported that
+marijuana, cocaine, crack, or uppers/downers were available at
+school (either easy or hard to obtain; table 2).  This number
+increased somewhat to 65.3 percent in 1995. 
+
+*  The percent of students reporting street gang presence at
+school nearly doubled between 1989 and 1995, increasing from
+15.3 percent to 28.4 percent (table 4).
+
+*  In 1995, a series of questions was asked about guns at
+school. ***Footnote 1: A similar series of questions was not
+included in 1989.***  Almost no students reported taking a gun
+to school (less than one half of one percent), 5.3 percent
+reported seeing another student with a gun at school, and 12.7
+percent reported knowing another student who brought a gun to
+school.
+
+The supplements were fielded in January through June of their
+respective years to nationally representative samples of
+approximately 10,000 students.  Eligible respondents to the
+supplements had to be between the ages of 12 and 19, and had to
+have attended school at some point during the six months
+preceding the interview.  Respondents were only asked about
+crimes that had occurred at school during the six months prior
+to the interview.  "At school" was defined as in the school
+building, on school grounds, or on a school bus.
+
+Readers should be aware that the 1989 SCS estimates on
+victimization at school shown in this report do not match the
+estimates presented in the first analysis of the 1989 SCS.
+***Footnote 2:  See L. Bastian and B. Taylor.  School Crime:  A
+National Crime Victimization Survey Report, NCJ-131645 (U.S.
+Department of Justice, Bureau of Justice Statistics, Washington,
+D.C.:  1991).*** In both the 1989 and 1995 SCS collections,
+persons 12 to 19 years of age were asked to respond to the NCVS
+and the SCS, and victimization information was captured in both
+questionnaires.  The earlier authors elected to use the
+victimization information reported in the NCVS, rather than the
+SCS, in the development of their estimates.  Because of a
+redesign of the NCVS in 1992, the 1995 victimization estimates
+from the NCVS cannot readily be compared to those developed
+before 1993. ***Footnote 3: C. Kindermann, J. Lynch, and D.
+Cantor.   Effects of the Redesign on Victimization Estimates,
+NCJ-164381 (U.S. Department of Justice, Bureau of Justice
+Statistics, Washington, D.C.:  1997).*** Therefore, the authors
+of this report elected to reanalyze the 1989 data to compare
+estimates of victimization in 1995 to 1989 using the SCS data in
+both cases.  Undoubtedly, the redesign of the NCVS also had
+implications on responses to the SCS.  Unfortunately, it is not
+possible to measure the extent of the impact.  (More information
+about the redesign and a comparison of SCS versus NCVS estimates
+of victimization can be found in the methodology section of this
+report.)
+
+This report presents estimates for two points in time, six years
+apart.  Readers should not assume that the time points represent
+a stable trend between 1989 and 1995.  In fact, if estimates had
+been developed for the intervening years, many changes might be
+seen.  
+
+In this report, each topic is covered in a two- or three-page
+presentation that consists of bullets and figures. 
+Comprehensive tables on each of the topics can be found after
+the body of the report.  A methodology section, which describes
+the data collections and the analysis approach,  follows the
+tables.  Shown in appendix A are tables containing standard
+errors of the estimates, and shown in appendix B are the 1989
+and 1995 School Crime Supplement questionnaires.
+
+Again, this report does not exhaustively cover all of the data
+available in the 1989 and 1995 data sets.  Readers can obtain
+the 1989 SCS data through the National Archive of Criminal
+Justice web site at "http://www.icpsr/umich/edu/NACJD/" (study
+number 9394), and the 1995 SCS data will soon be made available
+through the same source.  A SCS, jointly developed by the Bureau
+of Justice Statistics (BJS) and the National Center for
+Education Statistics (NCES), will continue to be fielded as a
+supplement to the NCVS every few years.
+
+------------------------------------------------------------------
+Figure 1. Percent of students ages 12 through 19 who reported 
+experiencing various forms of victimization at 
+school:  1989 and 1995
+
+   1989
+Any /1                    14.5
+Violent /2                 3.4
+Property /3               12.2
+
+   1995
+Any /1                    14.6
+Violent /2                 4.2
+Property /3               11.6
+
+1/ Any victimization is a combination of reported violent 
+and property victimization.  If the student reported an incident of 
+either, he or she is counted as having experienced any victimization.
+If the respondent reported having experience both, he or she is only
+counted once under  "Any victimization".
+
+2/ Violent victimization includes physical attacks or
+taking property from the student directly by force, weapons, or
+threats.
+
+3/ Property victimization includes theft of property from
+a students desk, locker, or other locations.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics,
+School Crime Supplement to the National Crime Victimization Survey,
+spring 1989 and 1995.
+
+------------------------------------------------------------------
+
+*  The overall level of victimization in schools in 1995, 14.6
+percent, was similar to that in 1989, 14.5 percent.  There was
+an increase in the percentage of students reporting violent
+victimizations, however, increasing from 3.4 percent to 4.2
+percent.
+
+------------------------------------------------------------------
+Figure 2. Percent of students ages 12 through 19 who reported
+experiencing violent victimization at school, by gender:
+1989 and 1995
+
+   1989
+Male        4.8
+Female      2.0
+
+   1995
+Male        5.1
+Female      3.3
+
+NOTE:  Violent victimization includes physical attacks or taking 
+property from the student directly by force, weapons, or threats.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey, 
+spring 1989 and 1995.
+
+------------------------------------------------------------------
+
+*  In 1995, male students (5.1 percent) were more likely than
+female students (3.3 percent) to have experienced violent
+victimization at school.  A similar relationship also existed
+between violent victimization and gender in 1989.
+
+*  While the percent of male students who reported having
+experienced violent victimization at school was about the same
+in 1989 as it was in 1995, there was an increase in the percent
+of female students who reported such victimization
+
+------------------------------------------------------------------
+Figure 3. Percent of students ages 12 through 19 who reported
+experiencing violent victimization at school, by age: 
+1989 and 1995
+
+   1989
+     12     5.5
+     13     4.7
+     14     4.1
+     15     3.3
+     16     2.8
+     17     1.4
+     18     1.8
+     19     1.0
+
+   1995
+     12     6.8
+     13     5.9
+     14     4.7
+     15     3.9
+     16     3.0
+     17     1.9
+     18     2.0
+     19     3.3
+
+NOTE:  Violent victimization includes physical attacks or taking
+property from the student directly by force, weapons, or threats
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1989 and 1995.
+
+------------------------------------------------------------------
+
+
+*  Younger students were more likely to experience violent
+victimization than were older students in both 1989 and 1995.
+
+------------------------------------------------------------------
+Figure 4. Percent of students ages 12 through 19 who reported 
+experiencing violent victimization at school, by 
+student's reports of street gang presence at school: 
+1989 and 1995
+
+   1989
+Yes         6.7
+No          2.9
+
+   1995
+Yes         7.5
+No          2.7
+
+NOTE:  Violent victimization includes physical attacks or taking
+property from the student directly by force, weapons, or threats.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1989 and 1995.
+------------------------------------------------------------------
+
+*  In 1995, only 2.7 percent of students who reported no street
+gang presence at school experienced violent victimization
+compared to 7.5 percent who reported street gang presence at
+school.  Similar results occurred in 1989. (See figure 9 and
+table 4 for reported prevalence of street gangs at school.)
+
+*  Between 1989 and 1995, the percent of students reporting that
+they were violently victimized at school did not noticeably
+change among students who reported street gang presence at
+school, nor did it noticeably change among students who reported
+no street gang presence at school.
+
+--------------------------------- ---------------------------------
+Figure 5. Percent of students ages 12 through 19 who reported
+experiencing various forms of victimization at school,
+by student reports of seeing a student with a gun at 
+school: 1995
+
+Any /1
+Yes        31.2
+No         13.7
+
+Violent /2
+Yes        12.4
+No          3.8
+
+Property /3
+Yes        24.7
+No         10.9
+
+1/ Any victimization is a combination of reported violent 
+and property victimization.  If the student reported an incident of
+either, he or she is counted as having experienced any victimization
+If the respondent reported having experienced both, he or she is
+counted once under "Any victimization".
+
+2/ Violent victimization includes physical attacks or
+taking property from the student directly by force, weapons, or
+threats.
+
+3/ Property victimization includes theft of property from 
+a student's desk, locker, or other locations.
+
+NOTE:  Students were not asked about seeing other students with 
+ at school in the 1989 SCS.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1995.
+
+------------------------------------------------------------------
+
+*  Of those students who reported seeing a student with a gun at
+school, 12.4 percent reported being victims of violent crime at
+school compared to 3.8 percent of those who had not. (See table
+5 for student reports of seeing a student with a gun at school.)
+
+Additional findings about student reports of victimization at
+school from table 1:
+
+*  Student reports of having experienced violent victimization
+at school were relatively uniform across the different places of
+residence in 1995 when 4.7 percent of students residing in
+central cities, 4.4 percent of those residing in suburbs, and
+3.5 percent of students residing in nonmetropolitan areas
+reported such victimization.   The same was true in 1989.
+
+*Public school students were more likely to report having
+experienced violent victimization (4.4 percent) than were
+private school students (2.3 percent) in 1995.  However, public
+(3.5 percent) and private school students (2.9 percent) were
+about as likely to report having experienced violent
+victimization in 1989.
+
+*  In 1995, students who reported that drugs were available at
+school were more likely to report having been violently
+victimized than students who reported that no drugs were
+available (4.7 percent v. 3.0 percent).  Similar results
+occurred in 1989. (See figure 6 and table 2 for student reports
+of drug availability at school.)
+
+------------------------------------------------------------------
+ Figure 6. Percent of students ages 12 through 19 who reported that
+drugs were available at school, by grade:  1989 and 1995
+
+      1989
+All grades    63.2
+6th           42.7
+7th           54.7
+8th           54.0
+9th           65.2
+10th          69.6
+11th          75.8
+12th          75.6
+
+      1995
+All grades    65.3
+6th           39.5
+7th           50.1
+8th           56.9
+9th           72.2
+10th          75.8
+11th          79.4
+12th          80.3
+
+NOTE: In the 1989 and 1995 SCS, students were asked about the availability
+of marijuana, cocaine, crack, and uppers/downers.  If the students 
+reported any of these to be easy or hard to obtain at school, they are
+considered having reported that drugs were available at school.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey,
+spring 1989 and 1995.
+ 
+------------------------------------------------------------------
+
+*  Though the increase was small, the percentage of students
+reporting that drugs were available rose from 63.2 percent in
+1989 to 65.3 percent in 1995.  
+
+*  Students in higher grades were more likely than students in
+lower grades to report that drugs were available at school in
+both 1989 and 1995. 
+
+------------------------------------------------------------------
+Figure 7. Percent of students ages 12 through 19 who reported that
+drugs were available at school, by school type:  1989 
+and 1995
+
+   1989
+Public     64.8
+Private    47.2
+
+   1995
+Public     67.2
+Private    48.0
+
+NOTE: In the 1989 and 1995 SCS, students were asked about the 
+availability of marijuana, cocaine, crack, and uppers/downers.  
+students reported any of these to be easy or hard to obtain at school
+they are considered having reported that drugs were available at
+school.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1989 and 1995.
+
+------------------------------------------------------------------
+
+*  In 1995, students in public schools were more likely to
+report that drugs were available in their schools than were
+students in private schools (67.2 percent v. 48.0 percent). 
+Similar results occurred in 1989.
+
+*  A higher percent of public school students reported that
+drugs were available at school in 1995 than in 1989.  However,
+the percent of private school students who reported that drugs
+were available at school was about the same in 1995 as it was in
+1989.
+
+------------------------------------------------------------------
+Figure 8. Percent of students ages 12 through 19 who reported that 
+drugs were available at school, by student's reports of   
+violent victimization* at school:  1989 and 1995
+
+   1989
+Yes        74.1
+No         62.9
+
+   1995
+Yes        72.9
+No         65.3
+
+* Violent victimization includes physical attacks or 
+taking property from the student directly by force, weapons, or 
+threats.
+
+NOTE: In the 1989 and 1995 SCS, students were asked about the 
+availability of marijuana, cocaine, crack, and uppers/downers.  If the 
+students reported any of these to be easy or hard to obtain at school, 
+they are considered having reported that drugs were available at school.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey, 
+spring 1989 and 1995.
+------------------------------------------------------------------
+
+*  In both 1995 and 1989, students who reported that they had
+experienced violent victimization at school were more likely to
+report that drugs were available at school than were students
+who reported that they had not been violently victimized at
+school.
+
+*  Among students who reported that they had experienced violent
+victimization at school, the percent of students reporting that
+drugs were available in 1989 was similar to the percent of
+students reporting that drugs were available in 1995.
+
+Additional findings about student reports of drug availability
+at school from tables 2 and 3:
+
+*  Older students were more likely than younger students to
+report that drugs were available at school in both 1989 and 1995.
+
+*  In 1995, students who reported that street gangs were present
+at their schools were more likely to indicate that drugs were
+available (79.5 percent) than were those who did not report that
+street gangs were present (61.0 percent).  The same results
+occurred in 1989.
+
+*  Among students reporting that street gangs were present at
+school, reports that drugs were available increased by 6
+percentage points between 1989 and 1995.  Among students
+reporting that gangs were not present, reports that drugs were
+available are similar between the two years.
+
+*  The percent of students reporting that marijuana was easy to
+obtain at school increased between 1989 and 1995, rising from
+30.5 percent to 36.4 percent. 
+
+*  In 1995, more students reported that marijuana was easy to
+obtain than any other drug.  The same result was true in 1989.
+
+------------------------------------------------------------------
+Figure 9. Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by race/ethnicity:  
+1989 and 1995
+
+   1989
+All Students               15.3
+White, non-Hispanic        11.7
+Black, non-Hispanic        19.8
+Hispanic                   31.6
+Other, non-Hispanic        25.4
+
+   1995
+All Students               28.4
+White, non-Hispanic        23.0
+Black, non-Hispanic        34.7
+Hispanic                   49.5
+Other, non-Hispanic        31.2
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey, 
+spring 1989 and 1995.
+------------------------------------------------------------------
+
+* Students in 1995 were much more likely to report that street
+gangs were present in their schools than were students in 1989
+(28.4 percent v. 15.3 percent).
+
+* In 1995, Hispanic students were more likely than either white
+or black students to report the existence of street gangs in
+their schools (49.5 percent v. 23.0 percent and 34.7 percent,
+respectively).  A similar set of relationships existed in 1989. 
+
+------------------------------------------------------------------
+Figure 10.  Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by household income:  
+1989 and 1995
+
+   1989
+LT $7,500          16.8
+$7,500-$9,999      20.7
+$10,000-$14,999    20.5
+$15,000-24,999     17.8
+$25,000-$29,999    15.7
+$30,000-$49,999    12.8
+$50,000+           11.2
+
+   1995
+LT $7,500          39.1
+$7,500-$9,999      31.0
+$10,000-$14,999    31.2
+$15,000-24,999     29.8
+$25,000-$29,999    30.3
+$30,000-$49,999    27.4
+$50,000+           24.7
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National  Crime Victimization Survey, 
+spring 1989 and 1995.
+------------------------------------------------------------------
+
+* In 1989 and 1995, students living in households with higher
+incomes were less likely to report that street gangs were
+present at school than were students in households with lower
+incomes. 
+
+------------------------------------------------------------------
+Figure 11 Percent of students ages 12 through 19 who reported that
+street gangs were present at school, by place of residence:
+1989 and 1995
+
+   1989
+Central city               24.8
+Suburbs                    14.0
+Nonmetropolitan area        7.8
+
+   1995
+Central city               40.7
+Suburbs                    26.3
+Nonmetropolitan area       19.9
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1989 and 1995.
+------------------------------------------------------------------
+
+*  Students in central cities were more likely to respond that
+there were street gangs at their schools (40.7 percent) than
+were suburban students (26.3 percent) or students in
+nonmetropolitan areas (19.9 percent) in 1995. Similar results
+occurred in 1989.
+
+*  Between 1989 and 1995, reports of gang presence increased in
+all three categories of student place of residence.
+
+------------------------------------------------------------------
+Figure 12.  Percent of students ages 12 through 19 who reported 
+knowing street gangs were present at school, by school type: 
+and 1995
+
+   1989
+Public     16.4
+Private     4.4
+
+   1995
+Public     30.6
+Private     6.8
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1989 and 1995.
+
+------------------------------------------------------------------
+
+*  Students in public schools were more likely to report that
+street gangs were present at school than were students in
+private schools in both years.  In 1995, 30.6 percent of
+students in public schools reported that street gangs were
+present compared to 6.8 percent in private schools.  The 1989
+percents were 16.4 and 4.4, respectively.
+
+*  Public school students were more likely to report that street
+gangs were present at school in 1995 than in 1989, while private
+school students were about as likely to report that street gangs
+were present in both years. 
+
+------------------------------------------------------------------
+Figure 13. Percent of students ages 12 through 19 who reported knowing 
+a student who brought a gun to school, by age:  1995
+
+Age
+     12     6.2
+     13    10.0
+     14    12.9
+     15    15.1
+     16    15.1
+     17    16.4
+     18    14.6
+     19    16.0
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistic
+School Crime Supplement to the National Crime Victimization Survey
+spring 1995.
+
+------------------------------------------------------------------
+
+*  In 1995, older students were more likely than younger
+students to report knowing a student who brought a gun to
+school.  
+
+------------------------------------------------------------------
+ Figure 14. Percent of students ages 12 through 19 who reported the 
+presence of guns at school, by student reports of street
+gang presence at school:  1995
+
+Know student who brought gun to school
+Yes        24.8
+No          7.7
+
+Seen student with gun at school
+Yes        11.9
+No          2.8
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey, 
+spring 1995.
+
+------------------------------------------------------------------
+
+*  Street gang presence at a student's school was related to
+knowing another student who brought a gun to school (24.8
+percent v. 7.7 percent).  In addition, street gang presence at a
+student's school was related to seeing another student with a
+gun at school (11.9 percent v. 2.8 percent).
+
+------------------------------------------------------------------
+Figure 15. Percent of students ages 12 through 19 who reported the 
+presence of guns at school, by student's reports of drug
+availability at school:  1995 
+
+Know student who brought gun to school
+Any available      16.8
+None available      4.0
+
+Seen student with gun at school
+Any available       7.4
+None available      1.0
+
+NOTE:  In both the 1989 and 1995 SCS, students were asked about the 
+availability of marijuana, cocaine, crack, and uppers/downers.  If 
+students reported any of these to be easy or hard to obtain at school, 
+they are included in the "Any available" category.  If they said each 
+is impossible to obtain, they are counted in the "None available" 
+category.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey, 
+spring 1995.
+------------------------------------------------------------------
+
+*  Students who reported that drugs were available at school
+were more likely to have known another student who brought a gun
+to school (16.8 percent), and to have seen another student with
+a gun at school (7.4 percent) than were students who reported
+that drugs were not available (4.0 percent and 1.0 percent,
+respectively). 
+
+Additional findings about student reports of guns at school from
+table 5:
+
+*  In 1995, almost no students reported taking a gun to school
+(less than one half of one percent), 5.3 percent reported seeing
+another student with a gun at school, and 12.7 percent reported
+knowing another student who brought a gun to school.
+
+*  Black, non-Hispanic students were more likely than white,
+non-Hispanic students to report knowing another student who
+brought a gun to school (15.5 percent versus 12.3 percent). 
+Black, non-Hispanic students were also more likely to report
+seeing another student with a gun at school than were white,
+non-Hispanic students (8.7 percent v. 4.4 percent).
+
+*  Students residing in central cities were more likely to
+report knowing another student who brought a gun to school (15.0
+percent) than were students from suburban areas (12.3 percent)
+or students from nonmetropolitan areas (11.1 percent). 
+Similarly, students from central cities were more likely to
+report seeing another student with a gun at school (6.8 percent)
+than were suburban or nonmetropolitan area students (each 4.8
+percent).
+
+*  Public school students were more likely to report knowing
+another student who brought a gun to school than were students
+attending private schools (13.6 percent v. 4.4 percent).  Public
+school students were also more likely to report seeing another
+student who brought a gun to school than were students attending
+private schools (5.7 percent v. 2.0 percent, respectively).
+
+---------------------------------
+Summary 
+---------------------------------
+
+This report presents the first published findings from the 1995 
+School Crime Supplement (SCS) to the National Crime Victimization 
+Survey (NCVS) in addition to findings from a reanalysis of the 1989 
+SCS.  Because of the issue's obvious importance to students, parents,
+educators, and policymakers, this first report focuses on the reported
+prevalence of crime in America's schools.  More specifically, it
+explores student reports of victimization, drug availability,
+street gang presence, and gun presence at school.
+
+One important finding that emerged from comparing estimates from
+the two time points was that more students were exposed to
+certain problems at school in 1995 than in 1989.  As compared to
+students in 1989, students in 1995 were more likely to report
+that they had experienced violent victimization, could obtain
+drugs, and were aware of street gangs at school.
+
+A second key finding was that various types of problems tended
+to co-exist.  For instance, student reports of drug
+availability, street gang presence, and gun presence at school
+were all related to student reports of having experienced
+violent victimization at school.  Reports of having experienced
+violent victimization were higher among students who reported
+that drugs were available than among students who reported that
+they were not.  In addition, students who reported that street
+gangs were present were more likely than students who reported
+that they were not present to say that they had been violently
+victimized.  Finally, students who reported seeing another
+student with a gun were more likely to say that they had
+experienced violent victimization than students who had not seen
+another student with a gun.
+
+Because of the exploratory nature of this report, the crime
+variables were studied using bivariate analyses only.  Future
+research will apply multivariate approaches to the data to help
+better understand possible interactions and patterns.  Also,
+because the report focused on the important issues of school
+crime, it did not exhaustively cover all of the topics addressed
+by the data bases.  Such topics as safety measures taken by
+schools to prevent crime, student avoidance of places in or near
+school because of fear of attack, and student perceptions of
+rule enforcement at school will form the basis of future work. 
+It is the intent of both NCES and BJS to continue what has been
+a successful collaborative effort to conduct some of this
+research.
+
+------------------------------------------------------------------------------------------------------------------------------------
+Table 1. Percent of students ages 12 through 19 reporting criminal victimization at school, 
+by selected characteristics and perceptions of conditions at school:  1989 and 1995
+
+                                                                              Year
+
+                                                          1989                                                      1995
+                                                Victimization                                             Victimization
+Student               
+characteristics         Number of     Any/1       Violent/2     Property/3     Number of    Any/1        Violent/2     Property/3
+and perceptions of      students      Percent     Percent       Percent        students     Percent      Percent       Percent
+conditions at school   (thousands)  Victimized    Victimized    Victimized     (thousands)  Victimized   Victimized    Victimized
+
+Total                     21,554      14.5            3.4           12.2       23,933           14.6         4.2           11.6
+
+Characteristics
+
+Student sex
+  Male                    11,166      15.2            4.8           12.1       12,331           15.8         5.1           12.0
+  Female                  10,388      13.7            2.0           12.3       11,602           13.3         3.3           11.2
+
+Student race/ethnicity
+  White, non-Hispanic     15,349      14.3            3.4           12.2       16,351           14.5         4.1           11.6
+  Black, non-Hispanic      3,391      14.9            3.3           12.3        3,752           16.8         5.1           13.4
+  Hispanic                 2,027      14.7            4.4           11.1        2,898           12.4         3.9            9.5
+  Other, non-Hispanic        787      14.7            2.2           13.3          932           13.7         3.9           11.0
+
+Student age
+  12                       3,221      17.8            5.5           14.7        3,735           19.8         6.8           15.1
+  13                       3,319      18.0            4.7           14.9        3,781           17.9         5.9           13.9
+  14                       3,264      16.8            4.1           14.1        3,732           17.0         4.7           13.7
+  15                       3,214      15.3            3.3           12.8        3,688           14.4         3.9           12.0
+  16                       3,275      12.0            2.8            9.9        3,674           11.9         3.0            9.5
+  17                       3,274      10.6            1.4            9.7        3,172            9.9         1.9            8.6
+  18                       1,756       8.6            1.8            7.2        1,820            6.8         2.0            5.2
+  19                         231       5.3            1.0            5.3          331            8.8         3.3            6.1
+
+Student grade
+  Sixth                    1,818      17.9            5.7           14.8        2,315           18.0         6.7           13.3
+  Seventh                  3,170      18.9            5.4           15.5        3,736           20.4         6.6           16.0
+  Eighth                   3,258      16.1            4.0           13.1        3,795           17.1         4.7           13.9
+  Ninth                    3,391      17.1            3.6           14.7        3,689           15.5         4.6           12.1
+  Tenth                    3,082      13.9            2.5           11.9        3,662           12.9         3.3           10.7
+  Eleventh                 3,224      10.5            2.2            8.8        3,460            9.5         2.3            7.5
+  Twelfth                  3,172       8.3            1.2            7.6        2,990            8.7         1.7            7.5
+  Other                      439      13.5            7.0           10.0          285           10.3         4.6            6.4
+
+Student household income
+  Less than $7,500         2,041      16.3            3.6           14.0        1,487           15.8         5.6           11.8
+  $7,500-$9,999              791      14.8            5.2           10.6          783           12.8         3.6           10.1
+  $10,000-$14,999          1,823      15.5            3.5           13.0        1,657           14.4         5.4           10.7
+  $15,000-$24,999          3,772      14.7            3.4           12.5        3,130           14.5         4.1           11.8
+  $25,000-$29,999          1,845      14.3            3.8           11.9        1,729           17.2         5.5           12.9
+  $30,000-$49,999          5,798      14.4            3.5           12.2        6,295           13.9         3.9           11.1
+  $50,000+                 3,498      14.2            3.4           12.0        6,562           14.2         3.7           11.8
+  Not ascertained          1,983      11.7            2.3            9.9        2,289           15.5         4.4           12.5
+
+Student place of residence
+  Central city             5,816      16.1            3.9           13.4        6,309           14.7         4.7           11.3
+  Suburbs                 10,089      13.8            3.5           11.3       11,341           14.6         4.4           11.5
+  Nonmetropolitan area     5,648      14.0            2.9           12.3        6,283           14.3         3.5           12.0
+
+Student school type
+  Public                  19,265      14.7            3.5           12.3       21,719           14.8         4.4           11.7
+  Private                  1,873      12.8            2.9           10.8        2,163           12.4         2.3           10.7
+  Not ascertained            416      11.8            3.1            9.6            +              +           +              +
+
+Perceptions of conditions at school
+
+Student reports of street gangs at school
+  Yes                      3,301      21.8            6.7           17.3        6,796           21.4         7.5           16.4
+  No                      17,042      13.1            2.9           11.2       13,687           11.8         2.7            9.8
+  Do not know              1,124      13.8            3.0           11.8        3,224           12.5         3.7            9.8
+  Not ascertained             88       8.0            1.8            8.0          226            8.4         4.8            3.6
+
+
+
+
+Student reports of knowing a student who brought a gun to school    
+  Yes                         --        --             --             --        3,042           24.6         8.6           19.8
+  No                          --        --             --             --       20,608           13.2         3.6           10.5
+  Not ascertained             --        --             --             --          282            9.4         4.6            4.8
+
+Student reports of seeing a student with a gun at school
+  Yes                         --        --             --             --        1,270           31.2        12.4           24.7
+  No                          --        --             --             --       22,359           13.7         3.8           10.9
+  Do not know                 --        --             --             --            +              +           +              +
+  Not ascertained             --        --             --             --          263           11.8         5.0            6.8
+
+Student reports of drug availability: marijuana, cocaine, crack, upper/downers  /4
+  Any available           13,630       16.8            4.0          14.2       15,630           16.0         4.7           12.8
+  None available           2,560       10.3            2.5           8.6        3,922           12.9         3.0           10.6
+  Do not know/Not   
+  ascertained              5,364       10.5            2.4           8.7        4,380           10.9         3.6            8.2
+
+-- Question is not asked in the 1989 School Crime Supplement.
++ Fewer than 30 sample cases.
+ 
+1/ Any victimization is a combination of reported 
+violent and property victimization.  If the student 
+reported an incident of  either, he or she is counted 
+as having experienced any victimization.  If the 
+respondent reported having experienced both, he 
+or she is only counted once under "Any victimization".
+
+2/  Violent victimization includes physical attacks or 
+taking property from the student directly by force,
+ weapons, or threats.
+
+3/ Property victimization includes theft of property 
+from a student's desk, locker, or other locations.
+
+4/ : In both the 1989 and 1995 SCS, students were 
+asked about the availability of marijuana, cocaine, 
+crack, and uppers/downers.  If students reported any of 
+these to be easy or hard to obtain at school, they are 
+included in the "Any available" category.  If they said each 
+was impossible to obtain, they are counted in the 
+"None available" category.  If students are not 
+included in the first two categories, they 
+are included in the "Do not know/Not ascertained" 
+category.
+
+SOURCE:  U.S. Department of Justice, Bureau of 
+Justice Statistics, School Crime Supplement to 
+the National Crime Victimization Survey, 
+spring 1989 and spring 1995. 
+
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+Table 2. Percent of students ages 12 through 19 reporting the availability of drugs at school, 
+by selected characteristics and perceptions of conditions at school:  1989 and 1995
+
+                                                            Year
+                               1989                        1995                        1995
+                                       Any drug                       Any drug                       Any drug
+Student                 Number         availability:     Number       availability:     Number       availability:
+characteristics         of             1989              of           1989              of           1995
+and perceptions of      students       definition/1      students     definition/1      students     definition/1
+conditions at school    (thousands)    Percent           (thousands)  Percent           (thousands)  Percent
+
+Total                     21,554           63.2            23,933           65.3       23,933           66.8
+
+Characteristics
+
+Student sex
+  Male                    11,166           64.6            12,331           66.7       12,331           68.3
+  Female                  10,388           61.7            11,602           63.8       11,602           65.2
+
+Student race/ethnicity
+  White, non-Hispanic     15,349           64.6            16,351           66.1       16,351           67.7
+  Black, non-Hispanic      3,391           62.4             3,752           65.5        3,752           66.5
+  Hispanic                 2,027           59.0             2,898           62.8        2,898           64.2
+  Other, non-Hispanic        787           51.5               932           58.9          932           59.6
+
+Student age
+  12                       3,221           45.7             3,735           42.3        3,735           45.1
+  13                       3,319           54.7             3,781           52.6        3,781           54.7
+  14                       3,264           58.1             3,732           63.4        3,732           65.0
+  15                       3,214           66.3             3,688           72.3        3,688           73.6
+  16                       3,275           73.2             3,674           76.7        3,674           77.7
+  17                       3,274           74.1             3,172           79.9        3,172           80.5
+  18                       1,756           75.3             1,820           79.2        1,820           79.7
+  19                         231           74.4               331           70.9          331           70.9
+
+Student grade
+  Sixth                    1,818           42.7             2,315           39.5        2,315           42.0
+  Seventh                  3,170           54.7             3,736           50.1        3,736           52.6
+  Eighth                   3,258           54.0             3,795           56.9        3,795           58.4
+  Ninth                    3,391           65.2             3,689           72.2        3,689           73.9
+  Tenth                    3,082           69.6             3,662           75.8        3,662           76.8
+  Eleventh                 3,224           75.8             3,460           79.4        3,460           79.8
+  Twelfth                  3,172           75.6             2,990           80.3        2,990           80.9
+  Other                      439           36.6               285           34.2          285           37.4
+
+Student household income
+  Less than $7,500         2,041           63.4             1,487           58.9        1,487           60.5
+  $7,500-$9,999              791           61.1               783           59.8          783           61.1
+  $10,000-$14,999          1,823           58.8             1,657           62.5        1,657           63.3
+  $15,000-$24,999          3,772           63.1             3,130           65.3        3,130           66.1
+  $25,000-$29,999          1,845           63.9             1,729           64.6        1,729           67.3
+  $30,000-$49,999          5,798           63.7             6,295           67.2        6,295           69.1
+  $50,000+                 3,498           66.0             6,562           66.6        6,562           67.9
+  Not ascertained          1,984           61.6             2,289           64.8        2,289           66.2
+
+Student place of residence
+  Central city             5,816           61.2             6,309           65.6        6,309           66.8
+  Suburbs                 10,089           63.0            11,341           66.4       11,341           68.0
+  Nonmetropolitan area     5,648           65.7             6,283           63.0        6,283           64.5
+
+Student school type
+  Public                  19,265           64.8            21,719           67.2       21,719           68.6
+  Private                  1,873           47.2             2,163           48.0        2,163           49.3
+  Not ascertained            416           64.1                 +              +            +              +
+
+Perceptions of conditions at school
+
+Student reports of street gangs at school
+  Yes                      3,301           73.4             6,796           79.5        6,796           80.7
+  No                      17,042           61.6            13,686           61.0       13,686           62.6
+  Do not know              1,124           59.2             3,224           56.4        3,224           58.0
+  Not ascertained             88           51.0               226           24.0          226           24.0
+
+Student reports of knowing a student who brought a gun to school    
+  Yes                         --             --             3,042           86.4        3,042           87.7
+  No                          --             --            20,608           62.5       20,608           64.0
+  Not ascertained             --             --               282           40.1          282           40.1
+                                                               
+Student reports of seeing a student with a gun at school
+  Yes                         --             --             1,270           90.5        1,270           91.7
+  No                          --             --            22,359           64.2       22,359           65.7
+  Do not know                 --             --                 +              +            +              +
+  Not ascertained             --             --               263           41.1          263           41.1
+                       
+Student reports of being the victim of any violent or property crime at school
+  Yes                      3,116           73.5             3,485           71.1        3,485           74.5
+  No                      18,400           61.6            20,315           64.6       20,315           65.8
+  Not ascertained              +              +               133           12.3          133           12.3
+
+Student reports of being the victim of any violent crime at school/2
+  Yes                        742           74.1             1,013           72.9        1,013           75.5
+  No                      20,773           62.9            22,780           65.3       22,780           66.7
+  Not ascertained              +              +               140           15.2          140           15.2
+
+Student reports of being the victim of any property crime at school/3
+  Yes                      2,619           73.8             2,777           72.2        2,777           75.1
+  No                      18,852           61.9            20,997           64.8       20,997           66.1
+  Not ascertained             83           44.5               159           17.4          159           17.4
+ 
+-- Question is not asked in the 1989 School Crime Supplement.
++ Fewer than 30 sample cases.
+ 
+1/  In the 1989 School Crime Supplement, students were asked 
+about the availability of marijuana, cocaine, crack, uppers 
+and downers, and other illegal drugs.  In the 1995 School Crime 
+Supplement, students were asked about the availability of these 
+drugs and were also asked about the availability of PCP, LSD,
+heroin. When comparing across the two years, only those drugs 
+that are listed on both surveys are counted (i.e marijuana, 
+cocaine, crack, and uppers and downers).  This list of drugs is 
+referred to as "Drug availability: 1989 definition". Other illegal 
+drugs are excluded from the 1989 definition used in cross-year analyses.
+not making comparisons across the two surveys and focusing solely on 
+the 1995 estimates, all of the 1995 response categories are counted 
+(this approach is referred to as "Drug availability: 1995 definition"). 
+both definitions if students reported that any of the listed drugs were 
+easy or hard to obtain, they are included in the "Any available" category.
+
+2/ Violent victimization includes physical attacks or taking 
+property from the student directly by force, weapons, or threats.
+
+3/  Property victimization includes theft of property from a 
+students desk, locker, or other locations.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime Victimization Survey, 
+spring 1989 and spring 1995. 
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
+Table 3.  Percent of students ages 12 through 19 reporting the difficulty of 
+obtaining various drugs at school:  1989 and 1995
+
+                                                                           Year
+                                        1989                                                          1995
+                                   Availability                                                  Availability
+                                                  Don't know                                                           Don't
+                  Easy to   Hard to  Impossible   know if     Don't know   Not          Easy to   Hard to  Impossible  know if     Don't know   Not
+Drug              Obtain    Obtain   to Obtain    available   drug         ascert.      Obtain    Obtain   to Obtain   available   drug         ascert.
+                      %         %         %           %         %            %             %         %         %         %           %            %
+Marijuana           30.5      27.5      16.2        24.9       0.8          0.2          36.4      24.8      22.8      15.1         0.3          0.6
+Crack                8.6      29.4      27.9        32.2       1.6          0.2           9.7      32.0      34.3      22.5         0.9          0.6
+Other forms of   
+   cocaine          10.7      32.6      24.8        30.7       1.0          0.2           9.9      29.7      35.2      23.6         1.0          0.6
+Uppers/downers      20.4      25.8      17.3        31.1       5.2          0.2          18.3      24.9      24.4      23.4         8.3          0.7
+LSD                   --        --        --          --        --           --          11.8      26.5      31.6      23.2         6.3          0.7
+PCP                   --        --        --          --        --           --           5.9      25.9      33.5      24.7         9.2          0.8
+Heroin                --        --        --          --        --           --           5.6      27.7      40.0      23.9         2.2          0.7
+Other Drugs         13.9      27.4      18.7        36.8       2.9          0.5          12.0      29.3      30.2      26.4         1.4          0.7
+ 
+-- Question is not asked in the 1989 School Crime Supplement.
+ 
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement 
+to the National Crime Victimization Survey, spring 1989  and spring 1995.
+
+--------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+Table 4. Percent of students ages 12 through 19 reporting the presence of street gangs at school, by selected characteristics and perceptions of
+conditions at school:  1989 and 1995
+
+                                                                  Year
+
+                                             1989                                          1995
+Student                  Number         Street gangs at school               Number         Street gangs at school
+characteristics          of                           Do not     Not         of                           Do not   Not
+and perceptions of       students    Yes      No      know       ascert.     students    Yes      No      know     ascert.
+conditions at school    (thousands)  Percent  Percent Percent    Percent     (thousands) Percent  Percent Percent  Percent
+
+Total                      21,554      15.3    79.1     5.2        0.4         23,933      28.4     57.2    13.5     0.9
+
+Characteristics
+
+Student sex
+  Male                     11,166      15.8    79.5     4.4        0.3          12,331     28.9     57.7    12.5     1.0
+  Female                   10,388      14.8    78.6     6.1        0.5          11,602     27.9     56.7    14.6     0.9
+
+Student race/ethnicity
+  White, non-Hispanic      15,349      11.7    83.4     4.6        0.4          16,351     23.0     63.1    13.1     0.7
+  Black, non-Hispanic       3,391      19.8    72.8     6.9        0.4           3,752     34.7     49.5    14.0     1.8
+  Hispanic                  2,027      31.6    61.8     6.0        0.7           2,898     49.5     36.7    12.9     0.9
+  Other, non-Hispanic         787      25.4    66.4     8.2          #             932     31.2     48.1    19.4     1.3
+
+Student age
+  12                        3,221      12.1    83.2     4.4        0.4           3,735     19.3     65.1    14.3     1.4
+  13                        3,319      14.5    80.1     5.3        0.2           3,781     26.7     58.0    14.4     0.9
+  14                        3,264      17.9    76.3     5.5        0.3           3,732     30.6     56.1    12.7     0.7
+  15                        3,214      16.2    77.6     6.0        0.2           3,688     32.7     52.6    13.7     1.0
+  16                        3,275      16.4    78.8     4.7        0.1           3,674     30.2     56.4    12.6     0.9
+  17                        3,274      15.3    78.6     5.5        0.6           3,172     31.0     54.8    13.6     0.7
+  18                        1,756      14.5    79.6     4.6        1.4           1,820     28.8     57.4    12.3     1.5
+  19                          231      16.9    72.9     8.8        1.4             331     30.7     53.9    15.5       #
+
+Student grade
+  Sixth                     1,818      10.3    84.4     4.8        0.5           2,315     15.7     67.8    14.8     1.7
+  Seventh                   3,170      16.6    79.0     4.4        0.1           3,736     26.5     57.2    15.4     0.9
+  Eighth                    3,258      13.6    80.4     5.7        0.3           3,795     28.7     58.9    11.9     0.4
+  Ninth                     3,391      19.6    73.9     6.2        0.3           3,689     32.4    51.5    15.0     1.1
+  Tenth                     3,082      16.0    79.0     4.9        0.2           3,662     33.7    52.7    12.7     0.9
+  Eleventh                  3,224      15.3    78.4     5.6        0.6           3,460     30.6    57.3    11.4     0.7
+  Twelfth                   3,172      14.2    80.9     4.2        0.7           2,990     27.5    57.6    13.9     1.0
+  Other                       439       9.8    79.2     8.8        2.2             285     15.5    73.9     8.2     2.5
+
+Student household income
+  Less than $7,500          2,041      16.8    76.0     6.7        0.5           1,487     39.1    44.7    15.2     1.0
+  $7,500-$9,999               791      20.7    69.9     9.5        0.0             783     31.0    46.0    19.6     3.4
+  $10,000-$14,999           1,823      20.5    72.7     6.4        0.4           1,657     31.2    53.3    15.2     0.3
+  $15,000-$24,999           3,772      17.8    76.9     4.9        0.4           3,130     29.8    54.7    14.0     1.5
+  $25,000-$29,999           1,845      15.7    78.8     4.9        0.6           1,729     30.3    58.0    10.9     0.8
+  $30,000-$49,999           5,798      12.8    82.0     4.7        0.5           6,295     27.4    58.6    13.4     0.6
+  $50,000+                  3,498      11.2    84.8     3.8        0.3           6,562     24.7    61.6    13.0     0.7
+  Not ascertained           1,984      16.3    77.4     5.7        0.5           2,289     28.6    58.2    11.7     1.5
+
+Student place of residence
+  Central city              5,816      24.8    68.4     6.3        0.5           6,309     40.7    43.3    15.0     1.1
+  Suburbs                  10,089      14.0    81.1     4.4        0.4          11,341     26.3    59.8    13.2     0.7
+  Nonmetropolitan area      5,648       7.8    86.4     5.5        0.2           6,283     19.9    66.5    12.4     1.2
+
+Student school type
+  Public                   19,265      16.4    77.9     5.3        0.3          21,719     30.6    54.4    14.2     0.8
+  Private                   1,873       4.4    91.9     3.4        0.3           2,163      6.8    86.5     6.3     0.3
+  Not ascertained             416      12.1    75.6     8.5        3.9               +        +       +       +       +
+
+Perceptions of conditions at school
+
+Student reports of being the victim of any violent or property crime at school
+  Yes                       3,116      23.1    71.7     5.0        0.2           3,485     41.6    46.3    11.6     0.5
+  No                       18,400      14.0    80.4     5.3        0.3          20,315     26.3    59.4    13.9     0.4
+  Not ascertained               +         +       +       +          +             133      2.4     4.6     3.5    89.5
+
+Student reports of being the victim of any violent crime at school/1
+  Yes                         742      29.6    65.5     4.6        0.2           1,013     50.5    36.7    11.7     1.1
+  No                       20,773      14.8    79.7     5.2        0.3          22,780     27.6    58.4    13.6     0.4
+  Not ascertained               +         +       +       +          +             140      2.3     7.8     5.1    84.9
+
+Student reports of being the victim of any property crime at school/2                     
+  Yes                       2,619      21.8    72.9     5.1        0.3           2,777     40.1    48.3    11.3     0.3
+  No                       18,852      14.5    80.1     5.2        0.2          20,997     27.0    58.7    13.8     0.4
+  Not ascertained              83       7.0    47.8     6.5       38.7             159      4.9     9.6     6.5    79.0
+
+Student reports of knowing a student who brought a gun to school    
+  Yes                          --        --      --      --         --           3,042     55.3    34.8     9.5     0.4
+  No                           --        --      --      --         --          20,608     24.6    60.9    14.1     0.4
+  Not ascertained              --        --      --      --         --             282     13.4    29.9    10.7    46.0
+
+Student reports of seeing a student with a gun at school                                  
+  Yes                          --        --      --      --         --           1,270     63.8    29.9     6.3     0.0
+  No                           --        --      --      --         --          22,359     26.5    59.1    13.9     0.4
+  Do not know                  --        --      --      --         --               +        +       +       +       +
+  Not ascertained              --        --      --      --         --             263     16.2    25.5     9.7    48.6
+
+Student reports of drug availability: marijuana, cocaine, crack, upper/downers/3
+  Any available            13,630      17.8    77.0     4.9        0.3          15,630     34.6    53.5    11.6     0.3
+  None available            2,560       8.3    89.7     1.8        0.2           3,922     14.0    75.1    10.4     0.5
+  Do not know/Not   
+  ascertained               5,364      12.4    79.2     7.7        0.2           4,380     19.3    54.4    22.8     3.5
+ 
+-- Question is not asked in the 1989 School Crime Supplement.
++ Fewer than 30 sample cases.
+# No cases are reported in this cell, although the event defined 
+by this cell could have been reported by some students
+with these characteristics had a different sample been drawn.
+
+1/  Violent victimization includes physical attacks or taking 
+property from the student directly by force, weapons, or threats.
+
+2/  Property victimization includes theft of property from a 
+students desk, locker, or other locations.
+
+3/  In both the 1989 and 1995 SCS, students were asked about 
+the availability of marijuana, cocaine, crack, and uppers/downers.  
+If students reported any of these to be easy or hard to obtain at 
+school, they are included in available" category.  If they said 
+each is not available, they are counted in the "None available" 
+category.  If are not included in the first two categories, they 
+are included in the "Do not know/Not ascertained" category.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, 
+School Crime Supplement to the National Crime
+Victimization Survey, spring 1989 and spring 1995. 
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+Table 5.  Percent of students ages 12 through 19 reporting guns at school,
+by selected characteristics and perceptions of conditions at 
+school:  1995
+                                                Year
+                                                1995
+                                                   Know
+Student                                            student who   Seen student
+characteristics            Number of   Took gun    brought gun   with a gun
+and perceptions of         students    to school   to school     at school
+conditions at school      (thousands)  Percent     Percent       Percent
+
+Total                        23,933      0.1        12.7         5.3
+
+Characteristics
+
+Student sex
+  Male                       12,331      0.1        12.4         6.1
+  Female                     11,602      0.0        13.0         4.5
+
+Student race/ethnicity
+  White, non-Hispanic        16,351      0.1        12.3         4.4
+  Black, non-Hispanic         3,752      0.1        15.5         8.7
+  Hispanic                    2,898      0.1        11.8         6.2
+  Other, non-Hispanic           932        #        11.1         4.8
+
+Student age
+  12                          3,735        #         6.2         2.0
+  13                          3,781      0.1        10.0         4.0
+  14                          3,732      0.1        12.9         4.9
+  15                          3,688      0.2        15.1         6.4
+  16                          3,674        #        15.1         6.2
+  17                          3,172        #        16.4         8.3
+  18                          1,820      0.2        14.6         6.2
+  19                            331        #        16.0         7.0
+
+Student grade
+  Sixth                       2,315        #         5.7         2.0
+  Seventh                     3,736        #         8.9         3.0
+  Eighth                      3,795      0.1        11.9         4.8
+  Ninth                       3,689      0.3        15.1         6.6
+  Tenth                       3,662      0.1        14.6         5.9
+  Eleventh                    3,460        #        15.4         7.3
+  Twelfth                     2,990        #        16.2         6.9
+  Other                         285        #         5.3         4.3
+
+Student household income
+  Less than $7,500            1,487        #        10.9         5.2
+  $7,500-$9,999                 783        #        12.4         8.3
+  $10,000-$14,999             1,657        #        12.1         6.2
+  $15,000-$24,999             3,130      0.3        14.7         7.0
+  $25,000-$29,999             1,729        #        13.7         5.7
+  $30,000-$49,999             6,295      0.1        12.2         5.0
+  $50,000+                    6,562      0.0        12.6         4.4
+  Not ascertained             2,289        #        12.8         4.5
+
+Student place of residence
+  Central city                6,309         #        15.0         6.8
+  Suburbs                    11,341       0.1        12.3         4.8
+  Nonmetropolitan area        6,283       0.0        11.1         4.8
+
+Student school type
+  Public                     21,719       0.1        13.6         5.7
+  Private                     2,163       0.1         4.4         2.0
+  Not ascertained                 +         +           +           +
+
+Perceptions of conditions at school
+
+Student reports of street gangs at school
+  Yes                         6,796       0.1        24.8        11.9
+  No                         13,687       0.0         7.7         2.8
+  Don't know if present       3,224       0.1         9.0         2.5
+  Not ascertained               226         #         5.0           #
+
+Student reports of being the victim of any violent or property crime at school
+  Yes                         3,485       0.3        21.4        11.4
+  No                         20,315       0.0        11.3         4.3
+  Not ascertained               133         #           #           #
+
+Student reports of being the victim of any violent crime at 
+school /1
+  Yes                         1,013       0.8        25.9        15.5
+  No                         22,780       0.0        12.2         4.9
+  Not ascertained               140         #           #           #
+
+Student reports of being the victim of any property crime at 
+school/2
+  Yes                         2,777       0.2        21.6        11.3
+  No                         20,997       0.1        11.6         4.6
+  Not ascertained               159         #           #           #
+
+Student reports of drug availability: marijuana, cocaine, crack, upper/
+downers/3
+  Any available              15,630       0.1        16.8         7.4
+  None available              3,922         #         4.0         1.0
+  Do not know/No
+  ascertained                 4,380         #         5.9         1.9
+
++ Fewer than 30 sample cases.
+# No cases are reported in this cell, although the event defined by this cell
+could have been reported by some students with these characteristics had a
+different sample been drawn.
+0.0 Indicates that there are cases in the cell but that the cell total is 
+less than 0.05.
+
+1/  Violent victimization includes physical attacks or taking 
+property from the student directly by force, weapons, or threats.
+
+2/ Property victimization includes theft of property from a 
+student's desk, locker, or other locations.
+
+3/ In both the 1989 and 1995 SCS, students were asked about the 
+availability of marijuana, cocaine, crack, and uppers/downers.  If student
+reported any of these to be easy or hard to obtain at school, they are 
+included in the "Any available" category.  If they said each was not 
+available, they are counted in the "None available" category.  If students
+not included in the first two categories, they are included in the "Do not
+know/Not ascertained" category.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, School 
+Crime Supplement to the National Crime Victimization Survey, spring 1995. 
+---------------------------------------------------------------------------------------------------
+
+--------------------------------- 
+Methodology 
+---------------------------------
+
+---------------------------------
+Background of the
+School Crime Supplement
+---------------------------------
+
+---------------------------------
+Purpose and Sponsorship
+of the Survey
+------------------------------------------------------------------
+
+Criminal activity at school poses an obvious threat to the
+safety of students and can act as a significant barrier to the
+education process.  In order to study the relationship between
+victimization at school and the school environment, and to
+monitor changes in student experiences with victimization,
+accurate information regarding its incidence must be collected. 
+Jointly designed by the Department of Education's National
+Center for Education Statistics and Department of Justice's
+Bureau of Justice Statistics, the School Crime Supplement (SCS)
+was developed to address this data need.
+
+
+---------------------------------
+Sample Design and Data
+Collection
+---------------------------------
+
+Created as an occasional supplement to the annual National Crime
+Victimization Survey (NCVS), the SCS was fielded in 1989 and
+1995.  The NCVS collects data on the incidence of criminal
+activity against households and household members from a
+nationally representative sample of households (47,000
+households in 1989 and 49,000 households in 1995).  In both 1989
+and 1995, households were sampled using a stratified multistage
+cluster design. ***Footnote 4: For more information regarding
+the sampling approach used in the National Crime Victimization
+Survey, refer to U.S. Department of Justice, Bureau of Justice
+Statistics, "Criminal Victimization in the United States, 1994",
+ NCJ-162126 (Washington, D.C.: 1997).*** 
+
+NCVS interviews were conducted with each household member who
+was 12 years old or older.  Once all NCVS interviews were
+completed, household members between the ages of 12 and 19 were
+given an SCS interview.  Only those 12 -to 19-year-olds who were
+in primary or secondary education programs leading to a high
+school diploma, and who had been enrolled sometime during the 6
+months prior to the interview, were administered the SCS
+questionnaire.  Students who were home schooled were not
+included.
+
+The SCS questionnaire was designed to record the incidence of
+crime and criminal activity occurring inside a school, on school
+grounds, or on a school bus during the 6 months preceding the
+interview.  There were 10,449 SCS interviews completed in 1989
+and 9,954 in 1995.
+
+Data were collected by the Department of Commerce's Bureau of
+the Census.  In both 1989 and 1995, SCS surveys were conducted
+between January and June, with one-sixth of the sample being
+covered each month.  Interviews were conducted with the subject
+student over the telephone or in person.  In both years, efforts
+were made to assure that interviews about student experiences at
+school were conducted with the students themselves.  However,
+under certain circumstances, interviews with proxy respondents
+were accepted.  These circumstances included interviews
+scheduled with a child between the ages of 12 and 13 where the
+parents refused to allow an interview with the child, interviews
+where the subject child was unavailable during the period of
+data collection, and interviews where the child was physically
+or emotionally unable to answer for him or herself.
+
+Telephone interviews accounted for 7,418 of the 9,954 interviews
+in 1995, and 7,407 of the 10,449 interviews in 1989. Proxy
+interviews accounted for 363 of the 9,954 interviews in 1995,
+and 252 of the 10,449 interviews in 1989.
+
+Responses to both the NCVS and the SCS are confidential by law. 
+Interviewers are instructed to conduct interviews in privacy
+unless respondents specifically agree to permit others to be
+present.  Most interviews for the NCVS and SCS are conducted by
+telephone, and most questions require "yes" or "no" answers,
+thereby affording respondents a further measure of privacy.  By
+law, identifiable information about respondents may not be
+disclosed or released to others for any purpose.
+
+---------------------------------
+ Unit and Item Response Rates
+---------------------------------
+
+Unit response rates indicate how many sampled units have
+completed interviews.  Because interviews with students could
+only be completed after households had responded to the NCVS,
+the unit completion rate for the SCS reflects both the household
+interview completion rate and the student interview completion
+rate.  In the 1989 and 1995 SCS, the household completion rates
+were 96.5 percent, and 95.1 percent, respectively.  The student
+completion rates were 86.5 percent and 77.5 percent. ***Footnote
+5. It is assumed that the response rate  for households with
+students between the ages of 12 and 19 is the same as that of
+all households.  The reported unit response rates are
+unweighted.***  Multiplying the household completion rate times
+the student completion rate produced an overall SCS response
+rate of 83.5 percent in 1989 and 73.7 percent in 1995.
+
+The rate at which respondents provide a valid response to a
+given item is referred to as its item response rate.  Item
+response rates for items used in this report were high.  Most
+items were answered by over 95 percent of all eligible
+respondents.  The only exception was the household income
+question which was answered by approximately 90 percent of all
+households in both years.  Income and income-related questions
+typically have relatively low response rates due to their
+sensitive nature.
+
+---------------------------------
+II.  Notes
+Regarding Items Used in the Report
+---------------------------------
+
+------------------------------------------------------------------
+Differences between the 1989 and 1995 NCVS Victimization Items
+------------------------------------------------------------------
+
+Respondents to the SCS were asked two separate sets of questions
+regarding personal victimization. The first set of questions was
+asked as part of the ongoing NCVS and included data on up to six
+separate incidents of victimization reported by respondents to
+the NCVS.  These questions covered several different dimensions
+of victimization including the nature of each incident, where it
+occurred, what losses resulted, etc.  Earlier research on
+student victimization at school has relied on NCVS items to
+develop incident rates.  ***Footnote 6.  L. Bastian and B.
+Taylor,  School Crime:  A National Crime Victimization Survey
+Report.***  However, changes to the basic NCVS between 1989 and
+1995 make cross-year comparisons using these items difficult. 
+The 1995 NCVS used a different screening procedure to uncover
+victimizations than did the 1989 NCVS.  
+
+The new screening procedure was meant to elicit a more complete
+tally of victimization incidents than did the one used in the
+1989 NCVS.  For instance, the 1995 screener specifically asked
+whether respondents had been raped or otherwise sexually
+assaulted, whereas the 1989 screener did not.  Therefore, NCVS
+item based cross-year changes in reported victimization rates,
+or lack thereof, may only be the result of changes in how
+questions were asked and not of actual changes in the incidence
+of victimization.  For more details on this issue, refer the BJS
+report, "Effects of the Redesign on Victimization Estimates". 
+***Footnote 7. C. Kindermann, J. Lynch, and D. Cantor.   Effects
+of the Redesign on Victimization Estimates.***
+
+Because NCVS questionnaires were completed before students were
+given the SCS questionnaires, it is likely that changes to NCVS
+victimization screening procedures differentially affected
+responses to the 1989 and 1995 SCS victimization items.  While
+the assumption is not possible to test, it is nonetheless
+reasonable to expect that by providing a more detailed
+victimization screening instrument in the 1995 NCVS, that 1995
+SCS respondents had better victimization recall than 1989 SCS
+respondents.
+
+---------------------------------
+Differences Between NCVS
+and SCS Items 
+---------------------------------
+
+A less detailed set of victimization questions, which was not
+modified between 1989 and 1995, was asked in the SCS.  These
+items are more generally comparable across the two years and
+form the basis of the victimization section of this report. 
+Readers should be aware that these items indicate a higher rate
+of victimization at school than do the six items included in the
+NCVS.  For instance, using the NCVS items, BJS estimated that 9
+percent of students experienced some form of victimization at
+school during the period covered by the 1989 SCS. ***Footnote 8.
+L. Bastian and B. Taylor, School Crime:  A National Crime
+Victimization Survey Report.***  The 1989 SCS items, asked of
+the same students, indicate that 14.5 percent of them had
+experienced some sort of victimization at school.
+
+One contributing factor to the difference may be the sequencing
+of the NCVS and SCS.  Respondents were first asked the NCVS
+items and then asked the SCS items.  Prompted by the NCVS to
+think about incidents of victimization, respondent recall may
+have improved by the time the SCS victimization questions were
+asked.  A second contributing factor may be differences between
+the victimization questions asked in the NCVS and the SCS. In
+the NCVS, respondents were asked about an incident and where it
+occurred in separate questions.  The SCS items asked respondents
+about victimization and whether or not it occurred at school in
+one question.  This may have prompted respondents to report
+incidents that had occurred at school that may have been
+forgotten during the NCVS set of questions.  Because of
+differences in the way the SCS and NCVS items were asked, it is
+recommended that rates developed from the SCS items not be
+compared to rates developed from the NCVS items.
+
+---------------------------------
+Derived Variables 
+---------------------------------
+
+Several variables used in this report were derived by combining
+information from two or more questions.  For the most part, the
+derived variables and the items that went into them were the
+same in both the 1989 and 1995 SCS.  The variable, violent
+victimization, was derived by combining two questions dealing
+with incidents at school.  The first asked whether or not the
+respondent had anything taken directly by force (question
+20a in the 1995 questionnaire and question 26b in the 1989
+questionnaire).  Not counting incidents where the respondent had
+had anything taken directly by force, the second question asked
+if the respondent had been physically attacked at school
+(questions 22a and 28a in 1995 and 1989, respectively).  If the
+respondent said yes to either, he or she was counted as having
+experienced some form of violent victimization.
+
+Any victimization was derived from the violent victimization
+item and a question asking whether or not the respondent had had
+anything stolen at school (question 21a in 1995 and 27a in
+1989).  The question about having something stolen excluded
+incidents where something had been taken by force.  If the
+respondent said something had been stolen, or had experienced
+some form of violent victimization, he or she was considered a
+victim in the any victimization item.  All victimization items
+were dichotomous.  Either the respondent had experienced a given
+form of victimization or had not.
+
+The items drug availability: 1995 definition and drug
+availability: 1989 definition were also derived.  In 1995,
+respondents were asked about the difficulty of obtaining
+marijuana, crack, cocaine, uppers/downers, LSD, PCP, heroin, or
+other illegal drugs at school (questions 18b through 18i in the
+1995 questionnaire).  If students reported any of these were
+easy to obtain or were hard to obtain, they were counted as
+believing drugs to be available in the drug availability: 1995
+definition variable.
+
+The same process went into constructing the drug availability: 
+1989 definition item.  However, because the 1989 questionnaire
+(questions 22b through 22e) did not ask about the availability
+of LSD, PCP, or heroin, only the availability of marijuana,
+crack, cocaine, and uppers/downers was considered.  This
+variable allowed comparisons to be made about perceptions of
+drug availability across the two SCS.  For both derived drug
+availability variables, respondents had to say that all of the
+drugs covered were impossible to obtain to be counted as
+believing no drugs to be available.
+
+A large number of respondents indicated that they were not sure
+if one or more of the listed drugs were available, or were not
+sure what one or more of the drugs were.  These cases make up
+the difference in the tables between the number believing drugs
+to be available, believing no drugs to be available, and student
+population totals.  The drug variables were trichotomous in
+form.  Respondents were coded as believing drugs to be
+available, not available, or other.
+
+The final derived variable, student's race/ethnicity, was a
+combination of two variables (both from the NCVS but included on
+the SCS files).  The first question asked the race of the
+student and the second asked whether or not the student was of
+Hispanic origin.  Respondents who answered yes to the second
+question were counted as Hispanic.  Students who said they were
+white or black, but not of Hispanic origin were counted as
+white/non-Hispanic or black/non-Hispanic.  Those of other races
+who were not Hispanic were counted as other/non-Hispanic.
+
+------------------------------------------------------------------
+ III. Weighting and Statistical Analysis Procedures
+------------------------------------------------------------------
+
+---------------------------------
+ Weighting 
+---------------------------------
+
+The purpose of the SCS data is to make inferences about the
+12-to 19-year-old student population (see above for a more
+complete description of the population).  Before such inferences
+can be drawn, it is important to adjust or weight the sample of
+students to assure they are similar to the entire population of
+such students.  The weights used in this report are a
+combination of household level and person level adjustment
+factors.  In the NCVS, adjustments were made to account for both
+household and person non-interviews.  Additional factors were
+then applied to reduce the variance of the estimate by
+correcting for differences between the sample distribution of
+age, race, and sex, and known population distributions of these
+characteristics.  The resulting weights were assigned to all
+interviewed households and persons on the file.
+
+A special weighting adjustment was then performed for the SCS
+respondents.  Non-interview adjustment factors were computed to
+adjust for SCS interview non-response.  This non-interview
+factor was then applied to the NCVS person level weight for each
+SCS respondent.
+
+---------------------------------
+ Standard Errors
+---------------------------------
+
+The sample of students selected for each SCS is just one of many
+possible samples that could have been selected.  It is possible
+that estimates from a given SCS student sample may differ from
+estimates that would have been produced from other student
+samples.  This type of variability is called sampling error, or
+the standard error, because it arises from using a sample of
+students rather than all students.
+
+The standard error is a measure of the variability of a
+parameter estimate.  It indicates how much variation there is in
+the population of possible estimates of a parameter for a given
+sample size.  The probability that a complete census count would
+differ from the sample estimate by less than 1 standard error is
+about 68 percent.  The chance that the difference would be less
+than 1.65 standard errors is about 90 percent, and that the
+difference would be less than 1.96 standard errors, about 95
+percent.  Standard errors for the percentage estimates are
+presented in the appendix tables. 
+
+Standard errors are typically developed assuming that a sample
+is drawn purely at random.  The sample for the SCS was not a
+simple random sample, however.  In order to help adjust the
+standard errors to account for the sample design, the Census
+Bureau developed three generalized variance function (gvf)
+constant parameters.  The gvf represents the curve fitted to the
+individual standard errors calculated using the Jackknife
+Repeated Replication technique. ***Footnote 9.  A more detailed
+description of the generalized variance function constant
+parameters developed for the NCVS and SCS can be found in the
+previously cited report "Criminal Victimization in the United
+States, 1994".***  The three constant parameters (a, b, and c)
+derived from the curve fitting process were:
+
+Year          a          b        c 
+1989   0.00001559      3,108    0.000 
+1995   0.00006269      2,278    1.804
+
+To adjust the standard errors associated with percentages, the
+following formula is used:
+
+standard error of p = (please see printed verison for formula)
+
+where p is the percentage of interest expressed as a proportion
+and y is the size of the population to which the percentage
+applies.  Once the standard error of the proportion is
+estimated, multiply it by 100 to make it applicable to the
+percentage.
+
+To calculate the adjusted standard errors associated with
+population counts, the following applies:
+
+     standard error of x = (please see printed verison for formula)
+
+where x is the estimated number of students who experienced a
+given event (e.g., violent victimization).
+
+-----------------------------
+Statistical Tests 
+-----------------------------
+
+For the most part, statistical tests done for this report rely
+on Student's t tests which are designed to determine if
+estimates are statistically different from one another.  The
+only exception occurred when student characteristic variables
+had more than two categories and all of the categories could be
+rank ordered.  These variables were student's age, grade, and
+household income.  When comparing these items to indicators of
+crime, a different set of tests was used. Initially, to
+determine if a relationship existed between these demographic
+indicators and the crime indicators, adjusted chi-square tests
+were employed.  If a statistically significant relationship was
+found, trend tests (weighted logistic regressions) were used to
+estimate its strength and direction.  
+
+Differences discussed in this report are significant at the 95
+percent confidence level or higher.  Where a lack of difference
+is noted, the significance of the difference is below this
+threshold.  Differences between pairs of estimated percentages
+were tested using the Student's t statistic.  This t statistic
+can be used to test the likelihood that the differences between
+two estimates are larger than would be expected simply due to
+sampling error.
+
+To compare the difference between two independent percentage
+estimates, Student's t is calculated as:    
+
+     (please see printed verison for formula)
+
+
+where p1 and p2 are the estimated percentages to be compared
+and se1 and se2 are their corresponding adjusted standard errors.
+
+As the number of comparisons on the same set of data increases,
+the likelihood that the t value for one or more of the
+comparisons will exceed 1.96 simply due to sampling error
+increases.  For a single comparison, there is a 5 percent chance
+that the t value will exceed 1.96 due to sampling error.  For
+five tests, the risk of getting at least one t value over 1.96
+due to sampling error increases to 23 percent.  To compensate
+for the problem when making multiple comparisons on the same set
+of data, Bonferroni adjustments were made.
+
+Bonferroni adjustments essentially deflate the alpha value
+needed to obtain a given confidence interval.  Bonferroni
+adjustment factors are determined by establishing the number of
+comparisons that could be made for a given set of data.  The
+alpha value for a given level of confidence is then divided by
+the number of possible comparisons.  The resulting alpha value
+is then compared to the table of t statistics to find the t
+value associated with that alpha value.
+
+The effect of modifying comparison of estimates to account for
+standard errors and Bonferroni adjustments is to occasionally
+make apparent differences statistically not significant.  This
+helps explain why differences of roughly the same magnitude are
+statistically significant in some instances while not in others.
+
+Because of the computational complexity associated with weighted
+logistic regressions (used as trend tests in this report),
+chi-square tests were used to determine if a relationship
+existed between student's age, grade in school, or household
+income and indicators of crime at school.  If a chi-square test
+indicated a significant relationship, a follow-up test was
+conducted using a weighted logistic regression.
+
+Fellegi adjustments were applied to the chi-square tests to
+account for effects of standard errors on the estimates.
+***Footnote 10. Fellegi, I.P.  "Approximate Tests of
+Independence and Goodness of Fit Based on Stratified Multistage
+Samples."  Journal of the American Statistical Association,
+1980, pp. 273-279.***  A Fellegi adjustment is typically
+developed in two stages.  The first stage adjusts the variances
+associated with an estimated cell percentage as follows:
+
+    adjusted variance =(please see printed verison for formula)
+
+where p1 is the estimated weighted percent of cases in a given
+cell and var1 is the variance of this estimate.  N denotes the
+unweighted population total.  Before Fellegi adjustments were
+made, the cell variances were modified to account for the sample
+design using the gvf parameters.
+
+Once the variances are adjusted, they are summed across all
+cells and the resulting sum is then divided by the number of
+cells.  The chi-square estimate based on the weighted cell
+percentages is then divided by this quotient before determining
+if it is significant.  The equation for the adjustment is: 
+
+(please see printed verison for formula)
+
+where I is the number of cells in the cross tabulation and n is
+the unweighted sample size.
+
+Weighted logistic regressions used in this report were also
+developed in several stages.  The crime report indicators were
+dichotomized such that students who gave an affirmative response
+to the indicator being tested (e.g. responding yes to knowing
+another student who had brought a gun to school) were coded as
+ones and all other students were coded as zeros. ***Footnote 11.
+Note that the crime indicators in the chi-square tests were
+dichotomized in the same manner. ***
+
+The resulting logistic regression models took the following form:
+
+(please see printed verison for formula)
+
+where Y is the dependent variable and X is the independent
+variable ((1 is the intercept term and ui is the residual term).
+To assure that particular categories of the independent
+variable were not given undue weight, the entire equation was
+weighted by the inverse of the estimated variance of the
+independent variable in the model as follows:
+
+(please see printed verison for formula)
+
+where (i2 represents the estimated
+variance term.
+
+----------------------------------------------------------------------
+Appendix A:  Tables of Standard Errors
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+Table 1a.  Standard errors for the percent of students ages 12 through 19 reporting criminal victimization at school, by selected characteristics and
+perceptions of conditions at school:  1989 and 1995
+
+                                                                    Year
+
+Student                                         1989                                          1995
+characteristics                       Victimization                                        Victimization
+and perceptions of              Any/1        Violent/2     Property/3           Any/1        Violent/2     Property/3
+conditions at school            s.e.           s.e.           s.e.              s.e.           s.e.           s.e.
+
+
+Total                             0.4            0.2            0.4             0.5            0.2            0.4
+
+Characteristics
+
+Student sex
+  Male                            0.6            0.4            0.5             0.7            0.4            0.6
+  Female                          0.6            0.2            0.6             0.6            0.3            0.6
+
+Student race/ethnicity
+  White, non-Hispanic             0.5            0.3            0.5             0.6            0.3            0.5
+  Black, non-Hispanic             1.1            0.5            1.0             1.1            0.6            1.0
+  Hispanic                        1.4            0.8            1.2             1.1            0.6            0.9
+  Other, non-Hispanic             2.2            0.9            2.1             1.9            1.0            1.7
+
+Student age
+  12                              1.2            0.7            1.1             1.2            0.7            1.0
+  13                              1.2            0.6            1.1             1.1            0.7            1.0
+  14                              1.2            0.6            1.1             1.1            0.6            1.0
+  15                              1.1            0.6            1.0             1.0            0.5            1.0
+  16                              1.0            0.5            0.9             1.0            0.5            0.8
+  17                              0.9            0.4            0.9             0.9            0.4            0.9
+  18                              1.2            0.6            1.1             1.0            0.5            0.8
+  19                              2.6            1.2            2.6             2.5            1.5            2.1
+
+Student grade
+  Sixth                           1.6            1.0            1.5             1.4            0.9            0.5
+  Seventh                         1.2            0.7            1.1             1.2            0.7            1.1
+  Eighth                          1.1            0.6            1.0             1.1            0.6            1.0
+  Ninth                           1.1            0.6            1.1             1.1            0.6            1.0
+  Tenth                           1.1            0.5            1.0             1.0            0.5            0.9
+  Eleventh                        0.9            0.5            0.9             0.9            0.4            0.8
+  Twelfth                         0.9            0.3            0.8             0.9            0.4            0.8
+  Other                           2.9            2.1            2.5             2.9            1.9            2.3
+
+Student household income
+  Less than $7,500                1.4            0.7            1.3             1.6            1.0            1.4
+  $7,500-$9,999                   2.2            1.4            1.9             2.0            1.1            1.8
+  $10,000-$14,999                 1.5            0.8            1.4             1.5            0.9            1.3
+  $15,000-$24,999                 1.0            0.5            0.9             1.1            0.6            1.0
+  $25,000-$29,999                 1.4            0.8            1.3             1.6            0.9            1.4
+  $30,000-$49,999                 0.8            0.4            0.8             0.8            0.4            0.7
+  $50,000+                        1.0            0.5            1.0             0.8            0.4            0.7
+  Not ascertained                 1.3            0.6            1.2             1.3            0.7            1.2
+
+Student place of residence
+  Central city                    0.8            0.4            0.8             0.8            0.5            0.7
+  Suburbs                         0.6            0.3            0.6             0.6            0.4            0.6
+  Nonmetropolitan area            0.8            0.4            0.8             0.8            0.4            0.8
+
+Student school type
+  Public                          1.4            0.7            1.3             0.5            0.3            0.5
+  Private                         1.4            0.7            1.3             1.2            0.5            1.1
+  Not ascertained                 2.8            1.5            2.5               +              +              +
+
+Perceptions of conditions at school
+
+Student reports of street gangs in school
+  Yes                             1.3            0.8            1.2             1.0            0.6            0.8
+  No                              0.5            0.2            0.4             0.6            0.2            0.5
+  Don't know if present           1.8            0.9            1.7             1.0            0.6            0.9
+  Not ascertained                 5.1            2.5            5.1             2.9            2.2            1.9
+
+Student report of knowing a student who brought a gun to school    
+  Yes                              --             --             --             1.4            0.9            1.3
+  No                               --             --             --             0.5            0.2            0.4
+  Not ascertained                  --             --             --             2.7            1.9            2.0
+
+Student reports of seeing a student with a gun at school
+  Yes                              --             --             --             2.2            1.5            2.1
+  No                               --             --             --             0.5            0.2            0.4
+  Do not know                      --             --             --               +              +              +
+  Not ascertained                  --             --             --             3.2            2.1            2.4
+
+Student reports of drug availability: marijuana, cocaine, crack, upper/downers  /4
+  Any available                   0.6            0.3            0.5             0.6            0.3            0.5
+  None available                  1.1            0.5            1.0             1.0            0.4            0.9
+  Do not know/Not   
+  ascertained                     0.7            0.4            0.7             0.8            0.5            0.7
+
+-- Question is not asked in the 1989 School Crime Supplement.
++ Fewer than 30 sample cases.
+ 
+1/  Any victimization is a combination of reported violent and property victimization.  
+If the student reported an incident of either, he or she is counted as having experienced 
+any victimization.  If the respondent reported having experienced both, he or she is 
+only counted once under "Any victimization"
+
+2/  Violent victimization includes physical attacks or taking property from the 
+student directly by force, weapons, or threats.
+
+3/  Property victimization includes theft of property from a students desk, locker, 
+or other locations.
+
+4/  In both the 1989 and 1995 SCS, students were asked about the availability of marijuana, 
+cocaine, crack, and uppers/downers.  If students reported any of these to be easy or hard 
+to obtain at school, they are included in the "Any available" category.  If they said each 
+was impossible to obtain, they are counted in the "None available" category.  If students 
+are not included in the first two categories, they are included in the "Do not know/Not 
+ascertained" category.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement 
+to the National Crime Victimization Survey, spring 1989 and spring 1995. 
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+Table 2a. Standard errors for the percent of students ages 12 through 19 
+reporting the availability of drugs at school, by selected 
+characteristics and perceptions of conditions at school:  
+1989 and 1995
+                                              Year
+                                1989             1995             1995
+                                                             Drug
+Student                    Drug             Drug             availability:
+characteristics            availability:    availability:    1989 and 1995
+and perceptions of         1989 items/1     1989 items/1     items/1
+conditions at school       s.e.             s.e.             s.e.
+
+
+Total                            0.6              0.4              0.8
+
+Characteristics
+
+Student sex
+  Male                           0.8              1.0              1.0
+  Female                         0.8              1.0              1.0
+
+Student race/ethnicity
+  White, non-Hispanic            0.7              0.9              0.9
+  Black, non-Hispanic            1.5              1.5              1.5
+  Hispanic                       1.9              1.7              1.7
+  Other, non-Hispanic            3.1              2.8              2.8
+
+Student age
+  12                             1.5              1.5              1.6
+  13                             1.5              1.6              1.6
+  14                             1.5              1.5              1.5
+  15                             1.5              1.4              1.4
+  16                             1.4              1.4              1.4
+  17                             1.3              1.4              1.4
+  18                             1.8              1.8              1.7
+  19                             5.0              4.1              4.1
+
+Student grade
+  Sixth                          2.0              1.8              1.9
+  Seventh                        1.6              1.6              1.6
+  Eighth                         1.5              1.6              1.6
+  Ninth                          1.4              1.4              1.4
+  Tenth                          1.5              1.4              1.4
+  Eleventh                       1.3              1.4              1.3
+  Twelfth                        1.3              1.4              1.4
+  Other                          4.0              4.6              4.7
+
+Student household income
+  Less than $7,500               1.9              2.3              2.3
+  $7,500-$9,999                  3.0              3.0              3.0
+  $10,000-$14,999                2.0              2.2              2.2
+  $15,000-$24,999                1.4              1.6              1.6
+  $25,000-$29,999                2.0              2.1              2.1
+  $30,000-$49,999                1.1              1.2              1.2
+  $50,000+                       1.4              1.2              1.2
+  Not ascertained                1.9              1.9              1.8
+
+Student place of residence
+  Central city                   1.1              1.2              1.2
+  Suburbs                        0.8              1.0              1.0
+  Nonmetropolitan area           1.1              1.2              1.2
+
+Student school type
+  Public                         0.6              0.8              0.8
+  Private                        2.0              2.0              2.0
+  Not ascertained                4.1                +                +
+
+Perceptions of conditions at school
+
+Student reports of street gangs in school
+  Yes                            1.4              1.0              1.0
+  No                             0.6              1.0              0.9
+  Do not know                    2.6              1.7              1.7
+  Not ascertained                9.4              4.5              4.5
+
+Student reports of knowing a student who brought a gun to school    
+  Yes                             --              1.2              1.2
+  No                              --              0.8              0.8
+  Not ascertained                 --              4.7              4.7
+
+Student reports of seeing a student with a gun at school
+  Yes                             --              1.5              1.4
+  No                              --              0.8              0.8
+  Do not know                     --                +                +
+  Not ascertained                 --              4.9              4.9
+
+Student reports of being the victim of any violent or property crime at 
+school
+  Yes                            1.4              1.5              1.4
+  No                             0.6              0.8              0.8
+  Not ascertained                  +              4.4              4.4
+
+Student reports of being the victim of any violent crime at school /2
+
+  Yes                            2.8              2.5              2.4
+  No                             0.6              0.8              0.8
+  Not ascertained                  +              4.8              4.8
+
+Student reports of being the victim of any property crime at school /3
+
+  Yes                            1.5              1.6              1.6
+  No                             0.6              0.8              0.8
+  Not ascertained                9.6              4.7              4.7
+
+-- Question is not asked in the 1989 School Crime Supplement.
++ Fewer than 30 sample cases.
+ 
+1/ In the 1989 School Crime Supplement, students are asked 
+about the availability of marijuana, cocaine, crack, uppers and downers, 
+and other illegal drugs.  In the 1995 School Crime Supplement, students 
+are asked about the availability of these drugs and were also asked about 
+the availability of PCP, LSD, and heroin. When comparing across the two 
+years, only those drugs that are listed on both surveys are counted (i.e. 
+marijuana, cocaine, crack, and uppers and downers).  This list of drugs is 
+referred to as "Drug availability: 1989 definition". Other illegal drugs 
+are excluded from the 1989 definition used in cross-year analyses.  When 
+not making comparisons across the two surveys and focusing solely on the 
+1995 estimates, all of the 1995 response categories are counted (this 
+approach is referred to as "Drug availability: 1995 definition"). 
+
+2/  Violent victimization includes physical attacks or taking 
+property from the student directly by force, weapons, or threats.
+
+3/  Property victimization includes theft of property from a 
+student's desk, locker, or other locations.
+
+NOTE:  s.e. is standard error.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, School 
+Crime Supplement to the National Crime Victimization Survey, spring 1989 
+and spring 1995. 
+------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+Table 3a.  Standard errors for the percent of students ages 12 through 19 reporting the 
+difficulty of obtaining various drugs at school: 1989 and 1995
+
+                                                                           Year
+                                        1989                                                          1995
+                                   Availability                                                  Availability
+                                                 Don't      Don't                                              Don't      Don't
+                  Easy to   Hard to  Impossible  know if    know     Not       Easy to     Hard to  Impossible know if    know     Not
+                  Obtain    Obtain   to Obtain   available  drug     ascert.   Obtain      Obtain   to Obtain  available  drug     ascert.
+Drug              s.e.      s.e.      s.e.         s.e.      s.e.      s.e.     s.e.         s.e.      s.e.       s.e.     s.e.      s.e.
+Marijuana            0.6       0.5       0.4       0.5       0.1       0.0         0.7       0.6       0.6       0.5       0.1       0.1
+Crack                0.3       0.6       0.5       0.6       0.2       0.0         0.4       0.7       0.7       0.6       0.1       0.1
+Other forms of   
+   cocaine           0.4       0.6       0.5       0.6       0.1       0.0         0.4       0.7       0.7       0.6       0.1       0.1
+Uppers/downers       0.5       0.5       0.4       0.6       0.3       0.0         0.6       0.6       0.6       0.6       0.4       0.1
+LSD                   --        --        --        --        --        --         0.4       0.7       0.7       0.6       0.3       0.1
+PCP                   --        --        --        --        --        --         0.3       0.6       0.7       0.6       0.4       0.1
+Heroin                --        --        --        --        --        --         0.3       0.7       0.8       0.6       0.2       0.1
+Other Drugs          0.4       0.5       0.5       0.6       0.2       0.1         0.4       0.7       0.7       0.6       0.1       0.1
+
+-- Question is not asked in the 1989 School Crime Supplement.
+
+NOTE:  s.e. is standard error.
+ 
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, School Crime 
+Supplement to the National Crime Victimization Survey, spring 1989 and spring 1995.
+
+-----------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+Table 4a. Standard errors for percent of students ages 12 through 19 reporting the presence of gangs at school, by selected characteristics and
+perceptions of  conditions at school:  1989 and 1995
+                                                      Year
+
+                                 1989                              1995
+Student                     Street Gangs in School            Street Gangs in School
+characteristics                         Do not   Not                         Do not   Not
+and perceptions of      Yes      No     know     ascert.     Yes      No     know     ascert.
+conditions at school    s.e.    s.e.    s.e.     s.e.        s.e.     s.e.    s.e.    s.e.
+
+Total                     0.4     0.5     0.3     0.1         0.7     0.8     0.5     0.1
+
+Characteristics
+
+Student sex
+  Male                    0.6     0.7     0.3     0.1         0.9     1.0     0.6     0.2
+  Female                  0.6     0.7     0.4     0.1         0.9     1.0     0.6     0.1
+
+Student race/ethnicity
+  White, non-Hispanic     0.4     0.5     0.3     0.1         0.7     0.9     0.5     0.1
+  Black, non-Hispanic     1.2     1.3     0.8     0.2         1.5     1.6     1.0     0.4
+  Hispanic                1.8     1.9     0.9     0.3         1.7     1.7     1.1     0.3
+  Other, non-Hispanic     2.7     3.0     1.7       #         2.6     2.8     2.2     0.6
+
+Student age
+  12                      1.0     1.2     0.6     0.2         1.2     1.5     1.0     0.3
+  13                      1.1     1.2     0.7     0.1         1.3     1.6     1.0     0.2
+  14                      1.2     1.3     0.7     0.2         1.4     1.6     1.0     0.2
+  15                      1.1     1.3     0.7     0.2         1.4     1.6     1.0     0.3
+  16                      1.1     1.2     0.6     0.1         1.4     1.6     1.0     0.2
+  17                      1.1     1.3     0.7     0.2         1.5     1.7     1.1     0.2
+  18                      1.5     1.7     0.9     0.5         1.9     2.1     1.3     0.4
+  19                      4.3     5.2     3.3     1.4         4.1     4.5     3.2       #
+
+Student grade
+  Sixth                   1.2     1.5     0.9     0.3         1.3     1.8     1.3     0.4
+  Seventh                 1.2     1.3     0.6     0.1         1.3     1.6     1.1     0.2
+  Eighth                  1.0     1.2     0.7     0.2         1.4     1.6     0.9     0.2
+  Ninth                   1.2     1.3     0.7     0.2         1.4     1.6     1.0     0.3
+  Tenth                   1.2     1.3     0.7     0.1         1.5     1.6     1.0     0.2
+  Eleventh                1.1     1.3     0.7     0.2         1.5     1.6     1.0     0.2
+  Twelfth                 1.1     1.2     0.6     0.3         1.5     1.7     1.1     0.3
+  Other                   2.5     3.4     2.4     1.2         3.4     4.3     2.6     1.4
+
+Student household income
+  Less than $7,500        1.4     1.7     1.0     0.3         2.2     2.3     1.6     0.4
+  $7,500-$9,999           2.5     2.9     1.8     0.0         2.8     3.0     2.4     1.0
+  $10,000-$14,999         1.7     1.8     1.0     0.3         2.0     2.2     1.5     0.2
+  $15,000-$24,999         1.1     1.2     0.6     0.2         1.5     1.7     1.1     0.4
+  $25,000-$29,999         1.5     1.7     0.9     0.3         2.0     2.2     1.3     0.3
+  $30,000-$49,999         0.8     0.9     0.5     0.2         1.1     1.3     0.8     0.2
+  $50,000+                0.9     1.1     0.6     0.1         1.0     1.2     0.8     0.2
+  Not ascertained         1.5     1.7     0.9     0.9         1.7     1.9     1.2     0.4
+
+Student place of residence
+  Central city            1.0     1.1     0.6     0.2         1.2     1.2     0.8     0.2
+  Suburbs                 0.6     0.7     0.4     0.1         0.9     1.0     0.6     0.1
+  Nonmetropolitan area    0.6     0.8     0.5     0.1         1.0     1.2     0.8     0.2
+
+Student school type
+  Public                  0.5     0.5     0.3     0.1         0.7     0.8     0.5     0.1
+  Private                 0.8     1.1     0.7     0.2         0.9     1.4     0.9     0.2
+  Not ascertained         0.8     3.7     2.4     1.7           +       +       +       +
+
+Perceptions of conditions at school
+
+Student reports of being the victim of any violent or property crime at school
+  Yes                     1.3     1.4     0.7     0.2         1.6     1.6     1.0     0.2
+  No                      0.4     0.5     0.3     0.0         0.7     0.8     0.5     0.1
+  Not ascertained           +       +       +       +         2.0     2.8     2.5     4.3
+
+Student reports of being the victim of any violent crime at school/ 1
+  Yes                     3.0     3.1     1.4     0.3         2.7     2.6     1.7     0.5
+  No                      0.4     0.5     0.3     0.0         0.7     0.8     0.5     0.1
+  Not ascertained           +       +       +       +         1.9     3.5     2.9     4.9
+
+Student reports of being the victim of any property crime at school  / 2
+  Yes                     1.4     1.5     0.8     0.2         1.7     1.8     1.0     0.2
+  No                      0.4     0.5     0.3     0.0         0.7     0.8     0.5     0.1
+  Not ascertained         4.9     9.7     4.8     9.4         2.6     3.6     3.0     5.2
+
+Student reports of knowing a student who brought a gun to school    
+  Yes                      --      --      --      --         1.7     1.6     0.9     0.2
+  No                       --      --      --      --         0.7     0.8     0.5     0.1
+  Not ascertained          --      --      --      --         3.2     4.4     2.9     4.8
+
+Student reports of seeing a student with a gun at school
+  Yes                      --      --      --      --         2.4     2.2     1.1     0.0
+  No                       --      --      --      --         0.7     0.8     0.5     0.1
+  Do not know              --      --      --      --        10.5    11.7    11.5     5.5
+  Not ascertained          --      --      --      --           +       +       +       +
+
+Student reports of drug availability: marijuana, cocaine, crack, upper/downers /3
+  Any available           0.6     0.6     0.3     0.1         0.8     0.9     0.5     0.1
+  None available          1.0     1.0     0.5     0.2         1.0     1.4     0.9     0.2
+  Do not know/Not   
+  ascertained             0.8     1.0     0.5     0.1         1.1     1.5     1.2     0.5
+
+-- Question is not asked in the 1989 School Crime Supplement.
++ Fewer than 30 sample cases.
+# No cases are reported in this cell, although the event defined by this cell could have
+reported by some students with these characteristics had a different sample been drawn.
+
+1/ Violent victimization includes physical attacks or taking property from the 
+student directly by force, weapons, or threats.
+
+2/ Property victimization includes theft of property from a students desk, locker, 
+or other locations.
+
+3/  In both the 1989 and 1995 SCS, students were asked about the availability of 
+marijuana, cocaine, crack, and uppers/downers.  If students reported any of these to be 
+easy or hard to obtain at school, they are included in the "Any available" category.  
+If they said each was not available, they are counted in the "None available" category. 
+If students are not included in the first two categories, they are included in the 
+"Do not know/Not ascertained" category.
+
+NOTE:  s.e. is standard error.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement
+to the National Crime Victimization Survey, spring 1989 and spring 1995. 
+
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Table 5a. Standard errors for the percent of students ages 12
+through 19 reporting guns at school, by selected 
+characteristics and perceptions of conditions at 
+school:  1995
+                                          Year
+                                             1995
+                                          Knew
+Student                                   student     Saw student
+characteristics             Took gun      with gun    with gun
+and perceptions of         to school      at school   at school
+conditions at school          s.e.        s.e.        s.e.
+
+Total                             0.0         0.5         0.3
+
+Characteristics
+
+Student sex
+  Male                            0.0         0.6         0.4
+  Female                          0.0         0.6         0.4
+
+Student race/ethnicity
+  White, non-Hispanic             0.0         0.5         0.3
+  Black, non-Hispanic             0.1         1.1         0.8
+  Hispanic                        0.1         1.0         0.8
+  Other, non-Hispanic               #         1.7         1.1
+
+Student age
+  12                                #         0.7         0.4
+  13                              0.1         0.9         0.5
+  14                              0.1         1.0         0.6
+  15                              0.1         1.1         0.7
+  16                                #         1.1         0.7
+  17                                #         1.2         0.8
+  18                              0.2         1.4         0.9
+  19                                #         3.2         2.2
+
+Student grade
+  Sixth                             #         0.8         0.5
+  Seventh                           #         0.8         0.5
+  Eighth                          0.1         0.9         0.2
+  Ninth                           0.1         1.1         0.7
+  Tenth                           0.1         1.0         0.7
+  Eleventh                          #         1.1         0.8
+  Twelfth                           #         1.2         0.8
+  Other                             #         2.1         1.9
+
+Student household income
+  Less than $7,500                  #         1.4         0.9
+  $7,500-$9,999                     #         1.9         1.6
+  $10,000-$14,999                   #         1.4         1.0
+  $15,000-$24,999                 0.2         1.1         0.8
+  $25,000-$29,999                   #         1.4         0.9
+  $30,000-$49,999                 0.1         0.8         0.5
+  $50,000+                          #         0.8         0.4
+  Not ascertained                   #         1.2         0.7
+
+Student place of residence
+  Central city                      #         0.8         0.6
+  Suburbs                         0.0         0.6         0.4
+  Nonmetropolitan area            0.0         0.7         0.5
+
+Student school type
+  Public                          0.0         0.5         0.3
+  Private                         0.1         0.7         0.5
+  Not ascertained                   #           +           +
+
+Perceptions of conditions at school
+
+Student reports of street gangs at school
+  Present                         0.1         1.0         0.7
+  Not present                     0.0         0.4         0.2
+  Do not know if present          0.1         0.9         0.4
+  Not ascertained                   #         2.3           #
+
+Student reports of being the victim of any violent or property
+ crime at school
+  Yes                             0.1         1.3         1.0
+  No                              0.0         0.5         0.3
+  Not ascertained                   #         0.0         0.0
+
+Student reports of being the victim of any violent crime at 
+school /1
+  Yes                             0.4         2.3         1.9
+  No                              0.0         0.5         0.3
+  Not ascertained                   #         0.0         0.0
+
+Student reports of being the victim of any property crime at 
+school  /2
+  Yes                             0.1         1.4         1.0
+  No                              0.0         0.5         0.3
+  Not ascertained                   #         0.0         0.0
+
+Student reports of the drug availability: marijuana, cocaine, 
+crack, upper/downers  /3
+  Any available                   0.0         0.6         0.4
+  None available                    #         0.5         0.2
+  Do not know/Not   
+  ascertained                       #         0.6         0.3
+
++ Estimate not reported because the row denominator contains less
+than 30 cases.
+# No cases are reported in this cell, although the event defined
+by this cell could have been reported by some students with these
+characteristics had a different sample been drawn.
+
+1/ Violent victimization includes physical attacks or
+taking property from the student directly by force, weapons, or
+threats.
+
+2/ Property victimization includes theft of property 
+from a students desk, locker, or other locations.
+
+3/ In both the 1989 and 1995 SCS, students were asked 
+about the availability of marijuana, cocaine, crack, and upper/
+downers.  If students reported any of these to be easy or hard to
+obtain at school, they are included in the "Any available" 
+category.  If they said each was not available, they are count
+in the "None available" category.  If students are not included
+in the first two categories, they are included in the "Do not 
+know/Not ascertained" category.
+
+NOTE:  s.e. is standard error.
+
+SOURCE:  U.S. Department of Justice, Bureau of Justice 
+Statistics, School Crime Supplement to the National Crime
+Victimization Survey, spring 1995. 
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+Appendix
+B Questionnaires for the School Crime Supplements to the
+National Crime Victimization Survey:  1989 and 1995
+----------------------------------------------------------------------
+ 
+mz 
+4/13/98
+ 

@@ -1,0 +1,539 @@
+Executive Summary: Indicators of School Crime and Safety, 1998
+
+Revised April 20, 1999
+
+U.S. Department of Education 
+Office of Educational Research and Improvement
+National Center for Education Statistics
+
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+October 1998
+
+Phillip Kaufman
+Xianglei Chen
+Susan P. Choy
+MPR Associates, Inc.
+
+Kathryn A. Chandler
+Christopher D. Chapman
+National Center for Education Statistics
+
+Michael R. Rand
+Cheryl Ringel
+Bureau of Justice Statistics
+
+U.S. Department of Education 
+Richard W. Riley, Secretary
+
+Office of Educational Research 
+and Improvement
+C. Kent McGuire, Assistant Secretary
+
+National Center for Education Statistics
+Pascal D. Forgione, Jr., Commissioner
+
+The National Center for Education Statistics (NCES) is the
+primary federal entity for collecting, analyzing, and reporting
+data related to education in the United States and other
+nations. It fulfills a congressional mandate to collect,
+collate, analyze, and report full and complete statistics on the
+condition of education in the United States; conduct and publish
+reports and specialized analyses of the meaning and 
+significance of such statistics; assist state and local
+education agencies in improving their statistical 
+systems; and report on education activities in foreign countries.
+
+This publication can be downloaded 
+from the World Wide Web at 
+http://nces.ed.gov  
+
+Single hard copies can be ordered through 
+ED Pubs at 1-877-4EDPUBS 
+(NCES 98-251) (TTY/TDD 1-877-576-7734), 
+
+Contact at NCES:
+Kathryn Chandler
+(202) 2191767
+(email) kathryn_chandler@ed.gov
+
+*
+
+U.S. Department of Justice
+Janet Reno, Attorney General
+
+Office of Justice Programs
+Laurie O. Robinson
+Assistant Attorney General
+
+Bureau of Justice Statistics
+Jan M. Chaiken, Director
+
+The Bureau of Justice Statistics (BJS) is the 
+primary federal entity for collecting, analyzing, 
+publishing, and disseminating statistical information 
+about crime, its perpetrators and victims, and
+the operation of the justice system at all levels 
+of government. These data are critical to federal, 
+state, and local policymakers in combating crime and 
+ensuring that justice is both efficient and evenhanded.
+
+This publication can be downloaded 
+from the World Wide Web at 
+http://www.ojp.usdoj.gov/bjs/abstract/iscs98.htm
+
+Single hard copies can be ordered through 
+Bureau of Justice Statistics Clearinghouse 
+at 1-800-732-3277 (NCJ 172215). 
+
+Contact at BJS:
+Michael Rand
+(202) 616-3494
+(email) randm@ojp.usdoj.gov
+
+October 1998
+
+Suggested Citation
+
+Kaufman, P., Chen, X., Choy, S. P., Chandler, K. A., Chapman, C.
+D., Rand, M. R. and Ringel, C.  Indicators of School Crime and
+Safety, 1998. U.S. Departments of Education and Justice. NCES
+98-251/NCJ 172215. Washington, D.C.: 1998.
+
+*
+
+Foreword
+
+The string of tragic violent incidents that occurred in 
+school year 1997-1998 has refocused the American 
+public's attention on school crime and safety. When 
+the first events occurred, it became clear that there 
+was no single source of information about crime and 
+violence in the nation's schools, and President Clinton 
+called on the Departments of Justice and Education 
+to produce an annual report card on school violence. 
+The Departments responded to that request by 
+producing the Annual Report on School Safety: 1998 
+to inform educators, parents and students about the 
+current nature of crime in schools and about programs 
+schools and school systems have instituted to work 
+towards making schools safer.
+
+At the same time, the statistical agencies of the two 
+departments identified a broader range of indicators 
+on school crime and safety to be reported annually. 
+This report, Indicators of School Crime and Safety, 
+1998, is a joint effort by the Bureau of Justice 
+Statistics and the National Center for Education Statistics. 
+It is meant to provide detailed statistical information 
+supporting the Annual Report. This series will provide 
+the President, Congress, and the public with an analysis 
+of the latest and best national data on school crime 
+and safety in the United States.
+
+In addition to providing this new report on school safety 
+and crime, the Bureau of Justice Statistics and the 
+National Center for Education Statistics have initiated 
+ data collection efforts that will provide even more timely
+and accurate statistics on this issue in years to come. 
+These efforts will include a more regularly conducted 
+School Crime Supplement to the National Crime 
+Victimization Survey scheduled now for 1999 
+and every two years thereafter, and a new biennial 
+school-based survey starting in 2000 that will collect 
+data on crime and discipline problems in our nation's schools.
+
+We hope that this and subsequent reports will help inform 
+the President, Congress, and the public on our nation's 
+progress in providing our children with safe places to 
+live and learn. 
+
+Pascal D. Forgione, Jr., Ph.D.
+Commissioner of Education Statistics            
+
+Jan M. Chaiken, Ph.D.
+Director of the Bureau of Justice Statistics
+               
+*                       
+
+Acknowledgments
+
+The authors wish to thank the heads of their 
+respective agencies, Pat Forgione of the National 
+Center for Education Statistics (NCES) and Jan 
+Chaiken of the Bureau of Justice Statistics (BJS), 
+for supporting this report. We also wish to thank 
+members of the Department of Education/ 
+Department of Justice School Safety Report 
+Working Group for guidance on content and 
+constructive criticism on early drafts of the report. 
+
+From BJS, we wish to thank Patsy Klaus, Craig 
+Perkins, and Cathy Maston of Victimization 
+Statistics Branch for their work in preparing 
+and verifying data from the NCVS.
+
+From NCES, we wish to thank Mary Frase, 
+Dan Kasprzyk, Edie McArthur, and Marilyn 
+McMillen, who served as reviewers. They 
+each provided input that substantially improved 
+the publication.
+
+Outside of NCES and BJS, school crime experts who reviewed the
+report were Bruce Taylor of the General Accounting Office,
+Eileen Poe-Yamagata of the National Center for Juvenile 
+Justice in Pittsburgh, and Joanne Wiggins of the Planning 
+and Evaluation Service of the U.S. Department 
+of Education. Their advice was gratefully 
+accepted. We particularly appreciated their 
+willingness to review the report under very 
+strict time constraints.
+
+Without the assistance of the following staff 
+at MPR Associates this report could not have 
+been produced: Barbara Kridl (overall production and
+proofreading), Andrea Livingston (editing), 
+Leslie Retallick (figure design and text layout), 
+Francesca Tussing (table layout), and Karyn 
+Madden (proofreading). They provided 
+invaluable editorial, graphic, and production assistance.
+
+Finally, the authors would like to thank 
+Amanda Miller of the Education Statistics 
+Services Institute and Marilyn Marbrook, Chief 
+of Publication and Electronic Dissemination 
+at BJS, assisted by Yvonne Boston and Jayne 
+Robinson, for their assistance in preparing this 
+document for publication and dissemination.
+
+ 
+Highlights
+
+Schools should be safe and secure places for all
+students, teachers, and staff members. Without a
+safe learning environment, teachers cannot teach
+and students cannot learn. Recent efforts by
+schools, local authorities, and the state and
+federal governments have prompted the nation to
+focus on improving the safety of American schools.
+It is the hope that all children will be able to
+go to and from school and be at school without
+fearing for their safety or the safety of their
+friends and teachers. Judging progress toward
+providing safer schools requires establishing good
+indicators on the current state of school crime
+and safety and periodically monitoring and
+updating these indicators.
+
+This report, the first in a series of annual
+reports on school crime and safety from the Bureau
+of Justice Statistics and the National Center for
+Education Statistics, presents the latest
+available data on school crime and student safety.
+The report provides a profile of school crime and
+safety in the United States and describes the
+characteristics of the victims of these crimes. It
+is organized as a series of indicators, with each
+indicator presenting data on different aspects of
+school crime and safety. There are five sections
+to the report: Nonfatal Student Victimization--
+Student Reports; Violence and Crime at School--
+Public School Principal/Disciplinarian Reports; 
+Violent Deaths at School; Nonfatal Teacher
+Victimization at School--Teacher Reports; and 
+School Environment. Each section contains a set of
+indicators that, taken as a whole, describe a
+distinct aspect of school crime and safety.
+
+The indicators rely on data collected by a variety
+of federal departments and agencies including the
+Bureau of Justice Statistics, the National Center
+for Education Statistics, the National Center for
+Health Statistics, and the Centers for Disease
+Control and Prevention. Because the report relies
+on so many different data sets, the age groups and
+the time periods analyzed can vary from indicator
+to indicator. Readers should keep this in mind as
+they compare data from different indicators.
+Furthermore, while every effort has been made to
+keep key definitions consistent across indicators,
+different surveys sometimes use different
+definitions, such as those for specific crimes and
+"at school." (Readers should consult the glossary
+of terms in appendix C for the specific
+definitions used in each survey.) Therefore
+caution should be used in making comparisons
+between results from different data sets.
+Descriptions of these data sets are located in
+appendix B of this report. Some of the key
+findings from the various sections of this report
+are as follows. (All comparisons reported in this
+report were statistically significant at the 0.05
+level. See appendix B for details on the methods
+used here.)
+
+Nonfatal Student Victimization -- Student Reports
+
+In 1996, students ages 12 through 18 were victims
+of about 225,000 incidents of nonfatal serious
+violent crime at school and about 671,000
+incidents away from school. (This sentence revised
+April 20, 1999) These numbers indicate
+that when students were away from school they were
+more likely to be victims of nonfatal serious
+violent crime  including rape, sexual assault,
+robbery, and aggravated assault -- than when they
+were at school (Indicator 1).
+
+* The percentages of 12th graders who have been
+injured (with or without a weapon) at school have
+not changed notably over the past 20 years,
+although the percentages who have been threatened
+with injury (with a weapon or without a weapon)
+show a very slight overall upward trend (Indicator
+3). 
+
+* In 1996, 5 percent of all 12th graders reported
+that they had been injured with a weapon such as a
+knife, gun, or club during the past 12 months
+while they were at school that is, inside or
+outside the school building or on a school bus and
+12 percent reported that they had been injured
+on purpose without a weapon while at school
+(Indicator 3). 
+
+* Students were differentially affected by crime
+according to where they lived. In 1996, 12-
+through 18-year-old students living in urban areas
+were more vulnerable to serious violent crime than
+were students in suburban and rural areas both at
+and away from school. However, student
+vulnerability to theft in 1996 was similar in
+urban, suburban, and rural areas both at and away
+from school (Indicator 1).
+
+
+Violence and Crime at School--Public School
+Principal/Disciplinarian Reports
+
+In 1996-97, 10 percent of all public schools
+reported at least one serious violent crime to the
+police or a law enforcement representative.
+Principals'reports of serious violent crimes
+included murder, rape or other type of sexual
+battery, suicide, physical attack or fight with a
+weapon, or robbery. Another 47 percent of public
+schools reported a less serious violent or
+nonviolent crime (but not a serious violent one).
+Crimes in this category include physical attack or
+fight without a weapon, theft/larceny, and
+vandalism. The remaining 43 percent of public
+schools did not report any of these crimes to
+the police (Indicator 6).
+
+* Elementary schools were much less likely than
+either middle or high schools to report any type
+of crime in 1996-97. They were much more likely to
+report vandalism (31 percent) than any of the
+other crimes (19 percent or less) (Indicator 7). 
+     
+* At the middle and high school levels, physical
+attack or fight without a weapon was generally the
+most commonly reported crime in 1996-97 (9 and 8
+per 1,000 students, respectively). Theft or
+larceny was more common at the high school than
+the middle school level (6 versus 4 per 1,000
+students) (Indicator 7).
+
+
+Violent Deaths at School
+
+Seventy-six students were murdered or committed
+suicide at school during the combined 1992-93 and
+1993-94 school years (the latest period for
+which data are available). Nonstudent violent
+deaths also occurred at school. During this
+period, there were 105 violent deaths at school of
+which 29 involved nonstudents (Indicator 8).
+
+* Most murders and suicides among young people
+occurred while they were away from school. In the
+combined 1992 and 1993 calendar years, 7,357 young
+people ages 5 through 19 were murdered, and 4,366
+committed suicide in all locations (Indicator 8). 
+     
+* Students in urban schools had a higher level of
+risk of violent death at school than their peers
+in suburban or rural schools. The estimated rate
+of school-associated violent death for students in
+urban schools was nine times greater than the rate
+for students in rural schools and two times     
+greater than that for students in suburban schools
+during the combined 1992-93 and 1993-94 school
+years (Indicator 8). 
+ 
+
+Nonfatal Teacher Victimization at School--Teacher
+Reports
+
+Over the 5-year period from 1992 to 1996, teachers
+were victims of 1,581,000 nonfatal crimes at
+school, including 962,000 thefts and 619,000
+violent crimes (rape or sexual assault, robbery,
+and aggravated and simple assault) (Indicator 9).
+This translates into about 316,000 nonfatal crimes
+per year over this time period.
+
+* In the period from 1992 to 1996, middle and
+junior high school teachers were more likely to be
+victims of violent crime (most of which were
+simple assaults) than senior high school teachers,
+who in turn were more likely to be victims of
+violent crime than elementary school teachers
+(Indicator 9).
+
+* In the 1993-94 school year, 12 percent of all
+elementary and secondary school teachers were
+threatened with injury by a student, and 4 percent
+were physically attacked by a student. This
+represented about 341,000 teachers who were
+victims of threats of injury by students and
+120,000 teachers who were victims of attacks by
+students that year (Indicator 10).
+ 
+
+School Environment
+
+Between 1989 and 1995, there were increases in the
+percentages of students feeling unsafe while they
+were at school and while they were going to
+and from school. In 1989, 6 percent of students
+ages 12 through 19 sometimes or most of the time
+feared they were going to be attacked or harmed at
+school. By 1995, this percentage had risen to 9
+percent. During the same period, the percentage of
+students fearing they would be attacked while
+traveling to and from school rose from 4 percent
+to 7 percent (Indicator 12).
+
+* Between 1989 and 1995, the percentage of
+students ages 12 through 19 who avoided one or
+more places at school for fear of their own safety
+increased, from 5 percent to 9 percent. In 1995,
+this percentage represented 2.1 million students
+(Indicator 13). 
+     
+* Between 1989 and 1995, the percentage of
+students who reported that street gangs were
+present at their schools increased. In 1989, 15
+percent of students reported gangs being present
+in their schools. By 1995, this percentage had
+risen to 28 percent (Indicator 14). 
+
+* There was a decline between 1993 and 1996 in the
+percentage of male high school seniors who
+reported carrying a weapon to school at least 1 
+day within the 4 weeks before the survey the
+percentage fell from 14 percent in 1993 to 9
+percent in 1996. However, there was little change
+in the percentage of female students who reported
+doing so (from 2 to 3 percent) (Indicator 11). 
+     
+* Although 12th graders were less likely to use
+alcohol at school than at home or at parties, in
+1996 about 8 percent of 12th graders had
+consumed alcohol at school in the past 12 months
+(Indicator 16). 
+     
+* The percentage of 12th graders who had taken
+various illegal drugs at school in the previous 12
+months declined between 1976 and 1992. However,
+since 1992, use of marijuana and stimulants at
+school has increased (Indicator 17).
+
+*                                
+
+Contents  (full report)
+
+Foreword    iii
+Highlights    v  
+Acknowledgments    ix
+List of tables    xiii
+List of figures   xix
+
+Nonfatal Student Victimization Student Reports    1
+  1. Victimization of students at school and away 
+from school   2  
+  2. Prevalence of students' being victimized 
+at school    6 
+  3. Prevalence of 12th graders' being injured
+or threatened with injury at school    8  
+  4. Prevalence of students' being bullied 
+at school    10 
+  5. Prevalence of 12th graders' having property
+stolen or damaged at school    11 
+
+Violence and Crime at School Public School-
+Principal/Disciplinarian Reports     13
+  6. Crimes reported to the police    14
+  7. Specific crimes reported to the police    16
+
+Violent Deaths at School    19
+  8. Violent deaths at school and away from school    20
+
+Nonfatal Teacher Victimization at School-
+Teacher Reports    23
+  9. Nonfatal teacher victimization at school    24
+  10. Prevalence of teachers being threatened
+with injury or attacked by students    26
+
+School Environment    27
+  11. Prevalence of students carrying weapons 
+to school    28
+  12. Students' perceptions of personal safety at school and
+when traveling to and from school    30
+  13. Students' reports of avoiding places at school    32
+  14. Students' reports of gangs at school    34
+  15. Public school principals' reports of discipline 
+problems at school    36
+  16. Prevalence of 12th graders using alcohol
+at school and away from school    38
+  17. Prevalence of 12th graders using other drugs 
+at school and away from school    40
+
+Tables         
+Supplemental Tables    43
+Standard Error Tables    83
+
+Appendixes 
+  A. School Practices and Policies Related to Safety 
+and Discipline    121
+  B. Technical Notes    135
+  C. Glossary of Terms    155
+
+*
+
+Order form
+
+Yes!  Send me 1 copy of "Indicators of School Crime and Safety,
+1998" (161 pages), NCJ 172215
+
+FAX your order to 410-792-4358, or fold, tape, and mail with
+first-class stamp to--
+
+Bureau of Justice Statistics Clearinghouse
+P.O. Box 179, Dept. BJS
+Annapolis Junction MD  20701-0179.
+
+Name___________________________________
+
+Address_________________________________
+
+City, State, ZIP__________________________
+
+Daytime phone number:  (______)____________ 
+
+(end of file)
+

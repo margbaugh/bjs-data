@@ -1,0 +1,1552 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Characteristics of Drivers Stopped
+by Police, 1999
+
+Erica Leah Schmitt
+Patrick A. Langan, Ph.D.  
+Matthew R. Durose 
+
+BJS Statisticians
+
+March 2002, NCJ 191548
+
+----------------------------------------------------------
+This file is text only without graphics and many of the 
+tables.  A Zip archive of the tables in this report in
+spreadsheet format (.wk1) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cdsp99.htm
+-----------------------------------------------------------
+
+Lawrence A. Greenfeld 
+Acting Director
+
+BJS statisticians Erica Leah Schmitt, 
+Patrick A. Langan, and Matthew R. Durose 
+wrote this report. Tom Hester edited and
+produced the report.
+
+Numerous people made possible the development 
+and administration of the Police-Public
+Contact Survey.  Staff from the U.S. Census 
+Bureau facilitated the final construction 
+of the questionnaire, managed the field
+aspect of the data collection, processed 
+the data, and provided the estimation 
+specifications.  
+
+In addition, a panel of the American 
+Statistical Association met to review 
+and discuss the survey procedures and 
+questionnaire and subsequently issued 
+a report on its recommendations. 
+Assembled by Mark Cohen, Vanderbilt 
+University, the advisory group included 
+the following scholars:  James Lynch, 
+American University Professor of Justice, 
+Law and Society; James Fyfe, Temple 
+University Professor of Criminal Justice; 
+Dennis Kenney, Director of Research at
+the Police Executive Research Forum; 
+Stephen Mastrofski, George Mason 
+University Professor of Administration 
+of Justice; and Joel Garner, Director of 
+the Joint Center for Justice Studies. 
+ 
+At the Bureau of Transportation Statistics, 
+Lee Giesbrecht and David Banks advised BJS 
+analysts in use of the 1995 Nationwide
+Personal Transportation Survey.
+
+The International Association of Chiefs of 
+Police, as well as other law enforcement 
+executives and scholars, provided comments 
+on the survey procedures and questionnaire.
+
+Data presented in this report can be obtained 
+from the National Archive of Criminal Justice 
+Data at the University of Michigan, 
+1-800-999-0960.  Data in the archive can be 
+accessed through the BJS website. 
+
+Electronic versions of this and other reports 
+are available from the BJS Internet site:
+http://www.ojp.usdoj.gov/bjs/
+
+Contents 
+
+Foreword
+Highlights
+Characteristics of drivers 
+stopped by police
+Likelihood of drivers being stopped
+Driver opinion on being stopped
+Reason for traffic stop
+Police searches
+Police use of force
+Appendix
+Methodology
+
+Questionnaire
+
+Foreword
+
+The Violent Crime Control and Law
+Enforcement Act of 1994 mandates
+an annual report on the topic of
+police use of excessive force.  In
+partial response to the mandate,
+the Bureau of Justice Statistics
+initiated the Survey of Police-Public
+Contact in 1999.  
+
+In the national study U.S. residents
+age 16 or older were asked about any 
+face-to-face contacts they may have had 
+with police during 1999. The survey was 
+carried out to document how many residents 
+have such contacts, what the nature of 
+these contacts was, whether police used 
+force at any time during the contact, and 
+(if so) whether the resident considered 
+the force to be "excessive."
+
+Based on interviews with a sample of 
+80,543 persons (representing just over 
+209 million residents nationwide), the 
+survey found that 1 in 5 Americans had a
+face-to-face contact with police in
+1999.  Many of these contacts occurred 
+when people went to police to report a 
+crime, to get help, or to let police know 
+about a problem in their neighborhood.
+
+Among the different reasons why residents 
+had contact with police, the most frequent 
+one was traffic stops. This report examines 
+in some detail the incidence and prevalence 
+of traffic stops and the role of traffic 
+stops in understanding use of force contacts 
+between citizens and law enforcement officers. 
+
+Traffic stops accounted for fully 52% of all 
+police contacts in 1999. An estimated 19.3 
+million residents -- or about 1 in 10 licensed 
+drivers -- were pulled over by police while
+driving a motor vehicle.  Just over half of 
+all traffic stops were for speeding.
+
+Of all the drivers stopped, 54% were ticketed, 
+6.6% were searched, 3% were arrested, seven-
+tenths of 1% (an estimated 139,300 stopped 
+drivers) had some type of force used against
+them by police, and one-half of 1% (an estimated 
+100,000 stopped drivers) had "excessive" force 
+used against them.
+
+In addition to traffic stops, the survey 
+also asked respondents about any police use 
+of force which they experienced in other,
+non-traffic contacts with police. According 
+to the survey, police had used some type of 
+force against an estimated 421,700 persons.  
+The 421,700 consisted of 139,300 against whom 
+the force occurred during a traffic stop 
+(33% of the total), plus 282,400 against whom
+the force occurred during some other type of 
+contact (such as reporting a crime to police, 
+being a witness to or involved in a crime,
+and so forth). 
+
+Police had used "excessive" force against 
+321,000 persons, as estimated from survey 
+results.  The 321,000 consisted of 100,000
+against whom the "excessive" force occurred 
+during a traffic stop (31% of the total), 
+plus 221,000 against whom the force occurred
+during some other type of face-to-face contact.
+
+Lawrence A. Greenfeld
+Acting Director
+Bureau of Justice Statistics
+
+Highlights
+
+General characteristics of
+drivers stopped by police in
+1999
+
+*  The 1999 U.S. population totaled 
+209.4 million persons age 16 or older.  
+An estimated 89% of the population, or 
+186.3 million, were licensed drivers. 
+Also in 1999, 19.3 million drivers age 
+16 or older, or 10.3% of all drivers, 
+were stopped by police.
+
+*  Among drivers age 16-24, blacks 
+(17.1%) did not differ significantly 
+from either whites (20.1%) or Hispanics 
+(15.5%) in the probability of being 
+stopped. White drivers age 16-24 were
+somewhat more likely than their Hispanic 
+counterparts to be pulled over.
+
+*  The average number of stops was greater 
+for young black males (2.7) than young 
+white males (1.7) and marginally greater 
+than for young Hispanic males (1.8).
+
+Drivers' opinions of the
+legitimacy of the stops
+
+*  Both blacks (74.0%) and Hispanics (81.6%) 
+were less likely than whites (86.0%) to feel
+they were stopped by police for a legitimate 
+reason.
+
+*  Of drivers stopped more than once, whites 
+(84.4%) were more likely than both blacks 
+(70.2%) and Hispanics (70%) to feel the stop 
+was legitimate.
+
+*  Among male drivers age 16-24, blacks 
+(75.7%) were not significantly less likely 
+than whites (83.2%) or Hispanics (76.0%) 
+to feel the stops were legitimate.
+
+Reason for traffic stop
+
+*  Few drivers were not informed of the 
+reason for being stopped by police. No 
+significant differences were found between
+white (1.5%), black (2.0%), or Hispanic 
+(1.2%) drivers in the likelihood of being 
+informed by the officer of the reason for 
+the traffic stop.
+
+*  Males stopped for speeding were more 
+likely to be ticketed (70.3%) than females 
+(66.5%).   
+
+*  Drivers age 16-24 who were stopped for 
+speeding were ticketed (73.6%) more often
+than drivers over 24 (66.8%).
+
+*  Among drivers stopped for speeding, 
+blacks (75.7%) and Hispanics (79.4%) were 
+more likely than whites (66.6%) to be 
+ticketed.
+
+Searches conducted by police
+during traffic stops
+
+*  In 1999, 6.6% of traffic stops involved 
+a search of the driver, the vehicle, or 
+both.
+
+*  Police were more likely to conduct a 
+search of the vehicle and/or driver in 
+traffic stops involving black male drivers
+(15.9%) or Hispanic male drivers (14.2%), 
+compared to white male drivers (7.9%).
+
+*  Of the nearly 1.3 million searches of 
+vehicles and/or drivers conducted following
+traffic stops in 1999, 37% were accompanied 
+by an arrest of the driver.  
+
+Police use of force in traffic
+stops and in other situations
+
+*  Approximately 422,000 persons age 16 or 
+older said the police used or threatened 
+to use force against them at least once
+during 1999.  
+
+*  Traffic stops accounted for 139,000 
+police use of force incidents, 33% of the
+422,000 incident total.
+
+*  Of the 139,000 force contacts that occurred 
+during a traffic stop, the majority involved a
+male driver (98.2% of those contacts). Males 
+accounted for 81.4% of the remaining 282,00
+force contacts that occurred at times other 
+than a traffic stop.
+
+*  Persons under 25 were involved in just 
+over half of all force contacts with police 
+in 1999.
+
+*  Most (76.1%) of the 422,000 people involved 
+in a police use of force incident said the 
+force was excessive.
+
+Characteristics of drivers
+stopped by police
+
+The 1999 U.S. population totaled 209.4 million 
+persons age 16 or older. An estimated 89% of 
+the population, or 186.3 million, were licensed 
+drivers.
+
+Also in 1999, 19.3 million drivers age 16 or 
+older were stopped by police.
+
+Driver gender
+
+The 186.3 million licensed drivers were almost 
+evenly split among males (50.4%) and females 
+(49.6%).
+
+By contrast, of the 19.3 million drivers stopped 
+in 1999, 60.8% were male and 39.2% were female.
+
+Driver age
+
+Persons over 24 years of age were the majority 
+of licensed drivers (85.5%), as well as the
+majority involved in a traffic stop
+(73.5%).
+
+Driver race/ethnicity 
+
+Whites were 76.7% of licensed drivers and 77% 
+of drivers stopped by police in 1999. Blacks 
+were 9.8% of licensed drivers, but 11.6% of 
+stopped drivers, while Hispanics accounted for 
+9.9% of licensed drivers and 8.4% of stopped
+drivers. An additional 3.6% of licensed drivers 
+were persons of other races, who were also 3%
+of drivers stopped by police.
+
+Driver gender, age, and
+race/ethnicity
+
+Young white males (those age 16-24) were 5.2% 
+of licensed drivers and 12.3% of the 19.3
+million drivers pulled over by police. Young 
+black males accounted for 0.8% of licensed
+drivers and 1.6% of traffic stops, while young 
+Hispanic males were 1.1% of licensed drivers
+and 2% of stopped drivers. Young males of 
+other races formed 0.4% of persons with a
+license and 0.6% of drivers involved in a 
+traffic stop.
+
+Likelihood of drivers being
+stopped
+
+Nationwide, 19.3 million drivers -- 10.3% of 
+the 186.3 million licensed drivers -- were 
+pulled over by police at least one time in 
+1999 while driving a motor vehicle. Of the 
+19.3 million drivers stopped by police in
+1999, approximately 4 million were pulled 
+over 2 or more times. These 4 million drivers
+made up 2.1% of the total number of licensed 
+drivers in the United States.
+
+Driver gender
+
+Males (12.5%) were more likely than females 
+(8.2%) to be stopped at least once, and males 
+(2.9%) were also more likely than females 
+(1.4%) to be stopped more than once.
+
+Driver age
+
+Compared to drivers over age 24 (8.9%), those 
+16 to 24 (18.9%) had a greater overall like-
+lihood of being pulled over by police and a 
+greater likelihood of being stopped more than 
+once (6% of drivers age 16-24 versus 1.5% of 
+those over 24).
+
+Driver race/ethnicity
+
+Black drivers were somewhat more likely than 
+white drivers to be stopped at least once (12.3%
+of blacks versus 10.4% of whites).  Blacks were
+significantly more likely than both Hispanics 
+(8.8%) and drivers of other races (8.7%) to
+be stopped at least once.  There was also some 
+indication that black drivers (3.0%) were more
+likely than both white drivers (2.1%) and Hispanic 
+drivers (2%) to be stopped more than
+once.
+
+------------------------------------
+Racial differences in traffic stops 
+may not signal racial profiling 
+
+To form evidence of racial profiling, 
+the survey would have to show (all 
+other things being equal) -- 
+
+Blacks and/or Hispanics were no more 
+likely than whites to violate traffic 
+laws, and Police pulled over blacks 
+and/or Hispanics at a higher rate than
+whites.
+
+Because the survey has information only 
+on how often persons of difference races 
+are stopped, not on how often they actually 
+break traffic laws, analysis of data from 
+the 1999 Police-Public Contact Survey
+cannot determine whether or to what extent 
+racial profiling exists
+------------------------------------------
+
+Driver gender, age, and
+race/ethnicity
+
+Among persons age 16-24 -- 
+
+*  blacks (17.1%) did not differ significantly 
+from either whites (20.1%) or Hispanics (15.5%) 
+in the probability of being stopped
+
+*  whites (20.1%) were somewhat more likely than
+Hispanics (15.5%) to be pulled over
+
+*  no significant differences by race were found 
+in the probability of being stopped more than 
+once.
+
+Among persons over age 24 --
+
+*  blacks (11.2%) were significantly more likely 
+than whites (8.9%) to be pulled over and somewhat 
+more likely than Hispanics (7.8%)
+
+*  blacks (2.2%) were significantly more likely 
+than Hispanics (1.3%) and somewhat more likely 
+than whites (1.5%) to be stopped more than once 
+by police.     
+
+Among male drivers over age 24 --
+
+*  blacks (13.8%) were more likely than 
+whites (10.7%) and Hispanics (10%) to be 
+stopped by police in 1999 
+
+*  blacks (3.2%) were more likely than whites 
+(2%) and somewhat more likely than Hispanic 
+(1.8%) to be stopped more than one time.
+
+Among female drivers over age 24--
+
+*  whites (7.1%) and blacks (8.7%) were more 
+likely than Hispanics (5.4%) to be pulled
+over at least once 
+
+*  blacks (8.7%) were more likely to be stopped 
+than whites (7.1%)
+
+*  the likelihood of being stopped more than 
+once during 1999 did not differ significantly 
+between the races.
+
+Average number of traffic
+stops
+
+Police stopped an estimated 19.3 million 
+drivers at least once in 1999, and some of the 
+19.3 million were stopped more than once. The 
+19.3 million drivers experienced altogether 27
+million traffic stops during the year. On 
+average, 1.4 traffic stops per stopped driver
+occurred in 1999.
+
+The average number of stops was --
+
+*  greater for males (1.5) than females
+
+*  greater for 16-24 year-olds (1.7)
+
+*  greater for young black males (2.7) than 
+young  white males (1.7)
+
+*  marginally greater for young black males 
+(2.7) than young Hispanic males (1.8.).
+
+Driver opinion on being
+stopped
+
+An estimated 84% of drivers stopped by police, 
+or 16.2 million drivers, felt they were pulled 
+over for a legitimate reason.  While the 
+majority of drivers felt the police were
+justified in stopping them, opinion was not 
+uniform across different segments of the
+population.
+
+Driver gender  
+
+Males (82.3%) were less likely than females 
+(87.3%) to feel the stop was for a legitimate 
+reason.
+
+Males who were stopped once (83.7%) were more 
+likely to feel the stop was legitimate than
+males stopped more than one time during 1999 
+(78.2%).
+
+Driver opinion on being stopped did not differ 
+significantly for females stopped once (87.2%)
+and females stopped more than once (87.7%).
+
+Driver age
+
+The percentage of drivers who felt they were 
+stopped for a legitimate reason did not differ
+significantly between those 16-to-24 years of 
+age (83.5%) and those over 24 (84.6%).
+
+Drivers under age 25 and stopped multiple times 
+(78.2%) were less likely than drivers over
+24 (83.5%) to feel the stop was legitimate.
+
+Among persons age 16-24 --
+
+*  drivers stopped once (86.2%) were more 
+likely to feel the stop was legitimate than 
+those stopped more than one time (78.2%).
+
+Among persons over age 24 -- 
+
+*  the opinion of drivers stopped once 
+(84.8%) did not differ significantly from 
+those stopped two or more times (83.5%).
+
+Driver race/ethnicity
+
+Both blacks (74.0%) and Hispanics (81.6%) were 
+less likely than whites (86%) to feel they were 
+stopped by police for a legitimate reason. Drivers 
+of other races (84.6%) were not less likely than 
+whites to feel the stop was legitimate.
+
+There was no significant difference in driver 
+opinion between blacks stopped once (75.1%) and 
+blacks stopped more than once (70.2%).  
+
+Of drivers stopped one time --
+
+*  blacks (75.1%) were less likely than whites 
+(86.5%), Hispanics (84.9%) and drivers of other 
+races (85%) to report feeling that the stop was
+legitimate.
+
+Of drivers stopped more than once --
+
+*  whites (84.4%) were more likely than both 
+blacks (70.2%) and Hispanics (70%) to feel the
+stop was legitimate
+
+*  drivers of other races (84.4%) were somewhat 
+more likely to report that the stop was 
+legitimate than black (70.2%) drivers.
+
+Driver gender, age, and
+race/ethnicity
+
+Among male drivers age 16-24 --
+
+*  blacks (75.7%) were not significantly less 
+likely than whites (83.2%) or Hispanics (76.0%) 
+to feel the stop was legitimate 
+
+*  a marginally greater percentage of whites 
+(83.2%) felt the stop was legitimate than
+Hispanics (76%)
+
+*  Hispanics stopped more than one time (62.7%) 
+were somewhat less likely to feel the stop was 
+legitimate than whites (78.7%).
+
+Among male drivers over age 24 --
+
+*  the opinions of blacks (73.1%) did not differ 
+significantly from Hispanics (79.4%)
+
+*  whites (84.3%) were significantly more likely 
+to feel the stop was legitimate than blacks 
+(73.1%)
+
+*  whites (84.3%) had a somewhat better opinion 
+of the traffic stop than Hispanics (79.4%)
+
+*  black (68%) and Hispanic (65.3%) drivers 
+stopped two or more times were less likely to
+feel the stop was legitimate than white 
+drivers (83.5%) stopped two or more times. 
+
+Reason for traffic stop
+
+Drivers not informed of reason 
+for traffic stop
+
+A relatively small percentage of stopped 
+drivers (1.6%) said that police did not give 
+them a reason for pulling them over. 
+
+Driver gender
+
+The percentage of males and females (1.6% each) 
+who were not given a reason for the traffic
+stop did not differ.
+
+Driver age
+
+A slightly larger percentage of drivers age 25 
+or older (1.7%) were not informed of the reason
+for the stop than drivers under 25 (1.2%).
+
+Driver race/ethnicity
+
+No significant differences were found between 
+white (1.5%), black (2.0%) or Hispanic (1.2%)
+drivers in the likelihood of being informed of 
+the reason for the traffic stop.
+
+-----------------------------------------
+Driver opinion and reason 
+for traffic stop  
+
+In the 1999 survey, stopped drivers 
+were asked whether, in their opinion, 
+they had been stopped for a legitimate 
+reason. Survey results indicate that
+driver opinion on the legitimacy
+of the traffic stop often depended 
+on the reason the police gave for 
+stopping the vehicle.    
+
+Drivers stopped for speeding
+(51.2% of all stopped drivers)
+and drivers pulled over for a
+record/roadside check (11.5% of
+stopped drivers) were more likely 
+to say they felt the traffic
+stop was legitimate (89.7% and
+89.1%, respectively) than drivers 
+stopped for other reasons.  
+
+Drivers stopped for a vehicle
+defect (11.4% of traffic stops)
+were less likely to feel the stop
+was legitimate (84.4%) than those 
+stopped for speeding or a record/
+roadside check.
+
+Persons pulled over for some other 
+traffic offense (seat belt violation, 
+illegal turn, running a red light, 
+etc.) constituted 22.7% of drivers 
+stopped.  These drivers were less 
+likely (73.1%) than those stopped for
+speeding, a record/roadside check, or 
+a vehicle defect to hold the opinion 
+that the stop was legitimate.
+
+Relatively few drivers (3.2%) reported 
+"Other" as the reason for the stop, 
+which includes those who stated that 
+police were providing a service, police
+were investigating a crime, they were 
+being harassed by police, and other 
+miscellaneous reasons.  A smaller 
+percentage of drivers in this category
+(57.5%) felt the traffic stop was
+legitimate.
+
+                                     Drivers who felt
+                                     traffic stop was
+Reason police gave for               legitimate
+traffic stop                Percent
+ 
+Total                       100.0%         84.3%
+ 
+Speeding                     51.2%         89.7%
+Roadside/record check        11.5          89.1
+Vehicle defect               11.4          84.4
+Other traffic offense        22.7          73.1
+Other                         3.2          57.5
+-----------------------------------------------
+
+Speeding
+
+The majority of drivers (51.2%) reported 
+speeding as the reason they were stopped by 
+police in 1999.  These 9.9 million drivers 
+constitute 5.3% of the 186.3 million licensed 
+drivers in the United States.  
+
+Of the 9.9 million drivers stopped for 
+speeding --
+
+*  males constituted 58.6% of stopped speeders, 
+and females were 41.4%
+
+*  drivers age 16-24 were 27.9% of stopped 
+speeders, and those over age 24, the remaining
+72.1% 
+  
+*  white drivers accounted for 80.5% of persons 
+stopped for speeding; blacks, 9.8%; and Hispanics, 
+6.9%. (These findings are not shown in a table.)
+
+Driver gender  
+
+Of the Nation's 93.8 million male drivers, 6.2% 
+were stopped for speeding.  That percentage is
+greater than the 4.4% of the Nation's 92.2 
+million female drivers. 
+
+Female drivers pulled over by police were more 
+likely to report that speeding was the reason
+for the traffic stop than stopped male drivers.  
+Of the 7.5 million female drivers stopped by
+police, more than half (54.1%) said speeding was 
+the reason. This percentage is greater than the 
+figure for the 11.7 million male drivers stopped 
+by police (49.4% or 5.8 million).
+
+Driver age  
+
+Of the 27.1 million licensed drivers between ages 
+16 and 24, 10.2% were stopped for speeding.  
+That percentage is greater than the 4.5% of 
+the 159.3 million licensed drivers age 25 or 
+older.
+
+Younger drivers were more likely to report 
+being stopped for speeding than drivers over 
+24. Of the 27.1 million drivers under 25, 5.1 
+million were pulled over by police in 1999. 
+Of the 5.1 million stopped drivers, 53.9%
+(2.8 million) said speeding was the reason. 
+This percentage is greater than the comparable
+figure for stopped drivers over age 24 (50.3% 
+of the 14.2 million stopped drivers, or 7.1
+million).
+
+Driver race/ethnicity
+
+Of the 18.3 million licensed drivers who are 
+Hispanic, 3.7% were stopped for speeding. 
+That percentage is less than the 5.6% of the 
+142.8 million licensed white drivers and the
+5.3% of the 18.1 million licensed black drivers 
+in the United States.
+
+Of the 14.8 million white drivers stopped by 
+police, 53.7% gave "speeding" as the reason. 
+That percentage is greater than the 43.4% of 
+the 2.2 million black drivers stopped, and 
+marginally greater than the 42.1% of the
+1.6 million Hispanic drivers stopped.
+
+Driver gender, age, and
+race/ethnicity
+
+Among drivers age 16-24 --
+
+*  Of the 9.8 million younger white male 
+drivers, 12.6% were stopped for speeding.  
+That percentage does differ significantly 
+from the 9.8% of the 9.3 million younger 
+white female drivers stopped for speeding.
+
+*  White female drivers stopped by police 
+(62.5%) were more likely to report being 
+stopped for speeding than stopped white
+male drivers (51.7%)
+
+*  White male drivers (12.6%) had a greater 
+likelihood of being stopped for speeding than
+Hispanic male drivers (7.9%). This difference 
+also exists for white female drivers (9.8%)
+compared to Hispanic female drivers (5.3%)
+
+*  White male (51.7%) and white female 
+(62.5%) drivers stopped by police were more 
+likely than their respective Hispanic male
+(40.3%) and Hispanic female (48.1%) 
+counterparts to report speeding as the reason 
+for being stopped.
+
+Drivers                   Percent of --
+age 16-24
+stopped for         All drivers   All licensed
+speeding            stopped        drivers
+ 
+Males
+ White               51.7%           12.6%
+ Black               50.6            10.1
+ Hispanic            40.3             7.9
+Females
+ White               62.5%            9.8%
+ Black               64.7             9.4
+ Hispanic            48.1             5.3
+
+Drivers stopped for speeding
+who were ticketed
+
+Overall, 54.2% of stopped drivers were issued 
+a ticket. Among drivers stopped for speeding, 
+the percentage ticketed was greater: 68.7%. 
+This percentage does not necessarily indicate 
+that speeders who were ticketed were actually 
+ticketed for speeding.  The 1999 Police-Public 
+Contact Survey did not ask respondents who
+were ticketed to identify the specific reason 
+for receiving the ticket.
+
+A driver could have been stopped for speeding, 
+yet was ticketed for a different reason, such 
+as a broken headlight or failure to wear a seat 
+belt. The analysis can only determine the reason 
+a ticketed driver was pulled over, not the 
+reason the police had for issuing the ticket.
+
+Driver gender   
+
+Males (70.3%) stopped for speeding were more 
+likely to be ticketed than females (66.5%). 
+
+Driver age   
+
+Drivers age 16-24 (73.6%) who were stopped for 
+speeding were ticketed more often than drivers
+over 24 (66.8%).
+
+Driver race/ethnicity   
+
+Black (75.7%) and Hispanic (79.4%) drivers 
+stopped for speeding were more likely than
+white (66.6%) speeders to be ticketed.
+
+Put another way: Blacks were 9.8% of drivers 
+stopped for speeding but 10.8% of ticketed
+speeders. Hispanics were 6.9% of those pulled 
+over for speeding but 7.9% of ticketed
+speeders.  Whites were 80.5% of drivers stopped 
+for speeding and 78.0% of ticketed speeders. 
+(These findings are not shown in a table.)
+
+------------------------------------------
+Issuing tickets to young male 
+and young female drivers
+
+Overall, male drivers stopped for speeding 
+were more likely to receive a traffic ticket 
+from police than female speeders. However, 
+among drivers age 16 to 24 stopped for 
+speeding, males were not more likely than
+females to be ticketed.
+
+Among drivers age 16-24 --
+
+*  White male speeders (71.2%) were not more 
+likely than white female speeders (72.5%) to 
+be ticketed
+
+*  Black male speeders (81.5%) were not more 
+likely than black female speeders (79.9%) to 
+be issued a ticket.
+
+*  Hispanic male drivers (92.4%) stopped for 
+speeding were more likely to be ticketed than
+Hispanic female speeders (69.1%).
+
+Drivers age
+16-24 stopped      Percent who
+for speeding       were ticketed
+ 
+Males
+ White                 71.2%
+ Black                 81.5
+ Hispanic              92.4
+ 
+Females
+ White                 72.5%
+ Black                 79.9
+ Hispanic              69.1
+------------------------------------------
+
+During a traffic stop, the police sometimes 
+conduct a search of the vehicle, the driver, 
+or both the vehicle and the driver. In 1999, 
+6.6% of traffic stops involved a search of 
+the driver, the vehicle, or both. Of the
+nearly 1.3 million drivers searched, 35% 
+experienced a search of the vehicle only, 
+20% experienced a search of the driver only, 
+and the remaining 45% experienced a search of
+both the vehicle and the driver.
+
+Searching the driver, vehicle,
+or both
+
+Driver gender
+
+Stopped male drivers (9.4%) were more likely to 
+undergo a vehicle and/or personal search than 
+stopped females (2.3%).
+
+Driver age
+
+Drivers age 16-24 (10.8%) stopped by police were 
+more likely to have their vehicle and/or person 
+searched than stopped drivers over age 24 (5.1%).
+
+Driver race/ethnicity
+
+Stopped black (11%) and stopped Hispanic (11.3%)
+drivers were more likely to undergo one or both 
+forms of search than stopped white (5.4%) drivers 
+or drivers of other races (6.5%).
+
+Driver gender, age, and
+race/ethnicity
+
+Police were more likely to conduct a search of 
+the vehicle and/or driver in traffic stops
+involving male drivers who were black (15.9%) 
+or of Hispanic origin (14.2%), compared to white 
+male drivers (7.9%). (Not shown in a table.)
+
+Among male drivers age 16-24--
+
+*  the percentage of stopped blacks (17.2%) who 
+had their vehicle and/or person searched did not 
+differ significantly from either whites (13.7%) 
+or Hispanics (19.7%)
+
+*  Hispanic drivers (19.7%) stopped by police 
+were somewhat more likely to undergo one or both 
+forms of search than whites (13.7%).
+
+Among male drivers over age 24 --
+
+*  both stopped blacks (15.5%) and stopped 
+Hispanics (11.1%) were more likely to be 
+searched than stopped whites (5.8%)
+
+*  black and Hispanic drivers were 5.3% and 
+3.7%, respectively, of all drivers stopped by 
+police and accounted for 12.5% and 6.1%,
+respectively, of drivers who had their vehicle 
+and/or person searched
+
+                      Percent of--
+Drivers        All drivers       All driver
+over age       stopped by        or vehicle
+24             police in 1999    searches
+Males
+  White            34.0%           29.9%
+  Black             5.3            12.5
+  Hispanic          3.7             6.1
+ 
+*  white drivers were 34% of stopped drivers 
+and 29.9% of those searched.
+
+Searching the driver
+
+Driver gender
+
+Males (6.4%) were more likely than females 
+(1.2%) to be physically searched during a
+traffic stop.
+
+Police searches
+
+Driver age
+
+Drivers age 25 or older stopped by police 
+(3.3%) were less likely to experience a 
+personal search than stopped drivers under 
+25 years old (7.2%).
+
+Driver race/ethnicity
+
+Stopped whites (3.5%) were less likely to 
+be personally searched than either blacks
+(8%) or Hispanics (7%).
+
+Driver gender, age, and
+race/ethnicity
+
+Stopped white male drivers were less likely 
+than their black and Hispanic counterparts to 
+be physically searched during a traffic stop.
+
+Among male drivers age 16-24--
+
+*  Stopped Hispanics (15.5%) were significantly 
+more likely to experience a physical search by
+police than whites (8.8%)
+
+*  Stopped blacks (12.8%) did not differ 
+significantly from whites (8.8%) or Hispanics
+(15.5%) in the likelihood of experiencing a 
+personal search
+
+*  Stopped Hispanics were 2% of stopped motorists 
+but 7.3% of those who experienced personal 
+searches.
+
+                        Percent of--
+                 All drivers      All
+Drivers          stopped by       driver
+age 16- 24       police in 1999   searches
+ 
+Males
+  White              12.3%          25.0%
+  Black               1.6            4.7
+  Hispanic            2.0            7.3
+
+Among male drivers over age 24--
+
+*  black drivers (11.4%) were more likely to be 
+personally searched during a traffic stop than 
+either white (4.0%) or Hispanic (5.8%) motorists
+
+*  blacks in this age category were 5.3% of all 
+traffic stops and experienced 13.9% of all
+physical searches; whites were 34% of stopped 
+drivers and 31.8% of those searched.
+
+                    Percent of--
+                All drivers      All
+Drivers         stopped by       driver
+over age 24     police in 1999   searches
+Males
+  White             34.0%         31.8%
+  Black              5.3          13.9
+  Hispanic           3.7           4.9
+
+Searching the vehicle
+
+Driver gender
+
+Stopped females (1.9%) were less likely to 
+have their vehicle searched than males (7.5%).
+
+Driver age
+
+Stopped drivers between the ages of 16 and 24 
+(8.9%) were more likely to experience a
+vehicle search than drivers over the age 
+of 24 (4%).
+
+Driver race/ethnicity
+
+Stopped blacks (8.5%) and Hispanics (9.7%) 
+were more likely to have their vehicle 
+searched than stopped whites (4.3%). Hispanics 
+were also more likely than drivers of other 
+races (5.4%) to experience a vehicle search.
+
+Driver gender, age, and
+race/ethnicity
+
+Stopped Hispanic drivers between ages 16 and 
+24 (14.5%) were more likely than young white 
+drivers (8%) and somewhat more likely than
+young black drivers (8.8%) to experience a 
+vehicle search.
+
+Among stopped male drivers 
+age 16-24--
+
+*  Hispanics (18.1%) were more likely to have 
+their vehicle searched than whites (11.5%)
+
+* no significant differences in the prevalence 
+of vehicle searches were found between white
+(11.5%) and black (11.8%), nor between Hispanic 
+(18.1%) and black (11.8%) drivers.
+
+Both black (8.4%) and Hispanic (7%) drivers 
+over age 24 were more likely than white (3.1%) 
+drivers over 24 to have their vehicle searched.
+
+Among stopped male drivers 
+over age 24 --
+
+*  white drivers (4.4%) had their vehicles 
+searched less frequently than both black
+(12.4%) and Hispanic (8.8%) motorists
+
+*  black and Hispanic drivers were 5.3% and 
+3.7%, respectively, of drivers pulled over by 
+police, and accounted for 12.5% and 6.0% of 
+vehicle searches.
+
+                     Percent of--
+               All drivers       All
+Drivers        stopped by        vehicle
+over age 24    police in 1999    searches
+Males              34.0%          28.1%
+  White             5.3           12.5
+  Black             3.7            6.0
+  Hispanic
+
+Searches in connection 
+with an arrest
+
+Of the nearly 1.3 million searches conducted in 
+1999, 37% were done in connection with an arrest.  
+Whether the search preceded the arrest or
+followed it cannot be determined from the survey.
+
+Driver gender
+
+Stopped males who were searched (37.5%) were not
+more likely than stopped females (32.6%) to be 
+arrested.
+
+Driver age
+
+Stopped drivers age 25 or older (42.5%) who were 
+searched were significantly more likely to be 
+arrested than their younger counterparts (29.4%).
+
+Driver race/ethnicity
+
+Of all drivers searched during a traffic stop, 
+the chance of arrest did not differ significantly
+between white (37.3%), black (41.5%) and Hispanic 
+(30.8%) drivers.
+
+Among searched male drivers --
+
+*  blacks (42.7%) were somewhat more likely 
+than Hispanics (28.8%) to be searched and 
+arrested
+
+*  whites (38.0%) who were stopped and searched 
+were not significantly less likely to be 
+arrested than blacks (42.7%) or Hispanics (28.8%).
+
+Searches of arrested and
+nonarrested drivers
+
+In many jurisdictions, police officers are 
+required to search the vehicle, the driver, or 
+both when making an arrest during a traffic 
+stop.  Consequently, drivers who were arrested 
+may have experienced a vehicle and/or personal 
+search as a procedural step during the arrest
+process.
+
+Of all drivers arrested during a traffic stop, 
+82.7% experienced a vehicle and/or a personal
+search.  By contrast, 4.3% of nonarrested 
+drivers were searched by police.
+
+Driver gender
+
+Stopped male drivers, both arrested and 
+nonarrested (88.0% and 6.1%), were more
+likely to be searched than stopped females 
+(56.6% and 1.5%).
+
+Driver age
+
+Arrested and nonarrested drivers age 25 or 
+older (78.8% and 3.0%) were less likely to 
+be searched than stopped drivers under 25 
+(91.3% and 7.8%). 
+
+Driver race/ethnicity
+
+Among arrested motorists --
+
+*  whites (80.1%), blacks (87.6%) and Hispanics 
+(85.6%) did not differ significantly in their
+likelihood of being searched.
+
+Among nonarrested motorists --
+
+*  whites (3.5%) were less likely to undergo a 
+search than blacks (6.8%) and Hispanics (8.2%)
+
+*  black males (9.9%) and Hispanic males (10.6%) 
+were more likely to be searched than white males 
+(5.1%)
+
+*  the likelihood of a black female being searched 
+(2.5%) did not differ significantly from the 
+likelihoods for both white and Hispanic females 
+(1.1% and 3.2%, respectively).  
+     
+------------------------------------------
+Likelihood of finding criminal evidence  
+in a traffic stop search
+
+During a traffic stop, it is common 
+practice for police to search the driver, 
+vehicle or both when making an arrest. 
+However, few searches uncover criminal 
+evidence, such as illegal weapons or 
+drugs.
+
+Of the nearly 1.3 million drivers
+searched during a traffic stop,
+37% (470,000) were also arrested.
+
+Of the 470,000 drivers who were
+searched and arrested, criminal
+evidence was found in 21.5% of
+the searches conducted. 
+
+A significantly smaller percentage 
+(8.6%) of the remaining 800,000 
+searched drivers who were not 
+arrested said that criminal evidence 
+was found during a vehicle and/or
+personal search.
+
+                          Drivers who were searched
+Criminal            Arrested drivers       Nonarrested drivers
+evidence             Number    Percent      Number    Percent
+ 
+Total                469,472    100.0%      802,810    100.0%
+ 
+Evidence found       100,936     21.5%       69,042      8.6 %
+No evidence found    368,536     78.5       733,768     91.4
+------------------------------------------
+
+Police use of force
+
+In addition to gathering information on 
+contacts between the police and the public 
+during motor vehicle stops, the 1999
+Police-Public Contact Survey also gathered 
+data regarding other face-to-face contacts 
+with police.  Other face-to-face contacts 
+include situations in which both the respondent
+contacted the police and the police contacted 
+the respondent. A respondent may have contacted 
+the police to report a crime or to ask for 
+assistance, among other reasons. The police 
+may have initiated contact with a respondent 
+to investigate a crime, serve a warrant, or
+disseminate crime prevention information, 
+among other reasons.
+
+Based on survey findings, nearly 44 million 
+people had some type of face-to-face contact 
+with police during 1999.  Of that 44 million, 
+19.3 million were drivers in a traffic stop, 
+and 24.5 million were involved in other forms 
+of contact with police. (Those who had both 
+types of contact were counted as stopped 
+drivers in this report.) 
+
+One purpose of the survey was to gather 
+information about police use of force during 
+both traffic stops and other face-to-face 
+contacts between the police and the public. 
+Specifically, respondents were asked whether 
+the police officer(s) used or threatened to
+use force against them. Of the nearly 44 
+million people who had a face-to-face 
+contact with police, approximately 1% said
+that police used force during the encounter 
+(hereafter, "use of force" includes force 
+and threat of force).**Note: 1 in 5 force
+encounters involved a threat only.**
+
+A smaller percentage of persons who were 
+drivers involved in a traffic stop reported 
+that police used force against them than
+persons involved in other face-to-face 
+contacts with police.  Of the 19.3 million
+drivers involved in a traffic stop, 0.7% 
+said police used force against them, compared 
+to a larger percentage (1.2%) of the 24.5 
+million persons who had other face-to-face 
+contacts with police.
+
+Approximately 422,000 persons age 16 or 
+older said the police used or threatened to 
+use force against them at least once during 
+1999. Force involving a driver during a 
+traffic stop accounted for 33% of all police
+use of force incidents; force occurring 
+during other (nondriver) face-to-face encoun-
+ters accounted for the rest (67%).  
+
+Use of force during traffic stops
+
+Driver gender
+
+Of the 422,000 force contacts, 367,000 
+involved males.  Of the total number of 
+males who said that force was used against
+them, more than a third (37.3%) said the 
+incident occurred during a traffic stop.  
+Traffic stops accounted for a much smaller
+percentage (4.6%) of the 55,000 force 
+contacts involving females.
+
+Driver age
+
+Of the estimated 189,000 persons age 25 or 
+older who said force was used against them 
+in 1999 during a contact with police, 38% 
+said the incident occurred during a traffic
+stop. Traffic stops accounted for 29% of the 
+233,000 force contacts involving younger
+drivers (ages 16 to 24). The difference 
+between the two age categories is not 
+significant. 
+
+Driver race/ethnicity
+
+Approximately a third (34.3%) of the 249,000 
+force contacts involving whites took place
+during a traffic stop, based on when 
+respondents were drivers. This does not 
+differ significantly from the percentage for 
+blacks (33.7% of the 95,000 force contacts 
+involving blacks occurred during a traffic 
+stop) or for Hispanics (33.5% of the 66,000 
+force contacts involving Hispanics occurred 
+during a traffic stop).
+
+Use of force during traffic stops 
+and other face-to-face contacts
+
+Based on respondent reports, police used or 
+threatened force against approximately 
+139,000 drivers during a traffic stop in
+1999.  An additional 282,000 persons are 
+estimated to have experienced force during 
+other types of face-to-face contacts with 
+police.
+
+Driver gender
+
+Males made up 53% of all those with at 
+least one face-to-face contact with police 
+in 1999. That same year 87% of all police 
+use-of-force incidents also involved a male.   
+Of the 139,000 force contacts against a
+driver estimated to have occurred during a 
+traffic stop, the majority involved a male
+driver (98.2%).  Males accounted for 81.4% 
+of the 282,000 cases of force occurring 
+outside of traffic stops. 
+
+Driver age
+
+Of the 139,000 drivers estimated to have 
+had force used against them during a
+traffic stop, 48.6% involved persons under 
+age 25. Similarly, the same age group
+accounted for 58.6% of the 282,000 force 
+contacts which occurred during other face-
+to-face contacts with police.  
+
+Overall, younger persons age 16-24 were 
+approximately a quarter of all persons 
+estimated to have face-to-face contact 
+with police in 1999.  However, younger 
+persons were about half of all contacts 
+with police involving force.
+
+Persons age 25 or older were neither more 
+nor less likely to be involved in force 
+incident when stopped by police than during 
+a nontraffic contact.  This age group 
+accounted for 51.4% of the force contacts 
+involving drivers during a traffic stop and
+41.4% of persons in incidents of force 
+occurring during other contacts with police 
+in 1999. 
+
+Driver race/ethnicity
+
+White drivers were involved in 61.1% of the 
+139,000 force contacts which occurred during
+a traffic stop.  Whites also accounted for 
+57.8% of the 282,000 force contacts which
+occurred during other contacts with police.  
+In total, whites were 78.2% of persons who 
+had a face-to-face contact with police in 
+1999 and were 58.9% of those persons who 
+experienced force.
+ 
+Black persons were 10.6% of all contacts 
+with police in 1999 and accounted for 22.4% 
+of all persons who indicated that police 
+used force against them. Just over 8% of 
+police-public contacts involved a person of
+Hispanic origin, and these same persons were 
+involved in 15.5% of all force contacts with 
+police in 1999. Of both blacks and Hispanics 
+who experienced force, the force was not 
+more likely to occur during a traffic stop 
+than during other types of contact with 
+police.        
+
+Use of excessive force
+
+In the 1999 survey, persons who said they 
+had a contact with police in which force 
+was used were asked whether, in their
+opinion, the force used was "excessive."  
+Of the estimated 43.8 million persons who 
+had a face-to-face contact with police,
+0.7% said that police had used what they 
+felt was excessive force. About half of 1% 
+of the 19.3 million drivers involved in a
+traffic stop in 1999 felt they had
+excessive force used against them. The 
+likelihood of experiencing a force contact
+which was considered "excessive" was higher 
+for persons involved in other types of 
+face-to-face contact with police (0.9%). 
+
+Of the estimated 422,000 persons involved 
+in a force contact, most (76.1%) said the
+force was excessive.  Of the estimated 
+139,000 drivers who had force used against 
+them during a traffic stop, 71.7% said the 
+force was excessive.  Of the remaining 
+282,000 force contacts that occurred during
+other contacts with police, 78.3% reported 
+that the force used was excessive.    
+
+Methodology
+
+Sampling
+
+In 1999 the PPCS respondents included all 
+NCVS respondents age 16 or older, with the
+questionnaire administered following the 
+NCVS screener and incident forms.  
+
+During the last 6 months of 1999 in which 
+interviews were conducted, the NCVS sample
+consisted of 94,717 individuals age 16 or 
+older. Of these, 10,424, or 11%, were NCVS
+non-interviews, though someone else in the 
+household was interviewed.  In addition to 
+those not interviewed for the NCVS, 986 
+persons either refused to participate in 
+the PPCS or said they were not available 
+for the interview or the interviewer
+failed to indicate the specific reason 
+for non-interview.  
+
+By far the largest reason for not 
+completing the PPCS in 1999, accounting 
+for 2,764 respondents, was the exclusion
+of the proxy interviews conducted for 
+the NCVS when a person was unable, for 
+physical, mental, or other reasons, to
+participate.  BJS staff determined that 
+caregivers and other proxy interviewees 
+would have difficulty describing the
+details of any contacts between police 
+and the sampled respondent.
+
+The PPCS failed to interview 14,174 persons 
+and interviewed 80,543; this translates into 
+an 85% response rate for the PPCS, compared 
+to an overall response rate of 89% for the
+NCVS.  Among the PPCS interviews 
+conducted, 24,829 (31%) were in person 
+and 55,672 (69%) were by telephone.  
+
+The PPCS national sample, after adjustment 
+for non-response, weights to a national 
+estimate of 209,350,600 persons age 16 or 
+older.  Distributions by gender, race,
+ethnicity, and age parallel the resident 
+population projections (middle-series)
+published by the Census Bureau
+(http://www.census.gov /population/
+projections/nation/de tail /d1999_00.pdf) 
+reflecting the accuracy of the case-level
+adjustments to the weights:
+
+                         Resident population                     
+Charac-                  Census Bureau PPCS
+teristic                 projection  sample
+Gender
+Male                        48.2%     48.2%
+Female                      51.8      51.8
+ 
+Race/ethnicity
+White                       74.1%     74.1%
+Black                       11.4      11.7
+Hispanic                    10.2      10.2
+White                        9.3       9.8
+Black                        0.6       0.2
+Other*                       0.3       0.1
+Other                        4.3       4.0
+ 
+Age
+16-17                        3.8%      3.9%
+18-19                        3.8       3.8
+20-24                        8.6       8.7
+25-29                        8.7       8.8
+30-34                        9.4       9.5
+35-39                       10.7      10.8
+40-49                       19.8      20.0
+50 or older                 35.3      34.5
+ 
+Total                  210,604,000   209,350,600
+    
+*Other includes Asians, Pacific Islanders, 
+Native Hawaiians, American Indians, and 
+Alaska Natives.
+
+Other information on survey 
+methodology
+
+Unless indicated otherwise, differences 
+documented in this report were significant at 
+the .05-level.  Certain differences were not 
+significant at the .05-level but were significant 
+at the .10- level. The terms "somewhat" and 
+"marginally" refer to differences significant 
+at the .10-level.
+
+Regarding racial designations given in the 
+report, "white" refers to non- Hispanic whites, 
+"black" refers to non- Hispanic blacks, and 
+"other races" refers to non-Hispanics in the 
+"other races" category.  White Hispanics, black 
+Hispanics, and Hispanics of "other races" are
+categorized in the report under the heading 
+"Hispanic." Due to small samples and concerns 
+about confidentiality, the report does not 
+provide separate statistics on each of the 
+racial categories that make up "other races" 
+(Asians, Pacific Islanders, American Indians,
+Native Hawaiians, and Alaska Natives).
+
+Related reading
+
+Data used in this report were previously used 
+in the BJS report (Contacts between Police
+and the Public: Findings from the 1999 National 
+Survey, NCJ 184957, February 2001).
+
+End of file
+03/06/02 ih

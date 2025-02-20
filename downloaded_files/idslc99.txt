@@ -1,0 +1,760 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Bulletin
+
+Indigent Defense Services
+in Large Counties, 1999
+
+
+November 2000, NCJ 184932
+
+Revised 12/6/00
+
+------------------------------------------------------------------
+This file is text only without graphic and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/idslc99.htm
+-------------------------------------------------------------------
+
+By Carol J. DeFrances, Ph.D.
+Marika F. X. Litras, Ph.D.
+BJS Statisticians
+
+
+--------------------------------------------------------------------
+
+Highlights
+
+Operating expenditures and cases handled by indigent criminal 
+defense programs in the Nation's 100 most populous counties, 
+1999
+
+                                Type of indigent defense service
+Expenditures and                    Public        Assigned
+cases (in thousands)     Total      defender/a    counsel/b   Contract
+ 
+Number of counties            100          90           89         42
+ 
+Total expenditures     $1,205,136    $880,920     $247,204    $70,012
+Median per county           6,941       5,689        2,450        517
+ 
+Total cases                 4,174       3,413          618        143
+Median per county              24          20            4          2
+ 
+Number of programs            314         123          126         65
+ 
+a/Expenditure and caseload data include the contract public 
+defender programs in Multnomah County, OR.
+Caseload data not included for the 4 large counties in Maryland.
+
+*  An estimated $1.2 billion was spent on indigent criminal 
+defense in the Nation's 100 most populous counties during 1999, 
+with about 73% spent by public defender programs, 21% by assigned 
+counsel programs, and about 6% on awarded contracts.
+
+*  Indigent criminal defense expenditures in the largest 100 
+counties comprised 3% of all local criminal justice expenditures 
+and 16% of judicial expenditures in these counties.
+
+*  County governments provided 60% and State governments 25% of 
+total funding used by indigent criminal defense service providers. 
+
+*  Indigent criminal defense providers in the 100 most populous 
+counties received an estimated 4.2 million cases in 1999.   
+
+*  Public defenders handled about 82% of these 4.2 million cases, 
+assigned counsel attorneys 15%, and contract attorneys about 3%.
+
+*  Over 12,700 individuals were employed by public defender 
+programs in the largest 100 counties in 1999.  Half of the 123 
+public defender programs had 33 or more assistant public defenders.
+
+*  In 1999, over 30,700 attorneys received appointments through 
+assigned counsel programs to represent indigent defendants.  Half 
+of the 126 assigned counsel programs had 109 or more appointments.
+
+*  Over 1,000 contracts for indigent defense services were 
+administered in the top 100 counties during 1999.  
+--------------------------------------------------------------------
+
+Court-appointed legal representation for indigent criminal 
+defendants plays a critical role in the Nation's criminal justice 
+system.  In 1999 an estimated  $1.2 billion was spent by indigent 
+criminal defense programs that primarily handled felony cases at 
+the trial level in the 100 most populous counties.  These programs 
+received approximately 4.2 million cases.
+
+The Bureau of Justice Statistics, with funding from the Bureau of 
+Justice Assistance, conducted the National Survey of Indigent 
+Defense Systems  (NSIDS) in 1999-2000.  The survey represents the 
+first systematic study of indigent criminal services since the
+1980's.***Footnote 1: National Criminal Defense Systems Study,
+BJS, September 1986, NCJ 94702, and Criminal Defense for the
+Poor, 1986, BJS Bulletin, September 1988, NCJ 112919.***
+
+In the 50 counties with comparable data, 1982 expenditures totaled 
+about $464 million when adjusted for inflation.  In 1999 these same 
+50 counties spent approximately $877 million on indigent criminal 
+defense services, an increase of 47% from 1982.  
+
+This report details the methods by which indigent criminal defense 
+is delivered in the Nation's 100 most populous counties.  It also 
+compares the operating expenditures, staffing, and caseloads of 
+the different types of indigent defense services used in these 
+counties.***Footnote 2: For information on the characteristics of 
+the defense counsel received by defendants see Defense Counsel in
+Criminal Cases, BJS Special Report, November 2000, NCJ 179023.***
+
+The indigent defense programs examined in this report primarily 
+handled felony criminal cases at the trial level.  Some of these 
+programs also had responsibility for misdemeanor, juvenile, civil, and
+appellate cases.  The study was not designed to include programs that
+exclusively handled misdemeanor, juvenile, civil, or appellate cases.
+
+State governments exclusively funded indigent defense services in 21 
+States. About a quarter of the largest 100 counties were in the States 
+that totally funded indigent defense services.  This report does not 
+provide State-level data.***Footnote 3: For more information on state-
+wide systems see Improving Criminal Justice Systems Through Expanded
+Strategies and Innovative Collaborations: Report of the National
+Symposium on Indigent Defense, Office of Justice Programs, March 2000,
+NCJ 181344, and National Criminal Defense Systems Study, BJS, September
+1986, NCJ 94702, table 19.***
+
+Background
+
+The legal mandate
+
+The sixth amendment to the U.S. Constitution establishes the right to 
+counsel in Federal criminal prosecution.  Through a series of 
+landmark cases, the U.S. Supreme Court extended the right to counsel 
+for indigent defendants to State criminal prosecution.  In 1963 the 
+Court held in Gideon v. Wainwright that indigent persons facing 
+felony charges must be provided with legal counsel.***Footnote 4: Gideon V.
+Wainwright 372 U.S. 335 (1963).***  Nine years later in Argersinger v. 
+Hamlin  the Court extended a defendant's right to counsel to all criminal
+prosecutions, felony or misdemeanor, that carry a sentence of imprisonment.
+***Footnote 5: Argersinger V. Hamlin 407 U.S. 25 (1972).*** 
+
+Types of indigent defense services 
+
+Although the U.S. Supreme Court has mandated States and localities to 
+provide counsel for indigents accused of crimes, the implementation of 
+how such services are to be provided has not been specified.  As a
+consequence, States and localities have devised various systems, rules 
+for organizing, and funding mechanisms for indigent defense services.  
+
+Three primary ways of providing indigent defense services have emerged
+throughout the Nation.  States and localities use these methods of 
+delivering indigent defense services either singly or in combination.  
+The following categories are used to help describe indigent criminal 
+defense services in this report.  Local programs may use different
+terminology.
+                                                    
+Public defender -- A salaried staff of full-time or part-time attorneys 
+that render criminal indigent defense services through a public or private
+nonprofit organization, or as direct government  paid employees.
+
+Assigned counsel -- The appointment from a list of private bar members 
+who accept cases on a judge-by-judge, court-by-court, or case-by-case 
+basis. This may include an administrative component and a set of rules 
+and guidelines governing the appointment and processing of cases handled 
+by the private bar members.
+
+Contract -- Non-salaried individual private attorneys, bar associations, 
+law firms, consortiums or groups of attorneys, or nonprofit corporations 
+that contract with a funding source to provide court-appointed 
+representation in a jurisdiction.  This does not include public 
+defender programs primarily funded by an awarded contract.
+
+---------------------------------
+The Nation's 100 largest counties
+ 
+*Of the approximately 3,100 counties or independent cities,
+the most populous 100 counties comprised 42% of the
+1999 U.S. population. (1999 population estimates for the 
+United States and for each county came from Census Bureau websites,
+http://www.census.gov/population/www/estimates/countypop.html a
+http://www. census.gov/population/www/estimates/uspop.html).
+ 
+*Of the 36 million Americans that lived below the poverty level
+in 1995, 44% resided in the Nation's largest 100 counties. (The latest 
+poverty estimates came from the Census Bureau webs
+http://www.census.gov/hhes/www/saipe/stcty/estimate.html). 
+
+*A majority of all arrests for Part I crimes (52%) and violent
+crimes (55%) during 1997 occurred in the largest 100 
+counties.  (Arrests by county were taken from U.S. Department of 
+Justice, Federal Bureau of Investigation. Uniform Crime Reporting 
+Program Data [United States]: County-Level Detailed Arrest and Offense
+1997 [computer file].  ICPSR. ed. Ann Arbor, MI: Inter-university 
+Consortium for Political and Social Research.  Arrest data by county 
+were for four counties in Florida and the District of Columbia).
+----------------------------------
+
+Indigent criminal defense in the 
+Nation's 100 largest counties
+
+Among the Nation's 100 largest counties, public defender programs 
+including those primarily funded by an awarded contract operated 
+in every county except eight.  Assigned counsel programs were 
+available in 89 counties and contract programs in 42.  In most 
+counties (95) more than one type of indigent criminal defense 
+services was available.
+
+County operating expenditures and 
+funding sources
+
+During 1999 the Nation's 100 most populous counties spent an 
+estimated $1.2 billion to deliver indigent criminal 
+defense.***Footnote 6: In 1990 all States and U.S. localities
+spent $1.3 billion (unadjusted for inflation) on criminal and
+civil public defense.  See Indigent Defense, BJS Selected Findings,
+February 1996, NCJ 158909.***  Half of these counties reported nearly 
+$7 million or more in operating expenditures.  County governments 
+funded all of the indigent defense services in 24 counties and 75% or 
+more of those services in another 25.
+
+State governments also were an important source of funding, providing 
+100% of indigent criminal defense expenditures in 8 counties and 75% 
+or more in 23 counties.  Three counties were funded primarily through 
+city governments and one -- the District of Columbia -- entirely 
+through the Federal Government.
+
+------------------------------
+State court prosecutor budgets
+and indigent criminal defense
+expenditures
+ 
+Prosecutorial budget information for
+81 of the counties surveyed in
+NSIDS was available from the BJS
+ 1996 National Survey of Prosecu-
+tors (NSP).  In 1999 these 81
+counties spent $1.1 billion on
+indigent criminal defense services.
+When adjusted for inflation, State
+court prosecutors' offices in these
+same counties reported estimated budgets
+totaling $1.9 billion.*
+ 
+*Some categories of expenses are typically borne 
+by indigent defense but not necessarily by local 
+prosecution agencies, thus hindering direct 
+comparisons (e.g., expenditures of prosecutors' 
+offices may not include investigative resources 
+provided by law enforcement agencies, forensic 
+laboratory work or expert witnesses, office space 
+or technology, and training).   These data assume 
+no programmatic increases and an inflation rate 
+of 6.2% between 1996 and 1999 for prosecution budgets.
+
+ 
+NSIDS 1999 question:  What amount out of
+[total operating expenditures] was spent to
+provide different types of criminal defense
+services [public defender, assigned contract,
+and contract program]?
+ 
+NSP 1996 question:  What was the total
+budget of the office for prosecutorial
+functions in 1996?
+ 
+For more information about prosecutors in
+State courts, see Prosecutors in State
+Courts, 1996, BJS Bulletin, July 1998,
+NCJ 170092.
+
+--------------------------------------
+
+Total operating expenditures
+of 100 largest counties (in
+thousands)                              $1,205,136
+ 
+Percent of total expenditures
+provided by-                                   100 %
+State                                         25.3
+County                                        59.8
+City                                           9.0
+Federal                                        2.5
+Other                                          3.4
+
+Note:  County governments provided 60% and
+State governments 25% of total funding used by
+indigent criminal defense providers.  The remain-
+ing 15% was provided by city governments (9%),
+the Federal Government (3%), and other
+sources of funding (3%).
+
+County staffing, attorney appointments, 
+and contracts
+
+In counties with public defender programs, over 12,700 staff members 
+were employed during 1999.  The median per county was 92 staff members. 
+Assistant public defenders made up about half of all public defender 
+staff, averaging about 70 per county.  In addition, half of the counties 
+had 10 or more investigators and 19 or more support staff. 
+
+Local government criminal justice expenditures
+ 
+*Local criminal justice expenditures in the United States
+were estimated at over $65 billion in 1999.  More than half 
+(58%) of these expenditures occurred in the largest 100 
+counties.
+ 
+*Indigent crimianl defense expenditures in the largest
+100 counties comprised 3% of all local criminal justice
+expenditures and 16% of judicial expenditures in these counties.
+ 
+                      1997 direct expenditures by local governments
+                      in 1999 dollars/a (in thousands)
+
+                      Entire United States   Largest 100 counties
+Total                       $65,467,412         $38,209,104
+Police/b                    $40,255,402         $23,333,254
+Judicial/c                   12,800,309          $7,521,505
+Corrections/d               $12,411,701          $7,354,346
+
+Note:  1997 expenditure data are adjusted for inflation and
+presented in 1999 dollars.  Total expenditure includes police, 
+judicial, and corrections expenditures.  Total U.S. police 
+expenditures are based on reporting of 20,104 government units; 
+U.S. judicial expenditures on 13,633 government units; and U.S. 
+corrections expenditures on 3,365 government units.  Total police 
+expenditures for  100 largest counties are based on reporting of 
+97 counties; judicial expenditures on 97 counties; and corrections
+expenditures on 91 counties.  Data were not adjusted for
+nonresponse.
+a/Expenditures include all funds spent by county and city
+governments but exclude intergovernmental expenditures.
+b/Police expenditures include State police, local police,
+and county sheriff.
+c/Judicial expenditures include criminal and civil public
+defense, prosecutor, and court expenditures.
+d/Correction expenditures include jail, prison, probation,
+and parole expenditures.
+Source:  U.S. Bureau of the Census, 1997 Census
+of Local Governments.
+
+An estimated 30,751 attorneys were appointed to represent indigent 
+criminal defendants in counties that delivered criminal indigent 
+defense all or in part through assigned counsel services.  In half 
+of the 70 counties that provided data, assigned counsel programs 
+appointed 210 or more attorneys.
+
+Among the 42 counties with contract services, 1,054 contracts were
+administered in 1999.  Half of these 42 counties administered 6 or 
+more contracts.
+
+County caseloads
+
+In 1999 indigent criminal defense programs in the 100 largest counties
+received 4.2 million cases (see Methodology, page 6).  Half of these 
+counties handled an estimated 23,873 or more cases.  The average 
+number of cases per county was 43,480. 
+
+Criminal cases accounted for most of the cases handled in the largest 
+100 counties, with half of the counties receiving 20,273 or more 
+criminal cases during 1999.  The average county in the largest 100 
+handled nearly 35,000 indigent criminal cases, nearly 4,000 juvenile 
+cases, about 909 civil cases, and 3,590 other types of indigent criminal 
+cases (juvenile dependency, abuse and neglect, and contempt cases).
+Public defender, assigned counsel, and contract programs in the 
+Nation's 100 largest counties
+
+Over 300 indigent criminal defense programs were identified in the 
+Nation's 100 largest counties.  About 40% were assigned counsel 
+programs, 39% public defender programs, and 21% contract attorney 
+programs. 
+
+About 52% of all the identified indigent criminal defense programs 
+indicated that all their funding came from the county government, 11% 
+all from state government, 4% all from city government, and 33% from 
+mixed sources (not shown in a table).
+
+Public defender program expenditures
+
+Public defender programs spent an estimated $881 million, or about 
+73% of the $1.2 billion expended on criminal indigent defense in the 
+largest 100 counties.  Half of the 123 public defender programs spent 
+$4.5 million or more to provide services.  
+
+Eighty percent or more of the public defender programs indicated their
+expenditures included funding for expert, investigator, interpreter, and
+transcript services.  Public defender programs were more likely than either
+assigned counsel or contract programs to have expenditures for interpreters
+and transcript services.  Fifty percent of the public defender programs
+reported funding for social services, over twice the percentage for 
+assigned counsel (21%) and contract programs (19%). 
+
+Assigned counsel program expenditures
+
+In 1999 assigned counsel programs in the largest 100 counties spent an
+estimated $247 million to provide indigent criminal defense.  The median
+amount expended by the 126 assigned counsel programs for which data were
+obtained was $538,000.  Expenditures for expert and investigative services
+were reported by 80% or more of the assigned counsel programs, for 
+interpreter and transcript services by 60% or more, and expenditures for
+social services by 21%. 
+
+Contract program expenditures
+
+Contracts awarded to provide indigent criminal defense services in 
+the largest 100 counties totaled an estimated $77 million in 1999.  
+Half of the 65 contract programs expended $319,000 or more.  Eighty-one
+percent of the contract programs reported that the contract they 
+administered did not have funds for social services.  Expenditures for
+interpreter (54%) and transcript services (51%) were reported by more 
+than half of the contract programs.  Most of the contract programs 
+reported funding for expert (85%) and investigator services (96%).
+
+Program caseload
+
+Indigent criminal defense programs in the most populous 100 counties 
+received an estimated 4.2 million cases in 1999.   About 80% of the 
+cases were criminal cases that included felony capital or death penalty 
+cases, felony non-capital cases, misdemeanors that carry a jail sentence,
+ordinance infractions, appeals, probation, and parole revocations. 
+Juvenile-related cases accounted for about 8% of the total.  Civil cases 
+such as mental commitment, State post-conviction habeas corpus, and 
+Federal habeas corpus comprised approximately 2% of all cases.  An 
+estimated 9% were other types of cases such as juvenile dependency, abuse 
+and neglect, and contempt cases.  Half of the 314 identified indigent 
+criminal defense programs received 2,351 or more cases.
+
+Public defender program caseload
+
+Public defender programs handled 82% of the 4.2 million cases with 
+indigent defendants.  In 1999 public defender programs in the largest 
+100 counties received over 2.7 million criminal cases, 277,000 juvenile 
+cases, 78,000 civil cases, and 314,000 other types cases.
+
+In terms of their total caseload, public defender programs (9%) were more
+likely to receive other types of cases than either assigned counsel programs
+(4%) or contract attorneys (5%).  Half of the 123 public defender programs
+received 12,504 or more criminal cases and 1,188 or more juvenile-related
+cases.
+
+Assigned counsel program caseload
+
+About 618,000 cases were received by assigned counsel programs.  
+Approximately 85% of these cases dealt with criminal matters, 10% with
+juvenile-related matters, 1% with civil matters, and 4% with other types 
+of matters.  The median number of criminal cases handled by assigned 
+counsel programs was 1,007.  Half of the assigned counsel programs 
+received no juvenile, civil, or other types of cases during 1999.        
+
+Contract program caseload
+
+Contract attorneys handled approximately 143,000 cases in 1999, of which
+almost two-thirds (64%)  were criminal cases.  As a percentage of their 
+total caseload, contract attorneys were more likely than public defender 
+or assigned counsel programs to receive juvenile cases.  Approximately 
+29% of the caseload received by contract attorneys dealt with juvenile-
+related cases compared to 10% for assigned counsel programs and 8% 
+for public defender programs.
+
+Public defender program staffing
+
+In 1999 public defender programs in the largest 100 counties employed 
+almost 12,800 individuals.  The median total staff size was 80.
+
+Approximately 6,400 assistant public defenders were employed by public
+defender programs and comprised half of all staff employed by these 
+programs. The median number of assistant public defenders was 33.  
+About 4% of all assistant public defenders were employed on a 
+part-time basis.  
+
+About a quarter of those employed by public defender programs were 
+support staff.  Half of the public defender programs had 14 or more 
+support staff.  Public defender programs in the most populous 100 
+counties employed approximately 1,267 investigators in 1999.  Half 
+of the programs had six or more investigators on staff.  Staffing 
+of the public defenders programs also included 314 social workers 
+and 395 paralegals.  Assigned counsel private attorney appointments
+
+Assigned counsel programs appointed an estimated 30,751 private 
+attorneys to represent indigent criminal defendants in 1999.  Half 
+of the assigned counsel programs had 109 or more private attorney
+appointments.  The largest number of appointments reported by any 
+program was 1,782 private attorneys.  
+
+Contracts administered
+
+Approximately 1,054 contracts were administered by the 65 contract 
+programs. The median number of contracts administered was one.  
+The largest number of contracts administered by one program 
+was 245.  
+
+Methodology
+
+Respondent selection
+
+The universe for this study consisted of indigent criminal defense 
+programs that handled felony cases at the trial level in the 100 most 
+populous counties in the United States.  These counties were selected 
+with certainty from a list of approximately 3,100 counties and 
+independent cities in the United States ranked according to 1997 
+intercensal population estimates.
+
+Once the 100 largest counties were selected, the indigent criminal 
+defense programs and county officials in these counties were 
+identified.  
+
+County and program surveys
+
+Data were collected through two surveys.  The county survey, 
+which consisted of 16 questions, was used to gather expenditure 
+information and to assist in identifying indigent criminal defense 
+programs operating in the county.  The program survey was sent to the
+identified program respondents to collect specific information about
+expenditures, staffing, caseloads, policies and practices of public
+ defender, assigned counsel, and contract defender programs within the
+counties, and to identify any additional programs.  
+
+The program survey consisted of 141 questions divided into major 
+sections. The 58 questions in Part A asked about program expenditures 
+and other areas such as indigency determination, cost recovery, 
+standards and guidelines, training, and computer resources; the 27 
+questions in Part B asked for information about public defender programs 
+such as staffing, caseload, and conflicts; the 26 questions in Part 
+C asked for information about assigned counsel programs such as program
+administration, caseload, and assigned counsel compensation; the 25 
+questions in Part D asked for information related to contract programs 
+such as contract administration, awards and monitoring, caseload and 
+contract attorney compensation; and the 5 questions in Part E
+asked for information about additional programs in the county other 
+than the respondent's.   
+
+All program respondents were required to complete Parts A and E, 
+and Part B, C, or D according to their program type.  Most respondents,
+therefore, needed to answer only the survey parts that were relevant to 
+their type of program. Both survey instruments are available on the BJS
+website at http://www.ojp.usdoj.gov/bjs.
+
+A review of a compilation of existing information determined that 28 
+of the most populous 100 counties were entirely funded by State 
+governments and 72 all or in part by county governments.  
+
+County surveys were mailed to counties that provided partial or all 
+county funding for indigent criminal defense programs.  For counties 
+located in States that totally fund indigent criminal defense services, 
+only a program survey was sent.
+
+Data collection and follow-up
+
+The data collection for the study was conducted by the National 
+Opinion Research Center (NORC).  In August 1999, NORC mailed the 
+county and  program surveys to identified respondents.  For the 28 
+counties totally State funded, program surveys were sent directly to 
+the State and in a few cases directly to the program as well.  If 
+State agencies could only provide data for the entire State, 
+apportionment was used to produce county-level information.  Estimated
+county-level data were provided by only three States: North Carolina,
+Virginia, and Wisconsin.
+
+For the remaining 72 counties, both county and program surveys were 
+mailed to appropriate officials.  In some instances, multiple mailings 
+were required to different county offices in the same jurisdiction or 
+to multiple offices for the same indigent criminal defense program 
+because different types of cases (non-capital felony, misdemeanors, and
+juvenile delinquency) were handled by different units or branches of a
+program.  In January to May 2000 the additional indigent criminal defense
+programs identified by the county or program survey were mailed a program
+survey.  In total 78 county surveys and 345 program surveys were mailed.
+
+After the initial mailing, NORC engaged in extensive follow up to obtain 
+a returned survey from each county and program survey respondent.  For 
+the program survey, critical information, included the type of program,
+expenditures, staffing, and caseload.  The follow up process involved 
+phone calls, e-mail communication, re-mailing questionnaires, faxing or
+re-mailing only the critical items, and sending follow-up letters.  Staff 
+of the National Legal Aid and Defender Association and the State 
+coordinators for the study also assisted NORC by providing additional 
+follow up.  Both efforts contributed to improving survey response.
+
+Each completed survey in the NSIDS study also required a unique follow 
+up procedure to clarify discrepancies with county-level information,
+discrepancies and duplication of data in programs within counties, and 
+to retrieve missing critical items.  Follow up with survey respondents
+continued until July 2000.  An estimated 5,000 phone calls were logged 
+for non-response follow-up and respondent verification.  
+
+Survey response
+
+Among the 78 county surveys mailed, 4 were determined to be duplicates 
+and 5 were determined to be ineligible, leaving 69 surveys eligible for 
+the study. Of the eligible surveys, 4 were not returned and 65 were 
+completed for a response rate of 94%.
+
+For the program survey, 345 surveys were mailed to either individual 
+indigent criminal defense programs or State agencies for programs 
+located in counties with all State funding.  Of the 345 program surveys, 
+36 were determined to contain duplicate information already provided 
+on another program survey and48 were determined to be ineligible because 
+the program exclusively handled juvenile-related, misdemeanor, or 
+appellate cases.  
+
+Eighteen known programs did not return the program survey.  These 
+include one program in each of the following counties: Cook County, 
+IL; Kent, MI; Oakland, MI; Nassau County, NY; Westchester County, NY;
+Montgomery County, OH; Bexar County, TX; El Paso County, TX; two 
+programs in Erie County, NY; and eight programs in Tarrant County, TX. 
+
+The Maryland State Public Defender Program did not provide any 
+information for their four jurisdictions (Baltimore County, Baltimore 
+City, Montgomery County, and Prince George's County) in this study.  
+Some information for the public defender program (e.g., expenditures 
+and staffing) was taken from statistics available from their website.  
+No information was available for the assigned counsel program.  For nine
+programs in Riverside, CA, expenditures, funding source, and program 
+type was obtained from the county.
+
+In fifteen counties (Hillsborough County, FL; Honolulu County, HI; 
+Jefferson County, KY; Hennepin County, MN; Bergen County, NJ; Essex 
+County, NJ; Hudson County, NJ; Middlesex County, NJ; Monmouth County, 
+NJ; Tulsa County, OK; Multnomah County, OR; Allegheny County, PA; 
+Davidson County, TN; Shelby County, TN; and Salt Lake County, UT) 
+information was received for the public defender or contract program
+identified within the county but not for the assigned counsel program.
+
+Of the returned program surveys, 23 contained information either 
+for an entire State or a multi-jurisdictional program.  The data in 
+these 23 surveys were apportioned to the individual counties or 
+jurisdictions within the State based on 1990 Census population data.  
+The 23 source surveys were then deleted from the final program data 
+file leaving 220 returned surveys, for a response rate of 92% of the 
+238 eligible surveys.
+
+Since there is no complete roster of indigent criminal defense 
+providers in the largest 100 counties the actual number of programs 
+is not known.
+
+Data used for this report
+
+All information provided in this report came from data taken from 
+the program surveys.  A comparison between expenditure information 
+reported on the county survey and the program survey revealed 
+discrepancies in many counties between the information provided on 
+the two surveys.  This discrepancy was due in part to the fact that 
+many programs received more than just county funding. Therefore 
+expenditure data from the program surveys were used because they
+provided a more accurate accounting of what the programs actually 
+spent in providing indigent criminal defense.
+
+The data for the 18 non-respondents to the program survey were 
+imputed for all critical items, and then added to the program 
+data file.
+
+The final program data file contained 238 surveys records, but 
+accounted for 314 indigent criminal defense programs since some 
+respondents (55 of the 238) provided information for more than one 
+type of program.
+
+On 12 surveys, a juvenile or misdemeanor program was indicated but 
+it could not be determined if these were separate programs or components 
+of larger programs.  Due to the ambiguity, these programs were left in 
+the program data file.
+
+While the NSIDS program survey contained many data elements, program 
+type, expenditures, public staffing, assigned counsel attorney 
+appointments, number of contracts administered, and caseload were 
+presented for this report.  
+
+NORC was instructed that if a respondent refused to complete the 
+entire survey they should at a minimum try to obtain data from 
+respondents for these critical items.  Many program respondents only 
+provided the critical items. Even with targeting these variables,  
+there was still a substantial amount of missing data.  Since most of 
+the critical items were interval level data NORC was able to impute 
+these data through various techniques for missing responses.
+
+Caseload data
+
+The 4.2 million cases received by indigent criminal defense programs 
+in the largest 100 counties is an underestimate of the total number of
+indigent cases handled in these counties.  During the process of 
+compiling the respondent list for the present study, many indigent 
+defense programs that exclusively handled misdemeanor, juvenile-related, 
+or appellate cases were identified but were deemed out of scope for 
+the study.  
+
+In addition no caseload data were obtained for the four most 
+populous counties in Maryland and for assigned counsel programs in 19
+counties.  If the specialized programs and these additional programs 
+had been included, the estimate for the total number of cases received 
+would have been higher.
+
+Data imputation for critical items 
+in program survey
+
+If a program in the most populous 100 counties was known to be 
+missing, NORC logically imputed as much critical  information as 
+possible based on information gathered in follow-up telephone calls 
+and questionnaires from related counties and programs. 
+
+NORC used several different techniques to impute data for selected 
+missing individual survey items (type of program, expenditures, 
+staffing, and caseload).  Some items were imputed by hot deck methods 
+in which a value is copied or adapted from a donor case having 
+similar values of related variables.  Some items were imputed using 
+a statistical model of relationships among variables.  The goal was 
+to create a program data file with complete information on critical 
+items, where the imputed values were plausible given the data 
+relationships among the unimputed data.  An indicator variable was
+added to the file for each critical item.  The values of these 
+companion variables indicated whether the critical item was imputed, 
+and if so, by what method.  A detailed memorandum describing the 
+imputation process will be archived with the public use dataset.
+
+Data allocation for surveys completed 
+by state agencies and multi-jurisdiction 
+programs
+
+Some states operate a single indigent defense program covering most 
+or all counties in the state.  If the State agency completed one single
+program questionnaire for the entire State, NORC allocated the 
+statewide data to the counties in that State by prorating the 
+quantitative variables in proportion to 1990 census population.  
+Multi-county programs for which a single program questionnaire was 
+received were allocated to their respective counties in the same way.  
+BJS staff deleted the State and multi-jurisdictional source surveys 
+from the final program data file to avoid duplication of information.
+
+The Bureau of Justice Statistics 
+is the statistical agency of the 
+U.S. Department of Justice.  
+Jan M. Chaiken, Ph.D., is director.
+
+This BJS Bulletin presents findings from the National Survey 
+of Indigent Defense Systems, 1999.
+
+Carol J. DeFrances and Marika F.X. Litras wrote this report.  
+At BJS Greg W.Steadman provided statistical review; Devon B. 
+Adams, Todd D. Minton, and Donna D. Oliphant provided assistance 
+in compiling the respondent lists; and Steven K. Smith provided 
+overall guidance for the project.  
+
+Data collection was performed by the National Opinion Research 
+Center (NORC); Natalie Suter was the project director.  At NORC, 
+project staff included Rachel Harter, Angela Herrmann, Irv Horwitz, 
+Kymm Kochanek, Jayan Moolayil, Gloria Rauens, Joanna Small, Hee 
+Choon Shin, Charles Taragon, and Crystal Williams. 
+
+The National Legal Aid and Defender Association, (NLADA), as well 
+as various State coordinators, assisted in the follow-up phase of 
+the project.  The Project's Advisory Group provided review of the 
+text.  H. Scott Wallace of NLADA provided review and compiled 
+comments from the Project's Advisory Group members.
+
+Ellen Goldberg produced and edited this report assisted by Rhonda 
+Keith. Jayne Robinson administered final production.
+
+November 2000, NCJ 184932
+
+End of file
+11/27/00 ih
+Revised 12/4/00 pm

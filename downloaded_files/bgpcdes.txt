@@ -1,0 +1,459 @@
+U.S. Department of Justice
+Office of Justice Programs
+
+Bureau of Justice Statistics
+
+Executive Summary
+Bridging Gaps in Police Crime Data
+
+A Discussion Paper from the BJS Fellows Programs
+
+By  Michael D. Maltz  
+Department of Criminal Justice  
+University of Illinois at Chicago  
+and  
+Visiting Fellow, Bureau of Justice Statistics  
+
+This paper is based on a Workshop  
+on Uniform Crime Reporting Imputation  
+on April 24-25, 1997,  sponsored by the  
+Bureau of Justice Statistics 
+and the Federal Bureau of Investigation 
+Uniform Crime Reporting Program  
+
+Summary
+
+Crime in the United States (CIUS), published annually by the
+FBI, is a compilation of the Uniform Crime Reports (UCR)
+provided by over 18,000 policing jurisdictions. It represents
+one of the two primary sources of data about crime in the United
+States, the National Crime Victimization Survey (NCVS) being the
+other. While the NCVS is a very reliable indicator of national
+trends in crime, it is based on a survey of under 50,000
+households and thus cannot provide local information on crime,
+which is provided by the UCR and CIUS. [For a thorough
+understanding of the differences between the two statistical
+series, see Biderman and Lynch's (1991) Understanding Crime
+Incidence Statistics: Why the  UCR diverges from the NCS.
+***Footnote 1:  The NCS, or National Crime Survey, was the
+predecessor to the NCVS.*** A briefer explanation can be found
+in The Nation's Two Crime Measures, found at
+http://www.ojp.usdoj.gov/bjs/abstract/ntmc.htm 
+and included annually in CIUS.]
+
+Not only does CIUS provide local information about crime
+incidence, it also compiles arrest data from these
+jurisdictions; these data permit us to form a picture of who is
+committing crime (or at least, who is arrested for committing
+crime).
+
+Reporting to the FBI remains for many jurisdictions a voluntary 
+activity; although many States now mandate that agencies report 
+crime and arrest data to them (which they then forward to the FBI), 
+even in those States local agencies do not always comply.
+
+Moreover, despite the efforts of the FBI to maintain their
+quality, there are many gaps in the data that make their use
+questionable. While this has had limited impact in the past, the
+fact that the UCR data have, for the first time, been used to
+allocate Federal funds brings issues about data quality to
+center stage. 
+
+In addition, the FBI is moving to implement an 
+improved crime and arrest reporting system, the 
+National Incident-Based Reporting System (NIBRS), to replace the
+summary UCR program. It is hoped that the study of deficiencies
+in UCR data will be of use in planning toward the full
+implementation of NIBRS.
+
+This report describes the history of the UCR system and the data
+problems that it deals with in reporting about crime, arrests,
+and homicide. It describes the procedures used by the FBI to 
+fill in gaps in the data, when they exist, and makes suggestions 
+about how they might be improved.
+
+Acknowledgments
+
+I began work on this project because, although I had been using
+the UCR for many years, I had never understood all of its
+intricacies and felt somewhat embarrassed to ask simple
+questions about why certain procedures were used, because
+obviously everyone else knew. It turned out, however, that most
+people seemed to be as much in the dark as I was, perhaps about
+different aspects of the UCR, and during this project we began
+to share our knowledge, each of us having an understanding of
+different aspects of the data collection and analysis process.
+This report is, then, more of a collaboration than a
+single-authored effort, a kind of "open source" presentation of
+our collective knowledge.
+
+The information contained herein is based on a 2-day meeting
+held over 2 years ago; analyses of UCR data conducted since
+then; and conversations, letters, faxes, and emails between me
+and a number of colleagues. In particular, I wish to acknowledge
+the comments and advice of the folllowing:
+
+* From BJS -- Jan Chaiken, Larry Greenfeld, Charles Kindermann, 
+Pat Langan, Sue Lindgren, Don Manson, Mona Rantala, Steve Smith, 
+Paul White, and Marianne Zawitz
+
+* From the FBI -- Yoshio Akiyama, Bennie Brewer, Ken Candell,
+Carlos Davis, Gil Gee, Antonio Hwang, John Jarvis, Dawn Kording,
+Vicki Major, Jim Nolan, Sharon Propheter, and Maryvictoria Pyne
+
+* From the research community -- Dan Bibel, Becky Block, Roland
+Chilton, Chris Dunn, Bob Flewelling, Jamie Fox, Jim Lynch, Mike
+Maxfield, and Howard Snyder.
+
+In addition, I wish to thank the UCR program personnel from the
+50 States with whom my  research assistants (Leanne Brecklin,
+University of Illinois at Chicago; Chris Kenaszchuk, University
+of Maryland; and Todd Minton, BJS) and I corresponded and spoke.
+I received cooperation from virtually every State in putting
+together this report; I hope that the end result is of use to
+them and to others who deal with crime statistics.
+
+This report was written while I was a Visiting Fellow at the
+Bureau of Justice Statistics, and completed while I was on
+sabbatical from the University of  Illinois at Chicago. While I
+greatly appreciate the help I received from BJS, FBI, and State
+officials, they should not be held responsible for any errors in
+this report, and the opinions, conclusions, and recommendations
+expressed herein are my own  and should not be construed as the
+policy of any of these organizations. 
+
+
+Contents
+
+(from the full 76-page report)
+
+I. Introduction          
+     Why We Need to Look at the UCR     
+     The Information-Gathering Process 
+     Report Organization     
+
+II. UCR History and Coverage 
+     State-Level Reporting   
+     Comparing Crime Data    
+     Coverage Gaps and Imputation  
+
+     The UCR and Funding Decisions      
+     The UCR and Electronic Access 
+     Use of Sub-National UCR Data  0
+     The UCR and NIBRS   
+
+III. Incomplete Crime Data    
+     Error Checking      
+     Reasons for Incomplete Reporting   
+
+
+IV. Incomplete Arrest Data    
+
+
+V. Processing and Publishing the Crime Data
+     Publishing the UCR  
+     Archiving the UCR Data File 
+
+
+VI. Procedures Used for Imputing Crime Data   
+     FBI Imputation Procedures for Crime     
+     NACJD Imputation Procedure    
+     Imputation Procedures for Arrests  
+     Imputation and "Zero-Population"
+         Agencies    
+     Updating UCR Files  
+
+
+VII. Inaccuracies Produced by the Imputation 
+
+Procedures          
+     Incomplete-Reporting Agencies 
+     Non-Reporting Agencies   
+     "Zero-Population" Agencies    
+     Summary   
+
+
+VIII. Suggested Alternative Imputation 
+
+Procedures     
+     Incomplete Reporting Agencies  
+     Non-Reporting Agencies  
+     Zero-Population Agencies 
+
+IX. Supplementary Homicide Reports      
+     Uses of the SHR     
+     Incomplete Provision of SHR Data 
+         by Police Departments     
+     Updating SHR Files  
+     Availability of SHR Data Sets 
+     SHR Imputation 
+     Weighting the Victim File     
+     Weighting the Offender File   
+     Problems with This SHR Imputation
+        Procedure   
+     Suggested Alternative SHR Imputation 
+        Procedure   
+
+X. Conclusions and Recommendations      
+
+Appendix A.  Persons Attending the Workshop 
+on UCR Imputation Procedures  
+
+Appendix B.  State On-Line Publication 
+of Crime Data  
+
+
+
+Appendix C.  Extent of Missing Data in 
+State UCR Data, 1958-97
+
+Appendix D.  Characteristics of State 
+UCR Collection Programs
+
+Appendix E.  Missing Data in UCR Files Used 
+for the 1996 LLEBG Formula Calculations      
+     Background     
+     Extent of Missing Data, by State   
+     Characteristics of Agencies with Less 
+         than 36  Months of Violent Crime Data     
+     Agencies with 0 Months Data   
+     Jurisdictions with between 1 and 
+        35  Months of Data    
+     Impact of Incomplete Data     
+     Addendum on "Zeropop" Agencies     
+
+References     
+
+Glossary 
+
+
+-----------------
+Introduction
+-----------------
+
+   The Uniform Crime Reporting Program (UCR) ***Footnote 1:  The
+first mention of an acronym in this report is printed in bold. 
+Also see Glossary, page 72.*** of the Federal Bureau of
+Investigation (FBI) has been collecting crime and arrest data
+from police departments throughout the United States since 1930.
+The data are published in the annual report, Crime in the United
+States (CIUS), and represent one of the more widely used sources
+of longitudinal data in the social sciences. The UCR is based on
+monthly summary reports of crimes known to the police and
+arrests made by the police, that are provided to the FBI by more
+than 18,000 police agencies in the United States and its
+territories. ***Footnote 2:  Police agencies also report on
+other topics to the FBI, including hate crimes, personnel
+statistics, and law enforcement officers killed and assaulted.
+These topics are not covered in this report.*** 
+
+     The FBI office that deals with the UCR is the Program
+Support Section (PSS), a section of the Criminal Justice
+Information Services (CJIS) Division. Five of the eight units
+within PSS are concerned with various aspects of CIUS: 
+
+
+
+*     The Statistical Unit collects, checks, and manages the
+data coming in from the police agencies.
+
+*    The Communications Unit is involved in publications and
+data dissemination.
+
+*   The Education and Training Services provides training to
+local agencies in UCR data collection procedures.
+
+*   The Crime Analysis Research and Development analyzes data
+and develops specifications for new methods of presenting the
+data.
+
+*    The CJIS Audit Unit performs quality assurance reviews to
+maintain the quality of the UCR.
+
+*   The UCR includes a Crime Index, a count of certain specific
+crimes occurring over the past year in each jurisdiction. These
+are called "Index crimes," and, listed in order of their
+presumptive seriousness, are murder and nonnegligent
+manslaughter, forcible rape, robbery, aggravated assault,
+burglary, larceny-theft, and motor vehicle theft.  
+
+    Arson was added to the Crime Index in 1979 although it is
+not as likely as the other Index crimes to be reported to the
+police, because arsons are often categorized as "fires of
+suspicious origin." Except for arson, these particular crimes
+were chosen because they were frequent, generally serious in
+nature, and most likely to be reported to the police; victims,
+their relatives, and/or bystanders who witness the incident are
+likely to know that incidents of those types are criminal in
+nature and are likely to report them.
+
+     Although the UCR has some limitations (indeed, the aim of
+this report is to address some of them), even these limitations
+provide important information. For example, incomplete citizen
+reporting to the police of certain types of crimes has been used
+as an indicator of a number of police-related factors: how the
+relationship between offender and victim affects citizen
+reporting of crime; the extent to which citizens trust the
+police; and the effect of police policies and problems on
+reporting behavior. Yet the public is generally unaware that the
+UCR system is essentially a voluntary system; there is no
+federal legislation that requires States or local jurisdictions
+to report their crime data to the FBI.
+
+    The voluntary nature of the UCR, of course, affects the
+accuracy and completeness of the data. Although the FBI devotes
+a great deal of attention to the quality of the data it
+publishes in CIUS, it cannot mandate agencies to provide data on
+time (or at all). As a consequence, the FBI must deal with
+problems of missing or late data, and has developed a mechanism
+to account for these gaps: it imputes (or estimates) data where
+gaps exist, which limits the accuracy of the crime statistics
+published in CIUS.
+
+Why We Need to Look at the UCR
+
+   Despite these problems with the data, adjustments for missing
+data have not been of major consequence in the past, since the
+primary purpose of the data was to present national and State
+trends -- and the adjustments were adequate for this purpose.
+Researchers, police administrators, and some journalists are
+aware of the limitations of the UCR, but it mattered little to
+others outside the field. However, in the recent past four
+changes were made in the environment in which the UCR data are
+being employed:
+
+*   UCR data are being used to allocate Federal funds.
+
+*   The data are now instantly accessible on the Internet.
+
+*   Because of the greater accessibility  of the data,
+researchers are increasingly analyzing UCR statistics at
+sub-national levels, but the results of their analyses may be
+suspect because of the way missing data are handled.
+
+*   A new reporting system (the National Incident-Based
+Reporting System, or NIBRS) now being implemented to augment –
+and ultimately replace -- the UCR, will increase the amount of
+data collected on each crime.
+
+   Thus, the collection, analysis, and publication of crime data
+are now occurring in a new environment, due to changes in
+legislation, changes in the ease of access by citizens and
+researchers to the data, and changes in crime reporting. This
+means that the FBI's imputation procedures, which were adequate
+for handling many of the weaknesses in the current data
+collection system, may have to be revised. 
+
+   Toward this end, a Workshop on UCR Imputation Procedures was
+held in Washington, DC, April 24-25, 1997, and attended by key
+personnel from the FBI and the Bureau of Justice Statistics
+(BJS), as well as by researchers familiar with UCR data and
+their problems. The list of attendees is given in Appendix A of
+the full report. Just prior to the workshop the FBI had moved the
+Program Support Section to Clarksburg, West Virginia. The move 
+resulted in a turnover of personnel and equipment. The workshop 
+thus came at an opportune time for the FBI, which recognizes 
+the need to update the procedures it has been using for 40 
+years -- when the UCR had its last major revision (FBI, 1958). 
+
+   The workshop provided an opportunity for statisticians and
+researchers from both of these Federal agencies and from the
+user community to discuss ways of improving UCR data collection
+and estimation procedures. The goal of the workshop was to
+recommend new ways to ensure that the American public  is
+provided with the best possible police- collected information
+related to crime and criminality, and to move toward that end in
+the most expeditious and feasible way possible. This report is
+based on the findings and discussions from that workshop.
+
+    Issues relating to standard UCR data (i.e., crime counts,
+arrests) were not the only topics addressed at the workshop.
+Attention was also devoted to the Supplementary Homicide Reports
+(SHR), forms filled out by police departments that provide a
+more detailed description of each homicide than just the raw
+statistics of number of homicides. The workshop explored how
+these data could be made more useful, and this report discusses
+those findings as well.
+
+   Issues related to Federal crime data are not included in this
+report. Thus, the accuracy or completeness of the statistics of
+crimes committed on Indian reservations, military installations,
+and national parks are for the most part excluded. 
+
+   This report also includes information gathered from State
+criminal justice agency personnel and data analyses subsequent
+to the workshop. 
+
+
+
+The Information-Gathering Process
+
+  The information contained in this report has come from a
+variety of sources. Much of it is undocumented, and falls more
+in the category of "lore" than "information." The voluntary
+nature of the UCR system means that different standards and
+procedures have been used in different States despite the name
+given to the data system – the Uniform Crime Reports are far
+from uniform. Some of the material included herein is based on
+informal conversations with FBI and BJS personnel and State
+officials who use or collect the data, and some of their
+statements about the UCR (or my interpretations of what they
+meant) may be in error. Although I have tried to verify all
+statements, some errors may have slipped through. Should a
+reader find mistakes in this report, please notify me
+(mikem@uic. edu), and corrections will be added to an errata
+sheet that will be posted on the BJS website.
+
+    It seems that every decade or so I look into the intricacies
+of crime data (Maltz, [1972] 1999; 1984: 141) and find the
+following caution about official statistics from Josiah Stamp
+(1929: 258) applicable:
+
+     The individual source of the statistics may easily be the
+     weakest link. Harold Cox tells a story of his life as a 
+     young man in India. He quoted some statistics to a Judge, an 
+     Englishman, and a very good fellow. His friend said, "Cox,
+     when you are a bit older, you will not quote Indian 
+     statistics with that assurance.  The Government are very keen 
+     on amassing statistics – they collect them, add them,
+     raise them to the nth power, take the cube root and 
+     prepare wonderful diagrams. But what you must never forget 
+     is that every one of these figures comes in the first
+     place from the chowty dar [village watchman], who just 
+     puts down what he damn pleases."
+
+   While strides have been made in improving the coverage and
+accuracy of police-reported crime data (in India as well as in
+this country), there is still need for a great deal of
+improvement. My hope is that this report helps to realize this
+goal.
+
+Report Organization
+
+   The organization of this report is as follows: The next
+section gives a brief summary of how the coverage of the UCR has
+increased over the past few decades, both in terms of population
+covered and State collection efforts. Section III describes the
+reasons for incomplete crime data and Section IV problems with
+arrest data. Section V documents the steps necessary to verify
+and publish CIUS. The imputation procedures used by the FBI to
+account for these gaps are described in Section VI, and the
+problems with these imputation procedures in Section VII. Some
+suggested changes in the imputation procedures are described in
+Section VIII. Issues related to the SHR data are addressed in
+Section IX. Conclusions and recommendations are found in
+Section X. 
+
+   Five appendixes are included: Appendix A lists the attendees
+at the BJS/FBI workshop. Appendix B is a compendium of
+crime-related data available on the Internet from State
+agencies. The crime reporting history of each State is charted
+in Appendix C. Appendix D lists some of the characteristics of
+State UCR collection programs. Appendix E, written by Sue
+Lindgren of BJS, describes the procedures used to account for
+missing data in calculating the Local Law Enforcement Block
+Grant funding for each jurisdiction.
+
+
+END OF FILE
+7/12/99 pm

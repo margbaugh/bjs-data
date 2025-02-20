@@ -1,0 +1,639 @@
+U.S. Department of Justice 
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Guide to the BJS website
+
+This guide is not a tour of the BJS website.  It is to announce 
+new additions to the website.  If you would like to take a tour, 
+go to http://www.ojp.usdoj.gov/bjs/tour/intro.htm.  If you would 
+like to receive future paper editions of this guide or get on our 
+mailing list, contact the Bureau of Justice Statistics Clearinghouse 
+at 800-732-3277.
+
+
+This new publication from BJS will alert you to the latest
+updates and additions to materials on the BJS website
+
+In addition to the traditional paper publications, BJS is
+electronically publishing a variety of materials including
+statistical graphics and spreadsheets on the BJS website
+(http://www.ojp.usdoj.gov/bjs/).    
+
+Guide to the BJS website will be published periodically to
+notify you of updates and additions to our electronic
+collection.  This report, the first in the series, outlines all
+of the material that is available on the website and not
+otherwise published.  Future editions will concentrate on
+updates and additions.  
+
+For the most up-to-date information about updates and additions
+to the BJS website, check What's New (http://www.ojp.usdoj.gov/
+bjs/whatsnw2.htm) or subscribe to JUSTINFO, the electronic
+newsletter sent out every two weeks by the National Criminal
+Justice Reference Service (http://www.ncjrs.org/
+justinfo/index.html). 
+
+If you do not have Internet access, these materials can be
+obtained by request from the Bureau of Justice Statistics
+Clearinghouse at the National Criminal Justice Reference Service
+(1-800-732-3277).  Some are available only in electronic forms
+since they are intended to be used on computers.
+
+The BJS website presents information in multiple ways:
+topically, chronologically, and alphabetically.   A web  tour of
+the BJS website is available under the Site Guide located on the
+left hand corner of the home page (http://www.ojp.usdoj.gov/bjs/
+guide.htm).  BJS also supports the dissemination of crime and
+justice information by other organizations as listed under
+Related Sites (http://www.ojp.usdoj.gov/bjs/site.htm).  
+
+The topics listed on the home page provide an easy way to locate
+information. Under each topic are Summary Findings, which
+provide the latest numbers in the format of a news magazine.  A
+list of publications by BJS is also presented by topic or
+subtopic, arranged with the most recent publication first. 
+Information about the data collections and links to related
+sites are also included under the topical listings.
+
+Every publication produced by BJS in the last few years is
+available electronically.  In addition to the listings on the
+topical pages, you can find publications by title in
+alphabetical order on the publications page, or, for recent
+publications, under What's New at BJS.
+
+Key Crime & Justice Facts at a Glance
+
+Added to the website in April, 1997, Key Facts at a Glance
+presents --
+
+*  Crime trends 
+*  Trends in Federal investigations and prosecutions 
+*  Trends in felony convictions in State courts 
+*  Corrections trends 
+*  Expenditure trends
+
+Several of the charts presented are also part of the Social
+Statistics Briefing Room hosted by the White House at
+http://www.whitehouse.gov/fsbr/ssbr.html.  These charts are
+updated immediately upon the release of new data.
+
+Internet users can find Key Facts at a Glance at
+http://www.ojp.usdoj.gov/bjs/glance.htm. Small versions of
+the charts (thumbnails) and brief statements of findings are
+presented.  Click on the thumbnail and you will go to a page
+that contains a full size version of the chart and additional
+information about the data and findings. Click on the full
+size version of the chart and a table with the data used in
+the chart will appear.  This table is a text file which you
+can save to your hard drive and import into most spreadsheet,
+charting, and word processing programs. A complete list of the
+charts in Key Facts at a Glance including the date of the most
+recent update is in Appendix 1.
+
+In addition, an electronic file is available that contains full
+size color versions of selected charts suitable for overheads or
+handouts.  Paper versions of these charts are available from the
+Clearinghouse.  Please reference NCJ 170087 when ordering.
+
+Crime & Justice Electronic 
+Data Abstracts
+
+Also added to the BJS website in April of 1997, Crime & Justice
+Electronic Data Abstracts (CJEDA) are a series of spreadsheets
+that contain data from a wide variety of published sources
+usually by jurisdiction and over time.  You can use these
+spreadsheets to find the answer to a particular question,
+include the data in other analyses, or create your own graphs or
+maps. 
+
+The following are just a few examples of the types of questions
+you can find answers to from the spreadsheets in CJEDA:
+
+How many robberies were reported by the police in Iowa, each
+year, 1964-96? 
+
+Is there a relationship between the rate of homicide and level
+of education of residents in the 90 largest counties?
+
+How has the number of persons incarcerated in Texas changed
+between 1977 and 1996? 
+
+You can download these spreadsheets to your computer and open or
+import them into most spreadsheet, charting, and word processing
+programs. Most of these files are in .wk1 format (The MIME type
+for these files is application/spreadsheet and the file
+extension is wk1).  Many browsers can be configured to
+automatically launch a spreadsheet program to display these
+files. Consult the documentation of your browser for specific
+instructions.  
+
+A few of the holdings are a collection of files that are
+archived into one .zip file to facilitate transfer from the
+Internet. Additional help to unzip these files is available at
+http:/www.ojp.usdoj.gov/bjs/abstract/help.htm. Users who do not
+have Internet access can order them on diskette from the
+BJS Clearinghouse.
+
+To allow users to find what they want, these spreadsheets are
+indexed in two ways; by topic (Crime and arrest data, Criminal
+justice data, Corrections data, Demographic data) or by
+jurisdiction level (Federal, State, County, City).
+
+The data in these spreadsheets come from many sources including
+BJS statistical programs (correctional populations, Federal case
+processing), the Uniform Crime Reports (UCR) program of the FBI
+(Index crime, homicide, and arrests), and the Bureau of the
+Census (population numbers and noncriminal justice information).
+The data included in these files are the most recent available
+and are updated as new data become available.
+
+The following files were added to this collection within the
+last few months:
+
+Time served in State prison, by offense, release type, sex, and
+race, annually for 1993, 1994, 1995, and 1996 from the National
+Corrections Reporting Program (NCRP)
+
+Sentence length of State prisoners, by offense, admission type,
+sex, race, annually for 1993, 1994, 1995, and 1996 from the
+National Corrections Reporting Program (NCRP)
+
+Most serious offense of State prisoners, by offense, admission
+type, age, sex, race, and Hispanic origin, annually for 1993,
+1994, 1995, and 1996 from the National Corrections Reporting
+Program (NCRP)
+
+Number of full-time sworn law enforcement officers, rate per
+100,000 residents, and percent change since 1975 in the United
+States, from the Uniform Crime Reports.
+
+Recent updates include: 
+
+*  Case processing data by Federal court district, 1996
+
+*  Prisoners executed under civil authority in United States, by
+year, region, and jurisdiction, 1977-1998
+
+*  The number of arrests for violent crimes of juveniles (under
+age 18) and adults (age 18 or older), 1970-97
+
+*  Homicide victimization and offending rates of juveniles and
+young adults, by State, 1976-97  
+
+*  Index offense crimes and arrests, the 90 largest counties,
+1990-96
+
+The additions and updates to the CJEDA for the past six months
+are announced on What's New from BJS.  
+
+New sections available on the BJS website
+
+Homicide Trends in the U.S.
+
+Homicide Trends in the United States describes homicide patterns
+and trends in the United States since 1976. Homicide is of
+interest not only because of its severity but also because it is
+a fairly reliable barometer of all violent crime. At a national
+level, no other crime is measured as accurately and precisely.
+The site displays 32 graphics and supporting tables and includes
+the recently released 1997 data.  The site will be updated
+annually.
+
+Topics covered include long term trends, demographic trends,
+multiple victims and offenders, infanticide, homicides by
+intimates, law enforcement officers killed, weapons trends,
+regional trends, and trends by city size. The data analyzed are
+from the FBI's    Uniform Crime Reporting Program, particularly
+the Supplementary Homicide Reports.
+
+You can get to Homicide Trends from the BJS home page
+(http://www.ojp.usdoj.gov/bjs/homicide/homtrnd.htm).
+
+
+Drugs and Crime Facts
+
+This new section of the BJS website is an updated web version of
+the publication, Drugs and Crime Facts, 1994.  Statistics on
+drug-related crimes, law enforcement, courts, corrections, drug
+use, and public opinion are summarized in an easy to use format.
+Data from BJS series as well as other government sources
+provide an online overview of drugs and crime.
+
+Drugs and Crime Facts including nine graphs and numerous tables
+is available from the Drugs and Crime page
+(http://www.ojp.usdoj.gov/bjs/dcf/contents).  Links to the
+source materials for each entry are provided for users seeking
+more detail.  As new data become available the site will be
+updated and enhanced so that you can find the latest data
+about drugs and crime.
+
+Other electronic materials and publications from the BJS website
+
+Trends in Juvenile Violence: 1997 Update
+
+The original report, produced under a Bureau of Justice
+Statistics grant, is based on a briefing of the Attorney General
+in 1995 by Dr. James A. Fox, Dean, School of Criminal Justice,
+Northeastern University.  Available in print from NCJRS, the
+original report discusses demographic trends and their impact on
+crime.  It concludes that the growth in juvenile population in
+the next decade will cause a dramatic increase in the level of
+juvenile violence. This update (NCJ 157315) presents results
+through 1996.  Spreadsheets with data from both the original and
+the updated version are available at
+http://www.ojp.usdoj.gov/bjs/abstract/tjvfox.htm.  
+
+Most of the homicide data presented in these reports is
+updated in the new section Homicide Trends in the United States.
+
+BJS assessments of customer needs and usage
+
+Striving to improve customer service, BJS has conducted the
+following assessments:
+
+Web statistics C Measuring user activity: An analysis of BJS
+website usage    statistics, March 1998,  NCJ 171118
+
+Mail Survey of Recipients of Bureau of Justice Statistics Print
+Publications, May 1997,  NCJ 166369
+
+The Flow of Criminal Justice Statistical Information by
+Electronic Means, May 1996,   NCJ 172806
+
+Papers in support of the National Incident Based Reporting System
+
+The FBI's Uniform Crime Reporting (UCR) program, which began in
+1929, collects information about crimes reported to the police.
+Jointly sponsored by BJS and the FBI, a 5-year redesign effort
+to provide more comprehensive and detailed crime statistics
+resulted in the National Incident-Based Reporting System
+(NIBRS). The UCR Program is currently being converted to NIBRS. 
+To encourage adoption of NIBRS and the analysis of
+incident-based data, BJS has prepared the following electronic
+only reports:
+
+State Use of Incident-Based Crime Statistics describes the
+States'publication and dissemination of incident-based data, focusing
+on the presentation of criminal statistics in tabular form.
+February 1999, NCJ 173941 
+
+Crime Data Requests 1994-96: A Review of Requests for Crime
+Information from the State Law Enforcement Division of South
+Carolina presents  findings from the review of data requests
+made to the UCR Department of the South Carolina Law Enforcement
+Division (SLED) to gain an improved understanding of the types
+of criminal data most commonly requested and to identify
+standard incident-based tables that could streamline SLED's
+provision of information. March 1998, NCJ 170028
+
+
+
+The World Factbook of Criminal Justice Systems
+
+This factbook, developed under a BJS grant, provides narrative
+descriptions of the criminal justice systems of countries around
+the world. These 42 country descriptions are written to a common
+template so that comparisons of similar functions in different
+countries can be easily made. They were completed in mid-1993,
+although the most recent data available for inclusion were
+sometimes for a year or two earlier.
+
+The introductory materials include:
+Preface by the Director of BJS,  Jan Chaiken
+Introduction by the Editor of the Factbook
+BJS partners roll out new web capabilities
+
+Countries included are:
+
+Australia                  Malta
+Bulgaria                   Micronesia
+Canada                     The Netherlands
+China                      New Zealand
+Costa Rica                 Nigeria
+Cuba                       Northern Ireland
+Czech Republic             Norway
+Denmark                    Papua New Guinea
+England and Wales          Poland
+Finland                    Russia
+France                     Singapore
+Germany                    Slovak Republic
+Ghana                      Slovenia
+Hong Kong                  South Africa
+Hungary                    South Korea
+India                      Spain
+Ireland                    Sri Lanka
+Israel                     Sweden
+Italy                      Taiwan
+Japan                      Ukraine
+Kenya                      Venezuela
+
+
+
+Spreadsheets that support publications
+
+BJS also provides data from the tables of some publications in
+spreadsheet format.  In many instances, these files not only
+include the published tables but also additional detail, data
+used to calculate published rates or percentages, or the
+formulas used.  You can use these spreadsheets to include the
+data in other analyses, create your own graphs or maps, or, in
+some instances, view additional details that are not in the
+published report. 
+
+Like the Crime and Justice Electronic Data Abstracts, these
+files can be downloaded and imported into most spreadsheet,
+charting, and word processing programs. The table on this page
+lists those publications for which such data are available.  A
+link to these files is included on the publication's web
+abstract.  The address of the abstract is included on the table.
+ 
+Most of these files are either text files or spreadsheets in 
+.wk1 format although a few of the holdings are a collection of
+files that are archived into one .zip file to facilitate
+transfer from the Internet. From the abstract, click on
+spreadsheets and the file will download to your computer where
+you can open it and use it.  Additional help to unzip these
+files is available at http:/www.ojp.usdoj.gov/bjs/abstract/help.htm.  
+
+Users who do not have Internet access can order the spreadsheets
+on diskette from the BJS Clearinghouse (please reference the NCJ
+number of the publication.) 
+
+Publications with accompanying spreadsheets
+
+ Document title                                                   URL (file in
+                                                                  www.ojp.usdoj.gov/
+                                                                  bjs/abstract/)     NCJ numbers
+
+Age Patterns of Victims of Serious Violent Crime                  apvsvc.htm         NCJ 162031
+Campus Law Enforcement Agencies, 1995                             cleapp95.htm       NCJ 161137
+Capital Punishment 1997                                           cp97.htm           NCJ 172881
+Carjacking in the U.S., 1992-96                                   cus96.htm          NCJ 171145
+Census of State and Local Law Enforcement Agencies, 1996          csllea96.htm       NCJ 164618
+Compendium of Federal Justice Statistics, 1993                    cfjs93.htm         NCJ 160089
+Compendium of Federal Justice Statistics, 1994                    cfjs94.htm         NCJ 163063
+Compendium of Federal Justice Statistics, 1995                    cfjs95.htm         NCJ 164259
+Compendium of Federal Justice Statistics, 1996                    cfjs96.htm         NCJ 172849
+Compendium of State Privacy and Security    Legislation:
+   1997 Overview                                                  cspl97.htm         NCJ 168964
+Correctional Populations in the United States, 1994               cpi94.htm          NCJ 160091
+Crime and Justice in the U.S. and  England and Wales, 1981-96     cjusew96.htm       NCJ 169284
+Criminal Victimization, 1997:  Changes 1996-97 with Trends
+   1993-97                                                        cv97.htm           NCJ 173385
+Criminal Victimization in the United States, 1993                 cv93.htm           NCJ 156241
+Felony Sentences in State Courts, 1994                            fssc94.htm         NCJ 163391
+Felony Sentences in the United States, 1994                       fsus94.htm         NCJ 165149
+Female Victims of Violent Crime                                   fvvcgrf.htm        NCJ 162602
+Firearm Injury from Crime:  Firearms, Crime, and Criminal
+   Justice                                                        fifc.htm           NCJ 160093
+Law Enforcement Management and Administrative Statistics, 1993    lema93.htm         NCJ 148825
+Prison and Jail Inmates at Midyear 1996                           pjimy96.htm        NCJ 162843
+Prison and Jail Inmates, 1995                                     pji95.htm          NCJ 161132
+Prison and Jail Inmates at Midyear, 1996                          pji96.htm          NCJ 162843
+Prisoners in 1997                                                 p97.htm            NCJ 170014
+State and Federal Corrections Information systems                 sfcis.htm          NCJ 170016
+Substance Abuse and Treatment, State and Federal Prisoners, 1997  satsfp97.htm       NCJ 172871
+Truth in Sentencing in State Prisons                              tssp.htm           NCJ 170032
+
+
+
+The Federal Justice Statistics Resource Center (FJSRC), created
+by the Urban Institute, provides online access to the BJS
+Federal Justice Statistics Program database about cases
+processed in the Federal criminal justice system.  Through the
+FJSRC website (http://fjsrc.urban.org/) users may interactively
+query the database and download datasets for more detailed
+analysis.  Data for 1993, 1994, 1995 and 1996 are available
+online.
+
+The National Archive of Criminal Justice Data (NACJD) offers an
+interactive data analysis system for selected NACJD studies
+(http://icpsr.umich.edu/NACJD/SDA/das.html). You can produce
+crosstabulations, descriptive statistics, and frequencies or
+subset cases into extracts which can be downloaded for further
+analysis.  Several homicide, victimization and corrections studies,
+as well as the substance abuse and mental health data from ICPSR,
+are available in the data analysis system.
+
+To order these materials --
+
+Contact the BJS Clearinghouse to request information or to order
+publications and products.
+
+Internet:  http://www.ncjrs.org
+
+Mail:   BJS Clearinghouse/NCJRS
+        P.O. Box 179
+        Annapolis Junction, MD 20701
+
+Fax:    1-410-792-4358
+
+Phone:  1-800-732-3277
+
+*  Paper reproductions are $5.00 + $.10 per page
+
+*  Diskettes with spreadsheets are $4.50 (US) and $8.50 (Canada
+and other countries) page.
+
+*  Diskettes with spreadsheets are $4.50 (US) and $8.50 (Canada
+and other countries)
+
+
+Appendix 1.  Trend charts in Key Facts at a Glance
+
+
+Crime trends                                                                                                                   Updated or added
+ Violent crime
+ 
+   Serious violent crime levels declined between 1996          Four Measures of Serious Violent Crime, from the NCVS                  1/99
+   Violent crime declined 7% from 1996 to 1997.                Violent crime rates, NCVS, 1973-97  with midyear 1998                  1/99
+   Homicide rates recently declined to levels last seen
+     before 1970                                               Homicide rates, Vital Statistics, NCHS, 1900-1996                     11/99
+   Rape rates showed no change from 1996 to 1997.              Rape rates, NCVS, 1973-97  with midyear 1998                           1/99
+   Robbery rates declined 7% from 1996 to 1997.                Robbery rates, NCVS, 1973-97  with midyear 1998                        1/99
+   Simple assault rates declined from 1996 to 1997,
+     while aggravated assault rates remained stable.           Assault rates, NCVS, 1973-97  with midyear 1998                        1/99
+   Victims report that juveniles age 12 to 17 committed
+     about one quarter of the serious violent crimes           Perceived age of offender, NCVS, 1973-97                               1/99
+   Property crime rates continue to decline.                   Property crime rates, NCVS, 1973-97  with midyear 1998                 1/99
+   Burglary rates continue a downward trend.                   Burglary rates, NCVS, 1973-97  with midyear 1998                       1/99
+   Theft rates continue to decline.                            Theft rates, NCVS, 1973-97  with midyear 1998                          1/99
+   Motor vehicle theft rates declined from the 1991 peak.      Motor vehicle theft rates, NCVS, 1973-97  with midyear 1998            1/99
+ Crime victim characteristics
+   Serious violent crime rates declined between 1996
+     and 1997.                                                 Violent crime rates by sex, NCVS, 1973-97                             12/98
+   Teens experience the highest rates of violent crime.        Violent crime rates by age group, NCVS, 1973-97                       12/98 
+   The Uniform Crime Reports (UCR) overall homicide
+     rate decline for 1997.  The homicide rate is
+     highest for teens and young adults                        Homicide rates by age, UCR, 1973-97                                   11/98
+   Blacks experience the highest rates of serious
+     violent crime                                             Violent crime rates by race, NCVS, 1973-97                            12/98
+  Arrests
+   The number of arrests for drug abuse violations
+     increased from 1996 to 1997 for both juveniles and
+     adults                                                    Drug arrests by age, UCR, 1970-97                                     11/98
+Trends in Federal investigations and prosecutions
+   The proportion of those convicted in Federal district       Suspects in matters concluded in U.S. district court,
+     court who are sentenced to prison has been increasing      Federal Justice Statistics, 1980-96                                   1/99
+   Of cases concluded in Federal district court in every
+     year since 1989, there have been more drug cases          Suspects in matters concluded in U.S. district court,
+     than other types of cases.                                 offense type, Federal Justice Statistics, 1980-96                     1/99
+Trends in Felony convictions in State courts
+   The number of felony convictions in State court has
+     fluctuate:  A decline from 1992 to 1994 reversed an       Felons convicted in State courts, National Judicial
+     upward trend from 1988 to 1992                              Reporting Program, 1988-94                                           4/97
+   Almost half of the felons convicted in State court are      Felons convicted in State courts by sentence type, 
+     sentenced to prison                                         National Judicial Reporting Program, 1988-94                         4/97
+Corrections
+   The number of adults in the correctional population         Number of persons on probation or parole or incarceration
+     has been increasing                                        in prison or jail, BJS Correctional Surveys, 1980-96                  4/99   
+   Over 40% of the increase in the prison population since
+     1980 is due to an increase in prisoners convicted of      Number of persons incarcerated in prison by conviction 
+     violent offenses.                                          offense, National Prisoner Statistics, 1980-96                        4/99
+   The incarceration rate also has more than tripled since     Number of offenders incarcerated per 100,000 
+     1980.                                                      population, National Prisoner Statistics, 1980-96                     4/99
+   The number of prisoners on death row has been increasing.   Prisoners on death row, Capital punishment, 1953-97                   12/99
+   Since the death penalty was reinstated by the Supreme
+     Court in 1976, white inmates have made up the majority    Prisoners under sentence of death by race,
+     of those under sentence of death.                         Capital punishment, 1953-97                                            1/99
+   In 1998, 68 inmates were executed, fewer than in 1997       Prisoners executed trends, Capital punishment,
+     but higher than in any other year since the mide 1950s      1930-98                                                              1/99 
+Expenditures
+   Direct expenditure for each of the major criminal justice
+     functions (police, corrections, judicial) has been        Direct expenditure by level of government, Expenditure
+     increasing.                                               and Employment  1982-92                                                4/97     
+   States now spend more on criminal justice than              Direct expenditure by level of government, Expenditure        
+     municipalities, counties, or the Federal government       and Employment  1982-92                                                4/97
+            
+------------------------------------------------
+
+
+Appendix 2. Crime & Justice Electronic Data Abstracts                      
+     This appendix lists the spreadsheet files which are available on the BJS website.
+     Users can order them on diskette from the National Criminal Justice Reference Service.
+
+
+               
+
+                                                                                      Date revised    NCJ Number
+Topic and Subject                                                Jurisdiction         or added        for ordering
+                         
+Crime and arrest data                        
+     The number of arrests for violent crimes of
+       juveniles (under age 18) and adults  (age 18 or older),
+       1970-96                                                        National           12/97        NCJ 172776
+     Index offense crimes and arrests, the 90 largest counties,
+       1990-94                                                        Counties                        NCJ 172722
+     Homicide victimization and offending rates of juveniles
+       and young adults, by State, 1976-96, based on the
+       FBI's Supplementary Homicide Reports.                          State               2/98        NCJ 172721
+     Number of homicides and population for cities with      
+       estimated population  100,000 or more, from 1985-96.           Cities              3/98        NCJ 172723
+     Uniform Crime Reports crimes and rates, State-by-State
+       and U.S. totals, 1960-96                                       State & National    2/98        See below
+Demographic                        
+     Location and demographic data including Federal district
+        for all 3,141 counties  and county-like entities
+        in the United States                                          Counties            4/97        NCJ 172801
+Crime, criminal justice and demographic variables                     
+     Selected crime data, as well as data on criminal
+     justice resources,  and demographic variables                    
+        90 most populous counties                                     Counties            4/97        NCJ 172777
+        25 largest cities.                                            Cities              4/97        NCJ 172778
+Criminal justice data                        
+     State and Local law enforcement agencies and employees,
+     by State and type  of agency, 1996                               State               6/98        NCJ 172810
+     Number of full-time sworn law enforcement officers,
+       rate per 100,000 residents, and percent change since
+       1975 in the United States                                      National            3/99        NCJ 175674
+     Case processing data, Federal court districts, 1993              Federal             4/97        NCJ 172807
+     Case processing data, Federal court districts, 1994              Federal             5/98        NCJ 172808
+     Case processing data, Federal court districts, 1995              Federal             6/98        NCJ 172809
+     Case processing data, Federal court districts, 1996              Federal             1/99        NCJ 175718
+
+Corrections    
+    Prisoners executed under civil authority in
+       the United States, by year, Federal, State-by-
+       State, 1977-96                                                 Federal and State  12/97        NCJ 172800
+    Prisoners under State and Federal jurisdiction,
+       Federal  and State-by-State, 1977-96
+      Prisoners sentenced to more than a year                         Federal and State   7/98        NCJ 172779
+      All prisoners                                                   Federal and State   7/98        NCJ 172780
+      Female prisoners                                                Federal and State   7/98        NCJ 172781
+      Male prisoners                                                  Federal and State   7/98        NCJ 172782
+    Prisoners in custody of State or Federal correctional
+       authorities, Federal  and State-by-State
+      Prisoners in custody, 1987-96                                   Federal and State   7/98        NCJ 172783
+      Prisoners sentenced to more than a year                         Federal and State   7/98        NCJ 172784
+      Female prisoners, 1983,1988, 1993                               Federal and State   4/97        NCJ 172785
+      Male prisoners, 1983,1988, 1993                                 Federal and State   4/97        NCJ 172786
+      Prisoners in custody, 1978, 1983, 1988 1993                     Federal and State   4/97        NCJ 172787
+    Sentenced prisoners admitted to State or Federal
+      Jurisdiction, 1977-1996,
+      All prisoners                                                   Federal and State   7/98        NCJ 172788
+      Male prisoners                                                  Federal and State   7/98        NCJ 172789
+      Female prisoners                                                Federal and State   7/98        NCJ 172790
+    New court commitments admitted to State or Federal
+       jurisdiction, 1977-96
+      All inmates                                                     Federal and State   7/98        NCJ 172791
+      Male inmates                                                    Federal and State   7/98        NCJ 172792
+      Female inmates                                                  Federal and State   7/98        NCJ 172793
+    Conditional release violators returned to State or
+       Federal jurisdiction, 1977-96
+      All violators                                                   Federal and State   7/98        NCJ 172794
+      Male violators                                                  Federal and State   7/98        NCJ 172795
+      Female violators                                                Federal and State   7/98        NCJ 172796
+    Jail inmates in custody, by sex, Federal and State
+       1978, 1983, 1988, 1993                                         Federal and State   4/97        NCJ 172797
+    Adults on probation, Federal and State-by-State,
+       1977-96                                                        Federal and State   7/98        NCJ 172798
+    Adults on parole , Federal and State-by-State,
+       1978-96                                                        Federal and State   7/98        NCJ 172799
+    National Corrections Reporting Program                            National
+       Time served in State prison, by offense, release
+        type, sex, and race
+                1993                                                                      3/99        NCJ 175662
+                1994                                                                      3/99        NCJ 175663
+                1995                                                                      3/99        NCJ 175664
+                1996                                                                      3/99        NCJ 175665
+       Sentence length of State prisoners, by offense,
+         admission type, sex,  and race
+                1993                                                                      3/99        NCJ 175666
+                1994                                                                      3/99        NCJ 175667
+                1995                                                                      3/99        NCJ 175668
+                1996                                                                      3/99        NCJ 175669
+         Most serious offense of State prisoners, by offense,
+           admission type, age, sex, race, and Hispanic origin
+                1993                                                                      3/99        NCJ 175670
+                1994                                                                      3/99        NCJ 175671
+                1995                                                                      3/99        NCJ 175672
+                1996                                                                      3/99        NCJ 175673
+
+----------------------------------------------------------------
+
+Uniform Crime Reports crimes and rates, State-by-State and U.S. totals, 1960-96
+
+                         NCJ Number                             NCJ Number                          NCJ Number
+         State           for ordering          State            for ordering         State          for ordering
+
+         Alabama         NCJ 172724           Kentucky          NCJ 172741       North Dakota       NCJ 172758
+         Alaska          NCJ 172725           Louisiana         NCJ 172742       Ohio               NCJ 172759
+         Arizona         NCJ 172726           Maine             NCJ 172743       Oklahoma           NCJ 172760
+         Arkansas        NCJ 172727           Maryland          NCJ 172744       Oregon             NCJ 172761
+         California      NCJ 172728           Massachusetts     NCJ 172745       Pennsylvania       NCJ 172762
+         Colorado        NCJ 172729           Michigan          NCJ 172746       Rhode Island       NCJ 172763
+         Connecticut     NCJ 172730           Minnesota         NCJ 172747       South Carolina     NCJ 172764
+         Delaware        NCJ 172731           Mississippi       NCJ 172748       South Dakota       NCJ 172765
+         Dist. of Col.   NCJ 172732           Missouri          NCJ 172749       Tennessee          NCJ 172766
+         Florida         NCJ 172733           Montana           NCJ 172750       Texas              NCJ 172767
+         Georgia         NCJ 172734           Nebraska          NCJ 172751       Utah               NCJ 172768
+         Hawaii          NCJ 172735           Nevada            NCJ 172752       Vermont            NCJ 172769
+         Idaho           NCJ 172736           New Hampshire     NCJ 172753       Virginia           NCJ 172770
+         Illinois        NCJ 172737           New Jersey        NCJ 172754       Washington         NCJ 172771
+         Indiana         NCJ 172738           New Mexico        NCJ 172755       West Virginia      NCJ 172772
+         Iowa            NCJ 172739           New York          NCJ 172756       Wisconsin          NCJ 172773
+         Kansas          NCJ 172740           North Carolina    NCJ 172757       Wyoming            NCJ 172774
+
+                                        United States, Totals   NCJ 172775
+

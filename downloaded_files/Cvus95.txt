@@ -1,0 +1,2654 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Criminal Victimization in the United States, 1995 
+
+NCJ 171129
+
+---------------------------------------------------------
+Note to readers of the ASCII version:
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from: 
+http://www.ojp.usdoj.gov/bjs/abstract/cvus95.htm.
+
+Earlier editions of printed  reports are available at 
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#ncvs
+---------------------------------------------------------
+
+By Patsy Klaus 
+and Cathy Maston
+BJS Statisticians
+
+U.S. Department of Justice
+Bureau of Justice Statistics
+
+Jan M. Chaiken, Ph.D.
+Director
+
+The text for this report was written by Cheryl Ringel of the
+Bureau of Justice Statistics, under the supervision of Michael
+R. Rand.  Jayne Robinson produced the report.  Christopher
+Laskey, of the Bureau of the Census, produced the tables. 
+Marilyn Marbrook supervised production, assisted by Yvonne
+Boston.
+
+National Crime Victimization Survey data collection and
+processing activities are conducted by the Bureau of the Census,
+under the supervision of Kathleen Creighten and assisted by
+Marilyn Monahan, Patricia Bowles, Edwina Jaramillo, Christopher
+Laskey, Karen Monroe, and Patricia Clark of Crime Surveys
+Branch.  Programming assistance in the Demographic Surveys
+Division was provided by Chris Alaura, Ruth Breads, Mildred
+Strange, David Pysh, Kristen Tokarek, and David Watt, under the
+supervision of Stephen Phillips.
+
+Guidance on technical matters related to this program was
+provided by Marjorie Corlett and Carol Persely, Statistical
+Methods Division, Bureau of the Census under the supervision of
+David Hubble.
+
+Data presented in this report may be obtained from the National
+Archive of Criminal Justice Data at the University of Michigan,
+1-800-999-0960.  The name of the dataset is Criminal
+Victimization in the United States, 1995 (ICPSR 6406).
+
+This report and other reports and data are available from the
+BJS Internet page:  http://www.ojp.usdoj.gov/bjs/
+
+Library of Congress Cataloging in Publication Data
+
+United States.  Bureau of Justice Statistics. Criminal
+Victimization in the United Statistics.
+
+(A National Crime Victimization Survey report:  
+NCJ-162126)
+
+1.  Victims of crime -- United States.
+2.  Crime and criminals -- United States.
+I.  Title  II.  Series
+
+Contents
+
+Subjects and table numbers, iv
+
+Highlights, v
+Chapter 1 - - Introduction
+NCVS-measured crimes
+Crimes not measured
+by the NCVS
+Survey redesign
+Changes to data collection
+Selection of survey participants
+The NCVS questionnaire
+Uses of NCVS data
+
+Chapter II -- Demography 
+of victims
+
+Chapter III -- Victims and 
+offenders
+
+Chapter IV -- Geography
+Chapter  V -- The crime event 
+Chapter VI -- Victims and the 
+criminal justice system 
+
+Appendixes
+
+I.  Survey instrument 
+II. Changes to data reporting 
+procedure
+Reasons for change
+How the change affects
+
+NCVS estimates
+
+III.  Survey methodology
+
+Data collection 
+Sample design and size
+Estimation procedure 
+Series victimization
+Accuracy of estimates
+Computation and application 
+of standard errors
+
+IV.  Glossary
+
+Subject and table numbers
+
+To find tables with data on a subject that interests you, 
+locate the subject in the list and go to the table indicated.
+
+General crime statistics
+Number of victimization, 1
+Victimization rates, 1*
+Ratio of victimization to incidents, 26 
+Series victimization, Appendix, II,
+table 1
+
+Victim characteristics
+Sex, 2*,,4*,6*,8* ,10*, 12*, 13*, 29-31,
+35*, 54* ,69, 71, 75, 79, 80, 92, 93 
+Age, 3*, 4*, 9*, 10*, 29, 35*, 41, 
+47, 69, 75, 79, 96 
+Race, 5*, 6*, 9*, 10*, 15*, 30, 35*, 42, 48, 
+54*, 69, 71, 75, 77-80, 83, 85, 86, 88, 90, 92, 94,103
+Ethnicity,  7*, 8*, 92, 95
+Marital status, 11*, 12*, 31, 35,
+Relationship to household head, 13*
+Annual household income, 14*, 15*, 75, 78, 35*
+Number of years lived at current residence,  50*
+Locality of residence,  52*, 54* Region,  57*
+
+Household characteristics
+Race of head,  16*, 18*, 21*-23*, 55*, 56*, 97, 98, 105
+Ethnicity of head, 17*, 97
+Age of head, 18*, 19*
+Sex of head,  13*
+
+Household income,  20*-23*, 99
+Number of persons in household,  24*
+Tenure, 18*, 56*, 97, 98
+Number of units in structure,  25*
+Number of years lived at current residence,  51*
+Locality of residence,  53*, 55* 
+Region, 58
+
+Crime characteristics
+Time of occurrence, 59, 60
+Place of occurrence, 61-63
+Victim's activity at time of incident, 64
+Distance from home, 65
+Number of victims, 36
+Number of offenders, 37 
+Weapon use, 60, 62, 66 
+Self-protection, 67, 68-74
+Physical force used, 67
+Physical injury, 75, 78-81, 83, 85-88
+Medical expenses, 77
+Medical insurance coverage, 78
+Medical care, 76, 79, 80 
+Agency assistance, 109 
+Value of theft loss, 83, 85, 100
+Economic loss (includes property damage), 81, 83
+Property loss, 84 
+Property recovery, 86
+Days lost from work, 87-90
+Total economic loss to victims, 82
+
+Offender characteristics
+Victim-offender relationship,  27, 28, 29-31, 33, 34, 35*, 37,
+43, 49, 63, 66, 68, 75, 77, 79, 80, 93-95, 104
+Age of single offender,  39, 41
+Race of single offender,  40, 42
+Sex of single offender, 38 
+Age of multiple offenders, 45, 47
+Race of multiple offenders, 46, 48
+Sex of multiple offenders, 44 
+Drug and alcohol use by offenders, 32
+
+Reporting to police
+Whether reported,  91-96, 98-100
+Reasons for reporting, 101
+Reasons for not reporting, 102-105 
+
+Police response, 106, 107, 108
+
+Type of crime
+Crimes of violence,  1, 1*-15*, 26, 27, 28*, 29-32, 33, 34, 35*,
+36-49, 50*, 52*, 54*, 57*, 59, 61, 63-66, 67, 68-74, 76-81, 82,
+83, 84, 87-96, 101-104, 106, 107, 109
+Rape/Sexual assault, 1, 1*-9*, 11*-15*, 26, 27, 28*, 29-32, 33,
+34, 36-40, 42-46, 49, 50*, 52*, 54*, 57*, 59, 61, 63-64, 65, 66,
+67, 68-73, 76, 81, 82, 87-89, 91, 93-96, 101-103, 104, 106, 109
+Robbery, 1, 1*-9*, 11*-15*, 26, 27, 28*, 29-32, 33, 34, 36-49,
+50*, 52*, 54*, 57*, 59-64, 65, 66, 67, 68-77, 79-81, 82, 83, 84,
+85-86, 87-89, 91, 93-96, 101-103, 104, 106, 107, 108, 109
+Assault, 1, 1*-9*, 11*-15*, 26, 27, 28*, 29-32, 33, 34, 35*, 36,
+37, 38-49, 50*, 52*, 54*, 57*, 59-64, 65, 66, 67, 68-77, 79-81,
+82, 83, 87-89, 91, 93-96, 101-103, 104, 106, 107, 108, 109 
+Purse snatching/Pocket picking, 1, 1*-9*, 11*-15*, 26, 50*, 52*, 57*,
+59, 61, 64, 65, 81, 82, 83, 86, 87, 88, 89, 91, 93-96, 101-103,
+106, 107, 108, 109 
+Property crimes, 1, 1*, 16*, 17*, 19*, 20*, 24*, 25*, 51*, 53*, 55*, 56*, 
+58*, 59, 64, 81, 82, 83, 84, 85-88, 89, 90, 91, 97, 98-102, 105-107, 109  
+Household burglary, 1, 1*, 16*, 17*, 19*-21*, 24*, 25*, 51*, 53*, 55*, 
+56*, 58*, 59, 64, 81, 82, 83, 84, 85-88, 89, 90, 91, 97, 98-102, 105, 106-
+107, 109 
+Motor vehicle theft, 1, 1*, 16*-20*, 23*-24*, 25*, 51*, 53*,
+55*, 56*, 58*, 59, 61, 64, 65, 81, 82, 83, 84, 85-88, 89, 90,
+91, 97, 98-102, 105, 106-107, 109 
+Theft, 1, 1*, 16*, 17*, 19*, 20*, 22*, 24*, 25*, 51*, 53*, 55*, 
+56*, 58*, 59, 61, 64, 81, 82, 83, 84, 85-88, 89, 90, 91, 97, 98-102, 
+105-107, 109 Footnote:(Note:  Subject citations refer to ta
+numbers,   not page numbers.
+*Victimization rate table - all other
+counts or percents.)
+ 
+--------------------------------------------------------------------
+Highlights
+
+Overall victimization
+
+During 1995 residents of the  U.S. were victims of almost 10 million 
+violent victimizations and over 28 million property crimes. 
+Property crimes accounted for almost three-quarters of all
+victimizations in 1995 (figure 1). 
+
+* Translated into the rate of crimes per 1,000 persons, there
+were 45 violent victimizations per 1,000 people age 12 or older.
+
+              Number of victimizations
+              per 1,000 person
+              12 or older
+ 
+Rape                    1
+Robbery                 5
+Aggravated assault      9
+Simple assault         29
+ 
+*  The rate of 280 property crimes for every 1,000 households
+included 47 burglaries, 16 motor vehicle thefts, and 216 thefts. 
+
+*  In about 23% of all robberies and assaults, the victim
+sustained an injury.
+
+*  Female victims of assault were more likely than male victims
+to sustain an injury.
+
+*  71% percent of violent crimes were attempted crimes, while
+29% were completed crimes. 
+
+Sex, race, and age of victims
+
+*  About 1 in 20 males and 1 in 28 females were a victim of
+violent crime, as were 1 in 24 whites and 1 in 18 blacks.
+
+*  Those between ages 16 and 19 experienced the highest rates of 
+aggravated assault and rape or sexual assault, as well as the
+highest rate of injury from an aggravated assault. 
+
+Victims and offenders 
+
+*  Robbery and aggravated assault were more likely to be committed 
+by a stranger to the victim; rape and simple assault, by someone 
+whom the victim knew (figure 2).
+
+*  45% of rapes/sexual assaults and 35% of simple assaults
+involved relatives or individuals well known to the victim. 
+
+*  Completed aggravated assaults were most often committed by
+nonstrangers. 
+
+*  Females were victims of violence by relatives at more than 
+twice the rate of males (6 violent victimizations by a relative 
+per 1,000 females versus 3 per 1,000 males) (figure 3).
+
+Geography
+
+*  In each region -- Northeast, Midwest, South, and the West --
+households in urban areas had the highest rates for property
+crimes in general, followed by households in suburban areas. 
+Rural households had the lowest rate of property crimes.
+
+*  The robbery rate, as well as the rate of motor vehicle theft,
+was 4 times
+
+higher for those residing in cities than for those in rural
+areas.
+
+*  The West had the highest victimization rates for both violent
+and property crimes overall.  
+
+The crime event
+
+*  Overall, most violent crime occurred during the day.  Simple
+assault, the most prevalent violent crime, followed the same
+pattern.
+
+*  Completed violent crime, rape/sexual assault, robbery and
+completed robbery with injuries were more likely to occur at
+night.
+
+*  About half of property crimes occurred during the day.  Motor
+vehicle theft and thefts valued over $250 were more likely to
+take place after dark.
+
+*  26% of all violent incidents occurred in or near the victim's home. 
+73% took place within 5 miles of the victim's home.  Only 4% took place 
+more than 50 miles from home. 
+
+*  29% percent of all violent crime victims believed the
+offender (or offenders) were under the influence of drugs or alcohol 
+at the time of the offense -- 18% under influence of alcohol only, 
+6% drugs only, and 5% both alcohol and drugs.
+
+*  35% of all crimes measured by the NCVS -- 42% of violent
+crimes and 74% of motor vehicle thefts -- were reported to the
+police, according to the victims. 
+
+Trends in violent crime 1993-95
+
+*  The 1995 rate of violent crime was lower than in 1993 and
+1994.  Specifically, the crimes of rape/sexual assault, and
+aggravated assault showed significant declines between 1993 and
+1995.
+
+*  The 1993-95 decline in violent crime applied to victims
+whether they were white or black; male or female. 
+
+*  For black victims, the decline in violent crimes was gradual,
+with no significant year-to-year differences -- though 1995 was
+significantly lower than 1993.
+
+*  The overall rate of property crime declined significantly
+between 1993-94 and 1994-95.
+
+*  The rate of motor vehicle theft did not show significant
+decline each year, but did decrease over the period 1993-95.
+--------------------------------------------------------------
+
+Chapter I
+Introduction
+
+NCVS-measured crimes
+
+Crimes not measured
+by the NCVS           
+Survey redesign     
+Changes to data collection 
+Selection of survey participants 
+The NCVS questionnaire      
+Uses of NCVS data       
+
+Uses of NCVS data
+
+NCVS data have informed a wide audience concerned with crime and
+crime prevention.  Researchers at academic, government, private,
+and nonprofit research institutions use NCVS data to prepare
+reports, policy recommendations, scholarly publications,
+testimony before Congress, and documentation for use in courts. 
+Community groups and government agencies use the data to develop
+neighborhood watch and victim assistance and compensation
+programs.  Law enforcement agencies use NCVS findings for
+training.  The data appear in public service announcements on
+crime prevention and crime documentaries.  Finally, print and
+broadcast media regularly cite NCVS findings when reporting on a
+host of crime-related topics.
+
+Introduction
+
+NCVS-measured crimes
+
+The National Crime Victimization Survey (NCVS) is one of two
+Justice Department measures of crime in the United States.  Data
+are collected every year from a sample of approximately 45,000
+households with about 94,000 individuals age 12 or older. 
+
+Victimization is categorized as personal or property crimes. 
+Personal crimes, including attempts, involve direct contact
+between the victim and offender and includes the crime of rape,
+sexual assault, robbery, assault, pocket picking, and purse
+snatching. Property crimes do not involve personal confrontation
+and include household burglary, theft, and motor vehicle theft.
+
+Because crime victims are asked directly about crime, crimes are
+measured whether or not they were reported to the police.  No
+attempt is made to validate reported crimes by checking them
+against other sources of criminal data, such as police records.
+
+Crimes not measured by the NCVS
+
+The NCVS does not measure murder, kidnaping, or crimes against
+commercial establishments such as commercial burglary and
+robbery.  (Murder is not measured by the NCVS because of the
+inability to question the victim.) Crimes such as public
+drunkenness, drug abuse, prostitution, illegal gambling, con
+games, and blackmail are also excluded.
+
+Sometimes people are not aware they have been victims of a
+crime, making such crimes difficult to measure accurately. 
+Buying stolen property and embezzlement are examples of this
+type of crime.  In addition, many attempted crimes of all types
+are probably underreported because victims were not aware of
+their occurrence.
+
+Survey redesign
+
+This report presents data from the redesigned National Crime
+Victimization Survey.  The redesigned methodology, introduced in
+1992, presented a new crime screening procedure and incorporated
+other improvements into the survey.  More information concerning
+the redesign and its effect on the estimation of victimization
+can be found in the 1993 and 1994 volumes of this series
+(NCJ-151657 and NCJ-162126 respectively).
+
+Changes to data collection
+
+The estimates presented in this report will correspond with 1995
+estimates presented in the  BJS Bulletin Criminal Victimization
+1996: Changes 1995-96 with Trends 1993-96.  Beginning with the
+1996 bulletin, all NCVS reports will be based on data collected
+in interviews conducted during the calendar year being estimated.
+Previous reports presented estimates based on crimes  
+occurring during a given calendar year.  This change was
+implemented to enable more timely publication of the initial
+release of NCVS data. Because of the retrospective nature of the
+survey, (respondents recall and report incidents occurring
+during the previous 6 months), the two methods will produce
+slightly different estimates.  This change is discussed in
+detail in  appendix II.
+
+Selection of survey participants
+
+The survey collects its data from a nationally representative
+sample of individuals age 12 or older living in U.S. households.
+Basic demographic information such as age, race, sex, and
+income, is collected to enable analysis of victimization of
+various subpopulations.  Interviews are translated for
+non-English speaking respondents.  
+
+Each month the U.S. Bureau of the Census selects respondents for
+the NCVS using a "rotating panel" design. Households are
+randomly selected, and all age-eligible individuals in a
+selected household become part of the panel.  Once in the
+sample, respondents are interviewed every 6 months for a total
+of seven interviews over a 3-year period.  The first and fifth
+interviews are face-to-face; the rest are by telephone when
+possible.  After the seventh interview the household leaves the
+panel, and a new household is rotated into the sample. The
+interview takes about « hour. The NCVS has consistently obtained
+a response rate of about 95%.
+
+The NCVS questionnaire
+
+The NCVS questionnaire does more than simply ask participants if
+they have been victimized by crime.  A screening section
+provides respondents with a series of detailed questions and
+cues on victimization and the situations within which crimes may
+take place.  If any screening question elicits a positive
+response to a crime within the scope of the survey, interviewers
+collect details about the victimization in an incident report.  
+
+The screening section describes crimes in simple language,
+avoiding technical or legal terms such as aggravated assault. 
+Attempting to elicit an accurate account, interviewers provide
+respondents with detailed features that may characterize a
+criminal incident, such as offender behavior, crime location and
+whether the offender was a stranger, acquaintance, or relative. 
+If a feature produces a positive response, details on the
+incident are gathered.    When NCVS data are processed, incident
+report data are classified by elements necessary to define the
+incident as a crime. If an incident does not satisfy these
+criteria, it is not counted as a crime.
+
+Chapter II
+Demography of victims
+
+Victimization levels and rates --          
+personal and property crimes             
+
+1  Number, percent distribution, and rate of victimizations, 
+   by type of crime
+
+Characteristics of personal crime victims
+
+Sex, age, race, and ethnicity 
+Victimization rates for persons age 12 and over -- 
+2   By type of crime and sex of victims    
+3   By type of crime and age of victims  
+4   By sex and age of victims and type of crime
+5   By type of crime and race of victims      
+6   By type of crime and sex and race of victims
+7   By type of crime and ethnicity of victims 
+8   By type of crime and ethnicity and sex of victims      
+9   By race and age of victims and type of crime
+10  By race, sex, and age of victims and type of crime
+
+Marital status  
+Victimization rates for persons age 12 and over - - 
+11  By type of crime and marital status of victims
+12  By sex and marital status of victims and type of crime
+
+Household composition 
+
+13  Victimization rates for persons age 12 and over, by sex of
+head of household, relationship of victims to head, and type of
+crime.
+
+Income 
+
+Victimization rates for persons age 12 and over - -     
+14  By type of crime and annual household income of victims 
+15  By race and annual family income of victims and type of crime 
+
+Characteristics of property crime victims
+
+Race, ethnicity, and age
+Number of victimizations and victimization rates - -
+16  By type of crime and race of head of household
+17  By type of crime and ethnicity of head of household 
+18  On the basis of thefts per 1,000 households and of thefts
+    per 1,000 vehicles owned, by selected household characteristics
+
+19  Victimization rates by type of crime and age of head of
+    household 
+
+Annual household income 
+Victimization rates--
+20  By type of crime and annual family income
+21  By race of head of household, annual family income, and type
+    of household burglary
+22  By race of head household, annual family income, and type
+    of theft
+23  By race of head of household, annual family income, and
+    type of motor vehicle theft
+
+Household size
+Victimization rates by type of crime -- 
+24  And number of persons in household
+25  And number of units in structure occupied by household
+
+Demography of victims
+
+Characteristics of personal 
+crime victims
+
+Personal crime includes rape, sexual assault, robbery, assault,
+and purse snatching or pocket picking.
+
+Victimization rates are measures of the frequency of crime in
+the Nation's population or subgroups of the population.  Rates
+are computed by dividing the number of victimizations occurring
+in a specific population by the number of persons in that
+population.  The NCVS has consistently shown that criminal
+victimization does not occur at the same rate for all subgroups.
+For example, victimization rates for personal crimes of
+violence tend to be relatively high for people who are male,
+black, poor, or young.
+
+Victimization levels and rates
+
+*  Victims sustained just over 9.5 million violent crimes in
+1995.
+
+*  In terms of crime rates per 1,000 persons age 12 or older,
+there were 1 rape, 5 robberies, and 9 aggravated and 29 simple 
+assaults.
+
+Sex, age, race, and ethnicity
+
+*  Except for rape and sexual assault, males were more likely
+than females to be victims of violent crime (figure 4 and table 2).
+
+*  71% of violent crimes were attempted while 29% were completed. 
+The percentage of violent crimes that were attempted versus completed 
+differed for males and females (figure 5).
+
+Demography of victims
+
+*  Males were twice as likely as females to be the victims of
+robbery and aggravated assault.
+
+*  In general, as age increases, the likelihood of victimization
+decreases.
+
+Persons age 16-19 had the highest rates compared to most other
+age groups for aggravated assault and rape and sexual assault
+(table 3).
+
+*  For assault overall, simple assault, and completed violent
+crime, persons age 12-15 had rates similar to those persons age
+16-19; these rates were higher than any other age group.
+
+*  Blacks sustained higher rates of violent victimization
+overall. Blacks were 3 times as likely as whites to be the
+victims of robbery (table 5).
+
+*  There was no significant difference between the races for
+simple assault.  However,  blacks were significantly more likely
+than whites to experience aggravated assaults (figure 6).
+
+*  Blacks were twice as likely as whites to be a victim of
+completed violent crime. (figure 7).
+
+*  Persons of Hispanic origin were more likely to be victims of 
+violent crime in general, and robbery and aggravated assault in
+particular, than were non-Hispanics (table 7).
+
+*  Hispanics and non-Hispanics were not significantly different
+in their vulnerability to rape, sexual assault, and simple assault.
+
+Marital status
+
+*  Persons who had never married had the highest rate of violent
+crimes, followed by divorced or separated individuals.  Widowed
+persons had the lowest rate of violent crime (table 11).
+
+*  Compared to married persons, those who had never married were 
+5 times as likely to be victims of robbery and 4 times as likely
+to be victims of aggravated or simple assault. 
+
+*  Divorced or separated and widowed males and females
+experienced violent crime at the same rate.  Every other marital
+category presents significantly higher rates for males than females 
+(table 12 and figure 8).         
+
+Characteristics of property crime 
+victims                                                     
+
+Property crimes consist of completed or attempted burglary,
+theft, and motor vehicle theft committed against a household. 
+Victimization rates are calculated using the number of incidents
+per 1,000 households.  In general, renters, larger households,
+and households headed by blacks, Hispanics, and younger persons
+had higher property crime victimization rates.
+
+Victimization levels and rates
+
+*  More than 28 million property crimes -- three-fourths of all
+NCVS recorded crimes -- were committed against U.S. households
+in 1995.
+
+*  There were about 5 million burglaries, 1.5 million motor
+vehicle thefts, and 22 million thefts in 1995.
+
+* Rates of U.S. property crimes, 
+1995:
+ 
+              Number of victimization
+              per 1,000 households
+ 
+Burglary                    47
+Motor vehicle theft         16
+Theft                      216
+ 
+*  When loss was reported, the majority of thefts involved
+losses of less than $250.  Over a third involved losses below
+$50 (figure 9).
+
+Race, ethnicity, and age
+
+*  Households headed by whites experienced significantly lower
+rates of theft, burglary, and motor vehicle theft compared to
+households headed by blacks (table 16).
+
+*  Households headed by blacks were nearly 3 times as likely as
+white households to be victimized by completed motor vehicle
+theft.
+
+*  For each property crime measured by the NCVS, Hispanics had
+significantly greater rates than non-Hispanics (table 17).
+
+* The rate of motor vehicle theft was almost twice as high for
+Hispanic households (27.8) as for non-Hispanic households (15.3
+per 1,000) (figure 10).
+
+*  Property crime rates generally declined as the age of the
+head of the household increased (table 19).
+
+Annual household income
+
+*  Generally, higher income households were victimized by
+property crimes at greater rates than the lowest income
+households (table 20). 
+
+*  Higher income households had  higher rates of theft but lower
+rates of burglary than lower income households (figure 11). 
+
+Household size
+
+*  As household size increased, rates of victimization also
+increased.  Households with 6 or more members had a rate of 
+571 property crimes per 1,000 households.  The rate for 
+households with 2 or 3 members was 268 (table 24).
+
+Chapter III
+Victims and offenders
+
+Incidents versus victimizations
+26   Number of incidents and victimizations and ratio of 
+     victimizations to incidents, by type of crime
+
+Victim-offender relationship--
+27   Number and percent distribution of incidents, by type of crime           
+     and victim-offender relationship 
+28   Number of victimizations and victimization rates for persons age 
+     12 and over, by type of crime and victim-offender relationship
+
+Percentage of victimizations involving strangers --
+29   By sex and age of victims and type of crime
+30   By sex and race of victims and type of crime
+31   By sex and marital status of victims and type of crime
+
+Drug and alcohol use by offenders
+32   Percentage of victimizations, by perceived drug 
+     or alcohol use by offender
+
+Family violence--
+33   Number of victimizations, by type of crime and relationship
+     to offender
+34   Percentage of victimizations, by type of crime and relationship 
+     to offender
+35   Victimization rate by victim-offender relationship, by type
+     of crime and selected victim characteristics
+
+Number of victims in violent crimes
+36   Percentage of incidents, by type of crime and number of
+     victims 
+
+Number of offenders in violent crimes
+37   Percentage of incidents, by victim-
+     offender relationship, type of crime, 
+     and number of offenders
+
+Characteristics of offenders in-- 
+Single-offender victimizations
+Percentage of single-offender victimizations
+38    By type of crime and perceived sex of offender
+39    By type of crime and perceived age of offender
+40    By type of crime and perceived race of offender
+
+41    By type of crime, age of victims, and perceived age of offender
+42    By type of crime, race of victim and perceived race of offender
+43    By type of crime and detailed victim-offender relationship
+
+Characteristics of offenders in-- 
+Multiple-offender victimizations
+Percentage of multiple-offender victimizations --
+44    By type of crime and perceived sex of offenders
+45    By type of crime and perceived age of offenders
+46    By type of crime and perceived race of offenders
+47    By type of crime, age of victims, and perceived age of offenders
+48    By type of crime, race of victims, and perceived race of offenders
+49    By type of crime and detailed victim-offender relationship
+
+Victims and offenders
+
+Victim-offender relationship
+
+The NCVS gathers information from victims about their
+relationship to the offender.  Based on this information,
+victimizations may be classified as having been committed by a
+stranger or nonstranger.  Appendix IV: Glossary contains
+information about classifying crimes as involving strangers and
+nonstrangers.
+
+*  The offender was more likely to be a stranger than a nonstranger in 
+robberies and aggravated assaults.  Rapes/sexual assaults and
+simple assaults were more likely to be committed by nonstrangers
+(table 27).
+
+                   Percent of victimiza-
+Type of crime      tions by a stranger
+ 
+Violent crime                51%
+Rape/sexual assault          30
+Robbery                      78
+Assault                      49
+Aggravated                   56
+Simple                       46
+
+
+*  Males were more likely than females to be victimized by
+strangers (table 29).
+
+*  Whites were more likely than blacks  to be victimized by
+strangers (table 30).
+
+Characteristics of offenders
+
+Victims were asked to describe various characteristics of the
+offenders.  The following descriptions of drug use, age, sex,
+and race are based on victim perceptions of the offenders.
+
+Drug and alcohol use by offenders 
+
+*  29% of all violent crime victims believed that the offender
+was under the influence of drugs or alcohol at the time of the
+offense (table 32 and figure 12).
+
+                   Violent victimizations
+                   in which the victim
+                   perceived the offender-
+Using drugs
+or alcohol                   29%
+ 
+Not using drugs
+or alcohol                   29%
+ 
+Alcohol only               17.7%
+Drugs only                  5.5
+Either                      1.1
+Both                        4.7
+ 
+Didn't
+Know                         42%
+
+* Offenders were most likely to be under the influence of
+alcohol or drugs for rape/sexual assault, and least likely for
+robbery.
+
+Family violence
+
+Family violence encompasses crime against a family member. 
+These tables combine victimizations committed by one offender
+and by multiple offenders.  When classifying  the
+multiple-offender crimes, the relationship of the offender who
+was closest to the victim is used.  (See  Appendix IV: Glossary
+for the definition of multiple offenders.)
+
+*  Family violence accounted for 9% of all violent crimes,
+including 12% of completed crimes and 8% of attempted crimes.
+
+*  About 89% of the violent crimes committed by relatives were
+assaults -- 71% were simple assaults, and 18%, aggravated
+assaults (table 33).
+
+*  Victims' relatives committed 12% of all rapes/sexual
+assaults, 5% of all robberies, and 10% of all assaults (table 34).
+
+*  A victim's current or former spouse was the offender in 52%
+of the nearly 900,000 crimes occurring between relatives. 
+
+*   When violence occurred between family members, the victim's
+current spouse was more likely to be the offender than an ex-spouse, 
+parent, or child (figure 13).
+
+                                Percent of family violence, by type of crime
+                                and relationship to offender
+                      Number  Spouse  Ex-spouse  Parent  Child  Other
+ 
+Violent crime        876,530   38.0%    14.3%      9.8%   7.9%  30.0%
+Completed             345960   51.6      7.1      11.2    4.8   25.3
+Attempted            530,580   29.2     19.0       8.9    9.9   33.0
+Rape/sexual assault   40,840   49.6     10.6      29.2    0.0   10.6
+Robbery                53430   44.6     17.2       3.3    7.4   27.4
+Completed             38,080   56.5      7.1       4.6    0.0   31.8
+Attempted              15340   15.3     42.4       0.0   25.8   16.6
+Assault              782,270   37.0     14.3       9.3    8.3   31.1
+Aggravated           160,280   35.1      7.9       1.9    7.1   48.0
+Simple               621,990   37.5     15.9      11.2   86.0   26.8
+
+*  6 in 1,000 women and 3 in 1,000 men were victims of violent crime 
+by relatives (table 35).
+
+*  Victimization by a family member or by a stranger accounted
+for about the same proportions of violence experienced by white
+and black victims.  
+
+ *  Blacks were about twice as likely as whites to be a victim
+of violent crime by an offender well known to them.  Blacks were
+also more likely than whites to be victimized by casual
+acquaintances (figure 14).
+
+*   Divorced or separated victims were the most likely to
+experience violent crime by relatives.  Those who had never
+married were the most likely to experience victimization by a
+stranger.
+
+Number of victims in violent crimes
+
+*  93% of all violent crimes involved a single victim.  In just
+over 5% of violent crimes there were two victims.  Three or more
+persons were victims together in less than 2% of violent
+victimizations (table 36).
+
+Number of offenders in violent crimes
+
+*   A  lone offender committed over 3/4 of violent crimes.
+Robbery was the crime most likely to involve two or more
+offenders -- 41% of all robberies (table 37). 
+
+*   Violent crimes committed by strangers were more likely to
+involve multiple-offenders than crimes committed by nonstrangers.
+
+Characteristics of offenders
+
+Single-offender victimization 
+
+*  34% of the offenders in single-offender violent crimes were
+perceived to be between the ages of 12 and 20.  Twenty-six
+percent were between 21 and 29 and 37%, 30 or older. ( Three
+percent were of unknown age.) (table 39)
+
+*   In a majority of single-offender violent crimes, the
+offender was white (63%).  This was true for aggravated assault
+-- 60%, white offenders; and rape/sexual assault -- 69%, white
+offenders.  A majority of offenders in robbery were black (53%)
+(table 40).
+
+*   Most violent crime was intraracial.  72% of all
+single-offender violent crimes against whites were committed by
+whites.  82% of single offender violent crimes against blacks
+were committed by blacks (table 42 and figure 15).
+
+Race of offender, by race of victims of violence offenders
+ 
+                             Race of offender
+Race of victim        Total   Black    White    Other
+Black                 100%    82.3%    12.4%     4.3%
+White                 100     18.1     72.3      7.9
+
+*   The offender was a stranger in 45% of all violent victimizations by 
+lone offenders.  Of the other 54% of lone offender crimes where the 
+victim knew the relationship, 23% were individuals well known to the victim, 
+20% were casual acquaintances and 12% were relatives (table 43).
+
+Multiple-offender victimization
+
+*  In multiple-offender victimizations, most frequently the
+offenders were all perceived to be between ages 12 and 20 (table
+45).
+
+*   For all violent crime, victims were more likely to report
+multiple-offenders as all white than as all black.  For robbery
+the offenders were more likely to be reported as all black, and
+for assault the offenders were more likely to be reported as all
+white (table 46).
+
+*   Multiple-offender violent crimes were mostly intraracial. 
+Forty-four percent of white victims reported the offenders to be
+white, and 73% of black victims reported only black offenders. 
+However,  robbery by multiple-offenders most often involved
+black offenders regardless of the race of the victim (table 48).
+
+*   In 74% of multiple-offender violent crimes, the offenders
+were strangers to the victim.  Twelve percent of these  crimes 
+involved offenders who were casual acquaintances of the victims 
+and 11%, well-known but not related acquaintances.  Relatives were 
+the offenders in 2% of multiple-offender violent crimes (table 49).
+
+Chapter IV
+Geography
+
+Number of years at current residence
+Victimization rates --
+50   For persons age 12 and over, by type of violent crime and
+     number of  years lived at current residence
+51   By type of property crime and number of years lived at current            
+       
+     residence
+
+Locality of residence
+Victimization rates --
+52   For persons age 12 and over, by type of personal crime and
+     locality of  residence of victims
+53   By type of property crime and locality of residence
+54   For persons age 12 and over, by locality  of residence,
+     race, sex, and ethnicity of victims, and of personal
+     crime
+55   By locality of residence, race of head of household, and
+     type of property crime
+56   By type of property crime, whether the home was owned or
+     rented, race of head of household, and locality  of residence
+
+Region
+Victimization rates --
+57   For persons age 12 and over, by type of personal crime,
+     region, and locality of residence
+58   By type of property crime, region, and locality of residence
+
+Geography
+
+Locality of residence
+
+*  The rate of violent victimizations in urban areas was higher
+than that in suburban areas; the rate in suburban areas was
+higher than that in rural areas (table 52).
+
+*  Violent crime victimization rates for black and white males
+were not significantly different in urban, suburban, and rural
+areas (table 54 and figure 16).
+
+*  In urban and suburban areas black females had higher rates of
+violent crime than white females.  Among urban females, blacks
+were almost twice as likely as whites to be a victim of violent
+crime (68 per 1,000 versus 
+
+39 per 1,000).
+
+*   Households in urban areas had the highest rates of property
+victimization, followed by those in suburban areas and rural
+areas (table 53).
+
+*  For household theft and motor vehicle theft urban households
+had the highest victimization rates and rural households had the
+lowest.
+
+*  Urban households had a higher rate of burglary than rural and
+suburban households (figure 17). 
+
+ *   Households headed by a white or black in rural areas
+experienced the same rates of overall property crime, burglary,
+motor vehicle theft, and theft.
+
+*   In suburban areas black households had higher victimization
+rates than white households for property crime overall, for
+burglary and motor vehicle theft.  In urban areas rates for
+black households were slightly higher for burglary, and
+significantly higher for motor vehicle theft.
+
+*   Theft is the only property crime that showed no significant
+difference between white and black households regardless of
+urban, suburban, or rural area.
+
+Region
+
+*  By region of the United States, the West had the highest
+rates of property and violent crimes (tables 57 and 58).
+
+*   In each region -- Northeast, Midwest,  and West --
+households in urban areas had the highest victimization rates
+for violent as well as property crimes   (figure 18).  In the
+South there was no significant difference in violence rates
+between urban and suburban areas.
+
+Chapter V
+The crime event
+
+Time of occurrence
+Percent distribution of incidents --
+59   By type of crime and time of occurrence
+60   By type of crime, type of offender, and time of occurrence    
+
+Place of occurrence
+Percent distribution of incidents --
+61   By type of crime and place of occurrence
+62   By type of crime, type of offender, and place of occurrence
+63   By victim-offender relationship, type of crime, and place of occurrence
+65   By distance from home and type of crime
+
+Victim activity
+64   Percent distribution of incidents, by victim's activity at  
+     time of incident and type of crime Use of weapons
+66   Percent of incidents, by victim-offender relationship, 
+     type of crime, and  weapons use
+
+Victim self-protection
+67   Percent distribution of violent crime victimizations by 
+     who was first to use or threaten to use physical force 
+
+Percent of victimization in which victims took self-protective
+measures --    
+68   By type of crime and victim-offender relationship
+69   By characteristics of victims and type of crime
+
+Percent distribution of self-protective measures employed by
+victims --
+70   By type of measure and type of crime
+71   By selected characteristics of victims
+72   Percent of victimizations in which self-protective measures were 
+     employed by persons taking the measure, outcome of action, and 
+     type of crime
+
+Percent distribution of victimizations in which 
+self-protective measures were taken by the victim --
+73    Were helpful
+74    Were harmful
+
+Physical injury     
+
+75   Percent of victimizations in which victims sustained physical injury 
+     by selected characteristics of  victims and type of crime
+76   Percent distribution of victims receiving medical care, by type of crime 
+     and where care was received
+77   Percent of victimizations in which victims incurred medical expenses, 
+     by selected characteristics of victims and type of crime
+
+Percent of victimizations --
+78   In which injured victims had health insurance coverage or were 
+     eligible for public medical services by selected characteristics 
+     of victims
+79   In which victims received hospital care, by selected characteristics 
+     of victims and type of crime
+80   Percent distribution of victimizations in which injured victims 
+     received hospital care, by selected characteristics of victims, 
+     type of crime, and type of hospital care
+ 
+Economic loss  
+81   Percent of victimizations resulting in economic loss, by type 
+     of crime and type of loss
+82   Total economic loss to victims of crime
+
+Percent distribution of victimizations resulting in --   
+Economic loss, from property loss or damage, by type of crime and value of
+loss
+84   Theft loss, by type of crime and type of property stolen
+85   Theft loss, by race of victims, type of crime, and value of loss
+86   Theft loss, by race of victims, type of crime, and proportion of 
+     loss recovered
+
+Time lost from work
+Percent of victimizations resulting in loss from work --
+87    By type of crime
+88    By type of crime and race of victims
+89    By type of crime and number of days lost
+90    By race of victims, type of crime, and number of days lost
+
+The crime event
+
+Time of occurrence
+
+*  Overall, violent crime occurred more often during the day than at night.  
+The time of occurrence varied by type of crime (table 59).
+
+*  Simple assault, the most prevalent violent crime, was more likely to 
+occur from 6 a.m. to 6 p.m.  
+
+*  Robbery and completed robbery with injuries were more likely
+to occur at night.
+
+*  Robbery was 3 times more likely to occur between 6 p.m. and 
+midnight than between midnight and 6 a.m.
+
+*  Property crimes occurred about equally between day versus night.  
+Motor vehicle theft and thefts were more likely to occur at night.
+
+Place of occurrence
+
+*  19% of violent incidents occurred on a street away from the 
+victim's home. This included 39% of all robberies and 53% of 
+robberies in which the victim suffered an injury (table 61).
+
+ *  26% of all violent incidents occurred in or near the victim's 
+home. 74% took place within 5 miles of the victim's home.  Only 
+4% took place more than 50 miles from home (tables 61 and 65). 
+
+*  27% of motor vehicle thefts occurred near the victim's home 
+(such as in a driveway), and another 18% occurred on the street near 
+the victim's home.  30% of motor vehicle thefts occurred in a parking 
+lot or garage.
+
+*   14% of violent crimes occurred inside a school building or
+on school property.
+
+*   Half of armed robberies took place on the street away from
+the victim's home.  Nine percent of armed robberies took place
+at or in the victim's home (table 62).
+
+*   30% of violent crimes involving a stranger took place on the
+street away from the victim's home, and 14% took place in, near,
+or on the street near the victim's home.  Conversely, 39% of the
+crimes committed by nonstrangers took place in or near the
+victim's home and 8% on the street away from home (table 63).
+
+Victim activity
+
+*   23% of victims of violence reported taking part in a leisure
+activity away from home, such as patronizing a restaurant or
+nightclub, when the crime occurred (table 64).
+
+*  Property crime victims were more likely to be home sleeping
+than doing any other type of activity when the crime occurred. 
+This was true for 21% of all property crimes and 43% of all
+motor vehicle thefts.
+
+Use of weapons
+
+*   According to the victims, offenders used a weapon in 24% of
+violent crimes overall, 5% of rapes/sexual assaults, and 51% of
+robberies (table 66).
+
+*   Weapons were more likely involved in a violent crime when
+the offender was a stranger to the victim, rather than a
+nonstranger.  For overall crimes of violence, strangers were
+twice as likely as nonstrangers to use a weapon (figure 19).
+
+*  Firearms were the most prevalent type of weapon.  Firearms
+were used in 9% of all violent crimes and in 39% of all incidents
+involving a weapon (figure 20).
+
+Victim self-protection
+
+*   84% of victims reported that the offender was the first one
+to use force in violent crime incidents where force was used. 
+For overall violent crime, the offender was more likely than the 
+victim to have been the first to use force (table 67).
+
+*  Victims took self-protective measures in 71% of all violent
+crimes, 73% of rapes and sexual assaults, 62% of robberies, and
+72% of assaults (table 68).
+
+*   Victims were more likely to take protective measures against
+offenders who were nonstrangers.
+
+*  The likelihood of a victim taking self-protective measures
+did not vary significantly based on a victim's sex or race.
+
+*   Victims age 65 or older were significantly less likely to
+use self-protective measures than younger victims (table 69).
+
+*  Female victims of violent crime were less likely than males
+to protect themselves by attacking an offender without having a
+weapon, or by resisting or capturing the offender.  Females were
+more likely than males to get help or give an alarm as well as
+to warn scare off the offender (table 71).
+
+*  Violent crime victims were more likely to report that a
+protective measure they had taken helped the situation more than
+a measure taken by someone else (table 72).
+
+*  In about half the cases, victims reported that measures of
+self protection that had been taken helped them to avoid injury
+or greater injury (table 73).
+
+Physical injury
+
+*  Females were more likely than males to sustain injuries in
+assaults (26% versus 19% respectively), but not in robberies
+(table 75).
+
+*  Blacks were more likely than whites to sustain injuries in
+assaults and robberies.
+
+*  Victims who knew the offender were more likely than victims
+of strangers to be injured during an assault or robbery.
+
+*  Victims treated for injury received medical care most often
+at a hospital emergency room or emergency clinic (31%) or at
+their own home or a neighbor or friend's home (30%) (table 76).
+
+*  Of the injured victims receiving medical care, 69% reported
+having health insurance coverage (table 78).
+
+*  In 4% of all victimizations, the victim received hospital
+care.  Black victims were more likely to receive hospital care
+than white victims (table 79).
+
+Economic loss
+
+*   In 15% of all violent crimes victims experienced economic
+loss.  Ninety-five percent of all property crimes resulted in
+economic loss from theft or damage of property (table 81).
+
+*  Crime cost victims approximately $18.3 billion in 1995. 
+Included in this cost were the victim's estimates of the value
+of stolen property, the cost to repair or replace damaged
+property, medical expenses, and lost wages due to injuries,
+police-related activities, court-related activities, and time
+spent repairing or replacing damaged property (table 82).
+
+*   30% of all personal crimes resulted in economic loss under
+$50.  In 15% of all violent crimes and 17% of all property crimes the
+economic loss to the victim was over $500 (table 83).
+
+Time lost from work
+
+*   In 7% of violent crimes and 6% of property crimes, victims
+lost time from work (table 87).
+
+*  Robberies and aggravated assaults were equally likely to
+necessitate a loss of time from work -- time lost for simple
+assaults was less likely.
+
+*  In 51% of the violent victimizations that resulted in time
+lost from work, the victims were away from work between 1 and 5
+days.  An additional 26% lost less than 1 day of work due to
+violent victimization (table 89 and figure 21).
+
+Chapter VI
+Victims and the criminal
+justice system
+
+Police reporting
+91   Percent distribution of victimizations, by type 
+       of crime and whether reported to the police
+
+Percent of victimizations reported to the police --
+92    By selected characteristics of victims and type of crime
+93    By type of crime, victim-offender relationship, and sex of victims
+94    By type of crime, victim-offender relationship, and race of victims
+95    By type of crime, victim-offender relationship, and ethnicity of victims
+96    By type of crime and age of victims
+97    By type of crime, form of tenure, and race and ethnicity of  head of
+household
+98    By type of crime and form of tenure
+99    By type of crime and annual family income
+100   By value of loss and type of crime
+
+Reasons for reporting and not reporting
+
+Percent of reasons --
+101  By type of crime, for reporting victimizations to the police
+
+Percent of reasons for not reporting victimization to the police --
+102   By type of crime 
+
+Police response and police activity
+106   Percentage of police response to a reported incident, by type of crime 
+
+Percentage of incidents --
+107   Where police came to the victim, by police response time and type of     
+       
+      crime
+108   By police activity during initial contact with victim and
+      type of crime
+109   Percentage of the kind of agency providing assistance by
+      type of crime
+
+Victims and the criminal
+justice system
+
+A majority of crimes measured by the NCVS in 1995 were not
+reported to the police.  The NCVS data provide reasons why
+crimes were or were not reported as well as information on who
+did or did not report crimes.
+
+Rates of reporting 
+
+*  In1995, 35% of all victimizations, 42% of violent
+victimizations and 33% of property crimes were reported to the
+police (table 91 and figure 22).
+
+*  Motor vehicle theft was the property crime most frequently
+reported to the police (74%).  The most likely to be reported
+among violent crimes were robbery (55%) and aggravated assault
+(54%).
+
+*  The violent crime least likely to be reported was rape/sexual
+assault (32%).  Theft was the property crime with the lowest
+rate of reporting to the police (26%).
+
+*  Completed violent crimes were more likely to be reported to
+police than attempted violent crimes.  This was not true for
+rape -- about a third of all attempted and of all completed
+rapes were reported to the police. 
+
+*  Overall, females were more likely than males and blacks more
+likely than whites to report a violent victimization to the police
+(table 92). 
+
+*  Males were equally as likely as females, and whites equally
+as likely as blacks, to report a robbery to the police.
+
+*  Hispanics and non-Hispanics reported violent crimes to the
+police equally, except for the crime of robbery.  Non-Hispanic
+victims were significantly more likely to report robbery (58%)
+than were Hispanic victims (46%) (table 95).
+
+*  In general, victims of violent crimes were more likely to
+report the crime to the police when the offender was a stranger than 
+when the offender was known to the victim (45% versus 39%) 
+(figure 23).
+
+                    Percent of violent victim-
+                    izations reported to police
+                    committed by a-
+                     Stranger   Nonstranger
+   All victims         45%         39%
+ 
+Male                   43%         32%
+Female                 49          44
+ 
+Black                  52%         46%
+White                  44          37
+ 
+Hispanic               41%         41%
+Non-Hispanic           45          39
+ 
+*  The youngest victims of violent crime measured by the survey
+-- those between ages 12 and 19 -- were the least likely to
+report crimes to the police.  All other age groups reported
+violent victimization at about equal rates (table 96).
+
+*  Home owners were more likely than renters to report burglary
+and motor vehicle theft victimization to the police (table 98).
+
+*  There were no consistent patterns in the reporting of crimes
+to the police based on annual household income (table 99). 
+
+*  The likelihood of a property crime being reported increased
+as value of loss increased.  One in ten victimizations incurring losses
+between $10 and $49 were reported to the police.  For losses of
+$1,000 or more, 8 in 10 victimizations were reported (table 100).
+
+Reasons for reporting and 
+not reporting
+
+*  The most frequent reason cited for reporting violent crimes
+to the police was because it was a crime (24%).  Beyond this,
+the two most common reasons for reporting were "to prevent
+further crimes by offender against victim" (17%) and "to stop or
+prevent this incident" (15%) (table 101).
+
+*   According to victims, the two most prevalent reasons for
+reporting property crimes were "because it was a crime" (27%)
+and "to recover property" (23%).
+
+*   Violent crimes went unreported because the victims felt the
+crimes were a "private or personal matter" (21% of reasons
+cited) and because they were "minor or unsuccessful, property
+recovered" (19%) (table 102).
+
+*   The main reason property crimes were not reported was
+because the crimes were "minor or unsuccessful or property was
+recovered" (29%).
+
+*   White victims were significantly more likely than black
+victims not to report violent crimes to the police because they
+had reported the crime to another official, or because they
+believed the crime was not important enough (table 103). 
+
+*  Victims cited different reasons for not reporting violent
+crimes to the police when the offender was a stranger than when
+a non-stranger (table 104 and figure 24).
+
+Police responses to crime
+
+*  According to victims, when notified, the police responded 73%
+of the time for violent crime and 61% for property crimes (table 106).
+
+*   For 90% of the violent crimes and 80% of the property crimes
+responded to by police the response time was 1 hour or less
+(table 107 and figure 25).
+
+*  From the time of the crime to the time of the NCVS interview,
+94% of victims had received no victim related assistance from
+government or private agencies (table 109). 
+
+Appendixes
+
+I.   Survey instrument
+
+II.  Changes to data reporting procedure
+     Reason for change
+     How the change affects 
+       NCVS estimates
+
+III. Survey methodology
+     Data collection
+     Sample design and size
+     Estimation procedure
+     Series victimizations
+     Accuracy of estimates
+     Computation and application
+        of standard errors 
+
+IV.  Glossary
+
+Appendix I
+Survey  instrument
+
+A screen questionnaire (form NCVS-1) and a crime incident report
+(form NCVS-2) are used to obtain information about households,
+individuals, and the relevant crimes they have experienced.  The
+first form, NCVS-1, is designed to obtain demographic
+characteristics and to screen for any crime incidents.  Each
+household member age 12 or older is interviewed individually,
+unless a proxy is used.  Proxy interviews are used for children
+age 12 or 13 when the parents object to an individual interview,
+as well as for persons who are absent during the entire
+interviewing period and persons who are otherwise incapable  of
+answering for themselves.
+
+After the first form is completed, the interviewer fills out a
+second form, the NCVS-2 form, for each reported incident.  Along
+with general questions about the incident, the NCVS-2 form
+includes questions about the extent     of physical injury,
+economic loss, offender characteristics, and notification of
+police. 
+
+Appendix II
+Changes to data reporting procedure
+
+The estimates presented in this report will correspond to 1995
+estimates presented in the BJS Bulletin Changes in Criminal
+Victimization 1994-95, but will differ from the 1995 estimates
+presented in the BJS Bulletin Criminal Victimization 1996:
+Changes 1995-96 with Trends 1993-96.  Beginning with the 1996
+Bulletin, all NCVS reports will be based on data collected in
+interviews conducted during the calendar year being estimated.  
+Previous reports presented estimates based on crimes occurring
+during the given calendar year.
+
+Reason for change
+
+The change in data reporting procedure was undertaken in an
+effort to expedite the annual publication of NCVS data.  NCVS
+respondents are interviewed every 6 months and asked to recall
+any crime incidents that have occurred in the 6 months since the
+previous interview.  For this reason, 6 months of data
+collection beyond the end of the calendar year are needed to
+gather information on all incidents occurring during a calendar
+year. 
+
+For example, as shown below, this report required 17 months of
+data collection (February 1995-June 1996) to collect information on 
+all the incidents that occurred during 1995 (figure 1).  This reporting 
+procedure is referred to as a "data year." 
+
+To publish more timely estimates from the survey, beginning with
+data for 1996, all NCVS publications will present estimates
+based upon interviews conducted during the calendar year. This
+reporting procedure is referred to as a "collection year." Under
+the collection year procedure estimates for any given year will
+include some incidents that actually took place during the
+previous calendar year and will exclude some incidents that
+would have been reported in interviews conducted in the
+following calendar year.
+
+How the change affects NCVS 
+estimates
+
+While 1995 data year estimates (presented in this report) differ
+slightly from 1995 collection year estimates (presented in the
+Bulletin Criminal Victimization 1996), the differences are not
+statistically significant (table 1).  In general, collection
+year estimates will be higher than data year estimates during
+times of declining crime rates, and lower than data year
+estimates during times of increasing crime rates.
+
+Appendix table 1.  Comparison of 1995 data year to collection year estimates,
+by type of crime
+                                                       Victimization rates
+(per
+                                                       1,000 persons age 12 or
+                            Number of                  older or per 1,000
+                            victimizations (1,000's)   households)
+                             Collection  Data year     Collection  Data year
+Type of crime                year 1995   1995          year 1995   1995
+ 
+All crimes                       39,926     38,452           ....
+ 
+Personal crimes                  10,436      9,970          48.5      46.2
+ 
+Crimes of violence               10,022      9,605          46.6      44.5
+Complete violence                 2,960      2,786          13.8      12.9
+Attempted/threatened violence     7,061      6,819          32.8      31.6
+Rape/Sexual assault                 363        340           1.7       1.6
+Rape/attempted rape1                251        234           1.2       1.1
+Rape                                153        141           0.7       0.7
+Attempted rape1                      99         94           0.5       0.4
+Sexual assault2                     112        106           0.5       0.5
+Robbery                           1,171      1,142           5.4       5.3
+Completed/property taken            753        745           3.5       3.5
+With injury                         224        218             1         1
+Without injury                      529        527           2.5       2.4
+Attempted to take property          418        397           1.9       1.8
+With injury                          84         95           0.4       0.4
+Without injury                      335        302           1.6       1.4
+Assault                           8,487      8,122          39.5      37.7
+Aggravated                        2,050      1,883           9.5       8.7
+With injury                         533        507           2.5       2.3
+Threatened with weapon            1,517      1,376           7.1       6.4
+Simple                            6,437      6,240          29.9      28.9
+With minor injury                 1,426      1,300           6.6         6
+Without minor injury              5,012      4,940          23.3      22.9
+Personal theft                      414        365           1.9       1.7
+ 
+Property crimes                  29,490     28,482         290.5     279.5
+ 
+Household burglary                5,004      4,822          49.3      47.3
+Completed                         4,232      4,070          41.7      39.9
+Forcible entry                    1,570      1,507          15.5      14.8
+Unlawful entry without force      2,662      2,563          26.2      25.2
+Attempted forcible entry            773        752           7.6       7.4
+Motor vehicle theft               1,717      1,654          16.9      16.2
+Completed                         1,163      1,098          11.5      10.8
+Attempted                           554        555           5.5       5.5
+Theft                            22,769     22,006         224.3       216
+Completed                        21,857     21,153         215.3     207.6
+Less than $50                     8,652      8,240          85.2      80.9
+$50-$249                          7,712      7,591            76      74.5
+$250 or more                      4,270      4,163          42.1      40.9
+Attempted                           911        853             9       8.4
+ 
+Note:  Detail may not add to totals shown because of rounding.
+1/Includes verbal threats of rape.
+2/Include threats.
+
+Appendix III
+Survey methodology
+
+The survey results contained in this report are based on data
+gathered from residents living throughout the United States, including 
+persons living in group quarters, such as dormitories, rooming houses,
+and religious group dwellings.  Crew members of merchant vessels, 
+Armed Forces personnel living in military barracks, and institutionalized 
+persons, such as correctional facility inmates, were not included in the 
+scope of this survey.  Similarly, U.S. citizens residing abroad and foreign 
+visitors to this country were excluded.  With these exceptions, individuals
+age 12 or older living in units selected for the sample were eligible to be 
+interviewed.
+
+Data collection
+
+Each housing unit selected for the National Crime Victimization
+Survey (NCVS) remains in the sample for 3 years, with each of
+seven interviews taking place at 6-month intervals.  An NCVS
+interviewer's first contact with a housing unit selected for the
+survey is in person.  The interviewer may then conduct
+subsequent visits, except for the fifth, by telephone.
+
+To elicit more accurate reporting of incidents, NCVS uses the
+self-respondent method which calls for the direct interviewing
+of each person 12 years or older in the household.  An exception
+is made to use proxy interviewing instead of direct interviewing
+for the following three cases:  12- and 13-year-old persons when
+a knowledgeable household member insists they not be interviewed
+directly, incapacitated persons, and individuals absent from the
+household during the entire field-interviewing period.  In the
+case of temporarily absent household members and persons who are
+physically or mentally incapable of granting interviews,
+interviewers may accept other household members as proxy
+respondents, and in certain situations nonhousehold members may
+provide information for incapacitated persons. 
+
+As noted in the sample design section, about 30% of the
+interviews in the 1995 sample were conducted using
+Computer-Assisted Telephone Interviewing (CATI), a data
+collection mode which involves interviewing from centralized
+facilities and using a computerized instrument.  In the
+CATI-eligible part of the sample, all interviews are done by
+telephone whenever possible, except for the first and fifth
+interviews, which are still primarily conducted in person.  The
+telephone interviews are conducted by the CATI facilities
+(Hagerstown, Maryland, and Tucson, Arizona).
+
+Sample design and size
+
+Survey estimates are derived from a stratified, multi-stage
+cluster sample.  The primary sampling units (PSU's) composing
+the first stage of the sample were counties, groups of counties,
+or large metropolitan areas.  Large PSU's were included in the
+sample automatically and are considered to be self-representing
+(SR) since all of them were selected.  The remaining PSU's,
+called non-self-representing (NSR) because only a subset of them
+was selected, were combined into strata by grouping PSU's with
+similar geographic and demographic characteristics, as
+determined by the 1990 census.
+
+The 1995 NCVS sample households were drawn from both the 1980-
+and 1990-based sample design.  The 1990 design consists of 92 SR
+PSU's and 153 NSR strata, with 1 PSU per stratum selected with
+probability proportionate to population size.  The NCVS sample
+design continues use of both 1980- and 1990-based sample through
+1997.  Beginning in 1998 only 1990-based sample remains.
+
+In the second stage of sampling, each selected stratification
+PSU is divided into four frames (unit, area, permit, and GQ)
+from which NCVS independently selects its sample.  From each
+selected stratification PSU, clusters of approximately four
+housing units or housing unit equivalents are selected from each
+frame.  For the unit and GQ frames, addresses come from the 1990
+census files.  For the permit frame, addresses come from
+building permit data obtained from building permit offices.  For
+the area frame, sample blocks come from the 1990 census files. 
+Then, addresses are listed and sampled in the field.
+
+Approximately 58,520 housing units and other living quarters
+were designated for the sample.  In order to conduct field
+interviews, the sample is divided into six groups, or rotations,
+and each group of households is interviewed once every 6 months
+over a period of 3 years.  The initial interview is used to
+bound the interviews (bounding establishes a time frame to avoid
+duplication of crimes on subsequent interviews), but is not used
+to compute the annual estimates.  Each rotation group is further
+divided into six panels.  A different panel of households,
+corresponding to one sixth of each rotation group, is
+interviewed each month during the 6-month period.  Because the
+survey is continuous, newly constructed housing units are
+selected as described, and assigned to rotation groups and
+panels for subsequent incorporation into the sample.  A new
+rotation group enters the sample every 6 months, replacing a
+group phased out after being in the sample for 3 years.
+
+For these 58,520 sample households, complete interviews were
+obtained for about 47,750 households in 1995, about 94.7% of all
+eligible housing units.  Within the interviewed households some
+89,900 persons, or about 91.1%, provided responses; the other
+individuals for the most part either refused or were unavailable
+or unable to answer and no proxy was available.  The remaining
+10,770 housing units were not interviewed because they were
+ineligible -- vacant, demolished, or otherwise ineligible -- for
+the survey (about 8,110 units), or the occupants could not be
+reached or refused to participate (about 2,660 units).
+
+Selection of cases for CATI
+
+About 30% of the 47,750 households obtained in the 1995 sample
+were interviewed using the CATI technique.  Currently, the NCVS
+sample PSU's fall into three groups of CATI usage:  maximum-CATI
+PSU's, where all the segments in the PSU are CATI-eligible;
+half-CATI PSU's, where half of the segments in the PSU are
+randomly designated to be CATI-eligible; and no-CATI PSU's,
+where none of the segments are CATI-eligible.  The level of CATI
+usage for each PSU was established with concern toward an
+optimal workload for the field interviewers.  In the "half-CATI"
+PSU's, a random sample of about 50% of the segments in each PSU
+is taken and designated as CATI-eligible.  The sample cases in
+CATI-eligible segments from the max-CATI and the half-CATI PSU's
+are interviewed from CATI facilities while the other sample
+cases are interviewed by the standard NCVS field procedures.
+
+Estimation procedure
+
+Annual estimates of the levels and rates of victimization are
+derived by accumulating four quarterly estimates, which in turn
+are obtained from 17 months of field interviewing, ranging from
+February through June of the following year.  The population and
+household figures shown on victimization rate tables are based
+on an average for these 17 months, centering on the ninth month
+of the data collection period, in this case October 1995.
+
+Sample data from 8 months of field interviewing are required to
+produce estimates for each quarter.  (Quarterly estimates are
+not published since there may not be sufficient observations to
+ensure their reliability.)  For example, data collected between
+February and September are required to estimate the first
+quarter of any given calendar year (see accompanying chart). 
+Each quarterly estimate is composed of equal numbers of field
+observation from the months during the half-year interval prior
+to the time of interview.
+
+Therefore, incidents occurring in January may be reported in a
+February interview (1 month between the crime and the
+interview), in a March interview (2 months), and so on up to 6
+months ago for interviews conducted in July.  This arrangement
+minimizes expected biases associated with the tendency of
+respondents to place victimizations in more recent months of a
+6-month reference period rather than the month in which they
+actually occurred. **(footnote:  As described in Appendix II,
+the annual estimation procedure changes with the publication of 
+1996 estimates).** 
+
+The estimation procedure begins with the application of a base
+weight to the data from each individual interviewed.  The base
+weight is the reciprocal of the probability of each unit's
+selection for the sample, and provides a rough measure of the
+population represented by each person in the sample.  Next, an
+adjustment is made to account for households and individuals in
+occupied units who were selected for the survey but unavailable
+for interview.
+
+In addition to adjusting for unequal probabilities of selection
+and observation, the final weight also includes a ratio adjustment
+to known population totals based on the adjusted counts from the
+1990 Decennial Census.  Specifically, the final person weight is
+the product of the values of the following six component weights; 
+the final household weight is the product of all components except 
+the within-household non-interview adjustment component detailed 
+below:
+
+Probabilities of selection 
+
+*  Base weight:  the inverse of the sampling rate of that unit
+(person or household) within the stratum. 
+
+*  Weighting control factor:  adjusts for any subsampling due to
+unexpected events in the field, such as unusually high growth in
+new construction, area segments larger than anticipated, and
+other deviations from the overall stratum sampling rate.
+
+Probabilities of observation 
+(Nonresponse)
+
+*  Household non-interview adjustment:  adjusts for nonresponse
+at the household level by inflating the weight assigned to
+interviewed households so that they represent themselves and
+non-interviewed households.
+
+*  Within-household non-interview adjustment:  adjusts for
+nonresponse at the person level by inflating the weight assigned to the
+interviewed persons so that they represent themselves and the
+missed interviews.
+
+Post-stratification ratio adjustment to 
+known population totals
+
+The distribution of the sample population may differ somewhat
+from that of the total population in terms of age, race, sex,
+residence, and other characteristics.  Because of this, two
+stages of ratio estimation are employed to bring the two
+distributions into closer agreement, thereby reducing the
+variability of the sample estimates.
+
+* First-stage factor:  the first stage of ratio estimation is
+applied only to non-self-representing PSU's.  Its purpose is to
+reduce sampling error caused by selecting one PSU to represent
+an entire stratum.  It adjusts for race and zone of residence
+differences between the sample non-self-representing PSU's and
+the population non-self-representing PSU's. (For self-representing 
+PSU's this factor is set to 1.)
+
+*  Second-stage factor:  the second stage of ratio estimation is
+applied on an individual basis to bring the distribution of
+individuals in the sample into closer agreement with independent
+current estimates of the population according to age, sex, and
+racial characteristics.2  **(footnote:  Armed Forces personnel
+who are eligible to be interviewed are not included in the
+second-stage estimate and receive a factor of 1.)**  This factor is 
+defined for each person to adjust for the difference between weighted 
+counts of persons (using the above five weight components) and 
+independent estimates of the number of persons, within the defined cells.  
+These independent estimates are projections based on the 1990 Census 
+population controls adjusted for the undercount.
+
+For household crimes the characteristics of the wife in a
+husband-wife household and the characteristics of the head of
+household in other types of households are used to determine the
+ratio adjustment factors.  This procedure is considered more
+precise than simply using the characteristics of the head of
+household because sample coverage is generally better for
+females than males.
+
+For estimates involving incidents rather than victimizations,
+further adjustments are made to those cases where an incident
+involved more than one person.  These incidents have more than
+one chance of being included in the sample so each
+multiple-victimization is reduced by the number of victims. 
+Thus, if two people are victimized during the same incident, the
+weight assigned to that incident is the person weight reduced by
+one-half so that the incident cannot be counted twice.  However,
+the details of the event's outcome as they related to the victim
+are reflected in the survey results.  No adjustment is necessary
+in estimating data on household crimes because each separate
+crime is defined as involving only one household.
+
+Series victimizations
+
+A series victimization is defined as six or more similar but
+separate crimes which the victim is unable to recall
+individually or describe in detail to an interviewer. These
+series crimes have been excluded from the tables in this report
+because the victims were unable to provide details for each
+event.  Data on series crimes are gathered by the calendar
+quarter(s) of occurrence, making it possible to match the time
+frames used in tabulating the data for non-series crimes.
+
+Appendix table 1 shows the counts of regular and series
+victimizations for 1995, as well as the results of combining the
+two, with each series tallied as a single event.  A total of
+622,350 personal series crimes and 312,260 property series
+crimes were measured in 1995.  Series crimes tended to be crimes
+of violence.
+
+The effect of combining series and non-series crimes, counting
+each of the series crimes as a single victimization based on the
+details of the most recent incident, was included in the initial
+release of the 1980 data. **(footnote: See Criminal Victimization 
+in the United States; 1979-80 Changes, 1973-80 Trends, BJS Technical
+Report, NCJ 80838, July 1982)** The report showed that victimization 
+counts and rates were higher in 1979 and 1980 when the series crimes were 
+added.  However, rate changes between these 2 years were basically in the 
+same direction and significantly affected the same crimes as those affected 
+when only non-series crimes were analyzed.
+
+Accuracy of estimates
+
+The accuracy of an estimate is a measure of its total error,
+that is, the sum of all the errors affecting the estimate: 
+sampling error as well as nonsampling error.
+
+The sample used for the NCVS is one of a large number of
+possible samples of equal size that could have been obtained by
+using the same sample design and selection procedures. 
+Estimates derived from different samples would differ from one
+another due to sampling variability, or sampling error.
+
+The standard error of a survey estimate is a measure of the
+variation among that estimate from all possible samples. 
+Therefore, it is a measure of the precision (reliability) with
+which a particular estimate approximates the average result of
+all possible samples.  The estimate and its associated standard
+error may be used to construct a confidence interval.  A
+confidence interval is a range of numbers which has a specified
+probability that the average of all possible samples, which is
+the true unknown value of interest in an unbiased design, is
+contained within the interval.  About 68% of the time, the
+survey estimate will differ from the true average by less than
+one standard error.  Only 10% of the time will the difference be
+more than 1.6 standard errors, and just 1 time in 100 will it be
+greater than 2.5 standard errors.  A 95% confidence interval is
+the survey estimate plus or minus twice the standard error, thus
+there is a 95% chance that the result of a complete census would
+fall within the confidence interval.
+
+In addition to sampling error, the estimates in this report are
+subject to nonsampling error.  While substantial care is taken
+in the NCVS to reduce the sources of nonsampling error through
+out all the survey operations, by means of a quality assurance
+program, quality controls, operational controls, and error-correcting 
+procedures, an unquantified amount of nonsampling error remains still.
+
+Major sources of nonsampling error are related to the inability
+of the respondents to recall in detail the crimes which occurred
+during the 6 months prior to the interview.  Research based on
+interviews of victims obtained from police files indicates that
+assault is recalled with the least accuracy of any crime
+measured by the NCVS.  This may be related to the tendency of
+victims to not report crimes committed by offenders who are not
+strangers especially if they are relatives.  In addition, among certain
+groups, crimes which contain elements of assault could be a part
+of everyday life, and are therefore forgotten or not considered
+important enough to mention to a survey interviewer.  These
+recall problems may result in an understatement of the actual
+rate of assault. 
+
+Another source of nonsampling error is the inability of some
+respondents to recall the exact month a crime occurred, even though 
+it was placed in the correct reference period.  This error source is
+partially offset by interviewing monthly and using the estimation 
+procedure described earlier.  
+
+Telescoping is another problem in which incidents that occurred
+before the reference period are placed within the period.  The
+effect of telescoping is minimized by using the bounding
+procedure previously described.  The interviewer is provided
+with a summary  of the incidents reported in the preceding
+interview and, if a similar incident is reported, it can be
+determined whether or not it is a new one by discussing it with
+the victim.  Events which occurred after the reference period are set 
+aside for inclusion with the data from the following interview. 
+
+Other sources of nonsampling error can result from other types
+of response mistakes, including errors in reporting incidents as
+crimes, misclassification of crimes, systematic data errors
+introduced by the interviewer, errors made in coding and
+processing the data.  Quality control and editing procedures
+were used to minimize the number of errors made by the
+respondents and the interviewers.
+
+Since field representatives conducting the interviews usually
+reside in the area in which they interview, the race and
+ethnicity of the field representatives generally matches that of
+the local population.  Special efforts are made to further match
+field representatives and the people they interview in areas
+where English is not commonly spoken.  About 90% of all NCVS
+field representatives are female.
+
+Standard errors measure only those nonsampling errors arising
+from transient factors affecting individual responses completely
+at random (simple response variance); they do not reveal any
+systematic biases in the data.  As calculated in the NCVS, the standard 
+errors would partially measure nonsampling error arising from some 
+of the above sources, such as transient memory errors and accidental
+errors in recording or coding answers.
+
+Computation and application 
+of standard errors
+
+The results presented in this report were tested to determine
+whether or not the observed differences between groups were
+statistically significant.  Differences were tested for
+significance at the 90% confidence level, or roughly 1.6
+standard errors.  Most of the comparisons in this report were
+significant at the 95% confidence level (about 2.0 standard
+errors, meaning that the difference between the estimates is
+greater than twice the standard error of the difference). 
+Comparisons which failed the 90% test were not considered
+statistically significant.  Comparisons qualified by the phrase
+"some evidence" or "slightly different" had a significance level
+between 90% and 95%.
+
+Deriving standard errors which are applicable to a wide variety
+of items and which can be prepared at a moderate cost requires a
+number of approximations.  Therefore, three generalized variance
+function (gvf) constant parameters (identified as "a", "b", and
+"c" in the following section) were developed for use in
+calculating standard errors.  The parameters provide an
+indication of the order of magnitude of the standard errors
+rather than the precise standard error for any specific item.
+
+The gvf represents the curve fitted to the individual standard
+errors, which were calculated using the Jackknife Repeated
+Replication technique on 1994 data.  The 1995 gvf values for the
+"a", "b", and "c" parameters remain the same as 1994 since the
+sample design and size did not change.
+
+GVF parameters from 1995 data year estimates  
+
+Generalized variance functions           a                 b            c
+1995 parameter set                      
+Overall person crime estimates      -0.00004144           2008        1.612
+Person crime domain estimates       -0.00006269           2278        1.804
+Overall  property crime estimates   -0.00008894           1501        1.276
+Property crime domain estimates     -0.00005292           2185        1.153
+1994 parameter set
+Overall person crime estimates      -0.00004144           2008        1.612
+Person crime domain estimates       -0.00006269           2278        1.804
+Overall  property crime estimates   -0.00008894           1501        1.276
+Property crime domain estimates     -0.00005292           2185        1.153
+1993 parameter set
+Overall person crime estimates      -0.00005221           2530        2.031
+Person crime domain estimates       -0.00007899           2870        2.273
+Overall  property crime estimates   -0.00011206           1891        1.608
+Property crime domain estimates     -0.00006668           2753        1.453
+ 
+Parameter set # 1 is used for the overall person crime estimates (table 1).
+These are the person crime estimates by crime category for the whole
+population, not disaggregated by any victim, offender, or incident
+characteristics, nor any variable related to reporting to police.  Parameter
+set #2 is used for the person crime domain estimates.  These are the person
+crime estimates disaggregated by victim, offender, or incident
+characteristics, or any variable related to reporting to police.  Parameter
+set #3 is used for the property crime estimates for the whole population
+(table 1).  These are the property crime estimates by crime category for the
+whole population, not disaggregated by any household characteristics, nor any
+variable related to reporting to police.
+ 
+Parameter set # 4 is used for the property crime domain estimates.  These are
+the property crime estimates disaggregated by household characteristics, or
+any variable related to reporting to police.  For the statistic from table 1
+that corresponds to the crime category "all crimes" (person and property
+crimes together), parameter set # 3 should be used.  When the person and
+property estimates are combined (all crimes) and disaggregated by victim, 
+household, incident characteristics, as well as any variable related to
+reporting to police, parameter set #4 should be used for the best estimate of
+the corresponding variance.
+
+NOTATION
+
+x =  the estimated number (level) of personal or household 
+victimizations or incidents 
+
+y = the base; either the total number of persons or households
+(for victimization rates) or the total of all victimizations
+(for incident characteristics)
+
+rho= the estimated proportion, resulting from dividing the number
+of victimizations into the base.  Also, the percentage or rate
+expressed in decimal form.  The percentage is 100p and the rate per
+thousand is 1000p.
+
+Formula 1.  Levels:  Standard errors for the estimated number of
+victimizations or incidents may be calculated by using the
+following formula:  Standard error of 'x' equals the square root of
+('a' times 'x' squared plus 'b' times 'x' plus 'c' times 'x' raised 
+to the exponent 3 divided by 2)
+
+The following example illustrates the proper use of Formula 1. 
+Table 1 (page 8) shows 744,810 completed robberies in 1995; this
+estimate and the appropriate parameters are substituted in the
+formula as follows:  Standard error of 744,810 robberies equals
+the square root of (negative .004144 times 744810 squared plus
+2008 times 744810 plus 1.612 times 744810 raised to the exponent
+3 divided by 2).  s(x) = 50,088
+
+Therefore, the 95% confidence interval around the estimated
+number of robbery victimizations is about equal to 744,810 plus
+or minus twice (1.96) the standard error, or plus or minus
+98,172: an interval of 646,638 to 842,982.
+
+Formula 2. Proportions, Percentages, and Rates:  Standard errors
+for the estimated victimization rates or percentages are
+calculated using the following formula:  Standard error of 'p'
+equals the square root of (('b' times percentage 'p' times (1
+minus the percentage p) divided by y) plus (('c' times percentage
+'p' times the square root of p minus p) divided by the square root
+of y))
+
+The following example demonstrates the use of Formula 2.  Table
+3 (page 10) shows an estimated robbery rate of 10.8 per 1,000
+persons between the ages of 20 and 24, based on a total of
+17,813,630 persons in this age range.  Substituting the
+appropriate values into the formula yields:   The standard error
+of 10.8 robberies per 1,000 persons age 20-24 equals the square
+root of ( (2278 times .0108 times (1 minus .0108) )divided by
+17813630) plus ((1.084 times .0108) times ((the square root of .0108)
+minus .0108) divided by the square root of 17813630)
+
+= 0.0013 or 1.3 per thousand
+
+Thus, the 95% confidence interval is 10.8 per 1,000 plus or
+minus 2.6:  an interval of 8.2 to 13.4 per 1,000.
+
+Formula 3.  Difference in rates or percentages with different
+bases:  The standard error of a difference between two rates or
+percentages having different bases is calculated using the
+formula:  Standard error of the difference between percentage 1
+and percentage 2 equals the square root of the variance of
+percentage 1 plus the variance of percentage 2 minus 2 times
+rho times the standard deviation of percentage 1 times the 
+standard deviation of percentage 2
+
+rho is the year-to-year correlation between p1 and p2 (see
+chart, page 151); and var (p1) and var (p2) are the square of
+the standard error of p using Formula 2 for each rate and
+substituting:
+
+p1 = first percent or rate (expressed as a proportion in decimal
+form)
+
+y1 = base from which first percent or rate was 
+derived
+
+p2 = second percent or rate (expressed as a proportion in
+decimal form)
+
+y2 = base from which second percent or rate was 
+derived 
+
+If estimates are uncorrelated, rho= 0.  Hence, omitting the term
+containing r in the formula will provide an accurate standard
+error for the difference between uncorrelated estimates.  On the other 
+hand, if the two estimates have a strong positive correlation, omitting 
+the last term will cause overestimation of the true standard error.  If
+the numbers have a strong negative correlation, this will cause
+underestimation of the actual standard error.
+
+The following example illustrates the use of Formula 3.  Table 4
+(page 11) lists the victimization rate for aggravated assault
+for males as 11.8 per 1,000 and the rate for females as 5.9 per 1,000.  
+The total number of males in the population is 104,268,820 and the total
+of females, 111,709,450.  Noting that rho= 0 because the two
+estimates are for the same year and placing the appropriate
+values in the formulas yields:  Variance of percentage 1 equals
+((2278 times .0118 times (1 minus .0118)) divided by 104268820)
+plus (1.804 times .0108 times (square root of .0118) minus .0118) 
+divided by the square root of 104268820
+
+which equals 0.000000457
+
+Variance percentage 2 equals ((2278 times 0.0059 times (1 minus
+0.0059)) divided by 111709450) plus ((1.804 times .0059 times
+(the square root of 0.0059) minus 0.0059) divided by the square
+root of 111709450) 
+
+which equals 0.000000191
+
+The standard error of the difference equals the square root of
+(0.000000457 plus 0.000000191) which equals .80 per thousand
+
+The ratio of a difference to the standard error of the
+difference is the "z score," which is associated with a given
+statistical level of significance.  For example, a ratio with an
+absolute value of 2.0 (1.96, to be exact) or greater indicates
+that the difference is significant at the 95% confidence level
+(or greater); a ratio with an absolute value between 1.6 and 2.0
+indicates the difference is significant at a confidence level
+between 90% and 95%; a ratio with an absolute value less than
+1.6 denotes a confidence level less than 90%.  In the previous
+example, the ratio of the difference (.0059) to the standard
+error (.00080) is 7.38.  Thus the aggravated assault rate for
+males and females was significantly different at a confidence
+level exceeding 95%.
+
+Formula 4.  Differences in percentages of a single response
+variable with the same base:  The standard error of the
+difference between two percentages derived from a single
+response variable with the same base is calculated using the
+formula:  Standard error of the difference between percentage 1
+and percentage 2 equals the square root of the (variance of
+percentage 1 plus the variance of percentage 2 minus (2 times
+'p' times the standard deviation of percentage 1 times the
+standard deviation of percentage 2))
+
+Where
+
+'p' equals negative square root of ((percentage 1 times percentage 2)
+divided by ((1 minus percentage 1) times 1 minus percentage 2))
+
+all other terms are as defined in Formula 3,
+except that y1 and y2 are the same common base, y.
+
+
+The following example, which uses Table 43,
+illustrates the use of Formula 4.  The proportion of single-offender 
+violent crime victimizations involving relatives was 11.6% and the 
+proportion involving acquaintances (well-known or casual) was 42.7%, 
+out of a total of 7,287,440 single-offender violent crime victimizations.  
+Substituting the appropriate values into the
+formula gives:
+
+Year-to-year correlation between estimates
+
+Because of the year-to-year overlap in the sample, the same households and 
+persons contribute to annual estimates for different years.  This year-to-year
+correlation between estimates is measured by p. In general:
+
+    P = 0 when estimates are for the same year
+
+    P + 0 for year-to-year comparisons
+
+
+    When comparing estimates that are 1 year apart, use rho as shown below.
+    When comparing estimates that are 2 years apart, multiply rho by «.
+    When comparing estimates that are more than 2 years apart, assume p=0.
+ 
+Following are NCVS year-to-year correlation values for major crime categories 
+for 1993-95.
+ 
+                              1994-95       1993-95
+ Type of crime                correlation   correlation
+ 
+Total crimes                       0.41       0.20
+Total personal crimes              0.30       0.15
+Crimes of violence                 0.31       0.15
+Rape/Sexual assault                0.04       0.02
+Robbery                            0.04       0.02
+Assault                            0.30       0.15
+Purse snatching/Pocket picking     0.03       0.01
+Total property crimes              0.38       0.19
+Burglary                           0.21       0.10
+Motor vehicle theft                0.08       0.04
+Theft                              0.34       0.17
+
+The confidence interval around the difference at one standard
+error is from -32.7% to -29.5% (-31.1% plus or minus 1.6%).  
+The ratio of the difference (-0.311) to its standard error (0.016)
+is -19.44.  Since 19.44 is greater than 2.0, the difference between 
+these two percentages is statistically significant at a confidence
+level exceeding 95%.
+
+Appendix IV
+Glossary
+
+Age -- The appropriate age category is determined by the
+respondent's age on the last day of the month before the
+interview.
+
+Annual household income -- The total income of the household
+head and all members of the household for the 12 months
+preceding the interview.  Includes wages, salaries, net income
+from businesses or farms, pensions, interest, dividends, rent,
+and any other form of monetary income.
+
+Aggravated assault -- Attack or attempted attack with a weapon,
+regardless of whether or not an injury occurred and attack
+without a weapon when serious injury results.
+
+With injury -- An attack without a weapon when serious injury
+results or an attack with a weapon involving any injury. 
+Serious injury includes broken bones, lost teeth, internal
+injuries, loss of consciousness, and any unspecified injury
+requiring two or more days of hospitalization.
+
+Threatened with a weapon -- Threat or attempted attack by an
+offender armed with a gun, knife, or other object used as a
+weapon, not resulting in victim injury.
+
+Assault -- An unlawful physical attack or threat of attack. 
+Assaults may be classified as aggravated or simple.  Rape,
+attempted rape, and sexual assaults are excluded from this
+category, as well as robbery and attempted robbery.  The
+severity of assaults ranges from minor threat to incidents which
+are nearly fatal.
+
+Household burglary -- Unlawful or forcible entry or attempted
+entry of a residence.  This crime usually, but not always,
+involves theft.  The illegal entry may be by force, such as
+breaking a window or slashing a screen, or may be without force
+by entering through an unlocked door or an open window.  As long
+as the person entering has no legal right to be present in the
+structure a burglary has occurred.  Furthermore, the structure
+need not be the house itself for a burglary to take place;
+illegal entry of a garage, shed, or any other structure on the
+premises also constitutes household burglary.  If breaking and
+entering occurs in a hotel or vacation residence, it is still
+classified as a burglary for the household whose member or
+members were staying there at the time the entry occurred.
+
+Completed burglary -- A form of burglary in which a person who
+has no legal right to be present in the structure successfully
+gains entry to a residence, by use of force, or without force. 
+
+Forcible entry -- A form of completed burglary in which force is
+used to gain entry to a residence.  Some examples include
+breaking a window or slashing a screen.
+
+Unlawful entry without force -- A form of completed burglary
+committed by someone having no legal right to be on the
+premises, even though no force is used.
+
+Attempted forcible entry -- A form of burglary in which force is
+used in an attempt to gain entry.
+
+Collection year -- The set of victimizations reported to NCVS in
+interviews conducted during the same calendar year.  This set
+may include victimizations which occurred in the previous
+calendar year, due to the retrospective nature of the NCVS
+interview.  See "Data year" and Appendix II.
+
+Commercial crimes -- Crimes against commercial establishments of
+any type are not included in the survey. Commercial
+establishments include stores, restaurants, businesses, service
+stations,  medical offices or hospitals, or other similar
+establishments.  For victimizations occurring in commercial
+establishments, the crime is included or not included depending
+upon whether the survey respondent was threatened or harmed in
+some way or personal property was taken. 
+
+Crime classification -- Victimizations and incidents are
+classified based upon detailed characteristics of the event
+provided by the respondent. Neither victims nor interviewers
+classify crimes at the time of interview. During data
+processing, a computer program classifies each event into one
+type of crime, based upon the entries on a number of items on
+the survey questionnaire.  This ensures that similar events will
+be classified using a standard procedure.  The glossary
+definition for each crime indicates the major characteristics
+required to be so classified. If an event can be classified as
+more than one type of crime, a hierarchy is used which
+classifies the crime according to the most serious event that
+occurred. The hierarchy is: rape, sexual assault, robbery,
+assault, burglary, motor vehicle theft, theft.
+
+Data year -- The set of victimizations reported to NCVS all of
+which occurred within the same calendar year. Data presented in
+this report are for data year 1995.  See "Collection year" and
+Appendix II.
+
+Ethnicity -- A classification based on Hispanic culture and
+origin, regardless of race.
+
+Head of household -- A classification which defines one and only
+one person in each housing unit as the head.  Head of household
+implies that the person rents or owns (or is in the process of
+buying), the housing unit.  The head of household must be at
+least 18, unless all members of the household are under 18, or
+the head is married to someone 18 or older.
+
+Hispanic -- A person who describes himself as Mexican-American,
+Chicano, Mexican, Mexicano, Puerto Rican, Cuban, Central
+American, South American, or from some other Spanish culture or
+origin, regardless of race.
+
+Household -- A person or group of people meeting either of the
+following criteria:  (1) people whose usual place of residence
+is the same housing unit, even if they are temporarily absent
+(2) people staying in a housing unit who have no usual place of
+residence elsewhere.
+
+Incident -- A specific criminal act involving one or more
+victims and offenders.  For example, if two people are robbed at
+the same time and place, this is classified as two robbery
+victimizations but only one robbery incident.
+
+Marital status -- Every person is assigned to one of the
+following classifications:  (1) married, which includes persons
+in common-law unions and those who are currently living apart
+for reasons other than marital discord (employment, military
+service, etc.); (2) separated or divorced, which includes
+married persons who are legally separated and those who are not
+living together because of marital discord; (3) widowed; and (4)
+never married, which includes persons whose marriages have been
+annulled and those who are living together and not in a
+common-law union.
+
+Metropolitan area -- See "Metropolitan Statistical Area."
+
+Metropolitan Statistical Area (MSA) -- The Office of Management
+and Budget (OMB) defines this as a population nucleus of 50,000
+or more, generally consisting of a city and its immediate
+suburbs, along with adjacent communities having a high  degree
+of economic and social integration with the nucleus.  MSA's are
+designated by counties, the smallest geographic units for which
+a wide range of statistical data can be attained.  However, in
+New England, MSA's are designated by cities and towns since
+these subcounty units are of great local significance and
+considerable data is available for them.  Currently, an area is
+defined as an MSA  if it meets one of two standards:  
+
+(1) a city has a population of at least 50,000 (2) the Census
+Bureau defines an urbanized area of at least 50,000 people with
+a total metropolitan population of at least 100,000 (or 75,000
+in New England).  The Census Bureau's definition of urbanized
+areas, data on commuting to work, and the strength of the
+economic and social ties between the surrounding counties and
+the central city determine which counties not containing a main
+city are included in an MSA.  For New England, MSA's are
+determined by a core area and related cities and towns, not
+counties.  A metropolitan statistical area may contain more than
+one city of 50,000 and may cross State lines.
+
+Motor vehicle -- An automobile, truck, motorcycle, or any other
+motorized vehicle legally allowed on public roads and highways.
+
+Motor vehicle theft -- Stealing or unauthorized taking of a
+motor vehicle, including attempted thefts.
+
+Completed motor vehicle theft -- The successful taking of a
+vehicle by an unauthorized person.
+
+Attempted motor vehicle theft -- The unsuccessful attempt by an
+unauthorized person to take a vehicle.
+
+Multiple offenders -- Two or more persons inflicting some direct
+harm to a victim.  The victim-offender relationship is
+determined by the offender with the closest relationship to the 
+victim.  The following list ranks the different relationships
+from closest  to most distant:  spouse, ex-spouse, parent,
+child, other relative, nonrelative well-known person, casual 
+acquaintance, or stranger.  (See Nonstranger and Stranger.)
+
+Non-Hispanic -- Persons who report their culture or origin as
+something other than "Hispanic" as defined above.  This
+distinction is made regardless of race.
+
+Nonstranger -- A classification of a crime victim's relationship
+to the offender.  An offender who is either related to, well
+known to, or casually acquainted with the victim is a
+nonstranger.  For crimes with more than one offender, if any of
+the offenders are nonstrangers, then the group of offenders as a
+whole is classified as nonstranger.  This category only applies
+to crimes which involve contact between the victim and the
+offender; the distinction is not made for crimes of theft since
+victims of this offense rarely see the offenders.
+
+Offender -- The perpetrator of a crime; this term usually
+applies to crimes involving contact between the victim and the
+offender.
+
+Offense -- A crime.  When referring to personal crimes, the term
+can be used to refer to both victimizations and incidents.
+
+Personal crimes -- Rape, sexual assault, personal robbery,
+assault, purse snatching and pocket picking.  This category
+includes both attempted and completed crimes.  
+
+Place of occurrence of crime -- The location at which a crime
+occurred, as specified by the victim. Survey measures of crimes
+occurring in commercial establishments, restaurants, nightclubs,
+public transportation and other similar places include only
+those crimes involving NCVS measured crimes against persons, not
+the establishments.  Crimes against commercial establishments
+and other places are not measured by the survey.
+
+Property crimes -- Property crimes including burglary, motor
+vehicle theft, or theft.  This category includes both attempted
+and completed crimes.
+
+Purse snatching/Pocket picking -- Theft or attempted theft of
+property or cash directly from the victim by stealth, without
+force or threat of force. 
+
+Race -- Racial categories for this survey are white, black, and
+other.  The "other" category is composed mainly of Asian Pacific
+Islanders, and American Indian, Aleut, and Eskimo.  The race of
+the head of household is used in determining the race of the
+household for computing household crime demographics.
+
+Rape -- Forced sexual intercourse including both psychological
+coercion as well as physical force.  Forced sexual intercourse
+means vaginal, anal or oral penetration by the offender(s). 
+This category also includes incidents where the penetration is
+from a foreign object such as a bottle.  Includes attempted
+rapes, male as well as female victim and both heterosexual and
+homosexual rape.  Attempted rape includes verbal threats of rape.
+
+Rate of victimization -- see "Victimization rate."
+
+Region -- The States have been divided into four groups or
+census regions:
+
+Midwest -- Includes the 12 States of Illinois, Indiana, Iowa,
+Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota,
+Ohio, South Dakota, and Wisconsin.
+
+Northeast -- Includes the 9 States of Connecticut, Maine,
+Massachusetts, New Hampshire, New Jersey, New York,
+Pennsylvania, Rhode Island, and Vermont.
+
+South -- Includes the District of Columbia and the 16 States of
+Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky,
+Louisiana, Maryland, Mississippi, North Carolina, Oklahoma,
+South Carolina, Tennessee, Texas, Virginia, and West Virginia.
+
+West -- Includes the 13 States of Alaska, Arizona, California,
+Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon,
+Utah, Washington, and Wyoming. 
+
+Robbery -- Completed or attempted theft, directly from a person,
+of property or cash by force or threat of force, with or without
+a weapon, and with or without injury.  
+
+Completed/property taken -- The successful taking of property
+from a person by force or threat of force, with or without a
+weapon, and with or without injury.
+
+Completed with injury -- The successful taking of property from
+a person, accompanied by an attack, either with or without a
+weapon, resulting in injury.
+
+Completed without injury -- The successful taking of property
+from a person by force or the threat of force, either with or
+without a weapon, but not resulting in injury.
+
+Attempted to take property -- The attempt to take property from
+a person by force or threat of force without success, with or
+without a weapon, and with or without injury.
+
+Attempted without injury -- The attempt to take property from a
+person by force or the threat of force without success, either
+with or without a weapon, but not resulting in injury.
+
+Attempted with injury -- The attempt to take property from a
+person without success, accompanied by an attack, either with or
+without a weapon, resulting in injury.
+
+Rural area -- A place not located inside the Metropolitan
+Statistical Area.  This category includes a variety of
+localities, ranging from sparsely populated rural areas to
+cities with populations less than 50,000. 
+
+Sample  -- The set of housing units selected by the U. S. Census
+Bureau to be interviewed for the survey.  All occupants of the
+household age 12 or older are interviewed. See Appendix III,
+page 144 for sample inclusions and exclusions.
+
+Series -- Six or more similar but separate events, which the
+respondent is unable to describe separately in detail to an
+interviewer.
+
+Sexual assault -- A wide range of victimizations, separate from
+rape or attempted rape.  These crimes include attacks or
+attempted attacks generally involving unwanted sexual contact
+between victim and offender.  Sexual assaults may or may not
+involve force and include such things as grabbing or fondling. 
+Sexual assault also includes verbal threats.
+
+Simple assault -- Attack without a weapon resulting either in no
+injury, minor injury (for example, bruises, black eyes, cuts,
+scratches or swelling) or in undetermined injury requiring less
+than 2 days of hospitalization.  Also includes attempted assault
+without a weapon.
+
+With minor injury -- An attack without a weapon resulting in
+such injuries as bruises, black eyes, cuts or in undetermined
+injury requiring less than 2 days of hospitalization.
+
+Without injury -- An attempted assault without a weapon not
+resulting in injury. 
+
+Stranger -- A classification of the victim's relationship to the
+offender for crimes involving direct contact between the two. 
+Incidents are classified as involving strangers if the victim
+identifies the offender as a stranger, did not see or recognize
+the offender, or knew the offender only by sight.  Crimes
+involving multiple offenders are classified as involving
+nonstrangers if any of the offenders was a nonstranger.  Since
+victims of theft without contact rarely see the offender, no
+distinction is made between strangers and nonstrangers for this
+crime.
+
+Suburban areas -- A county or counties containing a central
+city, plus any contiguous counties that are linked socially and
+economically to the central city.  On data tables, suburban
+areas are categorized as those portions of metropolitan areas
+situated "outside central cities."
+
+Tenure -- The NCVS recognizes two forms of household tenancy: 
+(1) owned, which includes dwellings that are mortgaged, and (2)
+rented, which includes rent-free quarters belonging to a party
+other than the occupants, and situations where rental payments
+are in kind or services.
+
+Theft -- Completed or attempted theft of property or cash
+without personal contact. Incidents involving theft of property
+from within the sample household would classify as theft if the
+offender has a legal right to be in the house (such as a maid,
+delivery person, or guest).  If the offender has no legal right
+to be in the house, the incident would classify as a burglary. 
+
+Completed -- To successfully take without permission property or
+cash without personal contact between the victim and offender.  
+
+Attempted -- To unsuccessfully attempt to take property or cash
+without personal contact.
+
+Urban areas -- The largest city (or grouping of cities) in a
+Metropolitan Statistical Area (see definition of Metropolitan
+Statistical Area).
+
+Victim -- The recipient of a criminal act, usually used in
+relation to personal crimes, but also applicable to households.
+
+Victimization -- A crime as it affects one individual person or
+household.  For personal crimes, the number of victimizations is
+equal to the number of victims involved.  The number of
+victimizations may be greater than the number of incidents
+because more than one person may be victimized during an
+incident.  Each crime against a household is assumed to involve
+a single victim, the affected household.
+
+Victimization rate -- A measure of the occurrence of
+victimizations among a specified population group.  For personal
+crimes, this is based on the number of victimizations per 1,000
+residents age 12 or older.  For household crimes, the
+victimization rates are calculated using the number of incidents
+per 1,000 households.
+
+Victimize -- To commit a crime against a person or household. 
+
+Violence, crimes of -- Rape, sexual assault, personal robbery or
+assault.  This category includes both attempted and completed
+crimes.  It does not include purse snatching and pocket picking.
+Murder is not measured by the NCVS because of an inability to
+question the victim.
+
+Completed violence -- The sum of all completed rapes, sexual
+assaults, robberies, and assaults.  See individual crime types
+for definition of completed crimes.
+
+Attempted/threatened violence -- The unsuccessful attempt of
+rape, sexual assault, personal robbery or assault.  Includes
+attempted attacks or sexual assaults by means of verbal threats.
+See individual crime types for definition of attempted crimes.
+
+Violence, crimes of -- Rape, sexual assault, personal robbery or
+assault.  This category includes both attempted and completed
+crimes.  It does not include purse snatching and pocket picking.
+Murder is not measured by the NCVS because of an inability to
+question the victim.
+
+Completed violence -- The sum of all completed rapes, sexual
+assaults, robberies, and assaults.  See individual crime types
+for definition of completed crimes.
+
+Attempted/threatened violence -- The unsuccessful attempt of
+rape, sexual assault, personal robbery or assault.  Includes
+attempted attacks or sexual assaults by means of verbal threats.
+See individual crime types for definition of attempted crimes.
+
+
+End of file
+5/10/00 ih
+ 
+
+ 

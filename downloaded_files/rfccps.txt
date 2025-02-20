@@ -1,0 +1,1636 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Reconciling Federal Criminal Case Processing Statistics
+Federal Justice Statistics Program Methodology Report
+
+September 1999, NCJ 171680
+
+Revised 10/01/99 th
+
+By John Scalia, BJS Statistician
+and William J. Sabol, Ph.D., The Urban Institute
+
+Jan M. Chaiken, Ph.D.
+Director
+
+This report is the product of the extensive work and analysis of
+the Interagency Working Group on Federal Criminal Case
+Processing Statistics.  The Working Group was convened in 1995
+at the request of the Attorney General to study, identify, and
+reconcile the differences in official statistics describing the
+Federal criminal justice system.  
+
+The following people participated in the Working Group: Steven
+R. Schlesinger, Ph.D.; Catherine Whitaker, Ph.D.; and Pragati
+Patrick of the Administrative Office of the U.S. Courts; Louis
+DeFalaise, Barbara Tone, Eileen Menton, and Vern Bryant of the
+Executive Office for U.S. Attorneys; Louis Reedt, Elizabeth
+McGrath, and Susan Katzenelson of the U.S. Sentencing
+Commission; Julie Samuels and Steven Shandy of the Department of
+Justice Criminal Division; Gerry Gaes, Ph.D. of the Bureau of
+Prisons; William Adams, Harvey Meyerson, and Yan Yuan of the
+Urban Institute, and Jan M. Chaiken, Ph.D. (chair) and Steven K.
+Smith, Ph.D. of the Bureau of Justice Statistics.  John Scalia
+of BJS and William J. Sabol of the Urban Institute wrote this
+report.  Yvonne Boston edited the report and produced the camera
+copy under the supervision of Marilyn Marbrook.  
+
+Data presented in this report may be obtained from the National
+Archive of Criminal Justice Data at the University of Michigan,
+1-800-999-0960 and the BJS Clearinghouse, 1-800-732-3277.  The
+report and data are also available on the Internet at --
+http://www.ojp.usdoj.gov/bjs/
+
+
+Contents
+
+Federal criminal justice agencies and their statistics   
+
+Primary differences in agency reports of Federal criminal
+statistics   
+
+   Definitions of case and defendant   
+   Reporting and data collection periods   
+   Offenses and case type   
+   Classifying the case or defendant substantive offense   
+   Offense hierarchy   
+   Effects on reported statistics: the case of Project Triggerlock 
+
+Disposition and sentence imposed   
+   Disposition   
+   Sentences imposed   
+
+Reconciling published case processing statistics   
+
+Tracking offenders through the Federal criminal justice process 
+   Identifying offenders and offender/cases   
+   Assigning a Federal offender/case tracking number   
+   Implementing an offender/case tracking system   
+
+Recommendations for improving the collection 
+of Federal criminal data   
+   Standardization of court docket number   
+   Standardization of defendant name   
+   Adoption of an offender case tracking number  
+
+Appendix   
+   Summary of statistical concepts operationalized 
+     by Federal criminal justice agencies   
+   Appendix tables   
+
+
+
+Federal criminal case processing statistics help to inform and
+shape Federal criminal justice policy.  They reflect the
+performance of Federal criminal justice agencies, inform debates
+about law enforcement and sentencing policy, and allocate
+budgets.  Congress uses statistics describing the number of
+Federal prosecutions to evaluate the Attorney General's law
+enforcement priorities.  The public uses statistics describing
+the average sentences imposed on Federal offenders to assess
+Federal sentencing policy.  Federal criminal justice agencies
+routinely use Federal criminal statistics to make plans, develop
+budget requests, and allocate resources across Federal judicial
+districts.   The Bureau of Prisons uses data describing the flow
+of offenders through the Federal criminal justice process to
+develop forecasts of the Federal prison population.
+
+Federal criminal statistics are reported annually by four
+agencies:
+
+* the Executive Office for U.S. Attorneys 
+
+* the Administrative Office of the U.S. Courts
+
+* the U.S. Sentencing Commission 
+
+* the Federal Bureau of Prisons.  
+
+These agencies, however, often report different numbers of
+offenders.  For example, during 1997 the U.S. attorneys reported
+that 45,375 defendants were convicted and sentenced while the
+Federal judiciary reported 55,648 and the U.S. Sentencing
+Commission reported 48,681.  For policymakers, this lack of
+convergence among seemingly similar statistics reported by these
+four Federal agencies can be problematic.
+
+At the request of the Attorney General, during 1995, the
+Executive Office for United States Attorneys, the Administrative
+Office of United States Courts, the United States Sentencing
+Commission, the Federal Bureau of Prisons, and the Bureau of Justice
+Statistics convened a working group -- the interagency working
+group on Federal criminal case processing statistics (hereafter
+working group) -- to study, identify, and reconcile the
+differences in the reported statistics.  This report summarizes
+the technical work that underlies the working group's
+conclusions.  
+
+The working group, chaired by the Bureau of Justice Statistics,
+identified four goals:
+
+* to identify and statistically reconcile differences in the
+manner in which the agencies report criminal case processing
+statistics;
+
+* to develop definitions of commonly used terminology to explain
+differences in statistical concepts and reports;
+
+* to determine whether commonly collected information can be
+shared across agencies; and
+
+*to determine whether a unique defendant/case tracking number
+can be developed and implemented to track individual defendants
+through the Federal criminal justice process.
+
+In 1996 the working group issued a report, Comparing Case
+Processing Statistics, that described the primary reasons for
+the differences in the agencies' reported statistics (see
+Appendix).  In this report the working group concluded that the
+differences are attributable to (1) the differing ways the
+agencies define defendants in key case processing events, (2)
+the time periods for reported events, (3) the methods used to
+classify offenses and case types, and (4) the methods used to
+classify disposition and sentences imposed.  Since its
+publication, each agency has taken steps to incorporate the
+report, or its conclusions, into its annual statistical report.  
+
+While the agencies may report on similar concepts such as the
+number of cases filed, the number of defendants in cases, and
+average sentences imposed, the statistics reported differ for
+many legitimate reasons such as those related to defining
+case-processing events, to the scope of events in the criminal
+justice system covered, and to the periods for which events are
+reported.  Consequently, the working group concluded that it may
+be impractical for the agencies to adopt common methods for
+reporting case processing statistics.  Further, given the
+ability of the Bureau of Justice Statistics to reconcile the
+reported statistics and to present each agency's statistics in
+their appropriate context, the working group concluded that it
+was unnecessary for the agencies to adopt a common reporting
+methodology.
+
+To reconcile the differences in the reported statistics, the
+working group concluded that the agencies' data must be
+reanalyzed to take into account the known sources of disparity. 
+The working group set in place a procedure to annually reconcile
+the agencies' official statistics.  The Bureau of Justice
+Statistics, as part of its Federal Justice Statistics Program,
+assumed responsibility for reconciling several key, commonly
+used case processing statistics reported by the various
+agencies.  Following the procedures established for its Federal
+Justice Statistics Program, the Bureau of Justice Statistics
+would --
+
+* continue to obtain from each agency annual data extracts as
+well as any additional extracts needed to identify case
+processing events during the reporting period
+
+* standardize the data in terms of the reporting period and
+defendants included, the definitions of defendants, the offense
+categories, and the disposition and any sanctions imposed
+
+* annually publish by the end of June following the end of the
+Federal fiscal year a report that details these reconciled
+statistics. 
+
+The working group concluded that despite each agency's reporting
+differences, it is possible for the agencies to share commonly
+collected information.  Information such as the specific charges
+filed against the defendant, dates of key events, and disposition
+is collected in a similar manner.   Provided that the agencies
+were able to electronically share information, this sharing
+would minimize discrepancies in the agencies' data and could
+reduce or eliminate redundant collection.
+
+Finally, the working group concluded that a first step in
+sharing information across agencies would be for the Federal
+criminal justice agencies -- including Federal law enforcement
+agencies  -- to adopt an offender/case tracking number.  Such a 
+number would be used to positively identify offender/cases and
+link records of case processing events across agencies. The
+methods currently used by BJS to link data, while generating
+relatively high match rates between agencies, have little
+utility to the agencies and are fraught with difficulties and
+possible error.  By tracking offenders as they are processed
+rather than after the fact, an offender/case tracking system
+would make it possible for the agencies to share information as
+well as ensure complete and timely updates to Federal criminal 
+history records.  In addition, an offender/case tracking system 
+would facilitate future efforts to reconcile case processing 
+statistics.
+
+Federal criminal justice agencies and their statistics
+
+Each agency reports workload or caseload statistics describing
+the volume of cases or defendants handled during a given
+reporting period.  Collectively, the statistical reports of four
+Federal criminal justice agencies describe the processing of
+defendants through the Federal criminal justice system.  The
+Executive Office for U.S. Attorneys reports on the workload of
+U.S. Attorney Offices (table 1).  The Administrative Office of
+U.S. Courts describes the caseload of the Federal judiciary. 
+The U.S. Sentencing Commission reports on sentences imposed
+pursuant to the Federal sentencing guidelines.  The Federal
+Bureau of Prisons reports on Federal prisoners under their
+jurisdiction.  Each report describes distinct but overlapping
+segments of the Federal criminal justice system.
+
+-----------------------------------------------------------------------------
+Table 1.  Federal criminal justice agencies and primary
+area(s) of responsibility
+ 
+Executive Office for United States Attorneys
+         United States attorneys offices
+         Investigating suspects and prosecuting defendants in Federal courts
+ 
+Administrative Office of the United States Courts
+         U.S. district courts, U.S. appellate courts
+             Pretrial service agencies, Federal probation service 
+         Adjudicating defendants charged with Federal crimes, adjudicating
+              Federal criminal appeals, administering pretrial services
+              and supervision service for offenders on probation, parole, and 
+              supervised release
+ 
+U.S. Sentencing Commission
+         N/A
+         Promulgating Federal sentencing guidelines
+ 
+Federal Bureau of Prisons
+         Federal correctional institutions and metropolitan detention facilities
+         Housing defendants sentenced to imprisonment and other criminal justice
+               detainees
+
+-----------------------------------------------------------------------------
+In its report United States Attorneys: Annual Statistical
+Report, the Executive Office for U.S. Attorneys (hereafter, U.S.
+attorneys) presents a statistical summary of matters and cases
+handled by the United States Attorneys from the time they are
+referred to the U.S. attorneys by an investigative agency, such
+as the FBI, through disposition and appellate action, where
+applicable.  The U.S. attorneys report on "matters" and criminal
+cases.  A matter is a criminal referral to a U.S. attorney. 
+Matters may be declined immediately, investigated further and
+subsequently declined, prosecuted before a U.S. magistrate, or
+referred for prosecution before a U.S. district court judge.  A
+case is a matter involving a felony or Class A misdemeanor that
+has been referred for prosecution before a U.S. district court
+judge.  The scope of the U.S. attorneys' statistical report is
+limited to felony and Class A misdemeanor offenses filed before
+a U.S. district court judge. All other matters such as Class B
+and C misdemeanor offenses and proceedings before U.S. magistrates 
+are excluded from the U.S. attorneys' counts of cases and 
+defendants in cases.
+
+In its report Judicial Business of the United States Courts:
+Annual Report of the Director, the Administrative Office of U.S.
+Courts' (hereafter, Federal judiciary) presents a statistical
+summary of the workload of the Federal judiciary (trial and
+appellate courts), the Federal pretrial services agencies, and 
+the Federal probation agencies.  The Federal judiciary's 
+statistical report includes all proceedings commenced by U.S. 
+district court judges and, in the case of Class A misdemeanors, 
+by U.S. magistrates.
+
+In its report the Sourcebook of Federal Sentencing Statistics
+(formerly U.S. Sentencing Commission, Annual Report), the U.S.
+Sentencing Commission (hereafter, Sentencing Commission)
+presents statistics describing characteristics of defendants
+sentenced pursuant to the Federal sentencing guidelines and the
+application of the guidelines. 
+
+In its reports of "Key Indicators," the Federal Bureau of
+Prisons reports on offenders committed to its custody: 
+those awaiting trial or sentencing, those sentenced to a term of
+imprisonment, Immigration and Naturalization Service detainees,
+and boarders from the District of Columbia.
+
+Primary differences in agency reports of Federal criminal
+statistics
+
+Each Federal criminal justice agency reports statistics that
+reflect their handling of criminal cases and defendants.  In
+theory the statistics reported by each agency should be
+comparable, but in practice the reported statistics differ
+across agencies.  For instance, for fiscal year 1997, the U.S.
+attorneys' statistical report showed that the 93 U.S. attorneys
+filed criminal charges in U.S. district court against 58,906
+defendants.  By contrast, the Federal judiciary's report showed
+that criminal cases were commenced against 69,437 defendants
+(table 2).  A difference of 10,531 defendants comparing
+defendants in cases filed by U.S. attorneys and defendants in
+cases commenced by the Federal judiciary.  Similarly, the U.S.
+attorneys reported that 45,375 defendants were convicted during
+1997, while the Federal judiciary reported 55,648 convictions,
+and the Sentencing Commission reported 48,681.
+
+-----------------------------------------------------------------------------
+Table 2.  Comparison of the number of defendants processed as reported
+by Federal criminal justice agencies, for the Federal fiscal year 1997
+ 
+                           Executive  Administra-
+                           Office     tive Office   U.S.         Federal
+                           for U.S.   of the U.S.   Sentencing   Bureau
+Defendants                 Attorneys  Courts        Commission   of Prisons
+ 
+Cases filed/commenced       58,906      69,437        --           --
+Cases terminated            51,492      63,148        --           --
+Convicted and sentenced     45,375      55,648       48,681        --
+Imprisoned                  34,044      43,791       38,388      38,293
+
+-----------------------------------------------------------------------------
+
+In general, the primary differences in reported statistics arise
+from differences in the scope of the agencies' reports and in
+the way the agencies define key concepts in case processing. 
+For example, because the U.S. attorneys exclude defendants in
+cases filed before U.S. magistrates from their counts while the
+Federal judiciary includes them, the U.S. attorneys consistently
+report fewer defendants than the Federal judiciary.  Similarly,
+because the Federal judiciary reports on all defendants
+convicted and sentenced while the Sentencing Commission reports
+on only those sentenced pursuant to the Federal sentencing
+guidelines, the sentencing commission has consistently reported
+fewer defendants sentenced than the Federal judiciary.  Other
+factors that contribute to the disparity include differences in
+the reporting period, in the methods for classifying offenses
+and reporting dispositions, and in the sentences imposed.   
+
+Definitions of case and defendant
+
+The number of cases and defendants in cases reported by the
+agencies are based on agency-specific definitions of "case." 
+The definition of case varies according to specific actions
+taken by the U.S. attorneys and the Federal judiciary and the
+severity of the offense (table 3).
+
+-----------------------------------------------------------------------------
+Table 3.  Scope of coverage of agency statistical reports
+ 
+                               Executive  
+                               Office                Administrative             U.S.
+                               for U.S.              Office of the              Sentencing           Federal Bureau
+Universe                       Attorney              U.S. Courts                Commission           of prisons    
+ 
+Suspects
+Investigated                      #
+Declined for prosecution          #
+In matters disposed of by
+U.S. magistrates and --
+    Convicted  and sentenced      #                       #                            #              Imprisoned only
+    Not convicted                 #                       
+
+Defendants
+In cases filed with U.S.
+district court judges             #                       #
+
+In cases terminated by U.S. 
+district court judges and --
+    Convicted and sentenced       #                       #                            #              Imprisoned only
+    Not convicted                 #                       #
+
+Offense severity
+Felony                            #                       #                            #              #
+Misdemeanor
+    Class A                       By U.S. district 
+                                  court judges only       #                            #              Imprisoned only
+    Class B & C                                          By U.S. district 
+                                                         court judges only                             Imprisoned only
+ 
+Note: The Administrative Office of the U.S. Courts reports on Class B and C misdemeanors
+handled by U.S. magistrate judges in a separate series of tables that are included in their
+annual report.  The U.S. Sentencing Commission reports on only those defendants who
+were sentenced pursuant to the Federal sentencing guidelines.
+
+-----------------------------------------------------------------------------
+
+Both the U.S. attorneys and Federal judiciary report on case
+initiations and case terminations.  While both agencies use the
+same event(s) to tabulate case terminations (disposition by the
+court), they differ with regard to case initiations.
+
+U.S. attorneys, a case is initiated when a U.S. attorney files
+an indictment (or information) before a U.S. district court
+judge.  Proceedings before U.S. magistrates, however, are not
+considered cases by the U.S. attorneys.  
+
+By contrast, for the Federal judiciary, a case is initiated when
+a U.S. district court judge or magistrate takes an action to
+initiate or commence proceedings against a defendant. 
+Therefore, while both agencies often use the same terminology to
+report cases and defendants in cases initiated, the reported
+statistics are based on different case processing events.  
+
+The impact of basing reported statistics on the filing date as
+opposed to the commencement date can be substantial.  During
+1996, for instance, about 14% of the 69,700 defendants in cases
+commenced by the Federal judiciary were filed by the U.S.
+attorneys at least 1 month prior to commencement.  A few (2%)
+were filed more than a year prior to commencement.
+
+The U.S. attorneys, the Federal judiciary, and the Sentencing
+Commission -- to varying degrees -- report on defendants
+convicted and sentenced in Federal court.  While the U.S.
+attorneys and the Federal judiciary report the sentence imposed
+on each defendant in each case, the Sentencing Commission
+reports on the sentence imposed during a sentencing event. 
+Defendants convicted of multiple offenses in multiple cases may
+have those cases consolidated for sentencing.***Footnote 1.  
+See, Fed. R. Crim. P. 20.*** When two or more cases are
+consolidated for sentencing, the defendant receives one
+sentence.  During 1997, 2.2% of defendants sentenced were
+convicted in multiple judicial proceedings but sentenced on one
+occasion.
+
+Unlike the other agencies, the Federal Bureau of Prisons does
+not track cases or person/cases (defendants).  It tracks the
+movement of offenders (persons) through the Federal prison
+system.  The Bureau of Prisons' statistics are divorced from the
+U.S. attorneys' and Federal judiciary's concept of "case."
+
+For example, an offender may be charged in multiple Federal
+criminal cases concurrently or during a single reporting period.
+ While the U.S. attorneys and the Federal judiciary would count
+each defendant/case separately, the Bureau of Prisons would
+count only the person committed to its custody.  The Bureau,
+however, would separately record each sentence imposed. 
+
+Reporting and data collection periods
+
+Each agency uses the Federal fiscal year -- the 12-month period
+ending September 30 -- as their official reporting
+period.****Footnote 2.   While the Bureau of Prisons produces
+reports such as its Key Indicators and Monday Morning Highlights
+for periods covering the Federal fiscal year, the Bureau does
+not release an annual statistical report of the type released by
+the other agencies.**** Except for the U.S. attorneys, the
+agencies report on events that occurred during a reporting
+period.  The U.S. attorneys, by contrast, report on events that
+were posted, or record-ed, to their data system during the
+reporting period.  
+
+Because the U.S. attorneys report events posted to their data
+system, records posted late -- the events that occurred during
+one reporting period but not posted until a later reporting
+period -- can affect reported statistics.  Late postings can
+arise for several reasons: the clerks of courts may not return
+the indictment to the U.S. attorneys;  assistant U.S. attorneys
+may not complete the paperwork associated with case filings; and
+efforts to clean up pending cases can cause large increases in
+the number of records posted during a reporting period; and
+reporting practices may differ among U.S. attorney offices.  
+
+As part of a detailed audit of cases processed in four Federal
+judicial districts (Central California, Southern California,
+Southern Florida, and Eastern Virginia), the Bureau of Justice
+Statistics found that nearly a quarter (23.2%) of the records
+reported by the U.S. attorneys as disposed of during fiscal year
+1994 were actually disposed of and reported by the Federal
+judiciary during fiscal year 1993.  
+
+The proportion of records posted late by the U.S. attorneys has
+been fairly constant over time.  Between 1992 and 1996,
+approximately 6% to 8% of records of defendants in cases filed
+as reported by the U.S. attorney were posted late. 
+Consequently, the relationship between actual case processing
+events and events posted has remained relatively stable.  For
+example, during 1992, the U.S. attorneys reported 59,198
+defendants in cases filed.  A review of 6 years of data by the
+Bureau of Justice Statistics indicated that 59,070 defendants in
+cases were actually filed with the Federal judiciary by the
+U.S. attorneys during 1992.  Similar patterns persisted for
+subsequent years.  
+
+Posting lags are not unique to the U.S. attorneys.  The
+Sentencing Commission excludes records of sentencing events that
+occurred during the reporting period but not received until
+after the end of its data collection period (approximately 3
+months following the end of the reporting period).  A relatively
+small proportion (1% to 2%) of such sentencing events are
+"reported late" to the Sentencing Commission and excluded from
+its published statistics.****Footnote 3.  Unlike the U.S.
+attorneys, the Sentencing Commission does not include these
+records in reports for subsequent fiscal years or in its
+public-use datasets.****
+
+In addition, because the Sentencing Commission relies on the
+district courts to submit documentation in hard copy, the
+Sentencing Commission's reported statistics experience a certain
+degree of nonreporting by the district courts.  Beginning in fiscal
+year 1997, the Sentencing Commission -- with the assistance of
+the Bureau of Justice Statistics -- undertook an effort to
+identify cases for which the district courts failed to submit
+documentation.  The Sentencing Commission identified more than
+4,000 cases for which the district courts did not provide court
+documents during the fiscal year.
+
+Offenses and case type
+
+A third major source of disparity relates to the methods used to
+categorize offenses investigated, charged, and/or adjudicated. 
+The Federal code defines hundreds of laws for which persons can
+be criminally prosecuted.  Each agency except for the Bureau of
+Prisons collects some, if not all, of the statutory offenses for
+which the defendant was charged and/or adjudicated.
+
+Classifying the case or defendant substantive offense
+
+The Federal judiciary and Sentencing Commission consolidate and
+categorize the titles and sections of the criminal code
+according to likeness of the offenses (table 4).  While they
+generally follow the same method to consolidate and categorize
+statutory offenses, the categories used are not identical.
+
+-----------------------------------------------------------------------------
+
+Table 4.  Categorizing offenses
+
+
+                                 Executive Office      Administrative Office       U.S. Sentencing               Federal
+                                 for U.S. Attorneys    of the U.S. Courts          Commission                    Bureau of Prisons
+ 
+Number of offense categories          97                   254                         201                           348
+ 
+Number of categories reported         54                    61                          41                            15
+ 
+Basis for offense categorization   DOJ law enforcement  Statutory citation         Statutory citation             Statutory citation
+                                     initiative         Likeness of offenses       Likeness of offenses           Likeness of offenses
+
+Determination of most              U.S. attorney        Statutory penalties        Statutory penalties            Sentence imposed           
+     serious offense                 discretion         Harm involved/a             Harm involved/a               Harm involved/a 
+ 
+Offense category assigned at--     Case-level           Defendant-level/b          Defendant-level                Defendant-level
+ 
+Offense reported                   Offense              Offense charged            Offense of conviction          Offense of conviction
+                                     investigated       Offense adjudicated        
+ 
+a/In instances where multiple offenses have the same statutory penalties, the most serious
+offense  is selected according to the particular harm -- involved  violent, drugs, firearms,
+property, moral, other.
+b/The Administrative Office reports case-level statistics.  The case-level offense is selected
+using the offense of the first defendant charged in the case.
+
+-----------------------------------------------------------------------------
+
+The Federal judiciary currently uses 254 offense categories to
+classify cases and defendants; these offense categories are
+consolidated into 61 categories for reporting purposes.  The
+offense category is assigned at the defendant level at both
+commencement and termination of the case.  Offenses at com-
+mencement represent the offenses charged.  By contrast, offenses
+at termination reflect the offenses for which defendants were
+adjudicated.  The offenses may differ because of additional
+charges added by the U.S. attorney or the reduction of charges
+as a result of judicial action or plea or charge bargaining.  
+
+Tabulations of cases and defendants commenced use the offense
+charged; tabulations of cases and defendants terminated and
+sentenced use the offenses adjudicated.  In multidefendant
+cases, a case-level offense is selected based on the offense of
+the first defendant charged in a case.  Thus, multiple
+defendants in the same case may appear on different offense
+lines in reports of the offenses of defendants, and some
+defendants' offenses will not be used to determine or classify
+the offense of a case.
+
+The U.S. Sentencing Commission currently uses 201 offense
+categories; these categories are consolidated into 41 categories
+for reporting purposes.  The Sentencing Commission's categories
+are similar to those reported by the judiciary.  The offense
+category is assigned at the defendant-level, and reflects the
+offense of conviction.
+
+The U.S. attorneys categorize offenses according to Department
+of Justice and U.S. attorney law enforcement initiatives, in
+contrast to the other agencies, who categorize offenses more
+generically.  The U.S. attorneys currently use 97 program
+categories to classify cases and defendants.  These program
+categories are consolidated into 54 categories for reporting
+purposes.  By contrast to the Federal judiciary, program
+categories are assigned at the case rather than at the defendant
+level.  Consequently, in multidefendant cases, all defendants
+are assigned the same program category even though their
+statutory offenses might vary.  For example, a case identified
+as a public corruption case might comprise defendants charged
+with very different substantive offenses such as embezzlement,
+soliciting or receiving a gratuity, fraud, and/or tax evasion. 
+In addition, U.S. attorneys do not report separate offenses
+charged or adjudicated: the program category reported reflects
+the offense originally investigated by the U.S. attorney.
+
+The Bureau of Prisons does not collect statute-specific offense
+data.  Instead, the offense of conviction is classified directly
+into offense categories.  For many offenses, however, the
+Bureau's offense categories closely correspond to a particular
+statutory offense.  For others, the offense categories
+correspond to an otherwise closely-knit group of offenses.  The
+Bureau's coding scheme contains 348 offense categories.  The
+offense category is assigned at the inmate level and it reflects
+the offense of conviction.
+
+Offense hierarchy
+
+For defendants charged with or convicted of more than one
+offense, the agencies use different methods to identify and
+report the most significant, or serious, offense.  The Federal
+judiciary and the U.S. Sentencing Commission base the most
+serious offense on the severity of statutory penalties
+(imprisonment and fine) associated with the offenses. 
+Defendants charged with multiple violations are classified into
+a single offense category based on maximum statutory penalties. 
+If two offenses have the same statutory penalties, the most 
+serious offense is chosen by rank-ordering the offenses according 
+to the particular type involved -- violent, drugs, firearms, 
+property, moral, and other. ****Footnote 4. In the Federal 
+judiciary's classification of the most serious offense 
+terminated, the hierarchy also includes the method of
+disposition.  This aspect is described in the section
+Disposition and Sentence Imposed.**** For instance, since bank
+robbery is considered a violent offense, a bank robbery offense
+with a statutory maximum of 10 years imprisonment would take
+precedence over a drug offense with the same statutory maximum
+penalty.  
+
+By contrast, the U.S. attorneys' program category is based on an
+assistant U.S. attorney's assessment of the offenses charged. 
+The program category most accurately describing the overall
+offense conduct and the law enforcement initiative is selected
+and used for reporting purposes.
+
+For the Federal Bureau of Prisons, the most serious offense is
+based on the offense of conviction carrying the longest sentence
+imposed by the court.
+
+Effects on reported statistics: the case of Project Triggerlock
+
+Differences in offense classification methods can affect
+comparisons of reported statistics across agencies.  In
+addition, changes in a particular agency's classification
+methods may prevent direct comparisons over time.  The use of
+program categories by the U.S. attorneys substantially affects
+their case processing statistics.  
+
+Prior to 1992, the U.S. attorneys used statutory offense-based
+categories.  During this time, the U.S. attorneys and the
+Federal judiciary reported approximately equal numbers of drug
+defendants in cases filed or commenced (table 5).  However,
+beginning in 1992, the U.S. attorneys began to classify
+defendants according to program categories.  At the same time
+the U.S. attorneys initiated Project Triggerlock.
+
+-----------------------------------------------------------------------------
+Table 5.  Drug defendants in criminal cases filed or commenced  as reports
+ 
+                                     U.S. attorneys
+                 Federal                             Drug              Project
+Year             judiciary         Total             offenses          Triggerlock
+      1990       22,075            21,937            21,937              --
+      1991       23,578            23,587            23,587              --
+      1992       25,033            24,991            22,259             2,732
+      1993       23,114            22,597            20,953             1,644
+      1994       21,922            20,399            18,832             1,567
+      1995       22,929            22,736            21,109             1,627
+      1996       23,861            22,650            21,525             1,125
+      1997       25,885            24,356            23,542               814
+ 
+Notes: Project Triggerlock includes those defendants  charged with a weapons
+offense or another violent offense in conjunction with a drug offense.
+Project Triggerlock was implemented in April 1992.
+ 
+Data sources: Executive Office for U.S. Attorneys,  Annual Statistical Report, annual;
+Administrative Office of the U.S. Courts, Judicial Business of the United States Courts, annual.
+
+-----------------------------------------------------------------------------
+
+Project Triggerlock identifies cases in which defendants use a
+weapon during the commission of a violent or drug offense. 
+Because of the overlap and the U.S. attorney's rules for
+selecting the most appropriate category, defendants who would
+have previously been counted as drug defendants were counted as
+Project Triggerlock defendants under the new system. 
+Consequently, in 1992, the number of drug defendants that U.S.
+attorneys reported as drug offenders began to diverge from the
+number reported by the Federal judiciary. 
+
+For 1992, the U.S. attorneys reported 22,259 drug defendants
+while the Federal judiciary reported 25,033.  If the Project
+Triggerlock defendants concurrently charged with a drug offenses
+had been included, the agencies would have reported more
+comparable statistics -- 24,991 by the U.S. attorneys and 25,033
+by the Federal judiciary.
+
+Disposition and sentence imposed
+
+Disposition
+
+Generally, the agencies use similar methods to identify the
+outcome of the judicial proceeding and the method of
+adjudication.  The categorization of the disposition and the
+method of adjudication for a defendant follows the same
+hierarchy across all agencies: conviction takes precedence over
+acquittal and dismissal; jury trial takes precedence over bench
+trial; guilty plea takes precedence over nolo contendere.
+
+The agencies vary, however, in their scope of coverage.  The
+U.S. attorneys and the Federal judiciary report on the
+disposition of both defendants convicted and not convicted.  
+The Sentencing Commission, on the other hand, reports on only
+those defendants who were convicted.
+
+In classifying the most serious offense at termination, the
+Federal judiciary -- in addition to considering the hierarchy of
+the statutory penalties -- considers the method of disposition. 
+Offenses resulting in a conviction take precedence over offenses
+resulting in an acquittal or dismissal.  For example, a
+defendant charged with both a drug trafficking offense (with a
+statutory maximum penalty of life imprisonment) and a money
+laundering offense (with a statutory maximum of 20 years
+imprisonment)  would, be classified as a drug defendant in cases
+filed but a money laundering defendant in cases adjudicated if
+the defendant was not convicted of the drug offense.  By
+contrast, the U.S. attorneys retain the same program category
+when tabulating statistics describing cases terminated that was
+recorded when the matter was initiated.
+
+Sentences imposed
+
+Each agency records the sentence imposed in a similar manner:
+the type of sentence imposed (imprisonment, probation, fine
+and/or restitution), the total months of imprisonment and/or
+probation imposed, and the total amount of fines and/or
+restitution to be paid.  However, the agencies vary according to
+the amount of information collected describing the sentence
+imposed:
+
+* The Federal judiciary collects sentencing information for each
+of up to five counts of conviction.  
+
+* The Sentencing Commission -- while it does not disaggregate
+sentences according to counts of conviction -- disaggregates
+sentences of incarceration into time to be served in Federal
+prisons, community confinement, intermittent confinement, and
+home detention, where applicable.  
+
+* The Federal Bureau of Prisons distinguishes the prison
+sentence imposed from the time the defendant is obligated to
+serve.  Some defendants may receive credit toward their sentence
+for the time they were incarcerated pending adjudication of the
+charges, their cooperation with prosecutors in the investigation 
+of another, and/or good conduct while incarcerated.
+
+Reconciling published case processing statistics
+
+Each statistical agency reports data using definitions of case
+processing events that reflect the mission and workload of a
+particular agency.  Data collection methods and reporting
+requirements are organized according to agencies' administrative
+needs and/or legislative mandate.  As a result, each agency's
+statistical reports narrowly describe Federal criminal case
+processing and are not directly comparable to the statistical
+reports of the other agencies.  When the agencies have modified
+their data collection and/or reporting methods, the statistics
+reported may not be comparable with previously published
+statistics by the same agencies.
+
+While reported statistics may not be comparable, the agencies
+collect much of the same core information.  They all collect the
+Federal statutes charged and adjudicated, the disposition for
+each charge recorded, and key case processing dates.  These core
+data can provide the basis for reconciling the reported
+statistics.  
+
+Since 1982 the Bureau of Justice Statistics has recognized the
+importance of reconciling the differences between agency
+statistics. ****Footnote 5.  See Bureau of Justice Statistics,
+Federal Justice Statistics (March 1982, NCJ 80814).**** By
+reanalyzing agency data and applying a set of standard
+definitions to criminal justice system events, units of count
+(defendants and cases), offense classifications, and reporting
+periods, the Bureau of Justice Statistics is able to present
+data that more completely and consistently describes case
+processing in the entire Federal criminal justice system.  As
+part of its Federal Justice Statistics Program, the Bureau of
+Justice Statistics re-analyzes the agencies' data using the
+following method:
+
+* A common unit of count or unit of analysis is used across all
+statistics. In tables describing the processing of defendants in
+cases, the unit of analysis adopted was the defendant-case,
+while in tables describing offenders under correctional
+supervision, the unit of analysis adopted was the individual
+offender.
+
+* Person/cases are counted once, so that suspects or defendants
+in matters or cases opened, disposed, or terminated, by transfer
+are excluded.
+
+* Events occurring during a reporting period are tabulated. 
+Multiple years of data are used in order to obtain information
+about case processing events posted late; statistics are
+reported for the Federal fiscal year. 
+
+* Uniform offense classification methods are used: Using the
+Federal statutes charged and adjudicated, where available,
+defendants are classified into common offense categories.  
+
+* The most serious offense charged -- based on statutory maximum
+penalties -- is used to describe defendants in cases
+commencement and adjudicated.
+
+* Sentences imposed upon defendants are distributed among a most
+serious offense of conviction -- based on the most serious
+disposition. 
+
+* Offenders under Federal supervision or under the jurisdiction
+of the Bureau of Prisons are classified according to the offense
+with the single longest sentence.
+
+Using this method the Bureau of Justice Statistics substantially
+reduced -- although not completely eliminated -- disparity in
+the reported case processing statistics.  For example, for
+fiscal year 1997, the Federal judiciary reported 63,148
+defendants in cases terminated; the U.S. attorneys reported
+51,492 defendants -- a difference of 11,656 defendants in cases
+terminated (table 2).  After reconciling the agencies' 1997 case
+processing data, the number of defendants in cases terminated
+was 64,956 using the Federal judiciary's data and 63,765 using
+the U.S. attorneys (53,758 in cases terminated before U.S.
+district court judges and 10,007 concluded by U.S. magistrate
+judges); a difference of 1,191 defendants in cases terminated
+and a 90% reduction in the disparity in the official statistics
+(table 6).
+
+-----------------------------------------------------------------------------
+Table 6.  Reconciled number of defendants in matters or cases 
+terminated in Federal courts, 1997
+
+                               Number of matters or cases terminated
+                      Reported by             Reported by U.S. attorneys 
+                      Federal                      By U.S. district   By U.S.
+ Most serious offense judiciary          Total     court judges       magistrates
+ 
+Total                  64,956            63,765       53,758            10,007
+Violent offenses        3,482             3,881        3,529               352
+Property offenses      17,521            15,737       13,818             1,919
+    Fraudulent         12,808            13,634       11,999             1,635
+    Other               4,713             2,103        1,819               284
+Drug offenses          23,528            22,773       20,870             1,903
+Public-order           20,361            20,379       14,830             5,549
+   Regulatory           1,696             1,494        1,228               266
+   Other               18,665            18,885       13,602             5,283
+Missing or indetermin      64               995          711               284
+
+-----------------------------------------------------------------------------
+
+The working group agreed that the Bureau of Justice Statistics,
+as part of its Federal Justice Statistics Program, would
+annually publish these reconciled statistics.  These statistics
+form the basis of the report: Federal Criminal Case Processing
+Statistics.  In this report, statistics describing
+suspects/defendants processed at key stages of the Federal
+criminal justice system are tabulated:  suspects in matters
+investigated and concluded, defendants in cases filed and
+terminated, offenders sentenced and their types and lengths of
+sentences, offenders under Federal supervision, and offenders
+entering, released from, or in Federal prison.  At each stage
+the data were disaggregated according to the most serious
+offense and, where possible, distinctions between felonies and
+misdemeanor offenses were maintained.  (See Appendix.)
+
+Tracking offenders through the Federal criminal justice process
+
+The working group approached the task of reconciling differences
+in reported statistics primarily by applying standard
+definitions to key events and concepts in criminal case
+processing.  This method assumes that records of events recorded
+in one agency's case management system will eventually appear in
+other systems unless an event is outside a specific agency's
+scope of coverage.  Another approach used by the working group
+involved linking records of defendants across agencies and
+tracking the defendants' progress through the various stages of
+the Federal criminal justice system. 
+
+In a detailed audit of the U.S. attorney, Federal judiciary, and
+Sentencing Commission data in four judicial districts, BJS was
+able to demonstrate the degree to which differences in reported
+statistics was due to differences in definitions, scope of
+coverage, and cohorts of defendants.  Linking records and
+tracking defendants across agencies and through the criminal
+justice process are useful methods for reconciling discrepancies
+in case processing statistics.  However, because defendants in
+the Federal criminal justice system are not assigned unique
+tracking numbers, it is a very complicated and time consuming
+process that is often incomplete and sometimes results in
+mismatches.
+
+Tracking defendants through the criminal justice process, as
+they are processed, can benefit both the operation of the
+Federal criminal justice system and the reporting of case
+processing statistics.  By tracking defendants across agencies
+and sharing information on offenders and offender/cases that is
+concurrently collected, agencies could eliminate or
+substantially reduce the amount of duplicative data collection;
+and by combining information collected at arrest, such as
+fingerprints, with the court disposition, the completeness and
+timeliness of Federal criminal history records maintained by the
+FBI Criminal Justice Information Service could be substantially
+improved.  In addition, comprehensive information describing the
+processing of Federal offenders can assist the agencies in
+forecasting their workload and, in the case of the Bureau of
+Prisons, the Federal prison population.
+
+Tracking defendants and sharing information across agencies
+could improve reported statistics by --
+
+* providing real-time updates to each agency's data system as
+events are recorded by the source agency 
+
+* increasing the amount of information available about
+defendants such as defendant characteristics or changes in the
+charges levied
+
+* describing the processing of specific cohorts of defendants
+from investigation through disposition, sentencing, and
+corrections -- imprisonment and/or community supervision.
+
+Despite its advantages, tracking offenders through the Federal
+criminal justice process is currently not possible.  Information
+describing the processing of Federal offenders is scattered
+across each agency processing offenders.  Each agency collects
+its own information describing offenders processed.  Further,
+because the agencies do not share a common number identifying a
+particular offender charged in a particular case, it is
+difficult to link records of offender cases processed by
+multiple agencies -- linking 100% of the records is virtually
+impossible.
+
+Identifying offenders and offender/cases
+
+
+
+Over the course of an offender's criminal career, he or she may
+come into contact with the criminal justice system many times. 
+At each arrest, the offender is fingerprinted.  The FBI uses
+fingerprints to positively identify the offender.  To each
+unique set of fingerprints at their first submission, the FBI
+Criminal Justice Information Service assigns an FBI number. 
+This number is a permanent identifier for the offender each
+subsequent time his or her fingerprints are submitted. 
+Similarly, the U.S. Marshals Service assigns a U.S. marshals
+number to identify and track offenders in their custody.  The
+U.S. marshals number is assigned when the offender is first
+taken into custody.   This number is also a permanent identifier
+used by the service to identify an offender each time he or she
+is processed.****Footnote 6.  The Bureau of Prisons adopts the
+U.S. marshals number as its register number when the offender
+enters the Federal prison system following adjudication.**** 
+
+By contrast, an offender/case represents a combination of the
+offender and a criminal proceeding involving the offender. 
+While a personal identification number such as the FBI number or
+U.S. marshals number is adequate for tracking an offender, it is
+not sufficient for tracking offender/cases.  Because offenders
+may have committed multiple offenses and may face multiple sets
+of charges, relying on a personal identification number would
+not permit the tracking of two or more concurrent cases
+involving a single defendant using only a personal
+identification number -- multiple cases involving a particular
+offender could not be distinguished.  
+
+Tracking offender/cases requires the assignment of a unique
+number to each offender/case.  The offender/case tracking
+number, however, would be linked with the personal
+identification number.  This method is used by many States to
+track criminal defendants. ****Footnote 7.  See Bureau of
+Justice Statistics, Survey of Criminal History Information
+Systems, 1997, NCJ 175041, April 1999.**** In the Federal
+criminal justice system, the identifier most closely
+approximating an offender/case tracking number is the Federal 
+Judiciary's court docket number.  The court docket number is 
+assigned by the Federal judiciary when the case is filed with 
+the clerk of the court by the U.S. attorney.  For each case 
+in which a Federal offender is charged, a new court
+docket number is assigned.  (The U.S. attorneys and the U.S.
+Sentencing Commission, while they have their own internal
+numbering systems, routinely record the judiciary's court docket
+number in their data systems. ***Footnote 8. While the U.S.
+attorneys and the U.S. Sentencing Commission record the court
+docket number, the working group identified problems in how this
+number is recorded by these agencies.**** In multidefendant
+cases, the defendant number component of the court docket number
+distinguishes the co-defendants. 
+
+Assigning a Federal offender/case tracking number
+
+Because the Federal judiciary's court docket number is assigned
+when the offender/case is presented to the Federal judiciary, it
+cannot be used to track offender/cases prior to the involvement
+of the judiciary.  The offender/case tracking number needs to be
+assigned when the offender first comes into contact with the
+Federal criminal justice system -- in most cases at the time of
+arrest, or, alternatively, at booking. 
+
+While practices may vary across districts, most Federal
+offenders are eventually booked -- photographs made, 
+fingerprints taken and submitted to the FBI for identification,
+and a criminal history record established.  ****Footnote 9. 
+Pursuant to Federal regulation, criminal history records need
+not be established when the offender has been charged with
+nonserious charges such as drunkenness, vagrancy, and
+trafficking offenses.  28 C.F.R. 20.32(b)****
+
+Defendants who are arrested are booked immediately following
+arrest either by the arresting agency or the U.S. Marshals
+Service.  For offenders who are not arrested but are summoned to
+appear following indictment or issuance of criminal information
+by a U.S. attorney, the U.S. Marshals Service books the offender
+following the initial court appearance.
+
+If an offender/case tracking number were assigned at booking,
+each agency subsequently processing the offender would record
+the tracking number on all documents related to the
+offender/case.  The tracking number, therefore, would follow the
+offender/case from arrest through disposition and correctional
+treatment.
+
+Another important consideration relates to ensuring that the
+offender/case tracking number is linked with the offender's FBI
+number.  Because the FBI number is the key to the offender's
+criminal history record maintained by the FBI Criminal Justice
+Information Service, linking the offender/case tracking number
+with the FBI number is paramount for ensuring that the
+offender's criminal history record can be easily updated.  The
+FBI number is required for identifying the particular offender
+in the FBI's criminal history database while the
+offender-tracking number is required for identifying the
+particular incident (or offense) on the offender's Record of
+Arrests and Prosecutions, or RAP sheet.
+
+Implementing an offender/case tracking system
+
+The working group identified the Department of Justice's Joint
+Automated Booking System (JABS) as a feasible vehicle for
+implementing an offender/case tracking system.  JABS was
+originally conceived as a means to standardize booking
+procedures for Federal arrestees, to provide Federal law 
+enforcement agencies with a central repository for information --
+including digitized fingerprints and photographs -- to be shared
+by all Federal law enforcement agencies.  The working group
+concluded that JABS could also serve as the primary conduit for
+electronically submitting the disposition of criminal charges
+filed against a defendant to the FBI. ****Footnote 10.  U.S.
+Department of Justice, Joint Automated Booking System Concept of
+Operations (June 1998).****
+
+The Bureau of Justice Statistics recognized the potential of
+JABS to facilitate  the implementation of an offender/case
+tracking system and approached JABS Board of Directors regarding
+the possibility of expanding the JABS concept to include
+offender/case tracking. ****Footnote 11.  The JABS Board of
+Directors is comprised of representatives from each Department
+of Justice law enforcement agency; it is chaired by the Deputy
+Assistant Attorney General for Information Resource
+Management.****  The JABS board agreed that -- with the
+cooperation of the FBI Criminal Justice Information Service, the
+U.S. attorneys, and the Federal judiciary -- JABS could be
+expanded to track offender/cases.  It was further agreed that
+once an offender's case was adjudicated, JABS could serve as the
+vehicle for electronically submitting the court disposition to
+the FBI Criminal Justice Information Service.  This electronic
+submission of the court disposition would ensure that Federal
+criminal history records are complete and updated in a timely
+manner -- within hours of adjudication.
+
+As an additional benefit, the expansion of JABS could also
+potentially ease the workload of the Federal criminal justice
+agencies.  By electronically sharing information on offenders
+that is concurrently collected, redundant data collection can be
+reduced substantially or eliminated altogether.  For example, at
+booking, the U.S. marshals collect much of the information used
+by Federal pretrial services officers to prepare pretrial
+investigation reports.  To the extent that this information is
+currently shared with pretrial services, it is not shared
+electronically.
+
+Recommendations for improving the collection of Federal criminal
+data
+
+As part of its effort to reconcile case processing statistics,
+the working group identified three particular areas where the
+the Federal criminal justice agencies could improve their data
+collection techniques.  The working group concluded that future
+efforts to reconcile case processing statistics would be greatly
+facilitated if the agencies would standardize the way in which
+they capture information describing the court docket number, and
+the defendant name.  The working group concluded that the
+Federal criminal justice agencies -- including Federal law
+enforcement -- should adopt a unique defendant/case tracking
+number that would be used to track defendants from arrest
+through adjudication.
+
+Standardization of court docket number
+
+Currently, the court docket number is the primary data element
+available to link records across agencies.  As established by
+the Federal judiciary, the court docket number is a 15-digit
+alpha-numeric field where --
+
+* positions 1 through 4 represent the judicial circuit and
+district in which the case is processed
+
+* position 5 represents the court location, or office, within
+the district
+
+* positions 6 and 7 represent the year in which the case was
+filed with the court
+
+* positions 8 through 12 represent the sequential number of the
+case within that particular district
+
+* positions 13 through 15 identify an individual defendant
+within a particular case.
+
+
+The court docket number, however, is not consistently coded by
+each of the agencies.  The U.S. attorneys and the Bureau of
+Prisons enter the docket number as a freeform field including
+extraneous characters such as the judge's or magistrate's
+initials.  According to the U.S. attorneys, individual courts
+have varying requirements for the presentation of the docket
+number on court filings.  These variations include the
+incorporation of judges' initials, the letters "CR" (to
+distinguish criminal and civil filings) or the letter "M" (to
+identify magistrate judge filings) into the docket number.  As a
+result of the U.S. attorney's compliance with these judicial
+requirements, the working group observed more than 400 different
+variations in the court docket numbers recorded in the U.S.
+attorneys' database.  Additionally, the U.S. attorneys do not
+consistently record the defendant number component of the court
+docket number.
+
+The U.S. Sentencing Commission generally follows the pattern
+established by the judiciary.  However, in the positions
+representing the court or office location, the Sentencing
+Commission records the location of the Federal probation office
+transmitting the case documents to the Commission. 
+Additionally, the Sentencing Commission does not consistently
+record the defendant number.
+
+Recommendation:  The working group recommends that the agencies
+record the court docket number in the format established by the
+Federal judiciary.  To ensure that the docket number is entered
+correctly in the field, the agencies might consider recording
+each component in a separate field.  Alternatively, the Federal
+judiciary might consider "bar coding" the docket number on case
+documents.  The bar coded docket number could be scanned by the
+other agencies thereby ensuring compliance with the established
+format and the accurate recording of the information.  Provided
+the agencies adopt some measure to ensure that the docket number
+is recorded in its intended format, future efforts to reconcile
+case processing statistics by comparing individual records would
+be greatly simplified.
+
+Standardization of defendant name
+
+Given the incompleteness of the court docket number in many
+agencies' databases, the Bureau of Justice Statistics often uses
+the defendant's name as a proxy for the defendant number part of
+the court docket number.  Despite perceptions that recording a
+defendant's name is straightforward, there are variations across
+and within the agencies:
+
+* For the most part, the agencies record the defendant name in
+the last name/first name/middle name or initial format or they
+are maintained in separate fields for each part of the name;
+however, in the U.S. attorney's and Federal judiciary's data,
+defendant names were recorded in both the last name/first name
+format and the first name/last name format
+
+* Generational suffixes are not consistently coded
+
+* Hyphenated names -- particularly Hispanic surnames -- are
+problematic: some agencies record both parts of hyphenated
+surnames other agencies record only the first part
+
+* The use of commas and hyphens to separate parts of names is
+also inconsistent: when using the last name/first name format,
+some agencies separate the two names with a comma while others
+do not.
+
+Recommendation:  The working group recommends that the agencies
+adopt a standard format for recording defendant names.  The
+adopted format should include the use of generational suffixes,
+where applicable, and hyphenated parts of names.  Preferably,
+the agencies should adopt the practice of recording each part 
+of the defendant's name in a separate field.
+
+Adoption of an offender case tracking number
+
+In an effort to resolve some of the differences in the
+information collected by the agencies, the working group
+discussed the need for an universal system to track Federal
+offenders through the Federal criminal justice process.  While
+the court docket number is an adequate tracking number for
+criminal defendants within the court system and for users of the
+court system such as the U.S. attorneys, the docket number has
+little utility for Federal law enforcement agencies such as the
+FBI or the Drug Enforcement Administration.  Consequently, the
+working group recommends the adoption of a tracking number that
+would be used by all Federal agencies involved in the criminal
+justice process to identify offenders at any stage of the
+Federal criminal justice process.
+
+The working group identified the Joint Automated Booking System
+(JABS) project as a viable starting point for implementing the
+defendant case tracking number recommended by the working group.
+JABS was conceived as a means to standardize booking procedures
+for Federal arrestees and to provide a central repository for
+information -- including digitized fingerprints and photographs--
+describing Federal arrestees, to be shared by all Federal law
+enforcement agencies.  JABS project management, upon the
+recommendation of the Bureau of Justice Statistics, has agreed
+to expand the JABS concept to include offender/case tracking.  
+
+As a result of this expansion, the benefits of JABS to the
+Federal criminal justice system will be greatly increased:
+
+* The JABS record will eventually contain complete information
+on the processing of the offender.  The record will cover
+information from the time of arrest through disposition,
+including any declinations by the U.S. attorney, and information
+on sentences imposed and on correctional supervision.
+
+* JABS will serve as the conduit for initiating and updating
+criminal history records maintained by the FBI's Criminal
+Justice Information Service, including the electronic submission
+of fingerprints and court disposition.
+
+The expansion of JABS could also ease the workload of the
+Federal criminal justice agencies.  By electronically sharing
+information, redundant data collection can be substantially
+reduced or eliminated.  Much of the information used by Federal
+pretrial services officers to prepare pretrial investigation
+reports is collected at booking.  Any of this information 
+shared by the U.S. marshals with the pretrial services
+officers is nonelectronic.
+
+Recommendation:  The working group supports the expansion of the
+Joint Automated Booking System project to include the U.S.
+attorneys and the Federal judiciary.  The agencies, through
+JABS, should adopt and incorporate into their existing data
+systems a new offender/case tracking number that would be used
+by all Federal criminal justice agencies.  To the extent
+practicable, the tracking number should be bar coded on all
+relevant documents to reduce the likelihood of key-punch error. 
+Additionally, the agencies should --
+
+* work with JABS to establish a mechanism for electronically
+sharing concurrently collected data across agencies 
+
+* ensure that court dispositions and U.S. attorney declination
+decisions are electronically transmitted through JABS to the FBI
+Criminal Justice Information Service.
+
+
+
+Appendix: Summary of statistical concepts operationalized 
+by Federal criminal justice agencies
+
+Summary of statistical concepts operationalized by Federal criminal justice agencies
+
+Concept
+
+Universe of cases and scope of coverage
+Executive Office for U.S. Attorneys
+Suspects in matters investigated, declined for prosecution, disposed  of by U.S. magistrates, and 
+  defendants in cases filed in U.S. district courts.  Limited to defendants investigated by Class A 
+  misdemeanors or felonies. 
+Administrative Office of the U.S. Courts
+All defendants charged with Class A misdemeanor and felonies.  Additionally, includes defendants
+  charged with Class B & C misdemeanor who were proceeded against before U.S. district court judges.
+United States Sentencing Commission
+All defendants charged with Class A misdemeanor and felonies.  Additionally, includes defendants
+  charged with Class B & C misdemeanor who were proceeded against before U.S. district court judges.
+Bureau of Prisons
+All defendants committed to the custody of the Bureau of Prisons to serve a term of imprisonment.   
+Bureau of Justice Statistics Federal Justice Statistics Program
+Suspects in matters investigated, declined for prosecution, disposed of by U.S. magistrates, and
+  defendants in cases filed in U.S. district courts.  Generally limited to suspects or defendants 
+  investigated for, or charged with, a Class A misdemeanor or a felony.  Includes however, defendants 
+  charged with Class B & C misdemeanor who were adjudicated by U.S. district court judges. 
+
+Activity reported
+Executive Office for U.S. Attorneys
+Events posted during the reporting period. 
+Administrative Office of the U.S. Courts
+Events that occurred during the reporting period
+United States Sentencing Commission
+Events that occurred during the reporting period
+Bureau of Prisons
+Events that occurred during the reporting period 
+Bureau of Justice Statistics Federal Justice Statistics Program
+Events that occurred during the reporting period
+
+Unit of count
+Executive Office for U.S. Attorneys
+Each defendant in each matter or case investigated and/or proceeded against before a U.S. district court judge or magistrate. 
+Administrative Office of the U.S. Courts
+Each defendant in each case proceeded against before a U.S. district court judge or magistrate. 
+United States Sentencing Commission
+Each defendant sentenced on a particular date by a U.S. district court judge or magistrate.
+Bureau of Prisons
+Each defendant committed to the custody of the Bureau of Prisons. 
+Bureau of Justice Statistics Federal Justice Statistics Program
+Each defendant in each matter investigated or proceeded against before a U.S. district court judge 
+  or magistrate.  Counts of inmates reflect movements in or out of Federal prison. 
+
+Criminal matters
+Executive Office for U.S. Attorneys
+A criminal matter is an investigation handled by a U.S. attorney for at least one hour.  Matters are 
+  considered concluded when the matter is declined for prosecution, a case is filed in U.S. district court, 
+  or the matter is disposed  of by a U.S. magistrate. 
+Administrative Office of the U.S. Courts
+Not applicable.
+United States Sentencing Commission
+Not applicable.
+Bureau of Prisons
+Not applicable.
+Bureau of Justice Statistics Federal Justice Statistics Program
+A criminal matter is an investigation handled by a U.S. attorney for at least one hour.  Matters are
+  considered concluded when the matter is declined for prosecution, a significant paper is filed in U.S. 
+  district court, or the matter is disposed of by a U.S. magistrate.  
+
+Criminal cases
+Executive Office for U.S. Attorneys
+A criminal case is a proceeding to be adjudicated by a U.S. district court judge for which a significant 
+  paper such as an indictment or information has been filed.  Cases are considered terminated when 
+  proceedings against all defendants in a case are completed. 
+Administrative Office of the U.S. Courts
+A criminal case is a proceeding commenced by a U.S. district court judge  or magistrate.  Cases are
+  considered terminated when proceedings against  all defendants in a case are completed.
+United States Sentencing Commission
+Not applicable.
+Bureau of Prisons
+Not applicable.       
+Bureau of Justice Statistics Federal Justice Statistics Program
+Not applicable.
+
+Disposition  of defendants  in cases  terminated
+Executive Office for U.S. Attorneys
+The disposition associated with each charge included in the indictment or information is collected.  
+  Collected dispositions include: guilty, nolo contendere, acquitted, and dismissed. 
+Administrative Office  of the U.S. Courts
+A disposition associated with up to five offenses adjudicated is collected.  Collected dispositions 
+  include: guilty by jury trial, guilty by bench trial, guilty  by plea, acquitted, and dismissed.
+United States Sentencing Commission
+An overall disposition is collected.  Collected dispositions include: guilty by jury trial, guilty by bench trial, guilty by plea.
+Bureau of Prisons
+Disposition is not collected.    
+Bureau of Justice Statistics Federal Justice Statistics Program
+An overall disposition is reported.  Reported dispositions include guilty by jury trial, guilty  by bench 
+  trial, guilty by plea (including nolo contendere).  
+
+Sentences  imposed
+Executive Office for U.S. Attorneys
+The term of incarceration and/or probation as well as the amount of fine and restitution payable is 
+  collected.  Time to be served in community correctional facilities (including home detention) as part 
+  sentence to either prison or probation is collected. 
+Administrative Office  of the U.S. Courts
+The term of imprisonment and/or probation as well as the amount of fine and restitution payable is 
+  collected.  Information describing confinement within the community as part of a sentence to prison or 
+  probation is not collected. 
+United States Sentencing Commission
+The term of imprisonment imposed as well as the amount of time the defendant is obligated to serve 
+  are collected.  The amount of time the defendant is obligated to serve reflects adjustments for any 
+  time served in jail pending adjudication of the charges and credit for cooperating with prosecutors 
+  and/or good conduct. 
+Bureau of Prisons
+The term of imprisonment imposed as well as the amount of time the defendant is obligated to serve
+  is collected.  The amount of time the defendant is obligated ed to serve reflects adjustments for any time 
+  served in jail pending adjudication  of the charges and credit for cooperating with prosecutors and/or 
+  good conduct.  
+Bureau of Justice Statistics Federal Justice Statistics Program
+The terms of imprisonment and/or probation are reported. 
+
+Offense classifications
+Executive Office for U.S. Attorneys
+A program category is assigned by the U.S. attorney based on the nature of the offenses 
+  investigated and the priorities of the U.S. attorney's office or the Department of Justice.  The program 
+  category may not directly correspond to the "lead charged" identified by the U.S. attorney.
+Administrative Office of the U.S. Courts
+Offense categories are assigned based on the statutory offenses charged and adjudicated.  Up to
+  ten offense categories are collected for each defendant: five describing the offenses charged and . 
+  five describing the offenses adjudicated.  Where the defendant was charged with or adjudicated of 
+  more than one offense, the most serious reflect the offense with the greatest statutory penalties. 
+United States Sentencing Commission
+Offense categories are assigned based on the statutory offenses for which the defendant was 
+  convicted.  Four offense categories are collected for each defendant.  Where the defendant was 
+  convicted of multiple offenses, the most serious offense reflects the offense with the greatest statutory 
+  penalties.
+Bureau of Prisons
+The offense category is assigned based on the statutory offenses of which the defendant was 
+  convicted.  Where the defendant was convicted of multiple offenses, the offense reported reflects 
+  offense with the greatest single sentence imposed.    
+Bureau of Justice Statistics Federal Justice Statistics Program
+The offense category is assigned based on the statutory offenses for which the defendant was charged and/or adjudicated. 
+
+Demographic information
+Executive Office  for U.S. Attorneys
+Not collected.
+Administrative Office of the U.S. Courts
+Not collected as part of the criminal docket.  Demographic characteristics are collected and maintained by Federal pretrial services and Federal 
+  probation.   
+United States Sentencing Commission
+Collected.
+Bureau of Prisons
+Collected. 
+Bureau of Justice Statistics Federal Justice Statistics Program
+Demographic characteristics are compiled from files maintained by Federal Pretrial Services, 
+Federal Probation, the U.S. Sentencing Commission, and the Bureau of Prisons.  These files are 
+linked with the U.S. attorneys' and criminal docket data. 
+
+---------------------------------------------------------------------
+
+
+Appendix table 1.  Suspects in matters investigated by U.S. attorneys, 
+October 1, 1996 - September 30, 1997
+ 
+Most serious offense             Number            Percent
+
+          All offenses          110,034             100  %
+Violent offenses                  7,354               6.7
+Property offenses                29,916              27.2
+     Fraudulent                  25,854              23.5
+     Other                        4,062               3.7
+Drug offenses                    34,027              30.9
+Public-order offenses            37,093              33.7
+      Regulatory                  5,423               4.9
+      Other                      31,670              28.8
+            Weapons               4,870               4.4
+            Immigration           9,366               8.5
+            Taxation              1,403               1.3
+            Other                 6,031              14.6
+Unknown or indeterminable 
+  offenses                        6,441               1.5
+ 
+Data source:  Executive Office for the U.S. attorneys, Central System data file.
+
+
+-----------------------------------------------------------------------------
+
+Appendix table 2.  Disposition of suspects in matters concluded by U.S. attorneys,  
+October 1, 1996 - September 30, 1997
+
+                                                               Disposition of suspects
+                                                          Prosecuted 
+                                                          before a      Concluded
+                                         Percent  of      US district   by a U.S.     Declined  for
+Most serious offense            Total    suspects         court         magistrate    prosecution
+          All offenses           99,459    100.0 %          60,383         10,007            29,069
+Violent offenses                  6,570      6.6             4,153            352             2,065
+Property offenses                28,633     28.8            14,544          1,919            12,170
+     Fraudulent                  25,157     25.3            12,663          1,635            10,859
+     Other                        3,476      3.5             1,881            284             1,311
+Drug offenses                    32,072     32.2            24,400          1,903             5,769
+Public-order offenses            30,882     31.0            16,744          5,549             8,589
+   Regulatory                     4,582      4.6             1,332            266             2,984
+   Other                         26,300     26.4            15,412          5,283             5,605
+      Weapons                     4,646      4.7             3,192            153             1,301
+      Immigration                 8,774      8.8             7,243          1,229               302
+      Taxation                    1,349      1.4               897             37               415
+      Other                      11,531     11.6             4,080          3,864             3,587
+Unknown or indeterminable 
+   offenses                       1,302      1.3               542            284               476
+ 
+Data source:  Executive Office for the U.S. attorneys, Central System data file.
+ 
+-----------------------------------------------------------------------------
+
+Appendix table 3.   Defendants in cases filed in U.S. district courts, 
+October 1, 1996 - September 30, 1997
+ 
+Most serious offense             Number    Percent
+          All offenses           69,351    100  %
+Felony offenses                  57,022     82.3
+   Violent offenses               3,603      5.2
+   Property offenses             13,890     20.0
+      Fraudulent                 11,371     16.4
+      Other                       2,519      3.6
+Drug offenses                    24,693     35.6
+   Public-order offenses         14,836     21.4
+      Regulatory                  1,117      1.6
+      Other                      13,719     19.8
+         Weapons                  3,837      5.5
+         Immigration              6,726      9.7
+         Taxation                   788      1.1
+         Other                    2,368      3.4
+Misdemeanor offenses             12,267     17.7
+Unknown or indeterminable offenses   62       --
+ 
+Data source:  Administrative Office of the U.S. Courts, Criminal Master file.
+
+-----------------------------------------------------------------------------
+
+Appendix table 4.  Defendants in cases filed in U.S. district courts, October 1, 1996 - September 30, 1997
+
+                                                           Convicted                   Not convicted
+                                           Percent                                              Dis-       Ac-
+ Most serious offense           Number     convicted       Total     Plea     Trial    Total    missed     quitted
+            All offenses         64,956     87.1            56,570   52,789    3,781    8,368    7,411      975
+Felony offenses                  53,097     89.8            47,689   47,689    3,339    5,408    4,734      674
+   Violent offenses               3,241     89.9             2,915    2,628      287      326      248       78
+   Property offenses             13,725     89.7            12,311   11,581      730    1,414    1,219      195
+      Fraudulent                 11,152     89.8            10,013    9,458      555      139    1,987      152
+      Other                       2,573     89.3             2,298    2,123      175      275      232       43
+   Drug offenses                 22,374     89.3            19,973   18,427    1,546    2,401    2,168      233
+   Public-order offenses         13,757     90.8            12,490   11,714      776    1,267    1,099      168
+      Regulatory                  1,069     85.7               916      854       62      153      122       31
+      Other                      12,688     91.2            11,574   10,860      714      114    1,977      137
+         Weapons                  3,485     87.6             3,052    2,688      264      433      376       57
+         Immigration              6,165     95.9             5,912    5,854       58      253      240       13
+         Taxation                   727     93.7               681      633       48       46       34       12
+         Other                    2,311     83.5             1,929    1,685      344      382      327       55
+Misdemeanor offenses             11,795     74.8             8,828    8,388      440    2,967    2,667      300
+Unknown or indeterminable offenses   64     82.8                53       51        2       11       10        1
+ 
+Data source:  Administrative Office of the U.S. Courts, Criminal Master file.
+
+-----------------------------------------------------------------------------
+
+Appendix table 5.  Sanctions imposed on defendants convicted in U.S. district courts,  October 1, 1996 - September 30, 1997
+ 
+                                                Type of sentence
+                                                Imprisonment    Split                           Fine      Imprisonment imposed
+ Most serious offense                Total      only            sentences     Probation         only          Mean      Median
+            All offenses             56,570       38,671           755         11,999          3,184          58.9 mo    30 mo
+Felony offenses                      46,878       37,071           676          7,387            280          61.2       34
+   Violent offenses                   2,876        2,568            51            223              4          85.7       60
+   Property offenses                 12,010        6,955           155          4,275            131          24.4       15
+      Fraudulent                      9,919        5,738           133          3,475            128          22.0       15
+      Other                           2,091        1,217            22            800              3          35.5       18
+   Drug offenses                     19,115       17,354           283          1,054             39          80.6       57
+   Public-order offenses             12,877       10,194           187          1,835            106          47.5       24
+      Regulatory                      1,211          590            13            522             56          26.6       15
+      Other                          11,666        9,604           174          1,313             50          48.8       24
+         Weapons                      2,871        2,617            46            182              1         101.8       60
+         Immigration                  6,044        5,166            96            310             12          23.0       22
+         Taxation                       715          304            13            379             15          20.9       15
+         Other                        2,036        1,517            19            442             12          51.9       30
+Misdemeanor offenses                  9,636        1,600            79          4,612          2,904           9.9        3
+Unknown or indeterminable offenses       56            5             0             47             --            --       --
+Data source:  Administrative Office of the U.S. Courts, Criminal Master file.
+
+-----------------------------------------------------------------------------
+
+Appendix table 6.  Offenders under Federal community supervision,  October 1, 1996 - September 30, 1997
+ 
+Most serious offense              Total            Number              Percent         Number          Percent          Number     Percent
+            All offenses         90,751            32,739             100   %           6,872             100   %          51,140    100 %
+Felony offenses                  79,804            22,442              68.9             6,864              99.9            50,498     98.9
+   Violent offenses               5,270               711               2.2             1,690              24.6             2,869      5.6
+   Property offenses             27,585            12,774              39.2               777              11.3            14,034     27.5
+      Fraudulent                 22,621            10,360              31.8               479               7.0            11,782     23.1
+      Other                       4,964             2,414               7.4               298               4.3             2,252      4.4
+   Drug offenses                 33,743             3,655              11.2             3,723              54.2            26,365     51.7
+   Public-order offenses         12,942             5,138              15.8               670               9.8             7,134     14.0
+      Regulatory                  2,187             1,278               3.9                49               0.7               860      1.7
+      Other                      10,755             3,860              11.8               621               9.0             6,274     12.3
+         Weapons                  3,908               612               1.9               202               2.9             3,094      6.1
+         Immigration              1,405               637               2.0                14               0.2               754      1.5
+         Taxation                 1,890             1,251               3.8                65               0.9               574      1.1
+         Other                    3,552             1,360               4.2               340               5.0             1,852      3.6
+Misdemeanor offenses             10,947            10,297              31.6                 8               0.1               642      1.3
+Unknown or indeterminable offenses  264               164               --                  4                --                96       --
+ 
+Data source:  Administrative Office of the U.S. Courts, Federal supervision information system.
+
+-----------------------------------------------------------------------------
+Appendix table 7.  Federal prison admissions and releases, October 1, 1996 - September 30, 1997
+ 
+                               Population        District       All         District   All        Population         Net 
+                               at start of year  court          other       court      other      at end of year     change
+            All offenses           92,379          38,375       13,217       31,894    13,133        98,944          6,565
+   Violent offenses                11,287           2,250        2,430        1,793     2,516        11,658            371
+   Property offenses                7,876           6,379        3,513        6,050     3,567         8,151            275
+      Fraudulent                    5,907           5,185        2,114        4,833     2,225         6,148            241
+      Other                         1,969           1,194        1,399        1,217     1,342         2,003             34
+   Drug offenses                   54,742          17,021        4,382       13,292     4,243        58,610          6,868
+   Public-order offenses           17,313          12,280        2,652       10,457     2,591        19,197          1,884
+      Regulatory                       912            699          222          584       236         1,013            101
+      Other                         16,401          11,581       2,430        9,873     2,355        18,184          1,783
+         Weapons                     7,765           2,071         772        1,741       785         8,082            317
+         Immigration                 4,509           6,927         373        6,029       326         5,454            945  
+         Taxation                      340             324         115          312       109           358             18
+         Other                       3,787           2,259       1,170        1,791     1,135         4,290            503
+Unknown or indeterminable offenses   1,161             445          240         302       216         1,328            167
+ 
+Note:  Represents sentenced prisoners only. Data source: Federal Bureau of Prisons, SENTRY data file.
+ 
+-----------------------------------------------------------------------------
+
+End of BJS Federal Justice Statistics Program Methodology Report 
+Reconciling Federal Criminal Case Processing Statistics
+
+9/21/99 th pm
+revised 10/01/99 th
