@@ -1,0 +1,1805 @@
+U.S. Department of Justice
+Bureau of Justice Statistics
+
+Criminal Victimization in the United States, 1993
+
+By Craig Perkins, Patsy Klaus, Lisa Bastian, Robyn Cohen
+May 1996
+ICPSR 6406
+
+Chapter II
+Demography of Victims
+
+Victimization levels and rates _ 
+personal and property crimes
+  1    Number, percent distribution, and rate 
+        of victimizations, by type of crime
+
+Characteristics of personal crime victims
+
+Sex, age, race, and ethnicity
+Victimization rates for persons age 12 and over_
+  2    By type of crime and sex of victims
+  3    By type of crime and age of victims
+  4    By sex and age of victims and type of crime
+  5    By type of crime and race of victims
+  6    By type of crime and sex and race of victims
+  7    By type of crime and ethnicity of victims
+  8    By type of crime and ethnicity and 
+        sex of victims
+  9    By race and age of victims and type of crime
+ 10    By race, sex, and age of victims and 
+        type of crime
+
+Marital status
+Victimization rates for persons age 12 and over_
+ 11    By type of crime and marital status of victims
+ 12    By sex and marital status of victims 
+        and type of crime
+
+Household composition
+ 13    Victimization rates for persons age 12 and over, 
+         by sex of head of household, relationship 
+         of victims to head, and type of crime
+
+Income
+Victimization rates for persons age 12 and over_
+ 14    By type of crime and annual household 
+        income of victims
+ 15    By race and annual household income of victims 
+        and type of crime
+
+
+Characteristics of property crime victims
+
+Race, ethnicity, and age
+Number of victimizations and victimization rates_
+ 16    By type of crime and race of head of household
+ 17    By type of crime and ethnicity of head of household
+ 18    On the basis of thefts per 1,000 households 
+        and of thefts per 1,000 vehicles owned 
+        by selected household characteristics
+ 19    Victimization rates by type of crime and age
+        of head of household
+
+Annual household income
+Victimization rates_
+ 20    By type of crime and annual household income
+ 21    By race of head of household, annual household 
+         income, and type of household burglary
+ 22    By race of head household, annual household 
+         income, and type of theft
+ 23    By race of head of household, annual household 
+         income, and type of motor vehicle theft
+
+Household size
+Victimization rates by type of crime_
+ 24    And number of persons in household
+ 25    And number of units in structure occupied
+        by household
+
+
+Table 1.  Personal and property crimes,  1993:                                                      
+                                                   
+ Number, percent distribution, and rate of victimizations,
+ by type of crime                       
+ (Internal table)
+ (Base table 1)
+ 
+ ----------------------------------------------------------------------
+  Type of crime                                      Percent           
+                                                      of all           
+                                                     victimi-          
+                                           Number    zations    Rate   
+  --------------------------------------+-----------+--------+-------- 
+  All Crimes                              43,547,400    100.0          
+  Personal Crimes                         11,365,080     26.1     53.7 
+    Crimes of violence                    10,848,090     24.9     51.3 
+     Completed                             3,212,740      7.4     15.2 
+     Attempted                             7,635,360     17.5     36.1 
+     Rape/Sexual assault                     485,290      1.1      2.3 
+      Rape                                   312,580      0.7      1.5 
+       Completed                             160,380      0.4      0.8 
+       Attempted                             152,200      0.3      0.7 
+      Sexual assault                         172,700      0.4      0.8 
+     Robbery                               1,291,020      3.0      6.1 
+      Completed                              814,810      1.9      3.9 
+       With injury                           274,000      0.6      1.3 
+       Without injury                        540,800      1.2      2.6 
+      Attempted                              476,210      1.1      2.3 
+       With injury                            95,500      0.2      0.5 
+       Without injury                        380,710      0.9      1.8 
+     Assault                               9,071,790     20.8     42.9 
+      Aggravated                           2,562,860      5.9     12.1 
+       Completed with injury                 712,970      1.6      3.4 
+       Attempted/threatened with weapon    1,849,880      4.2      8.7 
+      Simple                               6,508,930     14.9     30.8 
+       Completed with injury               1,356,220      3.1      6.4 
+       Attempted/threatened w/o weapon     5,152,710     11.8     24.4 
+    Purse snatching/pocket picking           516,980      1.2      2.4 
+      Completed purse snatching               90,330      0.2      0.4 
+      Attempted purse snatching               45,500      0.1      0.2 
+      Pocket picking                         381,160      0.9      1.8 
+  Total population age 12 and over       211,524,770                   
+  Property crimes                         32,182,320     73.9    322.1 
+    Burglary                               5,984,000     13.7     59.9 
+     Completed                             4,823,770     11.1     48.3 
+      Forcible entry                       1,855,890      4.3     18.6 
+      Unlawful entry without force         2,967,880      6.8     29.7 
+     Attempted forcible entry              1,160,230      2.7     11.6 
+    Motor Vehicle Theft                    1,960,540      4.5     19.6 
+     Completed                             1,290,530      3.0     12.9 
+     Attempted                               670,010      1.5      6.7 
+    Theft                                 24,237,780     55.7    242.6 
+     Completed                            23,020,050     52.9    230.4 
+      Less than $50                        9,652,550     22.2     96.6 
+      $50 - $249                           7,682,460     17.6     76.9 
+      $250 or more                         4,252,510      9.8     42.6 
+      Amount not available                 1,432,520      3.3     14.3 
+     Attempted                             1,217,720      2.8     12.2 
+  Total Number of households              99,927,410                   
+ ----------------------------------------------------------------------
+Table 2. Personal crimes,  1993:                                                                     
+ 
+ Victimization rates for persons age 12 and over,
+ by type of crime and sex of victims
+ (Internal table)
+ (Base table 3)
+ 
+ ----------------------------------------------------------------------------------------------
+  Type of crime                             Both Sexes           Male             Female       
+                                         -----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                    11,365,080  53.7   6,468,030  63.2   4,897,050  44.9 
+   Crimes of violence                   10,848,090  51.3   6,231,760  60.9   4,616,340  42.3 
+    Completed                            3,212,740  15.2   1,601,470  15.6   1,611,260  14.8 
+    Attempted                            7,635,360  36.1   4,630,280  45.2   3,005,080  27.5 
+    Rape/Sexual assault                    485,290   2.3      43,690   0.4     441,590   4.0 
+     Rape                                  312,580   1.5      21,200   0.2     291,380   2.7 
+      Completed                            160,380   0.8       5,950   0.1     154,430   1.4 
+      Attempted                            152,200   0.7      15,250   0.1     136,950   1.3 
+     Sexual assault                        172,700   0.8      22,490   0.2     150,210   1.4 
+    Robbery                              1,291,020   6.1     860,000   8.4     431,020   3.9 
+     Completed                             814,810   3.9     526,520   5.1     288,280   2.6 
+      With injury                          274,000   1.3     181,790   1.8      92,220   0.8 
+      Without injury                       540,800   2.6     344,740   3.4     196,060   1.8 
+     Attempted                             476,210   2.3     333,470   3.3     142,740   1.3 
+      With injury                           95,500   0.5      57,590   0.6      37,910   0.3 
+      Without injury                       380,710   1.8     275,880   2.7     104,830   1.0 
+    Assault                              9,071,790  42.9   5,328,070  52.1   3,743,720  34.3 
+     Aggravated                          2,562,860  12.1   1,670,020  16.3     892,840   8.2 
+      Completed with injury                712,970   3.4     418,110   4.1     294,870   2.7 
+      Attempted/threatened with weapon   1,849,880   8.7   1,251,910  12.2     597,970   5.5 
+     Simple                              6,508,930  30.8   3,658,050  35.7   2,850,880  26.1 
+      Completed with injury              1,356,220   6.4     628,400   6.1     727,820   6.7 
+      Attempted/threatened w/o weapon    5,152,710  24.4   3,029,640  29.6   2,123,070  19.4 
+    Purse snatching/pocket picking         516,980   2.4     236,270   2.3     280,710   2.6 
+     Purse snatching                       135,820   0.6       2,190   0.0     133,630   1.2 
+     Pocket picking                        381,160   1.8     234,080   2.3     147,080   1.3 
+  Population age 12 and over            211,524,770       102,348,090       109,176,670       
+ ----------------------------------------------------------------------------------------------
+ Table 3. Personal crimes,  1993:                                                                       
+
+ Victimization rates for persons age 12 and over,
+ by type of crime and age of victims
+ (Internal table)
+ (Base table 4)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  type of crime                                Total             12-15             16-19             20-24             25-34       
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                    11,365,080  53.7   1,872,910 125.2   1,686,130 120.5   1,826,820  97.7   2,575,520  60.9 
+   Crimes of violence                   10,848,090  51.3   1,804,940 120.6   1,633,670 116.8   1,750,140  93.6   2,477,180  58.6 
+    Completed                            3,212,740  15.2     601,960  40.2     481,570  34.4     595,820  31.9     719,970  17.0 
+    Attempted                            7,635,360  36.1   1,202,970  80.4   1,152,100  82.4   1,154,320  61.7   1,757,210  41.6 
+    Rape/Sexual assault                    485,290   2.3      67,550   4.5     100,970   7.2     106,030   5.7      99,900   2.4 
+     Rape                                  312,580   1.5      38,600   2.6      61,360   4.4      65,440   3.5      67,320   1.6 
+      Completed                            160,380   0.8       9,380   0.6      31,940   2.3      43,330   2.3      47,100   1.1 
+      Attempted                            152,200   0.7      29,220   2.0      29,420   2.1      22,110   1.2      20,220   0.5 
+     Sexual assault                        172,700   0.8      28,950   1.9      39,610   2.8      40,590   2.2      32,580   0.8 
+    Robbery                              1,291,020   6.1     204,090  13.6     160,570  11.5     196,580  10.5     309,710   7.3 
+     Completed                             814,810   3.9     108,610   7.3      87,840   6.3     150,930   8.1     196,300   4.6 
+      With injury                          274,000   1.3      38,020   2.5      33,960   2.4      43,130   2.3      82,890   2.0 
+      Without injury                       540,800   2.6      70,590   4.7      53,880   3.9     107,800   5.8     113,410   2.7 
+     Attempted                             476,210   2.3      95,480   6.4      72,730   5.2      45,650   2.4     113,400   2.7 
+      With injury                           95,500   0.5      18,490   1.2       4,980   0.4      15,660   0.8      28,280   0.7 
+      Without injury                       380,710   1.8      76,990   5.1      67,750   4.8      29,990   1.6      85,130   2.0 
+    Assault                              9,071,790  42.9   1,533,300 102.5   1,372,140  98.1   1,447,530  77.4   2,067,570  48.9 
+     Aggravated                          2,562,860  12.1     349,370  23.3     419,440  30.0     499,760  26.7     626,110  14.8 
+      Completed with injury                712,970   3.4     144,240   9.6     112,710   8.1     148,210   7.9     158,150   3.7 
+      Attempted/threatened with weapon   1,849,880   8.7     205,120  13.7     306,730  21.9     351,550  18.8     467,950  11.1 
+     Simple                              6,508,930  30.8   1,183,940  79.1     952,700  68.1     947,780  50.7   1,441,470  34.1 
+      Completed with injury              1,356,220   6.4     310,790  20.8     209,480  15.0     212,770  11.4     288,100   6.8 
+      Attempted/threatened w/o weapon    5,152,710  24.4     873,150  58.4     743,220  53.1     735,010  39.3   1,153,370  27.3 
+    Purse snatching/pocket picking         516,980   2.4      67,980   4.5      52,450   3.7      76,680   4.1      98,340   2.3 
+     Purse snatching                       135,820   0.6           0   0.0       6,120   0.4       7,960   0.4      34,010   0.8 
+     Pocket picking                        381,160   1.8      67,980   4.5      46,330   3.3      68,710   3.7      64,330   1.5 
+ Population age 12 and over            211,524,770        14,963,650        13,988,460        18,701,390        42,279,270        
+
+(CONTINUED)
+Table 3. Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and age of victims
+ (Internal table)
+ (Base table 4)
+ 
+ ----------------------------------------------------------------------------------------------
+  Type of crime                                35-49             50-64          65 and over    
+                                         -----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                     2,553,740  44.5     610,600  18.3     239,360   7.8 
+   Crimes of violence                    2,442,770  42.5     569,220  17.1     170,170   5.5 
+    Completed                              634,000  11.0     127,220   3.8      52,180   1.7 
+    Attempted                            1,808,760  31.5     442,000  13.3     117,990   3.8 
+    Rape/Sexual assault                     94,660   1.6       8,160   0.2       8,030   0.3 
+     Rape                                   67,830   1.2       4,010   0.1       8,030   0.3 
+      Completed                             22,440   0.4       2,080   0.1       4,110   0.1 
+      Attempted                             45,390   0.8       1,930   0.1       3,920   0.1 
+     Sexual assault                         26,830   0.5       4,150   0.1           0   0.0 
+    Robbery                                284,870   5.0      98,600   3.0      36,600   1.2 
+     Completed                             192,800   3.4      59,360   1.8      18,970   0.6 
+      With injury                           49,890   0.9      26,110   0.8           0   0.0 
+      Without injury                       142,910   2.5      33,250   1.0      18,970   0.6 
+     Attempted                              92,060   1.6      39,240   1.2      17,630   0.6 
+      With injury                           14,690   0.3      11,280   0.3       2,120   0.1 
+      Without injury                        77,370   1.3      27,970   0.8      15,510   0.5 
+    Assault                              2,063,240  35.9     462,460  13.9     125,540   4.1 
+     Aggravated                            503,830   8.8     132,000   4.0      32,360   1.1 
+      Completed with injury                119,740   2.1      20,890   0.6       9,030   0.3 
+      Attempted/threatened with weapon     384,090   6.7     111,110   3.3      23,330   0.8 
+     Simple                              1,559,400  27.2     330,460   9.9      93,190   3.0 
+      Completed with injury                274,280   4.8      40,740   1.2      20,070   0.7 
+      Attempted/threatened w/o weapon    1,285,120  22.4     289,710   8.7      73,110   2.4 
+    Purse snatching/pocket picking         110,980   1.9      41,370   1.2      69,180   2.2 
+     Purse snatching                        54,960   1.0      14,180   0.4      18,590   0.6 
+     Pocket picking                         56,010   1.0      27,190   0.8      50,600   1.6 
+  Population age 12 and over             57,428,550        33,350,360        30,813,070       
+ ----------------------------------------------------------------------------------------------
+ Table 4. Personal crimes,  1993:                                                                       
+  
+ Victimization rates for persons age 12 and over,
+ by sex and age of victims and type of crime
+ (Internal table)
+ (Base table 5)
+ 
+ --------------------------------------------------------------------------------------------------------------------------
+  Sex and age                                                   Completed violent   Attempted violent   Rape/Other sexual  
+                                           Crimes of violence        crimes              crimes              assault       
+                                  Total    -------------------+-------------------+-------------------+------------------- 
+                               population    Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  ----------------------------+-----------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  Male          12-15            7,643,960   1,113,980   145.7     359,720    47.1     754,260    98.7           0     0.0 
+                16-19            7,130,050     962,150   134.9     239,260    33.6     722,900   101.4      17,250     2.4 
+                20-24            9,316,420     948,370   101.8     279,100    30.0     669,280    71.8       8,260     0.9 
+                25-34           21,064,330   1,468,360    69.7     339,700    16.1   1,128,660    53.6      15,900     0.8 
+                35-49           28,371,920   1,311,200    46.2     292,540    10.3   1,018,660    35.9       2,270     0.1 
+                50-64           16,037,740     351,340    21.9      71,790     4.5     279,550    17.4           0     0.0 
+                65 and over     12,783,690      76,340     6.0      19,370     1.5      56,980     4.5           0     0.0 
+                Total          102,348,090   6,231,760    60.9   1,601,470    15.6   4,630,280    45.2      43,690     0.4 
+  Female        12-15            7,319,690     690,950    94.4     242,240    33.1     448,710    61.3      67,550     9.2 
+                16-19            6,858,410     671,520    97.9     242,320    35.3     429,200    62.6      83,720    12.2 
+                20-24            9,384,980     801,770    85.4     316,730    33.7     485,040    51.7      97,760    10.4 
+                25-34           21,214,950   1,008,820    47.6     380,270    17.9     628,550    29.6      84,000     4.0 
+                35-49           29,056,630   1,131,570    38.9     341,460    11.8     790,100    27.2      92,390     3.2 
+                50-64           17,312,620     217,880    12.6      55,430     3.2     162,450     9.4       8,160     0.5 
+                65 and over     18,029,390      93,830     5.2      32,810     1.8      61,020     3.4       8,030     0.4 
+                Total          109,176,670   4,616,340    42.3   1,611,260    14.8   3,005,080    27.5     441,590     4.0 
+  Total                        211,524,770  10,848,090    51.3   3,212,740    15.2   7,635,360    36.1     485,290     2.3 
+ --------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 4. Personal crimes,  1993:                                                                       
+  
+ Victimization rates for persons age 12 and over,
+ by sex and age of victims and type of crime
+ (Internal table)
+ (Base table 5)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Sex and age                                                            Robbery without                                           
+                                  Total robbery    Robbery with injury       injury           Total assault    Aggravated assault  
+                               -------------------+-------------------+-------------------+-------------------+------------------- 
+                                 Number     Rate     Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  ----------------------------+-----------+-------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  Male          12-15              144,970    19.0      40,350     5.3     104,620    13.7     969,020   126.8     226,760    29.7 
+                16-19              111,600    15.7      24,120     3.4      87,470    12.3     833,310   116.9     293,560    41.2 
+                20-24              120,900    13.0      39,490     4.2      81,410     8.7     819,210    87.9     306,340    32.9 
+                25-34              200,710     9.5      66,660     3.2     134,050     6.4   1,251,750    59.4     403,340    19.1 
+                35-49              186,480     6.6      38,930     1.4     147,550     5.2   1,122,440    39.6     343,180    12.1 
+                50-64               73,380     4.6      27,700     1.7      45,680     2.8     277,960    17.3      85,700     5.3 
+                65 and over         21,960     1.7       2,120     0.2      19,840     1.6      54,380     4.3      11,140     0.9 
+                Total              860,000     8.4     239,380     2.3     620,620     6.1   5,328,070    52.1   1,670,020    16.3 
+  Female        12-15               59,120     8.1      16,160     2.2      42,960     5.9     564,290    77.1     122,610    16.8 
+                16-19               48,970     7.1      14,810     2.2      34,160     5.0     538,830    78.6     125,870    18.4 
+                20-24               75,680     8.1      19,300     2.1      56,390     6.0     628,330    67.0     193,420    20.6 
+                25-34              109,000     5.1      44,510     2.1      64,490     3.0     815,820    38.5     222,760    10.5 
+                35-49               98,390     3.4      25,660     0.9      72,730     2.5     940,790    32.4     160,650     5.5 
+                50-64               25,220     1.5       9,690     0.6      15,530     0.9     184,500    10.7      46,310     2.7 
+                65 and over         14,640     0.8           0     0.0      14,640     0.8      71,160     3.9      21,210     1.2 
+                Total              431,020     3.9     130,120     1.2     300,900     2.8   3,743,720    34.3     892,840     8.2 
+  Total                          1,291,020     6.1     369,500     1.7     921,520     4.4   9,071,790    42.9   2,562,860    12.1 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 4. Personal crimes,  1993:                                                                       
+  
+ Victimization rates for persons age 12 and over,
+ by sex and age of victims and type of crime
+ (Internal table)
+ (Base table 5)
+ 
+ ----------------------------------------------------------------------
+  Sex and age                                             Purse        
+                                                    snatching/Pocket   
+                                 Simple assault          picking       
+                               -------------------+------------------- 
+                                 Number     Rate     Number     Rate   
+  ----------------------------+-----------+-------+-----------+------- 
+  Male          12-15              742,260    97.1      44,170     5.8 
+                16-19              539,740    75.7      28,620     4.0 
+                20-24              512,870    55.1      55,640     6.0 
+                25-34              848,410    40.3      44,590     2.1 
+                35-49              779,260    27.5      30,370     1.1 
+                50-64              192,270    12.0      13,490     0.8 
+                65 and over         43,240     3.4      19,390     1.5 
+                Total            3,658,050    35.7     236,270     2.3 
+  Female        12-15              441,680    60.3      23,810     3.3 
+                16-19              412,960    60.2      23,830     3.5 
+                20-24              434,910    46.3      21,040     2.2 
+                25-34              593,060    28.0      53,750     2.5 
+                35-49              780,140    26.8      80,610     2.8 
+                50-64              138,190     8.0      27,880     1.6 
+                65 and over         49,950     2.8      49,800     2.8 
+                Total            2,850,880    26.1     280,710     2.6 
+  Total                          6,508,930    30.8     516,980     2.4 
+ ----------------------------------------------------------------------
+ Table 5. Personal crimes,  1993:                                                                       
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and race of victims
+ (Internal table)
+ (Base table 6)
+  -----------------------------------------------------------------------------------------------------------------
+  Type of crime                                 White             Black             Other             Total       
+                                          -----------------+-----------------+-----------------+----------------- 
+                                            Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  ---------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                     9,249,160  51.7   1,808,890  71.7     307,030  41.6  11,365,080  53.7 
+   Crimes of violence                    8,889,490  49.7   1,667,460  66.1     291,140  39.4  10,848,090  51.3 
+    Completed                            2,437,390  13.6     663,350  26.3     112,000  15.2   3,212,740  15.2 
+    Attempted                            6,452,110  36.1   1,004,120  39.8     179,140  24.3   7,635,360  36.1 
+    Rape/Sexual assault                    403,120   2.3      67,240   2.7      14,920   2.0     485,290   2.3 
+     Rape                                  240,980   1.3      61,030   2.4      10,560   1.4     312,580   1.5 
+      Completed                            118,750   0.7      35,920   1.4       5,710   0.8     160,380   0.8 
+      Attempted                            122,240   0.7      25,110   1.0       4,850   0.7     152,200   0.7 
+     Sexual assault                        162,140   0.9       6,210   0.2       4,360   0.6     172,700   0.8 
+    Robbery                                913,660   5.1     319,220  12.7      58,140   7.9   1,291,020   6.1 
+     Completed                             536,350   3.0     231,060   9.2      47,400   6.4     814,810   3.9 
+      With injury                          197,300   1.1      53,150   2.1      23,560   3.2     274,000   1.3 
+      Without injury                       339,050   1.9     177,910   7.1      23,840   3.2     540,800   2.6 
+     Attempted                             377,310   2.1      88,160   3.5      10,740   1.5     476,210   2.3 
+      With injury                           77,160   0.4      18,340   0.7           0   0.0      95,500   0.5 
+      Without injury                       300,150   1.7      69,820   2.8      10,740   1.5     380,710   1.8 
+    Assault                              7,572,710  42.3   1,281,000  50.8     218,070  29.5   9,071,790  42.9 
+     Aggravated                          2,026,200  11.3     471,820  18.7      64,840   8.8   2,562,860  12.1 
+      Completed with injury                501,250   2.8     183,760   7.3      27,960   3.8     712,970   3.4 
+      Attempted/threatened with weapon   1,524,950   8.5     288,060  11.4      36,880   5.0   1,849,880   8.7 
+     Simple                              5,546,510  31.0     809,180  32.1     153,240  20.8   6,508,930  30.8 
+      Completed with injury              1,123,250   6.3     206,400   8.2      26,570   3.6   1,356,220   6.4 
+      Attempted/threatened w/o weapon    4,423,260  24.7     602,780  23.9     126,660  17.2   5,152,710  24.4 
+    Purse snatching/pocket picking         359,670   2.0     141,420   5.6      15,890   2.2     516,980   2.4 
+     Purse snatching                       103,810   0.6      27,850   1.1       4,170   0.6     135,820   0.6 
+     Pocket picking                        255,860   1.4     113,570   4.5      11,720   1.6     381,160   1.8 
+  Population age 12 and over            178,912,480        25,230,060         7,382,230       211,524,770       
+ -----------------------------------------------------------------------------------------------------------------
+ Table 6. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and sex and race of victims
+ (Internal table)
+ (Base table 7)
+ 
+ -----------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                  Male                                   
+                                                ----------------------------------------------------------------------- 
+                                                      White             Black             Other             Total       
+                                                -----------------+-----------------+-----------------+----------------- 
+                                                  Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  ---------------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                            5,319,040  61.0     965,300  83.8     183,690  50.9   6,468,030  63.2 
+   Crimes of violence                           5,175,440  59.3     877,340  76.2     178,980  49.6   6,231,760  60.9 
+    Completed                                   1,240,460  14.2     294,680  25.6      66,330  18.4   1,601,470  15.6 
+    Attempted                                   3,934,980  45.1     582,660  50.6     112,650  31.2   4,630,280  45.2 
+    Rape/Other sexual attack                       40,860   0.5       2,830   0.2           0   0.0      43,690   0.4 
+    Robbery                                       611,220   7.0     201,760  17.5      47,020  13.0     860,000   8.4 
+     Completed                                    354,940   4.1     133,380  11.6      38,200  10.6     526,520   5.1 
+      With injury                                 129,610   1.5      28,620   2.5      23,560   6.5     181,790   1.8 
+      Without injury                              225,330   2.6     104,760   9.1      14,650   4.1     344,740   3.4 
+     Attempted                                    256,280   2.9      68,380   5.9       8,820   2.4     333,470   3.3 
+      With injury                                  46,840   0.5      10,750   0.9           0   0.0      57,590   0.6 
+      Without injury                              209,430   2.4      57,630   5.0       8,820   2.4     275,880   2.7 
+    Assault                                     4,523,360  51.9     672,750  58.4     131,960  36.6   5,328,070  52.1 
+     Aggravated                                 1,400,820  16.1     236,110  20.5      33,090   9.2   1,670,020  16.3 
+      Completed with injury                       327,940   3.8      80,740   7.0       9,420   2.6     418,110   4.1 
+      Attempted or threatened with weapon       1,072,880  12.3     155,370  13.5      23,670   6.6   1,251,910  12.2 
+     Simple                                     3,122,540  35.8     436,630  37.9      98,870  27.4   3,658,050  35.7 
+      Completed with injury                       529,140   6.1      80,560   7.0      18,700   5.2     628,400   6.1 
+      Attempted or threatened without weapon    2,593,400  29.7     356,080  30.9      80,170  22.2   3,029,640  29.6 
+    Purse snatching/Pocket picking                143,600   1.6      87,960   7.6       4,710   1.3     236,270   2.3 
+ Population age 12 and over*                   87,222,730        11,519,830         3,605,530       102,348,090       
+ -----------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 6. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and sex and race of victims
+ (Internal table)
+ (Base table 7)
+ 
+ -----------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                 Female                                  
+                                                ----------------------------------------------------------------------- 
+                                                      White             Black             Other             Total       
+                                                -----------------+-----------------+-----------------+----------------- 
+                                                  Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  ---------------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                            3,930,120  42.9     843,590  61.5     123,340  32.7   4,897,050  44.9 
+   Crimes of violence                           3,714,060  40.5     790,120  57.6     112,160  29.7   4,616,340  42.3 
+    Completed                                   1,196,920  13.1     368,670  26.9      45,670  12.1   1,611,260  14.8 
+    Attempted                                   2,517,130  27.5     421,460  30.7      66,490  17.6   3,005,080  27.5 
+    Rape/Other sexual attack                      362,260   4.0      64,410   4.7      14,920   4.0     441,590   4.0 
+    Robbery                                       302,440   3.3     117,460   8.6      11,120   2.9     431,020   3.9 
+     Completed                                    181,410   2.0      97,680   7.1       9,190   2.4     288,280   2.6 
+      With injury                                  67,690   0.7      24,530   1.8           0   0.0      92,220   0.8 
+      Without injury                              113,720   1.2      73,150   5.3       9,190   2.4     196,060   1.8 
+     Attempted                                    121,030   1.3      19,780   1.4       1,930   0.5     142,740   1.3 
+      With injury                                  30,320   0.3       7,590   0.6           0   0.0      37,910   0.3 
+      Without injury                               90,710   1.0      12,190   0.9       1,930   0.5     104,830   1.0 
+    Assault                                     3,049,350  33.3     608,260  44.4      86,110  22.8   3,743,720  34.3 
+     Aggravated                                   625,390   6.8     235,710  17.2      31,740   8.4     892,840   8.2 
+      Completed with injury                       173,310   1.9     103,020   7.5      18,540   4.9     294,870   2.7 
+      Attempted or threatened with weapon         452,070   4.9     132,690   9.7      13,210   3.5     597,970   5.5 
+     Simple                                     2,423,970  26.4     372,550  27.2      54,370  14.4   2,850,880  26.1 
+      Completed with injury                       594,100   6.5     125,840   9.2       7,870   2.1     727,820   6.7 
+      Attempted or threatened without weapon    1,829,860  20.0     246,710  18.0      46,500  12.3   2,123,070  19.4 
+    Purse snatching/Pocket picking                216,060   2.4      53,460   3.9      11,180   3.0     280,710   2.6 
+ Population age 12 and over*                   91,689,740        13,710,230         3,776,700       109,176,670       
+ -----------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 6. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and sex and race of victims
+ (Internal table)
+ (Base table 7)
+ 
+ -----------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                               Both Sexes                                
+                                                ----------------------------------------------------------------------- 
+                                                      White             Black             Other             Total       
+                                                -----------------+-----------------+-----------------+----------------- 
+                                                  Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  ---------------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                            9,249,160  51.7   1,808,890  71.7     307,030  41.6  11,365,080  53.7 
+   Crimes of violence                           8,889,490  49.7   1,667,460  66.1     291,140  39.4  10,848,090  51.3 
+    Completed                                   2,437,390  13.6     663,350  26.3     112,000  15.2   3,212,740  15.2 
+    Attempted                                   6,452,110  36.1   1,004,120  39.8     179,140  24.3   7,635,360  36.1 
+    Rape/Other sexual attack                      403,120   2.3      67,240   2.7      14,920   2.0     485,290   2.3 
+    Robbery                                       913,660   5.1     319,220  12.7      58,140   7.9   1,291,020   6.1 
+     Completed                                    536,350   3.0     231,060   9.2      47,400   6.4     814,810   3.9 
+      With injury                                 197,300   1.1      53,150   2.1      23,560   3.2     274,000   1.3 
+      Without injury                              339,050   1.9     177,910   7.1      23,840   3.2     540,800   2.6 
+     Attempted                                    377,310   2.1      88,160   3.5      10,740   1.5     476,210   2.3 
+      With injury                                  77,160   0.4      18,340   0.7           0   0.0      95,500   0.5 
+      Without injury                              300,150   1.7      69,820   2.8      10,740   1.5     380,710   1.8 
+    Assault                                     7,572,710  42.3   1,281,000  50.8     218,070  29.5   9,071,790  42.9 
+     Aggravated                                 2,026,200  11.3     471,820  18.7      64,840   8.8   2,562,860  12.1 
+      Completed with injury                       501,250   2.8     183,760   7.3      27,960   3.8     712,970   3.4 
+      Attempted or threatened with weapon       1,524,950   8.5     288,060  11.4      36,880   5.0   1,849,880   8.7 
+     Simple                                     5,546,510  31.0     809,180  32.1     153,240  20.8   6,508,930  30.8 
+      Completed with injury                     1,123,250   6.3     206,400   8.2      26,570   3.6   1,356,220   6.4 
+      Attempted or threatened without weapon    4,423,260  24.7     602,780  23.9     126,660  17.2   5,152,710  24.4 
+    Purse snatching/Pocket picking                359,670   2.0     141,420   5.6      15,890   2.2     516,980   2.4 
+ Population age 12 and over*                  178,912,480        25,230,060         7,382,230       211,524,770       
+ Table 7. Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and ethnicity of victims
+ (Internal table)
+ (Base table 8)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+  Type of crime                                Total           Hispanic        Non-Hispanic           NA         
+                                         -----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                    11,365,080  53.7   1,096,300  62.5  10,211,600  52.9      57,180  50.8 
+   Crimes of violence                   10,848,090  51.3   1,036,460  59.1   9,759,260  50.6      52,380  46.5 
+    Completed                            3,212,740  15.2     377,990  21.6   2,817,900  14.6      16,850  15.0 
+    Attempted                            7,635,360  36.1     658,470  37.5   6,941,360  36.0      35,530  31.5 
+    Rape/Sexual assault                    485,290   2.3      37,450   2.1     445,150   2.3       2,690   2.4 
+     Rape                                  312,580   1.5      21,040   1.2     288,850   1.5       2,690   2.4 
+      Completed                            160,380   0.8       6,660   0.4     151,030   0.8       2,690   2.4 
+      Attempted                            152,200   0.7      14,380   0.8     137,820   0.7           0   0.0 
+     Sexual assault                        172,700   0.8      16,410   0.9     156,290   0.8           0   0.0 
+    Robbery                              1,291,020   6.1     188,600  10.8   1,095,280   5.7       7,150   6.3 
+     Completed                             814,810   3.9     125,370   7.1     684,380   3.5       5,060   4.5 
+      With injury                          274,000   1.3      22,490   1.3     249,040   1.3       2,470   2.2 
+      Without injury                       540,800   2.6     102,880   5.9     435,340   2.3       2,590   2.3 
+     Attempted                             476,210   2.3      63,230   3.6     410,900   2.1       2,090   1.9 
+      With injury                           95,500   0.5      24,490   1.4      71,010   0.4           0   0.0 
+      Without injury                       380,710   1.8      38,740   2.2     339,890   1.8       2,090   1.9 
+    Assault                              9,071,790  42.9     810,420  46.2   8,218,830  42.6      42,540  37.8 
+     Aggravated                          2,562,860  12.1     302,050  17.2   2,253,940  11.7       6,870   6.1 
+      Completed with injury                712,970   3.4      87,700   5.0     623,060   3.2       2,220   2.0 
+      Attempted/threatened with weapon   1,849,880   8.7     214,350  12.2   1,630,880   8.5       4,650   4.1 
+     Simple                              6,508,930  30.8     508,370  29.0   5,964,890  30.9      35,670  31.7 
+      Completed with injury              1,356,220   6.4     141,850   8.1   1,207,490   6.3       6,880   6.1 
+      Attempted/threatened w/o weapon    5,152,710  24.4     366,510  20.9   4,757,410  24.7      28,790  25.6 
+    Purse snatching/pocket picking         516,980   2.4      59,840   3.4     452,350   2.3       4,800   4.3 
+     Purse snatching                       135,820   0.6      29,460   1.7     104,120   0.5       2,250   2.0 
+     Pocket picking                        381,160   1.8      30,380   1.7     348,230   1.8       2,550   2.3 
+ Population age 12 and over            211,524,770        17,538,450       192,859,920         1,126,400       
+ Table 8.  Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over, by
+ type of crime, ethnicity and sex of victims
+ (internal table)
+ (base table 255)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                         Hispanic                          Non-hispanic             
+                                                           -----------------------------------+----------------------------------- 
+                                               Total             Male             Female             Male             Female       
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+    Crimes of violence                    10,848,090  51.3     594,990  68.9     441,470  49.6   5,606,530  60.2   4,152,730  41.6 
+     Completed                             3,212,740  15.2     208,850  24.2     169,130  19.0   1,382,610  14.8   1,435,290  14.4 
+     Attempted                             7,635,360  36.1     386,130  44.7     272,340  30.6   4,223,920  45.4   2,717,440  27.2 
+     Rape/other sexual attack                485,290   2.3       5,760   0.7      31,690   3.6      35,250   0.4     409,900   4.1 
+     Robbery                               1,291,020   6.1     131,570  15.2      57,020   6.4     723,860   7.8     371,410   3.7 
+      Completed                              814,810   3.9      91,610  10.6      33,760   3.8     432,440   4.6     251,940   2.5 
+       With injury                           274,000   1.3      18,050   2.1       4,440   0.5     161,260   1.7      87,780   0.9 
+       Without injury                        540,800   2.6      73,560   8.5      29,320   3.3     271,170   2.9     164,160   1.6 
+      Attempted                              476,210   2.3      39,960   4.6      23,270   2.6     291,430   3.1     119,470   1.2 
+       With injury                            95,500   0.5      18,440   2.1       6,050   0.7      39,150   0.4      31,850   0.3 
+       Without injury                        380,710   1.8      21,520   2.5      17,210   1.9     252,270   2.7      87,620   0.9 
+     Assault                               9,071,790  42.9     457,660  53.0     352,750  39.6   4,847,420  52.0   3,371,410  33.8 
+      Aggravated                           2,562,860  12.1     195,420  22.6     106,630  12.0   1,469,950  15.8     783,980   7.9 
+       Completed with injury                 712,970   3.4      49,300   5.7      38,400   4.3     368,810   4.0     254,250   2.5 
+       Attempted/threatened with weapon    1,849,880   8.7     146,120  16.9      68,230   7.7   1,101,140  11.8     529,740   5.3 
+      Simple                               6,508,930  30.8     262,240  30.3     246,120  27.7   3,377,470  36.3   2,587,430  25.9 
+       Completed with injury               1,356,220   6.4      62,190   7.2      79,660   9.0     561,370   6.0     646,120   6.5 
+       Attempted/threatened w/o weapon     5,152,710  24.4     200,050  23.2     166,460  18.7   2,816,100  30.2   1,941,310  19.5 
+     Purse snatching/pocket picking          516,980   2.4      20,970   2.4      38,870   4.4     212,750   2.3     239,590   2.4 
+    Population age 12 and over           211,524,770         8,641,300         8,897,150        93,132,720        99,727,190       
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 8.  Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over, by
+ type of crime, ethnicity and sex of victims
+ (internal table)
+ (base table 255)
+ 
+ ----------------------------------------------------------------------------
+  Type of crime                                          NA                  
+                                         ----------------------------------- 
+                                               Male             Female       
+                                         -----------------+----------------- 
+                                           Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+----- 
+    Crimes of violence                        30,240  52.7      22,140  40.1 
+     Completed                                10,010  17.4       6,840  12.4 
+     Attempted                                20,230  35.2      15,300  27.7 
+     Rape/other sexual attack                  2,690   4.7           0   0.0 
+     Robbery                                   4,560   7.9       2,590   4.7 
+      Completed                                2,470   4.3       2,590   4.7 
+       With injury                             2,470   4.3           0   0.0 
+       Without injury                              0   0.0       2,590   4.7 
+      Attempted                                2,090   3.6           0   0.0 
+       With injury                                 0   0.0           0   0.0 
+       Without injury                          2,090   3.6           0   0.0 
+     Assault                                  22,990  40.0      19,550  35.4 
+      Aggravated                               4,650   8.1       2,220   4.0 
+       Completed with injury                       0   0.0       2,220   4.0 
+       Attempted/threatened with weapon        4,650   8.1           0   0.0 
+      Simple                                  18,340  31.9      17,330  31.4 
+       Completed with injury                   4,840   8.4       2,030   3.7 
+       Attempted/threatened w/o weapon        13,500  23.5      15,300  27.7 
+     Purse snatching/pocket picking            2,550   4.4       2,250   4.1 
+    Population age 12 and over               574,070           552,330       
+ ----------------------------------------------------------------------------
+ 
+ Table 9. Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over,
+ by race and age of victims and type of crime
+ (Internal table)
+ (Base table 9)
+ 
+ --------------------------------------------------------------------------------------------------------------------------
+  Race and Age                                                  Completed violent   Attempted violent   Rape/Other sexual  
+                                           Crimes of violence        crimes              crimes              assault       
+                                  Total    -------------------+-------------------+-------------------+------------------- 
+                               Population    Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  ----------------------------+-----------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  White         12-15           11,893,120   1,444,710   121.5     465,270    39.1     979,440    82.4      45,060     3.8 
+                16-19           11,263,270   1,329,760   118.1     365,070    32.4     964,680    85.6      85,610     7.6 
+                20-24           15,288,520   1,403,510    91.8     415,320    27.2     988,190    64.6      88,220     5.8 
+                25-34           34,989,570   2,078,150    59.4     570,200    16.3   1,507,950    43.1      91,850     2.6 
+                35-49           48,598,880   1,994,150    41.0     488,030    10.0   1,506,120    31.0      76,200     1.6 
+                50-64           29,071,370     503,700    17.3      99,810     3.4     403,890    13.9       8,160     0.3 
+                65 and over     27,807,750     135,520     4.9      33,670     1.2     101,850     3.7       8,030     0.3 
+                Total          178,912,480   8,889,490    49.7   2,437,390    13.6   6,452,110    36.1     403,120     2.3 
+  Black         12-15            2,476,870     319,980   129.2     123,260    49.8     196,710    79.4      18,130     7.3 
+                16-19            2,147,300     254,930   118.7     101,360    47.2     153,570    71.5      12,550     5.8 
+                20-24            2,542,920     291,550   114.7     156,720    61.6     134,830    53.0      15,530     6.1 
+                25-34            5,552,540     323,970    58.3     109,600    19.7     214,370    38.6       4,610     0.8 
+                35-49            6,677,710     387,990    58.1     126,480    18.9     261,510    39.2      16,410     2.5 
+                50-64            3,311,300      56,340    17.0      27,410     8.3      28,930     8.7           0     0.0 
+                65 and over      2,521,420      32,710    13.0      18,510     7.3      14,200     5.6           0     0.0 
+                Total           25,230,060   1,667,460    66.1     663,350    26.3   1,004,120    39.8      67,240     2.7 
+  Total (White and Black)      204,142,540  10,556,960    51.7   3,100,730    15.2   7,456,220    36.5     470,370     2.3 
+ --------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 9. Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over,
+ by race and age of victims and type of crime
+ (Internal table)
+ (Base table 9)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Race and Age                                                           Robbery without                                           
+                                  Total robbery    Robbery with injury       injury           Total assault    Aggravated assault  
+                               -------------------+-------------------+-------------------+-------------------+------------------- 
+                                 Number     Rate     Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  ----------------------------+-----------+-------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  White         12-15              140,330    11.8      36,900     3.1     103,430     8.7   1,259,320   105.9     267,630    22.5 
+                16-19              110,620     9.8      30,660     2.7      79,960     7.1   1,133,520   100.6     308,210    27.4 
+                20-24              136,010     8.9      47,490     3.1      88,520     5.8   1,179,270    77.1     378,830    24.8 
+                25-34              206,050     5.9      74,630     2.1     131,420     3.8   1,780,250    50.9     547,810    15.7 
+                35-49              217,970     4.5      48,190     1.0     169,780     3.5   1,699,980    35.0     391,310     8.1 
+                50-64               77,080     2.7      34,460     1.2      42,620     1.5     418,460    14.4     106,560     3.7 
+                65 and over         25,590     0.9       2,120     0.1      23,470     0.8     101,900     3.7      25,850     0.9 
+                Total              913,660     5.1     274,460     1.5     639,200     3.6   7,572,710    42.3   2,026,200    11.3 
+  Black         12-15               52,730    21.3      14,690     5.9      38,040    15.4     249,120   100.6      79,850    32.2 
+                16-19               44,550    20.7       2,890     1.3      41,670    19.4     197,820    92.1     101,750    47.4 
+                20-24               50,020    19.7       6,110     2.4      43,910    17.3     226,000    88.9     105,500    41.5 
+                25-34               83,280    15.0      31,880     5.7      51,400     9.3     236,080    42.5      67,390    12.1 
+                35-49               56,100     8.4      12,980     1.9      43,120     6.5     315,470    47.2      92,130    13.8 
+                50-64               21,520     6.5       2,930     0.9      18,590     5.6      34,820    10.5      20,630     6.2 
+                65 and over         11,010     4.4           0     0.0      11,010     4.4      21,700     8.6       4,560     1.8 
+                Total              319,220    12.7      71,480     2.8     247,730     9.8   1,281,000    50.8     471,820    18.7 
+  Total (White and Black)        1,232,880     6.0     345,940     1.7     886,930     4.3   8,853,720    43.4   2,498,020    12.2 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 9. Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over,
+ by race and age of victims and type of crime
+ (Internal table)
+ (Base table 9)
+ 
+ ----------------------------------------------------------------------
+  Race and Age                                            Purse        
+                                                    snatching/Pocket   
+                                 Simple assault          picking       
+                               -------------------+------------------- 
+                                 Number     Rate     Number     Rate   
+  ----------------------------+-----------+-------+-----------+------- 
+  White         12-15              991,690    83.4      51,100     4.3 
+                16-19              825,310    73.3      40,990     3.6 
+                20-24              800,440    52.4      26,580     1.7 
+                25-34            1,232,440    35.2      70,200     2.0 
+                35-49            1,308,670    26.9      74,010     1.5 
+                50-64              311,900    10.7      34,640     1.2 
+                65 and over         76,050     2.7      62,140     2.2 
+                Total            5,546,510    31.0     359,670     2.0 
+  Black         12-15              169,270    68.3      14,740     5.9 
+                16-19               96,060    44.7       6,610     3.1 
+                20-24              120,510    47.4      50,100    19.7 
+                25-34              168,680    30.4      25,890     4.7 
+                35-49              223,340    33.4      32,870     4.9 
+                50-64               14,190     4.3       4,170     1.3 
+                65 and over         17,140     6.8       7,040     2.8 
+                Total              809,180    32.1     141,420     5.6 
+  Total (White and Black)        6,355,690    31.1     501,090     2.5 
+ ----------------------------------------------------------------------
+ Table 10. Personal crimes,  1993:                                                                    
+  
+ Victimization rates for persons age 12 and over,
+ by race, sex and age of victims and type of crime
+ (Internal table)
+ (Base table 10)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Race, Sex and Age                                      Crimes of                                            Aggravated     
+                                                         violence           Robbery        Total assault        assault      
+                                            Total    -----------------+-----------------+-----------------+----------------- 
+                                         population    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+  White        Male         12-15          6,088,800     903,550 148.4      91,910  15.1     811,640 133.3     188,180  30.9 
+                            16-19          5,767,950     833,220 144.5      84,250  14.6     734,550 127.4     250,970  43.5 
+                            20-24          7,737,570     806,870 104.3      90,680  11.7     707,920  91.5     261,870  33.8 
+                            25-34         17,644,660   1,227,620  69.6     131,640   7.5   1,080,080  61.2     363,740  20.6 
+                            35-49         24,301,530   1,044,320  43.0     141,100   5.8     900,950  37.1     264,040  10.9 
+                            50-64         14,067,200     297,140  21.1      51,860   3.7     245,280  17.4      62,840   4.5 
+                            65 and over   11,615,020      62,720   5.4      19,770   1.7      42,950   3.7       9,170   0.8 
+               Female       12-15          5,804,310     541,160  93.2      48,420   8.3     447,680  77.1      79,450  13.7 
+                            16-19          5,495,330     496,540  90.4      26,370   4.8     398,970  72.6      57,230  10.4 
+                            20-24          7,550,940     596,640  79.0      45,330   6.0     471,350  62.4     116,960  15.5 
+                            25-34         17,344,910     850,530  49.0      74,410   4.3     700,170  40.4     184,070  10.6 
+                            35-49         24,297,350     949,830  39.1      76,870   3.2     799,030  32.9     127,270   5.2 
+                            50-64         15,004,170     206,560  13.8      25,220   1.7     173,180  11.5      43,720   2.9 
+                            65 and over   16,192,720      72,800   4.5       5,820   0.4      58,950   3.6      16,680   1.0 
+               Total by race             178,912,480   8,889,490  49.7     913,660   5.1   7,572,710  42.3   2,026,200  11.3 
+  Black        Male         12-15          1,241,770     181,320 146.0      44,240  35.6     137,080 110.4      36,680  29.5 
+                            16-19          1,075,120      98,820  91.9      21,960  20.4      74,040  68.9      39,890  37.1 
+                            20-24          1,132,110     112,350  99.2      19,670  17.4      92,680  81.9      41,360  36.5 
+                            25-34          2,559,920     190,780  74.5      57,600  22.5     133,180  52.0      33,030  12.9 
+                            35-49          3,064,860     231,050  75.4      34,580  11.3     196,460  64.1      65,120  21.2 
+                            50-64          1,492,490      49,390  33.1      21,520  14.4      27,870  18.7      18,040  12.1 
+                            65 and over      953,570      13,620  14.3       2,190   2.3      11,430  12.0       1,980   2.1 
+               Female       12-15          1,235,110     138,660 112.3       8,490   6.9     112,040  90.7      43,160  34.9 
+                            16-19          1,072,180     156,100 145.6      22,600  21.1     123,780 115.4      61,860  57.7 
+                            20-24          1,410,810     179,200 127.0      30,350  21.5     133,320  94.5      64,140  45.5 
+                            25-34          2,992,620     133,190  44.5      25,680   8.6     102,900  34.4      34,360  11.5 
+                            35-49          3,612,860     156,940  43.4      21,520   6.0     119,010  32.9      27,010   7.5 
+                            50-64          1,818,810       6,950   3.8           0   0.0       6,950   3.8       2,590   1.4 
+                            65 and over    1,567,850      19,090  12.2       8,820   5.6      10,270   6.5       2,580   1.6 
+               Total by race              25,230,060   1,667,460  66.1     319,220  12.7   1,281,000  50.8     471,820  18.7 
+  Total (White and Black)                204,142,540  10,556,960  51.7   1,232,880   6.0   8,853,720  43.4   2,498,020  12.2 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+Table 10. Personal crimes,  1993:                                                                    
+  
+ Victimization rates for persons age 12 and over,
+ by race, sex and age of victims and type of crime
+ (Internal table)
+ (Base table 10)
+ 
+ ----------------------------------------------------------
+  Race, Sex and Age                       Simple assault   
+                                         ----------------- 
+                                           Number    Rate  
+  --------------------------------------+-----------+----- 
+  White        Male         12-15            623,450 102.4 
+                            16-19            483,580  83.8 
+                            20-24            446,050  57.6 
+                            25-34            716,330  40.6 
+                            35-49            636,910  26.2 
+                            50-64            182,440  13.0 
+                            65 and over       33,780   2.9 
+               Female       12-15            368,240  63.4 
+                            16-19            341,740  62.2 
+                            20-24            354,390  46.9 
+                            25-34            516,110  29.8 
+                            35-49            671,760  27.6 
+                            50-64            129,470   8.6 
+                            65 and over       42,270   2.6 
+               Total by race               5,546,510  31.0 
+  Black        Male         12-15            100,390  80.8 
+                            16-19             34,140  31.8 
+                            20-24             51,320  45.3 
+                            25-34            100,150  39.1 
+                            35-49            131,340  42.9 
+                            50-64              9,830   6.6 
+                            65 and over        9,460   9.9 
+               Female       12-15             68,870  55.8 
+                            16-19             61,920  57.8 
+                            20-24             69,180  49.0 
+                            25-34             68,530  22.9 
+                            35-49             92,000  25.5 
+                            50-64              4,360   2.4 
+                            65 and over        7,680   4.9 
+               Total by race                 809,180  32.1 
+  Total (White and Black)                  6,355,690  31.1 
+ ----------------------------------------------------------
+Table 11. Personal crimes,  1993:                                  
+
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and marital status of victims
+ (Internal table)
+ (Base table 11)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                                                     Divorced or    
+                                               Total         Never married        Married           Widowed          separated     
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                    11,365,080  53.7   6,429,930 100.0   2,961,700  26.5     198,910  14.8   1,761,650  81.5 
+   Crimes of violence                   10,848,090  51.3   6,193,230  96.4   2,804,970  25.1     155,800  11.6   1,681,220  77.8 
+    Completed                            3,212,740  15.2   1,956,090  30.4     628,670   5.6      48,670   3.6     577,280  26.7 
+    Attempted                            7,635,360  36.1   4,237,150  65.9   2,176,300  19.5     107,130   8.0   1,103,940  51.1 
+    Rape/Sexual assault                    485,290   2.3     302,040   4.7      73,770   0.7       2,080   0.2     107,390   5.0 
+     Rape                                  312,580   1.5     176,950   2.8      55,460   0.5           0   0.0      80,170   3.7 
+      Completed                            160,380   0.8      94,340   1.5      21,880   0.2           0   0.0      44,150   2.0 
+      Attempted                            152,200   0.7      82,610   1.3      33,580   0.3           0   0.0      36,010   1.7 
+     Sexual assault                        172,700   0.8     125,090   1.9      18,300   0.2       2,080   0.2      27,230   1.3 
+    Robbery                              1,291,020   6.1     762,890  11.9     300,740   2.7      36,500   2.7     190,890   8.8 
+     Completed                             814,810   3.9     460,130   7.2     208,310   1.9      21,080   1.6     125,280   5.8 
+      With injury                          274,000   1.3     163,320   2.5      37,770   0.3       1,680   0.1      71,230   3.3 
+      Without injury                       540,800   2.6     296,810   4.6     170,550   1.5      19,400   1.4      54,050   2.5 
+     Attempted                             476,210   2.3     302,760   4.7      92,420   0.8      15,420   1.1      65,610   3.0 
+      With injury                           95,500   0.5      55,650   0.9      12,960   0.1       2,930   0.2      23,950   1.1 
+      Without injury                       380,710   1.8     247,110   3.8      79,460   0.7      12,480   0.9      41,660   1.9 
+    Assault                              9,071,790  42.9   5,128,300  79.8   2,430,460  21.8     117,220   8.7   1,382,930  64.0 
+     Aggravated                          2,562,860  12.1   1,446,580  22.5     702,110   6.3      30,700   2.3     383,470  17.7 
+      Completed with injury                712,970   3.4     466,310   7.3     139,060   1.2       9,780   0.7      97,830   4.5 
+      Attempted/threatened with weapon   1,849,880   8.7     980,270  15.3     563,050   5.0      20,920   1.6     285,640  13.2 
+     Simple                              6,508,930  30.8   3,681,720  57.3   1,728,350  15.5      86,520   6.4     999,460  46.2 
+      Completed with injury              1,356,220   6.4     812,470  12.6     243,210   2.2      15,720   1.2     282,790  13.1 
+      Attempted/threatened w/o weapon    5,152,710  24.4   2,869,250  44.6   1,485,150  13.3      70,800   5.3     716,670  33.2 
+    Purse snatching/pocket picking         516,980   2.4     236,700   3.7     156,730   1.4      43,120   3.2      80,440   3.7 
+     Purse snatching                       135,820   0.6      36,520   0.6      45,490   0.4      14,650   1.1      39,160   1.8 
+     Pocket picking                        381,160   1.8     200,180   3.1     111,240   1.0      28,470   2.1      41,270   1.9 
+ Population age 12 and over            211,524,770        64,267,740       111,692,140        13,442,550        21,615,670       
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 11. Personal crimes,  1993:                                                                    
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and marital status of victims
+ (Internal table)
+ (Base table 11)
+ 
+ ----------------------------------------------------------
+  Type of crime                                 NA         
+                                         ----------------- 
+                                           Number    Rate  
+  --------------------------------------+-----------+----- 
+ All Personal Crimes                        12,880  25.4 
+   Crimes of violence                       12,880  25.4 
+    Completed                                2,030   4.0 
+    Attempted                               10,850  21.4 
+    Rape/Sexual assault                          0   0.0 
+     Rape                                        0   0.0 
+      Completed                                  0   0.0 
+      Attempted                                  0   0.0 
+     Sexual assault                              0   0.0 
+    Robbery                                      0   0.0 
+     Completed                                   0   0.0 
+      With injury                                0   0.0 
+      Without injury                             0   0.0 
+     Attempted                                   0   0.0 
+      With injury                                0   0.0 
+      Without injury                             0   0.0 
+    Assault                                 12,880  25.4 
+     Aggravated                                  0   0.0 
+      Completed with injury                      0   0.0 
+      Attempted/threatened with weapon           0   0.0 
+     Simple                                 12,880  25.4 
+      Completed with injury                  2,030   4.0 
+      Attempted/threatened w/o weapon       10,850  21.4 
+    Purse snatching/pocket picking               0   0.0 
+     Purse snatching                             0   0.0 
+     Pocket picking                              0   0.0 
+ Population age 12 and over                506,670       
+ ----------------------------------------------------------
+Table 12. Personal crimes,  1993:                                 
+
+  
+ Victimization rates for persons age 12 and over,
+ by sex and marital status of victims and type of crime
+ (Internal table)
+ (Base table 12)
+  
+ (Rate per 1,000 population age 12 and over)
+ 
+ --------------------------------------------------------------------------------------------------------------------------
+  Sex and marital status                                        Completed violent   Attempted violent   Rape/Other sexual  
+                                           Crimes of violence        crimes              crimes              assault       
+                                  Total    -------------------+-------------------+-------------------+------------------- 
+                               population    Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  ----------------------------+-----------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  Male          Never married   34,536,210   3,865,370   111.9   1,094,590    31.7   2,770,780    80.2      30,740     0.9 
+                Married         56,613,810   1,703,250    30.1     323,240     5.7   1,380,000    24.4      12,960     0.2 
+                Widowed          2,274,230      36,090    15.9      13,720     6.0      22,370     9.8           0     0.0 
+                Divorced or                                                                                                
+                separated        8,665,080     627,050    72.4     169,910    19.6     457,140    52.8           0     0.0 
+                NA                 258,770           0     0.0           0     0.0           0     0.0           0     0.0 
+                Total          102,348,090   6,231,760    60.9   1,601,470    15.6   4,630,280    45.2      43,690     0.4 
+  Female        Never married   29,731,530   2,327,860    78.3     861,490    29.0   1,466,370    49.3     271,310     9.1 
+                Married         55,078,330   1,101,720    20.0     305,430     5.5     796,290    14.5      60,810     1.1 
+                Widowed         11,168,320     119,710    10.7      34,940     3.1      84,770     7.6       2,080     0.2 
+                Divorced or                                                                                                
+                separated       12,950,590   1,054,170    81.4     407,360    31.5     646,800    49.9     107,390     8.3 
+                NA                 247,890      12,880    52.0       2,030     8.2      10,850    43.8           0     0.0 
+                Total          109,176,670   4,616,340    42.3   1,611,260    14.8   3,005,080    27.5     441,590     4.0 
+  Total                        211,524,770  10,848,090    51.3   3,212,740    15.2   7,635,360    36.1     485,290     2.3 
+ --------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+Table 12. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by sex and marital status of victims and type of crime
+ (Internal table)
+ (Base table 12)
+  
+ (Rate per 1,000 population age 12 and over)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Sex and marital status                                                 Robbery without                                           
+                                  Total robbery    Robbery with injury       injury           Total assault    Aggravated assault  
+                               -------------------+-------------------+-------------------+-------------------+------------------- 
+                                 Number     Rate     Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  ----------------------------+-----------+-------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  Male          Never married      558,120    16.2     162,890     4.7     395,230    11.4   3,276,520    94.9     992,710    28.7 
+                Married            184,620     3.3      31,030     0.5     153,590     2.7   1,505,660    26.6     489,780     8.7 
+                Widowed             14,010     6.2       2,930     1.3      11,080     4.9      22,080     9.7       5,590     2.5 
+                Divorced or                                                                                                        
+                separated          103,250    11.9      42,520     4.9      60,730     7.0     523,800    60.4     181,940    21.0 
+                NA                       0     0.0           0     0.0           0     0.0           0     0.0           0     0.0 
+                Total              860,000     8.4     239,380     2.3     620,620     6.1   5,328,070    52.1   1,670,020    16.3 
+  Female        Never married      204,780     6.9      56,090     1.9     148,690     5.0   1,851,770    62.3     453,870    15.3 
+                Married            116,110     2.1      19,700     0.4      96,420     1.8     924,800    16.8     212,330     3.9 
+                Widowed             22,490     2.0       1,680     0.2      20,810     1.9      95,140     8.5      25,110     2.2 
+                Divorced or                                                                                                        
+                separated           87,640     6.8      52,660     4.1      34,980     2.7     859,130    66.3     201,530    15.6 
+                NA                       0     0.0           0     0.0           0     0.0      12,880    52.0           0     0.0 
+                Total              431,020     3.9     130,120     1.2     300,900     2.8   3,743,720    34.3     892,840     8.2 
+  Total                          1,291,020     6.1     369,500     1.7     921,520     4.4   9,071,790    42.9   2,562,860    12.1 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+Table 12. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by sex and marital status of victims and type of crime
+ (Internal table)
+ (Base table 12)
+  
+ (Rate per 1,000 population age 12 and over)
+ 
+ ----------------------------------------------------------------------
+  Sex and marital status                                  Purse        
+                                                    snatching/Pocket   
+                                 Simple assault          picking       
+                               -------------------+------------------- 
+                                 Number     Rate     Number     Rate   
+  ----------------------------+-----------+-------+-----------+------- 
+  Male          Never married    2,283,810    66.1     134,570     3.9 
+                Married          1,015,880    17.9      75,200     1.3 
+                Widowed             16,500     7.3       6,270     2.8 
+                Divorced or                                            
+                separated          341,860    39.5      20,230     2.3 
+                NA                       0     0.0           0     0.0 
+                Total            3,658,050    35.7     236,270     2.3 
+  Female        Never married    1,397,910    47.0     102,140     3.4 
+                Married            712,470    12.9      81,530     1.5 
+                Widowed             70,020     6.3      36,840     3.3 
+                Divorced or                                            
+                separated          657,600    50.8      60,200     4.6 
+                NA                  12,880    52.0           0     0.0 
+                Total            2,850,880    26.1     280,710     2.6 
+  Total                          6,508,930    30.8     516,980     2.4 
+ ----------------------------------------------------------------------
+Table 13. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by sex of head of household,
+ relationship of victims to head,
+ and type of crime
+ (Internal table)
+ (Base table 13)
+ 
+ (Rate per 1,000 population age 12 and over)
+ 
+ -------------------------------------------------------------------------------------------------------------------------------
+  Sex of head of household and                                                                                      Rape/Other  
+  relationship of victim to head                                           Completed violent    Attempted violent     sexual    
+                                                      Crimes of violence         crimes               crimes          assault   
+                                            Total    --------------------+--------------------+--------------------+----------- 
+                                         Population    Number      Rate     Number      Rate     Number      Rate     Number    
+  --------------------------------------+-----------+-----------+--------+-----------+--------+-----------+--------+----------- 
+  Households headed by males                                                                                                    
+    All male heads                      66,014,410   2,653,800     40.2     587,160      8.9   2,066,640     31.3       4,550 
+      Male heads living alone           11,644,020     799,090     68.6     199,850     17.2     599,240     51.5           0 
+      Male heads living with others     54,370,390   1,854,710     34.1     387,310      7.1   1,467,400     27.0       4,550 
+    Wives                               45,303,260     793,280     17.5     213,240      4.7     580,040     12.8      52,010 
+    Own children under age 18           13,726,530   1,340,420     97.7     412,470     30.0     927,950     67.6      47,480 
+    Own children age 18 and over        11,112,930     806,380     72.6     226,050     20.3     580,320     52.2      37,870 
+    Other relatives                      4,770,460     364,150     76.3     138,520     29.0     225,640     47.3      12,420 
+    Nonrelatives                         5,777,490     622,750    107.8     171,940     29.8     450,810     78.0      21,690 
+  Households headed by females                                                                                                  
+    All female heads                    36,710,720   1,786,960     48.7     707,870     19.3   1,079,100     29.4     187,820 
+      Female heads living alone         15,189,860     517,320     34.1     200,450     13.2     316,880     20.9      67,200 
+      Female heads living with others   21,520,860   1,269,640     59.0     507,420     23.6     762,220     35.4     120,620 
+    Husbands                             7,043,420     242,080     34.4      40,560      5.8     201,520     28.6       2,270 
+    Own children under age 18            6,376,240     996,370    156.3     333,660     52.3     662,710    103.9      38,450 
+    Own children age 18 and over         6,875,370     579,630     84.3     169,250     24.6     410,380     59.7      19,790 
+    Other relatives                      3,489,240     224,740     64.4      85,050     24.4     139,690     40.0      24,610 
+    Nonrelatives                         4,324,700     437,510    101.2     126,960     29.4     310,560     71.8      36,320 
+ -------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 13. Personal crimes,  1993:                                                                     
+  
+ Victimization rates for persons age 12 and over,
+ by sex of head of household,
+ relationship of victims to head,
+ and type of crime
+ (Internal table)
+ (Base table 13)
+ 
+ (Rate per 1,000 population age 12 and over)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Sex of head of household and           Rape/Ot-                                                                            
+  relationship of victim to head           her                                                                               
+                                          sexual                                              Robbery without       Total    
+                                         assault     Total robbery     Robbery with injury         injury          assault   
+                                         --------+--------------------+--------------------+--------------------+----------- 
+                                           Rate     Number      Rate     Number      Rate     Number      Rate     Number    
+  --------------------------------------+--------+-----------+--------+-----------+--------+-----------+--------+----------- 
+  Households headed by males                                                                                                 
+    All male heads                          0.1     345,460      5.2      88,800      1.3     256,660      3.9   2,303,790 
+      Male heads living alone               0.0     160,760     13.8      53,470      4.6     107,300      9.2     638,330 
+      Male heads living with others         0.1     184,700      3.4      35,330      0.6     149,360      2.7   1,665,460 
+    Wives                                   1.1      86,160      1.9      19,550      0.4      66,610      1.5     655,110 
+    Own children under age 18               3.5     139,290     10.1      33,740      2.5     105,550      7.7   1,153,650 
+    Own children age 18 and over            3.4     115,210     10.4      42,170      3.8      73,030      6.6     653,300 
+    Other relatives                         2.6      45,030      9.4      12,230      2.6      32,800      6.9     306,700 
+    Nonrelatives                            3.8      70,780     12.3      23,910      4.1      46,870      8.1     530,280 
+  Households headed by females                                                                                               
+    All female heads                        5.1     182,050      5.0      67,050      1.8     115,000      3.1   1,417,090 
+      Female heads living alone             4.4      56,200      3.7      27,130      1.8      29,070      1.9     393,920 
+      Female heads living with others       5.6     125,850      5.8      39,920      1.9      85,930      4.0   1,023,170 
+    Husbands                                0.3      34,510      4.9       9,570      1.4      24,940      3.5     205,300 
+    Own children under age 18               6.0      99,290     15.6      22,430      3.5      76,870     12.1     858,630 
+    Own children age 18 and over            2.9      87,230     12.7      32,170      4.7      55,060      8.0     472,620 
+    Other relatives                         7.1      32,220      9.2       2,180      0.6      30,040      8.6     167,910 
+    Nonrelatives                            8.4      53,790     12.4      15,700      3.6      38,090      8.8     347,400 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 13. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by sex of head of household,
+ relationship of victims to head,
+ and type of crime
+ (Internal table)
+ (Base table 13)
+ 
+ (Rate per 1,000 population age 12 and over)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+  Sex of head of household and                                                                     Purse         
+  relationship of victim to head          Total                                               snatching/Pocket   
+                                         assault   Aggravated assault     Simple assault          picking        
+                                         --------+--------------------+--------------------+-------------------- 
+                                           Rate     Number      Rate     Number      Rate     Number      Rate   
+  --------------------------------------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Households headed by males                                                                                     
+    All male heads                         34.9     718,190     10.9   1,585,600     24.0      77,510      1.2 
+      Male heads living alone              54.8     191,120     16.4     447,210     38.4      30,420      2.6 
+      Male heads living with others        30.6     527,070      9.7   1,138,390     20.9      47,090      0.9 
+    Wives                                  14.5     137,620      3.0     517,490     11.4      57,460      1.3 
+    Own children under age 18              84.0     290,560     21.2     863,090     62.9      58,880      4.3 
+    Own children age 18 and over           58.8     206,930     18.6     446,370     40.2      25,040      2.3 
+    Other relatives                        64.3     122,250     25.6     184,450     38.7      28,430      6.0 
+    Nonrelatives                           91.8     175,040     30.3     355,240     61.5      15,410      2.7 
+  Households headed by females                                                                                   
+    All female heads                       38.6     320,920      8.7   1,096,170     29.9     121,250      3.3 
+      Female heads living alone            25.9      77,630      5.1     316,290     20.8      51,540      3.4 
+      Female heads living with others      47.5     243,290     11.3     779,880     36.2      69,710      3.2 
+    Husbands                               29.1      72,020     10.2     133,270     18.9      42,380      6.0 
+    Own children under age 18             134.7     226,900     35.6     631,740     99.1      32,660      5.1 
+    Own children age 18 and over           68.7     174,690     25.4     297,930     43.3      21,550      3.1 
+    Other relatives                        48.1      54,140     15.5     113,770     32.6      14,430      4.1 
+    Nonrelatives                           80.3      63,600     14.7     283,800     65.6      21,980      5.1 
+ ----------------------------------------------------------------------------------------------------------------
+
+ Table 14. Personal crimes,  1993:                                                                   
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and annual family income of victims
+ (Internal table)
+ (Base table 14)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ Type of crime                                Total       Less than $7,500   $7,500-$14,999    $15,000-$24,999   $25,000-$34,999  
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+ --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                    11,365,080  53.7   1,698,170  92.6   1,568,520  59.3   1,801,600  53.6   1,588,290  51.4 
+   Crimes of violence                   10,848,090  51.3   1,624,310  88.5   1,518,360  57.4   1,702,020  50.6   1,536,090  49.7 
+    Completed                            3,212,740  15.2     615,280  33.5     537,370  20.3     538,610  16.0     414,500  13.4 
+    Attempted                            7,635,360  36.1   1,009,030  55.0     980,980  37.1   1,163,410  34.6   1,121,590  36.3 
+    Rape/Sexual assault                    485,290   2.3     101,660   5.5      72,570   2.7      83,440   2.5      70,280   2.3 
+     Rape                                  312,580   1.5      81,990   4.5      50,900   1.9      47,220   1.4      51,430   1.7 
+      Completed                            160,380   0.8      51,060   2.8      34,880   1.3      16,400   0.5      30,660   1.0 
+      Attempted                            152,200   0.7      30,930   1.7      16,020   0.6      30,820   0.9      20,760   0.7 
+     Sexual assault                        172,700   0.8      19,670   1.1      21,660   0.8      36,220   1.1      18,850   0.6 
+    Robbery                              1,291,020   6.1     215,800  11.8     235,800   8.9     198,000   5.9     138,400   4.5 
+     Completed                             814,810   3.9     156,230   8.5     139,980   5.3     138,330   4.1      89,660   2.9 
+      With injury                          274,000   1.3      61,620   3.4      34,360   1.3      43,540   1.3      37,590   1.2 
+      Without injury                       540,800   2.6      94,610   5.2     105,620   4.0      94,790   2.8      52,070   1.7 
+     Attempted                             476,210   2.3      59,570   3.2      95,820   3.6      59,670   1.8      48,730   1.6 
+      With injury                           95,500   0.5      17,830   1.0      29,570   1.1      17,530   0.5      10,520   0.3 
+      Without injury                       380,710   1.8      41,740   2.3      66,250   2.5      42,140   1.3      38,210   1.2 
+    Assault                              9,071,790  42.9   1,306,850  71.2   1,209,990  45.7   1,420,580  42.2   1,327,420  43.0 
+     Aggravated                          2,562,860  12.1     416,800  22.7     377,620  14.3     437,600  13.0     356,480  11.5 
+      Completed with injury                712,970   3.4     146,640   8.0     127,620   4.8     113,450   3.4     100,730   3.3 
+      Attempted/threatened with weapon   1,849,880   8.7     270,170  14.7     250,000   9.5     324,150   9.6     255,750   8.3 
+     Simple                              6,508,930  30.8     890,050  48.5     832,370  31.5     982,980  29.2     970,940  31.4 
+      Completed with injury              1,356,220   6.4     241,690  13.2     213,220   8.1     236,470   7.0     174,590   5.7 
+      Attempted/threatened w/o weapon    5,152,710  24.4     648,360  35.3     619,150  23.4     746,510  22.2     796,350  25.8 
+    Purse snatching/pocket picking         516,980   2.4      73,860   4.0      50,160   1.9      99,580   3.0      52,210   1.7 
+     Purse snatching                       135,820   0.6      32,000   1.7      11,100   0.4      15,830   0.5      17,070   0.6 
+     Pocket picking                        381,160   1.8      41,860   2.3      39,060   1.5      83,760   2.5      35,130   1.1 
+ Population age 12 and over            211,524,770        18,347,030        26,452,570        33,635,530        30,883,930       
+----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 14. Personal crimes,  1993:                                                                    
+  
+ Victimization rates for persons age 12 and over,
+ by type of crime and annual family income of victims
+ (Internal table)
+ (Base table 14)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+ Type of crime                           $35,000-$49,999   $50,000-$74,999   $75,000 or more         NA         
+                                         -----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+ --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ All Personal Crimes                     1,735,040  51.4   1,295,710  47.4     710,100  40.8     967,650  40.8 
+   Crimes of violence                    1,657,270  49.1   1,249,270  45.7     662,300  38.1     898,480  37.9 
+    Completed                              380,140  11.3     274,280  10.0     161,220   9.3     291,330  12.3 
+    Attempted                            1,277,130  37.8     974,990  35.7     501,080  28.8     607,150  25.6 
+    Rape/Sexual assault                     64,400   1.9      30,830   1.1      33,330   1.9      28,780   1.2 
+     Rape                                   28,330   0.8      21,470   0.8       6,630   0.4      24,620   1.0 
+      Completed                             12,470   0.4      10,180   0.4           0     0       4,720   0.2 
+      Attempted                             15,860   0.5      11,280   0.4       6,630   0.4      19,900   0.8 
+     Sexual assault                         36,070   1.1       9,360   0.3      26,700   1.5       4,160   0.2 
+    Robbery                                169,340   5.0     124,610   4.6      73,040   4.2     136,040   5.7 
+     Completed                              82,300   2.4      65,110   2.4      38,050   2.2     105,150   4.4 
+      With injury                           34,220   1.0      11,220   0.4      13,350   0.8      38,110   1.6 
+      Without injury                        48,080   1.4      53,890   2.0      24,700   1.4      67,040   2.8 
+     Attempted                              87,030   2.6      59,500   2.2      35,000   2.0      30,890   1.3 
+      With injury                            2,080   0.1      14,870   0.5           0     0       3,090   0.1 
+      Without injury                        84,960   2.5      44,620   1.6      35,000   2.0      27,800   1.2 
+    Assault                              1,423,530  42.2   1,093,830  40.0     555,930  32.0     733,670  30.9 
+     Aggravated                            395,430  11.7     235,830   8.6     111,880   6.4     231,220   9.8 
+      Completed with injury                 70,450   2.1      53,540   2.0      29,420   1.7      71,120   3.0 
+      Attempted/threatened with weapon     324,980   9.6     182,290   6.7      82,460   4.7     160,100   6.8 
+     Simple                              1,028,100  30.5     858,000  31.4     444,050  25.5     502,440  21.2 
+      Completed with injury                178,850   5.3     138,170   5.1      67,040   3.9     106,180   4.5 
+      Attempted/threatened w/o weapon      849,250  25.2     719,830  26.3     377,010  21.7     396,260  16.7 
+    Purse snatching/pocket picking          77,770   2.3      46,440   1.7      47,800   2.7      69,170   2.9 
+     Purse snatching                         6,420   0.2      16,690   0.6      14,900   0.9      21,810   0.9 
+     Pocket picking                         71,350   2.1      29,750   1.1      32,900   1.9      47,350   2.0 
+ Population age 12 and over             33,752,180        27,340,170        17,398,260        23,715,090       
+----------------------------------------------------------------------------------------------------------------
+ 
+ Table 15. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by race and annual family income of victims
+ and type of crime
+ (Internal table)
+ (Base table 15)
+  
+ (Rate per 1,000 population age 12 and over)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Race and Income                                                                                                Rape/Other  
+                                                                          Completed violent   Attempted violent    sexual    
+                                                     Crimes of violence        crimes              crimes          assault   
+                                            Total    -------------------+-------------------+-------------------+----------- 
+                                         Population    Number     Rate     Number     Rate     Number     Rate     Number    
+  --------------------------------------+-----------+-----------+-------+-----------+-------+-----------+-------+----------- 
+  White              Less than $7,500     12,506,490   1,164,460    93.1     426,360    34.1     738,100    59.0      70,580 
+                     $7,500-$14,999       20,875,960   1,094,470    52.4     338,570    16.2     755,900    36.2      55,740 
+                     $15,000-$24,999      28,273,150   1,443,620    51.1     426,650    15.1   1,016,970    36.0      80,610 
+                     $25,000-$34,999      26,938,530   1,327,760    49.3     341,370    12.7     986,390    36.6      56,060 
+                     $35,000-$49,999      30,061,710   1,468,710    48.9     335,010    11.1   1,133,700    37.7      57,600 
+                     $50,000-$74,999      24,820,350   1,095,950    44.2     252,240    10.2     843,710    34.0      25,750 
+                     $75,000 or more      15,990,030     579,910    36.3     141,070     8.8     438,850    27.4      30,280 
+                     NA                   19,446,250     714,620    36.7     176,110     9.1     538,500    27.7      26,500 
+                     Total               178,912,480   8,889,490    49.7   2,437,390    13.6   6,452,110    36.1     403,120 
+  Black              Less than $7,500      5,141,300     416,100    80.9     171,350    33.3     244,750    47.6      24,840 
+                     $7,500-$14,999        4,621,900     368,110    79.6     171,540    37.1     196,570    42.5      16,820 
+                     $15,000-$24,999       4,273,040     227,430    53.2     101,360    23.7     126,070    29.5       2,830 
+                     $25,000-$34,999       3,054,040     168,390    55.1      56,330    18.4     112,060    36.7      14,220 
+                     $35,000-$49,999       2,486,180     141,270    56.8      26,530    10.7     114,750    46.2       2,440 
+                     $50,000-$74,999       1,625,810     127,240    78.3      19,820    12.2     107,430    66.1       3,030 
+                     $75,000 or more         620,970      64,210   103.4      17,570    28.3      46,640    75.1       3,050 
+                     NA                    3,406,830     154,710    45.4      98,850    29.0      55,850    16.4           0 
+                     Total                25,230,060   1,667,460    66.1     663,350    26.3   1,004,120    39.8      67,240 
+  Total                                  204,142,540  10,556,960    51.7   3,100,730    15.2   7,456,220    36.5     470,370 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 15. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by race and annual family income of victims
+ and type of crime
+ (Internal table)
+ (Base table 15)
+  
+ (Rate per 1,000 population age 12 and over)
+ 
+ --------------------------------------------------------------------------------------------------------------------------------
+  Race and Income                        Rape/O-                                                                                 
+                                          ther                                                                                   
+                                         sexual                                            Robbery without                       
+                                         assault    Total robbery    Robbery with injury       injury           Total assault    
+                                         -------+-------------------+-------------------+-------------------+------------------- 
+                                          Rate     Number     Rate     Number     Rate     Number     Rate     Number     Rate   
+  --------------------------------------+-------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  White              Less than $7,500        5.6     146,350    11.7      62,040     5.0      84,310     6.7     947,530    75.8 
+                     $7,500-$14,999          2.7     122,540     5.9      35,490     1.7      87,050     4.2     916,180    43.9 
+                     $15,000-$24,999         2.9     150,750     5.3      49,230     1.7     101,520     3.6   1,212,260    42.9 
+                     $25,000-$34,999         2.1     104,040     3.9      39,930     1.5      64,110     2.4   1,167,660    43.3 
+                     $35,000-$49,999         1.9     134,980     4.5      28,500     0.9     106,480     3.5   1,276,130    42.5 
+                     $50,000-$74,999         1.0     115,840     4.7      26,090     1.1      89,750     3.6     954,360    38.5 
+                     $75,000 or more         1.9      55,810     3.5       4,260     0.3      51,550     3.2     493,830    30.9 
+                     NA                      1.4      83,350     4.3      28,920     1.5      54,430     2.8     604,770    31.1 
+                     Total                   2.3     913,660     5.1     274,460     1.5     639,200     3.6   7,572,710    42.3 
+  Black              Less than $7,500        4.8      61,570    12.0      14,000     2.7      47,570     9.3     329,680    64.1 
+                     $7,500-$14,999          3.6      93,630    20.3      23,260     5.0      70,370    15.2     257,660    55.7 
+                     $15,000-$24,999         0.7      44,330    10.4       8,920     2.1      35,410     8.3     180,270    42.2 
+                     $25,000-$34,999         4.7      29,400     9.6       5,640     1.8      23,760     7.8     124,760    40.9 
+                     $35,000-$49,999         1.0      18,320     7.4       2,800     1.1      15,520     6.2     120,510    48.5 
+                     $50,000-$74,999         1.9       6,550     4.0           0     0.0       6,550     4.0     117,660    72.4 
+                     $75,000 or more         4.9      17,230    27.8       9,090    14.6       8,140    13.1      43,930    70.7 
+                     NA                        0      48,190    14.1       7,770     2.3      40,410    11.9     106,520    31.3 
+                     Total                   2.7     319,220    12.7      71,480     2.8     247,730     9.8   1,281,000    50.8 
+  Total                                      2.3   1,232,880     6.0     345,940     1.7     886,930     4.3   8,853,720    43.4 
+ --------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 15. Personal crimes,  1993:                                                                      
+  
+ Victimization rates for persons age 12 and over,
+ by race and annual family income of victims
+ and type of crime
+ (Internal table)
+ (Base table 15)
+  
+ (Rate per 1,000 population age 12 and over)
+ 
+ ----------------------------------------------------------------------------------------------------
+  Race and Income                                                                       Purse        
+                                                                                  snatching/Pocket   
+                                         Aggravated assault    Simple assault          picking       
+                                         -------------------+-------------------+------------------- 
+                                           Number     Rate     Number     Rate     Number     Rate   
+  --------------------------------------+-----------+-------+-----------+-------+-----------+------- 
+  White              Less than $7,500        271,860    21.7     675,680    54.0      47,020     3.8 
+                     $7,500-$14,999          258,340    12.4     657,850    31.5      31,270     1.5 
+                     $15,000-$24,999         367,470    13.0     844,790    29.9      46,670     1.7 
+                     $25,000-$34,999         307,000    11.4     860,660    31.9      44,200     1.6 
+                     $35,000-$49,999         354,180    11.8     921,950    30.7      58,580     1.9 
+                     $50,000-$74,999         199,860     8.1     754,500    30.4      36,570     1.5 
+                     $75,000 or more          98,610     6.2     395,220    24.7      40,900     2.6 
+                     NA                      168,890     8.7     435,880    22.4      54,460     2.8 
+                     Total                 2,026,200    11.3   5,546,510    31.0     359,670     2.0 
+  Black              Less than $7,500        129,310    25.2     200,370    39.0      26,840     5.2 
+                     $7,500-$14,999          101,820    22.0     155,840    33.7      18,890     4.1 
+                     $15,000-$24,999          67,980    15.9     112,290    26.3      52,910    12.4 
+                     $25,000-$34,999          37,450    12.3      87,310    28.6       5,870     1.9 
+                     $35,000-$49,999          34,510    13.9      86,000    34.6      14,340     5.8 
+                     $50,000-$74,999          29,580    18.2      88,080    54.2       9,870     6.1 
+                     $75,000 or more          10,780    17.4      33,150    53.4       2,470     4.0 
+                     NA                       60,390    17.7      46,130    13.5      10,220     3.0 
+                     Total                   471,820    18.7     809,180    32.1     141,420     5.6 
+  Total                                    2,498,020    12.2   6,355,690    31.1     501,090     2.5 
+ ----------------------------------------------------------------------------------------------------
+ 
+ Table 16.  Household crimes,   1993                                                                      
+ Victimization rates by type of crime
+ and race of head of household
+ (Rate per l,000 households)
+ (internal table)
+ (base table 17)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+  Type of crime                              All Races           White             Black             Other       
+                                         -----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+ Property crimes                        32,182,320 322.1  26,795,610 314.8   4,391,520 368.8     995,190 343.7 
+    Household burglary                   5,984,000  59.9   4,817,090  56.6   1,018,800  85.6     148,110  51.2 
+       Completed                         4,823,770  48.3   3,899,890  45.8     810,330  68.1     113,560  39.2 
+          Forcible entry                 1,855,890  18.6   1,391,320  16.3     431,000  36.2      33,580  11.6 
+          Unlawful entry without force   2,967,880  29.7   2,508,570  29.5     379,330  31.9      79,980  27.6 
+       Attempted forcible entry          1,160,230  11.6     917,210  10.8     208,470  17.5      34,560  11.9 
+    Motor vehicle theft                  1,960,540  19.6   1,461,860  17.2     400,950  33.7      97,740  33.8 
+       Completed                         1,290,530  12.9     971,480  11.4     253,140  21.3      65,910  22.8 
+       Attempted                           670,010   6.7     490,380   5.8     147,800  12.4      31,830  11.0 
+    Theft                               24,237,780 242.6  20,516,660 241.0   2,971,780 249.6     749,340 258.8 
+       Completed                        23,020,050 230.4  19,490,480 229.0   2,819,570 236.8     710,000 245.2 
+          Less than $50                  9,652,550  96.6   8,287,350  97.4   1,094,500  91.9     270,700  93.5 
+          $50 - $249                     7,682,460  76.9   6,511,200  76.5     926,640  77.8     244,620  84.5 
+          $250 or more                   4,252,510  42.6   3,584,360  42.1     540,960  45.4     127,190  43.9 
+          Amount not available           1,432,520  14.3   1,107,560  13.0     257,470  21.6      67,490  23.3 
+       Attempted                         1,217,720  12.2   1,026,180  12.1     152,210  12.8      39,340  13.6 
+ Total Number of Households             99,927,410        85,125,000        11,906,950         2,895,460       
+ ----------------------------------------------------------------------------------------------------------------
+ 
+ Table 17  Household crimes,  1993:                                                                      
+ Victimization rates, by type of crime
+ and ethnicity of head of household
+ (Rate per 1,000 households)
+ (internal table 21)
+ (base table 18)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+  Type of crime                                Total           Hispanic        Non-Hispanic           NA         
+                                         -----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                        32,182,320 322.1   3,023,890 442.2  29,007,310 313.2     151,120 314.7 
+    Household burglary                   5,984,000  59.9     595,790  87.1   5,360,190  57.9      28,030  58.4 
+       Completed                         4,823,770  48.3     478,440  70.0   4,319,250  46.6      26,090  54.3 
+          Forcible entry                 1,855,890  18.6     182,580  26.7   1,655,060  17.9      18,260  38.0 
+          Unlawful entry without force   2,967,880  29.7     295,860  43.3   2,664,190  28.8       7,830  16.3 
+       Attempted forcible entry          1,160,230  11.6     117,350  17.2   1,040,940  11.2       1,940   4.0 
+    Motor vehicle theft                  1,960,540  19.6     251,330  36.8   1,705,180  18.4       4,030   8.4 
+       Completed                         1,290,530  12.9     179,330  26.2   1,107,170  12.0       4,030   8.4 
+       Attempted                           670,010   6.7      72,000  10.5     598,010   6.5           0     0 
+    Theft                               24,237,780 242.6   2,176,770 318.4  21,941,940 236.9     119,060 247.9 
+       Completed                        23,020,050 230.4   2,049,860 299.8  20,855,290 225.2     114,890 239.3 
+          Less than $50                  9,652,550  96.6     669,850  98.0   8,938,430  96.5      44,270  92.2 
+          $50 - $249                     7,682,460  76.9     771,810 112.9   6,868,680  74.2      41,960  87.4 
+          $250 or more                   4,252,510  42.6     444,040  64.9   3,783,540  40.9      24,940  51.9 
+          Amount not available           1,432,520  14.3     164,160  24.0   1,264,640  13.7       3,730   7.8 
+       Attempted                         1,217,720  12.2     126,910  18.6   1,086,650  11.7       4,170   8.7 
+ Total Number of Households             99,927,410         6,837,600        92,609,620           480,190       
+ ----------------------------------------------------------------------------------------------------------------
+ 
+ Table 18.  Motor vehicle theft,  1993:
+  
+ Victimization rates on the basis of thefts per 1,000
+ households and of thefts per l,000 vehicles owned,
+ by selected household characteristics
+ (internal table)
+ (base table 19)
+                                                                                                         
+ 
+ ------------------------------------------------------------------------------------------------------
+  Characteristic                                                                                vehic- 
+                                                                 house-                          les   
+                                                                 holds     Based                owned  
+                                            Based        on      ------+-----------     on      ------ 
+                                         -----------+-----------  Rate   Number of  -----------  Rate  
+                                          Number of   Number of   per    vehicles    Number of   per   
+                                         households    thefts    l,000     owned      thefts    l,000  
+  --------------------------------------+-----------+-----------+------+-----------+-----------+------ 
+ All races                               99,927,410   1,960,540   19.6 183,427,060   2,074,100   11.3 
+   White                                 85,125,000   1,461,860   17.2 163,457,760   1,566,570    9.6 
+   Black                                 11,906,950     400,950   33.7  14,939,060     409,800   27.4 
+   Other                                  2,895,460      97,740   33.8   5,030,240      97,740   19.4 
+ Age of head of household                                                                             
+   12-19                                    920,380      24,360   26.5     957,850      26,280   27.4 
+   20-34                                 26,358,220     702,630   26.7  45,692,050     747,470   16.4 
+   35-49                                 32,155,560     756,780   23.5  67,206,770     794,420   11.8 
+   50-64                                 19,509,800     361,780   18.5  41,341,930     377,140    9.1 
+   65 and over                           20,983,440     114,980    5.5  28,228,470     128,800    4.6 
+ Form of tenure                                                                                       
+   Owned or being bought                 63,950,970   1,008,230   15.8 136,272,080   1,072,390    7.9 
+   Rented                                35,976,440     952,310   26.5  47,154,980   1,001,720   21.2 
+ Locality of residence                                                                                
+   Urban                                 30,152,160   1,031,710   34.2  44,225,670   1,074,360   24.3 
+   Suburban                              43,001,100     732,860   17.0  85,710,770     785,130    9.2 
+   Rural                                 26,774,150     195,970    7.3  53,490,620     214,610    4.0 
+ ------------------------------------------------------------------------------------------------------
+  
+ Table 19  Household crimes,  1993:                                                                      
+ Victimization rates, by type of crime
+ and age of head of household
+ (Rate per l,000 households)
+ (internal table)
+ (base table 20)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                Total             12-19             20-34             35-49             50-64       
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                        32,182,320 322.1     594,400 645.8  10,535,600 399.7  12,922,710 401.9   5,366,880 275.1 
+    Household burglary                   5,984,000  59.9     176,090 191.3   1,937,290  73.5   2,163,410  67.3     998,210  51.2 
+       Completed                         4,823,770  48.3     162,860 177.0   1,548,220  58.7   1,743,530  54.2     808,880  41.5 
+          Forcible entry                 1,855,890  18.6      34,010  37.0     661,360  25.1     646,850  20.1     297,270  15.2 
+          Unlawful entry without force   2,967,880  29.7     128,850 140.0     886,860  33.6   1,096,680  34.1     511,610  26.2 
+       Attempted forcible entry          1,160,230  11.6      13,230  14.4     389,070  14.8     419,870  13.1     189,330   9.7 
+    Motor vehicle theft                  1,960,540  19.6      24,360  26.5     702,630  26.7     756,780  23.5     361,780  18.5 
+       Completed                         1,290,530  12.9      22,160  24.1     450,870  17.1     500,140  15.6     244,840  12.5 
+       Attempted                           670,010   6.7       2,200   2.4     251,760   9.6     256,640   8.0     116,950   6.0 
+    Theft                               24,237,780 242.6     393,940 428.0   7,895,680 299.6  10,002,520 311.1   4,006,890 205.4 
+       Completed                        23,020,050 230.4     378,150 410.9   7,519,210 285.3   9,483,470 294.9   3,791,390 194.3 
+          Less than $50                  9,652,550  96.6     150,440 163.5   2,848,370 108.1   4,259,250 132.5   1,587,010  81.3 
+          $50 - $249                     7,682,460  76.9     154,530 167.9   2,706,070 102.7   3,082,760  95.9   1,213,410  62.2 
+          $250 or more                   4,252,510  42.6      64,580  70.2   1,612,470  61.2   1,573,540  48.9     702,110  36.0 
+          Amount not available           1,432,520  14.3       8,600   9.3     352,300  13.4     567,920  17.7     288,860  14.8 
+       Attempted                         1,217,720  12.2      15,790  17.2     376,470  14.3     519,040  16.1     215,500  11.0 
+ Total Number of Households             99,927,410           920,380        26,358,220        32,155,560        19,509,800       
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 19.  Household crimes,  1993:                                                                      
+ Victimization rates, by type of crime
+ and age of head of household
+ (Rate per l,000 households)
+ (internal table)
+ (base table 20)
+ 
+ ----------------------------------------------------------
+  Type of crime                             65 and over    
+                                         ----------------- 
+                                           Number    Rate  
+  --------------------------------------+-----------+----- 
+ Property crimes                         2,762,730 131.7 
+    Household burglary                     709,010  33.8 
+       Completed                           560,280  26.7 
+          Forcible entry                   216,400  10.3 
+          Unlawful entry without force     343,880  16.4 
+       Attempted forcible entry            148,730   7.1 
+    Motor vehicle theft                    114,980   5.5 
+       Completed                            72,520   3.5 
+       Attempted                            42,450   2.0 
+    Theft                                1,938,750  92.4 
+       Completed                         1,847,830  88.1 
+          Less than $50                    807,480  38.5 
+          $50 - $249                       525,690  25.1 
+          $250 or more                     299,820  14.3 
+          Amount not available             214,850  10.2 
+       Attempted                            90,910   4.3 
+ Total Number of Households             20,983,440       
+---------------------------------------------------------
+ 
+ Table 20.  Household crimes,   1993:                                                                     
+ Victimization rates, by type of crime
+ and annual family income
+ (Rate per l,000 households)
+ (internal table)
+ (base table 21)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ Type of crime                                Total       Less than $7,500   $7,500-$14,999    $15,000-$24,999   $25,000-$34,999  
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+ --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                        32,182,320 322.1   3,572,930 314.9   4,257,990 299.4   5,088,860 310.4   4,706,560 335.8 
+    Household burglary                   5,984,000  59.9   1,104,100  97.3     951,620  66.9     951,600  58.0     711,550  50.8 
+       Completed                         4,823,770  48.3     887,380  78.2     740,350  52.1     735,940  44.9     600,960  42.9 
+          Forcible entry                 1,855,890  18.6     318,960  28.1     273,630  19.2     329,410  20.1     224,630  16.0 
+          Unlawful entry without force   2,967,880  29.7     568,420  50.1     466,720  32.8     406,530  24.8     376,330  26.8 
+       Attempted forcible entry          1,160,230  11.6     216,720  19.1     211,260  14.9     215,660  13.2     110,590   7.9 
+    Motor vehicle theft                  1,960,540  19.6     160,280  14.1     269,420  18.9     304,130  18.6     296,630  21.2 
+       Completed                         1,290,530  12.9     107,720   9.5     197,770  13.9     189,290  11.5     201,610  14.4 
+       Attempted                           670,010   6.7      52,560   4.6      71,640   5.0     114,840   7.0      95,020   6.8 
+    Theft                               24,237,780 242.6   2,308,540 203.5   3,036,950 213.5   3,833,130 233.8   3,698,390 263.9 
+ &     Completed                        23,020,050 230.4   2,207,240 194.5   2,871,630 201.9   3,647,900 222.5   3,507,280 250.2 
+          Less than $50                  9,652,550  96.6     945,110  83.3   1,218,500  85.7   1,565,110  95.5   1,528,350 109.0 
+          $50 - $249                     7,682,460  76.9     746,960  65.8   1,005,470  70.7   1,225,180  74.7   1,139,890  81.3 
+          $250 or more                   4,252,510  42.6     368,710  32.5     479,740  33.7     604,530  36.9     606,270  43.3 
+          Amount not available           1,432,520  14.3     146,460  12.9     167,930  11.8     253,080  15.4     232,770  16.6 
+       Attempted                         1,217,720  12.2     101,310   8.9     165,320  11.6     185,230  11.3     191,110  13.6 
+ Total Number of Households             99,927,410        11,345,760        14,221,480        16,395,340        14,016,520       
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 20.  Household crimes,   1993:                                                                     
+ Victimization rates, by type of crime
+ and annual family income
+ (Rate per l,000 households)
+ (internal table)
+ (base table 21)
+ 
+ ----------------------------------------------------------------------------------------------------------------
+  Type of crime                           $35,000-$49,999  $50,000 -$74,999   $75,000 or more         NA         
+                                         -----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                         4,859,370 340.8   4,000,760 371.7   2,682,120 388.5   3,013,730 250.7 
+    Household burglary                     774,130  54.3     535,310  49.7     353,410  51.2     602,280  50.1 
+       Completed                           619,370  43.4     450,240  41.8     295,180  42.8     494,350  41.1 
+          Forcible entry                   246,390  17.3     172,190  16.0      74,910  10.8     215,770  18.0 
+          Unlawful entry without force     372,980  26.2     278,060  25.8     220,270  31.9     278,580  23.2 
+       Attempted forcible entry            154,760  10.9      85,070   7.9      58,230   8.4     107,930   9.0 
+    Motor vehicle theft                    264,540  18.6     240,710  22.4     182,060  26.4     242,770  20.2 
+       Completed                           167,180  11.7     161,170  15.0     115,750  16.8     150,040  12.5 
+       Attempted                            97,360   6.8      79,540   7.4      66,310   9.6      92,740   7.7 
+    Theft                                3,820,700 267.9   3,224,740 299.6   2,146,650 310.9   2,168,680 180.4 
+       Completed                         3,609,450 253.1   3,078,370 286.0   2,010,860 291.2   2,087,340 173.6 
+          Less than $50                  1,589,350 111.5   1,339,010 124.4     728,380 105.5     738,750  61.5 
+          $50 - $249                     1,148,800  80.6     994,640  92.4     677,440  98.1     744,070  61.9 
+          $250 or more                     682,560  47.9     583,440  54.2     504,000  73.0     423,270  35.2 
+          Amount not available             188,730  13.2     161,270  15.0     101,040  14.6     181,250  15.1 
+       Attempted                           211,250  14.8     146,370  13.6     135,790  19.7      81,340   6.8 
+ Total Number of Households             14,259,860        10,763,360         6,904,420        12,020,680       
+ ----------------------------------------------------------------------------------------------------------------
+ 
+ Table 21.  Household burglary,  1993:                                                                
+ Victimization rates, by race of head of household
+ annual family income,, and type of burglary
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 22)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Race and income                                                                                    Comp.Burglary      Attempted  
+                                                                            Completed Burglary    Unlawful entry w/o    forcible   
+                                                                              Forcible entry             force            entry    
+                                            Total        All               ---------------------+---------------------+----------- 
+                                         households  burglaries    RATE      Number      RATE      Number      RATE      Number    
+  --------------------------------------+-----------+-----------+---------+-----------+---------+-----------+---------+----------- 
+  White              Less than $7,500      7,982,120     775,970      97.2     201,940      25.3     414,180      51.9     159,850 
+                     $7,500-$14,999       11,578,850     703,060      60.7     168,480      14.6     382,190      33.0     152,390 
+                     $15,000-$24,999      13,991,360     775,910      55.5     238,900      17.1     356,880      25.5     180,130 
+                     $25,000-$34,999      12,406,380     622,100      50.1     186,000      15.0     340,980      27.5      95,130 
+                     $35,000-$49,999      12,828,840     659,100      51.4     203,020      15.8     327,020      25.5     129,050 
+                     $50,000-$74,999       9,882,330     471,900      47.8     152,240      15.4     242,530      24.5      77,130 
+                     $75,000 or more       6,404,300     330,380      51.6      72,570      11.3     207,640      32.4      50,170 
+                     Not applicable       10,050,830     478,680      47.6     168,180      16.7     237,150      23.6      73,350 
+                     TOTAL                85,125,000   4,817,090      56.6   1,391,320      16.3   2,508,570      29.5     917,210 
+  Black              Less than $7,500      2,977,110     304,500     102.3     110,200      37.0     137,440      46.2      56,870 
+                     $7,500-$14,999        2,220,710     224,970     101.3     105,160      47.4      66,200      29.8      53,620 
+                     $15,000-$24,999       1,958,820     159,970      81.7      84,460      43.1      43,990      22.5      31,510 
+                     $25,000-$34,999       1,271,650      70,450      55.4      34,560      27.2      26,700      21.0       9,190 
+                     $35,000-$49,999       1,039,460      92,050      88.6      37,780      36.3      32,410      31.2      21,860 
+                     $50,000-$74,999         579,780      59,170     102.1      17,850      30.8      33,390      57.6       7,940 
+                     $75,000 or more         226,520      12,960      57.2           0       0.0       8,810      38.9       4,160 
+                     Not applicable        1,632,910      94,720      58.0      40,990      25.1      30,400      18.6      23,330 
+                     TOTAL                11,906,950   1,018,800      85.6     431,000      36.2     379,330      31.9     208,470 
+ 
+ (CONTINUED)
+ Table 21.  Household burglary,  1993:                                                                
+ Victimization rates, by race of head of household
+ annual family income,, and type of burglary
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 22)
+ 
+ --------------------------------------------------
+  Race and income                        Attempted 
+                                         forcible  
+                                           entry   
+                                         --------- 
+                                           RATE    
+  --------------------------------------+--------- 
+  White              Less than $7,500         20.0 
+                     $7,500-$14,999           13.2 
+                     $15,000-$24,999          12.9 
+                     $25,000-$34,999           7.7 
+                     $35,000-$49,999          10.1 
+                     $50,000-$74,999           7.8 
+                     $75,000 or more           7.8 
+                     Not applicable            7.3 
+                     TOTAL                    10.8 
+  Black              Less than $7,500         19.1 
+                     $7,500-$14,999           24.1 
+                     $15,000-$24,999          16.1 
+                     $25,000-$34,999           7.2 
+                     $35,000-$49,999          21.0 
+                     $50,000-$74,999          13.7 
+                     $75,000 or more          18.4 
+                     Not applicable           14.3 
+                     TOTAL                    17.5 
+ --------------------------------------------------
+ 
+ Table 22.  Theft,  1993:                                                                             
+ Victimization rates, by race of head of household
+ annual family income,, and type of theft
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 23)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Race and income                                                                                                      Completed - 
+                                                                           Completed - Less than                         $250 or   
+                                                             Theft                  $50          Completed - $50-$249     more     
+                                            Total    ---------------------+---------------------+---------------------+----------- 
+                                         households    Number      RATE      Number      RATE      Number      RATE      Number    
+  --------------------------------------+-----------+-----------+---------+-----------+---------+-----------+---------+----------- 
+  White              Less than $7,500      7,982,120   1,653,330     207.1     696,340      87.2     565,330      70.8     240,850 
+                     $7,500-$14,999       11,578,850   2,329,110     201.2     991,770      85.7     758,170      65.5     338,610 
+                     $15,000-$24,999      13,991,360   3,227,740     230.7   1,310,680      93.7   1,011,060      72.3     537,470 
+                     $25,000-$34,999      12,406,380   3,225,450     260.0   1,374,660     110.8     986,790      79.5     508,290 
+                     $35,000-$49,999      12,828,840   3,428,610     267.3   1,441,810     112.4   1,035,990      80.8     614,020 
+                     $50,000-$74,999       9,882,330   2,904,090     293.9   1,214,330     122.9     893,950      90.5     516,370 
+                     $75,000 or more       6,404,300   2,008,170     313.6     680,710     106.3     637,200      99.5     480,020 
+                     Not applicable       10,050,830   1,740,160     173.1     577,060      57.4     622,710      62.0     348,740 
+                     TOTAL                85,125,000  20,516,660     241.0   8,287,350      97.4   6,511,200      76.5   3,584,360 
+  Black              Less than $7,500      2,977,110     570,380     191.6     213,570      71.7     169,610      57.0     111,130 
+                     $7,500-$14,999        2,220,710     601,060     270.7     195,060      87.8     198,240      89.3     121,740 
+                     $15,000-$24,999       1,958,820     495,270     252.8     205,020     104.7     177,860      90.8      55,270 
+                     $25,000-$34,999       1,271,650     373,140     293.4     121,140      95.3     120,790      95.0      73,400 
+                     $35,000-$49,999       1,039,460     306,100     294.5     120,760     116.2      70,180      67.5      66,560 
+                     $50,000-$74,999         579,780     228,960     394.9      74,800     129.0      80,340     138.6      55,250 
+                     $75,000 or more         226,520      70,720     312.2      28,160     124.3      21,650      95.6       7,430 
+                     Not applicable        1,632,910     326,150     199.7     135,990      83.3      87,970      53.9      50,190 
+                     TOTAL                11,906,950   2,971,780     249.6   1,094,500      91.9     926,640      77.8     540,960 
+ 
+ (CONTINUED)
+ Table 22.  Theft,  1993:                                                                             
+ Victimization rates, by race of head of household
+ annual family income,, and type of theft
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 23)
+ 
+ ----------------------------------------------------------------------------------------------
+  Race and income                        Completed                                             
+                                          $250 or                                              
+                                           more    Amount not available        Attempted       
+                                         ---------+---------------------+--------------------- 
+                                           RATE      Number      RATE      Number      RATE    
+  --------------------------------------+---------+-----------+---------+-----------+--------- 
+  White              Less than $7,500         30.2      81,980      10.3      68,830       8.6 
+                     $7,500-$14,999           29.2     118,250      10.2     122,320      10.6 
+                     $15,000-$24,999          38.4     223,240      16.0     145,300      10.4 
+                     $25,000-$34,999          41.0     186,240      15.0     169,460      13.7 
+                     $35,000-$49,999          47.9     143,500      11.2     193,290      15.1 
+                     $50,000-$74,999          52.3     145,500      14.7     133,940      13.6 
+                     $75,000 or more          75.0      90,460      14.1     119,770      18.7 
+                     Not applicable           34.7     118,380      11.8      73,270       7.3 
+                     TOTAL                    42.1   1,107,560      13.0   1,026,180      12.1 
+  Black              Less than $7,500         37.3      52,560      17.7      23,510       7.9 
+                     $7,500-$14,999           54.8      47,650      21.5      38,370      17.3 
+                     $15,000-$24,999          28.2      29,840      15.2      27,280      13.9 
+                     $25,000-$34,999          57.7      38,240      30.1      19,570      15.4 
+                     $35,000-$49,999          64.0      34,990      33.7      13,620      13.1 
+                     $50,000-$74,999          95.3       6,140      10.6      12,430      21.4 
+                     $75,000 or more          32.8       1,920       8.5      11,560      51.0 
+                     Not applicable           30.7      46,130      28.3       5,860       3.6 
+                     TOTAL                    45.4     257,470      21.6     152,210      12.8 
+ ----------------------------------------------------------------------------------------------
+ 
+ Table 23.  Motor vehicle theft,  1993:                                                               
+ 
+ Victimization rates, by race of head of household
+ annual family income,, and type of motor vehicle theft
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 24)
+ 
+ ----------------------------------------------------------------------------------------------------------------------
+  Race and income                                     All vehicle thefts     Completed thefts      Attempted thefts    
+                                            Total    ---------------------+---------------------+--------------------- 
+                                         households    Number      RATE      Number      RATE      Number      RATE    
+  --------------------------------------+-----------+-----------+---------+-----------+---------+-----------+--------- 
+  White              Less than $7,500      7,982,120     117,030      14.7      76,610       9.6      40,420       5.1 
+                     $7,500-$14,999       11,578,850     177,550      15.3     132,830      11.5      44,710       3.9 
+                     $15,000-$24,999      13,991,360     235,370      16.8     144,170      10.3      91,200       6.5 
+                     $25,000-$34,999      12,406,380     211,560      17.1     154,430      12.4      57,120       4.6 
+                     $35,000-$49,999      12,828,840     210,220      16.4     125,360       9.8      84,860       6.6 
+                     $50,000-$74,999       9,882,330     197,380      20.0     139,890      14.2      57,490       5.8 
+                     $75,000 or more       6,404,300     152,470      23.8      97,230      15.2      55,240       8.6 
+                     Not applicable       10,050,830     160,300      15.9     100,960      10.0      59,340       5.9 
+                     TOTAL                85,125,000   1,461,860      17.2     971,480      11.4     490,380       5.8 
+  Black              Less than $7,500      2,977,110      43,250      14.5      31,120      10.5      12,140       4.1 
+                     $7,500-$14,999        2,220,710      68,640      30.9      41,700      18.8      26,930      12.1 
+                     $15,000-$24,999       1,958,820      64,620      33.0      43,110      22.0      21,520      11.0 
+                     $25,000-$34,999       1,271,650      71,650      56.3      39,940      31.4      31,710      24.9 
+                     $35,000-$49,999       1,039,460      32,660      31.4      28,590      27.5       4,070       3.9 
+                     $50,000-$74,999         579,780      31,880      55.0      17,560      30.3      14,310      24.7 
+                     $75,000 or more         226,520      21,370      94.3      10,290      45.4      11,070      48.9 
+                     Not applicable        1,632,910      66,870      41.0      40,820      25.0      26,050      16.0 
+                     TOTAL                11,906,950     400,950      33.7     253,140      21.3     147,800      12.4 
+ ----------------------------------------------------------------------------------------------------------------------
+ 
+ Table 24.  Property crimes,  1993:
+  
+ Victimization rates by type of crime
+ and number of persons in household
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 25)
+                                                                                                         
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                 One            Two-three         Four-five        Six or more          Total       
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                         4,903,330 191.9  15,153,510 299.6  10,056,510 489.9   2,068,970 632.3  32,182,320 322.1 
+    Household burglary                   1,256,100  49.2   2,844,550  56.2   1,577,700  76.8     305,660  93.4   5,984,000  59.9 
+       Completed                           929,810  36.4   2,326,930  46.0   1,309,000  63.8     258,040  78.9   4,823,770  48.3 
+          Forcible entry                   437,110  17.1     860,260  17.0     464,440  22.6      94,080  28.8   1,855,890  18.6 
+          Unlawful entry without force     492,700  19.3   1,466,660  29.0     844,550  41.1     163,960  50.1   2,967,880  29.7 
+       Attempted forcible entry            326,290  12.8     517,630  10.2     268,700  13.1      47,620  14.6   1,160,230  11.6 
+    Motor vehicle theft                    311,630  12.2     939,090  18.6     580,370  28.3     129,460  39.6   1,960,540  19.6 
+       Completed                           170,660   6.7     615,370  12.2     405,270  19.7      99,230  30.3   1,290,530  12.9 
+       Attempted                           140,970   5.5     323,720   6.4     175,090   8.5      30,230   9.2     670,010   6.7 
+    Theft                                3,335,600 130.5  11,369,880 224.8   7,898,450 384.7   1,633,850 499.3  24,237,780 242.6 
+       Completed                         3,152,490 123.4  10,743,960 212.4   7,550,540 367.8   1,573,050 480.7  23,020,050 230.4 
+          Less than $50                  1,368,270  53.5   4,276,200  84.6   3,304,260 161.0     703,820 215.1   9,652,550  96.6 
+          $50 - $249                       918,180  35.9   3,612,380  71.4   2,608,540 127.1     543,360 166.1   7,682,460  76.9 
+          $250 or more                     656,970  25.7   2,179,590  43.1   1,191,340  58.0     224,620  68.6   4,252,510  42.6 
+          Amount not available             209,070   8.2     675,800  13.4     446,410  21.7     101,250  30.9   1,432,520  14.3 
+       Attempted                           183,110   7.2     625,910  12.4     347,910  16.9      60,800  18.6   1,217,720  12.2 
+ Total Number of Households             25,553,740        50,571,810        20,529,670         3,272,180        99,927,410       
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ Table 25.  Property crimes,  1993:
+  
+ Victimization rates by type of crime and number of units in
+ structure occupied by household
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 27)
+                                                                                                         
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                 One               Two              Three             Four            Five-nine     
+                                         -----------------+-----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                        21,642,460 308.6   2,169,640 367.8     641,960 366.4   1,099,190 338.3   1,978,390 356.0 
+    Household burglary                   4,096,750  58.4     440,620  74.7     118,950  67.9     212,300  65.3     342,390  61.6 
+       Completed                         3,346,090  47.7     337,280  57.2      90,860  51.9     178,060  54.8     243,850  43.9 
+          Forcible entry                 1,274,910  18.2     140,870  23.9      53,250  30.4      72,510  22.3     110,450  19.9 
+          Unlawful entry without force   2,071,180  29.5     196,410  33.3      37,600  21.5     105,560  32.5     133,400  24.0 
+       Attempted forcible entry            750,660  10.7     103,340  17.5      28,100  16.0      34,230  10.5      98,540  17.7 
+    Motor vehicle theft                  1,143,770  16.3     157,680  26.7      61,360  35.0     104,150  32.1     147,430  26.5 
+       Completed                           749,100  10.7     114,450  19.4      32,270  18.4      74,840  23.0     103,450  18.6 
+       Attempted                           394,660   5.6      43,230   7.3      29,090  16.6      29,310   9.0      43,980   7.9 
+    Theft                               16,401,940 233.9   1,571,340 266.4     461,650 263.5     782,740 240.9   1,488,570 267.9 
+       Completed                        15,590,660 222.3   1,493,340 253.1     438,230 250.1     750,240 230.9   1,401,120 252.2 
+          Less than $50                  6,845,780  97.6     529,230  89.7     148,610  84.8     301,790  92.9     564,960 101.7 
+          $50 - $249                     5,063,100  72.2     540,860  91.7     160,160  91.4     294,000  90.5     490,740  88.3 
+          $250 or more                   2,714,880  38.7     303,830  51.5      95,550  54.5     111,790  34.4     277,980  50.0 
+          Amount not available             966,910  13.8     119,420  20.2      33,890  19.3      42,660  13.1      67,440  12.1 
+       Attempted                           811,280  11.6      78,000  13.2      23,430  13.4      32,500  10.0      87,450  15.7 
+ Total Number of Households             70,128,520         5,899,410         1,752,140         3,249,590         5,556,660       
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 25.  Property crimes,  1993:
+  
+ Victimization rates by type of crime and number of units in
+ structure occupied by household
+ (Rate per 1,000 households)
+ (internal table)
+ (base table 27)
+                                                                                                         
+ 
+ ----------------------------------------------------------------------------------------------------------------
+  Type of crime                                               Other than                                         
+                                            Ten or more      housing unit           NA               Total       
+                                         -----------------+-----------------+-----------------+----------------- 
+                                           Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  --------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+ Property crimes                         4,026,640 342.6     381,960 385.6     242,080 405.5  32,182,320 322.1 
+    Household burglary                     643,810  54.8      92,360  93.3      36,820  61.7   5,984,000  59.9 
+       Completed                           507,780  43.2      85,190  86.0      34,660  58.0   4,823,770  48.3 
+          Forcible entry                   179,260  15.3      11,540  11.7      13,090  21.9   1,855,890  18.6 
+          Unlawful entry without force     328,520  28.0      73,650  74.4      21,560  36.1   2,967,880  29.7 
+       Attempted forcible entry            136,020  11.6       7,170   7.2       2,170   3.6   1,160,230  11.6 
+    Motor vehicle theft                    325,940  27.7      11,020  11.1       9,190  15.4   1,960,540  19.6 
+       Completed                           200,410  17.1       8,710   8.8       7,300  12.2   1,290,530  12.9 
+       Attempted                           125,530  10.7       2,320   2.3       1,890   3.2     670,010   6.7 
+    Theft                                3,056,890 260.1     278,580 281.3     196,060 328.4  24,237,780 242.6 
+       Completed                         2,889,650 245.9     269,170 271.8     187,650 314.3  23,020,050 230.4 
+          Less than $50                  1,062,930  90.4     126,720 127.9      72,530 121.5   9,652,550  96.6 
+          $50 - $249                       982,610  83.6      85,200  86.0      65,790 110.2   7,682,460  76.9 
+          $250 or more                     668,040  56.8      46,130  46.6      34,310  57.5   4,252,510  42.6 
+          Amount not available             176,060  15.0      11,130  11.2      15,020  25.2   1,432,520  14.3 
+       Attempted                           167,240  14.2       9,410   9.5       8,410  14.1   1,217,720  12.2 
+ Total Number of Households             11,753,570           990,470           597,050        99,927,410       
+ ----------------------------------------------------------------------------------------------------------------
+
