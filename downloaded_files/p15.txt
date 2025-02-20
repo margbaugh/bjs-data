@@ -1,0 +1,1629 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------
+
+This file is text only without graphics and many 
+of the tables. A Zip archive of the tables in this 
+report in spreadsheet format (.csv) and the full 
+report including tables and graphics in .pdf 
+format are available on BJS website at 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5869
+
+This reports is one in series. More recent 
+editions may be available. To view a list of all 
+reports in the series go to 
+http://www.bjs.gov/index.cfm?ty=pbse&sid=40
+------------------------------------------------- 
+
+Bulletin
+
+Prisoners in 2015
+ 
+E. Ann Carson, Ph.D., BJS Statistician
+Elizabeth Anderson, BJS Intern
+
+At yearend 2015, the United States had an estimated 1,526,800 
+prisoners under the jurisdiction of state and federal correctional 
+authorities. This was the smallest U.S. prison population since 
+2005 (1,525,900 prisoners). The prison population decreased by 
+more than 2% from the number of prisoners held in December 2014 
+(figure 1). This was the largest decline in the number of persons 
+under the jurisdiction of state or federal correctional 
+authorities since 1978 (figure 2). 
+
+The Federal Bureau of Prisons (BOP) had jurisdiction over 196,500 
+prisoners at yearend 2015, a decrease of 14,100 prisoners from 
+yearend 2014. This was the third consecutive year that the federal 
+prison population declined and the lowest number of federal 
+prisoners since 2006 (193,000). This decrease in federal prisoners 
+accounted for 40% of the total change in the U.S. prison 
+population.
+
+The statistics in this report are based on the Bureau of Justice 
+Statistics’ (BJS) National Prisoner Statistics (NPS) program, 
+which collects annual data from state departments of corrections 
+(DOCs) and the BOP on prisoner counts, prisoner characteristics, 
+admissions, releases, and prison capacity. The 2015 NPS collection 
+was number 91 in a series that began in 1926. Forty-eight states 
+and the BOP reported NPS data for 2015, while data for Nevada and 
+Oregon were obtained from other sources or were imputed (see 
+Methodology).
+
+**************************************************
+*************
+Highlights
+*************
+* The total number of prisoners under the jurisdiction of state 
+and federal correctional authorities on December 31, 2015 
+(1,526,800) decreased by 35,500 (down more than 2%) from yearend 
+2014.
+
+* The federal prison population decreased by 14,100 prisoners from 
+2014 to 2015 (down almost 7%), accounting for 40% of the total 
+change in the U.S. prison population.
+
+* After increasing during the previous 2 years, the number of 
+state and federal female prisoners decreased by 1% in 2015.
+
+* State and federal prisons had jurisdiction over 1,476,800 
+persons sentenced to more than 1 year on December 31, 2015.
+
+* The imprisonment rate in the United States decreased 3%, from 
+471 prisoners per 100,000 U.S. residents of all ages in 2014 to 
+458 prisoners per 100,000 in 2015.
+
+* State and federal prisons admitted 17,800 fewer prisoners in 
+2015 and released 4,700 more than in 2014.
+
+* More than half of prisoners in state prisons (53%) at yearend 
+2014 were serving sentences for violent offenses, the most recent 
+year for which data are available.
+
+* Nearly half of federal prisoners incarcerated on September 30, 
+2015 had been sentenced for drug offenses, the most recent date 
+for which federal offense data were available.
+**************************************************
+
+**************************************************
+***********************
+Terms and definitions
+***********************
+
+* Adult imprisonment rate--The number of prisoners under state or 
+federal jurisdiction sentenced to more than 1 year per 100,000 
+U.S. residents age 18 or older.
+
+* Capacity, design--The number of prisoners that planners or 
+architects intended for a facility.
+
+* Capacity, highest--The maximum number of beds reported across 
+the three capacity measures: design capacity, operational 
+capacity, and rated capacity.
+
+* Capacity, lowest--The minimum number of beds across the three 
+capacity measures: design capacity, operational capacity, and 
+rated capacity.
+
+* Capacity, operational--The number of prisoners that can be 
+accommodated based on a facility’s staff, existing programs, and 
+services.
+
+* Capacity, rated--The number of beds or prisoners assigned by a 
+rating official to institutions within a jurisdiction.
+
+* Conditional releases--Includes discretionary parole, mandatory 
+parole, post-custody probation, and other unspecified conditional 
+releases.
+
+* Conditional release violators--Return to prison of persons 
+released to discretionary parole, mandatory parole, post-custody 
+probation, and other unspecified conditional releases.
+
+* Custody--Prisoners held in the physical custody of state or 
+federal prisons or local jails, regardless of sentence length or 
+authority having jurisdiction.
+
+* Federal prison system--Includes persons held under the 
+jurisdiction of the Federal Bureau of Prisons (BOP) in secure 
+federal and private prison facilities, and persons held in 
+nonsecure, privately operated community corrections facilities, 
+and juveniles in contract facilities.
+
+* Imprisonment rate--The number of prisoners under state or 
+federal jurisdiction sentenced to more than 1 year per 100,000 
+U.S. residents of all ages.
+
+* Jail--A confinement facility usually administered by a local law 
+enforcement agency that is intended for adults but sometimes holds 
+juveniles for confinement before and after adjudication. Such 
+facilities include jails and city or county correctional centers; 
+special jail facilities, such as medical treatment or release 
+centers; halfway houses; work farms; and temporary holding or 
+lockup facilities that are part of the jail’s combined function. 
+Prisoners sentenced to jail facilities usually have a sentence of 
+1 year or less. Alaska, Connecticut, Delaware, Hawaii, Rhode 
+Island, and Vermont operate integrated systems, which combine 
+prisons and jails.
+
+* Jurisdiction--The legal authority of state or federal 
+correctional officials over a prisoner, regardless of where the 
+prisoner is held.
+
+* New court commitments--Admissions into prison of offenders 
+convicted and sentenced by a court, usually to a term of more than 
+1 year, including probation violators and persons with a split 
+sentence to incarceration followed by court-ordered probation or 
+parole.
+
+* Parole violators--All conditional release violators returned to 
+prison for either violating conditions of release or for new 
+crimes.
+
+* Prison--A long-term confinement facility, run by a state or the 
+federal government, that typically holds felons and offenders with 
+sentences of more than 1 year. Sentence length may vary by state. 
+Alaska, Connecticut, Delaware, Hawaii, Rhode Island, and Vermont 
+operate integrated systems, which combine prisons and jails.
+
+* Prisoner--An individual confined in a state or federal 
+correctional facility. 
+
+* Sentenced prisoner--A prisoner sentenced to more than 1 year.
+
+* Supervised mandatory releases--Conditional release with post-
+custody supervision generally occurring in jurisdictions using 
+determinate sentencing statutes.
+
+* Unconditional releases--Expirations of sentences, commutations, 
+and other unspecified unconditional releases.
+**************************************************
+
+*************************
+Total prison population
+*************************
+
+State and federal prisons had jurisdiction over an estimated 
+1,526,800 prisoners at yearend 2015, a more than 2% decrease (down 
+35,500 prisoners) from yearend 2014 (table 1). Federal prisoners 
+made up 13% of the total U.S. prison population at yearend 2015.
+
+The decrease in the number of U.S. prisoners from yearend 2014 to 
+2015 was similar to the decrease that occurred between 2011 and 
+2012 (down almost 2%). The 2011–2012 decline coincided with 
+California’s Public Safety Realignment Policy, which diverted 
+newly sentenced nonviolent, nonserious, and nonsex offenders from 
+state prisons to serve time in local jails and under community 
+supervision. With the commitment by the U.S. Department of Justice 
+in 2015 to reduce the number of nonviolent drug offenders held in 
+federal prisons, the BOP began releasing more nonviolent drug 
+offenders from prison in 2015.
+
+States also enacted laws and policies to reduce prison 
+populations. In California, Proposition 47 retroactively reduced 
+some drug and property offenses from felonies to misdemeanors. In 
+Indiana, prisoners with shorter sentences and good time credit 
+were diverted from state prison to local jail facilities. Other 
+states adopted diversionary techniques, including specialty 
+courts, substance abuse treatment facilities, and reentry programs 
+to decrease prison populations and reduce recidivism.
+
+Forty percent of the total decline in the number of prisoners 
+occurred in the federal population (down 14,100 prisoners from 
+yearend 2014). The federal prison population decreased by almost 
+7% between 2014 and 2015 to 196,500 prisoners, its lowest level 
+since 2006 (193,000 prisoners). This was the third consecutive 
+year of population decline among federal prisoners.
+
+States held 21,400 fewer prisoners at yearend 2015 than 2014 (down 
+almost 2%). Twenty-nine states showed decreases in the yearend 
+prison population between 2014 and 2015 (table 2). Six states 
+showed decreases of more than 1,000 prisoners in 2015, including 
+California (down 6,500 or almost 5%), Texas (down 2,100 or 1%), 
+Indiana (down 1,900 or 7%), Louisiana (down 1,700 or 4%), Florida 
+(down 1,400 or 1%), and New Jersey (down 1,100 or 5%).
+
+Of the 18 state prison populations that grew between 2014 and 
+2015, Oklahoma (900 more prisoners at yearend 2015) and Virginia 
+(up 860) had the largest increases in the number of prisoners, 
+while the smaller jurisdiction of North Dakota (up 4%) had the 
+most growth as a percentage of its population.
+
+Females made up more than 7% of the total prison population 
+nationally at yearend 2015, which remained largely unchanged from 
+2005. The female prison population decreased by 1,500 prisoners 
+(or more than 1%) between 2014 and 2015, after increasing almost 
+4% between 2012 and 2014 (figure 3). Females contributed 7% of the 
+total decline in the federal prison population (down 1,000 
+prisoners) and 2% of the total decrease in the state prison 
+population (down 500) between 2014 and 2015. Eighteen states and 
+the federal prison population showed decreases in their female 
+prison population at yearend 2015, including California (down 600 
+female prisoners), Florida (down 400), and Indiana (down 300). 
+Ohio, Oklahoma, and Virginia each had an increase of more than 200 
+female prisoners between yearend 2014 and 2015, representing 
+growth of more than 5% in their female prison populations.
+
+*****************************
+Sentenced prison population
+*****************************
+
+Prisoners sentenced to more than 1 year made up 97% of the total 
+prison population in 2015. The remaining proportion had not been 
+sentenced for an offense or had received a sentence of a year or 
+less. BJS makes the distinction between the total number of 
+persons held under the jurisdiction of state and federal 
+correctional authorities and those sentenced to more than one year 
+in prison.
+
+State and federal prisoners sentenced 
+to more than 1 year declined for the 
+second consecutive year
+*****************************************
+
+From December 31, 2014 to December 31, 2015, the number of state 
+and federal prisoners who were sentenced to more than 1 year 
+declined by 30,900, a 2% decrease (table 3). This was the second 
+consecutive year that prisoners sentenced to more than 1 year in 
+prison declined. The number of prisoners who were unsentenced or 
+sentenced to 1 year or less in prison decreased 8% from 2014 to 
+2015, from 54,500 to 49,900 prisoners.
+
+State prisons held 1,298,200 prisoners sentenced to more than 1 
+year on December 31, 2015, which was 18,200 fewer sentenced 
+prisoners than at yearend 2014 (down 1%). Federal prisoners had 
+178,700 sentenced prisoners at yearend 2015, or 12,700 fewer than 
+yearend 2014 (down less than 7%). 
+
+From 2014 to 2015, 26 states and the federal prison system had a 
+decline in the number of prisoners sentenced to more than 1 year 
+(table 4). The federal system (down 12,700 prisoners), California 
+(down 6,500), and Indiana (down 1,900) experienced the largest 
+decrease in their sentenced prison populations. Virginia (up 860) 
+and Oklahoma (up 850) had an increase of more than 800 sentenced 
+prisoners. Rhode Island, one of six jurisdictions with combined 
+prison-jail systems, had the largest percentage increase in its 
+sentenced prison population, growing 15% (by almost 300 prisoners) 
+between yearend 2014 and 2015. Rhode Island’s total prison 
+population declined in size (down 3% or more than 100 prisoners) 
+in the same period. Vermont, another combined prison-jail system, 
+saw declines in both its total prison population (down 12%) and 
+sentenced population (down 14%).
+
+Blacks and Hispanics sentenced to more 
+than 1 year in state or federal prison 
+declined in 2015
+*****************************************
+
+At yearend 2015, there were 523,000 non-Hispanic black prisoners 
+sentenced to more than 1 year under state or federal correctional 
+authority. This was a 3% decrease from yearend 2014 and a 9% 
+decline from yearend 2005. The number of non-Hispanic white 
+prisoners sentenced to more than 1 year was virtually unchanged 
+between 2005 (497,600 prisoners) and 2015 (499,400 prisoners). 
+Hispanic prisoners sentenced to more than 1 year declined 2% 
+between 2014 and 2015 and were down by 8% between 2010 and 2015.
+
+******************
+Imprisonment rate
+******************
+
+At yearend 2015, the imprisonment rate 
+for sentenced prisoners of all ages 
+was the lowest since 1997
+*****************************************
+
+At yearend 2015, there were 458 prisoners sentenced to more than 1 
+year in state or federal prison per 100,000 U.S. residents of all 
+ages (table 5). The imprisonment rate for the U.S. population of 
+all ages was the lowest since 1997 (444 per 100,000 U.S. 
+residents, not shown). Among U.S. residents age 18 or older, there 
+were 593 prisoners sentenced to more than 1 year in state or 
+federal prison per 100,000 U.S. adult residents. Both rates 
+decreased since their peak in 2007. 
+
+On December 31, 2015, 1% of adult males living in the United 
+States were serving prison sentences of greater than 1 year. 
+However, this imprisonment rate decreased 3% between yearend 2014 
+(1,168 per 100,000 adult males) and yearend 2015 (1,131 per 
+100,000). The rates for female imprisonment in 2015 (64 per 
+100,000 females of all ages and 82 per 100,000 adult females) both 
+decreased by about 2% from yearend 2014.
+
+Maine had the lowest imprisonment rate at yearend 2015 (132 per 
+100,000 residents of all ages), followed by Massachusetts (179) 
+and Minnesota (196) (table 6). Louisiana had the highest 
+imprisonment rate for persons of all ages in 2015 (776 per 100,000 
+state residents) and adults (1,019 prisoners per 100,000 state 
+residents age 18 or older), followed by Oklahoma (715 per 100,000 
+state residents of all ages and 948 per 100,000 adult state 
+residents). Seven additional states had imprisonment rates of more 
+than 500 per 100,000 state residents of all ages, including 
+Alabama (611 per 100,000), Mississippi (609), Arizona (596), 
+Arkansas (591), Texas (568), Missouri (530), and Georgia (503).
+
+Oklahoma had the highest imprisonment rate for females in the 
+United States at yearend 2014 (151 female prisoners 
+per 100,000 females of all ages). The states with the next 
+highest imprisonment rates for females of all ages were 
+Kentucky (115 per 100,000), Idaho (112), and Arizona 
+and Missouri (105 each).
+
+The imprisonment rates decreased for all 
+races from 2014 to 2015
+*****************************************
+
+In 2015, imprisonment rates for white, black, and Hispanic adults 
+were at their lowest levels since 2005 (figure 4). Between 
+December 31, 2014, and December 31, 2015, the rate of imprisonment 
+for black adults decreased 4% (from 1,824 per 100,000 in 2014 to 
+1,745 in 2015). The rate for Hispanic adults decreased 5%, from 
+860 per 100,000 to 820. The rate for whites also declined, from 
+317 per 100,000 U.S. residents age 18 or older in 2014 to 312 per 
+100,000 in 2015.
+
+********************************
+Prison admissions and releases
+********************************
+
+State and federal correctional authorities 
+admitted 17,800 fewer prisoners in 2015 
+than in 2014
+********************************************
+
+Federal and state correctional authorities admitted a total of 
+608,300 prisoners sentenced to more than 1 year in 2015, including 
+429,100 new court commitments (table 7). This represented a 3% 
+decrease from the number of prison admissions (626,100) in 2014. 
+Both California (down 10%) and the federal prison system (down 8%) 
+admitted 4,000 fewer prisoners in 2015 than in 2014. Illinois 
+(down 2,500 or 8%), Florida (down 1,600 or 5%), and Tennessee 
+(down 1,500 or 10%) also had large declines in admissions from 
+2014 to 2015. Washington had the largest increase in the number of 
+admissions from 2014 to 2015, up by 5% or more than 1,000 entries 
+to prison.
+
+In 2015, new court commitments of prisoners sentenced to more than 
+1 year accounted for 71% of all U.S. prison admissions, 91% of the 
+federal system’s admissions, and 69% of admissions to state 
+prisons. Admissions of persons who were on community supervision 
+following a previous prison term, which included both new offenses 
+and supervision term violations, made up the majority of the 
+remaining admissions. In 2015, new court commitments made up 66% 
+(49,600) of admissions in Texas, 91% (42,600) in the federal 
+system, 88% (30,700) in California, and 97% (29,700) in Florida. 
+In comparison, violations of post-custody supervision programs 
+made up more than 60% each of admissions in Washington, Vermont, 
+and Idaho.
+
+Correctional authorities released 4,700 
+more prisoners from state and federal 
+prisons in 2015 than in 2014
+*****************************************
+
+The total number of prisoners released by state and federal 
+correctional authorities was largely unchanged between 2014 and 
+2015 (increasing by 4,700 releases or 1%). A total of 60,200 
+prisoners were released from federal prison (up 10% from 2014), 
+and 580,900 prisoners were released from state prisons (down less 
+than 1% from 2014). States with smaller prison populations 
+experienced the largest percentage increases and declines in 
+releases during 2015, including North Dakota (up 42% or 400 more 
+releases than in 2014), Mississippi (down 35% or 3,300), and Maine 
+(down 34% or 300).
+
+Among states that provided disaggregated counts by type of 
+release, 70% of prisoners released in 2015 were discharged with 
+some form of required post-custody community supervision. A total 
+of 405,200 persons were released to state post-custody community 
+supervision programs during 2015. Ten states (Arkansas, Delaware, 
+Idaho, Louisiana, Mississippi, Missouri, New Hampshire, Oregon, 
+Virginia, and Wisconsin) released more than 90% of prisoners onto 
+post-custody community supervision. Connecticut, Florida, Hawaii, 
+Massachusetts, New Jersey, and Rhode Island placed post-custody 
+supervision conditions on less than half of prisoners released in 
+2015.
+
+******************************************
+Demographic and offense characteristics 
+of state and federal prisoners
+******************************************
+
+A tenth (11%) of prisoners sentenced to 
+more than 1 year in state or federal prison 
+at yearend 2015 were age 55 or older
+********************************************
+
+Prisoners age 55 or older made up almost 11% of the U.S. prison 
+population sentenced to more than 1 year in 2015 (table 8). More 
+than 11% of all prisoners were ages 18 to 24, but this varied by 
+sex and race or Hispanic origin.  At yearend 2015, 8% of non-
+Hispanic white males in state and federal prison were ages 18 to 
+24, compared to almost 14% of non-Hispanic black males and 13% of 
+Hispanic males. The percentage of white male prisoners age 60 or 
+older (8%) in state and federal prison in 2015 was greater than 
+among black and Hispanic male prisoners (4% each). 
+
+A smaller percentage of female prisoners in 2015 were age 55 or 
+older (7%) compared to males (almost 11%). The percentage of white 
+female prisoners age 55 or older was higher for the other race 
+groups of female prisoners. Twice as many white females (52,700 
+prisoners) than black females (21,700) were in state and federal 
+prison at yearend 2015. However, the imprisonment rate for black 
+females (103 per 100,000 black female residents) was almost double 
+that for white females (52 per 100,000) (appendix table 4). Among 
+any age group, black females were between 1.5 and 4.0 times more 
+likely to be imprisoned than white females and between 1.1 and 2.0 
+times more likely than Hispanic females. As with males, females 
+ages 30 to 34 had the highest rates of imprisonment of any age 
+group (184 per 100,000 female residents).
+
+Fifty-three percent of state prisoners 
+were serving time for violent offenses
+********************************************
+
+More than half (53% or 696,900 prisoners) of all state prisoners 
+sentenced to more than 1 year on December 31, 2014 (the most 
+recent year for which state prison offense data are available) 
+were serving sentences for violent offenses on their current term 
+of imprisonment (table 9) (appendix table 5). At yearend 2014, 13% 
+of sentenced prisoners (171,700 prisoners) were serving time in 
+state prison for murder or nonnegligent manslaughter. An 
+additional 162,800 state prisoners (12%) had been sentenced for 
+rape or sexual assault. On December 31, 2015, 249,900 state 
+prisoners (19%) were sentenced to at least 1 year for property 
+offenses. Sixteen percent of state prisoners were serving 
+sentences for drug-related offenses (206,300 prisoners). 
+
+Violent offenders represented more than half (54%) of the 
+sentenced male state prisoners. More than a third (36%) of female 
+prisoners were violent offenders. Eighteen percent (223,700) of 
+male state prisoners and 28% (26,000) of females were sentenced 
+for property offenses. Twenty-five percent of female state 
+prisoners (23,500 females) and 15% of male state prisoners 
+(182,700 males) were sentenced for drug offenses.
+
+A smaller percentage of whites were serving sentences of more than 
+1 year in state prison for violent offenses (47% or 210,400 
+prisoners) than blacks (58% or 263,800) or Hispanics (59% or 
+152,900). This pattern was consistent across racial and ethnic 
+groups for murder or nonnegligent manslaughter, robbery, and 
+assault. Whites had a higher percentage of sentenced prisoners 
+serving time in state facilities for rape or sexual assault (16%) 
+than blacks (8%) or Hispanics (13%). Whites also had a higher 
+percentage offenders serving a sentence of more than 1 year in 
+state prison for property crimes (25%) than blacks (16%) and 
+Hispanics (14%) at yearend 2014. The proportion of prisoners 
+sentenced to more than 1 year in state prison for drug offenses 
+was roughly equal between whites, blacks, and Hispanics (15.0% or 
+67,800 white prisoners, 14.9% or 68,000 black prisoners, and 14.6% 
+or 28,800 Hispanic prisoners).
+
+Nearly half of federal prisoners in 2015 
+were serving sentences for drug offenses
+********************************************
+
+Almost 50% (92,000 prisoners) of sentenced federal prisoners on 
+September 30, 2015 (the most recent date for which federal offense 
+data are available) were serving time for drug offenses (table 10) 
+(appendix table 6). An additional 36% of federal offenders (67,500 
+prisoners) were imprisoned for public order offenses, including 
+30,200 (16% of all federal prisoners) for weapons offenses and 
+14,900 (8%) for adjudicated immigration crimes. While 53% of 
+sentenced state prisoners were serving time for violent offenses, 
+7% of federal prisoners (13,700 prisoners) were serving sentences 
+for violent crimes.
+
+Among female federal prisoners, 59% were serving sentences for 
+drug offenses, compared to 49% of males. A larger proportion of 
+white prisoners in federal prison (42%) were serving time for 
+public order offenses on September 30, 2015 than blacks (32%) or 
+Hispanics (37%). More than half of black (51%) and Hispanic (58%) 
+federal prisoners in 2015 were convicted of drug offenses.
+
+**************************
+Other selected findings
+**************************
+
+Prison capacity
+*****************
+
+* At yearend 2015, 18 states and the BOP met or exceeded the 
+maximum measure of their prison facilities’ capacity, and 26 
+states and the BOP had a number of prisoners in their custody that 
+met or exceeded their minimum number of beds (appendix table 1).
+
+* Prison facilities in Illinois held 46,200 prisoners at yearend 
+2015, 145% of the rated capacity of 31,900 (their maximum 
+capacity), and 165% of the design capacity of 28,000 (their 
+minimum capacity).
+
+* Jurisdictions with more prisoners in custody than the maximum 
+number of beds for which their facilities were designed, rated, or 
+operationally intended included Illinois (145%), Nebraska (125%), 
+Massachusetts (123%), the BOP (120%), Delaware (117%), and Hawaii 
+(115%).
+
+Private prisons
+****************
+
+* In 2015, 8% of the total number of state and federal prisoners 
+were held in privately operated facilities that were under the 
+jurisdiction of 29 states and the BOP. The number of prisoners 
+held in private facilities in 2015 (126,300) decreased 4% (5,500 
+prisoners) from yearend 2014 (appendix table 2).
+
+* Federal prisoners held in private prison decreased by 5,100 
+prisoners, which accounted for 93% of the total decrease in the 
+number of prisoners held in private prisons at yearend 2015.
+
+* Private prison facilities, including nonsecure community 
+corrections centers and home confinement, housed almost 18% of the 
+federal prison population on December 31, 2015.
+
+* Six states (Hawaii, Mississippi, Montana, New Mexico, North 
+Dakota, and Oklahoma) housed at least 20% of their prison 
+population in privately operated facilities.
+
+* Vermont, Connecticut, Alabama, and Idaho experienced large 
+percentage decreases in prisoners held in private facilities, 
+while South Dakota, North Dakota, and Ohio observed large 
+percentage increases.
+
+Prisoners held in local jails
+********************************
+
+* At yearend 2015, almost 81,200 prisoners were held in the 
+custody of local jails in 37 states and the BOP, an almost 1% 
+decline (down 580 prisoners) from the 81,800 prisoners held in 
+jail facilities in 2014.
+
+* Nineteen states increased the number of prisoners held in local 
+jails during 2015, while 17 states and the BOP reduced the number 
+of prisoners held in local jails between 2014 and 2015.
+
+* Four states (Arkansas, Indiana, Louisiana, and Mississippi) held 
+at least 600 fewer prisoners in local jails in 2015 than in 2014.
+
+* Louisiana saw a 7% decrease (1,400 prisoners) in the number of 
+prisoners held in local jails in 2015. Louisiana held nearly half 
+(49%) of the total state prisoners in local jails--the highest of 
+any jurisdiction at yearend 2015.
+
+U.S. military and territories
+********************************
+
+* At yearend 2015, the U.S. military held 1,100 persons sentenced 
+to at least 1 year and 1,400 persons of all sentence lengths under 
+their correctional authority (appendix table 7).
+
+* About half (48%) of offenders under military correctional 
+authority had served in the U.S. Army before imprisonment.
+
+* The Army had custody of two-thirds (67%) of all military 
+personnel sentenced to 1 year or more on December 31, 2015, and 
+the U.S. Navy held nearly a third.
+
+* Of military personnel with known offense data sentenced to any 
+term of imprisonment under military jurisdiction, 45% had 
+committed violent offenses, including 29% incarcerated for violent 
+sexual offenses, 7% for murder, and 8% for assault (appendix table 
+8).
+*
+Thirty-seven percent of the total military prison population 
+committed some nonviolent sex offense, including sexual 
+misconduct. 
+
+* The five U.S. territories held a total of 12,900 persons in 
+custody of correctional authorities at yearend 2015 (appendix 
+table 10).
+
+************************************
+National Prisoner Statistics (NPS) 
+program jurisdiction notes
+************************************
+Alabama--Prisons were not recently rated for official capacity. 
+The majority of Alabama prisons were overcrowded. As of 2015, 
+25,763 beds were in operation, which represented the physical 
+capacity for prisoners but was not based on staffing, programs, 
+and services. The operating capacity differs from the Bureau of 
+Justice Statistics’ (BJS) definition.
+
+Alaska--Alaska did not submit NPS data in 2014. In their 2015 
+submission, the state updated custody and jurisdiction numbers 
+that BJS estimated for the Prisoners in 2014 report. Alaska did 
+not report admissions or releases of offenders with a sentence of 
+more than 1 year in 2015 because it could not disaggregate these 
+offenders from those with no sentence or sentences of 1 year or 
+less. BJS based its estimate for admissions of offenders with 
+sentences of more than 1 year on the total number of admissions 
+(regardless of sentence length) from the Alaska Department of 
+Corrections’ 2015 Offender Profile 
+(http://www.correct.state.ak.us/admin/docs/2015profile.pdf). The 
+percentage of all admissions for offenders with sentences of more 
+than 1 year were based on Alaska’s reported admission records from 
+the 2014 National Corrections Reporting Program (NCRP) data 
+collection. The number of released offenders with sentences of 
+more than 1 year was estimated as the difference between the 
+yearend 2015 and 2014 populations plus 2015 admissions. BJS 
+assumed the distribution of releases by type was identical to the 
+distribution of release type for offenders sentenced to more than 
+1 year reported by Alaska in the 2014 NCRP release file. 
+
+Alaska did not report capacity measures for its prison system to 
+the 2015 NPS-1B and has not reported capacity data since 2012. 
+While data from prior years were used in earlier Prisoners 
+reports, BJS could no longer assume that these reflected current 
+capacity levels in Alaska correctional facilities. BJS assumed 
+that the percentage of Alaska offenders age 17 or younger and 
+those who were not U.S. citizens were the same in 2015 as in 2013, 
+the last time Alaska reported these distributions.
+
+Arizona--Jurisdiction counts were based on custody data and 
+prisoners in contracted beds, but did not include prisoners held 
+in other jurisdictions because Arizona receives an equal number of 
+prisoners to house from other jurisdictions. Arizona abolished 
+parole in 1994, and only prisoners released prior to 1994 were on 
+parole. However, community supervision prisoners were supervised 
+as parolees, so both parolees and community supervision violators 
+were included in admissions as parole violators. In 2015, Arizona 
+classified persons returned to prison from deportation as transfer 
+admissions. In prior submissions, these persons had been included 
+in the “other admissions” category. Other unconditional releases 
+included prisoners released by the court. Other conditional 
+releases included releases onto other community supervision 
+programs. Other releases included persons released to deportation.
+
+Arkansas--Other conditional releases included those released to 
+boot camps.
+
+California--Due to a high-level data conversion project by the 
+California Department of Corrections and Rehabilitation (CDCR), 
+the movement data used to report detailed counts of admissions and 
+releases were not available for this report. CDCR was able to 
+differentiate between new court commitment and parole violation 
+admissions but was not able to provide any other detailed 
+breakdown of other admission types or any release types. Custody 
+counts included California out-of-state correctional facility 
+contracted beds, community correctional facility private contract 
+beds, and private work furlough prisoners. Jurisdiction counts for 
+prisoners with maximum sentences of more than 1 year included 
+felons who were temporarily absent, such as in court, jail, or a 
+hospital. The majority of temporarily absent prisoners were absent 
+for fewer than 30 days. California experienced an increase in 
+releases during 2015 due to the enactment of Proposition 47, the 
+Safe Neighborhoods and Schools Act. This proposition, passed in 
+November 2014, allowed offenders convicted of specific drug- or 
+property-related felonies to petition the court to resentence 
+specified felonies to misdemeanors for expedited release from CDCR 
+institutions during 2015. California was unable to differentiate 
+between its prisoners held in federal or other state facilities. A 
+total of 492 male and 301 female California prisoners were held in 
+federal and other state facilities. Changes in design capacity 
+were based on information from an annual facilities planning and 
+management report.
+
+Colorado--Jurisdiction and custody counts included a small, 
+undetermined number of prisoners with a maximum sentence of 1 year 
+or less and 224 males and 8 females who were part of the Youthful 
+Offender System. Prisoners reported as housed in privately 
+operated correctional facilities were offenders under Federal 
+Transfer and Interstate Compact programs and were not reported in 
+the department’s population and capacity counts. Jurisdictional 
+population included a small number of prisoners from other states 
+admitted under the interstate compact agreement. Prisoners who 
+were absent without leave (AWOL) or who had escaped were not 
+included in releases. Other conditional releases included 
+discharges from youthful offender systems. Design and operational 
+capacities did not include the privately run facilities in 
+Colorado.
+
+Connecticut--Prisons and jails formed one integrated system. All 
+NPS data included jail and prison populations. New court 
+commitment admissions included prisoners who were admitted on 
+accused status but received a sentence later in 2015. Counts of 
+other types of admissions and releases included persons with 
+legitimate types of prison entries and exits that did not match 
+BJS categories. Legislation in July 1995 abolished the capacity 
+law, making a facility’s capacity a fluid number based on the 
+needs of the department. The needs were dictated by security 
+issues, populations, court decrees, legal mandates, staffing, and 
+physical plant areas of facilities that served other purposes or 
+had been decommissioned. The actual capacity of a facility was 
+subject to change.
+
+Delaware--Prisons and jails formed one integrated system. All NPS 
+data included jail and prison populations. Capacity counts 
+included the halfway houses under the Department of Corrections 
+(DOC). Releases included offenders who received a combined 
+sentence (prison and parole) of more than 1 year.
+
+Federal Bureau of Prisons (BOP)--Data reflect prisoners under BOP 
+jurisdiction on December 26, 2015. Jurisdiction counts included 
+prisoners housed in secure private facilities where the BOP had a 
+direct contract with a private operator and prisoners housed in 
+secure facilities where there was a subcontract with a private 
+provider at a local government facility. Jurisdiction counts also 
+included prisoners housed in jail or short-term detention and 
+others held in state-operated or other non-federal secure 
+facilities. Counts included 9,153 prisoners (7,971 males and 1,182 
+females) held in nonsecure, privately operated community 
+corrections centers or halfway houses and 3,122 offenders on home 
+confinement (2,723 males and 399 females). A total of 64 juveniles 
+(58 males and 6 females) were held in contract facilities. These 
+juvenile prisoners were included in the jurisdiction totals but 
+excluded from the counts of private, locally, or federally 
+operated facilities. Some of these juveniles were under the 
+jurisdiction of U.S. probation but were being housed in the 
+custody of the BOP in contract facilities. Due to information 
+system configuration, Asians and Native Hawaiians or Other Pacific 
+Islanders were combined, and prisoners of Hispanic origin were 
+included in the racial categories. On December 31, 2015, the BOP 
+held 62,324 male and 4,062 female prisoners of Hispanic origin. 
+Parole violation counts included those with and without a new 
+sentence. Other admissions include hospitalization and treatment. 
+Expiration of sentence included good conduct releases that usually 
+had a separate and distinct term of supervision, and releases from 
+the residential drug abuse treatment program. In the category of 
+unconditional releases, good conduct releases were included with 
+expiration of sentence cases. Other releases included court-
+ordered terminations, compassionate release, hospital treatment 
+completions, and releases based on the amount of time served. The 
+BOP population on December 31, 2015 was 160,946 prisoners 
+(excluding contracted and private facilities), and the rated 
+capacity on that date was 134,461. The crowding rate was 20%.
+
+Florida--Other admissions included program supervision violations. 
+In 2015, five prisoners received other unconditional releases 
+through vacated sentences. Other conditional releases included 
+provisional release supervision, conditional medical release, 
+program supervision, mandatory conditional, and parole 
+reinstatement. Prior to 2013, Florida identified noncitizen 
+prisoners based on country of birth. In 2013, Florida changed 
+their method for identifying noncitizen prisoners, basing it on 
+citizenship status. Estimates of noncitizens from 2015 are only 
+comparable to those submitted to BJS by Florida in 2013 and 2014.
+
+Georgia--Custody populations included both state prisons and 
+county correctional institutions. Subtotals of race, sex, sentence 
+length for jurisdiction, and custody counts were adjusted by the 
+Georgia DOC, using interpolation to match the overall totals. 
+Counts of admissions and releases were adjusted using 
+interpolation to balance the jurisdictional populations on January 
+1, 2015 and December 31, 2015. Females were not housed in 
+privately operated correctional facilities in Georgia. The Georgia 
+DOC was not able to distinguish between parole violators who 
+returned with a new sentence from violators who returned without a 
+new sentence. In 2015, the Georgia overall population was slightly 
+lower because the Georgia Criminal Justice Reform Initiatives (GA 
+CJRI) affected both the commitments and admissions of offenders 
+into the prison system.
+
+Hawaii--Prisons and jails formed one integrated system. All NPS 
+data included jail and prison populations. In custody and 
+jurisdiction counts, sentenced felon probationers and probation 
+violators were included with the counts of prisoners with a total 
+maximum sentence of 1 year or less. Jurisdiction counts included 
+dual-jurisdiction (State of Hawaii or federal) prisoners currently 
+housed in federal facilities and in contracted federal detention 
+center beds. Other releases included prisoners released due to 
+status change. Hawaii did not have a rated capacity for its 
+integrated prison and jail system. Information on foreign 
+nationals held in correctional facilities was based on self-
+reports by prisoners.
+
+Idaho--Counts were estimates based on live data with some changing 
+variability over time due to the movement and processing of 
+offenders. Other unconditional releases included non-Idaho civil 
+commitments.
+
+Illinois--In December 2015, the Illinois DOC initiated a major 
+information technology (IT) transition, moving to a web-based 
+offender tracking system. During the transition, some traditional 
+population counts and other measures were not collected. 
+Therefore, the data the DOC provided to BJS reflected November 30, 
+2015 populations. Entries (admissions) and discharges (exits) 
+provided to BJS included 11 months of data (January through 
+November 2015). BJS imputed 12-month admission and release data 
+using Illinois NCRP data to estimate the number of admissions and 
+releases in December 2015. The NCRP data showed that from 2010 to 
+2014, an average of 7.5% of annual admissions and 8.6% of annual 
+releases occurred in December. BJS assumed these percentages for 
+December 2015 admissions and releases. All population counts were 
+based on jurisdiction. Jurisdiction, custody population, 
+admission, and release counts for prisoners with maximum sentences 
+of more than 1 year included an undetermined number of prisoners 
+with a 1-year sentence. Counts included escape admissions and 
+releases that occurred at adult transition centers. Other 
+admission and release types included an undetermined number of 
+transfers to other jurisdictions and the net difference between 
+long-term admissions and release movements not reported in other 
+categories but required to balance yearend populations. Other 
+unconditional releases included court orders.
+
+Indiana--Other types of admissions included prisoners on active 
+supervision or who were admitted for prior charges.
+
+Iowa--In 2009, the Iowa DOC began including offenders on work 
+release, in the operating-while-intoxicated population. Also, Iowa 
+prisoners housed in out-of-state prisons were included in its 
+jurisdiction counts. Iowa data included in BJS reports prior to 
+2009 were custody counts only. The admission and release data and 
+methodology were updated in 2013. Therefore, changes from counts 
+in prior years may reflect these updates. The number of sentenced 
+prisoners under Iowa jurisdiction that were transferred from other 
+jurisdictions between January 1, 2015 and December 31, 2015 
+includes offenders transferring from other jurisdictions with an 
+Iowa sentence. Counts of AWOL admissions and releases were of the 
+work release and operating-while-intoxicated populations. Escape 
+admissions and releases were of the prison population only. Other 
+admissions and releases included some unknown types. Other 
+conditional releases included special sentences for sex offenders.
+
+Kansas--Prior to 2014, actual time of incarceration rather than 
+sentence length was used to differentiate persons sentenced to 1 
+year or less from those sentenced to more than 1 year. The 
+jurisdictional numbers for 2014 have been corrected, but Kansas 
+custody and jurisdiction counts reported for 2014 and 2015 were 
+not comparable to counts from prior years. Admissions data from 
+2014 were updated because 399 male and 149 female admissions were 
+incorrectly categorized as “sanctions from probation,” which had a 
+maximum term of less than 1 year in 2014. These 548 prisoners were 
+reclassified in the “other admissions” section. Other admissions 
+included sanctions from probation for 30 to 180 days. Other 
+unconditional releases included court appearance releases. Other 
+conditional releases included people reparoled in Kansas, 
+reparoled to another state, and supervised on conditional release.
+
+Kentucky--Due to a misinterpretation of the counting rules in 
+2014, the 2015 population counts were not comparable to 2014. 
+Other types of admissions included special admissions and return 
+from active release. Other types of conditional prison releases 
+included exits to home incarceration, and other types of 
+unconditional release included pardons. Other releases included 
+release from jail and active release.
+
+Louisiana--Jurisdiction and capacity counts are correct as of 
+December 29, 2015. Other types of unconditional releases include 
+court orders and releases for good time with no supervision. Other 
+types of conditional release included reinstatement to probation. 
+Other types of release included compassionate releases.
+
+Maine--Other conditional releases included supervised community 
+confinement program placement.
+
+Maryland--The number of prisoners with a maximum sentence of more 
+than 1 year for the jurisdiction, custody, admission, and release 
+measures was estimated by taking the percentage of prisoners with 
+a maximum sentence of more than 1 year from the automated data and 
+applying these percentages to the manual headcounts for the 
+measure of interest (December 31 jurisdiction population, December 
+31 custody population, annual admissions, and annual releases). 
+Any sentenced prisoners housed at the Baltimore City Detention 
+Center or the Baltimore Central Booking and Intake Center were 
+included in the jurisdiction and custody counts; pretrial 
+prisoners at these facilities were not included. The unsentenced 
+prisoners in Maryland’s custody on December 31, 2015, were all 
+federal prisoners housed contractually at the Chesapeake 
+Correctional Facility. The reported prisoners under Maryland’s 
+jurisdiction that were housed in facilities operated by a county 
+or local authority were prisoners that were sentenced to state 
+prison by local jurisdictions and were waiting to be transferred 
+to DOC custody. No sentence or demographic information were known 
+for these prisoners, and they were not included in the total 
+jurisdictional number. Note that the three additional male 
+prisoners in the number of prisoners housed in local facilities 
+operated by a county or local authority were part of a special 
+program to serve the end of their prison sentence in a local 
+facility, and they were included in the total jurisdiction. 
+Hispanic or Latino origin was captured in the information system 
+but may have been underreported because records for existing 
+prisoners were still being updated. Due to implementation issues 
+with a new information system, admissions and releases for 2015 
+were estimates. The total number of new court commitments may have 
+included a small, undetermined number of returns from appeal or 
+bond. Mandatory release violators were included with parole 
+violators. Maryland did not distinguish between AWOLs and 
+escapees. Other unconditional releases included court order 
+releases and a small, undetermined number of released to appeal or 
+bond. Other releases were coded as “other, permanent exit.” 
+Operational capacities included beds used for some Maryland pre-
+trial prisoners that were not counted in the yearend counts.
+
+Massachusetts--By law, offenders in Massachusetts may be sentenced 
+to terms of up to 2.5 years in locally operated jails and 
+correctional institutions. This population was excluded from the 
+state count but was included in published population counts and 
+rates for local jails and correctional institutions. Jurisdiction 
+counts exclude approximately 2,652 prisoners (2,539 males and 113 
+females) in the county system (local jails and houses of 
+correction) who were serving a sentence of more than 1 year, but 
+these prisoners were included in imprisonment rate calculations at 
+the request of the Massachusetts DOC. Jurisdiction and custody 
+counts may have included a small but undetermined number of 
+prisoners who were remanded to court; transferred to the custody 
+of another state, federal, or locally operated system; or 
+subsequently released. There was a continued increase in prisoners 
+transferred to local jails prior to their release from prison as 
+part of a step-down initiative for reentry. Two juveniles under 
+the jurisdiction of the Massachusetts DOC and housed in a 
+Massachusetts Department of Youth Services facility were included 
+in the count of prisoners housed on other arrangements.
+
+Michigan--During the reporting year for 2015, the Michigan DOC’s 
+major data system was under transition to a new data platform. As 
+a result, statistical techniques had to be modified to obtain much 
+of the data reported in this survey. However, the numbers reported 
+were solidly in line with previous trends, which have remained 
+stable. For example, the racial breakdown percentages stayed 
+constant for several years. Similarly, the percentage of 
+admissions from new court commitments has also stayed constant for 
+several years. Therefore, BJS calculated the racial breakdowns and 
+admissions from new court commitments based on previous trends. 
+The data recorded for Hispanics were treated as an ethnicity 
+rather than as a race, and reporting was optional. Therefore, the 
+numbers for Hispanics were significantly under-reported. Rather 
+than reporting an incorrect number, BJS has included the 
+relatively small number of cases recorded as Hispanic under the 
+“white” category. Releases to appeal or bond and admissions of 
+prisoners returning from appeal or bond were not disaggregated by 
+length of time out to court. These counts represented the net 
+difference between all movements to and from court. Operational 
+capacity was institutional net capacity.
+
+Minnesota--Jurisdiction counts for parole violators increased from 
+2014 to 2015 due to database updates. Because of data issues, the 
+jurisdictional total with admissions and releases did not match 
+yearend numbers. Jurisdiction included prisoners temporarily 
+housed in local jails, on work release, or on community work crew 
+programs. Admissions and releases due to AWOL or escape, returns 
+from or releases to appeal or bond, and releases because of 
+transfer were excluded from Minnesota’s database file. Minnesota 
+measured only operational capacity.
+
+Mississippi--Jurisdiction counts of local facilities included both 
+local county jails and county regional facilities. Violators of 
+parole and conditional release were not distinguished by their 
+sentence status in the Mississippi file. Other types of admission 
+and release data included corrections to data because of a lag in 
+processing. Other conditional releases included earned release, 
+house arrest, and medical release. Total operational capacity on 
+December 31, 2015 was 23,516. This capacity included private 
+prisons, county jails, and county regional facilities.
+
+Missouri--Offenders reported to have a total maximum sentence of 1 
+year or less had a sentence of exactly 1 year. Other types of 
+unconditional releases included resentenced completions, court-
+ordered discharges, and compensation. Other types of conditional 
+releases included parole board holdover returns. Other releases 
+included releases to the field. The Missouri DOC did not have the 
+design capacity of its older prisons, nor did it update design 
+capacity for prison extensions or improvements. Missouri did not 
+use a rated capacity. The state defined operational capacity as 
+the number of beds available, including those temporarily offline. 
+Noncitizen data were based on self-reported place of birth.
+
+Montana--DOC did not record Hispanic origin. Therefore, the number 
+of Hispanics was not recorded.
+
+Nebraska--Other admissions reflected movements in the population 
+of the reentry furlough program. Other unconditional releases 
+included amended sentences. Nebraska defined operational capacity 
+as its stress capacity, which was 125% of design capacity for 
+designated facilities. The total design and operational capacities 
+for institutions that house females included one female 
+multicustody facility. The department operates two coed facilities 
+that represented a design capacity of 290 and were counted in the 
+male design and operational capacities.
+
+Nevada--Nevada did not submit the 2015 NPS data. BJS imputed all 
+2015 responses from either Nevada DOC reports or the 2014 NPS-1B, 
+as indicated below. For custody and jurisdiction counts, BJS 
+compared the male and female populations in the Nevada DOC’s 
+January 20, 2016 Fact Sheet 
+(http://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics
+/WFS/20160120%20Fact%20Sheet.pdf) to the male and female 
+population in the DOC’s January 2, 2015 Fact Sheet 
+(http://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics
+/WFS/FactSheetsWeekly01022015.pdf). These two reports showed that 
+the male (up 3.96%) and female (up 7.44%) populations had 
+increased from yearend 2014 to yearend 2015. BJS increased the 
+population figures in Nevada’s 2014 NPS data by these percentages 
+to derive the 2015 figures. For the distribution of the Nevada 
+prison population by race, BJS used the racial distribution 
+provided in the January 20, 2016 fact sheet. Because the Nevada 
+prison population increased from yearend 2014 to yearend 2015, BJS 
+assumed that the number of releases in 2015 was the same as in 
+2014, and that the population increase was due to increased 
+admissions. BJS assumed the number of releases in 2015 was the 
+same as in 2014. BJS assumed the distributions of admission and 
+release types were the same in 2015 as in 2014. The number of 
+noncitizen prisoners and those age 17 or younger were assumed to 
+be the same as in 2014.
+
+New Hampshire--Other conditional releases included end of 7-day or 
+90-day detention for parole violation releases to home 
+confinement.
+
+New Jersey--Population counts for prisoners with a maximum 
+sentence of more than 1 year included prisoners with sentences of 
+a year. The New Jersey DOC had no jurisdiction over prisoners with 
+sentences of less than 1 year or over unsentenced prisoners. 
+Reporting of other conditional releases included those to an 
+intensive supervision program. Other types of unconditional 
+releases included vacated and amended sentences and court ordered 
+releases. New Jersey data for escapes did not differentiate 
+between prisoners who disappeared from confined walls and those 
+who disappeared while out of institutions. Other releases included 
+prisoners transferred early from county jails into the state 
+prison system then released back to county jails, and other 
+transfers.
+
+New Mexico--Totals for admissions and releases included all 
+entries and exits to New Mexico prisons, regardless of sentence 
+length. New Mexico did not include its prisoners housed in other 
+states under the interstate compact agreement in its total 
+jurisdiction count. According to BJS definitions, these prisoners 
+should be included in the total state jurisdiction and were in 
+this report. The count of noncitizens included prisoners in both 
+state-run and private facilities.
+
+New York--Other admissions included the return to prison of 
+persons erroneously discharged and those admitted for parole 
+supervision. Other releases include errors, release to parole 
+supervision, and other discharges.
+
+North Carolina--As of December 1, 2011, North Carolina prisons no 
+longer housed misdemeanor offenders with sentences of fewer than 
+180 days. Captured escapees were not considered a prison admission 
+type in North Carolina, and escape was not considered a type of 
+prison release. Supervised mandatory releases were post-release 
+offenders. Post-release supervision was defined as a reintegration 
+program for serious offenders who served extensive prison terms. 
+This form of supervision was created by the Structured Sentencing 
+Act of 1993. Other unconditional releases included court-ordered 
+interstate compact releases. Rated capacity was not available.
+
+North Dakota--Other releases included court-ordered release.
+Ohio—Population counts for prisoners with a maximum sentence of 
+more than 1 year included an undetermined number of prisoners with 
+a sentence of 1 year or less. Returns and conditional releases 
+involving transitional control prisoners were reported only after 
+movement from confinement to a terminal release status occurs. 
+Admissions of parole violators without a new sentence included 
+only formally revoked violators. Escapes included nonconfinement 
+escapes. Other unconditional releases included vacated sentences. 
+Rated capacity figures excluded two privately operated prison 
+facilities. The count of noncitizens and prisoners age 17 or 
+younger excluded prisoners housed in privately operated 
+facilities.
+
+Oklahoma--Most prisoners with sentences of less than 1 year were 
+part of the Oklahoma Delayed Sentencing Program for Young Adults. 
+On December 31, 2015, the number of prisoners under their 
+jurisdiction with a maximum sentence of more than 1 year included 
+285 males and 39 females who were waiting in county jails to be 
+moved to state prisons. Prisoners held by Oklahoma for other 
+states were excluded from all jurisdiction counts. Waiting in 
+county consisted of offenders who had been sentenced to DOC but 
+not yet taken into custody. Jurisdiction counts included offenders 
+in a DOC jail program, those in court, escapees in the custody of 
+local jails, and those sentenced to the DOC but not yet in 
+custody. Offenders in the custody of other states were mostly 
+escapees. Numbers reported in “escapes from confinement” 
+represented escapes from state-run prisons. Only DOC facilities 
+were included in the capacity counts. Noncitizen status was 
+determined by country of birth.
+
+Oregon--This state did not submit 2015 NPS data. BJS imputed all 
+2015 responses from the Oregon DOC report 
+(http://www.oregon.gov/doc/OC/docs/pdf/IB-53-Quick%20Facts.pdf) 
+and the 2014 NPS-1B. For jurisdiction and custody counts, BJS 
+assumed that the sentence length distributions were the same in 
+2015 as in 2014, and that the ratio of the size of the custody to 
+jurisdiction populations was also the same. In addition, BJS 
+assumed that the percentage of persons held in private facilities, 
+local jails, and in other states was the same in 2015 as in 2014. 
+BJS used race data on the custody population from the DOC report 
+and applied this distribution to the total jurisdiction population 
+count. For counts of admissions and releases, BJS used the total 
+number of admissions and releases reported by the Oregon DOC and 
+assumed the distributions of admission and release types remained 
+the same as in 2014. BJS assumed Oregon had the same prison 
+capacity in 2015 as in 2014, and that the percentage of noncitizen 
+prisoners and those age 17 or younger did not change in 2015.
+
+Pennsylvania--Release counts included 59 offenders whose sentences 
+are less than 1 year. Other admissions included admissions from 
+the state hospital and unspecified reasons. Other types of 
+unconditional releases included vacated sentences and convictions. 
+Other releases included temporary absences.
+
+Rhode Island--Prisons and jails formed one integrated system. All 
+NPS data included jail and prison populations. Jurisdiction counts 
+included prisoners who had dual jurisdiction or those serving 
+Rhode Island sentences out of state while also serving that 
+state’s sentence. The Rhode Island data system recorded Hispanic 
+origin as a race rather than an ethnicity and did not capture 
+Native Hawaiians, Other Pacific Islanders, or persons identifying 
+as two or more races, including those who may identify themselves 
+as Hispanic second to another race. Prison admissions classified 
+as escape returns included admissions under home confinement, 
+serving out of state, and minimum-security facilities. Rhode 
+Island DOC’s data system could not differentiate between parole 
+violation admissions with and without new sentences. Other types 
+of unconditional releases consisted of court-ordered discharges. 
+Other types of conditional releases included discharge to the 
+Institute for Mental Health. Other releases included those 
+prisoners discharged out of state.
+
+South Carolina--The December 31, 2015 count of unsentenced 
+prisoners included 13 unsentenced males: 9 safekeeper and 4 
+Interstate Compact Commission prisoners. As of July 1, 2003, the 
+South Carolina Department of Corrections (SCDC) began releasing 
+prisoners due for release and housed in SCDC institutions on the 
+first day of each month. Because January 1, 2016 was a holiday, 
+prisoners eligible for release on January 1 were released on 
+December 31, 2015. Therefore, the prisoner count was at its lowest 
+point for the month on December 31, 2015. All prisoners in private 
+facilities in South Carolina were housed in private medical 
+facilities. The local facilities holding prisoners on December 31, 
+2015 included designated facilities and persons AWOL to county or 
+local facilities. South Carolina did not have a specific race code 
+to designate persons identifying as two or more races. These 
+individuals were included in other specific race groups or labeled 
+as other race. Other types of admissions included resentenced 
+Youthful Offender Act (YOA) conversion admissions and prisoners 
+who were resentenced. Other types of unconditional releases 
+consisted of remands and releases by court order. Conditional 
+release counts included prisoners released under community 
+supervision after serving 85% of their sentence under truth in 
+sentencing and supervised reentry. Other release types included 
+persons who were resentenced. There were two paroling authorities 
+within the adult correctional system in South Carolina. The 
+Intensive Supervision Administrative Release Authority of SCDC 
+(ISARA) assumed YOA Parole Board duties on February 1, 2013. Prior 
+to that, the Youthful Offender Branch of SCDC handled YOA paroles. 
+ISARA paroled 804 offenders sentenced under the YOA, and the South 
+Carolina Department of Probation, Parole, and Pardon Services 
+paroled 747 non-YOA sentenced offenders. South Carolina used the 
+operational capacity concept in its management reports and other 
+requested surveys.
+
+South Dakota--Custody and jurisdiction counts of prisoners serving 
+a maximum sentence of 1 year or less included those under the 
+sentence of probation who, as a condition of probation, must serve 
+up to 180 days in state prison. The reporting system for the South 
+Dakota DOC did not have a category for prisoners of two or more 
+races. These prisoners were included in the counts of other race 
+prisoners. South Dakota did not separate discretionary and 
+presumptive parole releases. Parole detainees were included in the 
+counts of other admissions and other release types. Prior to 2014, 
+these persons had not been included. The operational capacity 
+reported was planned capacity. South Dakota did not have rated or 
+design capacities. South Dakota did not record the number of 
+prisoners with a sentence of greater than 1 year who were admitted 
+in 2015. Instead, in its place they used the total number of 
+prisoners under their jurisdiction with a total sentence of 1 year 
+or greater as of December 31, 2014. Other admissions included 
+parole or supervised release detainees.
+
+Tennessee--Other admissions included those admitted for unknown 
+reasons. Other conditional releases included those who were 
+released to community corrections. The total rated capacity 
+included the rated capacity of three private prisons. The total 
+operational capacity included the operational capacity of three 
+private prisons.
+
+Texas--Offenders in custody were all offenders serving time in a 
+facility owned and operated by the Texas Department of Criminal 
+Justice at the time of data collection. Jurisdiction counts 
+included offenders in custody and those held in privately operated 
+prisons, intermediate-sanction facilities, substance abuse felony 
+punishment facilities, and halfway houses; offenders temporarily 
+released to a county for fewer than 30 days; and offenders 
+awaiting paperwork for transfer to state-funded custody. 
+Capacities excluded county jail beds because they do not have a 
+minimum or maximum number of beds available for paper-ready and 
+bench-warrant prisoners. Admissions and releases included 
+offenders received into an intermediate-sanction facility, which 
+was a sanction in lieu of revocation. These offenders were counted 
+in the parole violator category, although these were not 
+revocations. Other conditional releases included discretionary 
+mandatory releases. Other admissions and other release types 
+included transfers between divisions. Executions are included in 
+other releases.
+
+Utah--Other types of unconditional release included discharges of 
+cases or prisoners holds.
+Vermont--Prisons and jails formed one integrated system. Vermont 
+did not complete the 2015 NPS-1B form. The Vermont DOC provided 
+the total jurisdiction population by sex, the number unsentenced 
+by sex, and the number housed out of state by sex. Based on the 
+2014 NPS, BJS assumed that the only difference between the custody 
+and jurisdiction populations was the 241 male offenders housed in 
+an out-of-state private prison. BJS assumed that the distribution 
+of sentenced offenders in custody or under jurisdiction receiving 
+a sentence of more than 1 year was the same in 2015 as 2014. BJS 
+assumed the race distribution was the same in 2015 as 2014. BJS 
+assumed the number of admissions in 2015 was equal to the number 
+in 2014 and that the decrease in the jurisdiction population was 
+due solely to an increase in releases in 2015. Admission and 
+release type distributions were assumed to be the same in 2015 as 
+2014. BJS used the same prison capacity reported in 2014 for 2015 
+and assumed the number of noncitizen offenders and those age 17 or 
+younger were the same in 2015 as 2014.
+
+Virginia--Jurisdiction counts were for December 31, 2014. As of 
+September 1, 1998, the state was responsible for prisoners with a 
+sentence of 1 year or more or a sentence of 12 months plus 1 day. 
+Prior to September 1, 1998, the state had been responsible for a 
+1-year sentence, while local authorities were responsible for 
+sentences of 12 months or fewer. Prior to 2013, the count of 
+prisoners housed in local facilities was taken from Compensation 
+Board reports. Starting in 2013, these counts were obtained from 
+DOC data. Virginia DOC revised its method of reporting prison 
+capacity in 2014 to match BJS definitions. As a result, 
+comparisons should not be made to estimates before 2014. The 
+counts do not include beds assigned to institutional hospitals 
+that cannot be designated as only male or only female and do not 
+include detention and diversion centers. Native Hawaiians and 
+Other Pacific Islanders are included in the Asian racial category. 
+Admissions and releases are preliminary fiscal year 2015 figures. 
+Other unconditional releases included court ordered releases.
+
+Washington--Offenders sentenced to 1 year or less and unsentenced 
+offenders generally resided in county jails, but revisions to law 
+allowed certain prisoners with sentences of less than 1 year to be 
+housed in prison. Admission and release counts included offenders 
+who did not receive sentences of greater than 1 year. They 
+included offenders who served time in county jails who were 
+released to community supervision, and then returned to a county 
+jail for a term of less than 30 days because they violated the 
+terms of their community supervision. Also included in admissions 
+and releases of conditional release violators were offenders who 
+received probation sentences and were sent to county jails for a 
+term of less than 30 days for violating the conditions of their 
+probation. Native Hawaiians and Other Pacific Islanders were 
+included in the Asian racial category. Other unconditional 
+releases included vacated sentences.
+
+West Virginia--Other types of admissions and releases included 
+those to and from the Anthony Center for Young Adults and 
+Diagnostics. Other types of unconditional releases included court-
+ordered releases.
+
+Wisconsin--Consistent with the method used to generate population 
+estimates in 2014, the Wisconsin DOC used the time between a 
+prisoner’s admission date and their maximum discharge date to 
+determine sentence length for yearend counts. If a maximum 
+discharge date was not recorded, the mandatory release date was 
+used. If this date was not recorded, the prisoner’s release date 
+was used. Therefore, this may not accurately reflect whether the 
+prisoner was initially sentenced to 1 year or less or more than 1 
+year. Custody measures include prisoners without Wisconsin 
+sentences who were physically housed in a Wisconsin prison. 
+Jurisdiction measures include prisoners with Wisconsin sentences, 
+regardless of where they were physically located. Unsentenced 
+prisoners were those who had not yet had data entered reflecting 
+their mandatory release date and maximum discharge date and some 
+offenders temporarily held in the Milwaukee facility. An offender 
+on a temporary hold who was on probation did not have a mandatory 
+release date or maximum discharge date. To determine sentence 
+length for admissions totals, the time between a prisoner’s 
+admission date and their maximum discharge date was used. If a 
+maximum discharge date was not recorded, the mandatory release 
+date was used. If this date was not recorded, the prisoner’s 
+release date was used. Therefore, this may not accurately reflect 
+whether the prisoner was initially sentenced to 1 year or less or 
+more than 1 year. Other admissions included temporary holds, 
+alternatives to revocation, persons admitted under the corrections 
+compact, and erroneous releases. To determine sentence length for 
+the releases total, the time between a prisoner’s admission date 
+and release date was used. This may not accurately reflect whether 
+a prisoner was initially sentenced to 1 year or less or more than 
+1 year. Native Hawaiian and Other Pacific Islander prisoners are 
+included in the Asian category.
+
+Wyoming--No notes were submitted.
+
+**************
+Methodology
+**************
+
+The National Prisoner Statistics (NPS) program started in 1926 
+under a mandate from Congress to collects annual data on prisoners 
+at yearend. The Bureau of Justice Statistics (BJS) sponsors the 
+survey, and the U.S. Census Bureau serves as the data collection 
+agent. BJS depends entirely on voluntary participation by state 
+departments of corrections (DOC) and the Federal Bureau of Prisons 
+(BOP) for NPS data.
+
+The NPS distinguishes between prisoners in custody and prisoners 
+under jurisdiction. To have custody of a prisoner, a state or the 
+BOP must hold the prisoner in one of its facilities. To have 
+jurisdiction over a prisoner, the state or BOP must have legal 
+authority over that prisoner, regardless of where the prisoner is 
+incarcerated or supervised. Some states were unable to provide 
+counts that distinguish between custody and jurisdiction. (See 
+Jurisdiction notes to determine which states did not distinguish 
+between custody and jurisdiction counts.)
+
+The NPS jurisdiction counts include persons held in prisons, 
+penitentiaries, correctional facilities, halfway houses, boot 
+camps, farms, training or treatment centers, and hospitals. Counts 
+also include prisoners who were temporarily absent (fewer than 30 
+days), in court, or on work release; housed in privately operated 
+facilities, local jails, or other state or federal facilities; and 
+serving concurrent sentences for more than one correctional 
+authority.
+
+The NPS custody counts include all prisoners held within a 
+respondent’s facility, including prisoners housed for other 
+correctional facilities. The custody counts exclude prisoners held 
+in local jails and other jurisdictions. With a few exceptions, the 
+NPS custody counts exclude prisoners held in privately operated 
+facilities.
+
+Respondents to NPS surveys are permitted to update prior counts of 
+prisoners held in custody and under jurisdiction. Some statistics 
+on jurisdiction and sentenced prison populations for prior years 
+have been updated in this report. All tables showing data based on 
+jurisdiction counts, including tables of imprisonment rates, were 
+based on the updated and most recently available data that 
+respondents provided.
+
+Admissions include new court commitments, parole and probation 
+violator returns, other conditional release violator returns, 
+transfers from other jurisdictions, returns of prisoners who were 
+absent without leave (AWOL) with or without a new sentence, escape 
+returns with or without a new sentence; returns from appeal or 
+bond, and other admissions. For reporting purposes, BJS admission 
+counts exclude transfers from other jurisdictions, AWOL returns, 
+and escape returns.
+
+Releases include unconditional releases (e.g., expirations of 
+sentence or commutations), conditional releases (e.g., probations, 
+supervised mandatory releases, or discretionary paroles), deaths, 
+AWOLs, escapes from confinement, transfers to other jurisdictions, 
+releases to appeal or bond, and other releases. For reporting 
+purposes, BJS release counts exclude AWOLs, escapes, and transfers 
+to other jurisdictions.
+
+The NPS has historically included counts of prisoners in the 
+combined jail and prison systems in Alaska, Connecticut, Delaware, 
+Hawaii, Rhode Island, and Vermont. The District of Columbia has 
+not operated a prison system since yearend 2001. Felons sentenced 
+under the District of Columbia criminal code are housed in federal 
+facilities. Jail inmates in the District of Columbia are included 
+in the Annual Survey of Jails. Some previously published prisoner 
+counts and the percentage change in population include jail 
+prisoners in the District of Columbia for 2001, the last year of 
+collection. Additional information about the NPS, including the 
+data collection instrument, is available on the BJS website.
+
+Data on prisoners under the jurisdiction of U.S. territorial 
+correctional authorities are collected separately from state and 
+federal NPS data, and U.S. totals in this report do not include 
+territorial counts. Three territories (American Samoa, Guam, and 
+the U.S. Virgin Islands) did not provide 2015 data for NPS. Data 
+from prior years are shown in appendix table 10.
+
+Nonreporting states
+********************
+
+The Nevada and Oregon state DOCs did not respond to the 2015 NPS 
+survey. For Nevada jurisdiction and custody counts, BJS compared 
+the male and female populations in the DOC’s January 20, 2016 Fact 
+Sheet 
+(http://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics
+/WFS/20160120%20Fact%20Sheet.pdf) to the male and female 
+population in the DOC’s January 2, 2015 Fact Sheet 
+(http://doc.nv.gov/uploadedFiles/docnvgov/content/About/Statistics
+/WFS/FactSheetsWeekly01022015.pdf). These two reports showed that 
+the male (up 4.0%) and female (up 7.4%) populations had increased 
+from yearend 2014 to yearend 2015. BJS increased the population 
+figures in Nevada’s 2014 NPS-1B by these percentages to derive the 
+2015 counts. BJS assumed that the increase in the 2015 
+jurisdiction counts was due to an increase in admissions, and that 
+there was no change in the number of releases from 2014 to 2015. 
+BJS assumed that the race and Hispanic origin distribution of the 
+jurisdiction population and estimates for capacity, noncitizens, 
+and prisoners age 17 or younger had not changed from 2014.
+
+For Oregon, BJS used custody figures from the DOC report 
+(http://www.oregon.gov/doc/OC/docs/pdf/IB-53-Quick%20Facts.pdf) 
+and assumed that the distribution of sentence length for offenders 
+was the same in 2015 as in 2014. In addition, BJS assumed that the 
+ratio of custody to jurisdiction population had not changed in 
+2015 from that reported on the 2014 NPS-1B. The DOC report 
+provided the race and Hispanic origin distribution in addition to 
+the total number of admissions and releases for Oregon during 
+2015. BJS assumed that the estimates for prison facility capacity, 
+the percentage of noncitizens and prisoners age 17 or younger, or 
+the distributions of admission and release types did not change 
+from 2014.
+
+Vermont only reported sex-specific jurisdiction counts in 2015, 
+including the number of unsentenced prisoners and those held out 
+of state. BJS made estimates for admissions, releases, capacity, 
+and special populations based on 2014 data. See Jurisdiction notes 
+for estimation details.
+
+Military correctional data
+****************************
+
+BJS obtains an annual aggregate count of service personnel under 
+military jurisdiction and limited demographic and offense data 
+from the Office of the Under Secretary of Defense for Personnel 
+and Readiness. The Department of Defense disaggregates these data 
+by the branch in which prisoners served, the branch having 
+physical custody of the prisoner, and whether the prisoner was an 
+officer or enlisted.
+
+Estimating yearend counts of prison 
+population by age, sex, race, and 
+Hispanic origin
+****************************************
+
+National-level estimates of the number of persons by race under 
+the jurisdiction of state prisons on December 31, 2015 were based 
+on an adjustment of NPS counts to comply with Office of Management 
+and Budget (OMB) definitions of race and Hispanic origin. OMB 
+defines persons of Hispanic or Latino origin as a separate 
+category. Racial categories are defined exclusive of Hispanic 
+origin. OMB adopted guidelines for collecting these data in 1997, 
+requiring the collection of data on Hispanic origin in addition to 
+data on race.
+
+Not all NPS providers’ information systems categorize race and 
+Hispanic origin in this way. In 1991, the earliest point in the 
+analysis, only a few states were able to report information on 
+Hispanic origin separately from race. BJS adjusted the NPS data on 
+race and Hispanic origin by the ratio of the relative distribution 
+of prisoners by race and Hispanic origin in self-report prisoner 
+surveys that use OMB categories for race to the relative 
+distribution of prisoners by race and Hispanic origin in the NPS 
+data. For this report, the 2004 Survey of Inmates in State 
+Correctional Facilities was used to calculate the ratio used for 
+statistics on racial distributions in 2015. The ratio obtained by 
+comparing the within-year relative distributions by race and 
+Hispanic origin was then multiplied by the NPS distribution in a 
+year to generate the estimate of persons by race and Hispanic 
+origin.
+
+Estimates of the total number of sentenced prisoners by age, sex, 
+race, and Hispanic origin on December 31, 2014 were generated by 
+creating separate totals for federal and state prisons. For the 
+federal estimates, each sex and race count that BOP reported to 
+the NPS was multiplied by the ratio of the age category count 
+within the sex and race combination in the Federal Justice 
+Statistics Program (FJSP) to the FJSP total count within the sex 
+and race combination (e.g., FJSP white males ages 18 to 19 divided 
+by FJSP white males). The resulting product yielded the FJSP-
+adjusted NPS counts for each sex and race combination by age group 
+(e.g., white male prisoners ages 18 to 19 in the federal prison 
+system). State prison age distributions for the NPS use a similar 
+sex and race ratio adjustment based on individual-level data from 
+the National Corrections Reporting Program (NCRP). State and 
+federal estimates were added together to obtain national estimates 
+for yearend prison populations.
+
+In the current report, BJS publishes the unadjusted jurisdiction-
+level counts of prisoners by race and Hispanic origin (appendix 
+table 3). Historical counts of prisoners by race are archived 
+through the National Archive of Criminal Justice Data 
+(http://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36281). These 
+data are administrative or operational in nature and do not 
+necessarily reflect how individual prisoners might choose to 
+report their race or Hispanic origin. National level estimates 
+(table 8) have been adjusted to more accurately reflect the 
+distributions among race and Hispanic origin as reported by 
+prisoners in BJS prisoner surveys.
+
+Estimating imprisonment rates by age, 
+sex, race, and Hispanic origin
+****************************************
+
+BJS calculated age-specific imprisonment rates for each age, sex, 
+and racial group by dividing the estimated number of sentenced 
+prisoners within each age group under jurisdiction on December 31, 
+2015 by the estimated number of U.S. residents in each age group 
+on January 1, 2016. BJS multiplied the result by 100,000 and 
+rounded to the nearest whole number. Totals by sex include all 
+prisoners and U.S. residents, regardless of race or Hispanic 
+origin.
+
+Estimating offense distribution in the 
+state and federal prison populations 
+by age, sex, race, and Hispanic origin
+****************************************
+
+BJS employed a ratio adjustment method to weight the individual-
+level race and Hispanic origin or sex-specific offense data from 
+the NCRP to the state prison control totals for sex and the 
+estimated race or Hispanic origin from the NPS, which yielded a 
+national offense distribution for state prisoners. Prisoners 
+missing offense data were excluded from the analysis prior to the 
+weighting. Because data submission for the NCRP typically lags 
+behind that of the NPS, state offense distribution estimates are 
+published for the previous calendar year.
+
+Data presented in table 10 and appendix table 6 are drawn from 
+FJSP and encompass all prisoners in federal custody, regardless of 
+sentence length. Data are limited to prisoners sentenced on U.S. 
+district court commitments, District of Columbia superior court 
+commitments, and those returned to federal custody following 
+violations of probation (both federal and District of Columbia), 
+parole, supervised release, or mandatory release. Due to these 
+methodological differences, the estimates in table 10 and appendix 
+table 6 will differ from previously published federal offense 
+distributions presented in the FJSP web tool 
+(http://www.bjs.gov/fjsrc/) or Federal Justice Statistics 
+bulletins and statistical tables on the BJS website. Because FJSP 
+is a custody collection, the total count of prisoners in table 10 
+and appendix table 6 will differ from the jurisdiction count of 
+prisoners reported to NPS.
+
+Prison capacities
+******************** 
+
+State and federal correctional authorities provide three measures 
+of their facilities’ capacity: design capacity, operational 
+capacity, and rated capacity. Estimates of the prison populations 
+as a percentage of capacity are based on a state or federal 
+custody population. In general, state capacity and custody counts 
+exclude prisoners held in private facilities, although five states 
+include prisoners held in private facilities as part of the 
+capacity of their prison systems: Florida, Georgia, Idaho, 
+Louisiana, and Mississippi. For these states, prison population as 
+a percentage of capacity includes prisoners held in the states’ 
+private facilities.
+
+Noncitizen prisoners
+************************
+
+BJS asks state DOCs and the BOP to report the number of persons in 
+their custody who were not citizens of the United States on 
+December 31, 2015. While the intention is for jurisdictions to 
+report based on prisoners’ current citizenship status, a number of 
+jurisdictions cannot provide that information and instead report 
+country of birth to NPS. These states are noted in appendix table 
+9. As this is a custody count, noncitizens held in private prison 
+facilities or local jails under the jurisdiction of state or 
+federal correctional authorities are not included.
+
+**********************************************************
+The Bureau of Justice Statistics of the U.S. Department of Justice 
+is the principal federal agency responsible for measuring crime, 
+criminal victimization, criminal offenders, victims of crime, 
+correlates of crime, and the operation of criminal and civil 
+justice systems at the federal, state, tribal, and local levels. 
+BJS collects, analyzes, and disseminates reliable and valid 
+statistics on crime and justice systems in the United States, 
+supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is acting 
+director.
+
+This report was written by E. Ann Carson. Joshua Markman, Danielle 
+Kaeble, Laura Maruschak, and Mariel Alper verified the report.
+
+Monika Potemra, Jill Thomas, and Morgan Young edited the report. 
+Tina Dorsey produced the report.
+
+December 2016, NCJ 250229
+**********************************************************
+**************************************************
+Office of Justice Programs
+Building Solutions • Supporting Communities • 
+Advancing Justice
+www.ojp.usdoj.gov
+**************************************************
+**************************
+12/12/2016 JER 11:25am
+*************************
+
+

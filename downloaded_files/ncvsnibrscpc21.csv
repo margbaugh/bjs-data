@@ -1,0 +1,31 @@
+Bureau of Justice Statistics,,,,,,,
+Filename: ncvsnibrscpc21.csv,,,,,,,
+"Rate of crime per 1,000 reported to police in the National Incident-Based Reporting System and in the National Crime Victimization Survey, 2020 and 2021",,,,,,,
+Report title: The National Crime Victimization Survey and National Incident-Based Reporting System: A complementary picture of crime in 2021  NCJ 305180,,,,,,,
+"Data Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2020 and 2021; and Federal Bureau of Investigation, National Incident-Based Reporting System, 2020 and 2021",,,,,,,
+"Authors: Rachel E. Morgan, Ph.D., and Erica Smith, BJS Statisticians",,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,
+Date of version: 10/5/2022,,,,,,,
+,,,,,,,
+"Rate of crime per 1,000 reported to police in the National Incident-Based Reporting System and in the National Crime Victimization Survey, 2020 and 2021",,,,,,,
+,,"Rate per 1,000 persons",,,,,
+Type of crime,,2020 NIBRS/a,2021 NIBRS/a*,,2020 NCVS,,2021 NCVS*
+Violent crime excluding simple assault,,4.03,3.96,,2.78,,2.91
+,Murder and nonnegligent manslaughter,0.07,0.07,,~,,~
+,Rape/sexual assault/b,0.42,0.43,,0.26,,0.25
+,Robbery,0.67,0.61,,0.85,,1
+,Aggravated assault,2.87,2.84,,1.66,,1.66
+,,,,,,,
+,,"Rate per 1,000 persons",,,"Rate per 1,000 households",,
+,,2020 NIBRS/a,2021 NIBRS/a*,,2020 NCVS,,2021 NCVS*
+Property crime,,20.25,19.33,,31.19,†,27.82
+,Burglary/c,3.08,2.71,,4.18,,3.66
+,Motor vehicle theft,2.4,2.68,,3.18,,3.32
+"Note: National Crime Victimization Survey (NCVS) and National Incident-Based Reporting System (NIBRS) crime rates are calculated differently. NIBRS-based crime rates are normally reported per 100,000 persons but were recalculated for this report to align with the reporting of NCVS crime rates per 1,000. NIBRS violent and property crime rates are calculated per 1,000 persons, and NCVS property crime rates are calculated per 1,000 households. See the FBI's Crime Data Explorer at https://crime-data-explorer.fr.cloud.gov/pages/home for NIBRS standard errors. See Criminal Victimization, 2021 (NCJ 305101, BJS, September 2022) for NCVS standard errors.",,,,,,,
+~Not applicable.,,,,,,,
+*Comparison year.,,,,,,,
+†Significant difference from comparison year at the 95% confidence level.,,,,,,,
+"a/Includes crimes against persons age 11 or younger, persons who are homeless, persons who are institutionalized, and crimes against commercial establishments. These populations are included in NIBRS, but out of sample for the NCVS.",,,,,,,
+"b/See the FBI’s 2019 Crime in the United States publication at https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/rape for the FBI Uniform Crime Reporting Program’s definition of rape. See Criminal Victimization, 2021 (NCJ 305101, BJS, September 2022) for details on the measurement of rape or sexual assault in the NCVS.",,,,,,,
+"c/NIBRS defines burglary as forcible entry, unlawful entry where no force is used, or attempted forcible entry of a structure to commit a felony or theft. The NCVS defines burglary as the unlawful or forcible entry or attempted entry of places, including a permanent residence, other residence (e.g., a hotel room or vacation residence), or other structure (e.g., a garage or shed) where there was a completed or attempted theft. ",,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2020 and 2021; and Federal Bureau of Investigation, National Incident-Based Reporting System, 2020 and 2021.",,,,,,,

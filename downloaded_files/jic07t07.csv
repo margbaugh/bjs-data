@@ -1,0 +1,18 @@
+Bureau of Justice Statistics,,,,,
+Filename: jic07t07.csv,,,,,
+"Table 7: Admissions, discharges, and average length of stay in Indian country jails during June, by facility size, 2007 ",,,,,
+"Report title: Jails in Indian Country, 2007 NCJ 223760",,,,,
+Data source: Survey of Jails in Indian Country (SJIC),,,,,
+Author: Todd D. Minton,,,,,
+Refer questions to: askbjs@usdoj.gov   202-307-0765,,,,,
+Date of version: 11/05/2008,,,,,
+,,,,,
+"Table 7. Admissions, discharges, and average length of stay in Indian country jails during June, by facility size, 2007 ",,,,,
+Facility size/a,,Number of facilities,Average daily population,Estimated monthly admissions,Average length of stay in days/b
+,Total,79,"1,872","12,490",4.5
+Fewer than 10 inmates,,12,15,198,2.3
+10 to 24,,24,351,"4,962",2.1
+25 to 49,,30,889,"5,354",5
+50 or more,,13,617,"1,976",9.4
+a/Based on the rated capacity.,,,,,
+"b/Average length of stay was calculated by dividing the average daily population by the number of monthly admissions, and multiplying by 30. See Methodology for details on estimating average length of stay.",,,,,

@@ -1,0 +1,1014 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Bulletin
+
+Census of Publicly Funded Forensic Crime Laboratories, 2002
+
+
+February 2005, NCJ 207205
+
+
+---------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs.abstract/cpffcl02.htm
+---------------------------------------------------------------
+
+Joseph L. Peterson
+University of Illinois at Chicago
+                     
+Matthew J. Hickman
+BJS Statistician
+                     
+----------------------------------------------------------------
+Highlights
+                     
+*  A total of 351 publicly funded forensic crime laboratories operated 
+in the United States as of yearend 2002. This total includes 203 State 
+or regional labs, 65 county, 50 municipal, and 33 Federal labs.
+
+*  A typical laboratory in 2002 had 2 managers, 2 secretaries or clerks,
+12 analysts, and 2 technicians. The median laboratory operating budget 
+in 2002 was $1.3 million.
+
+*  A typical laboratory in 2002 started the year with a backlog of about
+390 requests, received 4,900 requests, and completed 4,600 requests.
+
+*  About half of all requests in 2002 were in the area of controlled
+substances.
+
+*  Nearly all laboratories employed standard protocols for DNA testing
+(98%), controlled substances (98%), and latent prints (97%).
+
+*  Examiners in the Nation's crime laboratories processed requests at or 
+above 90% of the expected examiner averages in 8 of 10 categories of 
+forensic services.
+
+*  Forty-one percent of publicly funded labs in 2002 reported outsourcing 
+one or more types of forensic services to private labs. Overall, labs
+outsourced  nearly 240,000 requests for forensic services.  
+
+*  Ninety-one percent of outsourced requests were DNA-related, including
+nearly 13,000 casework requests and 205,000 convicted offender samples in 
+the Combined DNA Index System (CODIS). The median cost of out- sourcing one
+CODIS sample was $30.
+
+*  Sixty-one percent of the labs are accredited by the American Society
+of Crime Laboratory Directors Lab Accreditation Board (ASCLD-LAB). An
+additional 10% are accredited by some other organization.
+
+*  Fifty-five percent of non-Federal labs received some funding from grants 
+in 2002.
+
+*  About half (52%) of publicly funded labs in 2002 had resources dedicated 
+to training. Twelve percent had resources dedicated to research.
+--------------------------------------------------------------------
+
+Federal, State, and local forensic crime laboratories employed over
+9,300 full-time equivalent (FTE) personnel in 2002 and had total
+budgets exceeding $750 million. These publicly funded labs received
+nearly 2.7 million new cases, including a much larger number of
+separate requests for forensic services during calendar year
+2002.***Footnote 1:  A "case" is defined as evidence submitted from a
+single criminal investigation.  A case may include multiple "requests"
+for forensic services. For example, one case may include a request for
+biology screening and a request for latent prints. *** 
+
+These labs ended the year with over 500,000 backlogged requests for
+forensic services -- a more than 70% increase in the backlog of
+requests compared to the beginning of the year.***Footnote 2: A case
+or request is defined as backlogged if it is in the laboratory and
+remains unreported for a period of 30 days or more. The backlog
+increased in most categories of forensic services.***
+
+The Nation's publicly funded crime labs estimated that about 1,900
+additional FTEs would have been needed to achieve a 30-day turnaround for 
+all 2002 requests for forensic services.  Based on starting salaries for
+analysts or examiners in these labs, the estimated cost of the additional 
+FTEs exceeds $70.2 million. 
+
+Over three-quarters of the labs indicated that resources beyond personnel
+increases would also have been needed to achieve a 30-day turnaround on 
+all 2002 requests. These resource needs included capital expenditures 
+for new and renovated laboratory space and facilities; additional and 
+updated equipment; instrumentation, robotics, and computers; basic and
+advanced training opportunities; and improved Laboratory Information
+Management Systems (LIMS). The total estimated cost of these needs 
+exceeds $500 million.
+
+Background
+
+Several surveys of crime laboratories have been conducted over the
+past 35 years, beginning with the 1967 John Jay College survey of
+crime labora- tories.***Footnote 3: A. Joseph, Crime Laboratories –
+Three Study Reports, OLEA Projects 013, 140, and 66-3, Washington,
+DC: U.S. Department of Justice, 1968.***  Surveys conducted in the
+1970's and 1980's***Footnote 4: R. Fox and C. Cunningham, Crime
+Scene Search and Physical Evidence Handbook, Washington, DC: Law 
+Enforcement Assistance Administration, 1973, and J. Peterson, S. 
+Mihajlovic, and J. Bedrosian, "The Capabilities, Uses, and Effects of
+the Nation's Criminalistics Laboratories," Journal of Forensic Sciences,
+30:1, 1985, pp. 10-23.*** and in the 1990's***Footnote 5:  American
+Society of Crime Laboratory Directors (ASCLD), Survey of crime
+laboratory needs (unpublished), 1998.*** have enumerated laboratory
+facilities in the United States, examined the role and impact of
+scientific evidence in the investigation and prosecution of criminal
+cases, and documented workloads and other administrative data among
+ various samples of laboratories.
+  
+In recent years BJS has surveyed DNA crime laboratories (Survey of
+DNA Crime Laboratories, 2001, <http:www. ojp.usdoj.gov/bjs/abstract/
+sdnacl01.htm>). The National Institute of Justice has commissioned
+studies of DNA backlog and other topics in the forensic sciences, both
+in the United States and abroad (<http://www.ojp.usdoj.gov/nij> and
+<www.dna.gov>).
+
+To obtain current baseline information about the workload and operations 
+of the Nation's forensic crime laboratories, BJS in 2003-04 conducted its
+first Census of Publicly Funded Forensic Crime Laboratories. This report
+details the organization, functions, budget, staffing, workload, and
+performance expectations of the Nation's publicly funded Federal, State, 
+and local forensic crime laboratories currently operating. BJS previously
+reported data for the 50 largest publicly funded State and local labs(50
+Largest Crime Labs, 2002,<http://www.ojp.usdoj.Gov/bjs/abstract/50lcl.htm>).
+
+As of yearend 2002, 351 publicly funded forensic crime laboratories
+operated in the United States. This total includes all labs that
+employed at least one full-time scientist whose principal function is
+examination of physical evidence for law enforcement agencies and to
+provide reports and testimony to courts of law with respect to that
+evidence. This report is based on data for 305 responding laboratories, 
+unless specifically noted in tables and figures. Data for the Federal 
+Bureau of Investigation (FBI) laboratory division, the Nation's
+largest publicly funded forensic crime laboratory, are summarized
+separately. (See page 11.) 
+
+Just over half (54%) of the laboratories are units of larger laboratory
+systems, and most (90%) of these laboratories serve State or regional
+jurisdictions. The census collected information from each lab within
+larger laboratory systems.
+
+Personnel
+
+Publicly funded crime laboratories in 2002 employed about 9,400 full-time
+equivalent (FTE) personnel.  Most labs were relatively small. For example, 
+60% of labs employed fewer than 25 FTE personnel, and 80% employed fewer 
+than 50 FTEs.
+
+Just 5% of publicly funded labs had 100 or more FTEs in 2002, but these 
+labs employed nearly a quarter (24%) of all FTE personnel.  
+
+Most of the labs (58%) served State or regional jurisdictions. Twenty
+percent served county-level jurisdictions, and 15% municipal
+jurisdictions. Eight percent served Federal or national jurisdictions.
+
+State or regional laboratories employed 4,797 FTEs, or about half
+(51%) of all FTE personnel. County and municipal labs accounted for
+1,760 (19%) and 1,746 (19%), respectively. Federal or national labs
+employed 1,095 FTEs, or about 12% of the total.
+
+Overall, publicly funded crime labs in 2002 were authorized for a total
+of 9,798 FTEs and actually employed 9,397 FTEs, or 96% of the
+authorized total.  
+
+Analysts or examiners - persons who typically prepare evidence, conduct 
+tests, interpret results, sign laboratory reports, and testify in court -
+comprised 60% of all crime lab FTEs in 2002. Technical support personnel, 
+who typically assist analysts or examiners in preparing evidence and
+conducting tests, accounted for 12% of all FTEs. Twelve percent of FTEs 
+were managerial personnel, 9% were in clerical positions, and 6% in
+miscellaneous categories.
+
+Analysts or examiners comprise between 55% and 64% of all FTEs across
+laboratory size categories.  Likewise, technical support personnel 
+range from 9% to 15% of FTEs, managerial personnel range from 10% to 
+16% of FTEs, and clerical support personnel range from 8% to 13% of FTEs.  
+
+Similar ranges in the distribution of personnel are evident among labs
+by type of jurisdiction served.
+
+A typical laboratory operation has about 18 FTE employees, including
+2 managers, 2 secretaries/clerks, 12 analysts, and 2 technicians. 
+Among the largest labs -- those having 100 or more FTEs -- a typical
+operation has 135 FTEs, including 17 managers, 14 secretaries/clerks,
+76 analysts, and 16 technicians.  
+
+Among the smallest labs -- those having fewer than 10 FTEs -- a typical
+operation has 6 FTEs, including 1 manager, 1 secretary/clerk, and 3 
+analysts. 
+
+Laboratories serving Federal or national jurisdictions tend to be larger
+than labs serving other types of jurisdictions, typically employing about
+45 FTEs, including 5 managers, 4 secretaries/clerks, 29 analysts, and
+6 technicians.  
+
+Laboratory functions
+
+About 90% of laboratories reported they examined controlled substances. 
+About two-thirds of laboratories examined firearms and toolmarks (63%),
+performed the screening of biological samples (usually in preparation 
+for DNA analysis on selected exhibits)(65%), and examined latent prints 
+(61%).
+
+Examiners in 62% of laboratories engaged directly in crime scene
+investigations; however, most forensic examiners did not visit crime
+scenes. When asked who in their jurisdiction performs most major
+crime scene investigations, a quarter of the labs indicated that
+laboratory scientists doubled as crime scene investigators.  
+
+The majority (62%) of laboratories reported that agencies or persons
+separate from the lab handled most major investigations. These
+typically include a police unit having specialized evidence technicians
+or crime scene search officers who go to such scenes, take photographs, 
+and locate, pre-serve, label and gather the physical evidence.  
+
+A much smaller percentage (14%) of laboratories reported that crime
+scene investigators operated from their laboratory and have primary
+responsibility for processing major crime scene investigations. Most of
+these are city or municipal laboratories.
+
+Fifty-nine percent of laboratories examined one or more forms of trace
+evidence (such as hairs, fibers, glass, or paint) that may associate
+offenders and victims with one another and/or offenders with crime
+scenes.
+
+Less common functions were the examination of questioned documents (26% 
+of laboratories), and computer crime investigations (11%).  
+
+Larger labs are generally able to handle a broader range of functions. 
+Across all labs, the median number of forensic functions performed
+was 6, ranging from 3 functions among the smallest labs -- those
+having fewer than 10 FTEs -- to 8 functions among the largest labs --
+those having 50 or more FTEs.
+
+A majority of larger labs were performing each of the listed functions.
+Among the smallest labs, a majority performed two of the listed
+functions: controlled substances (84%) and crime scene processing
+(57%). 
+
+Labs serving Federal or national jurisdictions were more specialized,
+typically performing three forensic functions, while labs serving other
+types of jurisdictions typically perform six or seven functions.
+
+About three-quarters of labs serving Federal or national jurisdictions
+processed controlled substances (78%) and latent prints (74%).
+
+Workload
+
+Management information systems
+
+Laboratory Information Management Systems (LIMS) manage cases and/or 
+evidence. These computer-based systems enable the laboratories to track 
+the thousands of cases and items of evidence that they process. A single 
+case may result in different forms of evidence undergoing analysis in 
+various sections of a crime laboratory.  
+
+Three-quarters of laboratories had LIMS. Labs serving municipal
+jurisdictions were less likely to have LIMS (29%), compared to 88% of
+labs serving State or regional jurisdictions, 74% of Federal/national
+labs, and 69% of county labs.  
+
+Evidence processing
+
+Publicly funded crime laboratories in 2002 received 2,695,269 new
+cases -- evidence submitted from a single criminal investigation that
+may include multiple requests for forensic services -- and ended the
+year with a backlog of 262,637 cases.
+
+Overall, labs received a median 4,429 cases in 2002 and ended the
+year with a median backlog of 370 cases.  Larger labs typically
+handled more cases; those having 100 or more FTEs received a
+median 31,388 cases and ended the year with a median backlog of
+3,190 cases.
+
+In contrast, the smallest labs -- those having fewer than 10 FTEs --
+received a median 1,997 cases and ended the year with a median
+backlog of 101 cases.
+
+Labs serving State or regional jurisdictions received about 1.1 million
+cases in 2002 (or 42% of all cases).  The median number of cases
+received by these labs was about 4,000 cases.  These labs ended the
+year with a backlog of about 145,000 cases -- 55% of the total backlog
+-- and the median backlog was about 470 cases. 
+
+Labs serving county jurisdictions received about 791,000 cases in
+2002, or 29% of the total. The median number of cases received in
+these labs was about 5,800 cases. These labs ended the year with
+nearly 59,000 backlogged cases -- 22% of the total -- and the median
+backlog was about 520 cases.
+
+Labs serving municipal jurisdictions received about 684,000 cases in
+2002 (a quarter of all cases), and had the highest median (about 5,900
+cases).  These labs had a yearend backlog of about 50,000 cases -- or
+19% of the total -- and had a median backlog of about 150 cases. 
+
+Labs serving Federal or national jurisdictions received about 86,000
+cases in 2002, or about 3% of the total, and had the lowest median
+(about 1,300 cases). These labs ended the year with nearly 8,800
+backlogged cases -- 3% of the total -- and had a median backlog of
+about 140 cases.
+
+Publicly funded crime laboratories began 2002 with a backlog of about
+290,000 requests for forensic services. These labs received an
+additional  2.7 million requests during 2002 and completed nearly 2.5
+million requests.  
+
+A typical lab in 2002 had a backlog of about 390 requests, received
+4,900 new requests, completed 4,600 requests, and finished the year
+with a backlog of about 650 requests (median values).
+
+The total estimated backlog at yearend -- about 501,000 requests --
+represents an increase of 211,000 requests, or 73%, from the backlog
+at the beginning of the year. Overall, for every five requests completed
+by publicly funded crime laboratories in 2002, one request was outstanding 
+at yearend.
+
+Seventy-three percent of the total backlogged requests at yearend 2002 
+were attributable to controlled substances (46%), latent prints (17%), 
+and DNA analysis (10%). 
+
+Controlled substances
+
+Almost half of all new requests (about 1.3 million requests, or 48%) for
+analysis were for controlled substances, in the form of pills, powders,
+vegetable matter (for example, marijuana), and other residues. 
+
+A typical lab performing analyses of controlled substances received about
+3,000 such requests during 2002.
+
+Labs performing controlled substances analysis processed a total of
+nearly 1.2 million requests during 2002, with a typical lab completing
+about 2,800 requests. These labs ended the year with about 233,000
+backlogged requests, or about 290 requests per lab on average.  
+
+Overall, for every five controlled substance requests completed in 2002, 
+about one request was outstanding at yearend.
+
+Latent prints
+
+About 274,000 new requests (or 10% of all new requests) were for analysis 
+of latent prints. A typical lab performing latent prints analysis received
+about 860 such requests during 2002.
+
+Labs performing latent prints analysis processed about 238,000 requests 
+during 2002, with a typical lab completing about 790 requests. These labs
+ended the year with about 86,000 backlogged requests, or about 140 requests
+per lab on average.  
+
+For every three latent print requests completed in 2002, approximately one
+request was outstanding at yearend.
+
+DNA analysis
+
+Just 2% of all new requests -- about 61,000 requests -- were in the area of
+DNA analysis. A typical lab performing DNA analysis received about 250 such
+requests during 2002.
+
+Labs performing DNA analysis processed nearly 42,000 requests, with
+a typical lab completing about 170 requests. These labs ended the
+year with about 49,000 backlogged requests, or about 130 requests on
+average.
+
+For every five DNA analysis requests completed in 2002, approximately 
+six requests remained outstanding at yearend.  
+
+As would be expected, larger labs processed a greater volume of requests 
+than smaller labs during 2002. Although the overall median backlog at the
+beginning of the year was about 390 requests, the median ranged from 70
+requests among the smallest labs to nearly 5,200 requests among the largest.
+
+Likewise, the median number of new requests ranged from about 1,700 among 
+the smallest labs to over 35,000 among the largest; median completed 
+requests ranged from about 1,600 to over 37,000; and median yearend 
+backlog ranged from about 70 to nearly 3,700 requests.  
+
+Labs serving county jurisdictions had the lowest median backlog at the
+beginning of the year, about 360 requests. These labs received a median 
+5,300 requests during 2002, completed about 4,900 requests, and finished 
+the year with a backlog of about 690 requests.
+
+Municipal labs had a median backlog of about 390 requests at the
+beginning of the year. These labs received a median 5,400 requests
+during 2002 and completed about 5,000. Municipal labs had the lowest
+median yearend backlog -- about 400 requests.
+
+State or regional labs had a median backlog of about 400 requests at
+the beginning of the year. These labs received a median 4,400
+requests during 2002, completed about 4,200, and finished the year
+with a backlog of about 650 requests.
+
+Labs serving Federal or national jurisdictions had the highest median
+backlog at the beginning of the year, about 430 requests. These labs
+received a median 5,500 requests, completed about 4,900 requests,
+and finished the year with the highest median backlog -- about 860
+requests.  
+
+Standard protocols
+
+Standard protocols are an important consideration in explaining resource 
+needs because the complexity of a protocol will affect the speed with 
+which exams can be completed and the volume of requests that can be 
+processed on an annual basis. A protocol that requires an analyst to 
+follow prescribed steps, while enhancing completeness and reliability, 
+may slow the speed with which samples are processed.
+
+Fingerprint examination
+
+Fingerprint examination is one of the oldest specialty areas within the
+forensic sciences, and one that has resisted firm standards for how to
+examine a print and the criteria to be used in making an identification.
+Fingerprint examination is also an area in which the experience of the
+examiner and individual judgment are considered paramount.
+
+Ninety-seven percent of labs conducting fingerprint examination reported 
+they have a standard protocol for fingerprint examination. Of these labs, 
+more than 90% report they process them (that is, chemically or via laser
+examination), compare them with known prints, and use an AFIS (Automated
+Fingerprint Identification System)to search a database. AFIS enables
+investigators to consult large local, State, and national databases to
+determine the identity of prints of unknown origin found at crime scenes.
+Two-thirds of laboratories reported they regularly enhance latent prints 
+using computer techniques. A third of labs report they routinely limit 
+the number of items examined; crime scenes may yield many latent prints 
+and the majority of labs report they examine all that are recovered.
+
+Controlled substances 
+
+Almost all laboratories (98%) that examine controlled substances have
+standard protocols. This is to be expected because the field as a whole 
+has agreed to the minimum wet chemical and instrumental means needed to
+identify a particular controlled substance.  
+
+Most labs (71%) attempt to limit the drugs they seek to identify. This 
+is not unexpected given the large drug-related caseloads, and many labs
+examine only a representative sample of the total drug seizure and/or
+conclude their testing once they identify a controlled substance that
+supports the state's prosecution.
+
+Drug seizures are commonly composed of "cutting agents" that dilute
+the purity of the sample and may also be used to determine the point
+or manufacturer of origin. Unlike other forms of evidence, however,
+examiners do not usually attempt to determine a drug's manufacturer
+or point of origin.  About a quarter of the labs report they identify
+adulterants and/or diluents in the samples and issue preliminary
+findings based on these analyses.
+
+More laboratories are experimenting with managerial and technical steps 
+to reduce their caseloads and the time for analyses and giving
+testimony in court.  Whereas labs once proceeded with a complete
+analysis when a suspected controlled substance was submitted --
+regardless of input from any other criminal justice agency -- more
+laboratories today are requiring proof from the police and/or prosecutor
+that the case will proceed (that is, be prosecuted) before continuing
+with a complete analysis.
+
+DNA testing
+
+Almost all laboratories (98%) that perform DNA analysis follow a standard
+protocol for DNA testing.  DNA testing has been the subject of great
+scientific and legal scrutiny, and, as a result, forensic DNA analysts 
+have adopted protocols acceptable to both legal and scientific communities. 
+
+In addition to requiring an accepted laboratory protocol, specific steps
+included limiting the number of items examined (70%), by asking
+investigators/prosecutors to be explicit in what questions they expect
+the DNA tests to answer, and handling the samples via batch processing 
+(66%). Both steps enable laboratories to focus on particular stains and 
+save the laboratory time and expense.  
+
+Forty-one percent of the laboratories indicated they use technicians in
+DNA testing, a step that calls for personnel with less training and
+experience to examine garments and to select stains that will likely
+yield scientific results that may help to resolve a critical question in 
+the case.
+
+Performance expectations
+
+Performance expectations of examiners vary depending on the complexity of
+examinations in different evidence areas. Analysts are expected to perform
+large numbers of controlled substance and toxicology examinations annually,
+given that the purpose of the exam is to identify the substance in question.
+For most other examination areas, examiners compare evidence of unknown 
+origin with standards of known origin, to determine whether the evidence 
+and standard originated from the same source. These latter types of
+examinations typically require a longer period for analysis.
+
+Crime laboratory directors in 2002 expected their controlled substances
+analysts to process nearly 900 requests per FTE examiner.  Likewise, the
+median expectation for toxicology analysts was nearly 500 requests per FTE
+examiner. The next highest category was latent prints, where the median
+expectation was 264 requests per FTE examiner.  
+
+Expected performance was much lower in all other categories, where
+examiners typically attempt not only to identify the evidence, but to
+associate that evidence with a suspect, weapon, or some other
+instrument of the crime.  Expectations for computer investigations and
+DNA analysis -- 2 areas where procedures may be very time consuming and
+interpretations complex -- were the lowest of the 10 categories.
+
+Overall, examiners in the Nation's crime laboratories processed requests at 
+or above 90% of the expected averages in 8 of the 10 listed categories, and
+exceeded expected performance in two of these areas -- latent prints and
+toxicology. Analysts processed requests in the remaining two categories,
+firearms/toolmarks and computer crimes, at about 80% of the expected average. 
+
+Human resource needs
+
+Overall, publicly funded laboratories estimated that an additional 1,917
+FTEs would be needed in order to achieve a 30-day turnaround on all
+requests for forensic services received in 2002. The estimated total
+cost of the additional FTEs exceeds $70.2 million, with a median per
+lab cost of $161,000.
+
+Over half (54%) of the needed FTEs were in three areas: DNA analysis (19%);
+controlled substances (19%); and latent prints (16%).  
+
+DNA analysis
+
+Labs performing DNA analysis estimated that about 370 additional FTEs would
+have been needed to achieve a 30-day turnaround on all DNA analysis requests
+received during 2002, given current laboratory conditions and analysis tools.
+These additional FTEs represent a 79% increase in FTEs currently performing
+DNA analysis. The estimated cost of these additional FTEs exceeds $14.4
+million, with a median per lab cost of $82,100.
+
+Controlled substances
+
+Labs performing analysis of controlled substances estimated that 355
+additional FTEs would have been needed to achieve a 30-day turnaround on 
+all such requests received during 2002. These additional FTEs represent a 
+16% increase in FTEs currently performing controlled substance analysis. 
+The estimated cost of additional FTEs needed for analysis of controlled
+substances exceeds $11.2 million, with a median per lab cost of $50,300.
+
+Latent prints
+
+Labs performing latent print analysis estimated that about 300 additional 
+FTEs would have been needed to achieve a 30-day turnaround on all such
+requests received during 2002. These additional FTEs represent a 51% 
+increase in FTEs that were currently performing latent print services. The
+estimated cost of these additional FTEs exceeds $10.4 million, with a 
+median cost of $69,400 per lab.
+
+Outsourcing laboratory services
+
+Crime laboratories address the pro- blem of rising caseloads by
+outsourcing various types of analyses. DNA analysis is an area where
+demand has increased in recent years as laboratories try to keep up
+with expanding casework as well as examining samples to enter into
+convicted offender computerized databases that belong to the
+Combined DNA Index System (CODIS).
+
+DNA analysis is one area in which many private laboratories are
+equipped to perform forensic casework. Fewer private laboratories
+engage in more traditional forensic work such as firearms and trace
+analysis. Publicly funded labs have elected to divert cases to such
+facilities to partially relieve caseload pressure. Once private labs
+satisfy accreditation standards set by the field, public crime labs will
+use them to handle routine cases.
+
+Forty-one percent of publicly funded laboratories reported outsourcing
+one or more types of forensic services in 2002. Outsourcing was more
+common among larger labs, with 71% of the largest labs -- those
+having 100 or more FTEs -- reporting some type of outsourcing. About
+a quarter of the smallest labs reported some type of outsourcing.
+
+Nearly two-thirds of labs serving municipal jurisdictions reported
+outsourcing some requests for forensic services in 2002. Forty-two
+percent outsourced DNA casework, and 26% outsourced toxiciology
+requests. 
+
+Fifty-seven percent of labs serving county jurisdictions outsourced
+requests in 2002. Thirty-two percent outsourced toxicology requests,
+and 28% outsourced DNA casework.
+
+About a third of labs serving State or regional jurisdictions outsourced
+requests in 2002. Thirteen percent outsourced CODIS samples, and 12%
+outsourced DNA casework.
+
+Eleven percent of labs serving Federal or national jurisdictions
+reported outsourcing requests in 2002. These requests were in the
+area of digital evidence (computer crimes) and other unspecified
+areas.
+
+Overall, labs outsourced nearly 240,000 requests for forensic services
+in 2002. The majority of these requests (91%) were DNA-related. These 
+included nearly 13,000 casework requests and 205,000 CODIS samples. 
+
+Labs outsourcing DNA-related requests spent nearly $4.4 million on
+casework requests and $5.9 on CODIS samples. The median cost per
+out-sourced request was nearly $1,200 for casework, and just $30 for
+CODIS samples.   
+
+In addition to DNA-related requests, about 14,300 toxicology and
+6,000 controlled substances requests were outsourced in 2002. Labs
+outsourcing in these areas spent $990,000 on toxicology requests and
+$450,000 on controlled substances requests. The median cost per
+outsourced toxicology request was $138. For controlled substances,
+the median cost was $88 per outsourced request.
+
+Quality, training, and research
+
+Accreditation
+
+Seventy-one percent of publicly funded laboratories in 2002 were
+accredited by some type of professional organization.  Larger labs
+were more likely to be accredited, including more than 80% of labs
+having 25 or more FTEs and more than 70% of labs having 10 to 24
+FTEs. About half (51%) of  the smallest labs were accredited.  
+Labs serving a State or regional jurisdiction were most likely to be
+accredited (79%), and labs serving a munici- pal jurisdiction, the least
+(47%).
+
+Sixty-one percent of labs were accredited by the American Society of
+Crime Laboratory Directors Lab Accreditation Board (ASCLD-LAB).
+This includes more than 70% of labs having 25 or more FTE employees, and 
+about 60% of those having 10 to 24 FTEs. Less than half of the smallest 
+labs were accredited by ASCLD-LAB.  
+
+Labs having a State or regional jurisdiction were the most likely to be
+ASCLD-LAB accredited (71%), and labs with municipal jurisdictions were 
+least likely (37%). 
+
+Proficiency testing
+
+Ninety-seven percent of publicly funded laboratories in 2002 were engaged 
+in proficiency testing, a procedure that has become an essential quality
+assurance practice over the past 30 years. Proficiency testing was slightly
+less common among smaller labs (those having fewer than 10 FTEs) and among
+labs serving municipal jurisdictions, although a strong majority of labs in
+both categories did engage in such testing.
+
+Among the labs engaged in proficiency testing, almost all (97%) use
+declared tests, a type of test in which the examiner knows he/she is
+being tested.  
+
+Another testing process that has gained favor over the past several
+years is random case reanalysis, where examiners' completed prior
+casework is randomly selected for reanalysis by a supervisor or
+another examiner. A little over half (54%) of laboratories engaged in
+proficiency testing use this type of test. Twenty-six percent of the labs
+engaged in proficiency testing use blind tests, a type of test in which
+the examiner doesn't know the sample being analyzed is a test
+sample.  
+
+Almost all (98%) of laboratories engaged in proficiency testing used
+tests that were generated externally (not shown in a table). External
+tests allow the laboratory to compare its results against other
+laboratories engaged in similar testing.  
+
+In addition to external tests, 74% of laboratories engaged in proficiency
+testing used internally generated tests. For example, a laboratory director 
+or supervisor or a quality control unit may create test samples. Externally
+generated proficiency tests are generally deemed a more objective measure 
+of a laboratory's performance. 
+
+-----------------------------------------------------
+The Federal Bureau of Investigation (FBI) Laboratory
+
+The FBI Laboratory Division is the largest publicly funded forensic
+crime laboratory in the United States, with 585 FTE employees as of
+January 2004. The FBI lab is more than twice as large as the next
+largest publicly funded crime lab.
+
+The FBI lab provides a full range of forensic services, including all
+of those catalogued by the BJS census of forensic crime labs.
+
+The FBI's fiscal budget for laboratory operations is about $172.2
+million, nearly 8 times greater than the operating budget of the next
+largest publicly funded crime lab. The total budget includes about
+$31.5 million (or 18% of the total) for research and development.
+The FBI lab began 2003 with an estimated backlog of 3,062 requests
+for forensic services. About two-thirds of the backlog was attributable
+to latent prints requests.
+
+During 2003, the FBI lab received 6,994 new requests and completed
+7,403 requests. The estimated yearend backlog was 2,653 requests, a
+13% reduction in total backlog from the beginning of the year. Latent
+print requests comprised half of the yearend 2003 backlog.
+
+By the end of the first quarter of 2004, the FBI lab reported a total
+backlog of 2,585 requests. This included 1,216 latent print requests, 
+or 47% of the total.
+
+The FBI laboratory reported a need for additional equipment and 249
+additional FTEs in order to have achieved a 30-day turnaround on all
+2003 requests. The cost of the additional equipment was estimated to
+be $40 million.  Based on starting salaries for analyst/examiners, 
+the estimated cost of the additional FTE's exceeds $17.5 million.
+--------------------------------------------------------
+
+Training and research  
+
+About half (52%) of publicly funded laboratories in 2002 dedicated
+resources to training, defined as ‘a structured interaction process with
+the function of teaching the history, theories, and/or the application of
+those scientific techniques and methods that are utilized within the
+crime laboratory.' 
+
+Nearly 80% of labs having 50 to 99 FTEs and nearly 60% of those having 100 
+or more FTEs reported having resources dedicated to training.  Slightly 
+less than half of labs having 10 to 49 FTEs dedicated resources to 
+training.
+
+By type of jurisdiction served, 74% of labs having federal or national
+jurisdictions and 63% of labs having municipal jurisdictions reported
+having resources dedicated to training. Less than half of labs serving
+State or regional jurisdictions had resources dedicated to training.
+
+Twelve percent of laboratories dedicate resources to research, defined
+as ‘experimentation aimed at the discovery and interpretation of facts,
+the revision of accepted theories, or practical application of such new
+or revised theories or technologies.' 
+
+Larger labs were more likely to have resources dedicated to research.
+Thirty-two percent of labs having 50 to 99 FTEs and 21% of those with
+100 or more FTEs had resources dedicated to research. Less than
+10% of labs having fewer than 25 FTEs had resources dedicated to
+research.
+
+More than half (53%) of labs serving Federal or national jurisdictions
+had resources dedicated to research, while about 10% of labs serving
+other types of jurisdictions had such resources.      
+
+Budget and pay
+
+Operating budgets
+
+Obtaining information on budgets is difficult because some laboratories 
+are units of larger scientific and/or law enforcement systems that do 
+not have accurate figures on an individual lab's expenditures. For 
+example, personnel expenditures, facility leases, and equipment contracts
+might be covered by a centralized unit. Because of these difficulties,
+budget figures should be considered with care.
+
+Publicly funded crime labs in 2002 had estimated total annual budgets
+exceeding $750 million. The median annual budget per laboratory was
+$1.3 million, ranging from  $359,000 among the smallest labs to $8.7
+million among the largest.  
+
+On a per employee basis, the median operating budget was $125,600 per
+analyst/examiner and $74,200 per FTE employee. Medium-sized labs -- those
+having 25 to 49 FTEs -- had the highest median operating budgets on a per
+employee basis -- $155,500 per analyst/examiner and $89,800 per FTE.
+
+Laboratories serving State or regional jurisdictions accounted for about
+$400 million, or 53% of the total.  County labs accounted for $155
+million (21%) and municipal labs, $100 million (13%). Labs serving
+Federal or national jurisdictions accounted for $96 million, or about
+13% of the total.  
+
+On a per laboratory basis, those serving Federal or national jurisdictions 
+had the highest median budgets at nearly $2.6 million. Median budgets in 
+labs serving other types of jurisdictions ranged from $1.2 million (State 
+or regional) to $1.6 million (municipal).  
+
+Labs serving Federal or national jurisdictions had the highest median
+operating budgets on a per employee basis -- $163,500 per analyst/examiner 
+and $105,000 per FTE. Labs serving State or regional jurisdictions had the
+lowest -- $120,200 per analyst/examiner and $74,200 per FTE. 
+
+Budget categories
+
+The largest operating budget category was personnel, typically accounting 
+for nearly 80% of labs' total operating budgets. About 15% of laboratory
+budgets were typically devoted to supplies (7%), equipment (5%), and 
+services (3%). Facilities and travel each accounted for about 1% of labs'
+operating budgets.
+
+While most laboratories are engaged in quality assurance programs like
+proficiency testing, accreditation, and methods validation, only a
+small proportion of laboratory operating budgets (typically less than
+1%) is devoted to training or quality assurance. 
+
+Funding sources
+
+Excluding labs having Federal or national jurisdictions, for which all
+funding was derived from Federal sources, 67% of labs reported
+receiving at least some funding from State sources. Forty-one percent
+of laboratories reported receiving at least some funding from local
+sources.
+
+Twenty-one percent of laboratories reported receiving at least some
+funding from Federal sources. Federal funding was more likely among
+larger labs, including 36% of those having 100 or more FTEs. In
+contrast, about 18% of labs having less than 25 FTEs reported
+receiving Federal funding. 
+
+Over half (55%) of labs reported receiving at least some funding from
+grants. Grant funding was more likely among larger labs, including
+82% of those having 100 or more FTEs. Forty percent of the smallest
+labs received grant funding.
+
+About 3 in 10 labs reported receiving fees for services.  
+
+Labs receiving State funding included 96% of those serving State or
+regional jurisdictions, 28% of county labs, and 14% of municipal labs. 
+Recipients of local governmental funding included 97% of labs serving
+municipal jurisdictions, 91% of county labs, and 9% of State or
+regional labs.  Federal funding was reported by 29% of labs serving
+State or regional jurisdictions, 9% of municipal labs, and 7% of county
+labs.
+
+Labs receiving grant funding included 61% of those serving county
+jurisdictions, and 53% of those serving municipal, State or regional
+jurisdictions.  About 3 in 10 county, State, and regional labs received
+fees for services. Sixteen percent of municipal labs received such
+fees.
+
+Among labs serving municipal jurisdictions, the greatest share of
+laboratory budgets was funding from local governments. Local funding
+comprised 86% of municipal laboratory budgets on average. Three
+percent was from State governments, and less than half of 1% was
+from the Federal Government.
+
+Similarly, funding from local governments comprised 75% of county
+laboratory budgets on average. Eight percent was from State
+governments, and less than half of 1% was from the Federal
+Government.
+
+Labs serving State or regional jurisdictions received 5% of their total
+budgets from local governments, on average. The greatest share of
+State or regional laboratory budgets came from State governments,
+about 80% on average.  Three percent was from Federal Government.
+
+Grants and fees contribute significantly to laboratory operating
+budgets. On average, the percentage of total budgets attributable to
+grant funds is 10% among labs serving county jurisdictions, 8% among
+municipal labs, and 5% among State or regional laboratories.  
+
+The average percentage of total budgets attributable to fees is 7%
+among labs serving State or regional jurisdictions, 4% among county
+labs, and half of 1% among municipal laboratories.
+
+Salaries
+
+Overall, median salaries for laboratory directors ranged from $65,000
+to $89,200 annually; for mid-level supervisors, the range was $49,800
+to $75,600; for analyst/examiners, $35,400 to $63,000; and for
+technicians, $26,400 to $40,200.
+
+In general, salary ranges were higher among larger labs, and lower
+among smaller labs. For example, median salaries for laboratory
+directors ranged from $78,800 to $110,900 among labs with 100 or
+more FTEs, and from $55,700 to $79,700 among labs with fewer than
+10 FTEs.  
+
+Median salaries for supervisors ranged from $61,000 to $80,800 among labs 
+with 100 or more FTEs, and from $47,100 to $65,000 among labs with fewer 
+than 10 FTEs. Analyst or examiner salaries ranged from $36,200 to $77,000
+among the largest labs, and from $34,100 to $57,500 among the smallest.
+Salaries for technical support personnel ranged from $29,000 to $42,800 
+among the largest labs and from $25,900 to $35,000 among the smallest.
+
+Median salary ranges were also generally higher among labs serving
+Federal or national jurisdictions, and lower among those serving State
+or regional jurisdictions. For example, median salaries ranged from
+$96,000 to $124,800 for directors of Federal or national labs, and from
+$59,000 to $83,800 for directors of State or regional labs.
+
+Salary ranges for supervisors ranged from $80,000 to $109,300 among Federal
+ or national labs, and from $47,800 to $74,500 among State or regional labs.
+Analyst or examiner salaries ranged from $35,100 to $93,000 among Federal or
+national labs and from $33,200 to $59,800 among State or regional labs.
+Salaries for technical support personnel ranged from $27,500 to $52,800 
+among federal or national labs and from $25,000 to $39,600 among State or
+regional labs.
+
+Methodology
+
+The Bureau of Justice Statistics (BJS) awarded grant no. 2002-BJ-CX-K011 to
+the University of Illinois at Chicago (UIC) to undertake the 2002 Census of
+Publicly Funded Forensic Crime Laboratories. UIC partnered with the American
+Society of Crime Laboratory Directors (ASCLD) and the UIC Survey Research
+Laboratory (SRL) to administer the census.
+
+The survey instrument was designed by project staff with input from BJS 
+staff and the ASCLD advisory committee. The survey was pre-tested with 10
+laboratories representing different sized facilities (by number of FTE
+scientists) and governmental affiliations (Federal, State, and local).
+
+ASCLD provided UIC with a mailing list of 469 facilities that
+self-identified as crime laboratories, and which ASCLD used for
+membership purposes. Advance letters were mailed to all laboratories
+followed by telephone screening. A total of 39 laboratories were
+removed from the list because callers either determined the facility
+was not a crime laboratory, was a duplicate listing, or contained faulty
+contact information.
+
+Following the initial mailing of 430 surveys and a second round, 218
+facilities completed the survey. Twelve labs were determined to be
+ineligible. This resulted in an initial response rate of 52% (218/418).
+
+Following extensive follow-up efforts, it was discovered that the list
+contained many facilities that did not meet the project definition of a
+crime laboratory:
+
+A laboratory which employs one or more full time scientists whose
+principal function is the examination of physical evidence for law
+enforcement agencies and that provides reports and testimony to
+courts of law with respect to such evidence.
+
+A number of police agency units on the list investigated crime scenes,
+searched for and gathered evidence, and took photographs, but did
+not employ full-time scientists to examine the evidence collected. The
+list contained names and addresses of police "identification units" that
+typically investigated crime scenes for fingerprints, and processed and
+examined those fingerprints, but were not laboratories and did not
+employ at least one scientist who examined and interpreted the
+physical evidence.
+
+The population subsequently dropped to 351 eligible laboratories.
+Completed surveys were obtained from 281 laboratories, for a
+response rate of 80%. In a final effort to improve response, UIC and
+BJS developed a reduced length survey instrument that collected
+basic information about laboratory operations. In conjunction with
+additional telephone calls and e-mails, another 25 laboratories
+responded to the shorter survey, for an overall response rate of 87%
+(306/351). 
+
+The Federal Bureau of Investigation (FBI) laboratory division provided
+data for 2003. This report presents the FBI data separately.
+
+Among the 45 non-responding laboratories are 27 State or regional labs, 
+5 county labs, 5 municipal labs, and 8 Federal labs. This results in 
+response rates of 87%, 92%, 90%, and 76%, respectively.
+
+Among responding laboratories, missing data imputations were made for
+personnel, budgets, and evidence processing data.
+
+Missing actual FTE data were imputed by multiplying authorized FTE
+by the mean percentage of authorized FTEs actually employed among
+labs of similar type and size. Total FTEs in specific categories of
+employment were imputed by multiplying total actual FTE by the
+median percentage of total FTEs employed in specific categories for
+labs of similar type and size.
+
+Missing annual budget data were imputed as follows: for labs reporting
+a combined budget figure as part of a laboratory system, the combined
+budget was split proportionately, based on a given labs' share of total
+FTE for the laboratory system. For other labs, total FTE was multiplied
+by the median ratio of expenditures per FTE for similar labs by size
+and type. If the lab was part of a State system in which other labs
+reported individual budgets, the median ratio method was used within
+that system. Among labs serving Federal jurisdictions, the median
+ratio method was used for labs within the same service. Missing case
+processing data (cases received and backlogged) were imputed by 
+multiplying total FTE by the median ratio of cases per FTE for similar
+labs by size and type.  
+
+Labs which did not provide complete request processing data (initial
+backlog, new requests, and completions) received imputed values
+within each category of forensic service they perform based on median
+requests per FTE for similar labs by size. Total FTE was multiplied by
+the median ratio for labs of similar size for each type of request.
+
+--------------------------------------------------------------
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. Lawrence A. Greenfeld is
+director.
+
+Joseph L. Peterson, Professor and Acting Head of the
+Department of Criminal Justice, University of Illinois at
+Chicago (UIC) and Matthew J. Hickman, BJS Statistician,
+collaborated on this report. Steven K. Smith reviewed the
+report. Tom Hester edited the report.
+
+The 2002 census was directed by Joseph L. Peterson and
+Sandra K. Costello, Associate Director of the UIC Center 
+for Research in Law and Justice (CRLJ). CRLJ project staff
+included Laura Kunard, Andrew Krzak, Cosmina Menghes, and 
+Tiffany Vasquez.
+
+Kevin Lothridge, Fellow of the National Institute of Justice,
+and representatives of the American Society of Crime
+Laboratory Directors (ASCLD) served as subject matter
+experts and consultants to this project, providing assistance
+with the development and review of the census instrument,
+project guidance, and non-response follow-up. ASCLD 
+representatives included the following: Elizabeth Carpenter, 
+Director of the Portland (OR) State Police Forensic Laboratory; 
+Roger Kahn, Deputy Superintendent of Laboratories of the Ohio 
+Bureau of Criminal Identification and Investigation; Susan Johns, 
+Bureau Chief of the Illinois State Police Division of Forensic 
+Services; David Petersen, Assistant Director of the Minnesota 
+State Forensic Science Laboratory; and the late Jan Bashinski, 
+Chief of the Bureau of Forensic Services (retired), California 
+Department of Justice.  
+
+The UIC Survey Research Laboratory (SRL) produced and
+administered the final census instrument. 
+
+February 2005, NCJ 207205
+
+Office of Justice Programs
+Partnerships for Safer Communities
+http://www.ojp.usdoj.gov
+------------------------------------------------------------
+
+
+End of file
+02/09/05 ih

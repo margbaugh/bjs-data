@@ -1,0 +1,1563 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+State Court Processing Statistics
+
+Felony Defendants in Large Urban Counties, 2000
+
+
+December 2003, NCJ 202021
+
+
+--------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/fdluc00.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#fdluc
+--------------------------------------------------------------
+
+Felony Defendants in Large Urban Counties, 2000
+
+Arrest charges
+
+Demographic characteristics
+
+Criminal history
+
+Pretrial release and detention
+
+Adjudication
+
+Sentencing
+
+Arrest charges
+
+Gerard Rainville
+and Brian A. Reaves, Ph.D.
+BJS Statisticians
+
+Contents
+
+Lawrence A. Greenfeld
+Director
+
+Gerard Rainville and Brian Reaves, BJS statisticians, prepared 
+this report.  Thomas Cohen provided statistical review. Tina 
+Dorsey and Tom Hester edited the report. Jayne Robinson produced 
+the final submission for printing.
+
+The data were collected and processed by the Pretrial Services 
+Resource Center under the supervision of Jolanta Juszkiewicz. 
+Carma Hogue of the Economic Statistical Methods and Procedures
+Division, U.S. Census Bureau, assisted with sample design.
+
+Data presented in this report may be obtained from the National 
+Archive of Criminal Justice Data at the University of Michigan,
+1-800-999-0960. The report and data are available on the Internet 
+at: http://www.ojp.usdoj.gov/bjs
+
+Highlights                              
+
+State Court Processing Statistics              
+
+Arrest charges                          
+
+Demographic characteristics             
+
+Criminal history                        
+
+Criminal justice status at time of arrest
+                                        
+Prior arrests                           
+Prior convictions                                   
+                                        
+Pretrial release and detention                                                 
+                             
+Rates of release and detention            
+Bail amounts                            
+Time from arrest to release             
+Criminal history and probability of release              
+Conduct of released defendants            
+                                        
+Adjudication                            
+                                        
+Time from arrest to adjudication               
+Adjudication outcome                    
+Case processing statistics              
+
+Sentencing
+
+Time from conviction to sentencing             
+Type and length of sentence                         
+Prior record and felony sentencing            
+
+Methodology                             
+
+Appendix                                
+
+-----------------------------------------------------
+Highlights
+
+State Court Processing Statistics 
+
+Every 2 years, as part of its State Court Processing Statistics 
+(SCPS) program, the Bureau of Justice Statistics tracks a sample 
+of felony cases filed during the month of May in 40 of the 
+Nation's 75 largest counties. The most recent SCPS study analyzed
+cases filed during May 2000.
+
+Trends in processing of felony defendants,
+1990-2000
+
+Since 1990 the proportion of defendants charged with a violent 
+offense has remained at about a fourth. From 1992 to 2000, the 
+proportion of drug defendants increased from 30% to 37%. During 
+this period, the percentage of defendants charged with a
+property crime decreased from 35% to 30%. The proportion of 
+defendants charged with a public-order offense has remained 
+under 1 in 10.
+
+In 2000 the percentage of defendants age 40 or older was 21%, 
+about twice the 10% found in the 1990 study. During the same 
+time, the percentage of defendants under age 25 decreased from 
+41% to 34%.
+
+The percentage of female defendants has increased from 14% in 1990 
+to 19% in 2000. In 2000, non-Hispanic blacks accounted for 45% of
+defendants, the same as in 1998, but a slightly smaller percentage 
+than in prior years. Compared to 1998, the percentage of non-
+Hispanic whites increased slightly to 30%, while the percentage of
+Hispanic or Latino defendants decreased slightly to 23%.
+
+Since 1990 approximately 3 in 8 defendants have had an active 
+criminal justice status at the time of arrest, including 35% in 
+the 2000 study.  The percentage of defendants with a felony arrest
+record in 2000 (62%) was slightly higher than in 1998 (60%), and 
+higher than in previous years when it averaged about 55%. The 
+proportion of defendants with a felony conviction record in 2000 
+(40%), was down slightly from 1998 (42%), but still higher than
+the 36% recorded in 1996.
+
+Since 1990 the percentage of felony defendants released prior to 
+case disposition has been fairly consistent, ranging from 62% to 
+65%, with 62% released in 2000. In 2000, the proportion of releases
+accounted for by surety bond (37%) was greater than that accounted 
+for by release on personal recognizance (26%), a finding first 
+observed in the 1998 study.
+
+From 1990 to 2000, the proportion of released defendants charged 
+with misconduct such as failure to appear in court or rearrest has 
+remained at just under a third, including 32% in 2000. Failure-to-
+appear rates have held steady at about a fourth, including 22% in 
+2000.
+
+After reaching a high of 61% in the 1994 study, the felony conviction 
+rate fell to 55% in 1996 and 52% in both 1998 and 2000. This rate was 
+still slightly higher Figure 4Figure 4than the 50% rate in the 1990 
+study. Sixty-four percent of defendants were convicted of a felony 
+or a misdemeanor in 2000 the same as in 1990, but this continued a 
+downward trend from a high of 72% in 1994.
+
+For defendants convicted of a felony, sentences in 2000 (73%) were 
+more likely to involve incarceration than in 1998 (70%) or 1996 
+(69%). In 2000 a felony conviction was more likely to result in a 
+sentence to prison (40%) than jail (33%) as was the case in 1990,
+1992, and 1994. In 1996 and 1998, jail and prison sentences had 
+almost equal frequencies. The use of probation as a sentence for 
+felony convictions in 2000 (27%) was slightly less than in 1998 
+and 1996, but about the same as in prior years. 
+
+Felony defendants in large urban counties, 2000
+
+Arrest charges
+
+An estimated 54,590 felony cases were filed in the State courts of 
+the Nation's 75 largest counties during May 2000. About a fourth 
+of defendants were charged with a violent offense, usually assault
+(12.1%) or robbery (5.4%). About 1 in 40 defendants were charged 
+with murder (0.9%) or rape (1.6%).  
+
+Two-thirds of defendants were charged with either a drug (37%) or 
+property (30%) offense. Nearly half of drug defendants, 17% of 
+defendants overall, were charged with drug trafficking. A majority 
+of property defendants were charged with larceny/theft (8.2% of
+all defendants) or burglary (7.3%). About 9% of defendants were 
+charged with a public-order offense. Often these charges were 
+driving-related (3%) or weapons-related (2.6%).
+
+Demographic characteristics
+
+Eighty-one percent of defendants were male, including 90% or more 
+of those charged with rape (99%), murder (96%), a weapons offense 
+(93%), a driving-related offense (92%), or robbery (91%).  Women 
+accounted for more than half of the defendants charged with fraud 
+(55%) and more than a third of those charged with forgery (37%). 
+
+Non-Hispanic blacks comprised at least half of the defendants 
+charged with robbery (61%), a weapons offense (56%), drug trafficking 
+(52%), or murder (50%). Non-Hispanic whites accounted for about half
+of those charged with a driving-related felony (48%).
+
+Half of defendants were under age 30. Eighteen percent were under 
+age 21, including 38% of those charged with robbery and 27% of 
+those charged with murder. Three percent of defendants were under 
+age 18, including 13% of robbery defendants and 10% of murder 
+defendants.
+
+Criminal history
+
+At the time of arrest, 35% of defendants had an active criminal 
+justice status such as probation (14%), release pending disposition 
+of a prior case (13%), or parole (6%). Burglary defendants (44%)
+were the most likely to have had a criminal justice status when 
+arrested, followed by drug trafficking, robbery, and motor vehicle 
+theft defendants, at 39% each. 
+
+Seventy-four percent of all defendants had been arrested previously, 
+with 45% having at least five prior arrest charges.  Sixty-two 
+percent of defendants had a felony arrest record.  Fifty-eight 
+percent of defendants had at least one prior conviction, including 
+40% with one or more felony convictions.
+ 
+Pretrial release and detention
+
+Thirty-eight percent of all defendants were detained until the court 
+disposed of their case, including 7% who were denied bail. Half or 
+more of defendants charged with murder (87%), robbery (56%), motor 
+vehicle theft (54%), or burglary (51%)were detained until case
+disposition.
+
+Defendants with an active criminal justice status (54%) were nearly 
+twice as likely to be detained until case disposition as those 
+without such a status (30%). Defendants on parole (77%) were the 
+most likely to be detained. 
+
+Defendants were most likely to be released on commercial surety 
+bond (37% of all releases), followed by release on personal 
+recognizance (26%). The next most common types of pretrial release 
+were conditional release (14%), deposit bond (10%), and unsecured 
+bond (9%).
+  
+An estimated 32% of released defendants committed one or more types 
+of pretrial misconduct while in a release status. Twenty-two percent 
+failed to appear in court as scheduled. Sixteen percent were 
+rearrested for a new offense, including 10% for a felony. 
+
+Adjudication
+
+A fourth of defendants had their case adjudicated within 1 month of 
+arrest, and half within 3 months. At the end of the 1-year study 
+period, 86% of all cases had been adjudicated.
+
+Sixty-four percent of the cases adjudicated within 1 year resulted 
+in a conviction. Fifty-two percent of defendants were convicted of 
+a felony, and 12% of a misdemeanor. Felony conviction rates were 
+highest for those originally charged with a driving-related offense 
+(70%), drug trafficking (67%), or murder (64%). Fraud (33%) and 
+assault (35%) defendants had the lowest felony conviction rates.
+
+Nearly all (95%)convictions obtained during the 1-year study period 
+were the result of a guilty plea. About 4 in 5 guilty pleas were to 
+a felony. Seventy-eight percent of trials resulted in a guilty 
+verdict, including 81% of bench trials and 74% of jury trials.  
+
+Sentencing
+
+About two-thirds of convicted defendants were sentenced within 
+1 day of adjudication.  Nearly three-fourths of all sentences 
+for felony convictions were either to prison (40%) or jail (33%).  
+Ninety-six percent of those convicted of murder were sentenced 
+to prison. A large majority of robbery (73%) and rape (56%) 
+convictions also resulted in prison sentences. Nearly all 
+convicted defendants who did not receive an incarceration 
+sentence were placed on probation.  
+
+Sixty-two percent of those with multiple prior felony convictions 
+were sentenced to prison following a felony conviction in the 
+current case, compared to 24% of those with no prior felony 
+convictions.
+  
+Excluding life sentences, the mean prison sentence for violent 
+felony convictions was about 8 years, and the median was 5 years. 
+For nonviolent felonies, the mean was about 31/2 years and the 
+median, 2 years.  Murder (15 years) and rape (7 years) convictions 
+carried the longest median prison sentences. About 1 in 3 
+convicted murderers received a life sentence. 
+------------------------------------------------------
+
+State Court Processing Statistics
+
+Since 1988, the Bureau of Justice Statistics (BJS) has sponsored a 
+biennial data collection on the processing of felony defendants in 
+the State courts of the Nation's 75 most populous counties. 
+Previously known as the National Pretrial Reporting Program, this 
+data collection series was renamed the State Court Processing 
+Statistics (SCPS) program in 1994 to better reflect the wide range 
+of data elements collected.  
+
+The SCPS program collects data on the demographic characteristics, 
+criminal history, pretrial processing, adjudication, and sentencing 
+of felony defendants. The SCPS data do not include Federal defendants.
+The reader should refer to the annual BJS Compendium of Federal 
+Justice Statistics for information on the processing of Federal 
+defendants. 
+
+The 2000 SCPS collected data for 14,877 felony cases filed during 
+May 2000 in 40 large counties. These cases, which were tracked 
+for up to 1 year, were part of a 2-stage sample that was
+representative of the estimated 54,590 felony cases filed in the 
+Nation's 75 most populous counties during that month. A small 
+number of cases (162 weighted) were omitted from analysis as they 
+could not be classified into 1 of the 4 major crime categories 
+(violent, property, drug, and public-order offenses).  
+
+In 2000, the 75 largest counties accounted for 37% of the U.S. 
+population. According to the FBI's Uniform Crime Reports program 
+for 2000, these jurisdictions accounted for 49% of all reported 
+serious violent crimes in the United States, including 60% of
+robberies, 47% of murders and non-negligent manslaughters, 46% 
+of aggravated assaults, and 37% of forcible rapes.  
+
+These counties accounted for 39% of all reported serious property 
+crimes, including 55% of motor vehicle thefts, 37% of burglaries, 
+and 37% of larceny/thefts.  
+
+Arrest Charges
+
+During May 2000, about a fourth of the felony defendants in the 
+75 largest counties were charged with a violent offense (24.9%). 
+About half of those charged with a violent felony, 12.1% of 
+defendants overall, faced assault charges, and about a fifth,
+5.4% of defendants overall, were charged with robbery. Murder 
+defendants comprised 3.6% of the defendants charged with a violent 
+felony, and 0.9% of all felony defendants. Rape defendants accounted 
+for 6.5% of the defendants charged with a violent felony, and 1.6% 
+of all felony defendants. (See Methodology for the specific crimes 
+included in each offense category.)
+
+For about 3 in 8 defendants, the most serious arrest charge was 
+a drug offense (36.8%). Nearly half (47%) of drug defendants were 
+charged with drug trafficking. Overall, defendants were more likely 
+to be charged with drug trafficking (17.2%) or other drug offenses 
+(19.6%) than any other type of offense.
+
+About 3 in 10 felony defendants were charged with a property 
+offense (29.5%). More than a fourth of property defendants, 8.2% 
+of defendants overall, were charged with larceny/theft offenses, 
+and about a fourth, 7.3% overall, were charged with burglary.  
+
+Defendants charged with a public-order offense comprised 8.7% of 
+all defendants. About 2 in 3 public-order defendants faced a 
+weapons (2.6%) or driving-related (3.0%) charge.  
+
+The percentage of felony defendants in the 75 largest counties 
+facing a drug-related charge (36.8%) was about the same as in 1998 
+(37.1%), but significantly higher than the low of 30% in 1992. The 
+percentage of property defendants in 2000 (29.5%) ended a trend of 
+small decreases that have occurred since a high of 34.9% in 1992. 
+The percentage of defendants charged with a violent offense in 2000 
+(24.9%) was about the same as in 1998 (24.0%), and slightly lower 
+than the high of 26.5% in 1992.  
+
+More than half of all felony defendants (56%) faced at least one 
+additional charge, and 39% were charged with at least one additional 
+felony.  Defendants whose most serious charge was drug trafficking
+(70%) were the most likely to have been charged with one or more 
+additional offenses. More than three-fifths of defendants whose 
+most serious arrest charge was murder (64%), rape (64%), robbery
+(65%), or burglary (63%) were also charged with one or more 
+additional offenses. 
+
+A majority of rape (60%), murder (59%), robbery (57%), and drug 
+trafficking (56%) defendants faced at least one additional felony 
+charge. About half of defendants charged with burglary (50%) or 
+motor vehicle theft (49%) faced one or more additional felony 
+charges. More than two-fifths of forgery (46%), fraud (43%), 
+and weapons (42%)defendants faced multiple felony charges.
+
+Demographic characteristics
+
+Forty-five percent of the felony defendants in the 75 largest
+counties were non-Hispanic blacks, 30% were non- Hispanic
+whites, 23% were Hispanics of any race, and 2% were non-Hispanic 
+members of some other race. 
+ 
+Non-Hispanic blacks comprised a majority of the defendants charged 
+with robbery (61%), a weapons offense (56%), or drug trafficking 
+(52%). The smallest percentage of black defendants was found among
+those charged with a driving-related offense (28%).
+
+Non-Hispanic whites accounted for the largest percentage among 
+defendants facing driving-related charges (48%). This was about 
+3 times the percentage accounted for by whites among defendants 
+charged with robbery (14%) or a weapons offense (17%).  
+
+The largest percentage of Hispanics was found among defendants 
+charged with motor vehicle theft (31%). The smallest percentages 
+of Hispanics were found among defendants charged with fraud 
+(13%), forgery (14%), or larceny/theft (15%).
+
+Overall, 81% of felony defendants in the 75 largest counties 
+were male. Men comprised the largest percentages among defendants 
+charged with rape (99%), murder (96%), weapons offenses (93%), 
+driving-related offenses (92%), robbery (91%), burglary (88%), or 
+motor vehicle theft (88%). Women accounted for 19% of defendants, 
+including 55% of those charged with fraud and 37% of those charged 
+with forgery.
+
+The average age of defendants at the time of arrest was 31 years. 
+By specific offense, the average age ranged from 26 years for 
+robbery defendants to 36 for those charged with a driving-related 
+offense.  
+
+About 1 in 8 robbery defendants and 1 in 10 murder defendants were 
+under age 18. An estimated 21% of defendants were 40 or older, 
+including about a third of those charged with a driving-related 
+offense (32%).  Defendants charged with robbery (10%), motor 
+vehicle theft (11%), a weapons offense (12%), or murder (13%) were 
+the least likely to be 40 or older.
+
+Overall, 32% of defendants were under age 25. More than half of 
+robbery defendants (56%) were under age 25, as were more than two-
+fifths of defendants charged with a weapons offense (47%), murder
+(44%), vehicle theft (43%), or burglary (42%). Defendants charged 
+with a driving-related offense (14%) or fraud (17%) were the least 
+likely to be under age 25.
+
+About 18% of defendants were under the age of 21 at the time of 
+arrest.  About 3 in 8 robbery defendants (38%) were under age 21, 
+as were more than a fifth of those charged with murder (27%), 
+burglary (26%), a weapons offense (25%), or vehicle theft (24%). 
+Defendants charged with a driving-related offense (4%) or fraud 
+(6%) were the least likely to be this young.  
+
+Males formed a higher percentage of defendants under age 18 (91%) 
+than of other age groups. The largest percentage of female 
+defendants was in the 35 to 39 age group (24%). A majority of the 
+defendants under age 18 were black (54%), compared to less than 
+half in each of the other age groups.
+
+Black males comprised the largest proportion of defendants in each 
+age group. This effect was most pronounced in the under-age-18 
+category in which black males (48%) accounted for nearly 3 times 
+the percentage of white males (18%), and nearly twice the percentage 
+of Hispanic males (25%). It was least pronounced in the age 25 to 
+39 categories, where black males accounted for a proportion of 
+defendants closer to that accounted for by Hispanic and white
+males. 
+
+Hispanic females comprised the smallest proportion of defendants 
+in each age group. Black females constituted a slightly higher 
+percentage than white females in all age categories, but for no 
+more than 12% of the defendants in any single age category.
+
+Criminal history
+
+Criminal justice status at time of arrest
+
+Thirty-five percent of felony defendants had an active criminal 
+justice status at the time of their arrest on the current felony 
+charge.  Among defendants charged with a violent offense, 31% 
+had an active criminal justice status, ranging from 39% of 
+robbery defendants to 25% of rape defendants. 
+
+Thirty-six percent of property defendants had a criminal justice 
+status, including 44% of defendants charged with burglary and 
+39% of those charged with motor vehicle theft. Among property 
+defendants, those charged with fraud (21%) were the least likely
+to have had an active criminal justice status at the time of 
+arrest.
+
+Among drug defendants, 36% had a criminal justice status overall. 
+Those charged with drug trafficking (39%) were more likely to 
+have a criminal justice status than those charged with other 
+drug offenses (34%). 
+
+Forty percent of public-order defendants had an active criminal 
+justice status at the time of the current arrest. This included 
+32% of those charged with a weapons or driving-related offense, 
+and 53% of those charged with other public-order offenses.
+
+Some defendants with a criminal justice status had more than one 
+type of status. When just the most serious criminal justice status 
+is considered, 14% of defendants were on probation, 13% had been
+released pending disposition of a previous case, and 6% were on 
+parole at the time of the current arrest.  Allowing for multiple 
+types of criminal justice status, 6% of defendants were on parole, 
+15% were on probation, and 15% had been released pending case
+disposition. 
+
+The percentage of defendants on parole at the time of their current 
+felony arrest ranged from 8% of those charged robbery or motor 
+vehicle theft, to 2% of those charged with fraud. Other offenses 
+with at least 5% of the defendants on parole at the time of arrest
+included burglary (7%), weapons offenses (7%), murder (6%), drug 
+trafficking (6%), and larceny/theft (6%). 
+
+The highest percentages of defendants on probation at the time of 
+arrest were among those charged with motor vehicle theft (22%) or 
+burglary (19%). Defendants charged with rape (8%) or fraud (9%)
+were less likely to have been on probation at the time of arrest.
+  
+Twenty percent of defendants charged with robbery or drug trafficking 
+had been released pending disposition of a prior case when they 
+were arrested on the current felony charge. These defendants were
+more than twice as likely as those charged with fraud (8%) to have 
+had such a status at the time of the current arrest. 
+Prior arrests
+
+Seventy-four percent of all defendants had at least one prior 
+felony or misdemeanor arrest.  Defendants whose most serious 
+current arrest charge was for a public-order (80%) or drug (78%) 
+offense were more likely to have been previously arrested than 
+those charged with a property (72%) or violent (69%)offense.  
+
+Among defendants charged with a violent offense, robbery (73%) 
+and assault (72%) defendants were more likely to have an arrest 
+record than those charged with murder (67%) or rape (58%). 
+
+Among property defendants, those charged with burglary (82%) or 
+motor vehicle theft (78%) were the most likely to have been 
+arrested previously, followed by those charged with larceny/theft 
+(72%) or forgery (69%).  Defendants charged with fraud (50%) were
+the least likely, among property defendants, to have one or more 
+prior arrests. 
+
+Among public-order defendants, defendants charged with a driving-
+related felony (85%) were more likely to have an arrest record 
+than those facing weapon charges (72%).
+
+Among defendants with an arrest record, about 7 in 8 had more than 
+one prior arrest charge, and a majority had at least five. Overall, 
+65% of defendants had two or more prior arrest charges, and 45% had 
+five or more.  Defendants charged with burglary (52%), a driving-
+related offense (51%), or motor vehicle theft (51%) were the most 
+likely to have 5 or more prior arrest charges, and those charged 
+with fraud (21%)the least likely.
+  
+An estimated 26% of defendants had 10 or more prior arrest charges. 
+This included 33% of defendants charged with a driving-related 
+offense, 32% of burglary defendants, and 30% of robbery defendants.
+
+Three-fourths of the defendants under age 18 had no previous arrests. 
+This proportion dropped to about two-fifths among defendants age 18 
+to 20, about a fourth among those aged 21 to 29, and about a fifth
+among those age 30 to 49. About 3 in 10 defendants age 50 or older 
+had no arrest record.  
+
+Approximately a fifth of the defendants age 18 to 20 had five or 
+more prior arrests. This proportion rose to nearly two-fifths in 
+the 21-to-24 age range, nearly half in the 25-to-29 age range, and 
+more than half in the 30-to-49 age range. In the latter age range,
+defendants were nearly 3 times as likely to have five or more prior 
+arrests as no prior arrests.
+
+Among defendants with an arrest record, about 4 in 5 had been 
+arrested at least once for a felony. Overall, three-fifths of 
+defendants had a felony arrest record.  Nearly half of all 
+defendants had multiple prior felony arrest charges, including 
+25% with five or more.
+
+More than half of the defendants facing a current charge for 
+a violent felony had been previously arrested for a felony, 
+including 64% of robbery defendants and 60% of murder 
+defendants.  Thirty-one percent of robbery defendants had 5 
+or more prior felony arrest charges, including 16% with 10 
+or more.  
+
+Sixty percent of property defendants had one or more prior 
+felony arrests.  More than two-thirds of those currently 
+charged with burglary (70%) or motor vehicle theft (69%) had 
+a prior felony arrest record.  Fifteen percent of burglary 
+defendants and 14% of motor vehicle theft defendants had 10 
+or more prior felony arrest charges. 
+
+Sixty-six percent of drug defendants had at least one prior 
+felony arrest charge, and 27% had five or more.
+
+Sixty-seven percent of public-order defendants had been 
+previously arrested for a felony, including 27% with five 
+or more prior felony charges.    
+
+Prior convictions
+
+Fifty-eight percent of felony defendants in the 75 largest 
+counties had at least one prior conviction for a misdemeanor 
+or a felony. More than three- fourths of those with a 
+conviction record, accounting for 45% of defendants overall, 
+had more than one prior conviction. Twenty-two percent of all 
+defendants had five or more prior convictions.
+
+Among defendants charged with a violent offense, 52% had at 
+least one prior conviction. Assault (54%)and robbery (53%) 
+defendants were more likely to have a conviction record than 
+other defendants charged with a violent offense (47%).
+
+Fifty-five percent of property defendants had been convicted 
+previously, including 65% of burglary defendants. Fifty percent 
+of burglary defendants had multiple prior convictions, including 
+30% with five or more.  
+
+Sixty-two percent of drug defendants had at least one prior 
+conviction. About half (48%) had two or more, and about a fourth 
+(23%)had at least five.  
+
+Among public-order defendants,67% had a conviction record, and 
+26% had five or more. About three-fourths of the defendants 
+facing driving-related charges (77%) had at least one prior 
+conviction of some type, and three-fifths had multiple prior
+convictions. 
+
+More than two-thirds of the defendants with a conviction record, 
+40% of defendants overall, had at least one prior conviction for 
+a felony.  
+
+Thirty-three percent of defendants whose current charge was for 
+a violent felony had previously been convicted of a felony. 
+Among these defendants, the percentage with a prior felony 
+conviction ranged from 40% among those charged with robbery to 
+26% of those charged with rape.  
+
+Thirty-nine percent of property defendants had a felony conviction 
+record, including nearly half of those charged with motor vehicle 
+theft (48%) or burglary (47%). Defendants charged with fraud (21%) 
+were the least likely to have a prior felony conviction.
+
+Forty-four percent of the defendants whose most serious current 
+arrest charge was for a drug offense had been previously convicted 
+of a felony.  There was no variation by type of drug offense. 
+
+A majority of the defendants with a felony conviction record, 25% 
+of defendants overall, had multiple prior felony convictions. Six 
+percent of all defendants had five or more prior felony 
+convictions. 
+
+By specific offense, defendants charged with burglary (30%) or 
+motor vehicle theft (29%) were the most likely to have multiple 
+prior felony convictions.  Eleven percent of burglary defendants 
+had five or more such convictions. Defendants charged with fraud 
+(11%)were the least likely to have more than one prior felony 
+conviction.    
+
+Eighty-nine percent of defendants under age 18 at the time of 
+the current arrest had no prior adult convictions. Six percent 
+of these defendants had been previously convicted of at least 
+one felony. In the 18-to-20 age range, 67% of defendants had no
+prior convictions, while 18% had at least one prior felony 
+conviction.
+
+A majority of the defendants age 21 or older had a conviction 
+record, and defendants ages 25 to 49 were more likely to have 
+a felony conviction record than no prior convictions. About 
+half of defendants age 30 to 49 had a felony conviction 
+record.
+
+For nearly a fourth of the defendants with a prior felony 
+conviction, 10% of defendants overall, their criminal history 
+included at least one conviction for a violent felony. Thirteen 
+percent of the defendants currently charged with a violent 
+offense had a prior conviction for a violent felony. 
+
+By specific arrest charge, the percentage of defendants previously 
+convicted of a violent felony was highest among those charged with 
+robbery (16%), a weapons offense (13%), or assault (13%).
+Defendants charged with fraud (4%) or forgery (6%)were the least 
+likely to have a prior conviction for a violent felony.
+
+For 38% of motor vehicle theft defendants, the most serious prior 
+conviction was a nonviolent felony. This was also the case for 
+36% of defendants charged with burglary or drug trafficking, 
+and 34% of those charged with a driving-related offense.
+
+Defendants charged with a driving-related offense (33%) were much 
+more likely than other defendants to have a conviction record that 
+consisted only of misdemeanors. The next most likely were defendants
+charged with rape (21%) or assault (21%).
+
+Pretrial release and detention
+
+Rates of release and detention
+
+An estimated 62% of felony defendants in the 75 largest counties 
+were released prior to the final disposition of their case. By 
+general offense category, defendants charged with a violent 
+offense (56%) were less likely to be released than those whose 
+most serious arrest charge was a public-order (66%), drug (64%), 
+or property (64%) offense.  
+
+Within the violent offense category,  release rates varied
+greatly. Just 13% of murder defendants were released
+compared to 61% of those charged with assault.  Fifty-six 
+percent of rape defendants and 44% of robbery defendants were 
+released before the court disposed of their case.
+ 
+Among defendants charged with a property offense, just under 
+half of those charged with burglary (49%) or motor vehicle 
+theft (46%) were released prior to case disposition.  Higher 
+proportions of those charged with fraud (85%), forgery (72%), 
+or larceny/theft (68%) were released.  
+
+Among drug defendants, those charged with drug trafficking (62%) 
+were slightly less likely to be released than those charged with 
+other drug offenses (66%).  Among public-order defendants, those 
+charged with a driving-related (75%) or weapons (70%) offense 
+were more likely to be released than those charged with other
+public-order offenses.
+
+Among the 38% of defendants who were detained in jail until case 
+disposition, about 5 in 6 had a bail amount set but did not post 
+the money required to secure release. Detained murder defendants 
+were the exception to this rule; a majority of them, 46% of 
+murder defendants overall, were ordered held without bail. 
+Overall, 7% of felony defendants in the 75 largest counties were
+denied bail.
+
+A slight majority of the defendants released prior to case
+disposition, 32% of defendants overall, were released under 
+financial conditions that required the posting of bail (see 
+Methodology for definitions related to pretrial release). The 
+most common type of financial release was surety bond (24% of 
+all defendants and 37% of released defendants), which involves 
+the services of a commercial bail bond agent.  
+
+Other types of financial release were deposit bond (6% of all 
+defendants and 10% of released defendants), full cash bond (2%), 
+and property bond (less than 1%). All of these types of bonds 
+are posted directly with the court without the use of a bail 
+bond agent.
+
+Just under half of released defendants, 30% of defendants overall, 
+were released under nonfinancial conditions not requiring the 
+posting of bail.
+
+Release on personal recognizance (16% of all defendants and 26% 
+of released defendants), was the type of nonfinancial release 
+used most. Other nonfinancial types of release included 
+conditional release (8% of all defendants and 14% of released
+defendants), and release on unsecured bond (6% and 9%).
+
+A small number of defendants were released prior to case disposition 
+as the result of an emergency release used to relieve jail crowding. 
+Such releases did not involve the use of any of the release types 
+mentioned above.
+
+Bail amounts
+
+Overall, 63% of felony defendants had a bail amount set by the 
+court, and were required to post all or part of that amount to 
+secure release while their case was pending.  The remainder were 
+granted nonfinancial release (30%), ordered held without bail (7%), 
+or were part of an emergency release (less than 0.5%). More than 
+half of those with a bail amount had it set at $10,000 or more,
+and a fifth had it set at $50,000 or more.
+
+Among defendants with a bail amount set, those charged with a 
+violent offense (31%) were about twice as likely as other 
+defendants to have it set at $50,000 or more. About 7 in 8 murder 
+defendants (88%) with a bail amount had it set at $50,000 or more, 
+as did about a third of robbery (36%) and rape (33%) defendants.  
+
+Among property defendants with a bail amount set, those charged with 
+burglary (19%) were the most likely to have bail set at $50,000 or 
+more.  Defendants charged with drug trafficking (22%) were twice as 
+likely to have bail set at $50,000 or more as other drug defendants 
+(11%). Among public-order defendants, those charged with a weapons 
+offense (18%) were nearly twice as likely as those charged with a
+driving-related offense (10%) to have bail set this high.
+
+Overall, defendants who were detained until case disposition had a 
+median bail amount 5 times that of defendants who secured release 
+($25,000 versus $5,000). The mean bail amount for detained 
+defendants ($76,200) was about 6 times that of defendants who
+secured release ($12,800).  
+
+Detained murder defendants had the highest median ($500,000) and 
+mean ($692,800) bail amounts. Overall, the median bail amount for 
+murder defendants was $250,000 and the mean was $587,800.   
+
+Overall, about half (51%) of defendants who were required to post 
+bail to secure release did so. About three-fourths of defendants 
+with a bail set at under $5,000 (76%) posted the amount needed for 
+release, as did nearly two-thirds of those with a bail amount of 
+$5,000 to $9,999 (64%). In contrast, about 1 in 6 defendants with 
+bail set at $50,000 or more (17%), and just over 1 in 3 defendants 
+with a bail amount of $25,000 to $49,999 (36%) met the financial 
+conditions required for release.
+
+Defendants released on full cash bond posted a median of $1,000 
+and a mean of $4,100 to secure release. Among defendants given 
+financial release, the median and mean bail amounts were slightly 
+higher for those released on surety bond ($7,500, $13,800) than 
+for those released on deposit bond ($5,000, $12,600).   
+
+Unlike those released on full cash bond, defendants released on 
+deposit bond generally posted 10% of the full bail amount with 
+the court to secure release. However, they remained liable to 
+the court for the full bail amount if they violated the terms 
+of release.
+
+Those released on surety bond paid a similar fee to a bail bond 
+agent, who assumed liability to the court for the full bail 
+amount if the defendant violated the terms of release.
+
+Defendants released on an unsecured bond had a median bail amount 
+of $5,000 and a mean bail amount of $8,000. These defendants did 
+not have to post any of this amount, but like those on financial 
+release, they were liable for the full bail amount if they 
+violated the terms of release.
+
+Time from arrest to release
+                                 
+Among defendants released prior to case disposition, 50% were 
+released within 1 day of arrest, and 78% within 1 week. Nearly 
+all releases during the 1-year study occurred within a month of 
+arrest (93%).  
+                                 
+By general offense category, less than half of the defendants 
+charged with a violent (42%) or drug (47%)offense were released 
+within 1 day of arrest. A majority of those charged with a public-
+order (55%) or property (57%) offense were released this quickly. 
+                                 
+By specific offense, murder defendants typically waited the longest 
+to be released, and those charged with fraud had the shortest wait. 
+Thirteen percent of released murder defendants were released within 
+1 day of arrest, compared to 75% of those charged with fraud. After 
+1 month, 47% of murder defendant releases had occurred, compared to 
+nearly all of the releases of other defendants.
+
+When differences among offense types are held constant, defendants 
+released under financial terms generally took longer to secure their 
+release than those who were released under nonfinancial conditions.
+Among defendants who were released under financial conditions, the 
+amount of time from arrest to pretrial release tended to increase 
+as the bail amount did.
+
+Criminal history and probability 
+of release
+
+Court decisions about bail and pretrial release are primarily 
+based on the judgment of whether a defendant will appear in 
+court as scheduled and whether there is potential danger to 
+the community from crimes that a defendant may commit if 
+released. Many States have established specific criteria to 
+be considered by the courts when setting release conditions.  
+
+The SCPS data illustrate how release rates vary with some of 
+these factors. For example, 70% of the defendants without an 
+active criminal justice status when arrested for the current 
+offense were released prior to case disposition, compared to 
+46% of those with such a status. Defendants on parole (23%) 
+or probation (41%)at the time of arrest were the least likely 
+to be released.  This compared with 60% of those released
+pending disposition of a prior case.
+
+Seventy-nine percent of the defendants with no prior arrests 
+were released, compared to 56% of those who had been previously 
+arrested. Among defendants with an arrest record, those who 
+had never missed a court appearance (60%) had a higher 
+probability of being released than those who had failed to 
+appear at least once during a previous case (50%). 
+
+About three-fourths of defendants without a prior conviction 
+(77%)were released prior to disposition of the current case, 
+compared to about half of those with a conviction record(51%).  
+Among defendants with a conviction record, release rates ranged 
+from 63% for those with a single prior conviction to 42% for 
+those with five or more.
+
+Less than half of the defendants with one or more prior felony 
+convictions (45%) were released prior to disposition of the 
+current case, compared to about two-thirds of those whose prior 
+convictions involved only misdemeanors (65%).  Those with a 
+prior conviction for a violent felony (42%) had a slightly lower 
+release rate than those whose most serious prior conviction was 
+for a nonviolent felony (46%).
+
+Conduct of released defendants
+
+Among defendants who were released prior to case disposition, 
+32% committed some type of misconduct while in a release status. 
+This may have been in the form of a failure to appear in court, 
+an arrest for a new offense, or some other violation of release 
+conditions that resulted in the revocation of that release by 
+the court. 
+
+By original offense category, the proportion of defendants charged 
+with pretrial misconduct was highest for drug defendants (38%) and 
+lowest for those released after being charged with a violent 
+offense (24%). Thirty percent of defendants charged with a property 
+or public-order offense committed some type of pretrial misconduct.  
+
+By specific arrest offense, rates of pretrial misconduct were 
+lowest  among defendants released after being charged with 
+murder (12%), rape (12%), or fraud (18%).
+
+Failure to appear in court
+
+Seventy-eight percent of the defendants who were released prior 
+to case disposition made all scheduled court appearances. Bench 
+warrants for failing to appear in court were issued for the 
+remaining 22%.  
+                  
+Released drug defendants (27%)had the highest failure-to-appear
+rate followed by property (21%)and public-order (20%)defendants. 
+Thirteen percent of defendants charged with a violent offense 
+failed to appear in court as scheduled, ranging from 17% of 
+robbery defendants to less than 10% of murder (6%)and rape (8%) 
+defendants.
+                                          
+Nearly a fourth of the defendants who failed to appear in court, 
+6% of all defendants, were still fugitives at the end of the 1-
+year study period. The remainder were returned to the court 
+(either voluntarily or not) before the end of the study.
+                                          
+Defendants released after being charged with a drug offense (7%) 
+were more likely to be a fugitive after 1 year than defendants 
+released after being charged with a violent (4%)or public-order 
+(4%) offense. Six percent of released murder defendants were in 
+a fugitive status at the end of the 1-year study period.
+                                          
+Rearrest for a new offense
+                                          
+Overall, 16% of released defendants were rearrested for a new 
+offense allegedly committed while they awaited disposition of 
+their original case. About three-fifths of these defendants, 
+10% of all released defendants, were charged with a new felony.  
+By specific original arrest charge, released drug trafficking 
+(21%) and robbery (21%) defendants had the highest pretrial 
+rearrest rate.  Defendants originally charged with rape (4%), 
+murder (6%), or fraud (6%) had the lowest.  
+                                          
+About 1 in 7 defendants released after originally being
+charged with drug trafficking (15%) or robbery (14%)were 
+rearrested for a new felony while in a release status.
+                                          
+Adjudication
+
+Time from arrest to adjudication
+
+For 50% of felony defendants in the 75 largest counties, 
+adjudication of their case occurred within 3 months of arrest, 
+and 70% of cases were adjudicated within 6 months of arrest. 
+By the end of the 1-year study period, 86% of all cases had 
+been adjudicated.
+
+While the overall median time from arrest to adjudication was 
+92 days, it was about twice this long for rape defendants (187 
+days), and was more than a year for murder defendants. Defendants 
+charged with motor vehicle theft had the shortest median time
+from arrest to adjudication (48 days).
+
+At the end of the 1-year study period, 50% of murder defendants 
+were awaiting adjudication of their case, compared to 25% of rape 
+defendants, and no more than 18% of the defendants in any other 
+offense category.  
+
+For each offense other than murder (for which medians could not 
+be calculated), the median time from arrest to adjudication was 
+shorter for detained defendants than for those released pending 
+case disposition.  
+
+For most charged offenses, the median time from arrest to 
+adjudication was about 2 months longer for defendants released 
+after being charged than for those detained. The difference was 
+about 11/2 months for weapons defendants, and about 1 month for
+robbery defendants.  Overall, the median time from arrest to 
+adjudication was 105 days for released defendants compared to 40 
+days for those detained.
+
+Excluding murder, the longest median time from arrest to 
+adjudication among released defendants was for those charged 
+with rape (155 days), followed by those charged with assault 
+(123 days), robbery (120 days), or a driving-related offense 
+(120 days).  Detained defendants charged with motor vehicle 
+theft (28 days) had the shortest adjudication time.
+ 
+Adjudication outcome
+
+Sixty-four percent of the defendants whose cases were adjudicated 
+within 1 year of arrest were convicted.  A majority of these 
+convictions were for a felony, with 52% of defendants eventually 
+convicted of a felony.
+
+Defendants originally charged with a violent offense (56%) were 
+less likely to eventually be convicted of a felony or a misdemeanor, 
+than those originally charged with a drug (65%), property (66%), or
+public-order (72%) offense. By specific type of arrest offense, the 
+proportion of defendants convicted ranged from 86% of those charged 
+with a driving-related felony to 52% of those charged with
+fraud or assault. 
+ 
+The probability of being convicted of a felony was highest for 
+defendants whose most serious arrest charge was a driving-related 
+offense (70%), drug trafficking (67%), or murder (64%). A majority 
+of defendants charged with burglary (59%), a weapons offense (56%), 
+motor vehicle theft (56%), or forgery (53%) were also convicted of 
+a felony. The lowest felony conviction rates were for fraud (33%) 
+and assault (35%)defendants.
+
+In most cases where the defendant was not convicted, it was because 
+the charges against the defendant were dismissed. An estimated 26% 
+of all cases ended in this way. Defendants charged with assault 
+(40%) were the most likely to have their case dismissed, and those 
+charged with a driving-related offense (10%) the least likely.  
+
+About 9% of cases had other outcomes such as diversion or deferred
+adjudication. Defendants charged with fraud (30%) were the most 
+likely to have had their case handled in this manner.  
+
+Seventy-seven percent of the defendants who were detained until 
+case disposition were eventually convicted of some offense, 
+compared to 55% of those released pending disposition. 
+Approximately two-thirds of detained defendants (68%) were 
+convicted of a felony, compared to about two-fifths of released 
+defendants (42%).
+
+Adjudication outcome was related to some extent to the number and 
+type of the original arrest charges filed. Seventy-two percent 
+of defendants who were originally charged with more than 1 felony 
+were eventually convicted of some offense, compared to 59% of the 
+defendants who had no additional felony charges.
+
+Sixty-three percent of defendants whose original arrest charges 
+included more than one felony were eventually convicted of a 
+felony compared to 45% of those with no additional felony 
+charges. Among the defendants who had no additional felony 
+charges, those who were charged with one or more misdemeanors 
+(41%), were less likely to be convicted of a felony than those 
+who had no additional charges of any type (46%).
+
+Defendants with only one felony charge, but one or more additional 
+misdemeanor charges, were more likely than other defendants to 
+eventually be convicted of a misdemeanor (21%). This almost
+always was the result of their pleading guilty to a misdemeanor 
+charge instead of the original felony charge.
+
+Overall, about three-fifths of defendants entered a guilty plea 
+at some point, with 49% pleading guilty to a felony, and 12% to 
+a misdemeanor.
+
+Defendants charged with a driving-related offense had the highest 
+overall plea rate (84%) and the highest felony plea rate (68%). 
+A majority of the defendants in each offense category except 
+murder (33%) and assault (48%) eventually pleaded guilty to
+either a felony or a misdemeanor. 
+
+A majority of the defendants charged with drug trafficking (63%), 
+burglary (56%), motor vehicle theft (55%), a weapons offense(53%), 
+or forgery (52%)pleaded guilty to a felony. Murder (31%) and 
+assault (32%) defendants had the lowest felony plea rates.
+
+An estimated 4% of the cases adjudicated within 1 year went to 
+trial. Fifty-seven percent of these trials were bench trials, 
+decided by a judge, and 43% were jury trials. An estimated 78% 
+of all trials ended with a guilty verdict, and 22% with an 
+acquittal.  Bench trials (81%) were more likely to result in a 
+conviction than jury trials (74%). Sixty-nine percent of both 
+bench and jury trials resulted in a felony conviction.     
+Thirty-four percent of defendants facing murder charges went to 
+trial, compared to no more than 10% of defendants charged with 
+other offenses.  
+
+Regardless of adjudication method, a majority of convicted 
+defendants were convicted of the same felony offense as the 
+original arrest charge. Among defendants arrested for murder 
+and later convicted, 84% were convicted of murder. The 
+corresponding percentages for other violent offenses were as
+follows: robbery (66%), assault (59%), and rape (56%).
+
+Among defendants originally charged with a property offense 
+and later convicted, the percentages whose conviction offense 
+corresponded with their most serious arrest charge were as 
+follows: forgery (70%), motor vehicle theft (69%), larceny/
+theft (66%), burglary (63%), and fraud (54%).
+
+The conviction offense corresponded with the most serious arrest 
+charge for 79% of defendants convicted after being charged with 
+a driving-related offense, and for 76% of drug trafficking and 
+weapons defendants.   
+
+For most offenses a smaller percentage of defendants were in each 
+felony conviction category than were in the original distribution 
+by arrest charge.  The biggest drop was in the violent felony 
+category, which accounted for about 25% of all defendants by arrest 
+charge, but just 14% of them by conviction charge.  
+
+Much of this change can be accounted for by the fact that about 
+12% of all defendants were originally facing felony assault charges, 
+but just 6% of all convictions were for such an offense. Overall, 
+19% of convicted defendants were convicted at the
+misdemeanor level.  
+
+A majority of the defendants whose most serious arrest charge was 
+for drug trafficking (56%), murder (55%), a weapons offense (53%), 
+or a driving-related offense (68%)were eventually convicted of 
+that same offense. This was true for slightly less than half of 
+the defendants originally charged with forgery (48%), motor 
+vehicle theft (45%), burglary (45%), or larceny/theft (44%). 
+Thirty percent of defendants originally facing felony assault 
+charges were eventually convicted of such an offense.   
+
+Case processing statistics
+
+Among the approximately 47,000 cases with a known adjudication 
+outcome that occurred within 1 year of arrest, about 29,000 were 
+disposed by a guilty plea.  Based on the 94% of cases for which 
+the adjudication date was known, about a fourth of pleas occurred
+within 1 month of arrest and about three-fifths within 3 months 
+of arrest.  
+
+The next most common type of adjudication, dismissal of the 
+charges against the defendant, occurred in about 12,500 cases. 
+About two-fifths (39%) of all dismissals occurred within the 
+first month after arrest and 66% within 3 months.  
+
+Trials occurred in about 1,800 cases. About 3% of trials were 
+completed within a month of arrest and about 1 in 7 within 3 
+months of arrest.  
+
+Guilty pleas accounted for 95% of the estimated 30,138 convictions 
+obtained within 1 year of arrest. This included about 23,200 felony 
+pleas and about 5,600 misdemeanor pleas.  Twenty-six percent of the
+felony pleas occurred within 1 month of arrest, and 57% were obtained 
+within 3 months of arrest. Thirty percent of the misdemeanor pleas 
+were obtained within 1 month of arrest, and 61% within 3 months. 
+ 
+Of the approximately 1,400 trial convictions obtained within 1 year, 
+nearly all were for a felony, with an estimated 155 trials resulting 
+in a misdemeanor conviction. About a sixth of all trial convictions
+occurred within 3 months of arrest, and slightly less than half 
+within 6 months of arrest.
+
+Sentencing
+
+Time from conviction to sentencing
+
+About 2 in 3 convicted defendants were sentenced within 1 day 
+of adjudication. Defendants convicted of a misdemeanor (83%) 
+were more likely to be sentenced this quickly than those 
+convicted of a felony (64%). 
+
+Sentencing after a felony conviction was most likely to occur 
+within 1 day if the conviction was for a drug (67%), property 
+(65%), or public-order (63%) offense.  Fifty-five percent of 
+defendants convicted of a violent offense were sentenced this 
+quickly.  
+
+Within the violent offense category, the proportion of convicted 
+defendants sentenced within 1 day ranged from less than half of 
+those convicted of rape (42%)or murder (46%)to about three-fifths
+of those convicted of robbery (61%). A majority of the defendants 
+in all other offense categories were sentenced within a day of 
+conviction. 
+
+Seventy-nine percent of defendants convicted of a felony received 
+their sentence within 30 days, compared to 88% of those convicted 
+of a misdemeanor.  Ninety-one percent of defendants convicted of a 
+felony and 95% of those convicted of a misdemeanor were sentenced 
+within 60 days. 
+
+Type and length of sentence
+
+Sixty-nine percent of convicted defendants were sentenced to 
+incarceration in a State prison or local jail.  Seventy-three 
+percent of defendants convicted of a felony were sentenced to 
+incarceration, compared to 53% of those convicted of a
+misdemeanor. A majority of incarceration sentences following a
+felony conviction, 40% of felony sentences overall, were to 
+State prison.  
+
+Nearly all convictions for murder (96%) resulted in a prison 
+sentence, as did a majority of robbery (73%), and rape (56%) 
+convictions. About half of defendants convicted of motor 
+vehicle theft(51%) or burglary (49%) were sentenced to prison.  
+
+Although less than half of defendants convicted of a weapons 
+offense (44%), drug trafficking (42%), or a driving-related offense 
+(40%) were sentenced to prison, a prison term was still more likely 
+for these felonies than jail, probation, or a fine.     
+
+Nearly all incarceration sentences for misdemeanor convictions, 
+53% of all misdemeanor sentences, were to jail.  
+
+Among defendants who were convicted but not sentenced to 
+incarceration, 99% of those convicted of a felony and 88% of 
+those convicted of a misdemeanor received a probation term. 
+Probation sentences may have included a fine, restitution, 
+community service, treatment, or other conditions.
+
+Overall, 30% of convicted defendants received a sentence to probation 
+without any incarceration. This included 27% of those convicted of a 
+felony and 41% of those convicted of a misdemeanor. Defendants
+convicted of forgery (40%) or fraud (35%) were the most likely to be 
+sentenced to probation.   
+
+Overall, 1% of convicted defendants were fined but were not sentenced 
+to a term of incarceration or probation.  This included 6% of those 
+convicted of a misdemeanor. Fines may have been in addition to other
+court-ordered conditions. 
+
+Among persons arrested and charged with a felony by the prosecutor, 
+murder defendants had the highest probability of eventually being 
+convicted and sentenced to prison (54%).  The next highest
+probability of an eventual prison sentence was for defendants 
+charged with robbery (32%).  Twenty-seven percent of defendants 
+originally charged with burglary, motor vehicle theft, drug
+trafficking, or a driving-related offense were eventually convicted 
+and sentenced to prison. Defendants originally charged with fraud 
+(8%) were the least likely to eventually be sentenced to prison.  
+
+Defendants originally charged with a driving-related offense (35%) 
+were the most likely to be eventually convicted and receive a jail 
+sentence.    
+
+A majority of defendants originally charged with a driving-related 
+offense (62%), murder (57%), burglary (54%), or motor vehicle theft 
+(53%) were eventually convicted and sentenced to either prison or 
+jail. This was the case for half of drug trafficking defendants.
+
+Defendants originally charged with assault (34%) or forgery (36%) 
+were the least likely to eventually be convicted and sentenced to
+incarceration.  
+
+Among defendants convicted of a felony and sentenced to prison, 
+the mean sentence was 55 months and the median was 32 months. By 
+general conviction offense category, defendants convicted of a 
+violent felony received the longest prison sentences (a mean of 99 
+months and a median of 60 months), and those convicted of a public-
+order felony the shortest (a mean of 39 months and a median of 24
+months).  
+
+By specific conviction offense, murderers received the longest 
+prison terms, a mean of 282 months and a median of 180 months. 
+Next were defendants convicted of rape with a mean prison 
+sentence of 146 months, and a median of 84 months.  
+
+Median prison sentences for other felony convictions included 60 
+months for robbery, 48 months for assault, and 36 months for 
+burglary, drug trafficking, or weapons offenses.
+
+Thirty-two percent of all murder convictions resulted in a life 
+sentence, compared to 4% of rape defendants and a maximum of 2% 
+of the defendants convicted of any other offense.
+ 
+In addition to those receiving life sentences,35% of the defendants 
+convicted of murder were sentenced to more than 10 years in prison. 
+Defendants convicted of rape (28%) or robbery (21%) were the next 
+most likely to receive a prison term this long.
+
+For defendants convicted of a felony and subsequently sentenced to 
+jail, the mean jail term was 7 months and the median was 6 months. 
+Misdemeanor convictions resulted in a mean jail term of 5 months 
+and a median of 3 months.    
+
+Excluding murder and rape (for which few cases resulted in a jail 
+sentence), defendants sentenced to jail for robbery received the 
+longest average sentence (a mean of 10 months and a median of 12
+months).
+
+About three-fifths of all jail sentences were for a period of 
+greater than 3 months. About 4 in 5 jail sentences following 
+convictions for violent felonies were for more than 3 months 
+compared to about 2 in 3 sentences for other types of felonies.  
+
+About 2 in 5 jail sentences following misdemeanor convictions 
+were for more than 3 months.
+
+For defendants sentenced to probation without incarceration for a 
+felony, the median sentence length was 36 months, compared to 24 
+months for a misdemeanor. Three percent of defendants convicted
+of a felony were given a probation term of greater than 5 years, 
+including 8% of those sentenced for a violent felony.
+
+Some probation sentences were supplemented by one or more special
+court-ordered conditions. For example,18% of the defendants who 
+received a probation sentence were required to perform a
+specified number of hours of community service work.
+
+Fourteen percent of offenders sentenced to probation were required 
+to pay restitution, including 33% of those convicted for a property-
+related felony. Twelve percent of probation sentences included a
+requirement that the defendant enter a treatment program.
+
+Prior record and felony sentencing
+
+For defendants convicted of a felony on their current charge, the 
+probability of receiving a sentence to incarceration was highest 
+if they had multiple prior felony convictions (86%). Seventy-nine 
+percent of defendants with just one prior felony conviction, and
+68% of those with only prior misdemeanor convictions were also 
+sentenced to incarceration following a felony conviction in the 
+current case. Defendants with no prior convictions of any type
+(58%) were the least likely to receive a sentence to
+incarceration for a felony conviction.  
+
+Defendants with no prior convictions and whose current conviction 
+was for a property or drug offense were the least likely of all 
+defendants convicted of a felony to be sentenced to incarceration 
+(53%).
+
+Sixty-two percent of the defendants with more than one prior felony 
+conviction were sentenced to prison for a new felony conviction. 
+This included 75% of those whose current conviction was for a 
+violent offense.  
+
+Forty-six percent of the defendants with a single prior felony 
+conviction were sentenced to prison following a felony conviction 
+in the current case, including a majority of those convicted of 
+a violent (55%) or public-order (53%) felony. 
+
+Overall, about a fourth of defendants without a prior felony 
+conviction received a prison sentence for a felony conviction in 
+the current case.  However, about two-fifths of such defendants 
+received a prison sentence when the current conviction was for a
+violent felony.  
+
+Defendants with a prior conviction record consisting solely of 
+misdemeanors were more likely than other defendants to receive 
+a jail sentence (44%). 
+
+Defendants with no prior convictions of any kind whose current 
+conviction was for a property (47%) or drug (46%) offense were 
+the most likely to receive a probation sentence.  
+
+Defendants convicted of a violent felony were much more likely to 
+be sentenced to prison than jail or probation if they had at least 
+one prior felony conviction. Incarceration was also likely for 
+those without prior felony convictions, with jail and prison
+having similar probabilities.    
+
+Among defendants convicted of a nonviolent felony, a prison sentence 
+was only slightly more likely than a jail sentence for those with 
+one prior felony conviction, but much more likely if they had 
+multiple prior felony convictions. For those with a prior
+conviction record that consisted of only misdemeanors, jail was the 
+most probable sentence. Probation was the most likely sentence if 
+they had no conviction record at all. 
+
+Methodology
+
+The SCPS sample was designed and selected by U.S. Census Bureau 
+staff. It is a 2-stage stratified sample, with 40 of the 75 
+most populous counties selected at stage one and a systematic 
+sample of State court felony filings (defendants) within each
+county selected at stage two. The 40 counties were divided into 
+4 first-stage strata based on court filing information. Ten 
+counties were included in the sample with certainty because of 
+their large number of court filings. The remaining counties were
+allocated to the three noncertainty strata based on the variance 
+of felony court dispositions. 
+
+The second-stage sampling (filings) was designed to represent all 
+defendants who had felony cases filed with the court during the 
+month of May 2000. The participating jurisdictions provided data 
+for every felony case filed on selected days during that month.
+Depending on the first-stage stratum in which it had been placed, 
+each jurisdiction provided filings data for 5,10, or 20 randomly 
+selected business in May 2000. Data from jurisdictions that were 
+not required to provide a full month of filings were weighted to
+represent the full month.
+
+The 2000 SCPS collected data for 14,877 felony cases filed during 
+May 2000 in 40 large counties. These cases, which were tracked for 
+up to 1 year, were part of a sample that was representative of the
+estimated 54,590 felony cases filed in the Nation's 75 most populous 
+counties during that month. A small number of cases (162 weighted) 
+were omitted from analysis as they could not be classified into one 
+of the four major crime categories (violent, property, drug, public 
+order).
+
+This report is based on data collected from the following counties:  
+Alabama (Jefferson); Arizona (Maricopa, Pima); California (Alameda, 
+Contra Costa, Los Angeles, Orange, Riverside, San Bernardino,
+San Diego, San Mateo, Santa Clara); Connecticut (New Haven); Florida 
+(Broward, Miami-Dade, Palm Beach, Pinellas); Georgia (Fulton); 
+Hawaii (Honolulu); Illinois (Cook); Indiana (Marion); Maryland
+(Baltimore, Montgomery); Michigan (Macomb, Wayne); New Jersey 
+(Essex); New York (Bronx, Kings, Nassau, Westchester); Ohio 
+(Franklin); Pennsylvania (Philadelphia); Tennessee (Shelby); Texas 
+(Dallas, El Paso, Harris, Tarrant, Travis); Utah (Salt Lake City);
+Virginia (Fairfax).
+
+Because the data came from a sample, a sampling error is associated 
+with each reported number. In general, if the difference between two 
+numbers is greater than twice the standard error for that difference, 
+we can say that we are 95% confident of a real difference and that 
+the apparent difference is not simply the result of using a sample 
+rather than the entire population. 
+
+Offense categories Felony offenses were classified into 18 categories 
+for this report. These were further classified into the four major 
+crime categories of violent, property, drug, and public-order. 
+The following listings are a representative summary of the crimes 
+in each category; however, these lists are not meant to be 
+exhaustive. All offenses, except for murder, include attempts and 
+conspiracies to commit. 
+
+Violent offenses
+
+Murder -- Includes homicide, nonnegligent manslaughter, and voluntary
+homicide. Excludes attempted murder (classified as felony assault),
+negligent homicide, involuntary homicide, or vehicular manslaughter, 
+which are classified as other violent offenses.
+
+Rape -- Includes forcible intercourse, sodomy, or penetration with a 
+foreign object. Does not include statutory rape or nonforcible acts 
+with a minor or someone unable to give legal consent, nonviolent
+sexual offenses, or commercialized sex offenses.
+
+Robbery -- Includes unlawful taking of anything of value by force or 
+threat of force. Includes armed, unarmed, and aggravated robbery, car-
+jacking, armed burglary, and armed mugging.
+
+Assault -- Includes aggravated assault, aggravated battery, attempted 
+murder, assault with a deadly weapon, felony assault or battery on a 
+law enforcement officer, and other felony assaults. Does not include
+extortion, coercion, or intimidation.
+
+Other violent offenses -- Includes vehicular manslaughter, involuntary
+manslaughter, negligent or reckless homicide, nonviolent or non-forcible
+sexual assault, kidnapping, unlawful imprisonment, child or spouse 
+abuse, cruelty to a child, reckless endangerment, hit-and-run with 
+bodily injury, intimidation, and extortion. 
+
+Property offenses
+
+Burglary -- Includes any type of entry into a residence, industry, 
+or business with or without the use of force with the intent to 
+commit a felony or theft. Does not include possession of burglary 
+tools, trespassing, or unlawful entry for which the intent is not 
+known.
+
+Larceny/theft -- Includes grand theft, grand larceny, and any other 
+felony theft, including burglary from an automobile, theft of rental 
+property, and mail theft. Does not include motor vehicle theft, 
+receiving or buying stolen property, fraud, forgery, or deceit.
+
+Motor vehicle theft -- Includes auto theft, conversion of an automobile,
+receiving and transferring an automobile, unauthorized use of a vehicle,
+possession of a stolen vehicle, larceny or taking of an automobile. 
+
+Forgery -- Includes forging of a driver's license, official seals, 
+notes, money orders, credit or access cards or names of such cards 
+or any other documents with fraudulent intent, uttering a forged
+instrument, counterfeiting, forgery.
+
+Fraud -- Includes possession and passing of worthless checks or 
+money orders, possession of false documents or identification, 
+embezzlement, obtaining money by false pretenses, credit card
+fraud, welfare fraud, Medicare fraud, insurance claim fraud, 
+fraud, swindling, stealing a thing of value by deceit, larceny 
+by check.
+
+Other property offenses -- Includes receiving or buying stolen 
+property, arson, reckless burning, damage to property, criminal 
+mischief, vandalism, criminal trespassing, possession of burglary 
+tools, and unlawful entry for which the interest is unknown.  
+
+Drug offenses
+
+Drug trafficking -- Includes trafficking, sales, distribution, 
+possession with intent to distribute or sell, manufacturing, and 
+smuggling of controlled substances. Does not include possession 
+of controlled substances.
+
+Other drug offenses -- Includes possession of controlled substances,
+prescription violations, possession of drug paraphernalia, and other 
+drug law violations.
+
+Public-order offenses
+
+Weapons -- Includes the unlawful sale, distribution, manufacture, 
+alteration, transportation, possession, or use of a deadly weapon 
+or accessory.
+
+Driving-related -- Includes driving under the influence of drugs or 
+alcohol, driving with a suspended or revoked license, and any other 
+felony in the motor vehicle code.
+
+Other public-order offenses -- Includes flight/escape, parole or 
+probation violations, prison contraband, habitual offender, 
+obstruction of justice, rioting, libel, slander, treason, perjury,
+prostitution, pandering, bribery, and tax law violations.  
+
+Terms related to pretrial release
+
+Released defendant -- Includes any defendant who was released from 
+custody prior to the disposition of his or her case by the court. 
+Includes defendants who were detained for some period of time before 
+being released and defendants who were returned to custody after 
+being released because of a violation of the conditions of pretrial 
+release. The terms "on pretrial release" and "released pending 
+disposition" are both used in this report to refer to all released
+defendants.
+
+Detained defendant -- Includes any defendant who remained in custody 
+from the time of arrest until the disposition of his or her case by 
+the court.  This report also refers to detained defendants as "not 
+released."
+
+Failure to appear -- Occurs when a court issues a bench warrant 
+for a defendant's arrest because he or she missed a scheduled 
+court appearance. 
+ 
+Types of financial release
+
+Surety bond -- A bail bond company signs a promissory note to the 
+court for the full bail amount and charges the defendant a fee for 
+the service (usually 10% of the full bail amount). If the defendant
+fails to appear, the bond company is liable to the court for the 
+full bail amount. Frequently the bond company requires collateral 
+from the defendant in addition to the fee.
+
+Deposit bond -- The defendant deposits a percentage (usually 10%) 
+of the full bail amount with the court. The percentage of the bail 
+is returned after the disposition of the case, but the court often 
+retains a small portion for administrative costs. If the defendant 
+fails to appear in court, he or she is liable to the court for the 
+full bail amount.
+
+Full cash bond -- The defendant posts the full bail amount in cash 
+with the court. If the defendant makes all court appearances, the 
+cash is returned. If the defendant fails to appear in court, the 
+bond is forfeited.
+
+Property bond -- Involves an agreement made by a defendant as a 
+condition of pretrial release requiring that property valued at the 
+full bail amount be posted as an assurance of his or her appearance 
+in court. If the defendant fails to appear in court, the property is
+forfeited. Also known as "collateral bond." 
+
+Types of nonfinancial release 
+
+Release on recognizance (ROR) -- The court releases the defendant 
+on a signed agreement that he or she will appear in court as 
+required. In this report, the ROR category includes citation releases 
+in which arrestees are released pending their first court appearance 
+on a written order issued by law enforcement or jail personnel. 
+
+Unsecured bond -- The defendant pays no money to the court but is 
+liable for the full amount of bail should he or she fail to appear 
+in court.
+
+Conditional release -- Defendants are released under specified 
+conditions. Monitoring or supervision, if required, is usually
+done by a pretrial services agency. In some cases, such as those
+involving a third-party custodian or drug monitoring and treatment, 
+another agency may be involved in the supervision of the defendant.  
+Conditional release sometimes includes an unsecured bond.
+
+Other type of release
+                                          
+Emergency release -- Defendants are released in response to a court 
+order placing limits on a jail's population.
+                                          
+                                          
+End of file
+12/09/03 ih 

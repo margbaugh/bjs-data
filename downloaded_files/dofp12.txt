@@ -1,0 +1,476 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+********************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5436
+*********************************************************
+
+Special Report
+
+Drug Offenders in Federal Prison: Estimates of Characteristics 
+Based on Linked Data
+
+Sam Taxy, Julie Samuels, and William Adams, Urban Institute
+
+Publicly available BOP datasets do not include information about 
+prisoners’ criminal history, offense details, and sentencing 
+decisions, making it difficult to assess the criminal background 
+of the offenders and the nature of their offenses. This report 
+uses a new dataset that links the BOP population at fiscal 
+yearend 2012 (i.e., stock population), with sentencing 
+information from the U.S. Sentencing Commission (USSC) to 
+describe the federal prison population in greater detail. The 
+dataset includes the 94,678 sentenced offenders in federal prison 
+whose most serious offense was drug-related, who were serving 
+time on a new U.S. district court commitment, and who had valid 
+links to USSC data. Of these, almost all were drug trafficking 
+offenders, while the remainder were sentenced for other drug 
+offenses, primarily possession. 
+
+The 94,678 drug offenders drug offenders included in the dataset 
+are referred to as drug offenders throughout this report. The 
+Methodology and the Dataset composition and definition of drug 
+offender textbox provide more information about the linking 
+methodology, file composition, exclusionary criteria, and link 
+rates. The counts and percentages based on the BOP variables 
+presented in this report may differ slightly from other published 
+Bureau of Justice Statistics (BJS) or BOP reports because only an 
+analysis of linked observations is reported here. 
+
+This report examines drug offenders in terms of their 
+demographics, basic offense characteristics, and sentence 
+imposed. Although the USSC dataset contains information related 
+to both offense characteristics (e.g., quantity of drugs) and the 
+justice system response (e.g., whether an offender was convicted 
+of an offense carrying a mandatory minimum penalty and whether 
+that penalty was applied at sentencing), the focus here is on the 
+offenders and basic offense characteristics. The data were 
+disaggregated by the primary type of drug involved (drug type is 
+a variable only available in the USSC datasets). Other BOP and 
+USSC variables of interest—demographics, criminal history, weapon 
+involvement in the instant offense (the most recent offense for 
+which the individual was sentenced and incarcerated), and 
+sentence length—were analyzed by drug type.
+
+*************************************************
+************
+HIGHLIGHTS
+************
+
+* This study is based on 94,678 offenders in federal prison at 
+fiscal yearend 2012 who were sentenced on a new U.S. district 
+court commitment and whose most serious offense (as classified by 
+the Federal Bureau of Prisons) was a drug offense.
+
+* Almost all (99.5%) drug offenders in federal prison were 
+serving sentences for drug trafficking.
+
+* Cocaine (powder or crack) was the primary drug type for more 
+than half (54%) of drug offenders in federal prison. 
+
+* Race of drug offenders varied greatly by drug type. Blacks were 
+88% of crack cocaine offenders, Hispanics or Latinos were 54% of 
+powder cocaine offenders, and whites were 48% of methamphetamine 
+offenders.
+
+* More than a third (35%) of drug offenders in federal prison at 
+sentencing, had either no or minimal criminal history— lowest 
+criminal history category. 
+
+* Nearly a quarter (24%) of drug offenders in federal prison used 
+a weapon in their most recent offense.
+
+* The average prison sentence for federal drug offenders was more 
+than 11 years. 
+
+* Across all drug types, crack cocaine offenders were most likely 
+to have extensive criminal histories (40%), used a weapon (32%), 
+and received longer prison terms (170 months).
+*************************************************
+
+The number of federally sentenced prisoners in the Federal Bureau 
+of Prisons (BOP) increased 84% between fiscal year (FY) 1998 and 
+2012, and the number of drug offenders in federal prison grew 63% 
+during this time*** Footnote 1 See Federal Criminal Case 
+Processing Statistics on the BJS website at www.bjs.gov/fjsrc 
+***. At fiscal yearend 2012, offenders whose most serious offense 
+(as defined by the BOP) was a drug offense accounted for about 
+half (52%) of the federally sentenced prison population (table 
+1). Previous analyses focusing on the growth of the prison 
+population from FY 1998 to FY 2010 have shown that 42% of the 
+growth in the federally sentenced population was due to an 
+increase in the number of drug offenders, and the largest 
+contributor to that growth was length of time served for drug 
+offenses*** Footnote 2 Mallik-Kane, K., Parthasarathy, B., & 
+Adams, W. (2012). Examining growth in the federal prison 
+population, 1998–2010 (NCJ 239785). Washington, DC: Urban 
+Institute***. Because drug offenders comprise about half of 
+federal prison population and sentence length for this 
+subpopulation is the greatest source of federal prison population 
+growth, this report examines these offenders in greater detail.
+
+***********************************
+Powder and crack cocaine offenders 
+made up more than half of all BOP 
+drug offenders
+***********************************
+
+More than half (54%) of drug offenders in the federal prison 
+system had a form of cocaine (powder or crack) as the primary 
+drug type (table 2). Methamphetamine offenders (24%) accounted 
+for the next largest share, followed by marijuana (12%) and 
+heroin (6%) offenders. Offenders convicted of crimes involving 
+other drugs (including LSD, some prescription drugs, and MDMA or 
+ecstasy) made up 3% of offenders.
+
+***********************************
+Three-quarters of BOP drug offenders 
+were black or Hispanic
+***********************************
+
+About three-quarters of drug offenders in federal prison were 
+either non-Hispanic black or African American (39%) or Hispanic 
+or Latino (37%); nearly a quarter (22%) were non-Hispanic white 
+offenders (table 3). In addition, drug offenders in federal 
+prison were overwhelmingly male (92%), about a quarter (24%) were 
+noncitizens, and nearly 80% were age 30 or older.
+
+***********************************
+Race and citizenship varied greatly 
+by drug type
+***********************************
+
+The vast majority of crack cocaine offenders (88%) were non-
+Hispanic black or African American. By comparison, more than half 
+(54%) of powder cocaine offenders were Hispanic or Latino and 13% 
+were non-Hispanic white. In addition, more than half (59%) of 
+marijuana offenders and almost half (48%) of heroin offenders 
+were Hispanic or Latino. A large proportion of methamphetamine 
+offenders were non-Hispanic white (48%) or Hispanic or Latino 
+(45%).
+
+Although most drug offenders were U.S. citizens, citizenship 
+status varied across drug type subgroups. Almost all crack 
+cocaine (97%) and other drug (89%) offenders were U.S. citizens. 
+Aside from those, citizenship rates ranged from 71% for heroin 
+offenders to 65% for marijuana offenders. 
+
+Age and sex varied more subtly across drug types. The percentage 
+of male drug offenders by type of drug ranged from 88% of 
+methamphetamine to 96% of crack cocaine offenders. The percentage 
+of persons age 30 or older ranged from 73% of other drug to 82% 
+of powder cocaine offenders.
+
+***********************************
+More than a third of federal drug 
+offenders had the lowest level of 
+criminal history at sentencing
+***********************************
+
+More than a third (35%) of federal drug offenders were in the 
+lowest USSC criminal history category, Category I, which includes 
+offenders with no previous term of imprisonment and others with 
+minimal criminal histories. This was the most frequently applied 
+category (table 4). Almost 8 in 10 (79%) federal drug offenders 
+in Category I had no points assigned at sentencing, meaning they 
+had no relevant criminal history as used to compute 
+categorization. This accounted for more than 25% of all drug 
+offenders in the BOP. In comparison, more than 22% of federal 
+drug offenders were in the highest criminal history category 
+(Category VI), which indicates the most extensive criminal 
+histories.
+
+*************************************************
+***************************************
+USSC Criminal History Categorization
+***************************************
+
+The U.S. Sentencing Commission (USSC) aggregates available 
+criminal history information into broader criminal history 
+categories to be used at sentencing. This information includes 
+whether the offender has been previously sentenced to a term of 
+imprisonment, the length of each previous sentence imposed, 
+whether the most recent offense was committed soon after a 
+release from incarceration, whether the most recent offense was 
+committed while under criminal justice supervision (e.g., 
+probation), and whether there were any crimes of violence that 
+were not previously captured in any of the previous other 
+categories. 
+*************************************************
+
+Criminal history points are assigned in differing levels for each 
+of these categories, and the points are collapsed into six levels 
+of criminal history—zero points indicates that there is no 
+history in any of the above domains, and higher point totals 
+reflect more extensive criminal histories. Criminal history 
+category may also be adjusted based on other aggravating 
+circumstances, such as being a career offender or a repeat and 
+dangerous sex offender against minors. Judges may depart upward 
+or downward regarding the criminal history category if the final 
+category substantially misrepresents the seriousness of the 
+offender’s criminal history.*** Footnote 3 For more information, 
+see Office of the General Counsel, U.S. Sentencing Commission, 
+Criminal History Primer, Washington, DC: U.S. Sentencing 
+Commission. 2014***.
+
+*************************************
+Crack cocaine offenders had the most 
+extensive criminal histories
+***********************************
+
+The extent of criminal history for drug offenders varied by 
+primary drug type. Crack cocaine offenders had more extensive 
+criminal histories than any other type of drug offenders, and 
+more than 40% of crack offenders in federal prison were in the 
+highest criminal history category (Category VI), followed by 
+heroin offenders (24%). The proportion of offenders in Category I 
+ranged from 39% for heroin offenders to 49% for powder cocaine 
+offenders. Within each drug type, the majority of offenders in 
+Category I had no criminal history points at the time of 
+sentencing. Across all drug offenders, powder cocaine (41%) and 
+marijuana (36%) offenders were the most likely to have no 
+criminal history points applied at sentencing and be in Category 
+I. Almost a quarter of heroin offenders (24%) were classified 
+under the most serious criminal history category (Category VI), 
+the second highest share of any drug type after crack cocaine.
+
+***********************************
+About a quarter of federal drug 
+offenders were sentenced for 
+weapons involvement
+***********************************
+
+Nearly 1 in 4 (24%) federal drug offenders in prison at yearend 
+2012 who were sentenced since 1998 were sentenced for having a 
+weapon involved in the instant offense (table 5).***Footnote 4 
+Although USSC datasets go back to 1994, some weapons variables 
+are unavailable prior to 1998. To ensure continuity within 
+comparisons of weapons, offenders sentenced prior to 1998 were 
+excluded***. Of these drug offenders, about a quarter (26%) 
+received a mandatory minimum sentence for a separate charge of 
+conviction for using a weapon during the commission of the 
+offense (pursuant to 18 U.S.C. § 924(c)); and about three-
+quarters (73%) had a weapon specific offense characteristic that 
+was not a separate charge of conviction but was still included in 
+the sentence computation (not shown). A majority of the weapon-
+involved offenders received a sentence enhancement, accounting 
+for 18% of the total drug offender population. Another 6% of the 
+drug offender population were convicted of a 924(c) weapon 
+offense.***Footnote 5 All figures reported for weapon involvement 
+exclude offenders who have both types of weapon; they made up 
+less than 0.5% of drug offenders***.
+
+***********************************
+Less than a third of crack cocaine 
+offenders had their sentence 
+increased due to weapons involvement 
+in the offense 
+***********************************
+
+Crack cocaine offenders were the most likely to receive a 
+mandatory minimum sentence for weapon involvement under 924(c) 
+(9%) or to have guidelines adjusted for a weapon-specific offense 
+characteristic (23%) totaling to almost a third with weapon 
+involvement (32%). Methamphetamine offenders were the next most 
+likely to have weapon enhancements—more than 25% had some kind of 
+sentencing related to weapons. In comparison, marijuana offenders 
+were the least likely to have these weapon enhancements—3% had a 
+mandatory minimum sentence under 924(c) for gun involvement and 
+12% had a specific offense characteristic.
+
+***********************************
+The average prison sentence of drug 
+offenders in federal prison was 
+11.3 years 
+***********************************
+
+The total prison term imposed on federal drug offenders was more 
+than 11 years on average. The median prison term was 10 years. 
+Almost two-thirds (65%) of offenders were sentenced to a term of 
+imprisonment of more than 5 years up to and including 20 years. 
+Thirteen percent of federal drug offenders were sentenced to a 
+term of imprisonment greater than 20 years, while less than 1% 
+were sentenced to a term of 1 year or less (table 6).
+
+***********************************
+Marijuana offenders had the 
+shortest prison terms 
+***********************************
+
+Marijuana offenders had the shortest average term of imprisonment 
+of all drug types. The average sentence was more than 7 years (88 
+months) and the median was 5 years (60 months). A majority of 
+marijuana offenders received a sentence of more than 1 year up to 
+and including 5 years in prison. In comparison, crack cocaine 
+offenders had the longest average and median prison terms. On 
+average, these offenders were sentenced to more than 14 years 
+(170 months), while the median sentence was more than 12.5 years 
+(151 months). A majority (62%) of crack cocaine offenders were 
+sentenced to more than 10 years in prison.
+
+*************
+Methodology
+*************
+
+These analyses are based on a data file built from the population 
+of new U.S. district court commitments in the Federal Bureau of 
+Prisons (BOP) at fiscal yearend 2012. These prisoners made up 87% 
+of the federal prison population at that time. Pre-sentencing 
+admissions, offenders sentenced prior to the Sentencing Reform 
+Act of 1984, and others who were not new U.S. district court 
+commitments (e.g., supervision violators, D.C. Superior Court 
+commitments, or state boarders) were excluded. For more 
+information about offenders who were included or excluded for the 
+purposes of linking, see Dataset composition and definition of 
+drug offender below. For the remaining 188,988 prisoners, 
+probabilistic linking methods were used to link each BOP record 
+with a U.S. Sentencing Commission (USSC) record corresponding to 
+that prisoner’s shared identifying information. USSC files from 
+FY 1994 to FY 2012 were used for these purposes.
+
+Linking the BOP and the USSC datasets is useful because the BOP 
+does not publicly provide certain data fields that are available 
+in the USSC dataset, including criminal history information, 
+offense characteristics, and sentencing information (e.g., 
+whether an offender was convicted of an offense carrying a 
+mandatory minimum penalty and whether that penalty was applied at 
+sentencing). For drug offenders, the USSC also provides 
+information about up to five drug types involved in the instant 
+offense (the most recent offense for which the individual was 
+sentenced and incarcerated), along with the weight of each type. 
+This report uses the USSC primary drug type data.
+
+Probabilistic matching techniques were applied across personally 
+identifiable information such as name, date of birth, and 
+sentencing year to link records between the two different data 
+sources.***Footnote 6 For more detailed information about the 
+linking methodology employed, see Kelly, J. (2012). Federal 
+Justice Statistics Program Data Linking System (NCJ 239536). 
+Washington, DC: Urban Institute***. Of the 188,988 federally 
+sentenced prisoners included in the initial dataset, 97% had 
+valid matches in the USSC data (table 7). There are many reasons 
+why a person may not be matched to a USSC record. The two primary 
+technical reasons are (1) a person is in prison for Class B or C 
+misdemeanors not covered by the U.S. Sentencing Guidelines 
+***Footnote 7 The U.S. Sentencing Guidelines do not 
+apply to Class B and C misdemeanor offenses handled by U.S. 
+magistrate judges; however, these offenders may receive short 
+prison terms and therefore would be included in the BOP data***. 
+and (2) a person was sentenced pursuant to the U.S. Sentencing 
+Guidelines but prior to 1994, when the Bureau of Justice 
+Statistics (BJS) introduced the Federal Justice Statistics 
+Program standard analysis files and dyad link files. 
+
+A Jaro-Winkler score threshold of 0.70 was used by the matching 
+algorithm; names that matched below that level were excluded from 
+this dataset. A comparison of linked and unlinked records by 
+primary offense category shows that two offense types--violent 
+offenses and immigration offenses--were over-represented in the 
+unlinked population relative to the linked population (table 8). 
+This is consistent with possible reasons for exclusion, as 
+violent offenders typically receive very long sentences (certain 
+violent offenders sentenced to long prison terms prior to 1994 
+will be unlinked in this dataset) and a significant share of 
+immigration offenders may be Class B and C misdemeanants not 
+sentenced in U.S. district court pursuant to the federal 
+sentencing guidelines, and therefore would not be included in the 
+USSC dataset or in the linked file.
+
+*************************************************
+***********************************
+Dataset composition and definition 
+of drug offender
+***********************************
+
+This report focuses on the subset of 94,678 federally sentenced 
+prisoners in the Federal Bureau of Prisons (BOP) on a new U.S. 
+district court commitment whose most serious instant offense (as 
+classified by the BOP) was a drug offense, and who had valid 
+links to an observation in the United States Sentencing 
+Commission (USSC) database. The universe of offenders analyzed in 
+this report was a product of (1) the linking methodology and (2) 
+the definition of drug offenders used in the report.
+
+The base dataset used for linking includes only federally 
+sentenced offenders in BOP for a new U.S. district court 
+commitment. Offenders serving time in prison for a violation of 
+probation or supervised release were excluded from the dataset, 
+although they were sentenced at an earlier time. Violators are 
+different from new commitments, differing in terms of age, race, 
+sex, and citizenship (table 9). Many noncitizens are not released 
+back to the United States and are therefore not actively 
+supervised by federal probation, thus accounting for the lower 
+proportion of noncitizens among supervision violator returns to 
+prison as compared to new court commitments.
+*************************************************
+
+This report uses the BOP’s classification of most serious 
+offense, which differs from that of the USSC, to define drug 
+offenders in federal prison. In comparison, the USSC uses the 
+statutory maximum to determine the most serious offense. As a 
+result, this report does not include all persons who have 
+committed a federal drug offense and instead focuses on prisoners 
+whom BOP classified as drug offenders because the drug offense 
+carried the longest sentence imposed. 
+
+To identify drug offenders for this analysis, BOP’s most serious 
+offense categorization (which relies on the longest sentence 
+imposed) was used. Alternative methods of identifying drug 
+offenders in BOP custody could have expanded the definition to 
+include secondary charges or to rely on USSC’s categorization of 
+most serious offense, which primarily depends on the statutory 
+maximum. The USSC criteria would have yielded a slightly 
+different population of prisoners considered to be drug offenders 
+(table 10).
+
+Another definition of drug offender could be any individual 
+serving time for a drug offense, rather than any offender whose 
+most serious offense is drug related. This would include other 
+offenders who have more serious primary charges, as categorized 
+by both the BOP and USSC, for which they were sentenced in 
+addition to a secondary or tertiary drug charge. This criterion 
+would have yielded 102,012 persons who were serving time for a 
+drug offense, although that offense may not have been the most 
+serious charge of conviction. Most of the remaining offenders had 
+a weapons offense as the most serious offense (table 11).
+
+
+********************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. William J. Sabol is director.
+
+This report was written by Sam Taxy, Julie Samuels, and William 
+Adams of Urban Institute. Mark Motivans and Rhonda Keith provided 
+statistical verification and review.
+
+Jill Thomas edited the report. Tina Dorsey produced the report.
+
+October 2015, NCJ 248648
+
+********************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+**********************************************
+10/22/2015 9:25pm JER 
+**********************************************
+
+

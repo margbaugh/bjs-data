@@ -1,0 +1,663 @@
+U.S. Department of Justice 
+Office of Justice Programs 
+Bureau of Justice Statistics 
+
+Errata
+Criminal Victimization, 2005
+
+June 16, 2011
+
+The estimates published in the Criminal Victimization, 2005 bulletin were
+calculated using incorrect sampling weights. Base weights for
+non-self-representing primary sampling units were adjusted to more accurately
+represent the 2000 sample design. The corrected weights resulted in relatively
+small revisions to estimates of victimization counts and rates (table A).  See
+Methodology at http://bjs.gov/index.cfm?ty=dcdetail&iid=245 for a discussion
+of the National Crime Victimization Survey design and weighting protocol. 
+
+With the following exceptions, all conclusions and findings presented in
+Criminal Victimization, 2005 remain unchanged:
+
+Table 1. The change in property crime rates from 2004 to 2005 was significant
+at the 90% confidence level.  The difference was originally reported
+significant at the 95% level.
+
+Table 6. The aggravated assault rate for Hispanics was higher than that for
+non-Hispanics. (i.e. the difference was significant at the 95% level.)  The
+report originally reported the difference as significant at the 90% level.
+
+Table 7. The difference between the violent crime rates for never married
+persons and divorced/separated persons was not statistically significant.  The
+report originally reported the difference as significant at the 90% level.
+
+The incorrect sampling weight also impacted estimates presented in the BJS
+reports listed below. Errata detailing the impact are forthcoming for each of
+these reports.
+
+*Criminal Victimization in the United States, 2005 Statistical Tables
+
+*Criminal Victimization, 2006
+
+*Identity Theft, 2005
+
+*Crime and the Nation's Households, 2005
+
+*Black Victims of Violent Crime
+*Intimate Partner Violence in the United States
+
+*Contacts Between the Police and the Public, 2005
+
+*Indicators of School Crime and Safety, 2007
+
+---------------------------------------------------------------------------------------------
+
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Bulletin
+
+National Crime Victimization Survey
+
+Criminal Victimization, 2005
+
+September 2006, NCJ 214644
+
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cv05.htm
+
+This report is one in a series. More recent editions may 
+be available. To view a list of all in the series go to 
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#ncvs
+-------------------------------------------------------
+
+by Shannan M. Catalano, Ph.D.
+BJS Statistician
+
+-------------------------------------------------------
+Highlights
+
+The overall violent crime rate remained unchanged 
+between 2004 and 2005, while the property crime
+rate declined
+
+* For most crimes, aggregated rates for the two-year period 
+2004-05 were unchanged from 2002-03, while minor declines 
+were seen for some forms of robbery and simple assault 
+without injury.
+
+* From 1993 to 2005, the violent crime rate was down 58%, 
+from 50 to 21 victimizations per 1,000 persons age 12 or 
+older.
+
+* During 2005, 24% of all violent crime incidents were 
+committed by an armed offender, including 9% by an 
+offender with a firearm.
+
+* The rate of firearm violence increased between 2004 and 
+2005, from 1.4 to 2.0 victimizations per 1,000 persons age 
+12 or older.
+
+* Males were most vulnerable to violence by strangers (54% 
+of the violence against males), while females were most 
+often victimized by nonstrangers (64%).
+
+* Males, blacks, and persons age 24 or younger continued 
+to be victimized at higher rates than females, whites, and 
+persons age 25 or older in 2005.
+
+* During 2005, 47% of all violent victimizations and 40% of 
+all property crimes were reported to the police.
+------------------------------------------------------
+
+In 2005 U.S. residents age 12 or older experienced an
+estimated 23 million violent and property victimizations, 
+according to the National Crime Victimization Survey(NCVS). 
+These criminal victimizations included an estimated 18 
+million property crimes (burglary, motor vehicle theft,
+and theft),  5.2 million violent crimes (rape or sexual
+assault, robbery, aggravated assault, and simple assault), 
+and 227,000 personal thefts (pocket picking and purse 
+snatching).
+
+Because of a decline in the rate of theft, the overall
+property crime rate declined between 2004 and 2005. 
+Victimization rates for every other major type of crime 
+measured by the survey were unchanged. For completed
+robbery with injury and simple assault without minor injury, 
+aggregate rates for the period 2004-05 were somewhat lower 
+than those for 2002-03. The 1-year (2004-2005) and 2-year
+(2002-03 to 2004-05) change estimates indicate that at the 
+national level crime rates remain stabilized at the lowest 
+overall levels experienced since 1973. 
+
+Between 1993 (when the NCVS was redesigned) and 2005, the
+violent crime rate decreased 58%, from 50 to 21 
+victimizations per 1,000 persons age 12 or older. Property 
+crime declined 52%, from 319 to 154 per 1,000 households.
+
+In 2005, according to victims, 47% of violent crimes were
+reported to the police, up from 43% in 1993. The proportion 
+of property crimes reported to the police also increased 
+to 40% in 2005, from 33% in 1993.
+
+Criminal victimization, 2004-05
+
+The NCVS collects data on nonfatal crimes against persons
+age 12 or older, reported and not reported to the police, 
+from a nationally representative sample of U.S. households. 
+(See Methodology, page 11.) Information on homicide is 
+obtained from the Uniform Crime Reporting (UCR) program 
+of the FBI.
+
+Crimes measured by the NCVS
+
+Violent crimes include rape or sexual assault, robbery,
+aggravated assault, and simple assault. Property crimes 
+include household burglary, motor vehicle theft, and 
+theft.
+
+The overall violent crime rate remained stable between 
+2004 and 2005, while the overall property crime rate 
+declined due to a drop in household theft from 123 to 
+116 victimizations per 1,000 households.
+
+Murder/nonnegligent manslaughter
+
+Based on preliminary 2005 data from the FBI, the number 
+of persons murdered in the United States increased 4.8% 
+between 2004 and 2005. In 2004, 16,140 persons were 
+murdered; the estimate for 2005 is about 16,910 victims 
+of murder. Based on these preliminary data, the homicide 
+rate for 2005 is an estimated 5.7 per 100,000 individuals. 
+
+Preliminary data suggest that while increases in the number
+of murders occurred in all regions of the country, the 
+greatest increases were in the Midwest (5.8%) and South 
+(5.3%). 
+
+---------------------------------------------------
+Murder and victim characteristics, 2004
+
+In 2004, the year in which the most recent comprehensive 
+data are available, the FBI reported a total of 16,140 
+murders or nonnegligent manslaughters. The total represented 
+a 2.4% decrease from the 16,530 murders recorded in 2003. 
+The FBI defines murder in its annual Crime in the United 
+States as the willful (nonnegligent) killing of one human 
+being by another. Justifiable homicides, attempted murder, 
+and deaths caused by negligence, suicide, or accident are 
+not included. The FBI's UCR program collects data on murder 
+from over 17,000 city, county, and State law enforcement 
+agencies.
+
+Though the rate and level of homicide change from year to 
+year, the relationship between victim characteristics and 
+homicide tends to remain the same. For example, as in 
+previous years, in 2004 —
+
+* Most murder victims were male (78%).
+
+* When the race of the murder victim was known, about half 
+were white (49.8%), almost half were black (47.6%), and 
+about 2.6% were of another race.
+
+* When information on the victim-offender relationship was 
+available, 77% of the offenders were known to the victim, 
+while 23% were a stranger to the victim.
+
+* Firearms were used in the majority of murders (70%).
+
+* Offenders were most often male (90%) and age 18 or older 
+(92%).
+
+* Homicide is generally intraracial.
+
+* Arguments were the most often cited circumstance 
+leading to murder (44%).
+
+* Homicides occurred in connection with another felony 
+(such as rape, robbery, or arson) in 23% of incidents.
+--------------------------------------------------
+
+Criminal victimization, 2002-03 and 2004-05
+
+Comparing the 2-year average annual rates, criminal
+victimization changed somewhat in three sub-categories 
+of crime rates from 2002-03 to 2004-05.
+
+During this period there were indications that the average
+annual rates of attempted or threatened violence, completed 
+robbery with injury, and simple assault without injury 
+declined somewhat from 2002-03 to 2004-05.
+
+----------------------------------------
+Estimating change in crime 
+victimization rates
+
+Since 1995 the NCVS has under-gone sample reductions 
+because of the escalating costs of data collection. 
+At the same time, the rate of crime remains at the 
+lowest levels in the past thirty years. The 
+combination of the two — fewer survey respondents and 
+less crime — has resulted in a diminished ability to 
+detect statistically significant year-to-year changes 
+in rates.
+
+Comparing 2-year average rates provides a picture of 
+the continuing decline in some categories of crime. 
+Annual detailed tables of victimization counts and 
+per capita rates are located on the BJS website at
+<www.ojp.usdoj.gov/bjs/abstract/cv05.htm>.
+---------------------------------------
+
+Comparing victim characteristics, 
+2002-03 and 2004-05
+
+Violent victimization rates remained unchanged from 
+2002-03 to 2004-05 for most demographic categories of 
+victims examined. 
+
+Gender
+
+Violent crime rates for females declined somewhat from
+2002-03 to 2004-05. 
+
+Marital status
+
+Rates of violence against persons who were never married 
+declined somewhat from 2002-03 to 2004-05, from 42 to 38
+victimizations per 1,000 persons age 12 or older.
+
+Age
+
+For persons 16 to 19 years old, violent crime rates fell 
+from 56 to 45 victimizations per 1,000 persons. Despite 
+apparent differences, there was no detectable change for 
+persons in other age groups. 
+
+Annual household income
+
+There are indications that the rate of violent victimization
+declined for persons in households earning less than $7,500 
+per year. There was no detectable change for persons in other 
+income categories.
+
+Region and location of residence
+
+Crime rates remained stable for persons residing in all
+regions of the country (Northeast, Midwest, South, and 
+West). Between 2002-03 and 2004-05, violent crime 
+decreased 12% for persons residing in suburban areas but 
+remained unchanged in urban and rural areas. 
+
+Comparing household 
+characteristics, 2002-03 and 2004-05
+
+Annual household income
+
+Property crime rates were unchanged for households in 
+all income categories between 2002-03 and 2004-05. 
+
+Region, location, and homeownership
+
+A decline of 12% in property crime rates was measured in 
+the Northeast, 2002-03 to 2004-05. No difference in rates 
+was observed in other regions of the country.
+
+Despite apparent changes, rates of property crime remained
+stable for households in urban (207), suburban (142), and 
+rural (130) areas.
+
+From 2002-03 to 2004-05, average annual property crime 
+rates remained  stable for residential renters and 
+homeowners.
+
+--------------------------------------
+Victimization trends, 1993-2005
+
+The rate of every major violent and property crime 
+measured in the NCVS — rape or sexual assault, robbery, 
+aggravated assault, simple assault, burglary, theft, 
+and motor vehicle theft — fell significantly between 
+1993 and 2005.
+
+Violent crime
+
+The overall violent crime rate fell 58% from 50 to 21 
+violent victimizations per 1,000 persons age 12 or older 
+between 1993 to 2005. Other significant declines were 
+measured in the rates of rape or sexual assault(down 69%), 
+robbery (down 57%), aggravated assault (down 64%), and 
+simple assault (down 54%).
+
+Property crime
+
+From 1993 through 2005, the rate of overall property 
+crime declined significantly, as did the rate for all 
+major types of property crime. The household burglary 
+rate fell 49%; the motor vehicle theft rate fell 56%; 
+and the theft rate fell 52%. The declines in motor 
+vehicle theft and theft were greater for attempted 
+crimes than for completed crimes.
+-------------------------------------
+
+Characteristics of victims, 
+1993-2005
+
+Violent victimization declined in every demographic group
+between 1993 and 2005. For males, the rate of violence 
+declined 57%, from 60 to 26 victimizations per 1,000 males. 
+The rate of violence against females declined by 58%, from 
+41 to 17 victimizations per 1,000 females.
+
+In 2003 new definitions for race and ethnicity were
+implemented in the NCVS survey that prevent long term 
+comparisons(See Methodology on page 11 for further details). 
+Using these new definitions, in 2005 the rate of violence 
+for whites was 20.1 per 1,000; for blacks, 27.0 per 1,000; 
+and for other races (American Indian, Alaska Native, Asian, 
+Native Hawaiian and Pacific Islander), 13.9 per 1,000.
+
+Violent crime rates declined 39% for victims residing in
+households earning $15,000 to $24,999 per year, from 49 
+to 30 victimizations per 1,000 persons age 12 or older. 
+Violent crime rates for individuals living in households 
+in all other income categories declined by nearly 50% or 
+more. 
+
+Property crime rates fell for every demographic group
+considered between 1993 and 2005. Households in every
+region of the country experienced declines in property 
+crime rates of 50% or more. Property crime rates for 
+households that owned or rented their homes also showed 
+a decline of at least 50%.
+
+Households in urban areas (down 51%), suburban areas(down
+54%), and rural areas (down 49%) experienced similar 
+declines in property crime rates from 1993 to 2005. 
+
+Households with annual incomes of less than $15,000
+experienced smaller declines in property crime rates than 
+households with annual incomes of $25,000 or more between 
+1993 and 2005. 
+
+Characteristics of violent crime 
+victims, 2005
+
+Males, blacks, and persons age 24 or younger continued 
+to be victimized at higher rates than females, whites, 
+and persons age 25 or older in 2005. 
+
+Gender of victim
+
+Males were victims of overall violent crime, robbery, 
+total assault, aggravated assaults and simple assault at 
+rates higher than females. Females were more likely than 
+males to be victims of rape or sexual assault.
+
+Race of victim
+
+Blacks were victims of overall violence, rape, robbery, 
+and aggravated assault at rates higher than those for 
+whites in 2005. Blacks were also more likely than 
+persons of other races to be victims of violence.
+
+Beginning in 2003 survey respondents were able to self-
+identify with more than one race. In 2005, persons of 
+two or more races were victims of overall violence at 
+significantly higher rates than whites, blacks, and 
+persons of other races.
+
+Hispanic origin of victim
+
+Hispanics were victims of overall violence, robbery, and
+aggravated assault at rates somewhat higher than those of 
+non-Hispanics in 2005. Hispanics and non-Hispanics were 
+equally likely to experience rape or sexual assault, 
+simple assault, and theft.
+
+Age of victim
+
+As in previous years, there was a general pattern of
+decreasing crime rates for persons of older age groups. 
+Persons age 25 or older experienced lower victimization 
+rates than younger individuals. Persons age 16-19 
+experienced robbery at rates higher than persons in other 
+age groups, except ages 20-24. 
+
+Household income
+
+There was a general pattern of decreasing victimization
+rates for persons residing in households with higher 
+incomes. Persons in households with an annual income 
+under $7,500 were more likely to be victims of robbery 
+and assault than members of households with incomes of 
+$35,000 or more. Persons of all income categories were 
+equally likely to experience rape or sexual assault.
+
+Differences in robbery rates among persons in income
+categories below $35,000 were not statistically 
+significant. 
+
+Marital status of victims
+
+Persons who were never married experienced somewhat higher
+rates of overall violence than did persons of other marital 
+status categories. Persons who were married and  widowed 
+were equally likely to experience rape or sexual assault. 
+Persons who were married were more likely than persons who 
+were divorced or separated to experience assault. Married 
+and divorced or separated persons were equally likely to 
+experience robbery.
+
+Region
+
+Despite apparent differences, persons residing in the
+Midwest(3.2 per 1,000), Northeast(2.4 per 1,000), and 
+West(2.7 per 1,000) were equally likely to experience 
+robbery victimizations. There was some indication that 
+the rate of robbery was lower in the South than in the 
+Midwest.
+
+Location of residence
+
+Urban residents experienced overall crimes of violence,
+robbery, and assault at rates higher than those for 
+suburban and rural residents. Except for the crime of 
+rape or sexual assault, suburban and rural residents had 
+statistically similar rates of violence. 
+
+Characteristics of households 
+experiencing property crime, 2005
+
+Annual household income
+
+Households earning less than $7,500 per year were more
+likely to experience burglary than households earning 
+more than $15,000 per year. While theft rates varied 
+across income levels, no patterns emerged.
+
+Region, locality, and homeownership
+
+Rates of overall property crime were lowest for households
+in the Northeast (104 per 1,000). Households in the West 
+experienced higher overall property victimization rates 
+(206 per 1,000) than those in other regions. For 
+households located in the South and Midwest, the rates 
+of overall property crime were statistically similar. 
+
+Northeastern households were less likely to experience
+burglary than were households in other regions of the 
+country. 
+
+Western households continued to experience the highest 
+rates of motor vehicle theft in 2005. Northeastern and 
+Midwestern households were equally likely to experience 
+motor vehicle theft.
+
+Rates of burglary, motor vehicle theft, and household 
+theft were highest for households located in urban areas. 
+Suburban households were victims of motor vehicle theft 
+and theft at rates higher than those of rural households. 
+Rates of burglary were somewhat higher for rural 
+households than for suburban households but lower than 
+rates of burglary in urban areas.
+
+In 2005 households that owned their home (137 per 1,000)
+were less likely to experience all types of property 
+crime than households that rented their home (192 per 
+1,000). 
+
+Characteristics of the violent 
+crime incident
+
+Victim-offender relationship
+
+Historically, females have been most often victimized by
+someone they knew, while males were more likely to be 
+victimized by a stranger. This finding continued during 
+2005.
+
+Of those offenders victimizing females, 18% were described
+as intimates and 34% as strangers. In contrast, of those 
+offenders victimizing males, 3% were described as intimates 
+and 54% as strangers. Women reported being raped or sexually 
+assaulted by a friend or acquaintance in 38% of such 
+victimizations. 
+
+Presence of weapons
+
+An estimated 24% of all violent crime incidents were
+committed by an armed offender. As in previous years, 
+the presence of a firearm during a violent crime was 
+related to the type of crime. Three percent of rape or 
+sexual assault victimizations, 7% of assault victimizations, 
+and 26% of robberies were committed by an offender with a
+firearm. 
+
+Between 1993 and 2005, the overall rate of firearm violence
+declined significantly from 5.9 to 2.0 victimizations per 
+1,000 persons age 12 or older.
+
+The rate of firearm violence increased between 2004 and
+2005, from 1.4 to 2.0 victimizations per 1,000 individuals. 
+In 2003 the rate was 1.9 per 1,000 (not shown in table). 
+
+Reporting to the police
+
+During 2005, 47% of all violent victimizations and 40% 
+of all property crimes were reported to the police. The 
+percentage of aggravated assault reported to the police
+(62%) was higher than the percentage for rape or sexual 
+assault (38%) and simple assault (42%). It was also 
+somewhat higher than that for robbery (52%). 
+
+Fifty-six percent of burglaries and 32% of household thefts
+were reported to the police in 2005. Motor vehicle theft 
+was the property crime most frequently reported to the 
+police(83%).
+
+Reporting and victim characteristics
+
+In 2005, violent crimes against females (55%) were more
+likely to be reported to police than crimes against males 
+(42%). Rates of reporting for violent victimizations did 
+not differ for males or females across racial and ethnic 
+categories. 
+
+Reporting crime to the police, 
+1993-2005
+
+The percentage of violent and property crime reported to 
+the police remained unchanged between 2004 and 2005. 
+
+With the exception of rape or sexual assault and robbery,
+reporting to the police of violent and property crime 
+increased between 1993 and 2005. 
+
+Aggravated assault reported to the police increased from 
+54% to 62%, and simple assault reported to the police 
+increased from 37% to 42% between 1993 and 2005. During 
+the same period, burglary reported to the police increased 
+from 50% to 56%; motor vehicle theft increased from 75% to 
+83%; and theft increased from 26% to 32%.
+
+Methodology
+
+This Bulletin presents data on nonlethal violence and
+property crimes from the National Crime Victimization 
+Survey (NCVS). It also presents data on homicide from 
+the FBI's Uniform Crime Reporting program.
+
+Victimization rates are based on data collected during the
+calendar year. In 2005, about 77,200 households and 134,000 
+individuals age 12 or older were interviewed for the NCVS. 
+The response rate was 90.7% of eligible households and 
+84.3% of eligible individuals.
+
+Since 2003 the Office of Management and Budget's (OMB)
+guidelines mandate that individuals in household surveys 
+be allowed to choose more than one racial category. In 
+prior years they were asked to select a single primary 
+race.
+
+Racial categories presented in this report consist of the 
+following: white only, black only, other race only (American 
+Indian, Alaska Native, Asian, Native Hawaiian and Pacific 
+Islander if only one of these races is given), and two or 
+more races (all persons of any race indicating two or more 
+races).
+
+Individuals are asked whether they are of Hispanic origin 
+before being asked about their race, and are asked directly 
+if they are of Spanish, Hispanic, or Latino origin.
+
+Standard error computations
+
+Comparisons of percentages and rates made in this report 
+were tested to determine if observed differences were 
+statistically significant. Differences described as higher, 
+lower, or different passed a test at the 0.05 level of 
+statistical significance (95% confidence level). 
+Differences described as somewhat, slightly, marginally, or 
+some indication  passed a test at the 0.10 level of 
+statistical significance (90% confidence level). Caution is 
+required when comparing estimates not explicitly discussed 
+in this Bulletin.
+
+-------------------------------------
+The Bureau of Justice Statistics is the 
+statistical agency of the U.S. Department 
+of Justice. Jeffrey Sedgwick is the director. 
+Shannan M. Catalano, Ph.D., wrote this 
+report under the supervision of Michael Rand. 
+Cathy T. Maston and Stephen Karger provided 
+statistical review. Marianne Zawitz produced 
+the Highlight figures. Allen J. Beck  edited 
+this report. Tina Dorsey produced the report 
+and Jayne Robinson prepared the report for 
+final print, under the supervision of Doris J. 
+James.
+
+NCVS data collection and processing were 
+conducted for BJS by the U.S. Census Bureau. 
+
+September 2006, NCJ 214644
+---------------------------------------
+
+---------------------------------------
+his report in portable document format and 
+in ASCII and its related statistical data and 
+tables — are available at the BJS World Wide 
+Web Internet site: <http://www.ojp.usdoj.
+gov/bjs/>. 
+---------------------------------------
+
+
+End of file
+09/05/06 ih

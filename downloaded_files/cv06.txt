@@ -1,0 +1,321 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Bulletin
+
+Criminal Victimization, 2006
+
+December 2007, NCJ 219413
+
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in 
+spreadsheet format (.csv) and the full report including 
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cv06.htm
+
+------------------------------------------------------------
+
+-----------------------------------------------------------
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#cvus
+------------------------------------------------------------
+
+------------------------------------------------------------
+by Michael Rand
+and Shannan Catalano, Ph.D.
+BJS Statisticians
+------------------------------------------------------------
+
+NCVS estimates based on new methods
+
+Violent and property crime rates in urban and suburban areas
+of the United States remained stable between 2005 and 2006,
+according to findings from the National Crime Victimization
+Survey (NCVS). Due to changes in survey methodology in 2006
+that mainly affected rural areas, national-level estimates
+were not comparable to estimates based on NCVS data from
+previous years. Continuity between urban and suburban areas
+in the sample for both years enabled year-to-year comparisons
+for these areas.
+
+In urban and suburban areas, U.S. residents age 12 or older
+in 2006 experienced an estimated 3.7 million violent crimes
+(rape or sexual assault, robbery, and aggravated and simple
+assault), 138,520 personal thefts (pocket picking and purse
+snatching), and 12 million property crimes (burglary, motor
+vehicle theft, and theft).***footnote 1: Estimates are based
+on urban and suburban areas in the sample (continuing areas)
+in both 2005 and 2006. See forthcoming Technical notes
+for details on changes in sample design.*** The overall
+violent crime rate in these areas was 23.3 victimizations per
+1,000 persons age 12 or older; the property crime rate was
+159.1 per 1,000 households.
+
+The U.S. Census Bureau, the Bureau of Justice Statistics
+(BJS), and a panel of outside experts extensively reviewed
+the 2006 NCVS data and determined that there was a break in
+series between 2006 and previous years that prevented annual
+comparison of criminal victimization at the national level.
+This was mainly the result of three major changes in the
+survey methodology--
+
+*introducing a new sample to account for shifts in population
+and location of households that occur over time
+
+*incorporating responses from households that were in the
+survey for the first time
+
+*using computer-assisted personal interviewing (CAPI). 
+
+The introduction of the new sample affected the NCVS
+estimates in areas that were added in 2006, especially
+nonurban areas. The new sample required hiring and training a
+large number of new interviewers in the new areas. In
+addition, based on the experience of the U.S. Census Bureau
+computer-assisted personal interviewing has been associated
+with improved, but higher survey estimates.
+
+The variation in the amount and rate of crime was too extreme
+to be attributed to actual year-to-year changes. For areas
+that were in both the old and new samples--primarily urban
+and suburban areas--the data for 2006 were consistent with
+data from previous years. Survey changes had the most impact
+on estimates for rural areas. Eighty-three percent of rural
+households were in new sampling areas, compared with 14% of
+households in urban areas and 15% in suburban areas. 
+
+Annual nationwide estimates of crime victimization can be
+generated from NCVS for 2006. Overall U.S. residents age 12
+or older experienced an estimated 25 million crimes of
+violence and theft. The overall violent crime rate was 24.6
+victimizations per 1,000 persons age 12 or older; for
+property crimes it was 159.5 per 1,000 households.
+
+Implementation of the methodological changes 
+in the NCVS
+
+The NCVS sample was redrawn to update representation of the
+entire population of the United States based on more recent
+Census counts. A selected number of households in the sample
+that were based on the 1990 Decennial Census was replaced
+with newly selected households based on the 2000 Census. In
+general, interviews from households in NCVS for the first
+time produce higher rates of victimization. Typically, these
+first interviews are not included in the data for analysis
+but are used as a reference (bounding interview) for
+subsequent interviews. In 2006 BJS was required to use data
+from these first-time interviews due to insufficient funding
+(See forthcoming Technical notes for discussion of 
+bounding interviews).
+
+Similar to first-time interviews, automation of data
+collections also typically produce higher rates of
+victimization. In July 2006, NCVS replaced paper and pencil
+interviews (PAPI) with CAPI because the Census Bureau
+discontinued paper and pencil household surveys. While the
+conversion to CAPI was expected to produce higher rates of
+crime, BJS did not have sufficient funds to develop
+procedures to evaluate the impact of the questionnaire
+automation and generate statistical parameters to control for
+the effects. 
+
+Victimization estimates showed the effects of pre-
+redesign and post-redesign adjustments in the past
+
+When NCVS underwent a redesign in 1992, two comparable
+samples were conducted. This made it possible to develop an
+adjustment factor that showed what the victimization
+estimates would have been if the redesigned survey had been
+used from 1973 through 1992.***Footnote 2:See Effects of the
+Redesign on Victimization Estimates (April 1997) 
+at <http://www. ojp.usdoj.gov/bjs/abstract/erve.htm>.*** 
+When the adjustment ratio was applied to the data, violent
+crime rates in 1992 increased from 32.1 to 47.8 per 1,000
+persons (figure 1). For property crimes, in 1992 the rates
+increased from 152.2 to 325.3 per 1,000 households (figure
+2). The adjustments in the series between 1973 and 1992 for
+violent and property crime permitted trend data to be
+maintained. 
+
+If it had been possible to conduct two comparable samples in
+the 2006 redesign, there would have been a similar adjustment
+factor to make the 2006 data comparable to 2005. While the
+rates for both violent and property crime increased between
+2005 and 2006, it is unknown how much of the increase was
+caused by methodological changes rather than any real change
+in crime trends. 
+
+Estimates for urban and suburban areas in 2006 were
+comparable to previous years
+
+Some areas in the sample were included in both the old and
+new sample designs. They were principally in urban and
+suburban locations. Violent and property crime rates in these
+locations remained unchanged between 2005 and 2006 (table 1).
+ 
+In 2006 U.S. residents age 12 or older residing in continuing
+urban areas experienced an estimated 8.3 million violent and
+property crimes. These criminal victimizations included about
+2 million violent crimes, 90,000 personal thefts, and 6.3
+million property crimes. The rate of violent crime in
+continuing urban areas, 30 victimizations per 1,000
+individuals age 12 or older, was unchanged from 2005. The
+rate of property crime victimization, 195 victimizations per
+1,000 urban households, was also unchanged.
+
+In 2006 U.S. residents age 12 or older residing in continuing
+suburban areas experienced an estimated 7.7 million violent
+and property crimes. These criminal victimizations included
+an estimated 1.8 million violent crimes, 48,000 personal
+thefts, and 5.9 million property crimes. In 2006 the rate of
+violent crime (19 victimizations per 1,000 individuals age 12
+or older) and property crime (133 per 100 households) were
+unchanged from 2005. 
+
+U.S. residents age 12 or older experienced an estimated 25
+million violent and property crimes in 2006
+
+While national-level estimates of criminal victimizations in
+2006 cannot be compared to previous years, the data provide
+an annual description of the nature of crime in the United
+States. In 2006 U.S. residents age 12 or older experienced an
+estimated 25 million violent and property crime
+victimizations, according to the NCVS (table 2). These
+criminal victimizations included an estimated 19 million
+property crimes, 6 million violent crimes, and 174,000
+personal thefts.
+
+At the national level characteristics of victims remained the
+same as in previous years
+
+The break in the NCVS series shifted the relative magnitude
+of victimization rates overall, but did not alter the
+relative proportions of crimes experienced among various
+demographic groups. In 1993 after the NCVS redesign, which
+improved the ability to measure crimes, the relative risk of
+victimization for certain groups remained the same. For
+instance, males were still more likely to experience
+victimization than females. In 2006 estimates of
+characteristics of crime victims and incidents of crime
+remained consistent with those of previous years.
+
+Gender
+
+In 2006 males experienced higher rates of victimizations than
+females. During this time, males experienced 26 violent
+victimizations per 1,000 males age 12 or older. The rate of
+violent victimizations for females in 2006 was 23 per 1,000
+females age 12 or older (table 3).
+
+Age
+
+Persons in older age groups generally experienced lower rates
+of violent victimization than persons in younger age groups.
+In 2006, households that were headed by persons age 65 or
+older experienced lower rates of property victimization than
+households headed by younger persons
+(table 4).
+
+Race
+
+Black victims experienced higher rates of violence than
+whites or persons of other races (table 5). The rate of
+violent victimization for black individuals was 33
+victimizations per 1,000 persons age 12 or older. In 2006
+households headed by black individuals were at a greater risk
+of property victimization than those headed by whites or
+persons of other races. 
+
+Victim and offender relationship
+
+Of offenders victimizing males in 2006, 5% were described as
+intimates and 47% as strangers (table 6). In contrast, of
+offenders victimizing females 21% were described as intimates
+and 29% as strangers. Males and females were equally likely
+to be victimized by an offender they previously knew. 
+
+Presence of weapons
+
+In 2006 an estimated 25% of all violent crime incidents were
+committed by an armed offender (table 7). The presence of a
+firearm was involved in 9% of these incidents. 
+
+In 2006 there were 499,890 incidents and 560,300 firearm
+victimizations (not shown in table). There were 2.3
+victimizations per 1,000 persons age 12 or older involving a
+firearm. An incident is a specific criminal act involving one
+or more victims and offenders while a victimization is a
+crime that affects one individual person or household. 
+
+Reporting to the police
+
+During 2006, 49% of all violent victimizations and 38% of all
+property crimes were reported to the police (table 8). Rape
+or sexual assault was less likely to be reported to the
+police than robbery and aggravated assault. Robbery and
+aggravated assault were equally likely to be reported to the
+police. Fifty-seven percent of robberies and 59% of
+aggravated assaults were reported to the police in 2006. As
+in previous years, motor vehicle theft was the property crime
+most likely to be reported to the police. About 81% of these
+victimizations were reported to the police in 2006.
+
+Methodology
+
+This Bulletin presents data on nonlethal violence and
+property crimes from the National Crime Victimization Survey
+(NCVS). Victimization rates are based on data collected
+during the calendar year. In 2006, about 76,000 households
+and 135,300 individuals age 12 or older were interviewed for
+the NCVS. The response rate was 90.9% of eligible households
+and 86.1% of eligible individuals. See the Technical Notes
+Appendix for details on methodological changes to the 2006
+survey.
+
+Standard error computations
+
+Comparisons of percentages and rates made in this report were
+tested to determine if observed differences were
+statistically significant. Differences described as higher,
+lower, or different passed a test at the 0.05 level of
+statistical significance (95% confidence level). Differences
+described as somewhat, slightly, marginally, or some
+indication  passed a test at the 0.10 level of statistical
+significance (90% confidence level). Caution is required when
+comparing estimates not explicitly discussed in this
+Bulletin.
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+This report in portable document format and in ASCII and its
+related statistical data are available at the BJS World Wide
+Web Internet site: <http://www. ojp.usdoj.gov/bjs/abstract/
+cv06.htm>. Technical notes to the report are forthcoming. 
+
+------------------------------------------------------------
+------------------------------------------------------------
+Office of Justice Programs
+Innovation • Partnerships • Safer Neighborhoods
+http://www.ojp.usdoj.gov
+------------------------------------------------------------
+------------------------------------------------------------
+The Bureau of Justice Statistics is the statistical agency of
+the U.S. Department of Justice. Jeffrey L. Sedgwick is the
+director.
+
+This Bulletin was written by Michael Rand and Shannan
+Catalano, Ph.D. Cathy Maston verified the report. Patsy Klaus
+provided statistical review. Tina Dorsey produced and edited
+the report, and Jayne E. Robinson prepared it for final
+printing, under the supervision of Doris J. James.
+December 2007, NCJ 219413
+
+
+
+End of File
+12/10/07 /JR

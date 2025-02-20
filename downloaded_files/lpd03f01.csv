@@ -1,0 +1,18 @@
+Bureau of Justice Statistics,,
+filename:  lpd03f01.csv,,
+"Figure 1. Full-time employment by local police departments, 1987-2003",,
+"title: Local Police Departments 2003, NCJ 210118",,
+data source:  2003 Law Enforcement Management and Administrative Statistics,,
+"authors:  Matthew J. Hickman, Ph.D. and Brian A. Reaves, Ph.D.",,
+refer questions to: askbjs@usdoj.gov (202)307-0765,,
+date of version: 4/26/06,,
+
+"Figure 1. Full-time employment by local police departments, 1987-2003",,
+
+,Local full-time sworn,Local full-time nonsworn employees
+1987,"355,290","93,822"
+1990,"363,001","96,890"
+1993,"373,554","100,518"
+1997,"420,152","111,345"
+2000,"440,920","124,995"
+2003,"451,737","129,013"

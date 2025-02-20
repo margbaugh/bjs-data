@@ -1,0 +1,1985 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Law Enforcement Management and Administrative Statistics
+Local Police Departments, 2007
+
+December 2010 NCJ 231174
+
+Brian A. Reaves, Ph.D.
+BJS Statistician 
+James P. Lynch, Director
+
+Brian A. Reaves prepared this report. 
+
+Data were collected and processed by the Police Executive
+Research Forum (PERF) under the supervision of Bruce Taylor,
+Research Director. PERF project staff included Bruce Kubu,
+Project Director; Nathan Ballard; and Anthony Bellero.
+Additional information on PERF is available on the Internet
+at: <www.policeforum.org>.
+
+Data presented in this report may be obtained from the
+National Archive of Criminal Justice Data at the University
+of Michigan, 1-800-999-0960. The report and data are
+available on the Internet at: 
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=1750
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available from:
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=1750
+
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbse&sid=35
+-----------------------------------------------------------
+
+Contents
+
+Highlights
+The LEMAS Survey 
+Local Police Departments 
+Employment     
+Operating Costs 
+Personnel
+Patrol and Response 
+Equipment
+Computers and Information Systems
+Community Policing
+Task Force Participation
+Emergency Preparedness
+Methodology
+
+Tables
+
+Table 1. General purpose state and local law enforcement
+agencies, 2007
+
+Table 2. Local police departments and full-time employees,
+by number of sworn personnel, 2007
+
+Table 3. Local police departments and full-time employees,
+by size of population served, 2007
+
+Table 4. Annual operating budget of local police
+departments, by size of population served, 2007
+
+Table 5. Education requirements for new officers in local
+police departments, by size of  population served, 2007
+
+Table 6. Training requirements for new officer recruits in
+local police departments, by size of population served, 2007
+
+Table 7. Average base annual salary for selected full-time
+positions in local police departments, by size of population
+served, 2007
+
+Table 8. Workplace policies of local police departments, by
+size of population served, 2007
+
+Table 9. Race and ethnicity of full-time sworn personnel in
+local police departments, by size of population served, 2007
+
+Table 10. Gender of full-time sworn personnel in local
+police departments, by size of population served, 2007
+
+Table 11. Emergency 9-1-1 system participation of local
+police departments, by size of population served, 2007
+     
+Table 12. Types of regularly scheduled patrols other than
+automobile used by local police departments, by size of
+population served, 2007
+
+Table 13. Special population/situation policies of local
+police departments, by size of population served, 2007
+
+Table 14. Less-than-lethal weapons authorized for use by a
+majority of local police  departments, by size of population
+served, 2007
+
+Table 15. Use-of-force policies and procedures in local
+police departments, by size of population served, 2007
+
+Table 16. Body armor requirements for field officers in
+local police departments, by size of population served, 2007
+
+Table 17. Motorized vehicles operated by local police
+departments, by size of population served, 2007
+
+Table 18. Off-land vehicles operated by local police
+departments, by size of population served, 2007
+
+Table 19. Use of animals by local police departments for law
+enforcement purposes, by size of population served, 2007
+
+Table 20. Use of video cameras by local police departments,
+by size of population served, 2007
+
+Table 21. General functions of computers in local police
+departments, by size of population served, 2007
+
+Table 22. Analytic functions of computers in local police
+departments, by size of population served, 2007
+
+Table 23. Use of in-field computers and terminals by local
+police departments, by size of population served, 2007
+
+Table 24. Use of in-field computers for reports and
+communications by local police departments, by size of
+population served, 2007
+
+Table 25. Types of computerized information accessible to
+in-field officers in local police departments, by size of
+population served, 2007
+
+Table 26. Methods used by local police departments for
+transmitting criminal incident reports to a central
+information system, by size of population served, 2007
+     
+Table 27. Community policing policies of local police
+departments, by size of population served, 2007
+
+Table 28. Community policing training for new officer
+recruits in local police departments, by size of population
+served, 2007
+
+Table 29. Community-oriented policies for patrol officers in
+local police departments, by size of population served, 2007
+
+Table 30. Community policing activities of local police
+departments, by size of population served, 2007
+
+Table 31. Full-time community policing officers and units in
+local police departments, by size of population served, 2007
+
+Table 32. Full-time school resource officers in local police
+departments, by size of population served, 2007
+
+Table 33. Drug task force participation of local police
+departments, by size of population served, 2007
+
+Table 34. Gang task force participation of local police
+departments, by size of population served, 2007
+
+Table 35. Human trafficking task force participation of
+local police departments, by size of population served, 2007
+
+Table 36. Anti-terrorism task force participation of local
+police departments, by size of population served, 2007
+
+Table 37. Preparedness activities of local police
+departments, by size of population served, 2007   
+
+Appendix Tables
+
+Appendix Table 1. Fifty largest local police departments in
+the United States, by number of full-time sworn personnel,
+2007
+
+Appendix Table 2. Drug asset forfeiture receipts of local
+police departments, by size of population served, 2006
+
+Appendix Table 3. Background and record check methods used
+in selection of new officer recruits in local police
+departments, by size of population served, 2007   
+
+Appendix Table 4. Personal attribute screening methods used
+in selection of new officer recruits in local police
+departments, by size of population served, 2007   
+
+Appendix Table 5. Physical attribute screening methods used
+in selection of new officer recruits in local police
+departments, by size of population served, 2007   
+
+Appendix Table 6. In-service training requirements for sworn
+personnel in local police departments, by size of population
+served, 2007
+
+Appendix Table 7. Special pay and benefits for full-time
+sworn personnel in local police departments, by size of
+population served, 2007
+
+Appendix Table 8. Local police officers assigned to respond
+to calls for service, by size of population served, 2007    
+
+Appendix Table 9. Wireless capabilities of emergency 9-1-1
+systems in local police departments, by size of population
+served, 2007   
+
+Appendix Table 10. Types of sidearms authorized for use by
+sworn personnel in local police departments, by size of
+population served, 2007  
+
+Appendix Table 11. Types of batons authorized for use by
+sworn personnel in local police departments, by size of
+population served, 2007  
+
+Appendix Table 12. Less-than-lethal weapons or actions
+authorized for use by fewer than half of local police
+departments, by size of population served, 2007   
+
+Appendix Table 13. Number of motorized land vehicles
+operated by local police departments and percent unmarked,
+by size of population served, 2007 
+
+Appendix Table 14. Vehicle use policies for sworn personnel
+in local police departments, by size of population served,
+2007 
+
+Appendix Table 15. Automated fingerprint identification
+systems (AFIS) in local police departments, by size of
+population served, 2007  
+
+Appendix Table 16. Types of in-field computers or terminals
+used by local police departments, by size of population
+served, 2007   
+
+Appendix Table 17. Screening methods related to community
+policing used in selection of new officer recruits for local
+police departments, by size of population served, 
+2007 
+
+Appendix Table 18. Full-time intelligence personnel in local
+police departments with primary duties related to terrorist
+activities, by size of population served, 2007    
+
+Appendix Table 19. Item non-response for local police
+department data in the 2007 LEMAS survey     
+
+Appendix Table 20. Standard errors of the estimated
+percentages for local police departments, by size of
+population served , 2007 
+
+Appendix Table 21. Standard errors of the estimated
+personnel counts for local police departments, 2007    
+
+Appendix table 22. Standard errors for estimated operating
+budgets and starting salaries for entry-level officers in
+local police departments, 2007     
+
+Figures
+
+Figure 1. Per resident operating costs for local police
+departments, by size of population served, 2007   
+
+Figure 2. Local police officers employed by a department
+that used in-field computers, 1990-2007 
+
+Figure 3. Full-time employees of local police departments,
+1987-2007 
+
+Figure 4. Per officer operating costs of local police
+departments, 2003 and 2007    
+
+Figure 5. Local police officers employed by a department
+using selected screening methods in the hiring process, 2003
+and 2007  
+
+Figure 6. Training requirements for local police officer
+recruits, by size of population served, 2000, 2003, and 2007
+     
+Figure 7. Starting salaries for entry-level officers in
+local police departments, by size of population served and
+collective bargaining status, 2007 
+
+Figure 8. Local police officers employed by a department
+with selected workplace policies, 2007  
+
+Figure 9. Minority representation among local police
+officers, 1987-2007 
+
+Figure 10. Local police officers employed by a department
+with selected special population/situation policies, 2007   
+
+Figure 11. Local police departments using regularly
+scheduled foot or bicycle patrol, by size of population
+served, 1997-2007   
+
+Figure 12. Local police officers employed by a department
+with use-of-force policies and procedures, 2007   
+
+Figure 13. Use of conducted energy devices by local police
+departments, by size of population served, 2000, 2003, and
+2007 
+
+Figure 14. Body armor requirements for field officers in
+local police departments, 1990-2007     
+
+Figure 15. Use of in-car video cameras by local police
+departments, by size of population served, 2000, 2003, and
+2007 
+
+Figure 16. Local police departments using in-field computers
+or terminals, by size of population served, 1997-2007  
+
+Figure 17. Local police officers employed by a department
+providing in-field computer access to information, 1997-2007
+     
+Figure 18. Local police departments using electronic methods
+for transmitting criminal incident reports to a central
+information system, by size of population served,
+1997-2007 
+
+Figure 19. Local police departments using full-time
+community policing officers, by size of population
+served,1997-2007    
+
+Figure 20. Local police officers employed by a department
+engaging in selected preparedness activities, 2007     
+
+Highlights
+
+Employment
+
+*The estimated 12,575 local police departments operating in
+the United States during 2007 employed approximately 463,000
+full-time sworn personnel.
+
+*In 2007, the number of full-time civilian employees in
+local police departments was about 138,000. 
+
+*Municipal and township police departments employed an
+average of 2.3 full-time officers per 1,000 residents in
+2007. County police employed an average of 1.7 officers per
+1,000 residents.
+
+Operating Budgets
+
+*Operating budgets of local police departments totaled $55.4
+billion for fiscal year 2007 14% more than in 2003 after
+adjusting for inflation. 
+
+*Overall local police operating costs for fiscal year 2007
+were $116,500 per sworn officer, $88,200 per employee, and
+$260 per resident.
+
+*During 2006, about 1 in 3 local police departments received
+money, goods, or property from a drug asset forfeiture
+program, with more than $300 million in receipts overall.
+
+Officer Characteristics
+
+*In 2007, 1 in 8 local police officers was a woman compared
+to 1 in 13 officers in 1987. About 1 in 4 officers was a
+member of a racial or ethnic minority in 2007, compared to 1
+in 6 in 1987.
+
+*From 2003 to 2007, the number of Hispanic or Latino local
+police officers increased by 16%. In 2007, about 1 in 10
+officers was Hispanic or Latino.
+
+*In 2007, local police departments employed about 55,000
+female officers. About 117,000 officers were members of a
+racial or ethnic minority. 
+
+Officer Selection and Hiring
+
+*From 2003 to 2007, there was an increase in the percentage
+of officers employed by departments using personality
+inventories (47% to 66%), written aptitude tests (74% to
+82%), and physical agility tests (80% to 86%) in the
+selection process.
+
+*During 2007, about 3 in 10 local police officers worked for
+a department requiring new officers to have some college
+education. This was about the same proportion as in 2003.
+
+*In 2007, local police recruits completed an average of
+1,370 hours in required training. Compared to 2003, average
+training requirements were up by more than 100 hours in
+departments serving 250,000 or more residents. 
+
+Officer Pay
+
+*2007, average starting salaries for entry-level local
+police officers ranged from $26,600 in the smallest
+jurisdictions to $49,500 in the largest.
+
+*Based on where officers were employed, the overall average
+starting salary for new local police officers in 2007 was an
+estimated $40,500. 
+
+*Average starting salaries for sworn officers were $10,900
+(38%) higher in departments with collective bargaining than
+in those without it.
+
+*A majority of departments serving 10,000 or more residents
+offered tuition reimbursement and education incentive pay to
+sworn personnel.
+
+Patrol and Response
+
+*Nearly 7 in 10 local police officers had regular duties
+that included responding to calls for service, ranging from
+6 in 10 officers in jurisdictions with 100,000 or more
+residents to 9 in 10 officers in jurisdictions with fewer
+than 10,000 residents. 
+
+*In addition to automobile patrol, more than half (55%) of
+local police departments used regularly scheduled foot
+patrol, and about a third (32%) used bicycle patrol.
+
+*In jurisdictions with fewer than 50,000 residents, the use
+of foot or bicycle patrols declined from 69% of departments
+in 2003 to 63% in 2007.
+
+About 9 in 10 local police 9-1-1 systems were enhanced with
+the capability of displaying a caller's name, address, and
+special needs. Most could also display the phone number
+(84%) and general location (62%) of wireless callers. 
+
+Equipment
+
+*In 2007, 75% of local police officers were employed by
+departments that authorized the use of conducted energy
+devices such as Tasers, compared to 47% in 2003.
+
+*Sixty-one percent of local police departments used video
+cameras in patrol cars during 2007, compared to 55% in 2003.
+About 71,000 in-car cameras were in use during 2007,
+compared to 49,000 used in 2003. 
+
+*In 2007, 67% of local police officers were employed by a
+department that required them to wear protective body armor
+at all times while in the field, up from 59% in 2003.
+
+Computers and Information Systems
+
+*More than 90% of local police departments serving 25,000 or
+more residents were using in-field computers during 2007. 
+
+*In 2007 about 9 in 10 local police officers were employed
+by a department that used in-field computers, compared to 3
+in 10 officers in 1990 (figure 2). 
+
+*From 2003 to 2007, there was an increase in the percentage
+of local police officers employed by a department with
+in-field computer access to vehicle records (78% to 86%),
+driving records (71% to 80%), calls-for-service histories
+(39% to 65%), and criminal histories (39% to 56%).
+
+*In 2007, most local police departments serving 25,000 or
+more residents used computers for crime mapping. About 3 in
+4 officers worked for a department with computerized crime
+mapping in 2007, compared to 3 in 5 during 2003.
+
+*From 2003 to 2007, the percentage of local police
+departments using electronic methods to transmit incident
+reports from the field increased from 38% to 60%.
+
+Community Policing
+
+*From 2003 to 2007, the percentage of local police officers
+employed by a department that trained all new recruits in
+community policing increased from 73% to 81%.
+
+*A majority of local police departments serving 50,000 or
+more residents operated a full-time specialized unit
+dedicated to community policing during 2007.
+
+*During 2007, a majority of local police departments serving
+50,000 or more residents supported community policing
+efforts by partnering with citizen groups, upgrading
+technology, and conducting a citizen police academy.
+
+*An estimated 47,000 full-time local police officers were
+designated as community policing officers in 2007, about
+8,000 fewer than in 2003. Most of this decline occurred
+among departments serving fewer than 50,000 residents. 
+
+Task Force Participation
+
+*About 13,400 local police officers were assigned full-time
+or part-time to a multi-agency drug task force. A majority
+of local police departments serving 10,000 or more residents
+had officers assigned to a drug task force.
+ 
+*About 4,600 local police officers were assigned full time
+or part time to a multi-agency gang task force. Most
+departments serving 100,000 or more residents had officers
+assigned to a gang task force.
+
+Emergency Preparedness
+
+*During 2007, more than two-thirds of local police
+departments serving 10,000 or more residents had a written
+plan specifying actions to be taken in the event of a
+terrorist attack. 
+
+*As part of their efforts to prevent terrorist acts during
+2007, a majority of local police departments serving 10,000
+or more residents increased the presence of sworn officers
+in critical areas.
+
+*During 2007, about 4,000 full-time sworn personnel in local
+police departments were employed in intelligence positions
+with primary duties related to terrorist activities.
+
+The LEMAS Survey
+
+Every 3 to 4 years, the Bureau of Justice Statistics (BJS)
+surveys a nationally representative sample of state and
+local law enforcement agencies. The surveys are conducted as
+part of the Law Enforcement Management and Administrative
+Statistics (LEMAS) program.
+
+This report presents data from the 2007 LEMAS survey
+describing local police departments in terms of their
+personnel, budgets, operations, policies and procedures,
+computers and information systems, and equipment.
+Comparisons are made with prior years where appropriate, and
+as data are available.
+
+The selected local police sample includes all departments
+employing 100 or more full-time sworn personnel and a
+systematic random sample of smaller agencies stratified by
+size. (See Methodology for more information.) The sample was
+selected from a BJS census of law enforcement agencies (see
+Census of State and Local Law Enforcement Agencies, 2004,
+BJS Web, 28 June 2007). Because sampling was used for
+smaller agencies, some of the statistics presented in the
+report are subject to sampling error. Statements of
+comparison have been tested at the 95%-confidence level.
+(See standard error tables in appendix.)
+
+In order to compare departments with others serving similar
+sized jurisdictions, the statistics in this report are
+presented mainly by categories of population served. Because
+most departments employ small numbers of officers and serve
+small populations, overall agency-based percentages tend to
+reflect smaller departments more than larger ones. To adjust
+for this effect, additional overall percentages weighted by
+the number of officers employed are presented in the text
+and selected figures. (See Methodology.)
+
+Local Police Departments
+
+According to the 2004 BJS Census of State and Local Law
+Enforcement Agencies, nearly all local police departments
+were operated at the sub-county level by individual
+municipal (85%) or township (13%) governments. A total of
+154 were operated by tribal governments, 63 by multiple
+local governments as regional or joint police departments,
+and 56 by county governments.
+
+Local police departments perform a wide range of functions.
+Some of the law enforcement functions typically performed,
+regardless of jurisdiction size, include first response to
+criminal incidents, response to calls for service, patrol,
+crime investigation, arrest of criminal suspects, execution
+of warrants, traffic enforcement, traffic direction and
+control, accident investigation, drug enforcement, parking
+enforcement, and crime prevention education. For more
+information on functions performed by local police, see
+Local Police Departments, 2003, BJS Web, 1 April 2006.
+
+Employment
+
+As of September 2007, the estimated 12,575 local police
+departments in the United States employed about 601,000
+persons on a full-time basis (table 1).
+
+Local police departments employed about 463,000 full-time
+sworn personnel in 2007
+
+About 463,000 (77% of total) local police department
+employees were sworn personnel with full arrest powers.
+Departments employed about 54,000 persons on a part-time
+basis. Nearly half of these part-time employees were sworn
+officers.
+
+From 1987 (the first year of the LEMAS survey) to 2007, the
+number of full-time local police employees increased by an
+estimated 152,000 (34%) or an average of 1.7% annually
+(figure 3). The number of full-time sworn officers increased
+by about 108,000 (30%) during this period. The number of
+full-time civilian employees increased by about 44,000 (47%)
+from 94,000 to 138,000.
+
+From 2003 to 2007, the total number of full-time local
+police employees increased by about 20,300 (3.5%). During
+this period, local police employment of sworn personnel
+increased by about 11,400 (2.5%) and employment of civilians
+rose by about 8,900 (7%). (These changes were not
+statistically significant at the 95%-confidence level.)
+
+Municipal and township police departments employed an
+average of 2.3 officers per 1,000 residents 
+
+
+County police departments employed an average of 1.7
+full-time officers for every 1,000 residents served.
+
+Municipal and township police departments, which comprise
+98% of local police departments, employed an average of 2.3
+full-time officers per 1,000 residents in 2007, down from
+2.5 per 1,000 in 2003. As in 2003, departments serving
+25,000 to 99,999 residents had the lowest average ratio in
+2007 (1.8 per 1,000).
+
+Half of local police departments employed fewer than 10
+full-time officers
+
+Nationwide, 624 (5% of total) local police departments
+employed at least 100 sworn personnel (table 2). The New
+York City Police Department was the largest, with 35,216
+officers. (See appendix table 1 for a list of the 50 largest
+local police departments.) Half of all departments employed
+fewer than 10 officers, including 652 departments (5%) with
+the equivalent of just 1 officer. 
+
+While departments with fewer than 10 officers accounted for
+50% of departments, they employed just 5% of officers. The
+majority of full-time local police officers (61%) were
+employed by departments with at least 100 sworn personnel,
+and a third of officers were employed by departments with at
+least 1,000 sworn personnel.
+
+Three-fourths of local police departments served fewer than 
+10,000 residents
+
+A similar pattern is observed when departments are grouped
+by population size. About three-fourths (73%) of departments
+served fewer than 10,000 residents, but these departments
+employed just 14% of all officers 
+(table 3). About half (51%) of local police officers were
+employed in jurisdictions with 100,000 or more residents. 
+
+Operating Costs
+
+Collectively, local police departments cost about $55.4
+billion to operate during fiscal 2007 (table 4). This was
+14% more than in 2003 after adjusting for inflation (see
+Methodology). (These figures do not include capital
+expenditures such as major equipment purchases or
+construction projects.)
+
+Local police departments cost $260 per resident to operate
+during 2007
+
+Compared to the overall annual operating cost per resident
+of $260, departments serving a population of 1 million or
+more cost nearly 50% more to operate $385 per resident.
+Departments serving a population of fewer than 50,000 had
+the lowest per resident cost less than $220. 
+
+Overall, operating budgets averaged about $4.4 million per
+department for 2007, ranging from about $849 million for
+departments serving a population of 1 million or more, to
+$263,000 for departments serving fewer than 2,500 residents.
+ 
+Local police departments cost $116,500 per officer to
+operate during 2007
+
+When both sworn and nonsworn personnel are included, the
+average annual operating budget for local police departments
+was about $88,000 per employee. Operating costs ranged from
+near $100,000 per employee in jurisdictions with 50,000 to
+999,999 residents to $49,400 per employee in jurisdictions
+with fewer than 2,500 residents.
+
+When nonsworn personnel are excluded, local police
+departments cost $116,500 per officer to operate for 2007.
+Per officer costs ranged from more than $130,000 per officer
+for departments serving 50,000 to 999,999 residents, to
+$56,400 per officer in jurisdictions with a population under
+2,500.
+
+After controlling for inflation, per officer operating costs
+for 2007 were $10,900 (10%) higher than in 2003 (figure 4).
+(This difference was not statistically significant at the
+95%-confidence level.) The smallest increase both in terms
+of dollars and percentage  occurred in jurisdictions with
+10,000 to 49,999 residents, where costs rose by $6,800 (7%).
+The largest dollar increase, about $14,700, occurred in
+jurisdictions with 50,000 to 249,999 residents. The largest
+percentage increase, 15%, was observed in jurisdictions with
+fewer than 10,000 residents.
+
+A majority of local police departments serving 10,000 or
+more residents had drug asset forfeiture receipts during
+2006
+
+During 2006, an estimated 33% of local police departments,
+employing 78% of officers, supplemented their operating
+budget with proceeds from a drug asset forfeiture program
+(appendix table 2). Overall, departments received money,
+goods, or property worth $307.5 million. Average total
+receipts ranged from nearly $3 million among departments
+serving 1 million or more residents to less than $40,000 for
+departments serving fewer than 25,000 residents. 
+
+Personnel
+
+Nearly all (98%) local police departments had a minimum
+education requirement for new officers (table 5). The most
+common requirement (82% of departments) was a high school
+diploma. 
+
+About 3 in 10 local police officers worked for a department
+that required new hires to have some college education
+
+An estimated 16% of departments had some type of college
+requirement, including 9% with a 2-year degree requirement.
+In 2007 the percentage of officers employed by a department
+with a college requirement for new officers (29%) was about
+the same as in 2003 (33%), and about 3 times as high as in
+1990 (10%).
+
+All departments used criminal record checks, and about 99%
+used background investigations and driving record checks
+during the officer hiring process (appendix table 3). Credit
+history checks were used by 61% of departments, including
+more than 90% of those serving 25,000 or more residents. 
+Nearly all departments serving 25,000 or more residents used
+psychological evaluations to screen applicants for sworn
+positions
+
+Personal interviews (99%) were used almost universally by
+departments in the officer hiring process (appendix table
+4). Interviews were supplemented by a psychological
+evaluation in 72% of departments, including more than 98% of
+those serving 25,000 or more residents.
+
+Nearly half of departments used written aptitude tests (48%)
+and personality inventories (46%) to screen applicants. 
+Among departments serving 25,000 or more residents, more
+than 80% used written aptitude tests, and more than 60% used
+personality inventories. 
+
+Screening methods related to physical attributes were also
+common (appendix table 5). Medical exams were used by 89% of
+departments, including all serving 25,000 or more residents.
+Drug tests were used by 83% of departments including more
+than 95% of those serving 25,000 or more residents. Physical
+agility tests were used by 60% of departments, including
+about 90% of those serving 25,000 or more residents. 
+
+Local police officers hired in 2007 were subjected to more
+screening methods than those hired in 2003
+
+In 2007, nearly all local police officers were employed by a
+department that used criminal record checks (100%),
+background investigations (99.8%), driving record checks
+(99.8%), medical exams (98.3%), personal interviews (98.2%),
+drug tests (95.4%), and psychological evaluations (94.8%) in
+the selection process.
+
+For each screening method included in the LEMAS survey, the
+percentage of officers employed by a department using that
+method remained stable or increased between 2003 and 2007
+(figure 5). The largest increases were for personality
+inventories (from 47% of officers in 2003 to 66% of officers
+in 2007), credit history checks (70% to 83%), written
+aptitude tests (74% to 82%), and physical agility tests (80%
+to 86%).
+
+In the largest jurisdictions, local police recruits were
+required to complete more than 1,700 hours of training
+
+Upon selection, new local police recruits were typically
+required to complete extensive classroom and field training. 
+
+
+In jurisdictions with 500,000 or more residents, average
+requirements exceeded 1,700 hours compared to about 700
+hours in the smallest jurisdictions (table 6). (For greater
+detail on basic law enforcement training, see State and
+Local Law Enforcement Training Academies, 2006, BJS Web, 26
+February 2009.) Based on where officers were employed, the
+average training requirement for local police recruits was
+1,370 hours.
+
+Ninety-two percent of local police departments had an annual
+in-service training requirement for non-probationary
+officers, including all of those serving a population of
+250,000 or more. Overall, the average annual in-service
+requirement was 35 hours (appendix table 6).
+
+From 2003 to 2007, average training requirements increased
+by about 100 hours in larger jurisdictions 
+
+From 2003 to 2007 average training requirements for local
+police recruits in jurisdictions with 250,000 or more
+residents increased by 105 hours, from 1,543 to 1,648 hours
+(figure 6). In jurisdictions with fewer than 250,000
+residents, the average number of training hours required was
+about the same in 2007 as in 2003.
+
+Average starting salaries for entry-level officers were 1.2%
+higher in 2007 than in 2003 after adjusting for inflation
+
+Minimum starting salaries for entry-level local police
+officers averaged $49,500 in the largest jurisdictions,
+compared to $26,600 in the smallest (table 7). When weighted
+by size of department, starting salaries for entry-level
+officers averaged about $40,500 in 2007. This was $5,000
+(14%) more than in 2003. The inflation-adjusted 4-year
+increase was 1.2%. (See Methodology for information about
+the calculation to adjust dollars for inflation.)
+
+The average base starting salary for local police chiefs was
+$58,200, ranging from $164,000 in jurisdictions with 1
+million or more residents to $38,300 in those with a
+population under 2,500. Minimum starting salaries for
+first-line supervisors (sergeant or equivalent) averaged
+$78,800 in jurisdictions with 1 million or more residents,
+and at least $60,000 in all other population categories of
+25,000 or more. 
+
+Officer starting salaries were 38% higher in departments
+with collective bargaining
+
+The average starting salary for entry-level officers was
+higher in departments with collective bargaining ($39,263)
+than in those without it ($28,376). This pattern existed in
+all population categories, ranging from a difference of
+about $6,000 in the largest jurisdictions to $9,000 in the
+smallest (figure 7).
+
+Nationwide, 38% of local police departments, employing 66%
+of all officers, authorized collective bargaining for
+officers (appendix table 7). This included at least 62% of
+the departments in each population category of 10,000 or
+more.
+
+About 7 in 10 local police officers worked for a department
+that offered tuition reimbursement
+
+The base salaries earned by local police officers were
+sometimes supplemented by special pay and other financial
+benefits (appendix table 7). For example, 37% of
+departments, employing 72% of all officers, offered tuition
+reimbursement to officers, and 32% of departments, employing
+55% of officers, offered education incentive pay. A majority
+of departments serving 10,000 or more residents offered
+these two types of benefits. 
+
+Other types of special pay offered by local police
+departments included merit pay (23% of departments,
+employing 31% of all officers), shift differential pay
+(21%, 56%), special skills pay (16%, 36%), military service
+pay (13%, 41%), hazardous duty pay (6%, 27%) and bilingual
+ability pay (6%, 27%). 
+
+----------------------------------------------------------
+Workplace policies for sworn personnel
+ 
+Local police departments typically maintained a variety of
+written policies and procedures pertaining to workplace
+issues during 2007. For example, all departments serving a
+population of 10,000 or more had a written code of conduct
+and appearance for officers (table 8). More than 95% of
+these departments also had an off-duty conduct policy. 
+
+At least 98% of the departments in each population category
+of 10,000 or more had policies on off-duty employment, and
+at least 70% of the departments in each of these categories
+had a policy on the maximum number of work hours allowed for
+officers. 
+
+Overall, nearly all local police officers were employed by a
+department with a code of conduct and appearance (99%), and
+policies pertaining to off-duty employment (97%) and conduct
+(97%) (figure 8). About 9 in 10 officers were employed by a
+department with a policy on employee counseling (91%). About
+3 in 4 officers were employed by a department with a policy
+on maximum work hours (75%).
+-----------------------------------------------------------
+
+About 1 in 4 local police officers were members of a racial
+or ethnic minority
+
+In 2007, about 1 in 4 full-time local police officers were
+members of a racial or ethnic minority (table 9). The
+estimated 117,113 minority officers employed in 2007
+represented an increase of about 10,500 (10%) over 2003.
+From 2003 to 2007, minority representation among local
+police officers increased from 23.6% to 25.3%. In 1987,
+minorities comprised 14.6% of officers (figure 9). 
+
+An estimated 55,267 black or African American officers were
+employed by local police departments in 2007. This was about
+2,400 (5%) more than in 2003. In 2007, the percentage of
+officers who were black (11.9%) was about the same as in
+2003 (11.7%). In 1987, blacks comprised 9.3% of officers.
+
+From 2003 to 2007, the number of Hispanic local police
+officers rose 16%
+
+An estimated 47,678 Hispanic or Latino officers were
+employed by local police departments in 2007. This was about
+6,600 (16%) more than in 2003. From 2003 to 2007, the
+percentage of officers who were Hispanic rose from 9.1% to
+10.3%. In 1987, 4.5% of officers were Hispanic. 
+
+In 2007, an estimated 12,564 officers were members of other
+minority groups including Asians, Pacific Islanders, and
+American Indians--about the same number as in 2003. These
+groups comprised 2.7% of local police officers in 2007,
+about the same percentage as in 2003 (2.8%), but more than
+in 1987 (0.8%).
+
+About 1 in 8 local police officers was a woman 
+
+In 2007, about 1 in 8 full-time sworn personnel in local
+police departments were women (table 10). The estimated
+55,305 female officers employed in 2007 represented an
+increase of about 4,300 (8%) from 2003. During this time,
+female representation increased from 11.3% to 11.9%. By
+comparison, women comprised 7.6% of officers in 1987. 
+
+With the exception of Hispanic or Latino officers, changes
+from 2003 to 2007 in the percentage or number of officers by
+race and gender were not significant at the 95%-confidence
+level.
+
+Patrol and Response
+
+About 2 in 3 local police officers had regularly assigned
+duties that included responding to calls for service
+
+In 2007, two-thirds of full-time local police officers had
+regularly assigned duties that included responding to calls
+for service (appendix table 8). The proportion of officers
+assigned to respond to calls ranged from about 6 in 10 among
+departments serving 100,000 or more residents, to about 9 in
+10 among departments serving fewer than 10,000 residents. 
+
+About 9 in 10 local police officers worked for a department
+with an enhanced 9-1-1 system
+
+An estimated 91% of local police departments participated in
+an emergency 9-1-1 system during 2007 (table 11). At least
+96% of the departments in each population category of 10,000
+or more were 9-1-1 participants, including all serving
+250,000 or more residents. 
+
+About 3 in 4 departments used enhanced 9-1-1 systems,
+capable of displaying information such as a caller's phone
+number, address, and special needs. This included 90% or
+more in each population category of 25,000 or more. In 2007,
+most local police 9-1-1 systems could display the phone
+number (84%) and general location (62%) of wireless callers
+(appendix table 9).
+
+An estimated 97% of local police officers worked for a
+department with some type of 9-1-1 system during 2007, and
+90% were employed by a department with an enhanced 9-1-1
+system. Both percentages were about the same as in 2003.
+ 
+A majority of departments serving 25,000 or more residents
+had regularly scheduled foot and/or bicycle patrols
+
+All but a few local police departments used regularly
+scheduled automobile patrols during 2007. A majority (55%)
+also used routine foot patrols, including about 9 in 10
+departments serving a population of 1 million or more, and
+about 8 in 10 departments serving a population of 250,000 to
+999,999 (table 12). 
+
+About a third (32%) of departments used regularly scheduled
+bicycle patrols. A majority of departments serving 25,000 or
+more residents used bicycle patrols, including all of those
+serving 500,000 or more residents. 
+
+Motorcycle patrols were the next most common type of
+regularly scheduled patrol, used by about 1 in 6
+departments. More than 90% of the departments serving
+100,000 or more residents used motorcycle patrols on a
+regular basis.
+
+Other types of routine patrol included marine (4% of
+departments), transporter (such as a Segway) (2%), horse
+(1%), and air (1%). A majority of the departments serving
+500,000 or more residents used marine patrol on a routine
+basis, and a majority of those serving 250,000 or more
+residents used horse and air patrols regularly. 
+
+-----------------------------------------------------------
+Policies and procedures pertaining to special populations or
+situations 
+
+An estimated 91% of local police departments, employing 98%
+of all officers, had written policies and procedures for
+dealing with domestic disputes (table 13, figure 10). 
+
+Many departments also had written policies pertaining to
+specific sub-groups of the community. Most common were
+policies on dealing with juveniles (90% of departments,
+employing 98% of officers). Many departments also had
+policies on dealing with mentally ill persons (69% employing
+89%). About a third of departments, employing just over half
+of all officers, had policies on dealing with homeless
+persons (34% employing 51%) and persons with limited
+English-speaking ability (32% employing 58%). 
+
+An estimated 67% of departments, employing 85% of officers,
+had a written racial profiling policy. Nearly all
+departments serving 250,000 or more residents and about 8 in
+10 departments serving 25,000 to 249,999 residents had such
+a policy.
+------------------------------------------------------------
+
+From 2003 to 2007, use of foot and bicycle patrols declined
+in jurisdictions with fewer than 50,000 residents
+A smaller percentage of departments used regularly scheduled
+foot or bicycle patrols in 2007 (63%) than in 2003 (69%).
+The percentage of local police officers employed by a
+department using these types of patrol declined slightly,
+from 86% to 83%. 
+
+The overall decline from 2003 to 2007 in the number of
+departments using foot or bike patrol can be attributed
+primarily to departments serving fewer than 50,000
+residents: in jurisdictions with 10,000 to 49,999 residents,
+the percentage using foot or bike patrol dropped from 72% to
+64%, and in jurisdictions with fewer than 10,000 residents,
+the percentage dropped from 67% to 61% (figure 11). The
+percentage of departments using foot or bike patrol remained
+about the same in jurisdictions with 50,000 or more
+residents.
+
+Equipment
+
+All local police departments authorized semiautomatics as a
+primary sidearm for patrol officers during 2007. Twenty-two
+percent of departments authorized revolvers as a primary
+sidearm (appendix table 10).
+
+Pepper spray and batons were authorized by nearly all local
+police departments
+
+Nearly all departments authorized officers to use one or
+more types of less-than-lethal weapons during 2007. Most
+commonly authorized was pepper spray (97% of departments,
+employing 98% of all officers) (table 14). 
+
+Batons were authorized by 93% of departments, employing 98%
+of all officers. Collapsible batons (88%) were authorized by
+more departments than traditional (45%) or PR-24 (36%)
+batons (appendix table 11). An estimated 92% of officers
+worked for a department authorizing collapsible batons,
+compared to 53% for traditional batons and 38% for PR-24
+batons. 
+
+An estimated 60% of departments, employing 75% of officers,
+authorized conducted energy devices (CEDs), such as Tasers
+or stun guns. At least two-thirds of the departments in each
+population category of 10,000 or more authorized CEDs.
+
+An estimated 28% of departments, employing 44% of all
+officers, authorized the use of soft projectiles (appendix
+table 12). This included a majority of the departments
+serving a population of 25,000 or more. Fifteen percent of
+departments, employing 23% of all officers, authorized the
+use of neck restraints or holds.
+
+An estimated 75% of local police officers worked for a
+department that authorized CEDs in 2007, compared to 47% in
+2003 
+
+Previous LEMAS surveys recorded substantial increases in the
+number of local police departments authorizing the use of
+pepper spray from 1990 to 2003. In 1990, 72% of officers
+were employed by a department that authorized its use. By
+2003, nearly all officers worked for a department
+authorizing it. This remained true in 2007. 
+
+----------------------------------------------------------
+Use-of-force policies and procedures
+
+Nearly all local police departments had written policies
+pertaining to the use of lethal (97%) and less-than-lethal
+(96%) force by their officers (table 15). Just 0.2% of local
+police officers, all in small jurisdictions, were employed
+by a department without a written deadly force policy, and
+0.7% by a department without a written policy on
+less-than-lethal force (figure 12). 
+
+When citizens filed complaints about use of force, 31% of
+departments required that the complaint be reviewed outside
+the chain of command of the involved officer(s). Most
+departments serving 250,000 or more residents had this
+requirement, and 55% of all officers worked for a department
+with such a policy.
+
+Overall, 8% of departments, employing 33% of officers, had a
+citizen complaint review board (CCRB) in their jurisdiction
+that examined use-of-force complaints. 
+
+A majority of departments serving 500,000 or more residents
+had a CCRB. About 4% of departments, employing 21% of
+officers, were served by an independent CCRB possessing full
+investigative authority with subpoena powers. 
+------------------------------------------------------------
+
+A more recent trend in less-than-lethal weapons has been an
+increasing number of departments authorizing the use of
+conducted energy devices. In 2007, 60% of local police
+departments authorized these types of weapons, up from 23%
+in 2003 and 7% in 2000. In 2007, 75% of officers worked for
+a department that authorized CEDs, compared to 47% in 2003
+and 24% in 2000. 
+
+From 2003 to 2007, large increases in the use of CEDs
+occurred in all population categories (figure 13). Among
+departments serving 250,000 or more residents, the
+percentage authorizing CEDs increased from 54% to 89%;
+50,000 to 249,999 residents, from 47% to 77%; 10,000 to
+49,999 residents, from 34% to 68%; and under 10,000
+residents, from 18% to 56%. 
+
+About 2 in 3 local police departments required officers to
+wear protective armor at all times while in the field 
+
+In 2007, 75% of local police departments required field
+officers to wear protective body armor at least some of the
+time while on duty (table 16). Sixty-five percent of
+departments required field officers to wear armor at all
+times.
+
+An estimated 80% of local police officers were employed by a
+department with some type of armor requirement in 2007,
+compared to 74% in 2003 and 30% in 1990 (figure 14). The
+percentage of officers employed by a department with an
+armor requirement for all field officers in all
+circumstances, was 67% in 2007, compared to 59% in 2003 and
+25% in 1990.
+
+Local police departments operated about 60 cars per 100
+officers 
+
+During 2007, local police departments collectively operated
+an estimated 286,000 cars, or 60 cars per 100 officers
+(table 17). About a third (34%) of local police cars were
+unmarked (appendix table 13). A majority (60%) of
+departments also used other 4-wheel motorized vehicles such
+as sport utility vehicles, trucks, and vans. This included
+all departments serving 25,000 or more residents. Eighteen
+percent of departments used motorcycles, including all
+serving a population of 100,000 or more.
+
+In 2007, 50% of departments, employing 51% of all officers,
+allowed sworn personnel to take marked vehicles home for
+commuting purposes (appendix table 14). Overall, 19% of
+departments, employing 27% of officers, allowed vehicles to
+be used for personal errands.
+
+A majority of local police departments serving 250,000 or
+more residents operated at least one helicopter 
+
+An estimated 6% of departments, employing 39% of officers,
+operated at least one boat during 2007 (table 18). This
+included a majority of those serving 500,000 or more
+residents. Nationwide, local police operated an estimated
+1,350 boats.
+
+One percent of departments, employing 34% of all officers,
+used helicopters. A majority of departments serving 250,000
+or more residents used helicopters. An estimated 312 local
+police helicopters were in use nationwide in 2007.
+
+Fewer than 1% of local police departments, employing 8% of
+all officers, operated airplanes, with 40 in use nationwide.
+More than a third (38%) of departments serving 1 million or
+more residents operated at least 1 airplane. For more
+information on the use of airplanes and helicopters by local
+police, see Aviation Units in Large Law Enforcement
+Agencies, 2007, BJS Web, 9 July 2009. 
+
+Local police departments used about 8,000 dogs and 1,200
+horses for law enforcement purposes during 2007
+
+Twenty-nine percent of local police departments, employing
+77% of all officers, used dogs for law enforcement
+activities during 2007 (table 19). This included all
+departments serving 250,000 or more residents, and a
+majority of those serving 10,000 to 249,999 residents.
+Overall, about 8,000 dogs were involved in the activities of
+local police departments in 2007.
+
+About 1% of departments, employing 34% of all officers, used
+horses for law enforcement purposes, including a majority of
+those serving 250,000 or more residents. Local police
+departments collectively maintained nearly 1,200 horses
+during 2007.
+
+Most departments serving 500,000 or more residents used
+fixed-site surveillance cameras 
+
+An estimated 66% of local police departments, employing 74%
+of all officers, used video cameras on a regular basis
+during 2007 (table 20). Thirteen percent of departments used
+video cameras for fixed-site surveillance, including a
+majority of those serving a population of 500,000 or more.
+Among departments using such cameras, the average number in
+use ranged from 3 in the smallest jurisdictions to more than
+200 in the largest. 
+
+Nine percent of departments used video cameras for mobile
+surveillance, including a majority of those serving 1
+million or more residents. Among departments using cameras
+for this purpose, the average number of cameras in use
+ranged from 2 in departments serving fewer than 100,000
+residents to 26 in those serving a population of 500,000 or
+more.
+
+About 3 in 5 local police departments used video cameras in
+patrol cars
+
+Video cameras were most commonly used in patrol cars. An
+estimated 61% of departments used in-car cameras in 2007
+compared to 55% in 2003. The estimated 71,000 in-car cameras
+in use during 2007 was about 22,000 (45%) more than in 2003.
+By population category, the average number in use ranged
+from 3 in the smallest jurisdictions to more than 200 in
+jurisdictions with 500,000 to 999,999 residents.
+
+From 2003 to 2007, the percentage of departments using
+in-car cameras increased in all population categories: from
+46% to 51% among departments serving 250,000 or more
+residents, 54% to 60% among departments serving 50,000 to
+249,999 residents, 61% to 64% among departments serving
+10,000 to 49,999 residents, and from 54% to 61% among
+departments serving fewer than 10,000 residents (figure 15). 
+
+Computers and Information Systems
+
+Local police departments used computers for a wide variety
+of functions during 2007.
+
+More than 90% of departments serving 25,000 or more
+residents used computers for dispatch
+Local police departments' uses of computers included general
+records management (79%), and maintaining personnel records
+(53%) (table 21). Computers were also used by some
+departments for fleet management (27%), and resource
+allocation (20%) purposes.
+
+Computers also helped many departments support operational
+functions such as crime investigation (60%), dispatch (49%),
+and booking (32%). 
+
+For each general or operational function included in the
+LEMAS survey, more officers were employed by a department
+using computers to perform that function during 2007 than
+2003: records management (91%, 80%), dispatch (86%, 72%),
+crime investigation (85%, 71%), personnel records (77%,
+64%), information sharing (76%, 53%), fleet management (68%,
+52%), automated booking (61%, 48%), and resource allocation
+(57%, 36%).
+
+More than 90% of departments serving 25,000 or more
+residents had access to an Automated Fingerprint
+Identification System (AFIS)
+
+Seventy percent of local police departments, employing 91%
+of officers, had access to an Automated Fingerprint
+Identification System (AFIS) that included a file of
+digitized prints compared to 62% and 88% in 2003 (appendix
+table 15). Eleven percent of departments, employing 46% of
+all officers, had exclusive or shared ownership of an AFIS
+system in 2007. This included a majority of the departments
+serving 100,000 or more residents. 
+
+A majority of departments serving 25,000 or more residents
+used computers for crime analysis and crime mapping
+
+A majority of departments serving 25,000 or more residents
+used computers in an analytic capacity related to
+intelligence gathering, crime analysis, analyzing community
+problems, and crime mapping (table 22). 
+
+Overall, 40% of departments used computers for intelligence
+gathering and 38% for crime analysis. About a fourth of
+departments used computers for the analysis of community
+problems (28%) and crime mapping (27%).
+
+Thirteen percent of departments, including more than half of
+those serving a population of 50,000 or more, used computers
+to identify crime hotspots during 2007.
+
+As with general and operational computer functions, more
+officers worked for a department using computers for
+analytic functions in 2007 than in 2003: crime analysis (80%
+in 2007, 67% in 2003), crime mapping (75% in 2007, 57% in
+2003), intelligence gathering (72% in 2007, 46% in 2003),
+analysis of community problems (64% in 2007, 52% in 2003),
+hotspot identification (58% in 2007, 45% in 2003).
+
+More than 90% of departments serving 25,000 or more
+residents used in-field computers
+
+A majority of the local police departments in each
+population category of 2,500 or more were using in-field
+computers or terminals during 2007, including more than 90%
+of those serving a population of 25,000 or more (table 23).
+Overall, 59% of departments, employing 89% of all officers,
+used in-field computers or terminals. Nationwide,
+departments using in-field computers operated about 37 for
+every 100 sworn officers. (See appendix table 16 for types
+of in-field computers used.)
+
+About half (52%) of departments used in-field computers or
+terminals for writing field reports during 2007, and about a
+third (35%) used them for communications (table 24). A
+majority of the departments serving 10,000 or more residents
+used in-field computers for these purposes.
+
+Departments using in-field computers to produce field
+reports employed 65% of all officers in 2007, compared to
+34% in 2003, and those using computers for communications
+purposes employed 72% of officers in 2007, compared to 49%
+in 2003. 
+
+Most local police officers were employed by a department
+providing them with in-field computer access to vehicle,
+driving, calls-for-service, and criminal records
+
+In 2007 about half of local police departments provided
+officers with in-field computer access to vehicle records
+(52%), driving records (48%), and warrants (48%) (table 25).
+This included more than 80% of the departments in each
+population category of 25,000 or more. Departments using
+in-field computers for these purposes employed 89% of all
+officers. 
+
+In about a third of departments, in-field computers or
+terminals could be used to access calls-for-service (34%)
+and criminal history (32%) records. The third included a
+majority of the departments serving 25,000 or more
+residents. Departments with in-field access to
+calls-for-service records employed 73% of officers, and
+those with access to criminal histories employed 63%.
+
+Local police officers were about 3 times as likely to work
+for a department using in-field computers in 2007 (89%) as
+in 1990 (30%)
+
+The percentage of local police departments using in-field
+computers or terminals in 2007 (59%) was slightly more than
+in 2003 (56%) and about 12 times greater than in 1990 (5%).
+Likewise, the 89% of local police officers working for a
+department with in-field computers or terminals in 2007 was
+slightly higher than in 2003 (83%) and about 3 times the
+percentage reported in 1990 (30%).
+
+From 2003 to 2007, slight increases in local police use of
+in-field computers and terminals occurred in most population
+categories (figure 16). In-field computer use among
+departments serving 250,000 or more residents increased from
+98% to 99%. In departments serving 50,000 to 249,999
+residents, use increased from 94% to 97%; in departments
+serving 10,000 to 49,999 residents, use increased from 81%
+to 82%; and in departments serving fewer than 10,000
+residents, use increased from 46% to 50%.
+
+The percentage of local police officers employed by a
+department providing in-field computer access to critical
+information has also been on the increase since 1997 when
+LEMAS first began tracking this capability. In 2007,
+departments providing patrol officers with in-field computer
+access to vehicle records employed 86% of all officers in
+2007, compared to 78% in 2003 (figure 17). 
+
+Other types of information and the percentage of officers
+employed by a department providing in-field access during
+2007 and 2003 are as follows: driving records 80% in 2007,
+71% in 2003; calls-for-service records 65% in 2007, 39% in
+2003; criminal history records 56% in 2007; 39% in 2003.
+
+From 2003 to 2007, the percentage of departments using
+electronic methods to transmit criminal incident reports to
+headquarters increased from 38% to 60%
+
+In 2007, 60% of local police departments primarily used
+computers and data devices for transmitting criminal
+incident reports from the field to their central information
+system (table 26). Paper reports were used by 36% of
+departments, and 4% used voice transmission methods such as
+a telephone or radio.
+
+Continuing a trend observed in past LEMAS surveys, the 36%
+of departments using paper reports to transmit criminal
+incidents represented a decrease from 2003, when 55% used
+this method. During the same period, use of computer and
+data devices increased from 38% to 60%. 
+
+From 2003 to 2007 an increase in the use of electronic
+(non-paper) methods of report transmission was observed in
+all population categories (figure 18). Among departments
+serving 250,000 or more residents, 53% used electronic
+methods in 2007 compared to 33% in 2003. The percentage of
+departments in other population categories using electronic
+methods in 2007 and 2003 respectively, are as follows:
+50,000 to 249,999 residents 61% in 2007, 36% in 2003; 10,000
+to 49,999 residents 70% in 2007, 54% in 2003; under 10,000
+residents 57% in 2007, 43% in 2003.
+
+Community Policing
+
+Balancing responsiveness to calls for service with proactive
+problem solving is a primary goal of effective community
+policing. The community policing approach requires that
+police and citizens join together to identify and address
+underlying causes of crime and disorder. 
+
+The Justice Department's Office of Community Oriented
+Policing Services (COPS) defines three major components: (1)
+collaborative police-community partnerships; (2) support
+from agency management, structure, personnel, and
+information systems; and (3) a problem-solving process that
+develops and rigorously evaluates effective responses. For
+more information on community policing, see the COPS Office
+website at <www.cops.usdoj.gov>.
+
+The LEMAS survey began tracking community policing
+personnel, activities, and policies in 1997, in response to
+COPS funding programs that were impacting local law
+enforcement agencies. (See Community Policing in Local
+Police Departments, 1997 and 1999, BJS Web, 25 February
+2001.) 
+
+About half of local police officers worked in a department
+with a written community policing plan
+
+A local police department's commitment to community policing
+can be measured to some extent at the management level by
+the presence of written objectives and policies. For
+example, 53% of departments, employing 81% of officers, had
+an agency mission statement that included a community
+policing component in 2007 (table 27), compared to 47% of
+departments employing 73% of officers in 2003. 
+
+A commitment to community policing may be more evident in
+departments with a formal, written community policing plan.
+In 2007, 16% of departments, employing 48% of officers, had
+such a plan. This included about two-thirds of those serving
+250,000 or more residents and nearly half of those serving
+50,000 to 249,999 residents. In 2003, 14% of departments,
+employing 44% of officers, had a written community policing
+plan.
+
+Nearly half of officers worked in a department that screened
+recruits for analytical problem-solving ability
+
+
+Some departments assessed applicants' suitability for
+community policing activities during the selection and
+hiring process. For example, 29% of departments, employing
+46% of all officers, screened applicants for analytical
+problem-solving ability (appendix table 17). This included a
+majority of departments serving a population of 250,000 or
+more.
+ 
+Most local police departments serving 10,000 or more
+residents trained all new recruits in community policing
+ 
+The practice of training at least some new recruits in
+community policing skills such as problem-solving and
+developing community partnerships increased to 56% of
+departments employing 83% of officers in 2007, up from 39%
+and 72% in 2003 (table 28). In 2007, 44% of departments,
+employing 70% of all officers, trained all new recruits in
+community policing, compared to 31% and 67% in 2003.
+
+Most departments serving 50,000 or more residents actively
+encouraged officers to participate in problem-solving
+projects
+
+More than 80% of departments serving a population of 50,000
+or more and a majority of the departments serving 10,000 to
+49,999 residents used geographic assignments for patrol
+officers (table 29). About 60% of the departments serving
+50,000 or more residents also actively encouraged officers
+to become involved in community problem solving projects.
+    
+More than 4 in 5 departments serving 50,000 or more
+residents partnered with citizen groups during 2007
+
+Local police departments engaged in various community
+policing activities during 2007. For example, 38% of
+departments, employing 75% of officers, partnered with
+citizen groups to elicit feedback for developing community
+policing strategies (table 30). This included a majority of
+departments serving a population of 10,000 or more, and at
+least 80% of the departments in each population category of
+50,000 or more.
+
+An estimated 25% of departments, employing 57% of officers,
+upgraded technology during 2007 to support the analysis of
+community problems. This included a majority of departments
+serving a population of 50,000 or more.
+
+Fifteen percent of departments, employing 60% of all
+officers, conducted a citizen police academy during 2007.
+This included a majority of departments serving a population
+of 50,000 or more, and at least 80% of the departments in
+each population category of 100,000 or more.
+
+Fifteen percent of local police departments, employing 35%
+of all officers, surveyed citizens in their jurisdiction on
+topics related to crime, fear of crime, or satisfaction with
+police services. This included 65% of the departments
+serving 250,000 to 999,999 residents.
+
+A majority of departments serving a population of 50,000 or
+more had a full-time community policing unit 
+
+In 2007, 14% of local police departments had a separate
+specialized unit with full-time officers dedicated to
+community policing activities (table 31). This included 85%
+of departments serving 1 million or more residents, and
+about 60% of those serving a population of 50,000 to
+999,999.
+
+About 47,000 local police officers were specifically
+designated to perform community policing activities 
+
+Although not necessarily part of a separate specialized
+unit, many local police officers were specifically
+designated as community policing officers in order to engage
+in community policing activities during 2007. In 2007,
+nearly half (47%) of local police departments reported using
+community policing officers.
+
+Collectively, local police departments had about 47,000
+full-time community policing officers. More than two-thirds
+of the departments in each population category of 25,000 or
+more used full-time community policing officers. Departments
+serving 500,000 or more residents had well over 100
+community policing officers each, on average. 
+
+The number of community policing officers in local police
+departments declined by 54% from 2000 to 2007
+
+Despite increases in the number of new officer recruits
+receiving community policing training between 2003 and 2007,
+the LEMAS survey recorded downward trends in the number of
+local police departments using community policing officers
+and the total number of officers so designated during that
+period.
+
+From 2000 to 2003, the number of community policing officers
+declined by almost half from about 103,000 to about 55,000.
+The percentage of departments using community policing
+officers also declined from 66% to 58%. From 2003 to 2007,
+the downward trend continued, dropping to 47% of departments
+and 47,000 officers.
+
+These declines are in sharp contrast to the period from 1997
+to 2000 when the LEMAS survey recorded a large increase in
+the use of community policing officers from 34% of
+departments and 16,000 officers in 1997, to 66% of
+departments and 103,000 officers in 2000 (text table 2).
+
+------------------------------------------------------------
+Local police officers serving as school resource officers
+Many local police departments, through cooperative
+agreements, assign some of their sworn personnel to work in
+local schools. Often these school resource officers (SROs)
+employ a community policing approach and work in
+collaboration with school and community-based organizations.
+The core duties of SROs include law-related education,
+counseling, and law enforcement. Their multi-faceted role in
+the unique environment of a school requires training beyond
+that typically encompassed by a basic recruit program.
+In 2007, an estimated 38% of local police departments,
+employing 76% of all officers, had full-time sworn personnel
+assigned as school resource officers (table 32). More than
+two-thirds of the departments in each population category of
+10,000 or more deployed school resource officers, including
+nearly 90% of those in jurisdictions with 25,000 to 499,999
+residents. 
+
+The average number of school resource officers deployed
+ranged from 87 for departments serving 1 million or more
+residents, to 2 among those serving fewer than 25,000
+residents. An estimated 13,056 full-time local police
+officers were serving as school resource officers in 2007.
+This was nearly 1,300 fewer than in 2003, but still 3,700
+more than in 1997, the first year the number was tracked in
+the LEMAS survey. Additional school resource officers were
+deployed nationwide by sheriffs' offices, state law
+enforcement agencies, and school police departments.
+-----------------------------------------------------------
+
+From 2003 to 2007 the use of community policing officers
+declined among departments serving fewer than 50,000
+residents 
+
+From 2000 to 2003, a decline in the use of community
+policing officers by local police departments was observed
+in all population categories. While use in jurisdictions
+under 50,000 in population declined again from 2003 to 2007,
+this trend did not continue in jurisdictions with 50,000 or
+more residents. Among departments serving 250,000 or more
+residents, more were using community policing officers in
+2007 (98%) than in 2003 (89%) or 2000 (92%) (figure 19).
+Although down from the peak year of 2000 (93%), departments
+serving 50,000 to 249,999 residents were as likely to use
+community policing officers in 2007 (89%) as in 2003 (88%).
+
+Among departments serving 10,000 to 49,999 residents, 56%
+were using community policing officers in 2007, down from
+67% in 2003 and 75% in 2000. Among departments serving fewer
+than 10,000 residents, 40% were using community policing
+officers in 2007 compared to 54% in 2003 and 62% in 2000.
+
+Task Force Participation
+
+While community policing emphasizes law enforcement
+personnel working closely with citizens, multi-agency task
+force participation involves working closely with other law
+enforcement agencies. Such task forces allow the partnering
+of local, state, and federal agencies to combat problems
+that may be of regional or even national scope. Task forces
+allow agencies to pool resources and share information and
+expertise across jurisdictional boundaries. 
+
+About 8,500 local police officers were assigned full time to
+a drug task force 
+
+In 2007, 35% of local police departments, employing 77% of
+officers, had at least 1 officer assigned to a multi-agency
+drug task force (table 33). This included a majority of
+departments serving 10,000 or more residents. About 1 in 4
+departments had at least one officer assigned full time,
+including a majority of those serving a population of 25,000
+or more. Nationwide, more than 13,000 local police officers
+were assigned to a drug task force, including about 8,500
+assigned full time. 
+
+About 2,200 local police officers were assigned full time to
+a gang task force
+
+In 2007, 12% of local police departments, employing 52% of
+officers, had at least one officer assigned to a gang task
+force, including a majority of departments serving 100,000
+or more residents (table 34). Five percent of departments
+had at least 1 officer assigned full time to a gang task
+force, including a majority of those serving a population of
+250,000 or more. Nationwide, about 4,600 local police
+officers were assigned to a gang task force, including about
+2,200 assigned full time. 
+
+About 700 local police officers were assigned full time or
+part time to a human trafficking task force 
+
+About 2% of departments had officers assigned to a human
+trafficking task force, including 54% of those serving a
+population of 1 million or more (table 35). Overall, about
+700 local police officers were assigned to human trafficking
+task forces during 2007, and about a fifth of these were
+assigned full time.
+
+Most departments serving 100,000 or more residents had
+officers assigned to an anti-terrorism task force
+
+Nine percent of local police departments had officers
+assigned to an anti-terrorism task force, including nearly
+90% of those serving a population of 250,000 or more, and
+54% of those serving 100,000 to 249,999 residents (table
+36). Nationwide, about 2,700 local police officers were
+assigned to anti-terrorism task forces, and more than 1,100
+of these were assigned full time. 
+
+Emergency Preparedness
+
+Just over half (54%) of local police departments had a
+written plan that specified actions to be taken in the event
+of a terrorist attack (text table 3). All departments
+serving a population of 1 million or more had such a plan, 
+as did about 9 in 10 departments serving 100,000 to 999,999
+residents. Departments with a terrorism response plan
+employed 81% of all officers.
+
+In addition to participating in anti-terrorism task forces,
+local police departments engaged in a variety of other
+activities during 2007 as part of their emergency
+preparedness and homeland security responsibilities. For
+example, 62% of departments participated in emergency
+preparedness exercises, including more than 90% of those
+serving 50,000 or more residents (table 37).
+ 
+More than a third (36%) of departments increased the
+presence of sworn officers at critical areas. This included
+more than three-fourths of those serving 250,000 or more
+residents, and more than half of those serving 10,000 to
+249,999 residents. 
+About 1 in 3 departments disseminated information to
+increase citizen preparedness during 2007, and 1 in 4
+departments held community meetings on homeland security
+issues. About 3 in 4 departments serving a population of
+250,000 or more engaged in these two activities.
+ 
+Overall, 13% of departments partnered with culturally
+diverse populations, including about two-thirds of
+departments serving a population of 250,000 or more. Just 4%
+of departments conducted a public anti-fear campaign during
+2007, although nearly half (46%) of those serving a
+population of 1 million or more did so. 
+
+About 6 in 7 local police officers worked for a department
+that participated in emergency preparedness exercises
+
+A majority of local police officers were employed by a
+department that participated in emergency preparedness
+exercises (86%), increased the presence of sworn personnel
+at critical areas (65%), disseminated information to
+increase citizen preparedness (62%), and held community
+meetings on homeland security and preparedness issues (52%)
+(figure 20). 
+
+A quick, effective emergency response involving multiple
+first responder agencies in an affected region is essential.
+The use of a shared radio network infrastructure allows
+interoperability an important factor in achieving an
+effective, coordinated emergency response.
+
+As of 2007, about 7 in 8 local police departments were able
+to use a radio network that achieved interoperability, and
+at least 77% of the departments in any population category
+had this capability (text table 4).
+
+Local police departments had about 4,000 sworn personnel
+serving in intelligence positions related to combating
+terrorism
+
+More than 90% of local police departments serving a
+population of 500,000 or more had full-time sworn personnel
+serving in intelligence positions with primary duties
+related to terrorist activities (appendix table 18). A
+majority of departments serving 100,000 to 499,999 residents
+also had such personnel. Overall, 11% of departments had
+sworn personnel serving in this capacity with a total of
+about 4,000 nationwide.
+
+Just 1% of all departments had nonsworn intelligence
+personnel with primary duties related to terrorism, although
+nearly half (46%) of the departments serving a population of
+1 million or more did. Nationwide, an estimated 238 civilian
+personnel from local police departments served in this type
+of position. 
+
+Methodology
+
+Sample design 
+
+Based on employment data from the 2004 BJS Census of State
+and Local Law Enforcement Agencies (CSLLEA), the original
+2007 LEMAS survey sample included 3,224 state and local law
+enforcement agencies. The sample was designed to be
+representative of all general purpose state and local law
+enforcement agencies in the United States, with separate
+samples drawn for local police departments and sheriffs'
+offices. Agencies serving special jurisdictions (such as
+schools, airports, or parks) or with special enforcement
+responsibilities (such hunting and fishing laws or alcohol
+laws) were considered out of scope for the survey. 
+
+Sheriffs' offices without primary law enforcement
+jurisdiction were also considered out of scope for the
+survey. In addition, some smaller local police departments
+were determined to have closed since the 2004 CSLLEA and
+were dropped from the sample. After all out-of-scope and
+closed agencies were dropped, the final sample size for the
+survey was 3,095.
+
+The final sample included 950 self-representing (SR)
+agencies with 100 or more sworn personnel, and 2,145
+nonself-representing (NSR) agencies employing fewer than 100
+sworn personnel.
+ 
+The SR agencies included 591 local police departments, 310
+sheriffs' offices, and 49 state law enforcement agencies.
+All 950 SR agencies received the 49-item CJ-44L
+questionnaire.
+
+The NSR local police agencies were selected using a
+stratified random sample with cells based on the number of
+sworn personnel. The NSR sheriffs' offices were selected
+using a simple random sample. Overall, the NSR sample
+included 1,504 local police departments and 641 sheriffs'
+offices. All 2,145 NSR agencies received the 40-item CJ-44S
+questionnaire.
+
+Agency response rate 
+
+A total of 2,840 agencies completed their LEMAS
+questionnaire for an overall response rate of 91.8%. This
+included 879 SR agencies (92.5%) and 1,961 NSR agencies
+(91.4%). The response rate for local police departments was
+93.9%; for sheriffs' offices it was 87.0%; and for state law
+enforcement agencies it was 91.8%. The final database
+includes full responses from 1,968 local police departments,
+827 sheriffs' offices, and 45 state agencies. An additional
+21 local police departments and 14 sheriffs' offices
+completed the first page of the questionnaire as part of a
+final non-response follow-up effort.
+
+Weighting
+
+The base weight for all SR agencies is one. For NSR
+sheriffs' offices, the base weight is 4.22. For NSR local
+police departments, the base weights are determined by the
+number of sworn personnel employed as reported in the 2004
+BJS Census of State and Local Law Enforcement Agencies. The
+final weight associated with every agency, both SR and NSR,
+is the product of the base weight, a factor that adjusted
+for changes in the universe since 2004, and a factor that
+adjusted for any nonresponding agencies in each cell. For
+state law enforcement agencies, the final weight is 1.09.
+For SR sheriffs' offices it is 1.12, and for NSR sheriffs'
+offices it is 4.90. 
+
+The final weight for all SR local police departments is
+1.06. For NSR local police departments with 63 to 99
+officers, the final weight is 2.22, with 40 to 62 officers,
+3.54; with 24 to 39 officers, 5.21; with 14 to 23 officers,
+7.55; with 7 to 13 officers, 10.97; and for departments with
+fewer than 7 officers the final weight is 20.29.
+
+To compute the officer-based percentages in the report, the
+final weight for an agency was multiplied by the proportion
+of all full-time equivalent sworn officers employed by that
+agency. The number of full-time equivalent sworn officers
+was defined as the sum of the number of full-time sworn
+officers and one-half the number of part-time sworn
+officers.
+
+Item non-response
+
+For the 1,968 local police departments completing one of the
+two versions of the LEMAS questionnaire, item non-response
+rates due to omission or invalid data were quite low. For
+most categorical items, the non-response rate was 0%
+(appendix table 19).
+
+Imputations    
+
+When an agency did not supply a response to a numeric item,
+median value imputation or ratio imputation was used. The
+median value imputations used the median value of an item
+reported in the 2007 survey by other agencies in the same
+sample cell. The ratio imputations used the median value of
+a ratio reported in the 2007 survey by other agencies in the
+same sample cell. Imputations were not used for categorical
+items.
+
+For race and gender data, a cold-deck imputation process was
+used where the percentages represented in an agency's sworn
+personnel totals by each racial/ethnic or gender group in
+the 2003 LEMAS survey was applied to the 2007 sworn
+personnel totals. If 2003 data were not available, then a
+ratio imputation method was used.
+
+Accuracy of the estimates
+
+The accuracy of the estimates presented in this report
+depends on two types of error: sampling and nonsampling.
+Sampling error is the variation that may occur by chance
+because a sample rather than a complete enumeration of the
+population was conducted. Nonsampling error can be
+attributed to many sources such as the inability to obtain
+information about all cases in the sample, inability to
+obtain complete and correct information from the
+administrative records, and processing errors. In any survey
+the full extent of the nonsampling error is never known.
+
+The sampling error, as measured by an estimated standard
+error, varies by the size of the estimate and the size of
+the base population. Estimates of the standard errors have
+been calculated for the 2007 survey (appendix table 20).
+
+These estimates may be used to construct confidence
+intervals around percentages in this report. For example,
+the 95%-confidence interval around the percentage of local
+police departments using foot patrol is approximately 55%
+plus or minus 1.96 times 1.5% (or 52% to 58%).
+These standard errors may also be used to test the
+significance of the difference between two sample statistics
+by pooling the standard errors of the two sample estimates.
+For example, the standard error of the difference between
+departments serving fewer than 2,500 residents and those
+serving 2,500 to 9,999 residents for enhanced 9-1-1 would be
+3.5% (or the square root of the sum of the squared standard
+errors for each group). The 95%-confidence interval around
+the difference would be 1.96 times 3.5% (or 6.9%). Since the
+difference of 10% (75% minus 65%) is greater than 6.9%, the
+difference would be considered statistically significant.
+
+Standard error estimates may also be used to construct
+confidence intervals around numeric variables such as
+personnel counts (appendix table 21). For example, the
+95%-confidence interval around the number of full-time sworn
+personnel is approximately 463,147 plus or minus 1.96 times
+10,265, or 443,028 to 483,266.
+
+Abbreviated form responses
+
+In the final phase of the data collection, all remaining
+non-respondents were given the opportunity to complete an
+abbreviated questionnaire consisting of the first page of
+the original survey form they received. A total of 21 local
+police departments (5 SR and 16 NSR) and 14 sheriffs'
+offices (0 SR and 14 NSR) completed the abbreviated form.
+For analysis of the data that includes these partial-form
+responses, slightly different weights must be used. 
+
+The adjusted partial-form weight for all SR local police
+departments is 1.05. For NSR agencies with 63 to 99
+officers, the partial form weight is 20.04; with 40 to 62
+officers, 3.49; with 24 to 39 officers, 5.15; with 14 to 23
+officers, 7.48; with 7 to 13 officers, 10.80; and for
+departments with fewer than 7 officers, the partial-form
+weight is 20.04. For NSR sheriffs' offices the adjusted
+partial-form weight is 4.78. 
+
+Dollar amounts adjusted for inflation
+
+For comparison purposes salary and budget data for 2003 were
+converted into 2007 dollars. This conversion was
+accomplished using Consumer Price Index data published by
+the Bureau of Labor Statistics.
+--------------------------------------------------
+-----------------------------------
+The Bureau of Justice Statistics is the
+statistical agency of the U.S. Department of
+Justice. James P. Lynch is director.
+
+BJS Bulletins present the first release of
+findings from permanent data collection programs.
+The Bulletin was written by Brian Reaves. Andrea
+Burch verified the report.
+
+Catherine Bird and Jill Thomas edited the report,
+Barbara Quinn produced the report, and Jayne E.
+Robinson prepared the report for final printing
+under the supervision of Doris J. James.
+
+December 2010, NCJ 231174
+--------------------------------------------------
+-----------------------------------
+This report in portable document format and in
+ASCII and its related statistical data and tables
+are available at the BJS World Wide Web Internet
+site:
+<http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&ii
+d=1750>.
+--------------------------------------------------
+---------------------------------------
+Office of Justice Programs
+Innovation - Partnerships - Safer Neighborhoods
+http://www.ojp.usdoj.gov
+--------------------------------------------------
+----------------------------------------
+
+11/29/2010 JER 1:07
+

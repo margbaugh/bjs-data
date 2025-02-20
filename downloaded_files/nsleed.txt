@@ -1,0 +1,706 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+***************************************************************
+
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5600
+***************************************************************
+
+*******************
+Program Report
+*******************
+
+*****************************************************
+National Sources of Law Enforcement Employment Data
+***************************************************** 
+
+Duren Banks and Joshua Hendrix, RTI International
+Matthew Hickman, Seattle University Tracey Kyckelhahn, United 
+States Sentencing Commission***Footnote 1 The findings in this 
+report are those of the Bureau of Justice Statistics and not of 
+the United States Sentencing Commission***.
+
+The United States has three national data resources that
+collect law enforcement employment statistics along with other 
+information unique to each collection. The FBI, U.S. Census 
+Bureau, and the Bureau of Justice Statistics (BJS) data 
+collections programs have different purposes, data definitions, 
+respondent universes, and data collection procedures. This 
+report details the similarities and differences among these 
+three collections and discusses when the use of one may be 
+preferred over the others.
+
+Law enforcement in the United States is made up of about
+18,000 federal, state, county, and local agencies. Each agency
+has varying legal and geographic jurisdictions, ranging from
+single-officer police departments to those with more than
+30,000 officers. The most common type of agency is the small
+town police department that employs 10 or fewer officers. The
+decentralized, fragmented, and local nature of law enforcement
+in the United States makes it challenging to accurately count 
+the number of agencies and officers.
+
+The three primary data sources provide comprehensive
+information about the nature and scope of law enforcement
+employment in the United States:
+
+* The FBI collects data on the number and type of law
+enforcement employees as part of its Uniform Crime
+Reporting (UCR) Program.
+
+* The Census Bureau collects data on all government agency
+employees, including police agencies, as part of its Annual
+Survey of Public Employment and Payroll (ASPEP).
+
+* BJS collects law enforcement employment data through its 
+periodic Census of State and Local Law Enforcement Agencies 
+(CSLLEA).
+
+These three sources provide information about the number of
+sworn and nonsworn officers at the state and national levels.
+The sources vary in the type of information they provide about
+law enforcement employees and in the number and size of law
+enforcement agencies that report the information. This report
+describes and compares the three data sources, including the
+information collected and how different agencies and personnel
+are defined and enumerated.
+
+*******************************************************
+Uniform Crime Reporting Program, Police Employee Data
+*******************************************************
+
+Federal Bureau of Investigation
+**********************************
+
+The FBI has administered the UCR Program since 1930.
+State and local law enforcement agencies voluntarily report
+to the UCR Program crimes known to law enforcement,
+arrest information, and law enforcement employee data. The
+UCR Program provides information on the level of crime in
+the United States, including the number and type of crimes
+reported to state and local law enforcement agencies, and
+arrests made by these agencies. More detailed incident-based
+information for selected crimes and jurisdictions is provided
+through the Supplementary Homicide Reports and the National
+Incident-Based Reporting System. ***Footnote 2 Supplementary 
+Homicide Reports provide more detailed information on the 
+circumstances surrounding homicides and the characteristics of 
+victims and offenders. See The Nation’s Two Measures of 
+Homicide (NCJ 122705, BJS web, May 2003***. ***Footnote 3 The 
+National Incident-Based Reporting System (NIBRS) provides more 
+details about crime incidents in selected states and 
+jurisdictions that report to NIBRS. See 
+http://www.fbi.gov/about-us/cjis/ucr/nibrs and http://www***.
+
+The UCR Program also collects data on law enforcement
+employees from reporting agencies, including the number,
+type, and characteristics of these employees. In addition, the
+FBI collects information about the number of law enforcement
+officers killed and assaulted, including demographics, patrol
+assignments, and other characteristics of these officers. FBI
+police employee data are reported in the Crime in the United
+States series, available at https://www.fbi.gov/about-
+us/cjis/ucr/ucr-publications.
+
+Each year, state and local law enforcement agencies across
+the United States voluntarily report to the UCR Program the
+total number of sworn law enforcement officers and civilians
+employed by their agencies as of October 31. Law enforcement
+employees include sworn law enforcement officers and
+nonsworn (or civilian) personnel. Sworn employees carry
+a firearm and a badge, have full arrest powers, and are paid
+from government funds set aside specifically for sworn law
+enforcement staff. Full-time nonsworn staff include clerks,
+radio dispatchers, meter attendants, stenographers, jailers,
+correctional officers, and mechanics. Employees who do not
+perform primary law enforcement functions or officers who
+are not paid out of police funds are excluded, as are employees
+who primarily serve the civil justice system, provide courtroom
+security, or provide staffing at jail facilities. Law 
+enforcement employees of federal agencies are also excluded.
+
+UCR law enforcement employee data include information
+on the number and characteristics of employees responsible
+for performing primary law enforcement functions. Data
+are also available for nonsworn employees. The data provide
+information on the size of the population uniquely served by
+the reporting agency, the rate of officers per 1,000 population
+(calculated by the FBI), and the sex of employees. ***Footnote 
+4 The UCR allocates population served to the agency that has 
+primary law enforcement responsibility for that population. In 
+most instances, it is a municipal police department or a county 
+sheriff. There are occasional exceptions depending on the 
+state. Some agencies serve populations that are primarily 
+served by other agencies (e.g., a transit police department). 
+In such cases, the agency is classified as a “zero population 
+agency.” However, a zero population is never assigned to an 
+agency in the UCR because of missing information***. An 
+analysis of the UCR law enforcement employee data archived at 
+the University of Michigan’s Inter-university Consortium for 
+Political and Social Research (ICPSR) indicates that there were 
+750,340 sworn law enforcement officers employed by the state 
+and local agencies that reported law enforcement employee data 
+to the UCR in 2012. The annual national estimate of sworn 
+officers per 1,000 U.S. residents ranged from 2.23 in 1992 to 
+2.51 in 2008 (table 1). ***Footnote 5 Counts provided from the 
+UCR police employee data are based on a convenience sample of 
+agencies that voluntarily reported to the FBI and do not 
+represent a national sample. Agencies that reported no 
+employees to the UCR were eliminated from the sample so their 
+populations would not affect population-based officer rates***. 
+
+The FBI estimates that the approximately 18,000 agencies that
+report annually to the UCR cover 98% of the U.S. population. 
+***Footnote 6 FBI. (2014). Summary of the Uniform Crime 
+Reporting (UCR) Program. Crime in the United States, 2013. 
+Available at: http://www.fbi.gov/about-us/cjis/ucr/crime-in-
+the-u.s/2013/crime-in-the-u.s.-2013/about-ucr/aboutucrmain_final.
+pdf***. In 2012, a total of 17,379 agencies, or 95% of the 
+agencies that participated in the UCR Program that year 
+(N = 18,290), reported at least one law enforcement employee. 
+***Footnote 7 FBI. (2013). FBI Releases 2012 Crime Statistics. 
+Available at: http://www.fbi.gov/news/pressrel/press-releases/
+fbi-releases-2012-crime-statistics***. In each year from 1992 
+through 2012, more than two-thirds of the agencies that reported 
+employment data served jurisdictions with a population of less 
+than 10,000 (table 2).
+
+The UCR Program does not impute missing law enforcement
+employee data. It eliminates duplicate entries and conducts
+data quality checks. Data are published on an annual basis
+approximately 1 year after the reference year through the
+Crime in the United States report. Public use data files are
+available within 18 months after the reference year. Files from
+1998 are archived and available for download at the ICPSR.
+Data from all years are available upon request from the FBI’s
+Criminal Justice Information Services Division, Crime 
+Statistics Management Unit.
+
+************************************************
+Annual Survey of Public Employment and Payroll
+************************************************
+
+U.S. Census Bureau, Governments Division
+*******************************************
+
+Since 1957, the Census Bureau’s Governments Division has
+conducted the ASPEP to measure the number of federal,
+state, and local civilian government employees and their gross
+monthly payroll for March of the survey year. The ASPEP
+collects employment information for the federal government
+and for state and local governments.
+
+The ASPEP tracks 28 defined government functions. ***Footnote 8 
+overnment functions include elementary and secondary education, 
+higher education, police protection, fire protection, financial 
+administration, central staff services, judicial and legal 
+services, highways, public welfare, solid waste management, 
+sewerage, parks and recreation, health, hospitals, water 
+supply, electric power, gas supply, transit, natural resources, 
+correction, libraries, air transportation, water transport and 
+terminals, other education, state liquor stores, social 
+insurance administration, and housing and community 
+development. Three functions apply only to the federal 
+government and have no counterpart at the state and local government 
+levels: national defense and international relations, postal service, 
+and space research and technology***. Of these functions, 
+police protection provides the most complete information on law 
+enforcement employees. Employees classified as police 
+protection by the ASPEP conduct all activities concerned with 
+the enforcement of law and order, including local police 
+departments, sheriffs’ offices, state police, coroners’ 
+offices, police training academies, investigation bureaus, and 
+temporary holding or lockup facilities. ***Footnote 9 Temporary 
+holding or lockup facilities typically detain individuals for 
+no more than 72 hours and are not part of a larger correction 
+facility that holds inmates for longer periods of time***.
+
+Information on employees who provide police protection is 
+collected from payroll records for agencies that include 
+general police, sheriff, state police, and other government 
+departments that preserve law and order; protect persons and 
+property from illegal acts; and work to prevent, control, 
+investigate, and reduce crime.
+
+Police protection employee statistics do not provide
+information on special jurisdiction agencies such as park
+rangers or fish and game wardens, federal postal inspectors,
+campus police, and transit police; law enforcement employees
+of legal offices; traffic control and engineering performed
+by nonpolice agencies; police jails that hold people beyond
+arraignment; and civil or bailiff activities of sheriffs’ 
+offices.
+
+The ASPEP provides information on all employees, full-time
+employees, full-time-equivalent employees, and total March
+payroll by government function. ***Footnote 10 Prior to 1996, 
+the reference month was October***. Information about police
+protection employees is provided separately for police officers
+(i.e., employees who have the power of arrest) and other (i.e.,
+nonsworn) employees. In 2012, the ASPEP reported a total of
+687,657 sworn and 891,289 total police protection employees
+in the United States at a rate of 2.19 sworn officers per 1,000
+U.S. residents. The number of sworn police protection
+employees ranged from a low of 516,418 in 1992 to 695,981
+in 2009 (table 3).
+
+The ASPEP is completed annually by government agencies
+that handle payroll at the federal, state, and local levels. 
+***Footnote 11 The ASPEP was not conducted with state and local 
+agencies in 1996, when the reference month for payroll was 
+changed from October to March***. The survey collects 
+information about employees in all federal and state 
+jurisdictions in each survey year, and about employees in all 
+local jurisdictions in years ending in 2 or 7. The ASPEP is 
+distributed to a sample of local government jurisdictions in 
+all other years. ***Footnote 12 Local government jurisdictional 
+boundaries do not always coincide with the geography served by 
+the law enforcement agencies. As a result, it is difficult to 
+compare local ASPEP data to those collected by the CSLLEA or 
+UCR law enforcement employee program data***. Data are 
+collected on all civilian employees of all federal government 
+agencies (except the Central Intelligence Agency, the National 
+Security Agency, and the Defense Intelligence Agency), all 
+agencies of the 50 state governments, and more than 90,000 
+local governments (including the District of Columbia), 
+representing counties, municipalities, townships, special 
+districts, and school districts. ***Footnote 13 Prior to 2005, 
+the District of Columbia was included with state governments. 
+Since 2005, the District of Columbia has been categorized as a 
+local government***. In 2012, the federal government and all 50 
+states had ASPEP unit response rates of 100%, and the local 
+government response rate was 81% (2012 was a census year for 
+local governments).
+
+The Census Bureau imputes missing ASPEP data due to 
+nonresponse. The imputation procedure relies on historical data 
+from the same reporting agency or, if the agency’s data are not 
+available, it uses data from a similar agency. Historical data 
+are adjusted by current growth trends in government employment 
+numbers and payroll to impute the missing information.
+
+The Census Bureau releases data from the ASPEP about 2 years
+after the reference year. A summary report, summary tables,
+online analysis, and downloadable data from 1992 (excluding
+1996) are available for each level of government at http://www.
+census.gov/govs/apes/. Data prior to 1992 can be obtained
+by contacting the Census Bureau Outreach and Education
+Branch directly.
+
+****************************************************
+Census of State and Local Law Enforcement Agencies
+****************************************************
+
+Bureau of Justice Statistics
+******************************
+
+In 1983, BJS awarded a grant to the University of Maryland to
+review existing law enforcement data collections, focusing on
+both the quality and the utility of the data. To assess the 
+utility of the data, two user surveys were conducted: (1) a 
+survey of 152 large police departments (i.e., those serving 
+100,000 persons or more) and (2) telephone interviews of 
+police, researchers, and policymakers. The police department 
+survey produced information about the availability and 
+desirability of various data items, while the interviews 
+revealed differences in the perceived utility of data items 
+for the police as compared to researchers and policymakers. 
+The final report recommended that BJS continue to develop a 
+national-level data collection, and outlined eight steps 
+toward this goal. ***Footnote 14 Uchida, C. D., Bridgeforth, 
+C., & Wellford, C. F. (1984). Law Enforcement Statistics--
+The State of the Art. College Park, MD: University of Maryland, 
+Department of Criminal Justice and Criminology. An initial sample 
+survey, conducted in 1987, used the Directory Survey of 
+Law Enforcement Agencies as a sampling frame and was identified 
+as the first Law Enforcement Management and Administrative 
+Statistics Survey conducted by BJS. ***Footnote 15 Profile of 
+State and Local Law Enforcement Agencies, 1987 (NCJ 113949, 
+BJS web, March 1989). See also Police Departments in Large Cities, 
+1987 (NCJ 119220, BJS web, August 1989)***. The basic structure of
+recurring BJS law enforcement data collections includes two
+parts. The CSLLEA is conducted about every 4 years and collects 
+a limited and essential core set of measures regarding police 
+agencies and provides an accurate sampling frame for the second 
+part of the collection. A more detailed Sample Survey of Law 
+Enforcement Agencies is conducted in years between the census 
+years. ***Footnote 16 The sample survey is now part of BJS’s 
+Law Enforcement Management and Administrative Statistics 
+series***.
+
+BJS has conducted the CSLLEA since 1992. CSLLEA surveys were 
+administered in 1992, 1996, 2000, 2004, and 2008. ***Footnote 
+17 The 2014 Census of Federal, State, and Local Law Enforcement 
+Agencies was in the field at the time of this report***. Data 
+are used to measure the number and type of state and local law 
+enforcement and special jurisdiction agencies in the United 
+States, along with some characteristics of those agencies, 
+including the number of sworn and nonsworn employees in each 
+agency. CSLLEA agency employee data can be disaggregated by 
+full-time or part-time status, sex, race or Hispanic origin, 
+population served, and patrol assignments.
+
+The CSLLEA universe is made up of all state and local law
+enforcement agencies in the United States, including primary
+state police, sheriffs’ offices, local police departments, 
+tribal police, special jurisdiction agencies, and other agencies. 
+Federal agencies were excluded from the CSLLEA. In 2008, there 
+were an estimated 461,063 sworn officers in local agencies, 
+182,979 in sheriffs’ offices, and 60,772 in state police 
+agencies. Across all agency types, the CSLLEA reported 2.52 
+sworn officers per 1,000 U.S. residents in 2008 (table 4).
+
+BJS develops a roster of all state and local law enforcement
+agencies in the United States for each survey administration.
+The roster is developed from the previous survey administration 
+list along with a thorough review of FBI lists, consultation 
+with various police membership organizations, and lists 
+provided by State Peace Officer Standards and Training offices 
+and other state agencies. BJS realizes that this list may not 
+be  comprehensive because it is difficult to identify all
+small agencies.
+
+Surveys are then mailed or distributed electronically to all
+agencies on the roster (about 20,000 in 2008), with extensive
+nonresponse follow-up. Responding agencies are screened for 
+eligibility to be included in the final CSLLEA database. 
+Agencies are determined to be ineligible if they (1) employ 
+only part-time officers and the total combined hours of those 
+officers average less than 35 hours a week, (2) contract or 
+outsource to another agency for the performance of all 
+services, (3) are private i.e., they do not operate with funds 
+from a state, local, or special district, or a tribal government), 
+(4) have officers that are unpaid volunteers only, or (5) were not 
+fully operational at the time of the survey administration. Some 
+agencies in the CSLLEA universe are not included in the UCR law 
+enforcement employee data. Since the CSLLEA was first administered 
+in 1992, about 18,000 responding agencies met these inclusion 
+criteria, ranging from 17,358 agencies in 1992 to 18,769 agencies 
+in 1996 (table 5).
+
+CSLLEA data are reported voluntarily, and unit response rates 
+have historically been close to 100% due to a number of  
+nonresponse follow-up efforts. Data quality checks are 
+performed by survey staff, and item nonresponses for critical 
+measures are replaced with agency data from the previous survey 
+administration and flagged as such.
+
+BJS releases information from the CSLLEA through several agency 
+publications and downloadable datasets. BJS bulletins present 
+summary findings from each CSLLEA administration, and periodic 
+special reports based on CSLLEA data provide information on 
+topics such as tribal law enforcement. Data are available at 
+the agency level and can be aggregated to the city, county, 
+state, and national levels. Data are available from ICPSR and 
+are released about 2 to 3 years after the reference year.
+
+******************************
+Comparing the three sources
+******************************
+
+The three national sources of law enforcement employment
+data have a number of similarities, but also differ in 
+coverage, timing, and level of detail (figure 1). For example, 
+the CSLLEA is generally conducted every 4 years, while the 
+ASPEP and UCR data are available annually. The ASPEP is the 
+only source for comparing the number of employees and payroll 
+of those serving in police protection functions to other 
+government employee functions. These and other differences may 
+indicate that one source has more advantages than others for 
+certain research or policy purposes.
+
+Each source relies on voluntary reporting from government
+agencies. The FBI follows up with the largest nonresponding
+agencies to encourage them to provide complete data. In 2012, 
+95% of the state and local law enforcement agencies that
+participated in the UCR reported at least one law enforcement
+employee. Although the FBI conducts data quality checks and
+follow-up, it does not adjust for missing data. The CSLLEA has
+a high local agency response rate (100% in 2008), likely due to
+the extensive nonresponse follow-up procedures. The ASPEP has a 
+100% response rate at the state and federal levels, and about 
+an 80% response rate for local jurisdictions. The ASPEP imputes 
+data missing due to agency nonresponse, while the CSLLEA 
+imputes missing information due to unit nonresponse and item 
+nonresponse for critical categories.
+
+All UCR and CSLLEA program data are reported voluntarily;
+therefore, coverage may vary from year to year, although
+the extent to which the programs cover all law enforcement
+agencies in the United States is unknown. An estimate of the
+extent to which the law enforcement employment data from the 
+UCR and CSLLEA include information from all eligible law
+enforcement agencies in the United States is needed; however,
+a comprehensive and current roster of all law enforcement
+agencies in the United States is currently unavailable.
+
+Each source provides information on sworn officers or those
+with general arrest powers who carry a firearm, although the
+sources differ in how they categorize sworn employees. Unlike
+the UCR and CSLLEA, the ASPEP excludes sworn officers who are 
+employed by transit police or school police agencies and 
+instead categorizes these employees with arrest powers under 
+other government functions. UCR data are limited to employees 
+of agencies that primarily have law enforcement functions. UCR 
+data exclude officers employed by agencies that serve court- 
+and jail-related functions, while these officers are included 
+in CSLLEA data.
+
+There are also differences in how each source defines nonsworn
+or civilian law enforcement employees. The ASPEP definition of
+police protection employees other than police (sworn) officers
+includes employees working for agencies that may not employ
+any sworn officers, such as coroners’ offices. The UCR and
+CSLLEA define nonsworn employees as those who work for agencies 
+that primarily conduct law enforcement functions.
+
+The ASPEP provides a national source of information on
+federal law enforcement employees, while the CSLLEA and
+UCR include state and local law enforcement agencies only.
+BJS conducted a separate collection, the Census of Federal
+Law Enforcement Officers, every 2 years between 1996 and
+2008, and it was discontinued after the 2008 administration.
+Measures of federal law enforcement employees are now included 
+in the 2014 CSLLEA, which was in the field at the time of this 
+report. These data are similar to the ASPEP coverage of federal 
+law enforcement in that they include supervisory and  
+nonsupervisory personnel with federal arrest authority who were 
+also authorized to carry firearms while on duty. Both the ASPEP 
+and BJS definitions of federal law enforcement employees 
+exclude U.S. Armed Forces agencies and the Central Intelligence 
+Agency.
+
+Agency-level data are only available from the UCR and
+CSLLEA. Although the ASPEP data are collected at the local
+level, information on police protection employees is not
+available for individual law enforcement agencies that serve
+local jurisdictions. The ASPEP provides information about
+the number of police protection employees in a specific local
+jurisdiction but does not allocate those employees to the
+multiple law enforcement agencies that may have jurisdiction in
+that locality.
+
+The CSLLEA provides additional information on agency
+functions and other agency characteristics, including
+employee functions and assignment types. It provides detailed
+information on patrol assignments, with measures related to
+patrol capacity (e.g., uniformed officers with regularly 
+assigned duties that include responding to citizen calls for 
+services, community policing officers, or school resource 
+officers) and patrol operational area (e.g., law enforcement 
+duties only, jail-related duties only, court-related duties 
+only, other single operational area, or multiple operational 
+areas that include or exclude law enforcement duties).
+
+Compared to the UCR and ASPEP data collections, the
+CSLLEA may provide a more complete frame for enumerating
+all agencies with sworn law enforcement officers because it
+relies on multiple sources, including the UCR, to compile a 
+list of agencies to survey in each CSLLEA administration. 
+Specific data elements collected during the survey 
+administration are analyzed to determine if those agencies meet 
+the CSLLEA definition of a law enforcement agency. The CSLLEA 
+may also offer more complete agency-level data for small 
+agencies. It includes more agencies that report at least one 
+full-time sworn employee compared to the UCR, although the gap 
+decreased from 3,474 agencies in 1996 to 917 agencies in 2008. 
+The number of agencies is different because the CSLLEA captures
+more agencies with one employee (table 6 and table 7).
+
+Differences in how the three sources defined sworn law
+enforcement employees and in the number and type of agencies
+reporting to each source likely drove differences in the number
+and rate of sworn law enforcement officers that each reported.
+The CSLLEA and UCR consistently reported more full-time sworn 
+officers than the ASPEP; however, all three sources followed 
+similar trends over the time period studied. The rate of 
+officers per 1,000 U.S. residents increased in the early 1990s, 
+but has remained relatively consistent since 2000 at about 2.5 
+officers per 1,000 U.S. residents according to the UCR and 
+CSLLEA data, and at 2.25 per 1,000 according to the ASPEP. The 
+2012 ASPEP and UCR data show a decrease in the number of sworn 
+officers per 1,000 U.S. residents, compared to 2011 (table 8, 
+figure 2).
+
+Differences across sources are also evident at the state level.
+In 2008, estimates derived from the convenience sample
+of agencies that reported police employee data to the UCR 
+indicated that most states (26) reported fewer than 2.25 sworn 
+officers per 1,000 U.S. residents (figures 3, 4, and 5). 
+***Footnote 18 State rates were calculated by dividing the 
+total number of sworn officers reported to each data source by 
+the total state population for a given year, multiplied by 
+1,000. State population estimates were retrieved from the 
+Census Bureau’s State Intercensal Estimates for 1992 to 2012 
+(July 1 estimates), available 
+at http://www.census.gov/popest/data/intercensal/. Because 
+reporting to the UCR is voluntary and information on the number 
+of sworn officers is based on a convenience sample of the 
+agencies that reported, the number and rate of sworn officers 
+presented here are likely to be lower than the true number and
+rate of officers nationally***. According to all three sources, 
+the District of Columbia, Illinois, Louisiana, New Jersey, and 
+New York each reported more than 2.75 sworn officers per 1,000 
+U.S. residents in 2008. In addition, 10 states have a rate of 
+2.0 officers or fewer per 1,000 U.S. residents: Alaska, Iowa, 
+Maine, Minnesota, Montana, Oregon, Utah, Vermont, Washington, 
+and West Virginia.
+
+Nationally, the rate of officers per 1,000 U.S. residents was
+similar according to the CSLLEA and UCR, and slightly lower
+according to the ASPEP. However, in 2008 the ASPEP sworn
+officer rates for Arizona (2.5) and Massachusetts (3.3) were
+higher than the state rates reported by the CSLLEA (2.3 in
+Arizona and 2.8 in Massachusetts) and the UCR (2.1 in Arizona
+and 2.7 in Massachusetts). Differences across the three sources
+were most pronounced in Delaware (from 2.0 in the ASPEP
+to 3.3 in the UCR), the District of Columbia (from 5.3 in the
+ASPEP to 8.7 in the UCR), and Georgia (from 2.2 in the ASPEP
+to 4.0 in the UCR).
+
+**************
+Conclusion
+**************
+
+The CSLLEA likely captures more comprehensive information
+on the number of law enforcement officers employed by small
+agencies and appears to have the most complete coverage of
+agencies and the most complete data, with a typical 100%
+response rate. It is also likely to provide the most complete
+information on agencies serving specialized functions or
+jurisdictions because these agencies are excluded from the
+ASPEP police protection function and may be less likely to
+participate in the UCR.
+
+UCR data may be best suited to compare the number of law
+enforcement officers to reported crime rates because this is
+the only source that collects both types of information 
+directly from participating agencies. However, UCR coverage may 
+be limited because about 1,000 fewer agencies participated in 
+the UCR than the CSLLEA in 2008.
+
+A comparison of CSLLEA and ASPEP data for local agencies only 
+(excluding employees of state and special district agencies) 
+shows that the CSLLEA captures a greater number of nonsworn 
+officers employed by local law enforcement agencies (table 9). 
+This difference is likely due to variations in scope between 
+the two collections. The CSLLEA includes employees of all 
+agencies with at least one full-time-equivalent sworn law 
+enforcement officer, while the ASPEP police protection category 
+excludes a number of agencies that would fall into the CSLLEA 
+scope (e.g., special forces of nonpolice agencies such as park 
+rangers, fish and game wardens, campus police, and transit 
+police). Therefore, the CSLLEA may be better suited to examine 
+the purpose and functions of nonsworn officers in law 
+enforcement agencies.
+
+The percentages of total local employees who were sworn 
+officers reported to the CSLLEA and ASPEP were similar
+in most states, with the ASPEP sworn percentage within 10
+percentage points of the CSLLEA’s sworn percentage in 40
+states and the District of Columbia. In the remaining 10 
+states, the ASPEP percentages of sworn local employees were 
+within 15 percentage points of the CSLLEA sworn percentages. 
+Due to different ASPEP and CSLLEA classifications, the reported
+number of nonsworn officers differed significantly between
+the two collections in states in which local sheriffs’ offices 
+had little law enforcement functions. Some states relied on 
+sheriffs’ offices to perform sworn law enforcement functions, 
+while sheriff employees in other states were primarily 
+responsible for nonsworn functions.
+
+Therefore, state-level differences in law enforcement
+organizations and functions should also be considered when
+determining which data source is best suited for various
+research purposes. The most complete law enforcement employment 
+data source may vary across states, depending on the 
+organizational structure and functions of law enforcement
+agencies in the state, whether the state’s reporting systems 
+are compatible with the UCR, and how closely law enforcement
+agency definition by source aligns with the law enforcement
+structure in the state. As stated previously, the ASPEP’s ratio
+of sworn law enforcement officers to 1,000 U.S. residents in
+Massachusetts and Arizona were greater than in the other two
+collections. This was contrary to the national rate of sworn 
+law enforcement officers, which found the ASPEP rate to be 
+lower than those produced by the UCR and CSLLEA. Massachusetts
+and Arizona may have fewer specialized law enforcement
+agencies that were excluded from the ASPEP, such as school
+districts that employ police officers.
+
+UCR and CSLLEA data may be used in combination with other
+sources, such as the National Directory of Law Enforcement
+Agencies, to develop a comprehensive roster of law enforcement
+agencies in the United States. It has been difficult to develop
+and maintain this roster from one source alone because of--
+
+* the voluntary nature of submitting data to the UCR along
+with reporting methods that resulted in one agency reporting
+for multiple agencies
+
+* the fact that ASPEP data were not maintained at the agency
+level
+
+*  the 4-year interval between CSLLEA administrations, during
+which time a number of smaller agencies were likely to be
+created or subsumed under larger agencies
+
+* the need to develop and follow one common definition of
+what constitutes a law enforcement agency and a sworn law
+enforcement officer.
+
+To answer key policy and research questions, it is critical to
+have a national and regularly updated roster of law enforcement
+agencies in the United States. For example, the currently 
+available data cannot be used to compare the number and 
+functions of law enforcement officers to public safety and
+indicators of social and economic health. Also, there is
+currently no thorough accounting of the number and type of
+agencies that serve the same or overlapping jurisdictions. Such
+information could greatly inform research on the overlapping
+or supporting role of tribal and local police agencies, explore
+the extent to which concurrent jurisdictional responsibilities 
+are outlined in agency policies or memoranda of understanding,
+and lead to a better understanding of the nature and extent of
+conflicts that may occur between state and local agencies with
+overlapping jurisdictions.
+
+********************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for 
+measuring crime, criminal victimization, criminal
+offenders, victims of crime, correlates of crime, and the 
+operation of criminal and civil justice systems at the federal, 
+state, tribal, and local levels. BJS collects, analyzes, and 
+disseminates reliable and valid statistics on crime and justice 
+systems in the United States, supports improvements to state 
+and local criminal justice information systems, and 
+participates with national and international organizations to 
+develop and recommend national standards for justice 
+statistics. Jeri M. Mulrow is acting director.
+
+This report was written by Duren Banks and Joshua Hendrix of 
+RTI International, Matthew Hickman of Seattle University, and 
+Tracey Kyckelhahn of the United States Sentencing Commission. 
+RTI International verified the report. 
+
+Irene Cooperman and Jill Thomas edited the report. Barbara 
+Quinn and Tina Dorsey produced the report.
+
+April 2016, NCJ 249681
+********************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+************************
+4/5/2016 11:10 am JER 
+************************

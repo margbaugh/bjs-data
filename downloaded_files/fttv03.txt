@@ -1,0 +1,754 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Bulletin
+
+Federal Tort Trials and Verdicts, 2002-03
+
+
+August 2005, NCJ 208713
+
+
+--------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/fttv03.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#Torts
+---------------------------------------------------------------
+
+By Thomas H. Cohen, J.D., Ph.D.
+BJS Statistician
+
+----------------------------------------------------------
+Highlights
+
+Changes in the tort caseloads of U.S. district 
+courts primarily related to litigation involving 
+asbestos and other product liability claims
+
+*  U.S. district courts terminated approximately 
+512,000 civil cases during fiscal years 2002-03. 
+Nearly 20% or 98,786 of these cases were torts in 
+which plaintiffs claimed injury, loss, or damage 
+from a defendant's negligent or intentional acts.  
+
+*  Of the 98,786 tort cases terminated in U.S. 
+district courts in 2002-03, about 2% or 1,647 
+cases were decided by a bench or jury trial.
+
+*  An estimated 9 out of 10 tort trials involved 
+personal injury issues -- most frequently, product 
+liability, motor vehicle (accident), marine, and 
+medical malpractice cases.
+
+*  Juries decided about 71% of all tort cases brought 
+to trial in U.S. district courts; judges adjudicated 
+the remaining 29%.
+
+*  Plaintiffs won in 48% of tort trials terminated 
+in U.S. district courts in 2002-03. Plaintiffs won 
+less frequently in medical malpractice (37%) and 
+product liability (34%)trials.
+
+*  Eighty-four percent of plaintiff winners received
+monetary damages with an estimated median award of
+$201,000. 
+
+*  Plaintiffs won more often in bench (54%) than 
+in jury (46%) tort trials. The estimated median 
+damage awards were higher in jury ($244,000) than 
+in bench ($150,000)tort trials.
+---------------------------------------------
+
+U.S. district courts terminated approximately 512,000
+civil cases during fiscal years 2002-03. Nearly 20% 
+or 98,786 of these cases were tort claims in which 
+plaintiffs claimed injury, loss, or damage resulting 
+from a defendant's negligent or intentional acts. Bench 
+and jury trials accounted for about 2% (1,647) of tort 
+cases terminated in U.S. district courts during this 
+period. 
+
+From 1985 to 2003 the number of tort trials terminated 
+in U.S. district courts declined 79%. Juries decided about
+71% of tort trials in 2002-03, while judges adjudicated 
+the remainder.  Plaintiffs won in almost half of tort 
+trials, and the estimated median award garnered by 
+plaintiff winners in these trials was $201,000. Personal 
+injury claims comprised almost 90% of tort trials in U.S. 
+district courts and property damage cases accounted for 
+the remaining 10%. Almost two-thirds of tort trials were 
+disposed of within 2 years of the filing date.
+
+These are some of the findings from a report presenting
+data on tort cases decided by a jury or bench trial in U.S.
+district courts during fiscal years 2002 and 2003. Data for
+this 2-year period were combined to provide a larger
+number of cases for detailed analysis. Previously, the
+Bureau of Justice Statistics (BJS) reported findings from
+a study of tort trials terminated in U.S. district courts
+during fiscal years 1994-95 and 1996-97.***Footnote 1:
+See Federal Tort Trials and Verdicts, 1994 – 95, (NCJ
+165810), and Federal Tort Trials and Verdicts, 1996–97,
+(NCJ 172855). Data for this report were based on
+information compiled by the AOUSC. The AOUSC Federal 
+database can be downloaded from the National Archive of 
+Criminal Justice Data <www.icpsr.umich.edu/NACJD>.***
+
+This report focuses primarily on tort cases terminated by
+trial in U.S. district courts during fiscal years 2002-03 
+as well as trends in tort cases terminated in U.S. district
+courts since 1970. Analysis is limited to those cases
+terminated after the completion of a trial by jury or a 
+trial before a district judge or magistrate judge. According 
+to the Administrative Office of the U.S. Courts (AOUSC), a
+trial is considered complete when a verdict is returned by
+a jury or a decision is rendered by the court.***Footnote
+2: The 2 variables in the AOUSC Federal data file that
+can be used to identify jury and bench trials are
+disposition "DISP" and procedural progress "PROCPROG." In 
+its annual report the AOUSC uses the procedural progress 
+codes to classify bench and jury trials. This report 
+maintains consistency with the AOUSC by counting as trials 
+cases with procedural progress codes of 8 or 9. The 
+disposition codes are not used to identify jury and bench 
+trials.*** Jury or bench trials terminated before verdict 
+or judgment were excluded from this analysis. Tort cases 
+that were settled, dismissed, or disposed through summary 
+judgment in the Federal district courts were not reported. 
+
+In previous publications BJS has reported on civil
+litigation in the State courts where the vast majority of 
+the Nation's civil caseloads are disposed.***Footnote 3: The
+National Center for State Courts (NCSC) reports that in
+2002 16.3 million civil cases were filed in State courts of
+general (7.7 million) and limited (8.6 million) jurisdiction.
+In comparison, 274,841 civil cases were filed in Federal
+district courts during fiscal year 2002. NCSC, Examining
+the Work of State Courts, 2003: A National Perspective
+from the Court Statistics Project, Williamsburg, VA, and
+AOUSC, 2002 Annual Report of the Director: Judicial
+Business of the U.S. Courts, Washington, D.C.*** Tort
+trials in U.S. district courts are also important to examine
+because this litigation affects individuals, corporations,
+and government officials across the United States and in
+different countries. The availability of Federal data from
+the 1970's allows for an examination of nearly 35 years
+of tort trial trends in the Federal courts. Data for this 
+time period are generally not available for tort trials in 
+the State courts. Federal tort trials also offer another venue
+for examining plaintiff win rates, damage award amounts, and 
+other key case outcomes for this type of civil litigation. 
+In most tort cases that settle at the State or Federal level, 
+these details are typically not available. 
+
+Tort cases terminated in U.S. district 
+courts since 1970
+
+After steadily increasing during the 1980's, the annual
+number of tort cases terminated in U.S. district courts
+has been marked by sharp swings throughout the 1990's
+and early 2000's.
+
+Asbestos and nonasbestos product liability cases have
+contributed substantially to the changes in tort caseloads
+in U.S. district courts. In the early 1990's thousands of
+asbestos cases were terminated in individual Federal
+district courts and then transferred through multidistrict
+litigation into one Federal judicial district. As a result 
+of this multidistrict transfer, asbestos case terminations
+peaked at about 25,700 cases during the early 1990's.
+Afterwards, asbestos case terminations declined to an
+average of about 6,800 dispositions during each fiscal
+year between 1993 and 2001. Asbestos case terminations 
+climbed again in fiscal years 2002 and 2003 when each year 
+there were on average approximately 14,400 cases terminated 
+in U.S. district courts. 
+
+Nonasbestos product liability cases also influenced the
+increase of tort caseloads in U.S. district courts during
+the late 1990's. Most of the rise in nonasbestos product
+liability cases can be attributed to a transfer of breast
+implant cases by multidistrict litigation from multiple
+Federal district courts into a single Federal judicial
+district.***Footnote 4:  For source details see AOUSC,
+Judicial Business of the U.S. Courts, 1992, Judicial
+Business of the U.S. Courts, 1999, and Judicial Business
+of the U.S. Courts, 2002.***
+
+Tort trials terminated in U.S. district 
+courts since 1970
+
+After falling slightly during the 1970's, the overall 
+number of tort trials increased more than 50% from 
+2,315 in 1980 to 3,604 in 1985. A substantial portion 
+of this growth can be attributed to an increase in 
+asbestos product liability trials.***Footnote 5: The 
+separation of asbestos from product liability cases began 
+in fiscal year 1984 but was not completed until the late 
+1980's. An increase in asbestos trial litigation in the 
+mid-1980's, which at that time was not counted separately, 
+contributed to the rise of tort trials during that period.***
+
+From 1985 to 2003 the overall number of tort trials has
+declined 79%. Tort trials fell to 2,108 in 1990 and then 
+to 1,147 in 2000. By 2003 U.S. district courts terminated
+fewer than 800 tort cases by trial. Tort cases decided by
+trial as a percentage of all tort terminations have also
+declined from about 10% in 1985 to 2% in 2003.
+
+The growing use of alternative dispute resolution (ADR)
+is frequently cited as a primary contributor to the falling
+trial rate. The AOUSC reports that in 2002 mediation and
+arbitration programs were used in 49 Federal judicial
+districts and impacted more than 25,000 civil cases.
+Other legal scholars have speculated that the increased
+complexity and costs inherent in taking a case to trial
+have contributed to the decreasing number of trials in U.S. 
+district courts.***Footnote 6: AOUSC, Judicial Business of 
+the U.S. Courts, 2002, and Marc Galanter, "The Vanishing
+Trial: An Examination of Trials and Related Matters in
+Federal and State Courts," Journal of Empirical Legal
+Studies, 1 (3), 2004, pp. 459-570.***
+
+U.S. district court jurisdiction
+
+Federal courts cannot decide a tort case unless the
+criteria for Federal subject matter jurisdiction are met.
+Federal subject matter jurisdiction refers to the legal
+basis that allows a civil case to be filed and adjudicated
+in the U.S. district courts. U.S. district courts exercise
+jurisdiction in civil actions that --
+(1) deal with a Federal question arising from the
+interpretation and application of the U.S. Constitution,
+acts of Congress, or treaties ("Federal
+question")***Footnote 7: Title 28 U.S.C. sec 1331.*** or
+(2) exceed $75,000 and are between parties (citizens
+and/or corporations) residing in different States or parties
+of a State and citizens, corporations, or subjects of a
+foreign country ("diversity of citizenship")***Footnote 8:
+Title 28 U.S.C. sec 1332. The minimum value required was
+$10,000 until 1989 and $50,000 until 1996, when it was
+raised to $75,000 in P.L. 104-317, Federal Courts
+Improvement Act.*** or
+(3) are initiated by the U.S. Government ("U.S.
+Plaintiff")***Footnote 9: Title 28 U.S.C. sec 1345. or
+(4) are brought against the U.S. Government for alleged
+negligent or wrongful acts resulting in personal 
+injury or property damage ("U.S. Defendant").***Footnote
+10: Title 28 U.S.C. sec 1346.***
+
+Diversity of citizenship was the jurisdictional basis 
+for nearly two-thirds of the 1,647 tort trials 
+terminated in U.S. district courts during fiscal years 
+2002-03. Federal questions provided the jurisdictional 
+criteria for 21% of tort trials, while the U.S. 
+Government was the defendant in 12% of tort trials in 
+U.S. district courts. Jurisdiction based on the U.S. 
+Government being the plaintiff accounted for less than 
+1% of tort trials terminated in U.S. district courts. 
+
+Diversity of citizenship cases accounted for at least 6 
+out of 10 tort trials in U.S. district courts from 1970 
+to 2003. The proportion of tort trials based on diversity
+of citizenship increased during the 1980's and 1990's so
+that by 1998 three-fourths of all tort trials involved
+diversity of citizenship jurisdiction. By 2002–03, however,
+the percentage of tort cases with diversity of citizenship
+jurisdiction declined to about two-thirds of tort trials. 
+
+From 1970 to 2003, tort cases in which the U.S. Government 
+was sued as the defendant represented 9% to 15% of tort 
+trials terminated in U.S. district courts. Federal 
+question cases declined from an average of about 22% of 
+tort trials during the 1970's and 1980's to an average 
+of 17% of tort trials in the 1990's and early 2000's. 
+
+Origin of tort trials
+
+The majority (64%) of the 1,647 tort trials terminated 
+in fiscal years 2002-03 originated in U.S. district 
+courts. An additional 24% of tort trials were civil 
+actions initiated in State courts but removed to a U.S. 
+district court, 8% were reopened or reinstated, and 3% 
+were transferred from another Federal district. About 
+1% of tort trials were remanded from an appellate court 
+or originated from multidistrict litigation.
+
+The nature of suit in tort trials
+
+For the purposes of this report, tort trials were 
+organized into two case categories: personal injury 
+and property damage cases. Personal injury involves 
+injury to a person or to the reputation of a person, 
+while property damage involves damage to one's personal 
+or business property.
+
+During 2002-03 personal injury cases accounted for 
+nearly 90% of the 1,647 tort trials terminated in U.S.
+district courts. Motor vehicle (20%) cases, which in this
+report refer to accidents rather than defective products,
+and product liability (13%) cases were some of the most
+frequent types of personal injury tort trials, followed by
+marine (10%) and medical malpractice (10%) cases. Personal 
+injury cases classified as "Other" also accounted for a 
+substantial proportion (28%) of tort trials.
+
+Type of trial termination: bench or jury
+
+Federal civil trials can be decided by either a jury
+comprised of 6 to 12 members (jury trial) or a Federal
+district judge or magistrate judge (bench trial). The
+plaintiff or defendant may request that the case be
+decided by a jury trial. A jury verdict for either the 
+plaintiff or defendant must be unanimous and cannot be 
+taken from a jury with fewer than six members.***Footnote 
+11: Title 28 Federal Rules of Civil Procedure sec 38.***   
+If no request for a jury trial is made by either party, 
+the case is tried by a bench trial. Federal law also 
+stipulates that bench trials be required for most cases 
+in which the United States is named as the defendant.
+***Footnote 12: Title 28 U.S.C. sec 2402.*** 
+
+About 7 out of 10 tort trials terminated in U.S. district
+courts during fiscal years 2002-03 were decided by a
+jury. Judges decided the remaining 30% of tort trials in
+U.S. district courts during this period. Whether the tort
+trial was terminated before a judge or jury varied by the
+basis for Federal jurisdiction. Juries handled nearly 90%
+of tort trials in which Federal jurisdiction was based on
+diversity of citizenship and 61% of tort trials in which a
+Federal question brought the case into U.S. district court.
+Judges, in comparison, decided 95% of the 205 tort trials
+in which the U.S. Government was sued. 
+
+The type of trial termination also differed according to 
+the nature of the suit . A jury decided about 73% of tort 
+trials involving a personal injury issue. The personal 
+injury case categories with the highest rates of jury 
+trial terminations included product liability (90%),
+assault/libel/slander (89%), Federal employers' liability
+(84%), other personal injury (77%), and personal injury
+motor vehicle (74%) cases. Judges, in comparison,
+decided at least 40% of personal injury trials with a
+marine or medical malpractice claim. The bench trial rate
+for property damage cases was also 40%.
+
+Trial terminations: Plaintiff winners
+
+During fiscal years 2002-03, plaintiffs won almost half 
+of tort trials terminated in U.S. district courts. 
+Plaintiff win rates were fairly similar in both personal 
+injury (48%) and property damage (49%) tort trials.
+
+Plaintiffs prevailed in over half of personal injury 
+tort trials involving Federal employers' liability (69%), 
+motor vehicle (57%), and marine (54%)claims. In comparison,
+plaintiffs won less frequently in assault/libel/slander
+(38%), medical malpractice (37%), and product liability
+(34%) tort trials decided in U.S. district courts.
+
+The plaintiff win rates also varied considerably among
+property damage trials. Plaintiffs won in 61% of fraud
+property damage trials. In property damage trials
+involving product liability issues, less than a third 
+of plaintiffs prevailed.
+
+Trial terminations: Monetary 
+damage awards
+
+Plaintiffs who prevail in tort trials are typically 
+awarded compensatory awards for economic and 
+noneconomic damages. Economic damages include financial 
+losses stemming from the defendant's negligent conduct, 
+while noneconomic damages encompass damages resulting
+from the pain, suffering, or emotional distress 
+negligently inflicted by the defendant on the plaintiff. 
+Distinct from compensatory awards, punitive damages are 
+reserved almost exclusively for tort claims in which the
+defendant's conduct was grossly negligent or intentional.
+Punitive damages tend to be awarded infrequently in tort
+trials.***Footnote 13:In the tables and text presented in
+the next several sections, award amounts include both
+compensatory and punitive damages. Because of the nature 
+of the data, the compensatory and punitive damage award 
+amounts could not be separated.*** 
+
+In 590 or 84% of the 704 tort trials in which the  
+plaintiffs prevailed, the jury or court awarded damages 
+(not shown in a table). This varied little across the 
+tort case types. Plaintiffs were awarded damages in 84% 
+of personal injury trials and 81% of property damage 
+trials in which they prevailed.***Footnote 14: Award 
+data were not available for all plaintiff winners 
+because the award field is not mandatory for data entry. 
+In addition, some plaintiff winners were awarded attorneys' 
+fees and court costs, while others were awarded in the 
+form of an injunction. These plaintiffs were also not 
+counted as award winners.***
+
+The estimated median damage award garnered by plaintiff 
+winners for all tort trials in U.S. district courts
+during fiscal years 2002-03 was $201,000.***Footnote
+15: In this report the median awards should be
+understood as estimates rather than as exact award
+amounts. For further discussion of the award statistics,
+see Methodology on page 11.***  The median damage award 
+for personal injury tort trials was $181,000, while for 
+property damage trials, the median damage award was 
+$321,000. 
+
+In half of the 49 medical malpractice trials that produced
+monetary damages for prevailing plaintiffs, the award
+amount was $600,000 or above. The median award for
+plaintiff winners in personal injury motor vehicle trials
+was $164,000 and for product liability trials was
+$350,000.
+
+Trial terminations: Plaintiff winners, 
+damage awards, and case 
+processing times for jury 
+and bench trials
+
+The plaintiff win rates, damage award amounts, and case 
+processing times varied by whether the trial took place 
+before a jury or judge. Plaintiffs overall tended to win 
+more often in bench (54%) than in jury (46%) tort trials. 
+Personal injury cases also manifested higher plaintiff 
+win rates in judge (56%) trials than in jury (45%) tort 
+trials. In property damage trials however, the 
+percentage of prevailing plaintiffs was greater in jury
+(53%) than in bench (42%) trials. 
+
+Although judges found for plaintiffs more often than
+juries, the estimated median damage award was higher
+in jury ($244,000) than in bench ($150,000) tort 
+trials. The award differences were particularly 
+striking between jury and bench property damage trials. 
+Among the 45 property damage jury trials with 
+prevailing plaintiffs, the median award was $700,000; 
+in comparison, the 18 property damage bench trials with 
+plaintiff winners generated a median damage award amount 
+of $196,000.
+
+Diversity of citizenship tort trials
+
+Diversity of citizenship served as the basis of Federal
+jurisdiction for nearly two-thirds of tort trials 
+terminated in U.S. district courts in 2002-03. Of these 
+1,091 diversity of citizenship tort trials, 59% involved 
+individual U.S. citizens bringing suit as plaintiffs 
+against U.S. businesses as defendants. An additional 31% 
+of these trials dealt with U.S. citizens from different 
+States suing each other, and about 3% were between U.S. 
+businesses in different States. The plaintiff was a 
+foreign citizen in about 2% of diversity of citizenship 
+trials, while a foreign nation was the plaintiff in one 
+of these trials during fiscal years 2002-03. 
+
+Plaintiffs won in 45% or 447 diversity of citizenship tort
+trials in 2002-03 (table 10). Plaintiff winners received
+monetary awards in 82% of diversity of citizenship tort
+trials with an estimated median damage award of $232,000. 
+The median damage awards, however, varied according to 
+the type of case litigated. Among the personal injury 
+diversity trials, the median damage awards were highest 
+for plaintiff winners in medical malpractice ($663,000) 
+and product liability motor vehicle ($548,000) trials. 
+In personal injury motor vehicle trials, the median 
+damage award for the 114 trials with prevailing 
+plaintiffs was $159,000.
+
+Federal question tort trials
+
+In fiscal years 2002-03 U.S. district courts terminated
+345 tort trials that involved a Federal question.
+Eighty-five percent of these trials dealt with personal
+injury matters, relating particularly to marine personal
+injury (138 trials) and Federal employers' liability 
+(72 trials) cases (not shown in a table). Plaintiffs won 
+in 55% or 158 Federal question tort trials and received 
+monetary awards in 136 of these cases. The estimated 
+median damage award among plaintiff winners in tort 
+trials involving a Federal question was $179,000.
+
+Case processing time
+
+About two-thirds of tort cases disposed of by trial in 
+U.S. district courts were completed within 2 years after 
+filing of the initial complaint. An additional 30% of 
+tort trials were terminated within 3 to 4 years, while 
+5% took 5 years or more to dispose.
+
+The median case processing times did not differ
+appreciably for tort cases terminated by jury or bench
+trial. The median time period from filing to disposition
+was 20 months for jury trials and 19 months for bench
+trials terminated in U.S. district courts during fiscal 
+years 2002-03.
+
+Tort trials involving the U.S. 
+Government as defendant
+
+The Federal Tort Claims Act governs tort actions 
+against the U.S. Government. This act provides the 
+legal mechanism for compensating persons injured by 
+the negligent or wrongful acts of Federal employees
+committed within the scope of their employment. An
+administrative claim to the appropriate Federal agency 
+is a prerequisite to filing suit in U.S. district court. 
+The claimant can file suit in U.S. district court only 
+if the claim is denied by the Federal agency in writing 
+or if the Federal agency does not make a decision about 
+the claim within 6 months. Most lawsuits under the act 
+can only be tried by bench trial.***Footnote 16: Title 
+28 U.S.C. sec 2671 - 2680.***
+
+The Torts Branch of the Civil Division within the
+Department of Justice represents the United States, 
+its agencies, and officers sued in tort actions. This 
+includes suits against the United States under the 
+Federal Tort Claims Act, the Public Vessels Act, all 
+admiralty suits, and common law suits against individual 
+government employees.***Footnote 17: Title 28 U.S.C. 
+sec 2679. Urban A. Lester and Michael F. Noone, 
+Litigation with the Federal Government, 3rd edition. 
+Philadelphia: The American Law Institute, 1994.***  
+
+During fiscal years 2002-03, the U.S. Government was
+the defendant in 205 tort trials terminated in U.S. 
+district courts. These cases were mostly personal
+injury cases related to motor vehicles, medical
+malpractice, and other personal injury cases. Plaintiffs 
+won in slightly over half of tort trials against the U.S.
+Government, and the estimated median amount awarded in 
+these cases was $196,000. Half of the plaintiffs who 
+prevailed in the 25 medical malpractice trials against 
+the U.S. Government in fiscal years 2002-03 were awarded 
+damages of at least $550,000.
+
+------------------------------------------
+Medical malpractice trials in U.S. 
+district courts, 1990-2003
+
+From 1990 to 2003, plaintiffs received monetary
+damages in an average of 28% of medical malpractice
+trials concluded in U.S. district courts. The 
+estimated median awards ranged from $306,000 in 
+1994 to over $1 million in 1990, 1991, and 2003.
+-----------------------------------------------
+
+Asbestos and nonasbestos product 
+liability trials terminated in U.S. 
+district courts, 1990–2003
+
+Nonasbestos product liability trials have declined by
+about two-thirds from 279 trials in 1990 to 87 trials 
+in 2003.***Footnote 18:The number of asbestos and
+nonasbestos product liability trials in tables 12 and 
+13 are limited to trials in which the plaintiff winner 
+could be determined.***  
+
+On average, plaintiffs prevailed in nearly a third of
+nonasbestos product liability trials during this period. 
+This is lower than the overall plaintiff win rate of 
+about 50% in tort trials in U.S. district courts. The 
+estimated median damage awards garnered by plaintiff 
+winners in nonasbestos product liability trials exceeded 
+$1 million in fiscal year 2000. In 7 of the 14 fiscal 
+years examined, the median awards in nonasbestos product 
+liability trials ranged from $500,000 to less than $1 
+million in damages. 
+
+Although asbestos cases account for a substantial
+portion of tort litigation in U.S. district courts, few 
+of these cases are terminated by trial. After increasing 
+from 87 trials in 1990 to 271 trials in 1991, the number 
+of asbestos trials has declined substantially. Since 1991 
+in the U.S. district courts, a judge or jury has decided 
+an average of five asbestos cases per year. In 2000, 2002,
+and 2003 there were no asbestos trials in which plaintiff
+winners could be identified in the Federal district courts.
+On average, plaintiffs won in nearly 3 out of 4 asbestos
+product liability trials.
+
+Methodology
+
+The primary source of data presented in this report is 
+the Federal Judicial Center's Integrated Data Base(Civil).
+Data tabulations were prepared from the BJS staff
+analysis of source agency data sets. The Federal civil
+tort categories used in this report are based primarily on
+the codes established by the Administrative Office of the
+United States Courts (AOUSC). Case level information is
+provided by individual U.S. district courts, which submit
+data to the AOUSC. The categories for types of cases in
+this report are based on those defined by the AOUSC.
+As a result no detailed information is available on the
+number of "other personal injury" cases and "other product 
+liability cases." For tort cases that involved more than 
+one type of action filed, the AOUSC instructs the 
+plaintiff's attorney if the cause fits more than one 
+nature of suit, to select the most definitive. It is the 
+first nature of the suit code that was used in the 
+analysis for this report.
+
+For tort cases where more than one basis of jurisdiction
+applies, the case was coded according to the highest
+priority jurisdiction that applies. Cases in which the 
+U.S. Government is the plaintiff have the highest priority,
+followed by the U.S. Government as defendant, Federal
+questions, diversity of citizenship cases, then local
+questions. Calculations pertaining to plaintiff winners 
+and their award amounts were based on cases for which the
+plaintiff or defendant winner was known. The plaintiff
+winner category does not include instances where both
+parties won the case.
+
+Note on fiscal years
+
+The AOUSC reports on Federal caseloads by fiscal
+rather than calendar year. The period covered by a 
+fiscal year changed in 1992. Prior to 1992 the 
+fiscal year started on July 1 and ended on June 30 
+of the next year. The change in 1992 resulted in the 
+fiscal year beginning on October 1 and ending on 
+September 30.
+
+In BJS reports on tort trials terminated in U.S. 
+district courts during fiscal years 1994-95 (NCJ 
+165810) and 1996-97(NCJ 172855), the fiscal years 
+1990, 1991, and 1992 were modified to reflect the 
+current definition. This report maintains consistency 
+with those earlier BJS reports: data for fiscal years 
+1990-92 have the October-to- September format. The 
+fiscal years during the 1970's and 1980's, however, 
+have not been revised.
+
+Note on damage awards
+
+Damage award amounts are presented as estimates
+limited by data coverage and quality issues. For 
+further information about award variables see the 
+AOUSC codebook at the National Archive of Criminal 
+Justice Data <http://www.icpsr.umich.edu/NACJD/index.
+html>; the codebook is archived with studies 4026 
+and 4059. Eisenberg and Schlanger audited the AOUSC 
+damage award data by comparing the Federal data files 
+to the Public Access to Court Electronic Records 
+(PACER)docket sheets. They found that the median awards
+offered a reasonable upper level estimate of the
+damages awarded to prevailing plaintiffs. The AOUSC
+median damage award for tort cases terminated by trial
+was 10% higher ($151,000) compared to the $137,000
+median award calculated from the PACER docket sheets. 
+See Theodore Eisenberg and Margo Schlanger, "The 
+Reliability of the Administrative Office of the U.S.
+Courts Database: An Initial Empirical Analysis," Notre
+Dame Law Review, 78(5) 2003, pp. 101-143. 
+
+Definitions
+
+After court trial -- An action disposed of after the
+completion of a trial before a district judge or 
+magistrate judge.
+
+After jury trial -- An action disposed of after the
+completion of a trial before a jury.
+
+Procedural progress at termination -- The point to
+which an action progressed when it was disposed of.
+When used as part of these definitions, a trial is 
+defined as a "contested proceeding where evidence is
+introduced." A trial is considered completed when a
+verdict is returned by a jury or a decision is 
+rendered by the court.
+
+Tort -- A civil wrong or breach of a duty to another
+person, as outlined by law. A very common tort is
+negligent operation of a motor vehicle that 
+results in property damage and personal injury 
+in an automobile accident. 
+
+U.S. Government defendant -- An action against
+agencies and officers of the United States.
+
+U.S. Government plaintiff -- An action by 
+agencies and officers of the United States.
+
+Federal question cases -- Cases involving the
+interpretation and application of the U.S. 
+Constitution, acts of Congress, or treaties.
+
+Diversity of citizenship cases -- Cases involving
+actions in which the amount in controversy exceeds
+$75,000 between citizens or corporations of different
+States; citizens or corporations of a State and 
+citizens or subjects of a foreign country; citizens 
+or corporations of different States where citizens or 
+subjects of a foreign country are additional parties; 
+or a foreign state as defined in Title 28 U.S.C. 
+Section 1603(a), as plaintiff, and citizens of a 
+State or different States.
+
+Local question -- Cases involving non-Federal civil
+procedures based on local civil law in territorial 
+districts.
+
+Sources of definitions:
+
+"Glossary of Terms Used in the Federal Courts,"
+prepared by the Administrative Office of the U.S. 
+Courts.
+
+"Statistics Manual, Chapter V: Instructions for
+Completing District Court Report Forms." Guide to
+Judiciary Policies and Procedures, Volume XI, 
+published and distributed by the Administrative 
+Office of the U.S. Courts.
+
+-------------------------------------------------
+The Bureau of Justice Statistics is 
+the statistical agency of the U.S. Department 
+of Justice. Lawrence  A. Greenfeld is director.
+
+Thomas H. Cohen wrote this Bulletin under the
+supervision of Steven K. Smith. Mark Motivans 
+provided statistical assistance and review. Devon 
+Adams commented on the report. Maurice Galloway 
+of the AOUSC provided data assistance and reviewed 
+the report. Joe Cecil, Senior Researcher, Federal 
+Judicial Center, provided comments on awards and 
+trend data. Carolyn C. Williams and Tom Hester of 
+BJS edited the report. 
+
+August 2005, NCJ 208713
+-------------------------------------------------
+
+------------------------------------------------
+The primary source of data for tables presented 
+in this report is the Federal Judicial Center's 
+Integrated Data Base (Civil). The Center derives 
+the data for the integrated data base (civil, 
+criminal and appeals) from files provided by the 
+Administrative Office of the U.S. Courts (AOUSC). 
+
+The AOUSC data are based on information received
+from the U.S. district courts regarding the filing 
+and termination of cases and appeals in the Federal 
+courts. The integrated data base is archived at the 
+National Archive of Criminal Justice Data (NACJD) 
+"Federal Court Cases: Integrated Data Base" (Study 
+# 4026 and Study # 4059). Data can be obtained 
+from the archive through 1-800-999-0960 or
+<http://www.icpsr.umich.edu/NACJD/index.html>.
+------------------------------------------------
+
+
+End of file
+07/26/05 ih

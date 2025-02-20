@@ -1,0 +1,3792 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+
+Improving Access to and Integrity of Criminal History
+Records
+
+
+July 2005, NCJ 200581
+
+
+--------------------------------------------------------------   
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/iaichr.htm
+
+--------------------------------------------------------------
+
+Peter M. Brien
+Bureau of Justice Statistics
+
+Lawrence A. Greenfeld
+Director
+
+Peter M. Brien, Statistical Policy Advisor,
+BJS wrote this report. Todd D. Minton, BJS 
+Statistician, verified the findings.
+Tina Dorsey produced the report, and Tom
+Hester edited it.
+
+Contents
+
+Achievements of the National Criminal History 
+Improvement Program                       
+
+Missing dispositions in criminal history records           
+
+Opportunities for improving background checks              
+
+Appendix I. Identifying prohibited purchasers:
+The mentally ill                          
+
+Appendix II. Identifying prohibited purchasers:
+Domestic violence misdemeanants and subjects
+of restraining orders                     
+
+Appendix III. BJS surveys in the aftermath
+of September 11, 2001  
+
+Office of Justice Programs
+Partnerships for Safer Communities               
+
+Achievements of the National Criminal 
+History Program
+
+NCHIP overview
+
+The National Criminal History Improvement Program
+(NCHIP) represents a close collaboration among the
+Bureau of Justice Statistics (BJS), State criminal 
+justice agencies, and the Federal Bureau of Investigation 
+(FBI). Since 1995, this collaboration has improved the 
+nation's public safety by enhancing and upgrading the 
+States' criminal history records which are used for 
+background checks for firearms purchases, pre-employment 
+checks for certain sensitive professions, criminal 
+sentencing decisions, and many other purposes. The NCHIP
+program has facilitated the development of a national
+network of State criminal records which is available to
+State and federal law enforcement officials. 
+
+The program has provided direct financial and technical
+assistance to States to develop and upgrade their
+criminal record information systems -- including records
+of protection orders, sex offender registries, and
+automated fingerprint identification. NCHIP has been
+instrumental in making these records accessible on an
+interstate basis through FBI administered systems  -
+*  the National Instant Criminal Background Check 
+System (NICS)
+*  the Interstate Identification Index (III)
+*  the National Protection Order File
+*  the National Sex Offender Registry
+*  the Integrated Automated Fingerprint 
+Identification System (IAFIS).
+
+Since 1995 BJS has awarded nearly $400 million to
+States and Territories. During the period of funding 
+the number of criminal history records has increased 
+29% nationwide, and the number of automated records
+available for immediate use by law enforcement
+increased 35%.  
+
+As of December 31, 2001, there were nearly 64.3 million
+subjects in State criminal record files, and 89% of 
+these records were automated. 
+
+This highlights section presents an overview of 11
+performance measures for NCHIP: 
+
+*  Millions of background checks are supported by the
+NICS
+*  The percentage of State criminal history records
+which are automated has improved
+*  The number of records that are shareable through the
+FBI's III has increased
+*  The number of States participating in III has increased
+*  More law enforcement agencies are reporting arrest
+information electronically
+*  The number of States participating in the FBI's IAFIS
+has increased
+*  More courts are transmitting automated dispositions
+*  Criminal history information processing has become
+more efficient
+*  The National Protection Order File has significantly
+expanded
+*  The National Sex Offender Registry has reached
+record levels
+*  NCHIP has established a framework to assist in
+Homeland Security.
+
+These measures summarize how NCHIP has assisted States 
+in improving criminal history record completeness and 
+automation.
+
+The National Instant Criminal Background 
+Check System (NICS) supports millions of 
+background checks 
+
+NCHIP funds have supported State efforts to conduct
+rapid and efficient checks under the NICS. In 2001, 
+the NICS supported nearly 8 million checks at the 
+presale stage of firearms purchases.  
+
+Assisted by NCHIP funding, the State NICS infrastructure 
+made the transition from an interim system to the current 
+permanent system. Under the interim Brady system, the 
+chief law enforcement officer conducted checks. 
+
+Currently States operate background check systems of
+their own (Point-of-Contact States or POC States), 
+rely exclusively on the NICS, or do both. 
+
+From the inception of the Brady Act on March 1,1994,
+to December 31, 2001, nearly 38 million applications 
+for firearm transfers were subject to background Checks.
+
+---------------------------------------------
+Data sources for measuring access to and 
+integrity of criminal history records
+
+Almost a decade before the inception of NCHIP in fiscal
+year 1995, BJS formed a partnership with the States
+and the FBI to improve the accuracy and accessibility of
+criminal history records. After passage of the Brady Act,
+expanded use of those records enlarged both BJS' role
+as administrator of funds to improve record systems and
+BJS' role as statistical monitor to meas-ure efficiency
+and completeness.
+
+The following provided data for this report:
+
+*  Since 1989 BJS has funded the biennial Survey of
+Criminal History Information Systems, conducted by
+SEARCH, The National Consortium for Justice
+Information and Statistics.
+
+*  In 2001 and 2002 BJS initiated research with the
+Regional Justice Information Service (REJIS) and
+SEARCH. These collaborations  addressed issues
+related to the completeness and accuracy of criminal
+history records, mental health records, restraining
+orders, and misdemeanor domestic violence records.
+
+*  Upon passage of the Brady Act and creation of
+NCHIP, BJS initiated the Firearm Inquiry Statistics
+program as part of NCHIP. The program operates
+through a cooperative agreement with REJIS.
+---------------------------------------------
+Number of firearm purchase applicants: 7,806,000					
+A. Checks conducted by NICS: 4, 248,900
+ 1. Number denied for purchase by NICS: 60,700 (1.4%)			
+(a) Number of denials appealed: 10,400 (17%)			
+ (Number of denials reversed: 3,200)			
+ (b) Number of denials not appealed: 50,300 (83%)
+2. Number approved for purchase by NICS: 4,188,200 (98.6%)			
+ (a) Retrievals due to erroneous sale: 3,400			
+									
+B. Checks conducted by POC's: 3,556,900
+1. Number denied for purchase by POC's: 75,200 (2.1%)
+(a) Number of denials appealed: 13,500 (18%)				
+(Number of denials reversed: 6,300)
+(b) Number of denials not appealed: 61,800 (82%)			
+2. Number approved  for purchase by POC's: 3,481,700 (97.9%)
+(a) Retrievals due to erroneous sale: 3,400				
+									
+Sources: BJS; Bureau of Alcohol, Tobacco, Firearms and Explosives; and the NICS Program of the FBI
+
+------------------------------------------------
+Of the nearly 8 million checks conducted in 2001, 98%
+of applicants were approved whether the check was
+conducted by the State or the FBI.***Footnote 1: This 
+2% rejection rate is consistent with the rejection 
+rates from 2001, 2000, 1999, and 1998 and during the 
+interim Brady period from 1994 to 1998.***  
+   
+There are two principal ways to evaluate the
+performance of the background check system:
+*  Examine the percentage of applicants for a firearm
+purchase who were incorrectly prohibited (Error I) 
+*  Examine the percentage of persons who were allowed
+to purchase a firearm who should have been prohibited
+from doing so (Error II). 
+
+Error I can be measured by calculating the ratio of
+successful appellants of a rejection to the total number
+of applicants to purchase a firearm. In 2002 there were
+9,500 successful appeals of rejections from among the 
+7,806,000 applicants that year. This translates into an 
+error rate of 0.1%.
+
+Error II can be measured by calculating the ratio of
+firearm retrievals by law enforcement to the total number
+of applicants to purchase a firearm. In 2002 there were
+7,400 retrievals due to an incorrect sale to a prohibited
+purchaser against a total of 7,806,000 applicants. This
+also translates into an error rate of approximately 0.1%.
+
+Among the 136,000 applicants rejected as prohibited
+purchasers during 2002, 8 in 10 did not appeal the
+rejection. Among those who filed an appeal, almost 
+6 in 10 rejection decisions were sustained.
+
+Levels of State criminal record 
+automation have increased 
+
+There have been notable improvements in the automation
+of State criminal history records since 1995. As the 
+number of criminal records has increased in recent 
+years, the NCHIP program has helped the States to 
+ensure that levels of automation remain high. In 2001,
+30 States had at least 90% of their criminal history
+records automated, compared to 22 States in 1995.  
+
+The number of States with relatively low levels of
+automation (defined as having less than 70% of records
+automated) declined from 13 States in 1995 to 6 States
+in 2001. 
+
+2001 represents the first year in which more than half 
+of the States (27) indicated that 100% of their criminal
+history records were automated. In 1999, 21 States
+reported having 100% automation, as did 18 States in
+1995.
+
+Number of records shareable through 
+the FBI's Interstate Identification 
+Index (III) has increased 
+
+The number of Interstate Identification Index (III) 
+records maintained by the States as compared to the 
+records maintained by the FBI is an important measure 
+of the decentralized nature of the background check 
+system. To ensure that criminal history records are 
+compatible across all States, record improvements 
+funded by BJS under NCHIP are required to conform 
+to FBI standards for III participation. BJS has 
+designated State participation in the III as one 
+of the highest priorities of the NCHIP program.
+
+From yearend 1993 to April 2003, the number of State
+records available for sharing under the FBI's III 
+nearly doubled from 25.5 million to 48.5 million. 
+Since 1993 the number of records available for III 
+has been increasing at a much faster rate than the 
+overall number of criminal records.
+
+In 1993 half of all criminal history records were III
+accessible, and 70% were in 2001. It is projected 
+that in 2005, more than three-fourths of all criminal 
+history records will be accessible through the III.
+
+At yearend 2001, 22 States had at least 75% of their
+records accessible through III, and 15 States had 50%
+to 74% of their records III accessible. 
+
+Number of States participating 
+in III has increased  
+
+As part of NCHIP's commitment to achieving full State
+participation in the FBI's III system, BJS has used the
+NCHIP program to encourage all States to make their
+records available to the FBI and other States. In 1989,
+20 States were members of the III system. The number
+of participating States grew to 26 in 1993. As of May
+2003, 45 States were participating in III. 
+
+The application for NCHIP funds requires nonparticipating 
+States to include a discussion of their III status and a 
+plan for future III participation. 
+
+More law enforcement agencies are 
+reporting arrest information 
+automatically 
+
+State law enforcement agencies have frequently relied on 
+the NCHIP program to help them transition from ink-based 
+fingerprinting systems to electronic systems. From 1999 
+to 2003 NCHIP has provided States with approximately 
+$31 million for Livescan systems and their participation 
+in the FBI's automated fingerprint system. These systems 
+allow fingerprints to be scanned and instantly 
+transmitted electronically to criminal justice agencies 
+throughout the State or Nation. 
+
+Among the 37 States reporting complete data, the number 
+of arresting agencies that electronically transmit
+arrest information and fingerprints increased by more
+than 2,000 from 1997 to 2001. Nationwide, 2,594
+agencies electronically submitted arrest information 
+in 2001, a substantial increase from 493 agencies 
+in 1997.
+
+An increasing number of States participate 
+in the FBI's Integrated Automated Fingerprint
+Identification System (IAFIS)
+
+NCHIP funds are available to all States for the
+conversion to IAFIS. As of March 2003, 43 States, the
+District of Columbia, and 3 Territories participated 
+in IAFIS. In fiscal year 2002 NCHIP distributed over 
+$3.8 million to 19 States and the District of Columbia 
+to purchase equipment for the automatic capture and
+transfer of fingerprint images.
+
+More courts are transmitting 
+automated dispositions
+
+Whether the States can maintain complete and accurate
+criminal history records depends heavily on the 
+ability of the courts to report final dispositions 
+automatically to the criminal history repository or 
+court administrator's office. For several years NCHIP 
+has been committed to supporting the record and case 
+management systems of State and local courts.  
+
+From 1997 to 2001 NCHIP funds assisted nearly 725
+courts to develop the ability to report final 
+dispositions automatically.  As of yearend 2001, over 
+2,000 courts were reporting disposition information 
+electronically, based on 25 States reporting complete 
+data.
+
+As part of NCHIP's support for capture of judicial
+decisions for criminal history records, participating
+courts across the United States have developed the
+ability to -- 
+(1) electronically link fingerprints and other biometric
+information to dispositions and share this information
+with corrections and law enforcement agencies
+(2) provide electronic protection order/restraining 
+order files that can be accessed by law enforcement 
+officers in the field
+(3) establish and maintain sex offender registries
+(4) convert juvenile records to the adult case
+management system
+(5) establish databases of offender-based information. 
+
+Processing criminal history 
+information becoming more efficient 
+
+Since 1995 NCHIP has assisted States in developing
+and implementing integrated criminal history record
+systems. Through NCHIP support, new information
+technologies have enabled State criminal justice
+agencies to share critical information more efficiently. 
+The average time required for agencies to transmit
+arrest information, final court dispositions, and prison
+admissions to criminal history repositories has declined
+significantly since 1995. In addition, these repositories
+are processing and posting this information more quickly
+than in 1995.
+
+From 1995 to 2001 the average time between an arrest
+and the addition of fingerprints and information about
+that arrest to a criminal history record was cut nearly 
+in half from 45 days to 24 days. The average time 
+required to receive, process, and add final court 
+disposition information to a criminal history record 
+declined more than 30%, from 68 days to 46 days. In 1995 
+information about an individual's admission to prison 
+took an average of 94 days to be received and then posted 
+to a record. By 2001 this information was processed 3 
+times faster, in 31 days.
+
+Despite progress from 1995 to 2001, not all States have
+adopted integrated or automated systems for transferring 
+criminal history information. In 2001 States were still 
+more likely to transmit information through the U.S. 
+Postal Service than by electronic or online transmissions.  
+
+The National Protection Order File 
+has significantly expanded
+
+A 1994 amendment of the Federal Gun Control Act made 
+illegal the sale of firearms to persons subject to a
+qualifying protection order. A qualifying protection 
+order meets conditions that refer to domestic violence. 
+NCHIP has placed special emphasis on ensuring that 
+domestic violence-related offenses and protection 
+orders are included in criminal records. Funds have been
+specifically awarded for development of State protection
+order files that are compatible with the FBI's national 
+file, NCIC National Protection Order File, to permit 
+interstate enforcement of protection orders. 
+
+The National Protection Order File, the fastest growing
+national set of criminal history records maintained by 
+the FBI, has tripled in size since 2000. On February 3,
+2003, the National Protection Order File held over
+750,000 protection orders from 43 States.
+
+The National Sex Offender Registry 
+has reached record levels
+
+Since 1998, the NCHIP program has  assisted States in
+establishing sex offender registries which interface 
+with the FBI's National Sex Offender Registry. This
+assistance has enabled State sex offender registry
+information to be obtained and tracked from one
+jurisdiction to another.
+
+The National Sex Offender Registry has seen dramatic
+growth in recent years, from nearly 50,000 records in
+2000 to over 280,000 records in 2003. On February 3,
+2003, the National Sex Offender Registry  contained
+records from every State, the District of Columbia, 
+and 3 Territories.
+
+NCHIP helped to create tools for 
+accomplishing the work of  
+Homeland Security
+
+A signal contribution of NCHIP has been to assist the
+States and the FBI in construction of a nationwide
+network of criminal history and fingerprint archives. 
+The contents can be examined for both criminal justice
+purposes (for example, presale firearms checks) and
+noncriminal justice purposes, such as employment
+security clearances. 
+
+In 1992 State repositories held 36.4 million automated
+criminal history records, and 4 States relied completely
+on paper records. Since 1995 NCHIP has assisted the
+States' transition toward automation, so that in 2001
+State repositories held 57.4 million automated criminal
+history records.  As of March 1, 2003, there were 48.5
+million criminal records that were shareable through III. 
+
+Future challenges for NCHIP 
+
+With a history of success, the role of NCHIP has evolved 
+to support the States in pursuing emerging technologies 
+and new criminal justice priorities as identified by 
+Federal and Sate policymakers. 
+
+According to the administrators of NCHIP, there exist 
+areas of opportunity where Federal resources will 
+continue to be needed. Discussed in greater detail in 
+the following pages, these future challenges for NCHIP 
+include:
+
+Updating relevant mental health records -- BJS has
+conducted surveys to examine the status of mental 
+health records among the States. Analysis of responses 
+can help to determine how NCHIP can further enable 
+States to make the information in mental health 
+records available for background checks.  
+
+Improving access to records for domestic violence
+misdemeanor convictions -- Since 1996, when Congress
+added conviction for a domestic violence misdemeanor 
+to the list of Federal firearm prohibitors, NCHIP has 
+worked with the States to improve access to these 
+records; however, significant challenges remain. 
+Recent BJS surveys examined the persistent impediments 
+to accessing these criminal records. 
+
+Ensuring that court disposition reporting systems are
+automated -- All court disposition information should 
+be transmitted electronically using established 
+technologies. The automation of court dispositions will 
+provide complete and accurate information electronically 
+to Federal and State criminal justice officials.
+
+Encouraging prosecutors to complete criminal history
+records by reporting their declinations to prosecute --
+When prosecutors decline to prosecute arrestees, 
+frequently the declinations are not added to the 
+criminal records. Checks of these records require 
+significant effort to discover whether the arrested 
+individual was prosecuted. 
+
+Converting older paper records into an electronic 
+format -- Many State criminal history record 
+holdings contain older records on paper. Full 
+automation awaits the entering of these records 
+into the system.
+
+Linking criminal history transactions with NIBRS
+incident reports -- This linkage allows criminal 
+history records to reflect a wealth of detailed 
+information concerning the nature and characteristics 
+of criminal incidents.  Incident-based information 
+allows for better informed decisions regarding 
+criminal punishment, crime control strategies, and
+policy analysis. 
+
+Developing a uniform national criminal history format 
+for RAP sheets -- Because of variation in criminal 
+history record formats among the States, the interstate 
+exchange and interpretation of criminal history 
+information are unnecessarily complicated. The 
+development and adoption of a uniform format for RAP 
+sheets will make criminal history information more 
+easily understood across jurisdictions.   
+
+Continuing to address privacy and confidentiality
+issues as they relate to non-criminal justice
+background checks -- The Prosecutorial Remedies
+and Other Tools to end the Exploitation of Children
+Today Act of 2003 or PROTECT Act contains provisions
+that will make it easier for private organizations 
+that work with children, the elderly, or the disabled 
+to conduct background checks on volunteers. The 
+PROTECT Act established a pilot program that permits 
+volunteer organizations to submit 100,000 requests for 
+background checks to Federal authorities. States will 
+want to ensure that privacy and confidentiality
+protections are respected as non-criminal justice
+background checks become more prevalent.
+
+------------------------------------
+NCHIP goals
+
+NCHIP remains committed to its responsibility to
+provide Federal assistance to State criminal 
+justice record systems. That bedrock commitment 
+remains as the program addresses these challenges: 
+
+*  Identify how NCHIP can be more effective in
+promoting the use of State mental health records 
+during background checks
+
+*  Create initiatives to remove impediments to the
+availability of conviction records for domestic 
+violence misdemeanors
+
+*  Continue NCHIP efforts to introduce technology into
+all courtrooms so that disposition records will be
+transmitted electronically to criminal history record
+repositories
+
+*  Develop procedures to encourage prosecutors to
+promptly report declinations to the repositories
+
+*  Continue NCHIP's encouragement of States to
+remove backlogs of paper records
+
+*  Support the development and adoption of a 
+uniform RAP sheet
+
+*  Work with States to ensure that privacy and
+confidentiality protections are respected as 
+background checks for noncriminal justice 
+purposes become more prevalent.
+----------------------------------------------
+
+Missing dispositions in criminal history records
+
+In a 2001 survey, half the States reported that from
+10% to over 50% of the arrests recorded in State
+databases had no final disposition indicating how 
+the arrest was resolved. These arrests that lack
+dispositions, known as "open" or "naked" arrests,
+create substantial problems for time-sensitive
+background checks because conducting the
+necessary research to complete the record is often
+time consuming, labor intensive, and costly.
+
+BJS examined the scope of missing dispositions as
+reported by the States in a 2001 survey. Factors 
+that contribute to missing dispositions include the
+following:
+
+* poor communication among the courts, law
+enforcement, and corrections agencies in providing
+final disposition information to the State repository 
+* reliance on the mail and manual research rather
+than on electronic communication
+* repository delays in posting disposition information
+to a criminal record
+* persistent backlogs of criminal justice records in
+criminal history repositories
+* failure of States to audit their data-bases to ensure
+record completeness
+* varying definitions of "missing dispositions" among
+States 
+* inconsistent procedures among States for handling
+missing dispositions.
+
+Missing dispositions or "open arrests" an
+extensive problem
+
+In a 2001 survey, State repository directors were
+asked what percentage of arrests in their databases
+had final dispositions recorded. Six States reported
+that 90% or more of their arrests had corresponding
+final dispositions. Twenty-three States reported that
+between 50% and 89% of arrests had dispositions. In
+nine States less than half of the arrests had final
+dispositions recorded in the databases. Twelve
+States and the District of Columbia could not
+estimate the percentage of arrests with dispositions.
+
+The repository directors also reported the percentage
+of arrests occurring within the last 5 years ("recent
+arrests") that contained final dispositions. Eight
+States reported that 90% or more of their recent
+arrests had final dispositions attached. Twenty States
+reported that between 50% and 89% of recent arrests
+had dispositions. In 12 States less than half of the
+recent arrests in their database had final dispositions
+recorded. Ten States and the District of Columbia
+could not estimate the percentage of recent arrests
+with dispositions.
+
+Another measure of the missing disposition problem is 
+the number of final court dispositions in State files
+that can not be linked to arrest or charging
+information. In 2001, 14 States estimated the number
+of unlinked court dispositions. These States reported
+a total of 704,300 final court dispositions on file 
+that could not be linked to arrest or charging 
+information, an average of over 50,000 unlinked 
+dispositions per State. 
+
+While 14 States estimated the number of unlinked final 
+court dispositions, 16 States estimated the percentage 
+of final court dispositions in their files that could 
+not be linked to an arrest. Minnesota and Indiana 
+reported that half of their final court dispositions 
+could not be linked to arrest or charging information. 
+Wisconsin, Kansas, and Pennsylvania reported that 
+between 30% and 40% of their final court dispositions 
+were unlinked. In Michigan and Nebraska a quarter of 
+their final court dispositions had no link to arrest 
+or charging information. The remaining nine States 
+(Georgia, Maryland, Montana, Nevada, New York, South 
+Carolina, South Dakota, Utah, and Virginia) reported 
+that 10% or fewer of their final court dispositions 
+contained no arrest or charging information.
+
+Poor interagency communication 
+contributes to missing dispositions 
+                        
+Interagency communication can be 
+evaluated in three ways: 
+
+(1) by the number of days required for the court, law
+enforcement agency, or corrections agency to report
+disposition information to the repository
+(2) by the extent to which criminal justice agencies
+rely on manual systems rather than electronic
+systems to transmit disposition information and
+research missing dispositions
+(3) by whether all criminal justice agencies are 
+fully aware of their reporting requirements. 
+
+Disposition data took over a week on 
+average to reach repositories
+
+A leading reason why final dispositions are not
+adequately linked to their associated arrests is 
+delay by the courts, law enforcement, and corrections
+agencies in reporting disposition information to
+repositories. Another important reason, processing
+delays by the repository, is described more fully in 
+a following section.
+
+Court disposition information required 
+3 weeks on average
+
+On average in 2001, it took 21 days for final court
+dispositions to reach the State criminal history
+repository.***Footnote 2: The average number of
+days for final court disposition information to reach
+the repository was based on 1995-2001 data from a
+cohort of 28 States.*** The time required for
+repositories to receive disposition information ranged
+from 1 day or less in six States to 80 days in North
+Dakota. Repositories in most of the reporting
+jurisdictions (21) received final court disposition
+information within 15 days.
+
+The average time required for final court disposition
+information to reach the repository steadily decreased
+from 36 days in 1997 and 33 days in 1999.  In 2001
+final court dispositions reached the repository 14 
+days faster on average than they did in 1995; how-
+ever, as six States have demonstrated, the average 
+time for submission could be 1 day rather than 21 
+days.  
+
+Arrest information required 11 days 
+on average
+
+In 2001, as in 1999, arrest data and fingerprints 
+took 11 days on average to be received by State
+repositories. The time required to receive arrest
+information ranged from 1 day or less in five States
+and the District of Columbia to 169 days in
+Mississippi. In 22 States and the District of
+Columbia, repositories received arrest information
+within 7 days.  
+
+In 1995 and 1997 transmission of arrest information
+to the repository took an average of 13 days and 14
+days, respectively.***Footnote 3: The average number 
+of days for arrest information to reach repositories 
+was based on 1995-2001 data from a cohort of 40 
+States and the District of Columbia.*** Corrections 
+information required 9 days on average
+
+In 2001 an average of 9 days elapsed between a prison 
+admission and the receipt of that information by the 
+State repository. The time required for repositories 
+to receive prison admissions ranged from 1 day or 
+less in nine States to 60 days in North Carolina.  
+Repositories in just over half of the reporting 
+jurisdictions (17) received prison admission
+information in 7 days or less.
+
+In 2001 the average prison admission reached the
+repository 5 times faster than in 1995, when 45 days
+were required. In 1997 and 1999 prison admissions
+reached the repository in 16 days on average.
+***Footnote 4: The average number of days for prison 
+admission information to reach repositories was 
+based on 1995-2001 data from a cohort of 25 States.*** 
+
+Prosecutor declinations often did not reach
+repositories
+
+In 2001, 12 States were able to estimate the number
+of prosecutor declinations -- decisions to drop or
+modify charges -- sent to the repository in the prior
+year. Thirty-two States indicated that State law or
+policy required that prosecutorial declinations be
+transmitted to criminal history repositories.  
+
+Local prosecutors often fail to report declinations 
+to State record repositories. In 2001 five States
+indicated that all prosecutorial declinations were
+transmitted to the repository. In 1999  three States,
+and in 1997 six States, reported that all prosecutors'
+declinations were transmitted to the repository.
+
+BJS, with the American Prosecutors Research
+Institute, is scheduling a survey to delineate more
+clearly the processes by which disposition information
+reaches or fails to reach a repository. The study will
+examine the following: whether statute, regulation,
+office practice, or some other authority governs the
+transmission of declination information by prosecutors; 
+what penalties (if any) exist for noncompliance; the 
+average time from declination to the notification of 
+the repository; and the impediments that exist in 
+reporting declinations promptly to the repository.
+
+Postal services used instead of 
+electronic communication
+
+Trial courts provide most of the information about
+final dispositions. Criminal history repositories in 
+the 47 States and the District of Columbia receive 
+final disposition information from trial courts or 
+the State court administrator's office. Fifteen of 
+those repositories receive all the information through 
+the Postal Service; 14 repositories receive part of 
+that information by mail.
+
+Thirty-five States request final disposition 
+information from prosecutors. In 16 States the 
+repositories receive all information from prosecutors 
+by post; in 12 States, part of that information.
+
+Twenty-six States request law enforcement agencies
+to report information on final dispositions to the
+repository. In 13 States law enforcement agencies
+rely entirely on the Postal Service; in 11 States,
+partially.
+
+Repositories receive final disposition information from
+appellate courts or court administrators in 28 States.
+More than half of these States (15) rely on the Postal
+Service for delivery of all this information; five 
+rely on the Postal Service for some of the information.
+
+Manual systems used to research 
+missing dispositions
+
+A 2001 BJS survey revealed that while researching
+criminal records with missing dispositions, agencies
+in 46 States rely on manual procedures. Most of
+these States (34 of the 46) use only manual systems
+to locate missing final dispositions. Only Colorado,
+Michigan, Pennsylvania, and South Dakota fully
+utilize automated means to obtain missing final
+dispositions.
+
+Agencies unaware of their 
+reporting requirements
+
+In certain States the criminal history repository does
+not capture final disposition information because the
+agencies responsible for providing this information
+are not aware of all reporting requirements. Other
+States report that courts and law enforcement
+agencies are maintaining incomplete or inaccurate
+statistics on final case dispositions.
+    
+Arrest and corrections information does 
+not always reach repositories 
+
+The transmission of arrest and corrections information 
+to the repository is not required by law or policy in 
+all States.  
+
+In 39 States and the District of Columbia, there are
+policies to provide the repository with data on the
+admission or release of felons from State prison. In
+26 States and the District of Columbia, there are
+policies to give the repository information on the
+admission or release of a felon from a local jail.
+
+Thirty-one States and the District of Columbia have
+policies to provide probation information to the
+repository, and 30 States and the District of 
+Columbia have policies to provide parole information.
+
+If an arrestee is not charged with a crime after the
+fingerprints are submitted to the repository, 19 
+States indicated that State law does not require that 
+the repository be notified of the failure to charge 
+the arrestee.
+
+Criminal history repositories face 
+challenges in processing records 
+
+Recent BJS surveys have suggested that criminal
+history repositories are encountering several
+problems including significant backlogs, older 
+records that have no dispositions, and infrequent 
+audits to ensure accuracy of records.  
+
+The backlogs faced by criminal history repositories
+can be measured in two ways: 
+(1) by the length of time between the repository's 
+receipt of information and when that information is 
+entered into a record
+(2)by the number of forms that await entry into the
+record. 
+
+By both measures, State repositories face significant
+challenges that must be met to improve the NICS
+background check process. 
+
+Overall average processing times by 
+repositories decreased, 1995-2001
+    
+Separate from the issues whether the repositories
+receive final court dispositions, arrest information, 
+or correctional information, and whether the received
+information is recent, is how well a repository
+processes information it does receive. Many State
+repositories are unable to quickly process critical
+information and include it in the record, despite
+progress in recent years).
+
+Final court dispositions   Repositories took an average 
+of 25 days to process final court disposition 
+information and post it to a criminal record in 2001.  
+The time required to post court disposition information 
+ranged from 1 day or less in 12 States to 330 days in 
+Washington. The majority of responding jurisdictions 
+(23) entered these data in 10 days or less.
+
+Average processing time has decreased since 1995 and 
+1997 when repositories took 33 and 34 days, respectively, 
+to post final court dispositions. In 1999 an average of 
+24 days was required.***Footnote 5: The average number 
+of days required for repositories to process and post 
+final court dispositions to a record was based on 1995-
+2001 data from a cohort of 32 States and the District 
+of Columbia.***
+
+Prison admission information -- In 2001 an average
+of 22 days elapsed between the repository's receipt
+of prison admission information and the posting of
+that information to the record. The time required to
+post prison admission information ranged from 1 day
+or less in nine States to 90 days in Illinois.  The
+majority of responding jurisdictions (21) enter these
+data in 10 days or less. 
+
+The average number of days required to post prison
+admission information has declined significantly in
+recent years. In 2001 repositories processed and
+posted prison admission information in nearly half 
+the time required in 1999, when the process took an
+average of 43 days. The average processing time for
+prison admissions in 2001 was considerably shorter
+than in 1995 and 1997 when processing took 49 days
+and 29 days, respectively.***Footnote 6: The average 
+number of days required for repositories to process 
+and post prison admission information to a record 
+was based on 1995-2001 data from a cohort of 28 
+States.***
+
+Arrest information -- Repositories took an average 
+of 13 days to post arrest information to a criminal 
+record in 2001. Eleven State repositories posted 
+arrest information in 1 day or less. Oklahoma took 
+180 days -- the longest time period of any State. 
+Most States (27) posted arrest data in 7 days or 
+less.  
+
+In 2001 repositories posted arrest information to a
+criminal record in less than half the time required 
+in 1995, when the process took an average of 32
+days.***Footnote 7: The average number of days
+required for repositories to process and post arrest
+information to a record was based on 1995-2001 data
+from a cohort of 41 States and the District of
+Columbia.***  In 1997 and 1999 State repositories
+took an average of 31 days and 28 days,
+respectively, to process arrest information and 
+post it to a record.
+
+Repository backlogs exceed 
+2.5 million records
+
+In 2001 most States reported that they were
+encountering backlogs in entering certain criminal
+history information into State criminal databases.
+Twenty-six States reported a backlog in entering
+arrest and fingerprint information; 27 States had 
+a backlog of court disposition forms; and 12 States 
+had a backlog of custody supervision reports.
+
+Repositories in States that could estimate the size 
+of their backlogs in 2001 reported that 2.5 million
+records of arrest, disposition, and custody information
+were unprocessed or only partially processed. The
+backlog comprised over 2 million court disposition
+forms, 350,000 fingerprint cards, and 130,000
+custody supervision reports. 
+
+In 2001 State repository backlogs were smaller in 
+all three categories of information than they were 
+in 1995. Compared to 1997, however, the total backlog
+increased 50% in 2001. Most of the increase after
+1997 was attributable to unprocessed court
+disposition forms, increasing from 940,000 in 1997 
+to approximately 2 million in 2001. The number of
+unprocessed custody supervision reports nearly
+tripled from 1997 to 2001 from 46,500 to 134,000.
+From 1997 to 2001, the backlog of unprocessed
+fingerprint cards was cut in half from 710,000 to
+354,000.
+
+The composition of State criminal record backlogs
+remained unchanged in recent years. Since 1995
+court disposition forms have comprised the majority
+of State criminal record backlogs, followed by arrest
+fingerprint cards and custody supervision reports.
+
+Because not all States can estimate the size of their
+repository backlogs, the true number of unprocessed
+or partially processed criminal justice records is 
+likely to be higher than the estimates reported here.
+
+Older records on paper or microfilm account for large
+portion of "open arrests"
+
+Many State criminal history records contain arrests
+from several years ago for which no final disposition 
+was reported. At the request of BJS, the FBI drew a 
+sample of NICS checks that could not be completed 
+instantly due to the presence of "open arrests." More 
+than 75% of the arrests from this sample were from 
+1984 or earlier.  
+
+Audits of criminal history records 
+remain infrequent
+
+In 2001, 23 State criminal history repository directors
+reported that their databases had not been audited
+for completeness in the prior 5 years. An audit would
+have told them how accurate and complete were the
+criminal histories in their holdings. Over half of 
+those States (13) reported that they had not planned 
+or scheduled a data quality audit to occur within the 
+next 3 years. Overall, 24 States did not plan to 
+perform a data quality audit within 3 years of the 
+survey.
+
+Of the 27 States with completed audits after 1995,
+changes were made to improve data quality as a
+result of 22 of these audits.
+
+National standards can help assure 
+complete criminal history records 
+
+The problem of missing dispositions in State criminal
+history records is perpetuated in part because there
+is no national consensus on how a missing disposition 
+is defined, measured, or researched by State agencies.  
+
+Improvements in criminal history records have fallen
+short of earlier BJS efforts to establish voluntary
+reporting standards.***Footnote 8:  Recommended
+Voluntary Standards for Improving the Quality of
+Criminal History Record Information (56 FR 5849).*** 
+The presence of a national standard on the time
+required for final court disposition information to
+reach the repository would encourage better
+performance by States that currently process this
+information more slowly. 
+
+National standards are lacking on the following 
+five issues concerning criminal history record
+completeness.
+
+States define "missing dispositions" differently
+States' definitions of an "open" arrest or "missing
+disposition" vary. It is difficult to accurately 
+identify missing dispositions and obtain a national 
+estimate of the extent of the problem because the 
+term has different meanings in different States. 
+
+Most States (34) and the District of Columbia
+consider any arrest event or charge without a
+disposition to be a "missing disposition," while 
+16 States require a certain amount of time to pass
+before an arrest event or charge is officially
+considered a missing disposition. 
+
+Ten States reported that they define a missing
+disposition as an arrest that is not being actively
+prosecuted. These 10 States rely on a variety of
+methods to determine that an arrest is not being
+actively prosecuted, including notification by the
+prosecutor or court, searching court records, and
+regular audits of records.
+
+States are divided as to whether they measure a
+missing final disposition by using an arrest event 
+or an arrest charge. An event has one or more charges.
+Twenty-one States measure a final disposition by an
+arrest event; 17 States identify it by an arrest 
+charge; and 10 States and the District of Columbia 
+measure a missing final disposition by both an arrest 
+event and an arrest charge. 
+
+There are also two exceptions to the basic information 
+used to determine whether a disposition is missing. 
+Vermont uses arraignments rather than arrests, and 
+Pennsylvania does not specify any particular event 
+to measure a missing disposition.
+
+States require long delays before 
+designating a disposition as "missing"
+                   
+Sixteen State repositories require that time elapse
+before a disposition is officially considered to be
+missing.  
+
+If the subject of a background check has been
+convicted of a disqualifying offense and the
+conviction is not included in the record, in certain
+States months will pass before the record is
+designated as having a missing disposition. During
+those months the subject will not be prohibited from
+purchasing a firearm because the NICS check will not
+reveal the disqualifying conviction.
+  
+Of the 16 States that require a certain amount of 
+time to pass before an arrest event or charge will be
+officially considered to have a missing disposition.
+Two States require that more than 1 year must pass
+before a record without a disposition is officially
+declared to have a missing disposition (Connecticut
+and Washington). In seven States an entire year
+must elapse before a disposition is considered
+missing (Alaska, Indiana, Kansas, Michigan, Missouri, 
+South Carolina, and Virginia). In three States a 
+disposition is not counted as missing until more than 
+6 months have passed (Arizona, Maine, and New York). 
+The remaining four States use another time interval.  
+
+State procedures for handling missing 
+dispositions differ
+
+When State repositories receive new disposition
+information that cannot be linked to an arrest 
+charge or event, States follow varying policies. 
+ 
+From July 1, 2000, to July 1, 2001, 45 States and the
+District of Columbia reported receiving final court
+dispositions that could not be linked to arrest
+information in the criminal history record. When final
+court dispositions could not be linked to an arrest, 27
+States did not enter the unlinked information. Eight
+States created a "dummy" arrest segment with the
+information from the court disposition record, and
+three States entered the court information without any
+linkage to a prior arrest segment. The remaining 12
+States and the District of Columbia followed other
+procedures.
+
+In that same 1-year period, 34 State repositories
+received information from corrections agencies that
+could not be linked to arrest information in the
+criminal history record. When States received
+correctional information for which there was no
+underlying court information, 25 States imputed a
+conviction for the record. Nineteen States and the
+District of Columbia reported that they did not 
+enter a conviction on the record based on information 
+from corrections agencies. 
+
+When information from corrections agencies cannot
+be linked to an arrest, the information is not entered
+into the system in 14 States and the District of
+Columbia. Six States create a "dummy" arrest segment 
+with the correctional information, and 15 States enter 
+the correctional information without any linkage to a 
+prior arrest segment. 
+
+From July 1, 2000, to July 1, 2001, 32 State
+repositories received information from final
+prosecutor dispositions that could not be linked to
+arrest information in the criminal history record. 
+When prosecutor information could not be linked to
+an arrest, 24 States and the District of Columbia did
+not enter the unlinked information. Six States 
+created a "dummy" arrest segment with the unlinked
+prosecutor information, and two States entered the
+prosecutor information without any linkage to a prior
+arrest segment.  
+
+Common identifiers absent in criminal 
+history records
+
+The States use a wide variety of identifiers to link
+disposition information with the arrest or charging
+information, and no single identifier is used by all 
+50 States. 
+
+Forty States and the District of Columbia link
+dispositions by using a unique arrest event identifier;
+28 States and the District of Columbia use a unique
+tracking number for an individual suspect; 22 States
+and the District of Columbia link dispositions by using
+the arrestee's name; and 16 States and the District of
+Columbia link dispositions by using a name and a
+reporting agency case number. Certain States use
+other identifiers, such as arrest date, date of birth, 
+or Social Security number of the arrestee, court docket
+number, or charge number.
+
+None of the States require positive identification that
+would occur with a biometric identifier like fingerprints.
+
+Many States unable to link final  
+dispositions to specific charges
+
+Disposition information in a criminal record is often
+not linked to specific charges or counts. In 33 States
+and the District of Columbia, the method used by the
+repository to link disposition information to the
+arrest/charge information allows the link to be made
+to specific charges or counts, an arrest cycle. State
+criminal history record systems can be compared
+only with difficulty if some systems are appreciably
+more sophisticated and complete than others.
+Dispositions should be linked to specific charges in 
+all States.
+
+Accurate linkage of dispositions to criminal records
+results from proper use by courts of relevant arrest
+transaction numbers and the courts' direct submission 
+of a livescan with the associated disposition of the 
+arrest. Courts have indicated a growing interest in 
+utilizing NCHIP funds to purchase livescan equipment.
+
+BJS sponsors National Evaluation 
+of NCHIP 
+
+In response to the Attorney General's June 2001
+directive, BJS commissioned a 3-year evaluation of
+the National Criminal History Improvement Program
+(NCHIP). The two purposes of the evaluation were -- 
+
+(1) to measure the performance of State criminal
+history records systems 
+(2) to identify improvement activities that would 
+be most effective in improving record completeness.
+ 
+The evaluation ensured that the NCHIP grant program 
+more efficiently addressed strengths and weaknesses 
+of State criminal history record systems. Future 
+NCHIP grants will be targeted to the specific record 
+system deficiencies identified for each State.
+
+The Records Quality Index(RQI)to measure
+NCHIP performance 
+
+In 2001 BJS began development of a new criminal
+records performance measurement system. The
+system will better guide NCHIP provision of funds
+and technical assistance to the States.  
+
+The records quality index (RQI) collects and
+summarizes performance measures that objectively
+assess the relative capabilities of each State's
+criminal history record system. The RQI assigns a
+system an overall rating based on a wide variety of
+performance measures directly related to NCHIP
+objectives.
+
+A State's RQI can be compared to the RQI of other
+States to determine the relative strength of the
+State's criminal history record system. The RQI will
+also allow for more specific analysis, permitting BJS
+to track the progress of a State by the score received
+on each of its performance measures. 
+ 
+The overall RQI a State receives can be compared to
+a national average to express whether the overall
+efficiency of the State's criminal history record 
+system meets, exceeds, or is below the impartial 
+summary of all States.  
+
+After complete data are received, the RQI will become 
+an invaluable tool for identifying the strengths and 
+weaknesses of each State's criminal history record 
+system. Using RQI information, NCHIP will target 
+funds to activities that will most significantly
+improve a State's RQI, thereby improving national
+background check systems more directly and quickly.
+
+As of March 2004, 34 States have completed all RQI
+data submissions. Another 10 States have made
+partial submissions and have demonstrated
+substantial progress toward supplying all RQI data.
+
+Elements of the RQI offer distinct 
+vantage points
+
+The evaluation for the RQI will break down a State's
+criminal history record system into a wide variety 
+of performance measures that describe the system's
+components, overall structure, and efficiency. 
+
+One measure of the efficiency of a State criminal
+history record system is the average time that
+elapses before an arrest report is posted to the
+criminal history repository. Other ways a system's
+utility can also be assessed are by the percentage of
+arrest records that are linked to dispositions and by
+whether State's criminal justice agencies and the
+State's judicial system use common identifiers. 
+
+A State will receive a high score on one component
+of the RQI if all of its criminal history records 
+are automated and will receive a high score on 
+another component if law enforcement agencies are
+connected to the courts electronically.
+
+The RQI consists of three sets of performance
+measures: input measures, process measures, 
+and outcome measures.  
+
+Input measures describe the components of a record
+system, including the following: State laws requiring
+the fingerprinting of prisoners and transmission of 
+the fingerprints to the State repository; use of 
+unique tracking numbers in the records for individual
+subjects; and requirements that prosecutors submit
+declinations to the repository.  
+
+Process measures reflect system performance, including 
+the following: procedures followed by the repository 
+when a link can not be made between a disposition and 
+an arrest; strategies employed to ensure accuracy of 
+arrest data, fingerprints, and final court dispositions 
+received at the repository; the average time between 
+the occurrence of a final felony court disposition and 
+the entry of data into the criminal history database; 
+and the automation and auditing of certain procedures.  
+
+Outcome measures reflect the impact of the State's
+system and whether the records are accessible and
+complete. Outcome measures include the following:
+the percentage of dispositions that cannot be linked
+to an arrest; the number of III records available;
+backlogs in entering information into the database;
+and repository notification of prosecutor 
+declinations.
+
+Criminal histories integrated with 
+NIBRS reveal key crime factors
+
+
+NIBRS Status of the States, August 2003
+
+NIBRS certified 
+Idaho
+Utah
+Colorado
+Texas
+Kansas
+Nebraska
+South Dakota
+North Dakota
+Iowa
+Arkansas
+Louisiana
+Tennessee
+Kentucky
+Wisconsin
+Michigan
+Ohio
+West Virginia
+Virginia
+South Carolina
+Connecticut
+Massachusetts
+Rhode Island
+Vermont
+New Hampshire
+
+Testing NIBRS
+Maine
+Delaware
+New York
+New Jersey
+Pennsylvania
+Indiana
+North Carolina
+Oklahoma
+New Mexico
+Montana
+Washington
+Oregon
+
+Developing NIBRS
+California
+Arizona
+Minnesota
+Illinois
+Missouri
+Alabama
+Hawaii
+Maryland
+
+No formal plans regarding NIBRS
+Nevada
+Wyoming
+Mississippi
+Florida
+Georgia
+Alaska
+
+Source: FBI, Criminal Justice Information Services, Division, Program Support Section, Greg Swanson, NIBRS Implementation Coordinator
+
+
+The National Incident-Based Reporting System (NIBRS) 
+appreciably advances efforts to learn important 
+details about crimes in the United States. Beyond 
+the summary counts of eight offenses presently 
+collected for the FBI Uniform Crime Reports (UCR), 
+NIBRS represents a more sophisticated data
+collection system. NIBRS enables State and local
+jurisdictions to capture detailed offense, offender,
+victim, property, and arrest information concerning
+each crime incident. NIBRS goals are -- 
+*  to enhance the quantity, quality, and timeliness 
+of crime data collected by law enforcement
+*  to improve the methodology used in compiling,
+analyzing, auditing, and publishing collected crime
+statistics.
+
+The broader scope of offense and offender
+characteristics also permits the development of
+policy-relevant findings. These findings can describe
+the nature and characteristics of crimes such as gun
+assaults, domestic violence, hate crimes, and crimes
+against children. Through NIBRS, law enforcement
+officials, analysts, and the public can better
+understand trends in more types of crime and in the
+amount of harm to victims.
+
+Jurisdictions that have incident-level reporting
+systems are more capable of using crime data for
+strategic planning, tactical crime analysis, and
+manpower deployment. This ability should result in
+more effective use of limited resources and better
+crime control strategies.
+
+Incident-level data, such as NIBRS, provide detailed
+information on the contingencies of a crime, including
+victim characteristics and consequences for victims.
+Such data, when linked to criminal records,  would
+permit a background check to determine whether elements 
+of the offense meet specific prohibitions for firearm 
+transfer or other factors of concern.
+
+Incident reports would contain the victim's 
+characteristics, the victim/ offender relationship, and
+the offender's use of a firearm -- establishing whether
+the victim was a child or whether the offense involved
+domestic violence.
+ 
+The FBI and BJS have been active in assisting the
+States in meeting the NIBRS standards and becoming 
+certified for NIBRS data submission. In 2001 BJS 
+distributed $13 million to 26 States through the 
+NIBRS Implementation Program to develop and operate 
+NIBRS-compatible systems. 
+
+As of August 2003, 24 States had their State UCR
+programs approved by the NIBRS Certification Board,
+according to the FBI's NIBRS Implementation
+Coordinator (map). Twelve States were testing their
+systems to determine if they will soon meet
+certification standards. Nine States were developing
+a NIBRS system, and six (Alaska, Georgia, Florida,
+Mississippi, Nevada, and Wyoming) had no formal
+plans to provide NIBRS data to the FBI.   
+
+Opportunities for improving background checks
+
+Percentage of criminal history records accessible through the Interstate Identification
+Index (III), by State, December 2001
+
+States with at least 75% of records III-accessible
+Arizona
+California
+Colorado
+Florida
+Georgia
+Idaho
+Iowa
+Maryland
+Michigan
+Minnesota
+Mississippi
+Montana
+Nebraska
+New Jersey
+New Mexico
+Nevada
+North Carolina
+South Carolina
+South Dakota
+Virginia
+West Virginia
+Wyoming
+
+States with 50-74% of records III-accessible
+Alaska
+Arkansas
+Delaware
+Illinois
+Indiana
+Missouri
+New York
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Tennessee
+Utah
+Washington
+Wisconsin
+	
+
+States with less than 50% of records III-accessible
+
+Alabama
+Connecticut
+District of Columbia
+Hawaii
+Kansas
+Kentucky
+Louisiana
+Maine
+Massachusetts
+New Hampshire
+North Dakota
+Rhode Island
+Texas
+Vermont
+
+Since 1995 NCHIP has operated under a broad
+mandate to improve public safety by enhancing the
+quality, completeness, and accessibility of the
+Nation's criminal history record information 
+systems. NCHIP has funded State and local initiatives
+designed to improve criminal records and to allow
+these records to be used for criminal justice and
+authorized noncriminal justice purposes.
+Achievements of NCHIP were highlighted on pages
+1 to 6.
+
+A BJS review of the NCHIP program has concluded
+that the program's  resources must be more
+aggressively targeted toward bringing the States
+into compliance with the Brady Act's provisions.
+NCHIP must also become fully responsive to
+evolving needs for more extensive and thorough
+background checks to protect homeland security.
+
+To reflect these NCHIP management objectives, five
+recommended action items are to be incorporated
+into NCHIP: 
+
+* obtaining the full participation of the States in 
+the FBI's Interstate Identification Index (III) 
+* improving State contributions to the FBI's national
+databases of prohibited purchasers 
+*  formally establishing a National Technical
+Assistance Center supported by BJS
+* promoting the adoption of a uniform RAP sheet to
+standardize records among the States
+* periodic BJS surveys of State criminal record
+holdings. 
+
+Action item 1: Obtain full State 
+participation in the FBI's Interstate 
+Identification Index (III)
+
+Serving as the backbone of the NICS system, the
+Interstate Identification Index (III) is a decentralized
+index-pointer system maintained by the FBI for
+exchanging criminal history records.  The III connects
+the FBI's computerized files with State-level 
+computerized files. The III contains personal
+identifiers for more than 48 million offenders. Federal,
+State, and local criminal justice agencies may access
+it to determine whether an individual has a criminal
+record anywhere in the country.
+
+The III's "pointer" specifies the Federal or State
+source that maintains any relevant record(s). Once a
+hit is made against the Index, the subject's data are
+automatically retrieved from each repository and
+forwarded to the requesting agency. The FBI estimates 
+that the III database contains 94% of the records 
+checked by the NICS; therefore, it is critical that 
+all States enter full partnership and contribute
+their identifiers for inclusion in III.
+
+States generally enter participation in the III 
+system in two phases, defined by the nature of the 
+records that they agree to provide. For the second 
+phase, that of full participation, a State agrees 
+to make its III-indexed records available to Federal 
+and State agencies for both criminal justice and 
+noncriminal justice purposes.
+
+In the second phase the FBI ceases to maintain
+duplicate criminal records for persons arrested and
+prosecuted in fully participating States. All users 
+of criminal history records -- for criminal justice
+purposes as well as authorized noncriminal justice
+purposes -- will obtain records directly from States'
+central computerized files or from the FBI for Federal
+records.
+
+Fully participating States must meet minimum
+standards that relate to several factors, including 
+the completeness and maintenance of the records, the
+presence of fingerprints for each record, and
+procedures to respond to record requests. At yearend
+2001 a quarter or more of the criminal history records
+in a majority of States could not meet those
+standards.
+
+At the end of 2002, 22 States had at least 75% of
+their records accessible through III (map). Thirteen
+States and the District of Columbia had less than half
+of their records accessible through III. The States and
+the Federal Government will benefit in several ways
+when all States become full III participants.  
+
+First, the duplicate maintenance of criminal history
+records by the States and the FBI will be eliminated,
+resulting in significant cost savings. No longer will
+States have to submit to the FBI fingerprints and
+charge/disposition data for all felony and serious
+misdemeanor arrests. Instead, States will submit only
+fingerprints and textual identification data for each
+person's first arrest to update the III and the National
+Fingerprint File (NFF). No longer will the FBI keep
+records on State offenders and process fingerprint
+cards for all State arrests. Instead, the FBI will
+maintain the III, the NFF, and full criminal records 
+of Federal offenders.
+
+Second, records made available on an interstate basis 
+will be more complete for both criminal justice and 
+noncriminal justice purposes, including the screening 
+of applicants for certain sensitive positions. State 
+repository records are more current than FBI files.  
+In addition, many States maintain misdemeanor
+records that have not been submitted to the FBI.
+These records will become available through the III
+system for NICS and other authorized uses.
+
+Third, certain noncriminal justice users will enjoy
+faster response times because they will be receiving
+electronic responses rather than mailed record
+responses from the FBI. These noncriminal justice
+users may also benefit from increased efficiency at
+the State level resulting from increased automation
+and system improvements preceding III participation.
+
+Action item 2: Encourage States to contribute
+records to the national databases of persons
+prohibited from purchasing firearms: the NICS
+Index and National Crime Information Center files
+
+A background check for a firearm transfer involves
+the use of records available through the III and 
+two other databases maintained by the FBI:
+
+(1) the NICS Prohibited Persons Index (NICS Index),
+containing records of persons prohibited by the Gun
+Control Act to purchase a firearm -- those
+dishonorably discharged from the armed services,
+persons who have renounced U.S. citizenship,
+mental defectives, controlled substance abusers, 
+and illegal/unlawful aliens
+
+(2) the National Crime Information Center (NCIC)
+Files, containing records on sex offenders, wanted
+persons, convicted persons on supervised release,
+and subjects of protective/ restraining orders.
+  
+FBI statistics show that States have contributed
+infrequently to the NICS Index and NCIC databases.
+Protection of U.S. residents depends on these
+databases of prohibited purchasers being complete
+and current.
+
+The NICS Index
+
+The NICS Index is divided into six databases of
+persons disqualified under Federal law from 
+receiving firearms: 
+(1) the Denied Persons File 
+(2) the Mental Defectives/Commitments File 
+(3) the Controlled Substance Abusers File 
+(4) the Illegal/Unlawful Aliens File
+(5) the Citizenship Renunciates File 
+(6) the Dishonorable Discharges File.  
+
+State law enforcement officials contribute to only
+the first four of the six databases. In the following
+summary a State is listed as having contributed to a
+database as of February 1, 2003, without regard to
+the number of records involved. Several
+contributing States provided fewer than 10 active
+records.
+
+----------------------------------------------
+NICS Index databases show minimal State
+contributions
+
+The NICS Index increased from 3,222 State records
+in February 1999 to 88,696 in February 2003. Nearly
+90% of this increase can be attributed to two States.
+In February 2002 Vermont added 22,205 records to
+the Denied Persons File. In November 2002 Michigan
+added 52,698 records to the Mental Defectives File.
+
+As of February 2003 few States had contributed
+records to the FBI's NICS Index.  The Denied
+Persons File had the largest number of contributing
+States (12), followed by the Mental Defectives File
+(7), the Controlled Substance Abusers File (3), and
+the Illegal/Unlawful Aliens File (2).
+
+Since November 1999 State contributions to the
+NICS Index files have increased for all databases. 
+
+NICS database status as of 
+February 1, 2003:
+
+Denied Persons File contains information on persons 
+who have been denied the purchase of a firearm under 
+Federal law but for whom disqualifying information 
+is not contained in any other file accessed by the 
+NICS. Federal and State law enforcement officials 
+are eligible to enter records. The Denied Persons 
+File contained 34,904 records contributed by 12 
+States. There were 7,514 Federal records in this
+file.
+
+Mental Defectives/Commitments File contains
+information from State law enforcement officials, 
+the Department of Defense, and the Department of
+Veterans Affairs. The file includes persons who have
+been adjudicated as mentally defective or have been
+committed to a mental hospital.
+
+The Mental Defectives/Commitments File contained
+53,551 records contributed by 7 States. Federal
+agencies have contributed 90,111 files.
+    
+Controlled Substance Abusers File contains
+information on persons who are unlawful users of 
+or addicted to any controlled substance. State law
+enforcement officials, the U.S. Coast Guard, and the
+Department of Defense are eligible to enter records
+into this file.
+
+The Controlled Substance Abusers File contained 90
+records contributed by 3 States and 76 Federal
+records.
+
+Illegal/Unlawful Aliens File contains information
+provided by the INS and State law enforcement
+officials on illegal or unlawful aliens. The
+Illegal/Unlawful Aliens File contained 151 records
+from 2 States. Federal agencies have contributed
+2,683,910 records.
+---------------------------------------------
+
+State law enforcement contributes to four
+databases of National Crime Information 
+Center(NCIC) File
+
+The NCIC system is a nationwide, computerized
+database of criminal justice information. The NCIC
+File is divided into eight databases: 
+(1) the Protection Order File 
+(2) the Convicted Persons on Supervised Release
+File 
+(3) the Convicted Sex Offender Registry File
+(4) the Wanted Persons File
+(5) the Deported Felon File
+(6) the SENTRY file
+(7) the U.S. Secret Service Protective File
+(8) the Foreign Fugitive File.
+
+State law enforcement officials contribute to only 
+the first four databases. 
+
+From January 2000 to February 2003, the number of
+State and Federal records submitted to the NCIC
+database nearly tripled from 849,610 to 2,289,320.
+The increase in the number of NCIC offender records
+available for background checks can be largely
+attributed to the increases in the contributions to 
+the National Sex Offender Registry (450% increase) 
+and the National Protection Order File (220% increase).
+Since January 2002 the number of records in each
+NCIC file profiled in this report has increased. 
+
+NCIC record status as of 
+February 2003
+
+Protection Order File contains court orders that are
+issued to prevent acts of domestic violence against 
+a person or to prevent a person from stalking,
+intimidating, or harassing another person. 
+
+The Protection Order File contains 754,033 records
+from 43 States.  Federal agencies have contributed
+56 protection orders to this file.
+
+Convicted Persons on Supervised Release File contains 
+records on subjects who are put under specific 
+restrictions during their probation, parole, or
+supervised release sentence following imprisonment.
+
+The Convicted Persons on Supervised Release File
+contained 260,556 records from 15 States. There
+were three Federal records in this file.
+
+Convicted Sexual Offender Registry File contains
+records on individuals who have been convicted of 
+a criminal offense against a minor, who have been
+convicted of a sexually violent offense, or who are
+sexually violent predators.
+
+The Convicted Sexual Offender Registry File contained 
+280,329 records from all States and the District of 
+Columbia.
+
+This file contained 10 records from Federal agencies.
+              
+Wanted Person File contains records on persons for
+whom a federal warrant, a felony warrant, or a
+serious misdemeanor warrant is outstanding.
+    
+The Wanted Person File contained 857,835 records
+from all States and the District of Columbia. Federal
+agencies have contributed 42,076 records on wanted
+persons.
+
+Action item 3: Establish a National Technical
+Assistance Center
+
+A National Technical Assistance Center (NTAC) will
+ensure that all State agencies that develop and use
+criminal history records are technologically advanced
+with compatible information technology systems. The
+importance of system designs which ensure compatibility 
+with other systems to facilitate criminal and 
+noncriminal background checks has never been more 
+acute. 
+
+The NTAC will assist States to have the capabilities
+and integration necessary to meet homeland security
+concerns -- especially in regard to communications
+and access to and security of information. NTAC will
+help States to determine whether proposed systems
+comply with FBI/NICS participation requirements and
+meet other needs for background checks.
+
+BJS surveys conducted in response to the Attorney
+General's directive demonstrate a clear need for the
+NTAC. The surveys found that agencies in 46 States
+rely on manual rather than automated procedures
+while researching missing dispositions.  Of the 46
+States, 34 use only manual systems to locate missing
+final dispositions. Twelve States rely on both 
+manual and automated procedures, and 4 States rely
+completely on automated means to obtain missing
+final dispositions.
+
+A difficulty that besets State system development is
+the continuous need to replace both hardware and
+software as new technology becomes available.
+Statewide plans less than a year old are  frequently
+determined to be obsolete when the systems become
+operational.
+
+The NTAC will provide guidance to ensure that
+information technology systems are appropriate,
+integrated, and efficient in the short and long 
+term.
+    
+Action item 4: Implement uniform RAP sheets 
+
+Because Federal and State authorities, as well as
+private entities, increasingly utilize criminal history
+records for homeland security background checks,
+criminal justice purposes, and noncriminal justice
+purposes, it is more important than ever to make
+those records as uniform and readable as possible.
+
+The interstate exchange and interpretation of criminal
+history information are needlessly complicated because 
+the States and the FBI use different formats and codes. 
+State criminal history records often contain symbols, 
+or notations, commonly referred to as "flags." Many 
+flags are based on requirements under State law. 
+When shown on interstate RAP sheets, undefined flags 
+can confuse readers. 
+
+BJS has long encouraged States to convert their
+criminal history records to the FBI standard interstate
+RAP sheet format.***Footnote 9: See, Increasing the
+Utility of the Criminal History Record:  Report of the
+National Task Force, NCJ 156922, December 1995.*** More 
+recently, a national task force, the Joint Task Force 
+on RAP Sheet Standardization, determined that adoption 
+of a uniform RAP sheet by all States and the FBI would 
+benefit users of criminal history records. Information 
+in those records would be more easily understood, more 
+complete, and more accurate. Adoption of a uniform RAP 
+sheet would also provide decision makers with the 
+ability to combine or electronically collate criminal 
+records from multiple sources into a single chronology 
+of events. The set of data elements for the uniform RAP
+sheet is intended to include all pertinent information
+without overburdening systems with the collection of
+extraneous information.
+
+NCHIP funds should be used to assist the States in
+adopting uniform RAP sheets that contain the
+following five elements: 
+(1) a clearly defined link between an arrest and the
+subsequent activities and dispositions 
+(2) sufficient information to allow users to identify
+each agency that contributed particular information 
+(3) a notice of the existence of sealed information
+that some users may be authorized to obtain
+(4) computer interfaces to enhance the quality and
+efficacy of the criminal history record
+(5) a standard transmission format to ensure that
+information from a State can be easily formatted into
+the model presentation format, even if the
+contributing State has not adopted the model format.
+
+Action item 5: Survey State criminal 
+history record holdings periodically
+
+The efficiency of the NICS depends entirely on the
+levels of completeness, accuracy, and accessibility 
+of State criminal history records. Through the NCHIP
+program BJS observes the performance of State
+criminal history record systems. The monitoring
+identifies the critical areas of improvement that will
+have the largest impact on improving the Nation's
+record systems. BJS monitors State record systems in 
+two ways:
+
+(1) Record Quality Index
+
+The RQI will be used to critically evaluate the
+strengths and weaknesses of a State's criminal
+history record system.  The RQI will measure
+improvements over time based on a several key
+performance measures. NCHIP will use the RQI
+results to work with the States and ensure that funds
+are directed to the areas of greatest need in each
+State.  The RQI will ensure accurate performance
+measurement as well as responsive and timely grant
+administration.
+
+(2) Survey of State Criminal History Information
+Systems
+
+Since 1989 BJS has conducted a biennial data collection 
+that examines State criminal history record systems.  
+This survey provides important details by State on the 
+level of automation of State record systems, the level 
+of disposition reporting and felony flagging, the 
+timeliness of criminal record processing, measures of 
+criminal history record completeness, and State 
+procedures to ensure the accuracy and security of 
+criminal records.  
+
+Latest survey findings are available in Survey of 
+State Criminal History Information Systems, 2001
+<http://www.
+ojp.usdoj.gov/bjs/abstract/sschis01.htm.>  Previous
+surveys were completed in 1989, 1992, 1993, 1995,
+1997, and 1999.
+
+Appendix I Identifying prohibited purchasers: 
+The mentally ill
+
+The Gun Control Act as amended prohibits the sale
+of a firearm to several categories of potential
+purchasers, including persons who have been
+adjudicated as a mental defective or have been
+committed to a mental institution.
+
+Regulations of the Bureau of Alcohol, Tobacco,
+Firearms and Explosives (ATF) define this mental
+health category as --  
+
+* individuals who have been adjudicated as a mental
+defective, meaning --
+"(a) A determination by a court, board,
+commission, or other lawful authority that a person,
+as a result of marked subnormal intelligence, or
+mental illness, incompetency, condition, or disease: 
+(1) Is a danger to himself or to others; or 
+(2) Lacks the mental capacity to contract or manage
+his own affairs.
+(b) The term shall include -- 
+(1) A finding of insanity by a court in a criminal 
+case; and (2) Those persons found incompetent to stand
+trial or found not guilty by reason of lack of mental
+responsibility pursuant to articles 50a and 72b of the
+Uniform Code of Military Justice."***Footnote 11: See
+27 CFR 178.10.***
+
+* persons who have been committed to a mental
+institution, meaning -- 
+"formal commitment of a person to a mental
+institution by a court, board, commission, or other
+lawful authority. The term includes a commitment to
+a mental institution involuntarily. The term includes
+commitment for mental defectiveness or mental
+illness. It also includes commitments for other
+reasons, such as for drug use. The term does not
+include a person in a mental institution for
+observation or a voluntary admission to a mental
+institution."***Footnote 11: See 27 CFR 178.10.***
+
+This appendix examines -- 
+* the number of States that as part of a background
+check are unable to regularly access court orders or
+involuntary commitments for mental illness
+* the principal factors that prohibit mental health
+information from being regularly accessed during
+background checks* BJS initiatives to improve
+access to State mental health records* the results of
+a 2002 BJS survey that covered the practices of the
+14 States that consult mental health records during
+background checks.
+
+Mental health information rarely included in NICS
+background checks
+
+Impediments to the timely identification of categories
+of prohibited purchasers are significant and have been 
+well documented in recent reports by BJS and the 
+General Accounting Office(GAO).***Footnote 11: Continuing 
+Criminal History Records Improvement Evaluation: Final 
+1994-98 Report, BJS report, NCJ 179768, February 2000. 
+(All BJS reports are available 
+at <http://www.ojp.usdoj. gov/bjs/abstract/>.)
+
+Survey of State Procedures Related to Firearms 
+Sales, Midyear 2002, BJS report, NCJ 198830, 
+April 2003. 
+ 
+Use and Management of Criminal History Record
+Information: A Comprehensive Report, 2001
+Update, BJS report,  NCJ 187670, December 2001.
+ 
+Opportunities to Close Loopholes in the National
+Instant Background Check System, General
+Accounting Office, GAO-02-720, July 12, 2002. 
+ 
+Improving the National Instant Criminal Background
+Check System, General Accounting Office,
+GAO-T-GGD-00-163, June 21, 2000.
+  
+Gun Control: Options for Improving the National
+Instant Criminal Background Check System, General
+Accounting Office, GAO/GGD-00-56, April 12,
+2000.***
+
+In March 2002 BJS surveyed all State criminal history
+repository directors to determine whether mental
+health records were included in the State's
+background checks for firearm sales.  Twenty-five
+States and the District of Columbia do not serve as
+points of contact for background checks, referring all
+background checks to the NICS system. None had
+contributed mental health records or any related
+mental health information to the FBI for use during
+presale firearm checks. Of the remaining 25 States
+that serve as points of contact, 11 do not check
+mental health records while conducting presale
+firearms checks, and 14 do (Map).
+
+Few States make their mental health records available 
+to the FBI's Mental Defectives File. As of February 1, 
+2003, the NICS Index contained records of the mentally 
+ill or incompetent from seven States. Michigan provided 
+over 50,000 records, but no other State contributed more 
+than 30 records to the file.
+
+To protect the privacy of the mentally ill, a number 
+of States have opted to provide records on individuals
+prohibited from possessing a firearm for mental health 
+reasons to the FBI's Denied Persons File instead of the 
+Mental Defectives File. 
+
+Several factors prohibit complete mental 
+health information from being accessed 
+during background checks
+
+
+Point of contact States that check mental health records	
+California						
+Oregon						
+Washington					
+Utah						
+Nebraska						
+Wisconsin						
+Illinois						
+Michigan						
+Pennsylvania					
+Virginia						
+Connecticut					
+New Jersey					
+Georgia						
+						
+Point of contact States that do not check 
+mental health records	
+Nevada						
+Arizona						
+Colorado						
+Iowa						
+Indiana						
+New York						
+Vermont						
+Maryland						
+North Carolina					
+Tennessee						
+Florida						
+						
+Not point of contact States. They do not provide mental
+ health information to the FBI's NICS Index.
+Idaho						
+Montana						
+Wyoming						
+North Dakota					
+South Dakota					
+Kansas						
+New Mexico					
+Oklahoma						
+Texas						
+Minnesota						
+Missouri						
+Arkansas						
+Louisiana						
+Misssissippi					
+Alabama						
+Kentucky						
+South Carolina					
+West Virginia					
+Massachusetts					
+New Hampshire					
+Maine						
+Delaware						
+Rhode Island	
+
+State mental health records incomplete and
+infrequently automated 
+
+A 2002 BJS survey of the States revealed that the
+condition of the mental health record systems often
+renders those records unusable for background
+checks. Findings include the following: 
+
+* Nearly 40% of the States (18) reported the lack 
+of an interface between the State's mental health
+database and the criminal history repository.
+
+* For 12% of the States (6), mental health records
+were incomplete.
+
+* Nearly a third of the States (15) reported that 
+their mental health records were not fully automated.
+
+* In 16 States officials reported that mental health
+records lacked biometric identifiers like fingerprints 
+to positively identify an individual. 
+
+Condition of State mental health records also
+precludes their transmission to the NICS Index. 
+The reasons given for not sharing the mental health
+information with the FBI included: 
+* Incomplete records (8 States) 
+* Automation issues (30 States) 
+* No biometric identifiers (15 States).
+
+State privacy laws protect mental health 
+information 
+
+When State officials were surveyed as to the factors
+that explain why complete mental health information
+could not be accessed during background checks,
+they cited privacy laws more frequently than any other
+factor. 
+
+Nearly 40% of the States reported that State privacy
+laws prevented access to complete mental health
+information during background checks.***Footnote 12:  
+Citations to privacy laws were provided by officials
+from Alaska (Alaska Stat. sec 40.25.120), Colorado 
+(Colo. Rev. Stat. sec 25-1-1202), New Hampshire (N.H. 
+Rev. Stat. sec 151:13), North Carolina (N.C. Gen. Stat. 
+sec 122C-52), Wisconsin (Wis. Stat. sec 51.30), and 
+Wyoming (Wyo. Stat. sec 25-10-122).***
+
+Officials from 30 States reported that their privacy
+laws also prevented the State from providing
+complete mental health information to the FBI for
+inclusion in the NICS Index.
+
+Agencies lack time and resources to 
+access mental health records
+
+In 2002 just over a quarter of the States reported that
+they did not have sufficient time or resources to access 
+mental health information during background checks. Just 
+under a quarter cited insufficient resources as one 
+factor preventing them from sharing mental health 
+records with the FBI.
+
+BJS develops 6 initiatives to widen 
+access to mental health records 
+  
+BJS has developed six new initiatives to assist the
+States in upgrading their ability to consult mental
+health information during background checks as
+required by the Gun Control Act.  
+
+* BJS will formulate an initiative to write a Model 
+Data Sharing Agreement. This collaborative effort 
+among the States and BJS will develop State-specific
+proposals for making State mental health records
+accessible for firearm background checks.  
+
+* Under the Best Practices Initiative, BJS will work
+with selected States to develop a best practices
+guide. This guide will highlight critical issues that
+must be addressed before mental health records can
+be included in database searches for disqualifying
+information. The guide will describe State practices 
+in use and will follow up promising practices that
+emerge after the publication of the guide.  
+
+* The Mental Health Courts Initiative will be a
+collaboration with the Bureau of Justice Assistance
+(BJA) to improve the criminal justice system's
+supervision of mentally ill offenders. BJS will work
+with BJA and their grant recipients to improve
+disposition reporting for mentally ill offenders.
+
+* BJS will work with the States to improve reporting 
+to the FBI so that Federal databases will reflect more
+complete information on individuals prohibited from
+purchasing firearms for mental health reasons.
+
+* BJS will expand two data collections to provide
+information on the ability of the States to examine
+records of those adjudicated as a mental defective
+and of those committed to a mental institution. 
+
+* BJS will more effectively target efforts to provide
+NCHIP funds for the improvement of access to mental 
+health records.
+
+1. Model Data Sharing Agreement will be 
+developed 
+
+In response to a recent BJS survey, officials from 11
+point-of-contact States reported that they do not
+consult mental health records as part of background
+checks for firearm purchases. In nearly two-thirds of
+these States, officials indicated that records are not
+consulted because State law or regulation prohibits
+access. 
+
+One of BJS' statutory mandates is to "provide for the
+development and enhancement of State and local
+criminal justice information systems."***Footnote 13:
+42 USC sec 3732 (18).*** As part of that mandate,
+BJS will consult with the appropriate legal, mental
+health, and criminal justice officials to develop a
+Model Data Sharing Agreement. Such an agreement
+would make State mental health records accessible
+for firearms background checks under the Federal
+Gun Control Act.  
+
+One promising tactical option for the Model Data
+Sharing Agreement is to specify a reporting
+arrangement with appropriate State authorities. The
+State could submit only the names of those with
+prohibiting mental health backgrounds to the FBI's
+Denied Persons File rather than to the FBI's database
+of mental defectives. This is one of many options that
+simultaneously protects the privacy of records of
+persons with mental health histories and enables the
+States to ensure that firearms purchases comply with
+Federal law.
+
+2. Best Practices series initiated
+
+Because State agencies vary in their ability to access
+mental health records for presale background checks, 
+BJS will undertake a Best Practices Initiative to 
+highlight promising activities in an ongoing series
+of reports.
+
+The Best Practices series will present profiles of
+States that can quickly consult mental health records
+in response to a NICS inquiry. Findings will highlight
+several critical issues, among them --
+(1) the legal, policy, or regulatory basis for consulting 
+mental health records 
+(2) types of mental health records consulted
+(3) whether a centralized State database exists and
+which agency maintains it 
+(4) which agencies (public, private, or both) are 
+responsible for contributing mental health information 
+(5) procedures that are followed when a background check 
+is carried out 
+(6)unexpected problems that arose after implementation
+of the system 
+(7) suggested reforms to improve the system 
+(8) contact information for a State official with
+responsibility for the system
+(9) how issues relating to patient confidentiality were 
+addressed.
+ 
+BJS will continue to actively report on the progress
+made by all States in accessing mental health
+information for firearm presale background checks.
+
+3. Mental Health Courts Initiative undertaken
+
+In 2000 Congress enacted the "America's Law
+Enforcement and Mental Health Project" to establish
+demonstration mental health courts.  These courts
+exist for improving supervision of and delivery of
+services to mentally ill offenders.***Footnote 14:
+America's Law Enforcement and Mental Health
+Project, Pub. L. No. 106-515, 114  Stat. 2399
+(2000).***
+
+BJA is administering the Mental Health Courts
+Program in collaboration with the Substance Abuse
+and Mental Health Services Administration in the
+Department of Health and Human Services. This
+program supports "mental health court demonstration
+projects that mobilize communities to implement
+innovative, collaborative efforts to bring systemwide
+improvements in the way they address adult
+offenders with mental disabilities or
+illnesses."***Footnote 15: BJA, Mental Health Courts
+Project Program Competitive Grant Announcement,
+2002 at 4.  See also, BJA, Emerging Judicial
+Strategies for the Mentally Ill in the Criminal
+Caseload: Mental Health Courts in Fort Lauderdale,
+Seattle, San Bernardino, and Anchorage.  (NCJ
+182504) April 2000, reprinted February 2001.)***
+
+In FY 2003 BJA provided over $2 million to establish
+mental health courts that provide continuous juridical
+oversight and intensive case management. 
+
+BJS will work with BJA to ensure that recipients of
+Mental Health Court Program grants focus on
+disposition reporting. State and Federal authorities
+should have accurate and complete records on
+persons who fall within the purview of the Gun
+Control Act if they are processed through the mental
+health courts. 
+
+4. Improved State reporting to the FBI 
+encouraged
+
+In 2002, 2 of the 14 point-of-contact States that check
+mental health records prior to the sale of a firearm
+forward denial information to the FBI for the Denied
+Persons database in the NICS Index. State officials
+from the 12 States not submitting denial information
+to the FBI provided reasons that fall into three
+categories: 
+
+State law or regulations prohibit the transmission
+of this information to the FBI (6 States): State
+officials from California, Connecticut, Nevada,
+Oregon, Pennsylvania, and Wisconsin reported
+prohibition of transmitting mental health data. Oregon
+officials cited State confidentiality agreements with
+mental health agencies. Although Illinois law does not
+prohibit disclosure, officials reported that they do 
+not provide these denials to the FBI because State 
+law does not require them to do so.
+
+Requisite technology is not in place to reliably
+submit denial information based on mental health
+records to the FBI (3 States): Respondents from
+Washington, Wisconsin, and Hawaii noted that they
+currently do not have the technology to reliably 
+submit denials based on mental health records to 
+the FBI. 
+
+States need administrative reforms and improved
+interagency coordination (3 States): Nebraska and
+Washington officials indicated that the current
+fragmented nature of conducting firearms purchases
+and issuing firearms permits prevents State officials
+from providing denial information from mental health
+records to the FBI. Utah officials stated that
+defendants who are involuntarily committed generally
+have their commitments overturned after responding
+to treatment, and these changes in status are not
+reliably reported to other State agencies or the FBI. 
+
+To address these problems, BJS will request that
+State repositories and their data suppliers code court
+orders which commit offenders to mental institutions
+as dispositions of arrests on the offenders' RAP
+sheets. Those dispositions are to be maintained on
+the III- accessible record as well. BJS will also
+continue to encourage States to transmit information
+on firearm purchase rejections or commitments to
+mental institutions to the NICS Denied Persons File
+for inclusion in the national NICS checks. This will
+remain a high priority for the FY 2004 NCHIP.
+
+5. BJS improves data collection 
+concerning the mentally ill
+
+Two BJS surveys obtain information on States' ability
+to examine records of persons adjudicated as mental
+defectives or committed to mental institutions. In
+response to Attorney General Ashcroft's June 2001
+directive to BJS, BJS followed up on the Survey of
+State Procedures Relating to Firearms Sales and the
+Survey of State Criminal History Information
+Systems. These improvements will permit BJS to
+better inform policymakers about State efforts to
+examine mental health records during background
+checks.
+
+The Survey of State Procedures Related to Firearm 
+Sales is an annual national survey produced by the 
+BJS Firearm Inquiry Statistics (FIST) project, a 
+component of NCHIP. The FIST project was established 
+in 1995 to collect data that describe the scope and 
+impact of firearm background checks required under 
+Federal or State law. Survey reports have been 
+published annually since 1996. Information is collected 
+from hundreds of Federal, State, and local agencies, 
+including law enforcement organizations, statistical 
+analysis centers, and legislative research bureaus.
+
+The current survey asks point-of-contact States to
+indicate whether they access a statewide mental
+health database when conducting a background
+check for a firearms transfer. The follow-up survey
+will examine  the complicated issue of how a State
+handles information about persons adjudicated as
+mental defectives or committed to a mental
+institution. 
+
+The follow-up survey will -- 
+
+*  Gather more detailed information about procedures
+used to check mental health records, the level of
+automation of these records, the nature of the
+impediments to checking mental health records, and
+initiatives planned or underway to consult these
+records.
+
+*  Add questions about the nature of the database of
+those States checking mental health records from a
+centralized database.
+
+The Survey of State Criminal History Information
+Systems is a biennial survey of all directors of State
+criminal history repositories. The initial survey in 
+this series was administered in 1989. The survey is the
+primary source of information on the size, level of
+automation, and shareability of criminal history record
+holdings in each State. It provides details of the
+procedures by which State repositories receive and
+process criminal history information including arrests,
+correctional data, and disposition data.
+
+Survey enhancements will include the 
+following:
+ 
+*  For those States that serve as points of contact for
+background checks, information will be obtained on
+the centralized State databases that are utilized to
+consult records of those adjudicated as a mental
+defective and those committed to a mental institution.
+
+Analysis of results will address the size, level of
+completeness, and accuracy of these databases. If
+databases are described as incomplete, follow-up
+questions will ascertain the reasons for the
+incompleteness and the remedial measures being
+undertaken, if any.  
+
+*  To assess the accuracy of these databases, the
+survey will examine how often the databases are
+audited to remove items such as overturned judicial
+findings of mental illness. For States that do not 
+serve as points of contact for background checks, the
+follow-up will examine which State agencies maintain
+mental health information and the impediments to
+transmittal of this information to the NICS Index. 
+
+6. Technical assistance for improving access to
+mental health records provided to States
+
+A longstanding priority of NCHIP has been
+establishing the infrastructure to support full
+implementation of the NICS. BJS has strongly
+encouraged States to improve access to mental
+health records, stressing its importance through 
+its annual NCHIP announcements and communications
+with the States.***Footnote 16: National Criminal
+History Improvement Program Fiscal Year 2002
+Program Annoucement, NCJ 192811, February 2002.***
+ 
+BJS will make NCHIP funds available for three
+related purposes:
+
+(1) To support of the Best Practices Initiative for 
+the replication of projects featured in the Best 
+Practices report and the bulletins describing 
+promising activities.  
+
+(2) To support the Initiative to Improve State
+Reporting to the FBI to remove the technological
+impediments to report denials based on mental
+health disqualifiers.  
+
+(3) To directly assist the States in designing and
+implementing an array of new programs, policies, and
+technologies to upgrade capabilities to search mental
+health records. 
+
+BJS will also encourage States that have few
+automated mental health records to use NCHIP funds
+for the automation of mental health records. States
+will be encouraged to establish processes that enable
+courts to automatically update a defendant's criminal
+record if the offender is adjudicated mentally
+incompetent or not guilty by reason of insanity.
+
+BJS surveyed States that search 
+mental health records in 
+background checks
+
+In 2002 BJS conducted an in-depth survey of all 14
+States that include mental health records in database
+searches before transfers of firearms. This survey
+examined a number of issues relating to these States'
+procedures for checking mental health records,
+including the following: 
+* how the authority to check
+mental health records was initially obtained
+* which agencies maintain the information
+* which entities provide it
+* whether the mental health records are maintained
+in a central State database
+* whether an agreement exists between the State
+repository and the mental health care providers
+* information concerning the types of mental health
+information checked
+* costs of establishing and maintaining the system
+* improvements that are needed to make the system
+more effective
+* other related issues.
+
+14 point-of-contact States check 
+mental health records 
+
+Of the 25 States that serve as points of contact
+(POC's) for firearm purchases, the BJS survey found
+that 14 include  State mental health records in the
+search prior to the transfer of a firearm.***Footnote
+17: For this survey, the designation "POC State"
+covers States conducting presale checks for all
+firearms or for only certain firearms that are sold 
+in the State.*** The POC States that include mental
+health records in their presale firearms checks are
+California, Illinois, Michigan, Pennsylvania, New
+Jersey, Virginia, Connecticut, Georgia, Hawaii,
+Nebraska, Oregon, Utah, Washington, and
+Wisconsin. 
+
+The 11 POC States that do not check mental health
+records are New York, Arizona, Colorado, Florida,
+Indiana, Iowa, Maryland, Nevada, New Hampshire,
+North Carolina, and Tennessee. 
+
+The remaining 25 States and the District of Columbia
+do not serve as POC's. None of these jurisdictions
+contributes mental health records or any related
+mental health information to the FBI for use during
+presale firearm checks.  
+
+On average, the 14 States that examine mental
+health records prior to sales of a firearm have over
+7 years of experience in conducting these checks.
+The States with the most experience are Hawaii (18
+years), California (11 years), Illinois (10 years),
+Virginia (9 years), and Washington and Wisconsin
+(8 years each).
+              
+The BJS survey asked the State repository directors
+to characterize their State's mental health records 
+on the basis of --
+(1) accuracy
+(2) timeliness 
+(3) accessibility for a firearms check (4)
+completeness.  
+
+Most State repositories rated their records as "very
+good" or "excellent" in each of the four criteria. 
+The California, Georgia, Illinois, and New Jersey
+repository directors rated their mental health records
+as generally "excellent." Repository directors for
+Connecticut and Utah rated their mental health
+records as generally "very good."  
+
+Three of the State repository directors rated their
+mental health records as "poor" on one of the criteria.
+Directors in Oregon and Nebraska characterized the
+timeliness of their mental health records as poor.
+Virginia reported the accessibility for a firearms 
+check to be poor.
+
+The survey asked State officials to provide a
+comprehensive assessment of the State's program to
+allow mental health information to be checked prior 
+to the sale of a firearm. Respondents from Michigan
+and Nebraska commented that the process is
+burdensome on personnel and costly in terms of
+human resources and technology.  
+
+In contrast, survey respondents from California,
+Georgia, and New Jersey indicated that their systems
+work well and perform a valuable public service.
+
+In California from 1991 through February 2002, more
+than 3,100 individuals were denied the purchase of a
+firearm due to a pre-existing mental health diagnosis
+that the individual was a danger to himself or 
+others.
+    
+Repository directors recommended 
+reforms for checks of mental health 
+records
+
+The survey asked the 14 State repository directors
+what could be done to make their checks of mental
+health records more efficient. Recommendations
+included -- 
+* greater automation of records so that checks may
+be conducted online
+* permit courts, public and private mental health
+facilities, and other mandatory reporters to submit
+data about prohibited persons in Internet-based real
+time reporting to the State database 
+* permit interstate access to the mental health
+information by State officials 
+* broaden the scope of mental health databases to
+include private mental health facilities
+* standardize the process for obtaining and
+maintaining records, removing  inconsistent
+requirements among States
+* add positive identifications of mental health
+patients, such as a fingerprint or other biometric
+identifier.   
+
+States check different types of 
+mental health information 
+
+Each of the 14 POC States that consult mental health 
+records conducts a check of adjudicated commitments, 
+in which individuals were committed after a hearing 
+by a judge or a specially appointed officer or board. 
+
+Apart from the category of adjudicated commitments,
+the mental health information that is checked during
+investigations of firearm purchasers varies among the
+States.  
+
+California included in its check of mental health
+records information on individuals who have
+communicated serious threats of violence to a
+licensed therapist.
+
+States vary approaches for checking 
+mental health records  
+
+Ten of the 14 States maintained a central database
+of mental health records. Agencies supporting or
+managing these databases are the State police
+(Michigan, Pennsylvania, and Virginia), State mental
+health department or department of health
+(Connecticut, Hawaii, New Jersey, and Washington),
+criminal justice agencies (California and Georgia),
+and the Department of Human Services (Illinois).
+
+Some State databases collect information on mental
+health records only from publicly-funded facilities
+while other States include private facilities as
+contributors. In Hawaii only the publicly-funded
+mental health facilities contribute information to 
+the State database. Other States collect from public 
+and private mental health facilities (New Jersey and
+Washington) as well as public mental health care
+psychiatrists, psychologists, and counselors
+(California, Oregon, and Illinois). Connecticut,
+Georgia, Michigan, and Virginia receive mental health
+information only through the courts. Under
+Pennsylvania law mandatory reporters include judges
+of the Courts of Common Pleas, mental health
+administrators, and mental health review officers.
+
+Several States noted that 100% of the individuals
+within the State database would be prohibited from
+purchasing a firearm in the State. However, most
+States were unable to estimate what percentage of
+the State's mental health patients are included in 
+the central database.
+              
+State databases of mental health information are
+updated frequently. Only one State (Oregon) updates
+its database in real time. Eight States update their
+mental health databases daily (California,
+Connecticut, Georgia, Hawaii, Illinois, Michigan,
+Pennsylvania, and Virginia). New Jersey updates its
+mental health database on a weekly basis. 
+
+Of the four States without a centralized database,
+Utah and Wisconsin generally maintain their mental
+health information in the courts, while Nebraska 
+uses the courts as well as State commissions and
+individual mental health facilities. Oregon relies 
+on several databases maintained by various State
+agencies including the State mental health
+department.
+
+Informal relationships link State 
+criminal record repositories and 
+mental health agencies 
+
+A formal agreement, such as a memorandum of
+understanding signed by a State's criminal history
+record repository and mental health providers, can
+govern submission of mental health information for
+determining eligibility to purchase a firearm. In only
+Georgia, New Jersey, and Oregon does such an
+agreement exist, the result of negotiations between
+the affected agencies. The remaining 11 States
+reported no formal agreement. 
+    
+Seven States indicated that State administrative
+regulations or internal policies governed the transfer
+of mental health information. Four of the 14 States
+(Illinois, Michigan, Nebraska, and Wisconsin)
+responded that no such administrative regulations
+existed.
+
+Most States can restore right to 
+possess firearms to individuals 
+disqualified for mental health
+reasons
+
+In 8 of the 14 States, a prohibition against a firearm
+purchase based on a mental health disqualification
+may be lifted once a court or other adjudicatory body
+restores a "non-mental defective" status to the
+individual. These States are California, Connecticut,
+Michigan, New Jersey, Pennsylvania, Utah, Virginia,
+and Wisconsin.  
+
+In California certain individuals are prohibited from
+purchasing firearms for life pursuant to Federal law.
+For other individuals the prohibition may be lifted
+under certain circumstances, such as release from a
+mental health treatment facility or successful
+completion of the court's restoration process. The
+majority of prohibitions in California's central
+database last 5 years. 
+
+In Georgia and Illinois the prohibition against
+purchasing firearms lasts for 5 years after discharge
+from a treatment facility. In Virginia the prohibition
+may be lifted upon an individual's release from a
+mental health facility. Nebraska and Oregon are the
+only States to report that the prohibition against
+purchasing firearms is permanent.  
+
+Legislation served as the primary 
+source of authority for examining 
+mental health information
+
+In almost all of the States (12 of the 14), the 
+authority to use mental health records as disqualifying
+information came from the State legislature. Only
+Nebraska and New Jersey cited other sources of
+authority.  
+
+In half the States the criminal record repository was
+involved in drafting the legislation. The legislation
+generally came about from a gradual recognition of
+the need to examine mental health records. Only
+Connecticut reported that State legislation was
+enacted as a result of a single high-profile incident. 
+
+Most mental health information 
+mailed to the repository
+
+Five of the 14 States transmit mental health
+information to the criminal history repository or
+firearms processing agency online or by some other
+automated method (Connecticut, Michigan, Oregon,
+Utah, and Wisconsin).  Ten of the States mail hard
+copies or tapes of the mental health information to
+the repository at regular time intervals (California,
+Georgia, Illinois, Michigan, Nebraska, New Jersey,
+Pennsylvania, Virginia, Washington, and Wisconsin).
+Although a few States utilize more than one mode of
+transmission, most do not. 
+
+All State repositories have adopted 
+security measures to protect mental 
+health information
+
+All State repositories reported security measures 
+to ensure that only personnel determining firearm
+eligibility have access to the mental health
+information in the repository. Two States provide 
+for broader access. In California law enforcement
+personnel are granted access to the information
+under statutorily specified conditions limited to
+criminal investigations that involve the carrying 
+or use of a firearm. In Pennsylvania the subject 
+of the record and law enforcement officials who 
+enforce State firearm laws are provided access to 
+the mental health records in the repository.
+
+In addition to personnel restrictions, each State
+repository reported system security measures such
+as firewalls, password-protected information, and
+employee identification checks to prevent
+unauthorized parties from accessing the mental
+health information. 
+
+State repositories often use quality control measures
+to ensure the accuracy, completeness, and timeliness 
+of the mental health information received. Most of 
+the States (11 of the 14) conduct a manual review 
+of the incoming data or a manual review of the data 
+prior to making an eligibility determination. Five
+States (California, Hawaii, Illinois, Michigan, and
+Oregon) rely on computers to edit and verify the
+information. The Hawaii and Illinois repositories
+conduct regular audits of the system to ensure 
+quality control. 
+
+In the event of a breach of quality control, such as 
+a complaint concerning the unauthorized release of
+information or mistaken identity, most of the States
+(10 of 14) provide a mechanism by which the
+complainant can formally appeal the error. These
+complaints are handled through an appeals process
+in California, Connecticut, Georgia, Hawaii, Illinois,
+New Jersey, Oregon, Utah, Virginia, and Wisconsin.
+There is no appeals process for quality control
+breaches in Michigan, Nebraska, and Pennsylvania. 
+
+States overlap concerning the identifiers used with
+mental health records. Nearly every State used the
+subject's name, date of birth, Social Security
+number/driver's license number, race, and gender.
+Other identifiers include the adjudication date
+(Virginia), admission date (New Jersey), date of
+commitment (Pennsylvania), case number (Michigan), 
+patient identification number (Illinois), address 
+(Illinois), facility name/number (Illinois and
+New Jersey), physical description (California, 
+Virginia, and Wisconsin), and charge code(Michigan). 
+    
+11 States provide appellate review 
+of denials of firearm purchase due 
+to mental health history
+
+Eleven of the 14 States have established an appeals
+process for prospective firearms purchasers who are
+initially denied access to a firearm because of a
+disqualifying mental health history. These States 
+are California, Georgia, Hawaii, Illinois, New 
+Jersey, Oregon, Pennsylvania, Utah, Virginia, 
+Washington, and Wisconsin. The three that do not 
+provide appellate review of these denials are 
+Connecticut, Michigan, and Nebraska.
+
+Costs for accessing State mental 
+health information varies across 
+States
+    
+The costs of developing and maintaining access to
+State mental health information depend on a number
+of factors including the following: 
+* the State's regulations concerning access to and
+use of mental health records 
+* the size of the State's mental health population 
+* the presence or absence of procedures to lift the
+firearms prohibition based on a mental health
+disqualification 
+* the presence or absence of interagency agreements
+* the level of automation of the State's mental health
+records.  
+
+Cost estimates to develop systems to access mental
+health information range from "minimal cost"
+(Wisconsin) to $800,000 (California). Six States
+provided cost estimates between these two. Systems
+development cost $150,000 in Connecticut, $80,000
+in Oregon, $54,000 in New Jersey, $25,000 in
+Nebraska, $10,000 in Virginia, and $7,000 in Utah. 
+
+Startup costs were higher than anticipated in
+Connecticut, Hawaii, Nebraska, and Pennsylvania. 
+They were lower than anticipated in New Jersey,
+Oregon, Utah, and Virginia.
+
+Similar variation occurred among State estimates of
+annual costs to maintain these systems. New Jersey,
+Nebraska, Virginia, and Wisconsin reported that
+annual maintenance costs were negligible while
+California estimated the annual cost to be $408,000.
+Annual maintenance costs are estimated to be
+$30,000 in Hawaii, $10,000 in Connecticut, $3,000 in
+Oregon, and $1,500 in Utah.   
+
+The nine States of Connecticut, Georgia, Hawaii,
+Illinois, Michigan, Pennsylvania, Utah, Virginia, 
+and Wisconsin reported that State funds support 
+the systems by which mental health information 
+is examined during a firearms background check.
+These States rely on both long-term and annual
+appropriations by the State legislature.
+
+New Jersey and Nebraska reported relying on
+Federal funds, while California, Pennsylvania,
+Oregon, and Wisconsin finance all or part of 
+their systems through fees. 
+
+State systems that access mental 
+health information report success
+
+Most States report no significant operational changes
+in the systems that provide the State repositories 
+with mental health information. 
+
+Illinois improved their system by incorporating more 
+professional mental health consultants. Utah officials 
+added an audit feature to permit the courts and the 
+Department of Public Safety to compare and verify 
+information on a weekly basis. California officials 
+reported that corrective legislation was required to 
+eliminate duplicative reporting.
+
+Appendix II  Identifying prohibited purchasers:
+Domestic violence misdemeanants and
+subjects of restraining orders
+
+The Gun Control Act as amended prohibits the
+possession of a firearm by individuals who have
+been convicted of a misdemeanor crime of
+domestic violence. According to ATF regulations,
+misdemeanor crime of domestic violence means --
+ 
+"a Federal, State or local offense that:
+
+* Is a misdemeanor under Federal or State law or, in
+States which do not classify offenses as misdemeanors, 
+is an offense punishable by imprisonment for a term 
+of one year or less, and includes offenses that are 
+punishable only by a fine. (This is true whether or 
+not the State statute specifically defines the offense 
+as a 'misdemeanor' or as a 'misdemeanor crime of 
+domestic violence.' The term includes all such 
+misdemeanor convictions in Indian Courts established 
+pursuant to 25 CFR part 11.)
+     
+* Has, as an element, the use or attempted use of
+physical force (e.g., assault and battery), or the
+threatened use of a deadly weapon
+  
+* Was committed by a current or former spouse, parent, 
+or guardian of the victim, by a person with whom the 
+victim shares a child in common, by a person who is 
+cohabiting with or has cohabited with the victim as 
+a spouse, parent, or guardian,(e.g., the equivalent 
+of a 'common law' marriage even if such relationship 
+is not recognized under the law), or a person 
+similarly situated to a spouse, parent, or guardian 
+of the victim (e.g., two persons who are residing at 
+the same location in an intimate relationship with 
+the intent to make that place their home would be 
+similarly situated to a spouse).
+
+"A person shall not be considered to have been 
+convicted of such an offense for purposes of this 
+part unless:  
+
+* The person is considered to have been convicted by
+the jurisdiction in which the proceedings were held.
+  
+* The person was represented by counsel in the case, 
+or knowingly and intelligently waived the right to
+counsel in the case; and 
+  
+* In the case of a prosecution for which a person was
+entitled to a jury trial in the jurisdiction in which 
+the case was tried, either  (i) The case was tried by 
+a jury, or  (ii) The person knowingly and intelligently
+waived the right to have the case tried by a jury, by
+guilty plea or otherwise.  
+
+"A person shall not be considered to have been
+convicted of such an offense for purposes of this part
+if the conviction has been expunged or set aside, or
+is an offense for which the person has been pardoned 
+or has had civil rights restored (if the law of
+the jurisdiction in which the proceedings were held
+provides for the loss of civil rights upon conviction 
+for such an offense) unless the pardon, expunction, or
+restoration of civil rights expressly provides that the
+person may not ship, transport, possess, or receive
+firearms, and the person is not otherwise prohibited
+by the law of the jurisdiction in which the proceedings
+were held from receiving or possessing any
+firearms."***Footnote 18: See 27 CFR 178.11. *** 
+
+The Act as amended also prohibits possession of
+firearms by individuals who are the subject of a
+restraining order. Federal law defines this
+prohibition as a person who --
+"is subject to a court order that restrains such person
+from harassing, stalking, or threatening an intimate
+partner of such person or child of such intimate
+partner or person, or engaging in other conduct that
+would place an intimate partner in reasonable fear of
+bodily injury to the partner or child, except that this
+paragraph shall only apply to a court order that --
+(a) was issued after a hearing of which such person
+received actual notice, and at which such person had
+the opportunity to participate; and 
+(b)(i) includes a finding that such person represents
+a credible threat to the physical safety of such
+intimate partner or child; or (ii) by its terms 
+explicitly prohibits the use, attempted use, or 
+threatened use of physical force against such intimate 
+partner or child that would reasonably be expected to 
+cause bodily injury."***Footnote 19: 18 USC sec 922.***
+  
+Several recent BJS and GAO reports make clear that
+domestic violence misdemeanor conviction records
+and restraining orders continue to pose significant
+challenges to the NICS system: 
+  
+-- Use and Management of Criminal History Record
+Information: A Comprehensive Report, 2001 Update,
+(NCJ 187670) December 2001.-- Continuing Criminal
+History Records Improvement Evaluation: Final
+1994-98 Report, (NCJ-179768) February 2000.
+-- Survey of State Procedures Related to Firearms
+Sales, Midyear 2002, (NCJ-198830) April 2003.
+-- Opportunities to Close Loopholes in the National
+Instant Background Check System, General
+Accounting Office, (GAO-02-720) July 12, 2002.  
+-- Improving the National Instant Criminal Background
+Check System, General Accounting Office,
+(GAO-T-GGD-00-163) June 21, 2000.  
+-- Gun Control: Options for Improving the National
+Instant Criminal Background Check System, General
+Accounting Office, (GAO/GGD-00-56) April 12, 2000.
+
+The first section of this appendix examines the
+principal impediments to accessing complete
+domestic violence misdemeanor records and
+restraining orders, including --
+
+* Nonfelon information being generally unavailable 
+to State repositories
+* Unautomated conviction records for domestic
+violence misdemeanors and unautomated restraining
+orders 
+* Incomplete records for domestic violence
+misdemeanor convictions and incomplete restraining
+orders
+* Insufficient resources to examine domestic
+violence records and restraining orders
+* Problematic case management for domestic
+violence 
+* Complicated Federal definition of "misdemeanor
+crime of domestic violence."
+
+The final section of Appendix II presents five new
+BJS initiatives to improve access to these records.
+
+States improve access to domestic 
+violence records
+
+Since 1996 BJS has encouraged States to use NCHIP 
+funds to flag records to designate misdemeanor 
+convictions for domestic violence, stalking, 
+protection orders, and crimes against children, the 
+elderly, and the disabled. Between 1995 and 2002, 
+BJS awarded over $18.5 million, or 5% of all 
+available NCHIP funds, to 45 States and the
+District of Columbia for the automating, upgrading,
+and flagging of domestic violence records and
+protection order files. States have also used NCHIP
+funds to develop registries for protection orders and
+restraining orders.
+
+Improving records for domestic violence offenders
+will remain one of BJS' most important priorities for
+two reasons. First, domestic violence misdemeanants
+represent a disproportionately large percentage of
+firearm retrieval actions referred to the Bureau of
+Alcohol, Tobacco, Firearms, and Explosives (ATF).
+Across more than 34 months, 1998-2001, ATF data
+indicate that domestic violence misdemeanants
+accounted for 14% of all FBI NICS denials but nearly
+26% of firearm retrieval referrals.***Footnote 20: 
+Opportunities to Close Loopholes, pp. 18-20.***The
+percentage of retrieval actions referred to ATF for
+subjects of a protection order was not
+disproportionate. Individuals subject to a protection
+order comprised nearly 4% of NICS denials and 1%
+of firearm retrieval referrals.  
+
+Second, domestic violence caseloads have increased
+in recent years, strongly suggesting an increase in
+the number of domestic violence convictions.
+According to the National Center for State Courts,
+domestic violence filings increased 12% between
+1996 and 2000.***Footnote 21: Examining the Work
+of State Courts, 2001: A National Perspective from
+the Court Statistics Project, National Center for 
+State Courts, 2001.*** Ten States had increases of 
+10% or more in the number of domestic violence filings
+between 1998 and 2000: South Dakota (34%), Ohio
+(27%), Illinois (21%), Indiana (21%), Tennessee
+(19%), Montana (18%), Michigan (15%), North
+Dakota (15%), West Virginia (12%), and Virginia
+(11%).***Footnote 22:Examining the Work of State
+Courts, 2001, p. 42. ***  
+
+Without better procedures to identify domestic
+violence offenders and persons with protection 
+orders against them, the threat to public safety 
+will become more severe as the number of domestic 
+violence offenders increases.
+
+States hampered in checks for domestic violence
+misdemeanants and subjects of protection orders
+
+Repositories miss domestic violence 
+misdemeanor records 
+
+As of midyear 2002, 36 State criminal history
+repositories maintained data on domestic violence
+misdemeanor convictions, and 43 repositories
+contained information on restraining orders.***
+Footnote 23: survey of State Procedures Related 
+to Firearm Sales, Midyear 2002 (NCJ 198830) April 
+2003.*** How complete these databases are or how 
+frequently they are updated or audited is unknown.
+
+The lack of comprehensive misdemeanor arrest and
+disposition data has been identified as a major
+deficiency in State criminal history record
+systems.***Footnote 24: Use and Management of
+Criminal History Record Information: A
+Comprehensive Report, 2001 Update(NCJ 187670)
+December 2001.*** In many States only suspects
+charged with felonies are routinely fingerprinted, 
+and only their arrests are reported to the 
+repository for inclusion in a suspect's RAP sheet.
+
+Automation remains a problem for some domestic
+violence misdemeanor records and protection orders
+
+In 2002 four States indicated that the lack of
+automated misdemeanor records prevented officials
+from fully checking domestic violence convictions.
+
+Seven States reported in 2002 that State officials
+could not retrieve accurate protection order
+information because the records were not fully
+automated. 
+
+The lack of automation prevents many States from
+forwarding these records to the FBI. Eight States
+reported that lack of automated records prevented
+them from sending misdemeanor domestic violence
+information to the FBI. In 11 States, officials 
+indicated that they were prevented from forwarding 
+protection order information to the FBI because the 
+information was not automated.
+
+Records incomplete for domestic violence
+misdemeanors and protection orders 
+
+In response to a 2002 survey, 20 States reported 
+that incomplete records prevented the State from
+retrieving accurate domestic violence misdemeanor
+information for background checks. These records
+were incomplete for several reasons, including the
+following: 
+*  absence of a flag denoting domestic violence
+misdemeanor
+*  the age of the record 
+* the lack of a final disposition
+* the lack of information about the victim-offender
+relationship
+*  the failure of arresting agencies and courts to
+report the information promptly to the repository
+*  agency procedures that do not require
+fingerprinting misdemeanants.
+
+Twelve States also reported in 2002 that incomplete
+restraining order information made it difficult to
+conduct background checks. Most of these States
+indicated that restraining order records were
+incomplete due to the courts' inability to provide 
+the repository with the necessary information. Other
+factors included the failure to have proper identifiers
+(such as date of birth) in the record, lack of
+automation, and insufficient resources to process the
+information accurately and promptly.
+
+Incomplete records not only complicate background
+checks, they also prevent States from submitting
+material to FBI databases, such as the National
+Protection Order File. Problems from incomplete
+records prevented 15 States from providing domestic
+violence misdemeanor information to the FBI and
+prevented 13 States from providing protection orders.
+Nineteen States reported that the absence of a flag 
+in the record prevented the State from sending
+domestic violence misdemeanor records to the FBI. 
+
+State checking agencies lack time and resources to
+access domestic violence records or restraining
+orders
+
+In 2002 eight States reported that they did not have
+sufficient time or resources to access complete
+domestic violence misdemeanor information for
+background checks. Four states reported that
+additional time or resources were needed before they
+could retrieve complete restraining order information
+for background checks.
+
+Officials from five States reported that insufficient
+resources were a factor that prevented them from
+providing the FBI with complete domestic violence
+misdemeanor information. In 10 States officials
+reported that they did not have sufficient resources 
+to provide complete protection order information to 
+the FBI.
+
+Tracking of domestic violence cases 
+often difficult 
+
+Handling of domestic violence-related cases varies
+within and between States. Cases involving domestic
+violence may arise from a variety of divisions 
+within a State judicial system, such as civil, 
+criminal, juvenile, and family divisions, as well as 
+from specialized domestic violence courts. Case 
+management systems vary in their ability to track 
+case filings, the issuance of protection orders, and 
+documenting case outcomes.   
+
+The lack of data on domestic violence is also related
+to the legal definitions of offenses. Recorded offenses 
+may not include information about the victim. 
+
+That information is essential to determine whether 
+an assault, for example, occurred between intimate
+partners, acquaintances, or strangers.  
+
+To better understand how the courts handle domestic
+violence cases, in 2002 BJS initiated a study of
+case-processing flows through the criminal justice
+system for persons charged with domestic violence
+offenses.  Representative data from the 75 largest
+counties will be collected. An estimated 16,000
+domestic violence cases will be tracked from arrest,
+through prosecution, to conviction and sentencing.
+Information will be obtained on the types of
+sentences imposed for domestic violence, including
+supervision in the community under sentences to
+probation.  
+
+Factors affecting the likelihood of conviction will 
+be documented. Apart from legal provisions, these
+factors may include the following: the victim-offender
+relationship, criminal histories of victim and 
+offender, policies guiding issuance and enforcement of
+restraining orders, prosecutorial policies regarding
+domestic violence cases, and pretrial release and
+sentencing practices.
+
+The study's objective is to determine whether
+domestic violence cases are handled differently from
+other types of assault filings. Reporting to criminal
+record repositories may be one of the differences.
+
+Definition of "misdemeanor crime of domestic
+violence" complicated
+ 
+The GAO identified another impediment to domestic
+violence misdemeanor reporting.***Footnote 25: 
+Opportunities to Close Loopholes in the National
+Instant Background Check System, pp. 21, 67.*** 
+The GAO noted that the Federal definition of 
+"misdemeanor crime of domestic violence" presents 
+a unique challenge for States for at least two 
+reasons: 
+(1) the law is retroactive in scope
+(2) the definition requires information about court
+proceedings that may be available only through
+manual research.
+
+For a Federal firearms eligibility determination 
+to be made, several elements must be known about the
+misdemeanor domestic violence conviction, including
+the following: 
+(1) whether an offender was represented by counsel
+or knowingly and intelligently waived the right to
+counsel 
+(2) whether there was a jury trial if the offender 
+was entitled to one, or whether this right was 
+intelligently waived
+(3) whether a conviction that meets these criteria was
+later expunged or set aside or was for an offense for
+which the offender was pardoned or had his/her civil
+rights restored. 
+
+According to a 2002 BJS survey, seven States
+reported that the complicated nature of the Federal
+definition of a "misdemeanor crime of domestic
+violence" prevented the State from retrieving
+complete and accurate domestic violence
+misdemeanor information.  
+
+Four States reported that the cumbersome Federal
+definition of a "misdemeanor crime of domestic
+violence"  prevented the State from sending 
+complete and accurate domestic violence misdemeanor
+information to the FBI.
+
+BJS has developed 5 initiatives to improve
+access to misdemeanor domestic violence
+records and to protection orders: 
+
+1. NCHIP will focus on improving the flagging 
+of domestic violence misdemeanor records
+
+Since 1996, when a conviction for a domestic
+violence misdemeanor was added to the list of
+Federal firearm prohibitors, NCHIP has supported
+State efforts to ensure that records of domestic
+violence related offenses are included or "flagged" 
+in criminal history records. Allowable costs under
+NCHIP have included the costs of flagging or
+algorithms used for flagging as well as those
+associated with the identification of records to be
+flagged. Since 1996 NCHIP funds have enabled
+certain States to build centralized statewide domestic
+violence databases and to upgrade their records;
+however, not all States have done so.  
+
+This new initiative will encourage State officials 
+to place a higher priority on meeting the challenges
+posed by domestic violence misdemeanor convictions. 
+NCHIP funds will be made available to the States to 
+allow them to implement procedures that ensure that 
+misdemeanor convictions involving domestic violence 
+are systemically incorporated into RAP sheets and 
+made available for use during a NICS check.
+
+The BJS evaluation of the NCHIP program will gather
+systematic data on techniques used across States to
+overcome impediments to identifying prohibited
+firearm purchasers. The evaluation will document
+changes in the ability of States to provide such
+information to the NICS Index.
+
+2. NCHIP will assist States in 
+obtaining NIBRS certification 
+
+BJS has provided funds under CITA to the States to
+promote NIBRS, an emerging FBI data system designed 
+to capture detailed offense, offender, victim,
+property, and arrest data on each crime incident. 
+BJS strongly encourages States to link NIBRS data on
+offenders to RAP sheet arrest and disposition
+transactions. The victim and incident characteristics,
+such as victim-offender relationship, can thereby be
+used in the State's background check.
+
+The NIBRS system can improve State criminal records' 
+identification of domestic violence offenders. For 
+example, a criminal record that shows an assault
+conviction might be linked with NIBRS information to
+identify the relationship between the victim and
+offender, including relationships within the family
+(such as spouse, common-law spouse, and sibling)
+and outside the family (such as acquaintance,
+ex-spouse, and boy/girlfriend). This additional
+information may replace the tedious manual research
+currently required to determine whether a conviction
+meets the Federal definition for a domestic violence
+disqualifier. 
+
+In 2001 BJS distributed $13 million to 26 States 
+through the NIBRS Implementation Program to 
+develop and operate NIBRS-compatible systems. 
+As of August 2003, 24 States had their State UCR
+programs approved by the NIBRS Certification Board.
+
+BJS remains committed to assisting  States in
+attaining NIBRS certification. BJS will place a 
+higher priority on its collaboration with the FBI to 
+reach the goal of having all States become NIBRS 
+certified as soon as practicable. This collaboration 
+will focus on the 14 States testing their systems to 
+determine whether they may soon meet certification 
+standards, on the 9 States developing their NIBRS 
+systems, and on the 6 States with no formal plans to 
+provide NIBRS data. 
+
+3. BJS will improve its data collections domestic
+violence misdemeanors and protection orders
+
+Two BJS surveys examine States' ability to use data
+on domestic violence misdemeanor convictions and
+protection orders: the Survey of State Procedures
+Relating to Firearms Sales and the Survey of State
+Criminal History Information Systems. This initiative
+will require BJS to expand upon these surveys,
+learning more about the problems that the NICS
+faces in checking these records.
+
+In response to the Attorney General's 2001 directive
+to BJS, BJS has followed up on the Survey of State
+Procedures Relating to Firearms Sales and the
+Survey of State Criminal History Information
+Systems. 
+
+The Survey of State Procedures Related to Firearm 
+Sales an annual national survey, describes the 
+scope and impact of firearm background checks
+required under Federal or State law.  
+
+The current survey asks States to indicate whether
+they access a statewide database for domestic
+violence misdemeanor convictions when conducting
+a background check for a firearms transfer. A
+separate question asks whether a statewide
+database for restraining orders is accessed during
+background checks.  
+
+BJS has recently supplemented these questions to
+gain in-depth information on-- 
+* State procedures for checking domestic violence
+misdemeanor records and protection orders
+* impediments to checking these records
+* whether this information is forwarded to the FBI
+* impediments to transmittal of this information to 
+the FBI
+* whether improvements are underway or planned to
+improve the State's ability to access or use domestic
+violence misdemeanor records and protection orders.
+
+The Survey of State Criminal History Information
+Systems is the primary source of information on the
+size and level of automation of criminal history 
+record holdings by State.
+
+For the States that serve as points of contact for
+background checks, BJS will follow up on the survey
+to learn more about the centralized State databases
+used for domestic violence misdemeanor records
+and protection orders. BJS will also determine the
+size, level of completeness, and accuracy of these
+databases. 
+
+If databases containing domestic violence information
+are described as incomplete, follow-up questions will
+seek reasons for the incompleteness and remedial
+measures being undertaken. To examine the
+accuracy of these databases, BJS will determine
+whether and how frequently the databases are
+audited to remove items such as expired protection
+orders.
+
+For those States that do not serve as points of
+contact for background checks, the followup survey
+will examine which State agencies maintain
+information concerning domestic violence
+misdemeanor convictions and the issuance of
+protection orders. Survey questions will also examine
+the impediments that prevent the transmittal of this
+information to the FBI's NICS Index.
+
+4. NCHIP will work to improve misdemeanor
+domestic violence conviction reporting 
+from the courts
+
+The Federal prohibition against possessing firearms
+attaches upon conviction in any court of a
+misdemeanor crime of domestic violence.  However,
+current court reporting practices do not ensure that
+misdemeanor domestic violence convictions are
+consistently reported to a State's criminal history
+repository.  
+
+BJS will encourage States to expend NCHIP funds to
+improve accessibility of domestic violence
+misdemeanor records and to improve the reporting of
+those records by courts to the repository and the
+NICS Index. Several States have utilized NCHIP
+funds for these purposes in recent years. BJS will
+also work with all States to automate case
+management systems.  
+
+In addition to the provision of NCHIP funds, BJS will
+continue its funding of the Court Statistics Project
+through the National Center for State Courts.  
+
+The National Center for State Courts recently
+developed a Family Violence Data Reporting
+Prototype to streamline the process of classifying,
+counting, and reporting family violence cases for all
+types of courts. This prototype assists the court in
+accurately reporting whether domestic violence
+related elements were present in a case, along with
+trial outcome, case disposition, and sentencing
+information.  
+
+Recent tests of the Family Violence Data Reporting
+Prototype revealed impediments such as courts that
+lacked integrated data systems and jurisdictional
+problems with the test cases. Despite these flaws,
+most demonstration courts found the prototype to be
+a viable tool.
+
+Case reporting tools such as the Family Violence
+Data Reporting Prototype will lead to the greater
+availability and comparability of information on
+domestic violence misdemeanors. 
+
+5. BJS will encourage States to increase submissions
+to the National Protection Order Database
+
+The contribution of State protection order records to
+the FBI's National Protection Order file is designed to
+permit interstate enforcement of protection orders
+and allow for more thorough NICS background checks.  
+A 2002 report from the Department of Justice's Office 
+for Victims of Crime estimated that in 1998 the FBI's 
+national database contained less than 5% of the 2 
+million protection orders believed to qualify for 
+entry into the file.***Footnote 26: Office for
+Victims of Crime, Enforcement of Protection Orders,
+OVC Legal Series Bulletin No.4, January 2002, pg.
+4.***  
+
+As of February 2003, the National Protection Order
+file held no records from Alabama, the District of
+Columbia, Hawaii, Mississippi, Nevada, New Jersey,
+Utah, Virginia, or West Virginia. In recent years 
+the database has grown considerably, averaging nearly
+200,000 additional records per year. BJS will
+undertake a concerted effort to target non-
+participating States for transmittal of protection
+orders to the FBI for inclusion in the national system.
+
+Appendix III   BJS surveys in the 
+aftermath of September 11, 2001
+
+Through its recent surveys BJS has learned
+important details about some States' inability 
+to routinely identify prohibited purchasers of 
+firearms. Combined with the tragic events of 
+September 11, 2001, these findings generated two 
+research questions about the current capacity to 
+protect U.S. residents against foreign threats.  
+
+How adequate are State procedures in the event 
+that a Federal immigration law violator is 
+detained in the custody of local officials?  
+
+The FBI arrested suspected conspirator Zacarias
+Moussaoui on immigration charges on August 17,
+2001, and detained him in a Minnesota county jail.
+Based on this set of events, do States have policies
+to obtain immigration offenders' fingerprints and
+promptly provide them to the FBI, INS, or State
+criminal history repository when Federal officials
+apprehend the offenders and hold them in a local
+jail?***Footnote 27: The BJS survey described in 
+this section was administered before the INS was
+incorporated into the Department of Homeland
+Security as the Bureau for Citizenship and
+Immigration Services.*** 
+
+BJS commissioned a survey in November 2001 that
+addressed this issue. State procedures vary widely
+concerning these Federal detainees but generally 
+do not ensure that their fingerprint information 
+reaches the appropriate Federal authorities. 
+
+The survey found that eight States do not have
+policies to take fingerprints from a Federal detainee
+charged with a violation of Federal immigration law
+and placed in the custody of local authorities. Eight
+States and the District of Columbia have policies to
+fingerprint the individual and forward the information
+to the FBI. Twenty-two States have policies to
+fingerprint the suspect and send fingerprint
+information to the INS.   
+
+Are the Nation's criminal history record systems
+physically safe from external threats? 
+
+BJS surveyed the States to learn whether their
+criminal history records are adequately protected 
+by backup databases remote from the repository. 
+All States reported having backup systems, and 
+47 States indicated that the backup systems were
+located offsite from the central repository. 
+
+States vary in how they process Federal
+immigration law violators 
+    
+Broad disparities exist among State procedures in
+processing individuals apprehended by Federal
+officers and detained locally for violating Federal
+immigration laws. In the November 2001 survey of
+State criminal history repositories, only 
+Massachusetts reported that it fingerprints detainees
+and forwards the prints to the State repository, the
+FBI, and INS (table). 
+
+Eight States reported that they do not have a policy 
+to fingerprint the detainees. In one of the eight,
+Maryland officials indicated that if an individual is
+detained by State or local law enforcement authorities
+for an immigration offense, fingerprints are taken,
+forwarded to the State repository for a criminal
+records check, and then kept on file. 
+
+Fewer than half the States forwarding 
+fingerprint information to the INS
+
+Twenty-two States operate under a policy to
+fingerprint locally held detainees suspected of
+violating Federal immigration laws and forward the
+information to the INS. Of the 22 States, 9 forward
+the information to INS but do not conduct an in-State
+criminal history check or create a permanent record. 
+
+Fewer than a fifth of the States forwarding 
+fingerprints to the FBI
+
+California, Connecticut, Louisiana, Massachusetts,
+and the District of Columbia reported that they collect
+fingerprints from detainees held locally for violating
+Federal immigration laws and routinely send them to
+the State criminal history repository for trans-mission
+to the FBI. Mississippi, Nevada, Texas, and Virginia
+reported sending the fingerprints directly to the FBI. 
+
+One State in three submitting 
+fingerprints of Federal detainees 
+to a State criminal records check
+
+Eighteen States and the District of Columbia collect
+fingerprints from Federal immigration detainees held
+by local authorities and then perform a criminal
+records check.  
+
+Missouri retains the fingerprint and arrest information
+in a separate classification created specifically for
+Federal detainees. Seven States and the District of
+Columbia have statutory authority to create a criminal
+history record and to issue a State identification
+number for individuals arrested in the State for
+violating Federal law. Two States and the District of
+Columbia retain the fingerprint and Federal arrest
+information in a miscellaneous file created to store
+records not meeting requirements for specific
+classifications.  
+
+1 in 5 States retaining fingerprints of Federal
+detainees in State AFIS.
+
+Twelve States operate under a policy to retain the
+suspect's fingerprints in the State AFIS for
+subsequent identification. In these States no new
+criminal history record is created. The States are
+Alaska, Arizona, Arkansas, Connecticut, Delaware,
+Idaho, Indiana, Missouri, Nebraska, New Hampshire,
+North Carolina, and Vermont. 
+    
+2 States obtain dispositions of cases 
+of Federal detainees
+              
+Two States reported that they obtain dispositions for
+cases involving Federal detainees in their State by
+following up with other agencies. California reported
+that the State repository obtains disposition
+information from the INS and Federal courts. Alabama's 
+repository follows up with the INS to obtain complete 
+disposition information.
+
+Although all States were surveyed to determine how
+they obtained dispositions for cases involving Federal
+detainees, most States either indicated that
+dispositions are not obtained (14 States and the
+District of Columbia) or did not respond (34 States).
+
+State criminal history record 
+systems respond to security 
+concerns
+
+The September 11th terrorist attacks on the United
+States have forced Federal and State agencies to
+re-examine the security of physical and information
+infrastructures. As part of this effort, BJS surveyed
+the States to determine whether the Nation's criminal
+history record systems are physically safe from
+external threats. 
+
+Most States with offsite backup 
+systems updated frequently
+
+Every State maintains a backup of their criminal
+history record system. Forty-seven States indicated
+that their criminal record backups systems were
+located offsite from the central repository (New
+Hampshire, New Jersey, and New Mexico did not).
+
+Data in the State criminal record repository backup
+systems are updated frequently, although
+improvements could be made in at least 15 States.
+Six State repositories update their backup systems 
+in real time (Alabama, Colorado, Florida, Indiana, 
+New York, and Oklahoma). Nearly half of the State
+repositories (24) reported that they update their
+backup systems daily, and 15 repositories, weekly. 
+The content of the backup systems varied among the
+States
+
+Nearly all of the States (49) reported that their 
+backup systems contained automated criminal history
+records; however, this does not mean that the
+backup systems contained only automated records. 
+In seven States, the criminal records repository
+director reported that their backup systems contained
+only automated criminal history records.  Fifteen
+States reported that their backup systems contained;
+(1) automated criminal history records, (2) hard
+copies of criminal history records, and (3) electronic
+fingerprint images.  
+
+Twenty five States reported that their backup systems
+contained automated criminal history records and
+electronic fingerprint images. One State reported 
+that its backup systems contained automated criminal
+history records and hard copies of criminal history
+records. One State reported that its backup system
+contained only electronic fingerprint images.  
+
+Among the States that include hard copies of criminal
+history records in their backup systems, four States
+update those records by creating an automated
+version of the record.  Six States had policies to
+manually add updated information to the record.
+
+
+End of file
+07/12/05 ih
+

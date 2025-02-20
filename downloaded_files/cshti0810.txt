@@ -1,0 +1,730 @@
+U.S. Department of Justice 
+Office of Justice Programs 
+Bureau of Justice Statistics 
+
+April 2011, NCJ 233732
+
+Characteristics of Suspected Human
+Trafficking Incidents, 2008-2010
+
+by Duren Banks and Tracey Kyckelhahn, BJS Statisticians
+
+---------------------------------------------------------
+This file is text only without graphics and many of the 
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available from
+http://bjs.ojp.usdoj.gov/index.cfm?ty=pbse&sid=2372
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://bjs.ojp.usdoj.gov/index.cfm?ty=dcdetail&iid=67
+    
+-----------------------------------------------------------   
+        
+Federally funded human trafficking task forces opened
+2,515 suspected incidents of human trafficking for
+investigation between January 2008 and June 2010
+(figure 1). Most suspected incidents of human trafficking
+were classified as sex trafficking (82%), including more than
+1,200 incidents with allegations of adult sex trafficking and
+more than 1,000 incidents with allegations of prostitution or
+sexual exploitation of a child. Eleven percent of the
+suspected incidents opened for investigation were classified
+as labor trafficking, and 7% had an unknown trafficking type.
+
+Data in this report are from the Human Trafficking Reporting
+System (HTRS), which was designed to measure the performance
+of federally funded task forces. HTRS is currently the only
+system that captures information on human trafficking
+investigations conducted by state and local law enforcement
+agencies in the United States. This report is the second in a
+Bureau of Justice Statistics (BJS) series about the
+characteristics of human trafficking investigations,
+suspects, and victims. It reports about case outcomes,
+including suspect arrests and the visa status of confirmed
+victims, and describes the characteristics of incidents
+entered into the HTRS prospectively by the task forces
+beginning in 2008. The Methodology details the HTRS data
+collection procedures and data quality issues.
+
+--------------------------------------------------------
+Highlights
+
+*Federally funded task forces opened 2,515 suspected
+incidents of human trafficking for investigation between
+January 2008 and June 2010.
+
+*About 8 in 10 of the suspected incidents of human
+trafficking
+were classified as sex trafficking, and about 1 in 10
+incidents
+were classified as labor trafficking.
+
+*Federal agencies were more likely to lead labor trafficking
+investigations (29%) than sex trafficking investigations
+(7%).
+
+*Among the 389 incidents confirmed to be human trafficking
+by high data quality task forces--
+
+-- There were 488 suspects and 527 victims.
+
+-- More than half (62%) of the confirmed labor trafficking
+victims were age 25 or older, compared to 13% of
+confirmed sex trafficking victims.
+
+-- Confirmed sex trafficking victims were more likely to be
+white (26%) or black (40%), compared to labor trafficking
+victims, who were more likely to be Hispanic (63%) or
+Asian (17%).
+
+-- Four-fifths of victims in confirmed sex trafficking
+incidents
+were identified as U.S. citizens (83%), while most confirmed
+labor trafficking victims were identified as undocumented
+aliens (67%) or qualified aliens (28%).
+
+-- Most confirmed human trafficking suspects were male
+(81%). More than half (62%) of confirmed sex trafficking
+suspects were identified as black, while confirmed labor
+trafficking suspects were more likely to be identified as
+Hispanic (48%).
+
+*Among trafficking incidents opened for at least one year,
+30% were confirmed to be human trafficking, 38% were
+confirmed not to be human trafficking, and the remaining
+incidents were still open at the end of the study period.
+
+*The confirmed human trafficking incidents open for at least
+a year led to 144 known arrests.
+--------------------------------------------------------
+
+--------------------------------------------------------
+The Trafficking Victims Protection Act of 2000 is the first 
+comprehensive federal law to combat human trafficking
+and help victims.
+
+Under the Trafficking Victims Protection Act of 2000
+(TVPA, 2000), human trafficking is defined as the
+recruitment, harboring, transportation, provision, or
+obtaining of a person for one of three purposes:
+***Footnote1Victims of Trafficking and Violence 
+Protection Act of 2000. Pub. L. No. 106-386, 114 Stat. 
+1464. 
+
+*Labor or services, through the use of force, fraud, or
+coercion for the purposes of subjection to involuntary
+servitude, peonage, debt bondage, or slavery.
+
+*A commercial sex act through the use of force, fraud, or
+coercion.
+
+*Any commercial sex act, if the person is under 18 years
+of age, regardless of whether any form of coercion is
+involved.
+
+The Trafficking Victims Protection Reauthorization Act of
+2005 (TVPRA, 2005) requires biennial reporting on the
+scope and characteristics of human trafficking in the U.S.,
+using available data from state and local authorities.
+***Footnote 2 Trafficking Victims Protection 
+Reauthorization Act of 2005, Pub. L. No. 109-164, 
+119 Stat. 3566.***As part of an effort to meet these 
+congressional  mandates, the Bureau of Justice Statistics 
+(BJS), in partnership with the Bureau of Justice Assistance 
+(BJA), Northeastern University (NEU), and the Urban 
+Institute (UI), developed the Human Trafficking Reporting 
+System (HTRS).
+
+The HTRS system is designed to capture information on
+human trafficking incidents investigated by federally
+funded task forces, and is the first to focus specifically
+on state and local human trafficking investigations in
+the U.S. BJA provides support for state and local law
+enforcement to work more collaboratively with victim
+services organizations, federal law enforcement, U.S.
+Attorneys' Offices, and the Civil Rights Division of the U.S.
+Department of Justice in the identification and rescue of
+human trafficking victims who are in the United States.
+This report is based on information collected from these
+BJA-funded task forces through the HTRS.
+
+The first report developed from HTRS information,
+Characteristics of Suspected Incidents of Human Trafficking,
+2007-2008, described characteristics of cases entered into
+the system between January 1, 2007, and September 30,
+2008.***Footnote 3 In this report, case, incident, and
+investigation are used interchangeably.***
+
+Since 2008, HTRS has captured information from 42
+jurisdictions covering nearly 25% of the U.S. resident
+population at midyear 2010. Although the task forces are
+not representative of the entire nation, they are widely
+dispersed geographically.
+
+The HTRS is an incident-based data collection system:
+
+*An incident is any investigation into a claim of human
+trafficking, or any investigation of other crimes in
+which elements of potential human trafficking were
+identified.
+
+*An investigation is any effort in which members of the
+task force spent at least one hour investigating (e.g.,
+collecting information, taking statements, and writing
+reports).
+
+Each incident is uniquely identified by an incident date
+(date of occurrence) and incident number. Once entered
+into the system, an incident upon further investigation
+may or may not be determined to involve human trafficking. 
+All incidents, regardless of outcome, are retained in 
+the HTRS.
+
+To be confirmed as human trafficking--
+
+*The case must have led to an arrest and been
+subsequently confirmed by law enforcement, or
+
+*The victims in the case must 1) have had a "continuing
+presence" requested on their behalf, or 2) have received
+an endorsement for a T or U visa application. *** Footnote 
+4 Congress created the T and U nonimmigrant  classifications
+with the passage of the TVPA, 2000. The T  nonimmigrant
+status was created to provide protection to  victims of
+severe forms of human trafficking. The U nonimmigrant status
+was designated for victims of certain crimes who had suffered
+mental or physical abuse and who were willing to assist in
+the investigation of human trafficking activity.
+-------------------------------------------------------
+
+Most suspected incidents of human trafficking
+involved allegations of prostitution of an adult or child
+
+Federally funded human trafficking task forces opened a
+total of 2,515 suspected incidents of human trafficking for
+investigation between January 1, 2008, and June 30, 2010.
+These suspected incidents include allegations that, through
+subsequent investigation, may or may not be determined to
+meet the definition of human trafficking according to the
+TVPA, 2000. (See box on page 2.)
+
+Nearly half of all incidents investigated between January
+1, 2008, and June 30, 2010, involved allegations of adult
+prostitution (48%). Forty percent involved prostitution of
+a child or child sexual exploitation (table 1). Elements of
+sexualized labor, including exotic dancing and unlicensed
+massage parlors, were found in 6% of the incidents reported.
+Fourteen percent of cases contained allegations of labor
+trafficking, including 9% with suspected labor trafficking in
+potentially unregulated industries, such as day labor, drug
+sales, forced begging, roadside sales, or domestic workers
+(e.g., nannies). Approximately 5% of the incidents involved
+suspected labor trafficking in more commercial industries,
+such as hair salons, hotels, and bars.
+
+Nine percent of incidents involved allegations of an
+unknown human trafficking type or allegations that could
+not be defined as either labor or sex trafficking, such as
+mail order brides, child selling, and unspecified Internet
+solicitations.
+
+Task forces may have entered multiple types of human
+trafficking per incident. Among the incidents described
+in this report, up to six different types of trafficking were
+identified per incident, although most (77%) incidents
+involved allegations of one type of human trafficking.
+
+Cases were classified by whether they included allegations of
+sex trafficking or labor trafficking. Cases that had elements
+of both sex and labor trafficking (72 cases, or 3% of the
+total)were classified as sex trafficking cases for analysis
+purposes. Cases that did not include allegations that could
+be defined as sex or labor trafficking were classified as an
+unknown trafficking type and reported in total statistics
+throughout the report. Most investigations were classified as
+suspected sex trafficking (82%), followed by 11% as suspected
+labor trafficking and 7% unknown (table 2).
+
+The types of trafficking cases differed between task forces
+located in a vice unit and those located in another type
+of unit within the law enforcement agency. (Vice units
+in law enforcement commonly pursue crimes related to
+prostitution, pornography, gambling, alcohol, and drugs.)
+Task forces classified as located in vice were in units
+either dedicated solely to investigating vice crimes or in
+units focused on vice and other crimes, such as sexual
+assault or domestic violence. Those task forces not located
+in vice units were located in divisions specializing in human
+trafficking, intelligence units, or units dedicated to
+investigating organized crime. Eighty-nine percent of
+incidents reported by task forces located in a vice unit were
+incidents of suspected sex trafficking, compared to 73% of
+incidents reported by task forces located outside of vice
+units.
+
+Federal agencies were more likely to lead labor trafficking
+investigations (29%), compared to sex trafficking
+investigations (7%)
+
+A law enforcement agency was identified as the lead agency
+for nearly all suspected sex trafficking cases (98%). Among
+suspected labor trafficking cases, 88% had a law enforcement
+lead agency, and 11% had a victim advocacy lead agency
+(table 3).
+
+In sex trafficking cases, 92% involved a lead agency
+identified as a state, local, or territorial level government
+agency, while 7% of lead agencies were identified as federal
+agencies, such as the FBI, U.S. Attorneys' Offices, or
+Immigration and Customs Enforcement. Labor trafficking
+investigations were more likely to have a federal lead agency
+(29%) than sex trafficking investigations (7%).
+
+The number and type of task force agencies involved in
+suspected human trafficking incidents varied more for
+labor trafficking cases than for sex trafficking cases. Among
+suspected labor trafficking incidents, 82% involved multiple
+agencies as part of the task force team; 49% of suspected sex
+trafficking incidents involved multiple agencies.
+
+In a review of all types of agencies involved in the case,
+99% of sex trafficking cases included a law enforcement
+agency, and 16% included a victim advocacy agency. Most labor
+trafficking incidents also included a law enforcement agency
+in the case (91%); however, labor trafficking incidents were
+more likely to include a victim advocacy agency (40%) and
+a regulatory agency (10%), such as a code enforcement or
+professional licensing agency, when compared to suspected
+sex trafficking cases.
+
+-----------------------------------------------------
+Data quality and consistency in reporting
+
+The HTRS project team identified a number of data quality
+issues despite efforts to ensure consistent and complete
+reporting.
+
+The most significant issues were--
+
+*Missing individual-level information about suspects and
+victims, and
+
+*Failure to update cases as the investigations progressed.
+
+The type of trafficking suspected and the agencies involved
+were entered into the system because this information was
+typically available at the outset of an investigation (figure
+2). The availability of information on case confirmation,
+victims, and suspects was not necessarily a function of the
+length of time the case was open, and was missing for a
+significant number of the incidents (table 4).
+
+Cases observed for 12 or more months generally had more
+valid data about whether the incident was confirmed
+to be human trafficking. Among all cases opened for
+investigation between January 2008 and June 2010,
+confirmation of the outcome was pending for 39% of the
+incidents at the conclusion of the study period (June 2010).
+Among cases open for at least 12 months in task forces
+that consistently updated case information and provided
+individual-level data, 38% had not reached a confirmation
+outcome at the conclusion of the study period. However,
+83% of the cases that ultimately reached an outcome were
+able to do so within 12 months.
+
+Identifying the characteristics of individuals involved in
+human trafficking was problematic overall. The quality of
+the data was associated more with the task force itself than
+with the date the case was opened or the type of suspected
+trafficking. Valid suspect and victim data were clustered in
+certain task forces identified as providing high data
+quality.
+
+*High data quality task forces (18 of 42) met three criteria:
+1) regularly entered new cases into the system, 2)
+provided individual-level information for at least one
+suspect or victim, and 3) updated case information on a
+regular basis. Individual-level information for at least one
+suspect was available for 75% of the confirmed human
+trafficking investigations open for at least one year in
+selected task forces.
+
+*Low data quality task forces (24 of 42) did not meet any
+of the three criteria listed above.
+
+Case confirmation outcomes and individual-level statistics
+are therefore restricted to data provided by selected task
+forces (18 of the 42). These task forces regularly entered
+new cases into the system, provided individual-level
+information for at least one suspect or victim, and updated
+case information on a regular basis.
+
+Confirmed victims of labor trafficking were more likely
+to be male, older, and foreign than confirmed victims
+of sex trafficking
+
+Federally funded high data quality task forces entered 389
+confirmed incidents of human trafficking during the study
+period. These cases had consistently complete reporting on
+case outcome and individual-level information. The selected
+task forces identified 527 confirmed human trafficking
+victims in the 389 confirmed incidents. Confirmed sex
+trafficking victims were overwhelmingly female (94% of
+victims with known gender). Of the 63 confirmed labor
+trafficking victims, 20 were male and 43 were female (table
+5).
+
+Confirmed labor trafficking victims were more likely to
+be older than confirmed sex trafficking victims. Sixty-two
+percent of confirmed labor trafficking victims were
+identified as 25 years of age or older, compared to 13% of
+confirmed sex trafficking victims, based on victims with
+known age.
+
+In addition, confirmed labor trafficking victims were more
+likely to be identified as Hispanic (63% of victims with
+known race) or Asian (17%) compared to sex trafficking
+victims, who were more likely to be white (26%) or black
+(40%). Four-fifths of victims in confirmed sex trafficking
+cases were identified as U.S. citizens (83%), while most
+confirmed labor trafficking victims were identified as
+undocumented aliens (67%) or qualified aliens (28%).
+
+More than half of confirmed sex trafficking suspects
+were black, while confirmed labor trafficking suspects
+were more likely to be Hispanic
+
+Overall, individual information was collected for 488
+suspects in confirmed human trafficking incidents in high
+data quality task forces (table 6).
+
+Most confirmed human trafficking suspects were male
+(81%), while 19% were female. Based on cases in which
+race was known, nearly two-thirds (62%) of confirmed sex
+trafficking suspects were identified as black. Confirmed
+labor trafficking suspects were more likely to be identified
+as Hispanic (48%). Most suspects in confirmed sex trafficking
+incidents were between the ages of 18 and 34 (77%) and
+were U.S. citizens (86%).
+
+Analysis of case outcomes was restricted to incidents
+opened by high data quality task forces and observed
+for one year
+
+Seventy-six percent of human trafficking cases had reached a
+confirmation outcome at the conclusion of the study period,
+including 88% of cases opened in high data quality task
+forces and 67% in the remaining task forces (figure 3).
+-----------------------------------------------------       
+
+Victim service providers report serving more labor 
+trafficking victims than sex trafficking victims.
+
+The HTRS collects information on human trafficking
+cases opened for investigation by state and local law
+enforcement agencies that received federal funding
+to support task force activities. The data described in
+this report reflect the information that was available to,
+and entered by, these state and local law enforcement
+agencies, which receive support from the Bureau of Justice
+Assistance (BJA) in the Office of Justice Programs, U.S.
+Department of Justice.
+
+The Office for Victims of Crime (OVC), also in the Office of
+Justice Programs, provides grant funding to victim service
+agencies in many of the BJA-funded task force locations.
+The OVC funds support comprehensive services to human
+trafficking victims. Between January 2008 and June 2009,
+OVC awarded grants to 32 task force agencies to provide
+services to foreign national victims of human trafficking.
+
+OVC data are compiled through the Trafficking Information
+Management System (TIMS). Between 2003 and June 2009,
+the OVC initiative provided services to a total of 2,699 
+precertified foreign national suspected victims of
+trafficking. TIMS data consistently show that the majority of
+victims served are classified as labor trafficking victims.
+Between January 2008 and June 2009, 64% of the victims served
+by OVC-funded service providers were identified as victims of
+labor trafficking only, 22% as victims of sex trafficking
+only, and 10% as victims of both labor and sex trafficking.
+
+Among confirmed victims of human trafficking identified
+by high data quality task forces in the HTRS, approximately
+43% of undocumented aliens and qualified aliens were
+victims of labor trafficking, compared to 64% of the foreign
+national suspected victims of human trafficking served by
+the OVC task forces.
+
+OVC expanded the victim services initiative to include U.S.
+citizens who are miniors beginning in late 2009, and in 2010
+began to include all victims of trafficking, regardless of
+citizenship or age. In 2010, BJA and OVC began joint support
+of an enhanced collaborative task force model that included
+support for victim service agencies and law enforcement
+agencies to take a comprehensive approach to investigating
+all trafficking crimes and providing services to trafficking
+victims regardless of citizenship or age.
+---------------------------------------------------------
+
+Cases that were ultimately confirmed to be human trafficking
+in high data quality task forces were open for a median of
+five months before the case was confirmed. Cases that were
+ultimately confirmed not to be human trafficking in these
+selected task forces were open for a median of 3 months
+before the allegations were determined to be unfounded
+(figure 4).
+
+Most (83%) of the cases that ultimately reached an outcome
+were able to do so within 12 months of observation (not
+shown in table). Statistics about the outcomes of cases are
+therefore restricted to incidents observed for at least 12
+months in the study period, and opened by task forces that
+reliably updated information.
+
+Approximately a third of cases opened for investigation were
+confirmed to be human trafficking Among cases opened for at
+least one year in selected task forces, 30% were confirmed to
+be human trafficking and 38% were confirmed not to be human
+trafficking as defined in the TVPA, 2000. Nearly a third of
+the cases had a pending confirmation outcome (table 7).
+
+Any commercial sex act if the person is under 18 years of
+age, regardless of whether any form of coercion is involved,
+is defined as human trafficking by the TVPA, 2000. (Adult
+prostitution is not considered human trafficking unless it is
+proven that the victim was coerced.) Of cases confirmed to be
+human trafficking, 64% involved allegations of prostitution
+or sexual exploitation of a child, and 42% involved
+allegations of adult prostitution. Most cases confirmed not
+to be human trafficking (64%) or pending confirmation status
+(66%) involved allegations of adult prostitution (table 8).
+
+About a quarter of foreign nationals confirmed as
+victims received U.S. visas
+
+Nearly 90 victims identified in confirmed human trafficking
+incidents open for at least a year were described as
+undocumented or qualified aliens. Of these 87 foreign
+victims, 21 received T visas, while 46 visa applications were
+still pending or had an unknown status. (See footnote 4 on
+page 2.) Most confirmed victims in cases open for at least
+a year were described as U.S. citizens, U.S. nationals, or
+permanent U.S. residents (67%)(not shown in table).
+
+Nearly 150 arrests were reported by law enforcement
+agencies in confirmed human trafficking incidents
+
+Law enforcement agencies in the selected task forces
+reported arresting 144 suspects in confirmed human
+trafficking incidents open for at least a year during the
+study period, including 139 sex trafficking suspects and 5
+labor trafficking suspects (table 9). Most sex trafficking
+arrests occurred at the state level (114), while all 5 labor
+trafficking arrests occurred at the federal level.
+
+The HTRS relies primarily on local law enforcement to
+update information about arrests. Local law enforcement
+may not always have current or complete information about
+arrests made by other agencies. (See Methodology.)
+
+Methodology
+
+This report relies on information from task forces receiving
+federal support from the Bureau of Justice Assistance (BJA).
+Since the Human Trafficking Reporting System (HTRS)
+was implemented in 2008, a total of 45 jurisdictions have
+received funds from BJA to provide support for state and
+local law enforcement to work more collaboratively with
+victim services organizations, federal law enforcement, U.S.
+Attorneys' Offices, and the Civil Rights Division of the U.S.
+Department of Justice in the identification and rescue of
+human trafficking victims who are in the United States. The
+HTRS was designed to facilitate incident-level management
+and tracking of human trafficking investigations opened by
+BJA-funded task forces.
+
+Between January 1, 2008, and June 30, 2010, 42 of the 45
+federally funded human trafficking task forces reported at
+least one human trafficking incident in the HTRS. The task
+forces involve partnerships with varying coverage areas,
+including entire states/territories and regions, multiple
+counties, single counties, and metropolitan areas. Combined,
+the task forces operated in jurisdictions that were home to
+nearly 25% of the nation's resident population at midyear
+2010. Although the task forces are not representative of the
+entire nation, they are widely dispersed geographically.
+
+Collection procedures
+
+Each task force designated a person for data collection
+and reporting. Reporters were responsible for adding new
+human trafficking incidents on a monthly basis, updating
+information for existing records with new activity, and
+submitting data automatically through an online data portal.
+Reporters were provided training and follow-up technical
+assistance via phone or onsite as needed by Northeastern
+University (NEU) and Urban Institute (UI) staff. Task forces
+began entering data in January 2008.
+
+Task force reporters enter information about investigations
+into the HTRS if they have spent at least one hour of
+investigation time on a potential trafficking case. At the
+time that data are originally entered into the system, many
+investigations are still ongoing. As investigations proceed,
+additional information may become available or the original
+information may be updated. As a result, the HTRS provides
+a snapshot of information currently known and reported.
+
+Once an investigation has progressed to the point of having
+information about potential suspects or victims, task force
+reporters are instructed to enter this information into the
+HTRS. Information for each suspect and each victim is then
+added by completing automated data entry screens identified
+as a Suspect Information Form or a Victim Information Form.
+As more information becomes available, task force reporters
+are asked to update the information on each screen. (For
+additional details, see the Human Trafficking Reporting
+System User's Manual at
+https://www.humantrafficking.neu.edu.)
+
+Data quality
+
+Every effort was made to ensure consistency and
+completeness in task force reporting to the HTRS. NEU and
+UI developed a detailed HTRS Users' Guide to introduce
+the platform to task forces and promote consistency in
+reporting. Training and onsite technical assistance was
+provided to all task forces. An advisory board made up of
+task force representatives helped guide the development
+and implementation of the data management system. Three
+sites were also funded to provide immersion training to task
+forces that did not update the HTRS regularly. NEU and
+UI also conduct random data quality audits and provide
+quarterly data quality reports to BJS.
+
+Finally, random audits are conducted to compare paper files
+from closed human trafficking investigations with the data
+that are reported to the HTRS. BJS and its partners continue
+to implement enhancements to the HTRS to improve data
+reliability and consistency in reporting.
+
+Despite these efforts, consistency and completeness in
+reporting vary across task forces (see text box on page 5).
+The statistics described in this report should be examined
+in light of this variability. Although all task forces
+received federal funding during the study period from BJA,
+the ability to collect and report data varied by task force.
+Some task forces indicated that they were unable to provide
+individuallevel information due to the sensitivity of the
+information, and others stated that they did not have access
+to many of the case outcome measures collected through HTRS.
+The volume of incidents reported varied between task forces
+(ranging from 1 to 483). Seven of the participating task
+forces reported fewer than 10 cases of suspected human
+trafficking between January 2008 and June 2010, while six
+task forces reported 100 or more cases during this same
+period.
+
+Task forces that were classified as having high data quality
+(18 of 42) regularly entered new cases into the system,
+provided individual-level information for at least one
+suspect or victim, and updated case information on a regular
+basis. Task forces classified as having low data quality did
+not meet any of these three criteria. High and low data
+quality task forces reported similar information with respect
+to human trafficking type, lead investigative agency level,
+and lead investigative agency type. High quality task forces
+were more likely to be located in criminal intelligence,
+organized crime, or human trafficking-dedicated units (56%)
+than low quality task forces (34%). Low quality task forces
+were typically in vice units (66%) compared to high quality
+task forces (44%). High data quality task forces also
+reported a greater percent of cases that involved multiple
+agencies, had at least one victim identified, had at least
+one suspect identified, and were confirmed to be human
+trafficking (table 10). Analyses that included any data on
+victims, suspects, or confirmed cases were restricted to
+information provided by selected task forces.
+
+As of June 30, 2010, the HTRS included information on more
+than 3,100 cases of suspected incidents of human trafficking.
+However, this report covers cases opened in January 2008 to
+minimize variations in reporting over time due to changes
+in data collection methodology. The HTRS project team
+collected retrospective case information on investigations
+opened prior to the launch of the system in 2008.
+
+Analyses of the retrospective data collected by the project
+team prior to 2008 found that this information was not
+consistently updated by the task forces once prospective
+data collection began. Therefore, the characteristics of
+these incidents (652) are fully described in the previous
+report, Characteristics of Suspected Human Trafficking
+Incidents, 2007-2008. There is an overlap of cases opened
+between January 2008 and September 2008 between the previous
+report and the current report, as many of these incidents
+were entered prospectively by the task forces, and were
+updated following the release of the previous report.
+
+During the first year (2008) of prospective voluntary data
+collection, task forces opened at least 250 suspected cases
+of human trafficking for investigation in each quarter. This
+volume of new cases continued well into 2009, yet dropped
+to less than 150 new cases per quarter in 2010 (figure 5).
+
+Modifications designed to help alleviate many of the data
+quality issues described in this report went into effect in
+October 2009. Participation in HTRS became a requirement
+of continued federal funding from BJA. Several HTRS
+fields were converted from "non-required" to "required"
+data elements. Additionally, a task force is unable to close
+a case unless individual-level information about victims
+and suspects is entered for those incidents with identified
+numbers of victims and suspects in investigation records.
+Open cases that have not been updated during the previous
+six months are now automatically flagged for task forces
+whenever they log into the system. Not only does this new
+feature facilitate the updating of open investigations for
+task forces, it also helps project staff track the number of
+open but inactive cases for each task force, which could
+affect the quality of data extracted from the HTRS.
+
+The requirement to update cases once they have been
+entered into the system may in part explain the decrease
+in new cases entered in quarters one and two of 2010. In
+addition, six of the 42 task forces had let their funding
+expire as of December 31, 2009. The project team continues to
+work with these task forces to update information on cases
+already entered into the HTRS, but no new cases were entered
+into the HTRS from these six task forces as of January 1,
+2010.
+
+------------------------------------------------------
+Office of Justice Programs * Innovation * Partnerships 
+* Safer Neighborhoods * http://www.ojp.gov
+-------------------------------------------------------
+
+-------------------------------------------------------
+The Bureau of Justice Statistics is the statistical agency 
+of the U.S. Department of Justice. James P. Lynch is 
+the director.
+
+This report was written by Duren Banks and Tracey 
+Kyckelhahn. Ron Malega verified the report.
+
+Vanessa Curto and Jill Thomas edited the report, 
+Tina Dorsey and Barbara Quinn produced the report, 
+and Jayne E. Robinson prepared the report for final printing,
+under the supervision of Doris J. James.
+
+April 2011, NCJ 233732
+
+This report in portable document format and in ASCII 
+and its related statistical data and tables are available
+at the website:
+http://bjs.gov/index.cfm?ty=pbdetail&iid=2372.
+-----------------------------------------------------------
+April 18,2010, JER, 3:49PM

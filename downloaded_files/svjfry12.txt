@@ -1,0 +1,2185 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-----------------------------------------------------------------
+This report is one in series. More recent editions may be 
+available. 
+To view a list of all reports in the series go to 
+http://www.bjs.gov/index.cfm?ty=pbse&sid=63
+
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.csv) and the full report including tables and graphics in .pdf 
+format are available on BJS website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4656
+----------------------------------------------------------------
+
+**********************************************************
+Sexual Victimization in Juvenile Facilities Reported 
+by Youth, 2012
+
+National Survey of Youth in Custody, 2012
+
+Allen J. Beck, Ph.D. BJS Statistician
+
+David Cantor, Ph.D., John Hartge,  and Tim Smith, Westat
+
+June 2013, NCJ 241708
+
+**********************************************************
+
+**********************************************************
+Bureau of Justice Statistics
+
+William J. Sabol, Ph.D. Acting Director
+
+BJS Website: www.bjs.gov 
+askbjs@usdoj.gov
+
+The Bureau of Justice Statistics is the statistical agency of the 
+U.S. Department of Justice. William J. Sabol is the acting 
+director.
+
+This report was written by Allen J. Beck, Ph.D., BJS Statistician, 
+David Cantor, Ph.D., Westat Vice-President, and John Hartge and 
+Tim Smith, Westat Senior Study Directors.
+
+Paul Guerino (former BJS Statistician), under the supervision of 
+Allen J. Beck, was the project manager for the second National 
+Survey of Youth in Custody. Westat staff, under a cooperative 
+agreement and in collaboration with BJS, designed the survey, 
+developed the questionnaires, coordinated logistical arrangements 
+related to interviewing, collected and processed the data, and 
+assisted in table development. The project team included David 
+Cantor and Andrea Sedlak, Co?Principal Investigators; John Hartge 
+and Tim Smith, Co-Project Directors; Greg Norman, Sampling 
+Statistician; Alfred Bishop, Computer Systems; Susan Cross, 
+Director of Enrollment/Consent Operations; Sherry Sanborne, Field 
+Director; and an extensive project team of researchers, analysts, 
+and programmers. Andrea Burch, BJS Statistician, and Leanne 
+Heaton, Westat Associate Field Director, verified the report.
+
+Morgan Young and Jill Thomas edited the report, and Barbara Quinn 
+designed and produced the report under the supervision of Doris J. 
+James.
+
+June 2013, NCJ 241708
+
+***********************************************************
+***********
+Contents
+***********
+
+Highlights	                                                     4
+
+National Survey of Youth in Custody-2	                             6
+
+Prevalence of sexual victimization	                             9
+
+Facility-level rates	                                            12
+
+State-level rates	                                            18
+
+Demographic and other youth characteristics	                    20
+
+Circumstances surrounding the incident	                            21
+
+Methodology	                                                    26
+
+Appendix 1. Survey items measuring sexual activity within the 
+facility during the past 12 months or since entering the facility, 
+if less than 12 months	                                            32
+
+Appendix 2. Survey items measuring pressure 
+or nature of coercion	                                            34
+
+Appendix 3. Items checked for extreme     
+and inconsistent response patterns	                            35
+
+****************
+List of tables
+****************
+
+Table 1. Youth reporting sexual victimization, by type of 
+incident, National Survey of Youth in Custody, 2012                  9
+
+Table 2. Youth reporting sexual victimization in state juvenile 
+facilities, by type of incident and survey year, National Survey 
+of Youth in Custody, 2008–09 and 2012                               10
+
+Table 3. Percent of youth reporting sexual victimization, by youth 
+opinions about facility and staff, facility size, and exposure 
+time, National Survey of Youth in Custody, 2008–09 and 2012         11
+
+Table 4. Juvenile facilities with the highest rates of sexual 
+victimization, National Survey of Youth in Custody, 2012   	    12
+
+Table 5. Juvenile facilities with the lowest rates of sexual 
+victimization, National Survey of Youth in Custody, 2012            14
+
+Table 6. Juvenile facilities with the highest rates of sexual 
+victimization, by type of contact, National Survey of 
+Youth in Custody, 2012	                                            15
+
+Table 7. Juvenile facilities with the highest rates of sexual 
+victimization, by type of incident, National Survey of 
+Youth in Custody, 2012	                                            16
+
+Table 8. Juvenile facilities with the highest rates of staff 
+sexual victimization, by use of force, National Survey of 
+Youth in Custody, 2012	                                            16
+
+Table 9. Prevalence of sexual victimization, by type of incident 
+and selected facility characteristics, National Survey of 
+Youth in Custody, 2012	                                            17
+
+Table 10. Percent of youth reporting sexual victimization, 
+by state, National Survey of Youth in Custody, 2012	            19
+
+Table 11. Prevalence of sexual victimization, by type of incident 
+and selected youth victim characteristics, National Survey of 
+Youth in Custody, 2012	                                            20
+
+Table 12. Experiences of youth-on-youth victims of sexual 
+victimization, National Survey of Youth in Custody, 2012            21
+
+Table 13. Circumstances surrounding youth-on-youth sexual 
+victimization, National Survey of Youth in Custody, 2012	    22
+
+Table 14. Victims of staff sexual misconduct, by use 
+of force and sex of youth and staff, National Survey of 
+Youth in Custody, 2012	                                            23
+
+Table 15. Circumstances surrounding incidents of staff sexual 
+misconduct, National Survey of Youth in Custody, 2012   	    24
+
+Table 16. Victims of staff sexual misconduct, by relationship 
+characteristic, National Survey of Youth in Custody, 2012	    25
+
+Table 17. Estimated rates of sexual victimization and lower bounds 
+of the 95%-confidence intervals among high-rate facilities, by  
+exclusion criteria, National Survey of Youth in Custody, 2012       31
+
+**************************
+List of appendix tables
+**************************
+
+Appendix table 1. Characteristics of juvenile facilities 
+participating in the National Survey of Youth in Custody, 2012
+	                                                            36
+Appendix table 2. Percent of youth reporting sexual victimization, 
+by facility, National Survey of Youth in Custody, 2012              44
+
+Appendix table 3. Percent of youth reporting sexual victimization 
+by another youth, by type of incident and facility, 
+National Survey of Youth in Custody, 2012	                    48
+
+Appendix table 4. Percent of youth reporting staff sexual 
+misconduct, by type of incident and facility, 
+National Survey of Youth in Custody, 2012           	            53
+
+Appendix table 5. Percent of youth reporting staff sexual 
+misconduct excluding touching, by use of force and facility, 
+National Survey of Youth in Custody, 2012	                    58
+
+Appendix table 6. Characteristics of juvenile facilities used 
+to provide state-level estimates, National Survey of Youth in 
+Custody, 2012	                                                    63
+
+Appendix table 7. Percent of youth reporting sexual victimization, 
+by type of incident and state, National Survey 
+of Youth in Custody, 2012	                                    64
+
+******************
+List of figures
+******************
+
+Figure 1. Confidence intervals at the 95%-level for juvenile 
+facilities with the highest rates of sexual victimization, 
+National Survey of Youth in Custody, 2012	                    13
+
+Figure 2. Confidence intervals at the 95%-level for juvenile 
+facilities with high rates of sexual victimization, by state, 
+National Survey of Youth in Custody, 2012                           18
+
+********************************************************
+
+***********
+Highlights
+***********
+
+Prevalence of sexual victimization
+-----------------------------------
+
+* An estimated 9.5% of adjudicated youth in state juvenile 
+facilities and state contract facilities (representing 1,720 youth 
+nationwide) reported experiencing one or more incidents of sexual 
+victimization by another youth or staff in the past 12 months or 
+since admission, if less than 12 months.
+
+* About 2.5% of youth (450 nationwide) reported an incident 
+involving another youth, and 7.7% (1,390) reported an incident 
+involving facility staff.
+
+* An estimated 3.5% of youth reported having sex or other sexual 
+contact with facility staff as a result of force or other forms of 
+coercion, while 4.7% of youth reported sexual contact with staff 
+without any force, threat, or explicit form of coercion.
+
+* Among state juvenile facilities, the rate of sexual 
+victimization declined from 12.6% in 2008-09 (when the first 
+survey was conducted) to 9.9% in 2012. The decline in state 
+facilities was linked to staff sexual misconduct with force 
+(declining from 4.5% of youth in 2008-09 to 3.6% in 2012) and 
+staff sexual misconduct without force (declining from 6.7% to 
+5.1%).
+
+Facility rankings
+-------------------
+
+* Thirteen facilities were identified as high-rate based on the 
+prevalence of sexual victimization by youth or staff. Rates in 
+each of these facilities had a 95%-confidence interval with a 
+lower bound that was at least 35% higher than the average rate of 
+sexual victimization among facilities nationwide.
+
+* Two of the high-rate facilities--Paulding Regional Detention 
+Center (Georgia) and Circleville Juvenile Correctional Facility 
+(Ohio)--had sexual victimization rates of 30% or greater.
+
+* Twenty-six facilities had no reported incidents of sexual 
+victimization, and 14 were identified as low-rate after taking 
+into account potential statistical variation. The upper bound of 
+the 95%-confidence interval in these 14 facilities was less than 
+half the average rate among all facilities listed in the survey.
+
+* Youth held in state-owned or -operated facilities reported 
+higher rates of staff sexual misconduct (8.2%) than those held in 
+locally or privately operated facilities (4.5%).
+
+State-level rates
+------------------
+
+* For the first time, state-level estimates were added to the 
+survey to provide feedback to state administrators, especially 
+those who operate facilities too small to provide facility-level 
+estimates.
+
+* Three states (Delaware, Massachusetts, and New York) and the 
+District of Columbia had no reported incidents of sexual 
+victimization.
+
+* Four states (Georgia, Illinois, Ohio, and South Carolina) had 
+high rates, based on the lower bound of the 95%-confidence 
+interval of at least 35% higher than the national average. Each 
+of these states had an overall sexual victimization rate 
+exceeding 15%, which was primarily due to high rates of staff 
+sexual misconduct.
+
+Demographic and other youth characteristics
+--------------------------------------------
+
+* Rates of reported sexual victimization varied among youth:
+8.2% of males and 2.8% of females reported sexual activity 
+with staff.
+
+* 5.4% of females and 2.2% of males reported forced sexual 
+activity with another youth at a facility.
+
+* White youth reported sexual victimization by another youth 
+(4.0%) more often than black youth (1.4%) or Hispanic youth 
+(2.1%).
+
+* Black youth reported a higher rate of sexual victimization 
+by  facility staff (9.6%) than white youth (6.4%) or Hispanic 
+youth (6.4%).
+
+* Youth who identified their sexual orientation as gay, lesbian, 
+bisexual, or other reported a substantially higher rate of youth-
+on-youth victimization (10.3%) than heterosexual youth (1.5%).
+
+Circumstances surrounding the incident
+---------------------------------------
+
+* About 67.7% of youth victimized by another youth reported 
+experiencing physical force or threat of force, 25.2% were offered 
+favors or protection, and 18.1% were given drugs or alcohol to 
+engage in sexual contact.
+
+* Most youth-on-youth victims reported more than one incident 
+(69.6%). An estimated 37.2% reported more than one perpetrator.
+
+* Most youth victimized by another youth reported no physical 
+injury (82.1%).
+
+* Among the estimated 1,390 youth who reported victimization by 
+staff, 89.1% were males reporting sexual activity with female 
+staff and 3.0% were males reporting sexual activity with both male 
+and female staff. In comparison, males comprised 91% of 
+adjudicated youth in the survey and female staff accounted for 44% 
+of staff in the sampled facilities.
+
+* Most victims of staff sexual misconduct reported more than one 
+incident (85.9%). Among these youth, nearly 1 in 5 (20.4%) 
+reported 11 or more incidents.
+
+* About 1 in 5 (20.3%) victims of staff sexual misconduct reported 
+experiencing physical force or threat of force, 12.3% were offered 
+protection, and 21.5% were given drugs or alcohol to engage in 
+sexual contact.
+
+* When youth were asked who initiated sexual contact, 36.4% 
+reported that the facility staff always made the first move, 17.4% 
+reported that they always made the first move, and 46.3% said that 
+sometimes the facility staff made the first move and sometimes 
+they did.
+
+********************************************************
+Sexual Victimization in Juvenile Facilities Reported 
+by Youth, 2012
+********************************************************
+
+----------------------------------------
+National Survey of Youth in Custody-2
+----------------------------------------
+
+Between February 2012 and September 2012, the Bureau of Justice 
+Statistics completed the second National Survey of Youth in 
+Custody (NSYC-2) in 273 state-owned or -operated juvenile 
+facilities and 53 locally or privately operated facilities that 
+held adjudicated youth under state contract. The survey was 
+conducted by Westat (Rockville, MD), under a cooperative agreement 
+with BJS. It was administered to 8,707 youth sampled from at least 
+one facility in every state and the District of Columbia.
+
+The NSYC-2 is part of the National Prison Rape Statistics Program, 
+which collects reported sexual violence in administrative records 
+and allegations of sexual victimization directly from victims 
+through surveys of inmates in prisons and jails and surveys of 
+youth held in juvenile correctional facilities. BJS has collected 
+administrative records annually since 2004. Victim self-reports 
+have been periodically collected since 2007 (adult facilities 
+only), followed by surveys in 2008-09 (adult and juvenile 
+facilities) and 2011-12 (adult and juvenile facilities).
+
+The universe for the NSYC-2 was all adjudicated youth residing in 
+facilities owned or operated by a state juvenile correctional 
+authority and all state-placed adjudicated youth held under state 
+contract in locally or privately operated juvenile facilities. The 
+universe was restricted to facilities that housed youth for at 
+least 90 days, contained more than 25% adjudicated youth, and 
+housed at least 10 adjudicated youth.
+
+-------------------------------------------
+The Prison Rape Elimination Act of 2003 
+(P.L. 108-79; PREA) requires the Bureau 
+of Justice Statistics (BJS) to carry out 
+a comprehensive statistical review and 
+analysis of the incidents and effects of 
+prison rape for each calendar year. This 
+report fulfills the requirement under 
+Sec.4(c)(2)(B)(ii) of the act to provide 
+a list of juvenile correctional facilities 
+according to the prevalence of sexual 
+victimization.
+--------------------------------------------
+
+The NSYC-2 sampling frame included contract facilities in states 
+where these facilities held at least 20% of all state-adjudicated 
+youth or where fewer than 80 completed interviews were expected 
+from youth held in state facilities. Since locally and privately 
+operated facilities were more difficult to enroll and less likely 
+to agree to participate in surveys related to the Prison Rape 
+Elimination Act (PREA), the NSYC-2 excluded contract facilities in 
+states in which they were not needed for state-level estimation. 
+The NSYC-2 collected data from contract facilities in 15 states.
+
+********************************************************
+The NSYC-2 is a multistage probability sample providing 
+representative data on state-adjudicated youth
+*******************************************************
+
+Facilities were selected using a multistage stratified sample 
+design based on information obtained from the Census of Juveniles 
+in Residential Placement (CJRP), which was conducted in 2010 by 
+the Office of Juvenile Justice and Delinquency Prevention. At the 
+first stage, 446 facilities were selected from the 503 eligible 
+facilities identified in the CJRP. All facilities with 20 or more 
+state-placed adjudicated youth were included in the survey. 
+Smaller facilities (housing between 10 and 19 adjudicated youth) 
+were sampled with probabilities proportionate to their size. (See 
+Methodology for sample description.)
+
+Of the sampled facilities, 113 were later determined to be out-of-
+scope because they had closed, no longer held state-adjudicated 
+youth, had merged with other facilities, or were no longer 
+eligible for other reasons. Three additional sampled facilities 
+were excluded due to scheduling problems and burden, and four 
+facilities lacked consent for a sufficient number of youth to 
+permit data collection. As a result, the NSYC-2 was conducted in 
+326 facilities, representing 18,138 state-adjudicated youth held 
+nationwide in state-operated and locally or privately operated 
+juvenile facilities in 50 states and the District of Columbia.
+
+
+The NSYC-2 survey consisted of an audio computer-assisted self-
+interview (ACASI) in which youth used a touchscreen to interact 
+with a computerized questionnaire and followed audio instructions 
+delivered via headphones. The NSYC-2 used self-administered 
+procedures to ensure the confidentiality of reporting youth and to 
+encourage fuller reporting of victimization. The survey used audio 
+technology to provide assistance to youth with varying levels of 
+literacy and language skills. Approximately 99% of the interviews 
+were conducted in English, and 1% in Spanish.
+
+Administrators in each state, county, and private facility 
+determined the type of consent required for youth to be eligible 
+for participation. Youth who had reached the age of majority were 
+able to self-consent, and contact with a parent or guardian was 
+not required. Administrators provided in loco parentis (ILP) 
+consent in 127 facilities for youth who were below the age of 
+majority. In loco parentis is when administrators provide consent 
+in the place of the parent to contact youth. Administrators 
+required parental or guardian consent (PGC) from youth in 160 
+facilities and collected a mixture of ILP and PGC in 39 
+facilities, depending on the age of the sampled youth. Youth in 
+all sampled facilities also had to assent to participate in the 
+interview. (See Methodology for additional details on the consent 
+process.)
+
+In each sampled ILP facility, administrators were asked 5 weeks 
+prior to data collection to provide a roster of all adjudicated 
+youth assigned a bed. In other facilities (PGC or a mixture of 
+consent requirements), administrators were asked to provide a 
+roster 9 weeks prior to data collection. The initial rosters were 
+updated to reflect youth admitted or discharged between the eighth 
+and second week prior to data collection. Youth were randomly 
+sampled from the initial and updated rosters.
+
+Prior to the start of data collection, field staff assessed the 
+interviewing capacity at each facility based on the number of 
+available days, interviewing rooms, and interviewers. In 
+facilities in which the NSYC-2 team had the capacity to complete 
+all of the interviews, all youth for whom consent had been given, 
+as well as youth who were able to self-consent, were selected. In 
+other facilities, youth were randomly subsampled so the number of 
+youth did not exceed interviewing capacity.
+
+The result of this process yielded a sample of 22,944 state-
+adjudicated youth held nationwide in state-owned or -operated 
+juvenile facilities or placed in locally or privately operated 
+juvenile facilities. A total of 9,703 youth participated in the 
+survey. Of these, 8,707 youth completed the survey on sexual 
+victimization, and 996 completed the survey on drug and alcohol 
+use and treatment.
+
+The NSYC-2 collected allegations of sexual victimization. Since 
+participation in the survey was anonymous and reports were 
+confidential, the NSYC-2 did not permit any follow-up 
+investigation or substantiation through review of official 
+records. Some allegations in the NSYC-2 may be untrue. At the same 
+time, some youth may remain silent about any sexual victimization 
+experienced in the facility.
+
+To address concerns of false reporting by youth, reports of 
+victimization were checked for consistency across survey items. 
+Interviews that contained response patterns considered to be 
+extreme or highly inconsistent were excluded from victimization 
+rate calculations. (See text box below for details.) After 
+deleting interviews due to extreme or inconsistent responses and 
+interviews that were incomplete, the NSYC-2 sexual victimization 
+survey and survey of alcohol and drug use and treatment were 
+completed by 59% of all eligible sampled youth. (See Methodology 
+for further details on sampling and survey participation.)
+*****************************************************
+
+***********************
+Terms and definitions
+***********************
+
+Sexual victimization--any forced sexual activity with another 
+youth (nonconsensual sexual acts and other sexual contacts) and 
+all sexual activity with facility staff.
+
+Nonconsensual sexual acts--any forced sexual acts with another 
+youth and all sexual acts with facility staff involving contact 
+with the penis and the vagina or anus; contact between the mouth 
+and the penis, vagina, or anus; penetration of the anal or vaginal 
+opening of another person by a hand, finger, or other object; and 
+rubbing of another person’s penis or vagina by a hand.
+
+Other sexual contacts only--includes kissing on the lips or 
+another part of the body, looking at private body parts, being 
+shown something sexual, such as pictures or a movie, and engaging 
+in some other sexual act that did not involve touching.
+
+Staff sexual misconduct--all sexual activity with facility staff, 
+including contact with the penis and the vagina or anus; contact 
+between the mouth and the penis, vagina, or anus; penetration of 
+the anal or vaginal opening of another person by a hand, finger, 
+or other object; rubbing of another person’s penis or vagina by a 
+hand; kissing on the lips or another part of the body; looking at 
+private body parts; being shown something sexual, such as pictures 
+or a movie; and engaging in some other sexual act that did not 
+involve touching.
+
+Staff sexual misconduct excluding touching--sexual activity with 
+facility staff involving contact with the penis and the vagina or 
+anus; contact between the mouth and the penis, vagina, or anus; 
+penetration of the anal or vaginal opening of another person by a 
+hand, finger, or other object; and rubbing of another person’s 
+penis or vagina by a hand.
+
+Forced sexual activity--includes sexual activity between youth and 
+facility staff as a result of physical force or threat of physical 
+force; force or pressure of some other type (e.g., threatening 
+with harm, threatening to get the youth in trouble, pressuring the 
+youth, or forcing or pressuring in some other way); and in return 
+for money, favors, protection, or other special treatment.
+*****************************************************
+
+************************************
+Interviews checked for extreme and 
+inconsistent response patterns
+**********************************
+ 
+As with any survey, the NSYC-2 is subject to measurement error. To 
+reduce this error, the survey incorporated several design 
+features, including the use of an audio-assisted questionnaire 
+delivered via headphones to address low levels of literacy; the 
+use of “hot words” highlighted in a different color, which youth 
+could access if they were uncertain about the definition; range 
+checks for selected questions to guard against unrealistic values; 
+and logic checks that asked youth to verify their responses. To 
+assist youth who were having difficulty with the interview, the 
+computer flagged those who spent a long period in particular 
+sections of the interview and prompted the youth to obtain 
+assistance from an interviewer. While these measures and others 
+helped reduce error, they did not prevent it from occurring.
+
+Once the interviews were completed, individual response patterns 
+were assessed to identify interviews having extreme or internally 
+inconsistent responses. Three response patterns were considered 
+extreme and indicative of an unreliable interview overall. These 
+patterns were--
+
+* The core survey was completed in less than 10 minutes. Based on 
+internal testing, it was determined to be extremely difficult for 
+a respondent to seriously complete the interview in less than 10 
+minutes.
+
+* The reported number of sexual contacts with staff or forced 
+sexual contacts with other youth exceeded 1.5 incidents per day 
+for every day since admission to the facility.
+
+* During the data collection visit, the facility received specific 
+reports from youth that they had entered false responses to the 
+survey.
+
+Out of 8,845 completed interviews, 67 had at least one of the 
+extreme response patterns. These interviews were excluded from the 
+calculations of sexual victimization.
+
+Thirty additional indicators were developed to assess whether a 
+youth showed signs that he or she did not fully understand the 
+survey items, did not consistently report the details of events, 
+or provided inconsistent responses. One indicator was providing 
+unrealistic dates or personal information, and another indicator 
+was an affirmative response to a debriefing item that asked about 
+difficulty understanding questions on sexual activity. Other 
+indicators compared responses in one section of the survey with 
+responses in other sections. (See appendix 3 for a full list of 
+the indicators.)
+
+The results of these 30 indicators were combined into a total 
+number for each youth. About 90.4% of youth did not record any 
+inconsistent responses, 7.0% reported one inconsistent response, 
+1.8% reported two, and 0.8% reported three or more. For estimating 
+sexual victimization rates, an additional 71 interviews were 
+excluded based on three or more indicators of inconsistent 
+responses.
+
+Deleting extreme or inconsistent responses from estimates lowers 
+the overall victimization rate since many of the indicators rely 
+on checking the consistency of reported sexual victimization. The 
+estimate for the overall sexual victimization rate would have been 
+10.4% without deleting any interviews. The rate dropped to 9.5% 
+after deleting 138 interviews that had at least one extreme 
+response or three or more inconsistent responses. If interviews 
+with two or more inconsistent responses were deleted, then the 
+rate would have dropped to approximately 7.9%. If interviews with 
+one or more had been deleted, the rate would have been 
+approximately 5.0%. The cutoff at three or more inconsistent 
+responses was selected in recognition that youth could 
+legitimately report some inconsistent information without 
+invalidating their entire interview.
+*****************************************************
+
+************************************
+Prevalence of sexual victimization
+************************************
+------------------------------------------------------
+About 10% of youth in state-owned or -operated 
+juvenile facilities and state contract facilities 
+reported one or more incidents of sexual victimization
+-------------------------------------------------------
+
+Among the 8,707 youth who participated in the 2012 survey, 833 
+reported experiencing one or more incidents of sexual 
+victimization. Since the NSYC-2 is a sample survey, weights were 
+applied for sampled facilities and youth within facilities to 
+produce national-level and facility-level estimates. The estimated 
+number of adjudicated youth who reported experiencing sexual 
+violence totaled 1,720 (or 9.5% of the 18,138 estimated 
+adjudicated youth held in state-owned or -operated or state 
+contract facilities covered by the survey) (table 1).
+
+About 2.5% of adjudicated youth (an estimated 450 nationwide) 
+reported an incident involving another youth, and 7.7% (1,390) 
+reported an incident involving facility staff. Some youth reported 
+sexual victimization by both another youth and facility staff 
+(0.7%) (not shown in table). Sexual acts or contacts between youth 
+with no report of force or coercion were excluded from all 
+measures of sexual victimization.
+
+The NSYC-2 screened for specific sexual activities in which youth 
+may have been involved during the past 12 months or since 
+admission to the facility, if less than 12 months. Youth were 
+asked to report which of these activities involved another youth 
+and which involved staff at the facility. Additionally, youth were 
+asked if any of these activities happened because they were 
+forced, threatened with force, pressured in another way, or 
+offered money, favors, special protection or other special 
+treatment. (See appendices 1 and 2 for specific survey questions.) 
+Reports of unwilling youth-on-youth sexual activity were 
+classified as either nonconsensual acts or other sexual contacts 
+only.
+
+Approximately 1.7% of youth (300 nationwide) said they had 
+nonconsensual sex with another youth, including giving or 
+receiving sexual gratification, and oral, anal, or vaginal 
+penetration. An estimated 0.6% (110) of adjudicated youth said 
+they had experienced one or more other unwilling sexual contacts 
+only with other youth, such as looking at private body parts, 
+unwanted kissing on the lips or another part of the body, and 
+other unwanted touching of specific body parts in a sexual way.
+
+Reports of staff sexual misconduct with youth were classified 
+separately depending on whether the misconduct involved any force, 
+threat, pressure, or offers of special favors or protection. An 
+estimated 3.5% of youth (630 nationwide) reported that they had 
+sex or other sexual contact with facility staff as a result of 
+force or other forms of coercion, and an estimated 4.7% (850) of 
+youth said they had sexual contact with facility staff without any 
+force, threat, or other explicit form of coercion.
+
+******************************************************
+Rates of sexual victimization in state juvenile 
+facilities decreased from 12.6% in 2008-09 to 9.9% 
+in 2012
+******************************************************
+
+Rates of sexual victimization reported by youth in state-owned or 
+-operated juvenile facilities declined from an estimated 12.6% in 
+2008-09 to 9.9% in 2012 (table 2). These estimates were based on 
+interviews of 8,156 adjudicated youth in 169 sampled facilities in 
+the NSYC-1 and 7,356 youth in 272 sampled facilities in the NSYC-
+2. To compare rates across the two surveys, youth held in locally 
+or privately operated facilities were excluded in both surveys due 
+to differences in sampling and coverage. The criteria used to 
+define inconsistent, extreme, and incomplete responses were also 
+made comparable between the NSYC-1 and NSYC-2.
+
+The overall decrease in reported sexual victimization was due to 
+statistically significant declines in staff sexual misconduct with 
+force (declining from 4.5% in the NSYC-1 to 3.6% in the NSYC-2) 
+and staff sexual misconduct without force (from 6.7% to 5.1%). 
+Although youth reported slightly lower rates of youth-on-youth 
+sexual victimization in 2012 than in 2008-09 (decreasing from 2.8% 
+to 2.5%), the decline was not statistically significant.
+
+******************************************************
+Declines in sexual victimization rates were linked to 
+fewer youth held in large facilities, a drop in average 
+exposure time, and rising positive views of facility 
+staff and fairness
+******************************************************
+
+While many factors may account for the decline in sexual 
+victimization rates in state juvenile facilities, the NSYC-2 
+identified four important trends linked to sexual victimization 
+rates.
+
+* The proportion of youth held in large facilities dropped sharply 
+from 2008-09 to 2012:
+
+* An estimated 65.6% of youth in the NSYC-1 were held in large 
+facilities (with 101 or more adjudicated youth), compared to 53.2% 
+of youth in the NSYC-2 (table 3).
+
+* The proportion of youth held in medium facilities (with 51 to 
+100 youth) increased from 17.0% in 2008-09 to 24.0% in 2012.
+In each survey, sexual victimization rates were two to three times 
+higher in large facilities than facilities with 10 to 25 youth.
+
+Among sampled youth, the average time youth had been held in 
+facilities declined:
+
+* As measured by the average exposure time (i.e., 12 months or the 
+elapsed time between the admission date and the survey date for 
+youth admitted to the facility in the last 12 months), the time 
+that youth were at risk of sexual victimization decreased. The 
+percentage of youth who were in the facility for less than 5 
+months increased from 20.9% in the NSYC-1 to 26.9% in NSYC-2.
+
+* When combined with a decline in the rates of sexual 
+victimization reported by youth held for 5 to 6 months (from 13.4% 
+to 10.0%) and youth held for 7 to 12 months (from 14.4% to 11.6%), 
+this decline in exposure time was linked to the decrease in the 
+overall rate of sexual victimization.
+
+Youth in the NSYC-2 reported more positive opinions about the 
+facility and fairness in how the facilities were run than youth in 
+the NSYC-1. (See Methodology for a list of survey items.) Based on 
+eight separate items, youth who had no positive opinions of the 
+facility also reported the highest rates of sexual victimization 
+(a third of sampled youth in each survey). Youth with four or more 
+positive opinions about the facility had the lowest sexual 
+victimization rates (5.5% in the NSYC-1 and 3.9% in NSYC-2).
+
+Youth in the NSYC-2 also expressed more positive opinions of the 
+facility staff than youth in the NSYC-1. When asked if staff were 
+“good role models,” “friendly,” “genuinely car[ing],” “helpful,” 
+“fun to be with,” “disrespectful,” “hard to get along with,” or 
+“mean,” an estimated 60.0% responded with positive views in the 
+NSYC-2 (up from 54.8% in NSYC-1). Across both surveys, youth with 
+four or more positive opinions had the lowest sexual victimization 
+rates (7.4% in the NSYC-1 and 4.6% in NSYC-2), while youth with no 
+positive opinions of the facility staff had the highest sexual 
+victimization rates (22.9% in the NSYC-1 and 23.5% in NSYC-2).
+
+While changing youth opinions may reflect improved conditions in 
+the facilities between the NSYC-1 and NSYC-2 surveys, they may 
+also be the result of lower levels of sexual victimization by 
+staff. Although the exact cause or effect is unknown, the improved 
+perceptions of the facility and facility staff are associated with 
+the decline in the percentage of staff sexual misconduct which 
+underlie the overall decline in sexual victimization.
+
+**********************
+Facility-level rates
+**********************
+
+---------------------------------------
+After taking into account statistical 
+variation, thirteen facilities were 
+identified as high-rate
+---------------------------------------
+
+Of the 157 juvenile facilities eligible for comparison in the 
+NSYC-2, 13 had an overall victimization rate that was identified 
+as high rate (table 4). Though other measures may be considered 
+when comparing facilities, the overall victimization rate is a 
+measure of prevalence that includes all reports of unwilling 
+sexual activity between youth and all reports of staff sexual 
+misconduct, regardless of the level of coercion and type of sexual 
+activity. ***Footnote 1 Facility-level rates were based on the 
+reports of adjudicated youth who were in the facility at least 2 
+weeks prior to the time of the interview. Excludes the experiences 
+of non-adjudicated youth and youth held in the facility in the 
+past 12 months who were not in the facility when the interviews 
+were conducted.***
+
+An exact ranking for all facilities as required under the PREA 
+cannot be statistically produced. As with any survey, the NSYC-2 
+estimates are subject to sampling error because they are based on 
+a sample of youth rather than a complete enumeration. In some 
+facilities, youth were subsampled; in other facilities, all youth 
+were selected. In 155 of the listed facilities (see appendix table 
+1), some of the eligible youth did not participate in the survey 
+due to the absence of consent by a parent or guardian, self-
+consent, or assent by the selected youth.
+
+To address nonresponse bias, adjustments were applied to the base 
+weights. To address sampling variability, a 95%-confidence 
+interval was provided for each survey estimate. Typically, 
+multiplying the standard error by 1.96 and then adding or 
+subtracting the result from the estimate produces the confidence 
+interval. This interval expresses the range of values that could 
+result among 95% of the different samples.
+
+For small samples and estimates close to 0% or 100%, as is the 
+case with the NSYC-2, using the standard error to construct the 
+95%-confidence interval may not be reliable. An alternative 
+developed by E.B. Wilson has performed better than the traditional 
+method when constructing a confidence interval.***Footnote 2,3 
+2Brown, L.D., Cai, T., & DasGupta, A. (2001). “Interval Estimation 
+for a Binomial Proportion.” Statistical Science, 16(2), 101-117.
+3Wilson, E.B. (1927). “Probable Inference, the Law of Succession, 
+and Statistical Inference.” Journal of the American Statistical 
+Association, 22(158), pp. 209-212.*** When applied to large 
+samples, the traditional and the Wilson confidence intervals are 
+virtually identical.
+
+Consequently, the tables in this report containing facility-level 
+and state-level estimates provide confidence intervals based on 
+Wilson’s methodology (tables 4 through 8, table 10, table 17, 
+appendix tables 2 through 5, and appendix table 7). Tables 
+containing national estimates are based on traditional standard 
+error calculations (tables 1 through 3, table 9, and tables 11 
+through 16). (See Methodology for details.)
+
+The 13 facilities were identified as having high rates because the 
+lower bound of the 95%-confidence interval was at least 35% higher 
+than the average rate among all facilities (9.5%) (figure 
+1).***Footnote 4 The criterion of at least 35% higher than the 
+average rate was established to identify a small group of 
+facilities that would be considered as having high rates. Other 
+criteria reflecting variation in the estimates would have 
+identified a smaller or larger number of facilities.*** Although 
+the NSYC-2 cannot uniquely identify the facility with the highest 
+victimization rate, two facilities had rates of 30% or greater. 
+Paulding Regional Detention Center (Georgia) recorded an overall 
+rate of 32.1%, and Circleville Juvenile Correctional Facility 
+(Ohio) recorded a rate of 30.3%. Birchwood (South Carolina) had a 
+victimization rate of 29.2%.
+
+While each of the 13 facilities had high rates, some facilities 
+not classified as having high rates were not statistically 
+different from the 13 high-rate facilities due to sampling error.
+
+*******************************************
+26 facilities had no reported sexual 
+victimizations, and 14 of these facilities 
+were identified as low rate
+*******************************************
+
+The NSYC-2 is unable to provide an exact identification of the 
+facilities with the lowest rates of sexual victimization. Twenty-
+six of the sampled juvenile facilities (17%) had no reported 
+incidents of sexual victimization (see appendix table 2). Rates in 
+each of the 26 facilities are subject to sampling error, depending 
+on which youth were selected and the number of surveys completed 
+by youth within the facility. Although in each facility the lower 
+bound of the confidence interval was 0%, the upper bound varied 
+depending on the number of completed interviews.
+
+Among the 157 surveyed facilities, 14 were identified as low-rate 
+facilities for sexual victimization based on the percentages of 
+youth who reported incidents and the upper bounds of the 95%-
+confidence intervals that were less than half the average rate 
+among all facilities (table 5). All of the 14 low-rate facilities 
+had no reported incidents of sexual victimization with the upper 
+bound confidence interval between 1.5% and 4.7%. Ft. Bellefontaine 
+Campus (Missouri), Owensboro Treatment Center (Kentucky), and 
+Grand Mesa Youth Services Center (Colorado) had no reported 
+incidents and had confidence intervals with upper bounds below 2%.
+
+*******************************************
+26 facilities had no reported sexual 
+victimizations, and 14 of these facilities 
+were identified as low rate
+*******************************************
+
+The NSYC-2 is unable to provide an exact identification of the 
+facilities with the lowest rates of sexual victimization. Twenty-
+six of the sampled juvenile facilities (17%) had no reported 
+incidents of sexual victimization (see appendix table 2). Rates in 
+each of the 26 facilities are subject to sampling error, depending 
+on which youth were selected and the number of surveys completed 
+by youth within the facility. Although in each facility the lower 
+bound of the confidence interval was 0%, the upper bound varied 
+depending on the number of completed interviews.
+
+Among the 157 surveyed facilities, 14 were identified as low-rate 
+facilities for sexual victimization based on the percentages of 
+youth who reported incidents and the upper bounds of the 95%-
+confidence intervals that were less than half the average rate 
+among all facilities (table 5). All of the 14 low-rate facilities 
+had no reported incidents of sexual victimization with the upper 
+bound confidence interval between 1.5% and 4.7%. Ft. Bellefontaine 
+Campus (Missouri), Owensboro Treatment Center (Kentucky), and 
+Grand Mesa Youth Services Center (Colorado) had no reported 
+incidents and had confidence intervals with upper bounds below 2%.
+
+*******************************************
+Youth held in high-rate facilities reported 
+high rates of nonconsensual sexual activity
+*******************************************
+
+Among the 13 high-rate facilities, most reports of sexual 
+victimization involved nonconsensual sexual acts with another 
+youth and sexual acts with facility staff excluding touching 
+(table 6). When rates of sexual victimization were limited to the 
+most serious nonconsensual acts (excluding touching only, kissing 
+on the lips or another body part, and engaging in other less 
+serious acts), the percentages of youth reporting one or more 
+incidents remained high (between 16.2% and 28.8%).
+
+Circleville Juvenile Correctional Facility (Ohio) had a 28.8% rate 
+of sexual victimization excluding touching and a confidence 
+interval with a lower bound (22.9%) that was more than three times 
+the national average (7.1%). Six other facilities had rates of 
+sexual victimization excluding touching that were more than double 
+the national average and a confidence interval with a lower bound 
+that was more than twice the national average.
+
+Of the 13 high-rate facilities, one facility (Arkansas Juvenile 
+Assessment and Treatment Center) had a youth-on-youth sexual 
+victimization rate that exceeded 10% (table 7). In two facilities, 
+none of the interviewed youth reported any sexual victimization by 
+other youth in the facility. However, one of these facilities, 
+Paulding Regional Youth Detention Center (Georgia), had the 
+highest rate of staff-on-youth sexual victimization (31.0%).
+
+High percentages of youth reported staff sexual misconduct in 
+which no force, threat, or other forms of coercion were involved. 
+Seven of the 13 high-rate facilities had rates of staff sexual 
+misconduct (with no report of force) that were more than twice the 
+national average (table 8). Two facilities--Paulding Regional 
+Youth Detention Center and Circleville Juvenile Correctional 
+Center--had a confidence interval around the rate of staff sexual 
+misconduct (with no force) with a lower bound that exceeded 10%.
+
+*******************************************
+Rates of sexual victimization were strongly 
+associated with basic facility characteristics
+*******************************************
+
+An initial examination of available facility characteristics 
+revealed significant differences in sexual victimization rates: 
+***Footnote 5 For the first time, the NSYC-2 included a facility 
+questionnaire to obtain in-depth information about each sampled 
+facility. Items included data on facility staff by sex, 
+occupation, and length of service; staff turnover; personnel 
+screening; facility capacity, occupancy, and crowding; use and 
+type of video surveillance by area covered; type of facility and 
+primary function; types of youth held and special problems; and 
+types of treatment programs. These data and other facility 
+characteristics will be examined in a second report from the NSYC-
+2***
+
+* State adjudicated youth held in state-owned or -operated 
+facilities reported higher rates of staff sexual misconduct (8.2%) 
+than those held in locally or privately operated facilities (4.5%) 
+(table 9).
+
+* Female-only facilities had the highest rates of youth-on-youth 
+sexual victimization (5.7%), while male-only facilities had the 
+highest rates of staff sexual misconduct (8.2%).
+
+* Small facilities (those holding 25 or fewer adjudicated youth) 
+had the lowest rates of staff sexual misconduct (1.3% among 
+facilities with 1 to 9 youth, and 2.9% among facilities with 10 to 
+25 youth). Larger facilities had higher rates of staff sexual 
+misconduct (5.4% for those with 26 to 50 youth, 6.8% with 51 to 
+100 youth, and 10.2% with more than 100 youth).
+
+* Facilities in which youth were held for an average of less than 
+5 months had the lowest rates of sexual victimization (6.8%), 
+compared to facilities in which youth were held for longer periods 
+(10.0% in facilities with an average exposure time of 5 to 6 
+months, and 11.3% in facilities with an average of 7 to 12 
+months).
+
+*******************
+State-level rates
+*******************
+
+In addition to facility-level and national-level estimates, the 
+NSYC-2 was designed to provide state-level estimates. State 
+estimates were added to provide more comprehensive feedback to 
+administrators, especially to those who operate facilities that 
+were too small to provide reliable facility-level estimates. 
+State-level rates are particularly valuable in states comprised of 
+small facilities. At least half of facilities in the NSYC-2 (169 
+of 326 sampled facilities) were determined to be too small (with 
+fewer than 15 completed interviews) or fell below standards of 
+statistical precision needed for publishing facility-level survey 
+rates. These facilities held approximately 30% of adjudicated 
+youth covered in the NSYC-2. (See Methodology for discussion of 
+reporting criteria.)
+
+Using each facility’s measure of size, the state-level rates were 
+created by combining the weighted average of the facility-level 
+rates for published facilities with an estimate for the 
+unpublished facilities. Except for 11 states, all published and 
+unpublished facility rates were used (table 10). Including the 
+unpublished facility with the rates for the published facilities 
+would have made it possible to derive the rate for each 
+unpublished facility. Excluding the 11 facilities in these states 
+had a minimal impact on the state estimates. These facilities 
+represented 10% or less of adjudicated youth for all but 2 of the 
+11 states: Delaware and Nebraska. (See Methodology for discussion 
+of state-level estimation.)
+
+Three states (Delaware, Massachusetts, and New York) and the 
+District of Columbia had no reported incidents of sexual 
+victimization.*** Footnote 6  *** Although the samples of 
+participating youth were relatively small, the upper bound of the 
+95%-confidence interval in the District of Columbia and each of 
+the three states fell below the national average (9.5%) across all 
+states.
+
+*******************************************
+Four states were identified as high-rate 
+for sexual victimization
+*******************************************
+
+While the NSYC-2 should not be used to provide an exact ranking of 
+states, the same criteria that were used to classify facilities 
+may be used to classify states. Six states had rates of sexual 
+victimization that exceeded 15% (figure 2). Four of these states 
+(Georgia, Illinois, Ohio, and South Carolina) may be identified as 
+having high rates since the lower bound of the confidence interval 
+around each estimate was at least 35% higher than the average rate 
+among all facilities (9.5%).
+
+A high percentage of adjudicated youth reported staff sexual 
+misconduct in these four states (not shown; see appendix table 7). 
+An estimated 17.1% of adjudicated youth in Ohio, 17.0% in South 
+Carolina, 15.0% in Georgia, and 13.7% in Illinois reported one or 
+more incidents of staff sexual misconduct. The lower bound of the 
+confidence interval was 35% higher than the national average 
+(7.7%) for estimates in each of these states. None of these states 
+had rates of youth-on-youth sexual victimization that met the 
+criteria to be classified as high.
+
+*******************************************
+Demographic and other youth characteristics
+*******************************************
+
+---------------------------------------------
+Rates of sexual victimization were strongly 
+related to specific youth characteristics
+---------------------------------------------
+
+* Rates of sexual victimization varied among youth:
+
+* Males reported sexual activity with facility staff more often 
+than females. An estimated 8.2% of males, compared to 2.8% of 
+females, reported experiencing one or more incidents of sexual 
+activity with staff (table 11).
+
+* Females reported forced sexual activity with other youth more 
+often than males. About 5.4% of females and 2.2% of males reported 
+forced sexual activity with another youth at the facility.
+* Rates of staff sexual misconduct were higher among youth age 17 
+(8.0%) and those age 18 or older (8.7%) than youth age 15 or 
+younger (5.8%).
+
+* White youth (4.0%) reported sexual victimization by another 
+youth more often than black (1.4%) and Hispanic (2.1%) youth.
+
+* Black youth reported a higher rate of sexual victimization by 
+facility staff (9.6%) than white (6.4%) and Hispanic (6.4%) youth.
+
+* Youth with a non-heterosexual sexual orientation reported a 
+substantially higher rate of youth-on-youth victimization (10.3%) 
+than heterosexual youth (1.5%).
+
+* Rates of staff-on-youth sexual victimization increased with the 
+length of time a youth was held in the facility. An estimated 
+10.1% of youth who were in the facility for a year or longer 
+reported sexual activity with a staff member, compared to 5.9% of 
+youth who were in the facility less than 1 month, 6.3% of youth 
+who were in the facility between 1 and 5 months, and 8.7% of youth 
+who were held between 6 and 11 months.
+
+* Youth who experienced any prior sexual assault were more than 
+twice as likely to report experiencing one or more sexual assaults 
+in the current facility (17.4%) than those with no sexual assault 
+history (8.2%).
+
+* Among youth who were previously sexually assaulted at another 
+correctional facility, over half (52.3%) reported being sexually 
+victimized at the current facility within the last 12 months or 
+since admission, if less than 12 months. Among these youth, an 
+estimated 33.5% were sexually victimized by another youth at the 
+current facility, and 29.3% were victimized by staff.
+
+****************************************
+Circumstances surrounding the incident
+****************************************
+
+---------------------------------------
+Most youth-on-youth victims (69.6%) 
+reported more than one incident, and 
+37.2% reported more than one perpetrator
+---------------------------------------
+
+In the NSYC-2, victims were also asked to provide information 
+about the circumstances surrounding their victimization, including 
+the number of times it happened, characteristics of the 
+perpetrators, the type of physical force or pressure, when and 
+where the incidents occurred, and whether or not they reported 
+injury.
+
+Data provided by youth who reported sexual victimization by 
+another youth revealed that--
+
+* About 69.6% were victimized more than once, while 18.9% were 
+victimized more than 10 times (table 12).
+
+* An estimated 37.2% of youth-on-youth victims were victimized by 
+more than one perpetrator.
+
+* An estimated 65.1% of victims said that they were victimized by 
+a youth who was white, 57.2% said they were victimized by a youth 
+who was black. In comparison, 32.2% of all adjudicated youth held 
+in sampled facilities were white and 45.9% were black.
+
+* The majority of victims (52.4%) said they were victimized at 
+least once by a youth known to be in a gang.
+
+* About 67.7% of victims reported experiencing physical force or 
+threat of force, 25.2% were offered favors or protection, and 
+18.1% were given drugs or alcohol to engage in the sexual act or 
+other sexual contact (table 13).
+
+* Most youth victimized by another youth (82.1%) reported no 
+physical injury.
+
+------------------------------------
+Youth-on-youth sexual victimization 
+occurred in areas throughout the 
+facilities
+------------------------------------
+
+Among youth who reported unwanted sexual activity with another 
+youth, 44.4% said they were victimized at least once in their room 
+or sleeping area, and 31.0% said they were victimized at least 
+once in the room or sleeping area of another youth. Nearly a third 
+(32.7%) reported at least one incident taking place in a shower or 
+bathroom, 25.0% said they were victimized in a recreation area, 
+and 59.1% said at least one incident happened in some other common 
+area, such as a classroom, library, kitchen, office, closet, or 
+supply room.
+
+Youth-on-youth sexual victimization was more common in the evening 
+(between 6 p.m. and midnight) than at any other time. An estimated 
+60.9% of the youth who reported unwanted sexual activity with 
+another youth said at least one of the incidents occurred during 
+those hours.
+
+----------------------------------
+Most perpetrators of staff sexual 
+misconduct were female
+----------------------------------
+
+An estimated 92.4% of all youth who reported staff sexual 
+misconduct said they were victimized by female facility staff 
+(table 14).***Footnote 7 An estimated 91% of all adjudicated youth 
+held in the sampled facilities were male. Approximately 44% of all 
+staff and 34% of frontline staff in participating facilities were 
+female. *** Among the estimated 1,390 adjudicated youth who 
+reported victimization, 89.1% were males reporting sexual activity 
+with female staff only, and 3.0% were males reporting sexual 
+activity with both female and male staff.
+
+An estimated 630 youth reported physical force, threat of force, 
+and other forms of pressure and coercion by facility staff. Among 
+these victims, 20.5% reported a male staff member as the 
+perpetrator (15.0% involved male staff only and 5.5% involved both 
+male and female staff).
+
+Male staff members represented a smaller percentage of 
+perpetrators among youth reporting staff sexual misconduct that 
+did not involve any force. Among the 840 youth who experienced 
+staff sexual misconduct without force, 5.1% reported the 
+involvement of a male staff member (2.7% involved male staff only 
+and 2.4% involved both male and female staff).
+
+-------------------------------------------
+Most victims of staff sexual misconduct 
+(85.9%) reported more than one incident, 
+while 20.4% reported being victimized more 
+than 10 times
+-------------------------------------------
+
+Data provided by youth who were sexually victimized by facility 
+staff revealed that--
+
+* Approximately a third (32.0%) of youth were victimized by more 
+than one staff member (table 15).
+
+* About 20.3% of youth experiencing physical force or threat of 
+force, 12.3% were offered favors or protection, and 21.5% were 
+given drugs or alcohol to engage in the sexual act or other sexual 
+contact.
+
+* Most youth victimized by staff (93.9%) were not physically 
+injured.
+
+* Approximately 80.9% of victims said at least one incident 
+occurred in a common area, such as a classroom, library, kitchen, 
+office, closet, or supply room. Nearly half (48.9%) of victims 
+said at least one incident occurred in a shower or bathroom, and 
+more than half (52.5%) said they were victimized by staff in the 
+youth’s room or sleeping area.
+
+* Staff sexual misconduct most commonly occurred between 6 p.m. 
+and midnight (53.5%), followed by incidents occurring between noon 
+and 6 p.m. (49.4%).
+
+* An estimated 41.1% of staff sexual misconduct victims said that 
+the first sexual activity occurred during the first month at the 
+facility (10.6% within the first 24 hours, 6.9% during the 
+remainder of the first week, and 23.6% during the remainder of the 
+month).
+
+---------------------------------------
+Staff sexual misconduct was linked to 
+other inappropriate contact with youth
+---------------------------------------
+
+As a result of the high rate of staff sexual misconduct reported 
+in the NSYC-1 (10.3%), new items were added to the NSYC-2 
+questionnaire to better understand the circumstances surrounding 
+incidents. Youth were asked a series of questions related to their 
+relationship with the facility staff prior to sexual contact 
+(table 16). Among victims of staff sexual misconduct--
+
+* Nearly two-thirds said that staff told them about their personal 
+life outside of work (69.1%), treated them like a favorite or 
+better than other youth (63.6%), or gave them a special gift that 
+the staff would not have given to most other youth (62.3%).
+
+* Almost half (49.2%) said the staff member gave them pictures or 
+wrote them letters. Nearly a third (29.8%) said that the staff 
+member contacted them in other ways when the staff member was not 
+at the facility.
+
+* More than a third (36.7%) said youth gave the staff member 
+pictures of themselves, and more than a quarter (28.1%) said youth 
+gave the staff member a special gift.
+
+When youth were asked who initiated the sexual contact, 36.4% said 
+that the facility staff always made the first move, 17.4% reported 
+that the youth always made the first move, and 46.3% said that 
+sometimes the facility staff made the first move and sometimes the 
+youth did.
+
+Youth were also asked to describe the sexual relationship with 
+staff. Nearly half (46.3%) said the incident was usually just 
+sexual. An estimated 40.1% said the sexual contact was more like 
+friends with benefits, and 13.6% said that they really cared about 
+each other.
+
+************
+Methodology
+************
+
+The second National Survey of Youth in Custody (NSYC-2) was 
+conducted in all 50 states and the District of Columbia  by Westat 
+(Rockville, MD), under a cooperative agreement with the Bureau of 
+Justice Statistics (BJS). Data collection was conducted in 326 
+juvenile facilities between February and September 2012.
+
+Interviewing juveniles in residential facilities on such sensitive 
+topics required extensive preparations with agency and facility 
+administrators prior to the interview. These preparations ranged 
+from methods to obtain consent, procedures to file mandatory 
+reports of child abuse or neglect, arrangements for counseling in 
+case a youth became upset, and logistical support to physically 
+carry out the interviewing. The specific procedures that had to be 
+negotiated with state and local authorities were--
+
+* Consent to interview minors--22 states and the District of 
+Columbia provided consent in loco parentis (ILP), in which the 
+state agency acting as the guardian provided consent; 20 states 
+required written consent and 3 states required either verbal or 
+written parental or guardian consent (PGC); and 5 states allowed 
+for a combination of ILP and PGC.
+
+* Mandatory reporting of abuse or neglect--all survey staff in 
+direct contact with youth had to comply with state and local 
+reporting requirements when a youth made a verbal statement 
+suggesting abuse or neglect. Jurisdictions provided contact 
+information and instructions for submitting reports to an agency 
+outside of the facility (e.g., local Child Protective Services).
+
+* Counseling services--jurisdictions were asked to identify both 
+facility-based and external resources for counseling services in 
+the event a youth would become emotionally upset during the 
+interview or make a specific request to the interviewer for such 
+services.
+
+* The NSYC-2 comprised two questionnaires--a survey of sexual 
+victimization and a survey of past drug and alcohol use and 
+treatment. Youth were randomly assigned one of the questionnaires 
+so that, at the time of the interview, the content of the survey 
+remained unknown to facility staff and the survey interviewers.
+
+The interviews, which averaged approximately 30 minutes in length, 
+used audio computer-assisted self-interviewing (ACASI) data 
+collection methods. Youth interacted with the computer-
+administered questionnaires using a touchscreen and synchronized 
+audio instructions delivered through headphones. Youth could 
+choose to take the interview in either English or Spanish. Youth 
+completed the interview in private, with the interviewer remaining 
+in the room but in a position that did not offer a view of the 
+computer screen.
+
+A total of 9,703 youth participated in the NSYC-2. Of these, 8,707 
+youth completed the survey on sexual victimization and passed 
+editing and consistency checks. A total of 996 completed the 
+survey on drug and alcohol use and treatment.
+
+-----------------------
+Sampling of facilities
+-----------------------
+
+The universe for the survey was all adjudicated youth residing in 
+facilities owned or operated by a state juvenile correctional 
+authority and all state-adjudicated youth held under contract in 
+locally or privately operated juvenile facilities. The universe 
+was restricted to facilities that housed youth for at least 90 
+days, held at least 25% adjudicated youth, and held at least 10 
+adjudicated youth at the time of the survey. These restrictions 
+were imposed to allow sufficient time to obtain consent from the 
+parent or guardian.
+
+The NSYC-2 sampling frame included contract facilities in states 
+where contract facilities held at least 20% of all state-
+adjudicated youth or where fewer than 80 completed interviews were 
+expected from youth held in state facilities. Since locally and 
+privately operated facilities were more difficult to enroll and 
+less likely to participate in surveys related to the Prison Rape 
+Elimination Act (PREA), the NSYC-2 excluded contract facilities in 
+states not needed for state-level estimation. Given these 
+parameters, the NSYC-2 collected data from contract facilities in 
+15 states.
+
+A multistage stratified sample design was used. At the first stage 
+of selection, 446 facilities were selected from 503 eligible 
+facilities in the United States. Facilities were selected using 
+the 2010 Census of Juveniles in Residential Placement (CJRP), 
+conducted by the Office of Juvenile Justice and Delinquency 
+Prevention.
+
+* All facilities in the frame with 20 or more adjudicated youth 
+were sampled with certainty. This threshold yielded at least one 
+sample facility in each state except Vermont, which had one state 
+facility that housed fewer than 10 adjudicated youth. (This 
+facility was selected to meet the PREA mandate of including at 
+least one facility in every state.)
+
+* Facilities with 10 to 19 adjudicated youth were sampled with 
+probability proportional to size. For state facilities, the 
+measure of size was the number of adjudicated youth reported in 
+the 2010 CJRP. For the contract facilities, it was the number of 
+state-adjudicated placed youth. The selection probability of these 
+facilities was their measure of size divided by 20. This number 
+corresponded to the measure of size for the smallest certainty 
+facility.
+
+* A supplemental sample was taken to include additional contract 
+facilities that were misclassified during the initial sample 
+selection. An additional 10 facilities were selected from among 24 
+reclassified facilities.
+
+Subsequent state-level and facility-level enrollment efforts 
+determined 113 of these 446 facilities to be out-of-scope. 
+Facilities were out-of-scope under any of the following 
+conditions:
+
+* closed or were schedule to close prior to data collection (35)
+
+* did not house youth for more than 90 days (49)
+
+* did not house state-placed youth (13) or adjudicated youth (6)
+
+* merged with another enrolled facility (6) or was split into two 
+separate facilities (1)
+
+* housed only youth with a limited cognitive capacity who were 
+unable to self-consent or assent or complete the survey (2)
+
+* no longer a juvenile corrections facility (1).
+
+Of the remaining 333 eligible juvenile facilities, 4 lacked 
+consent for a sufficient number of youth to permit data 
+collection, and 3 were not visited due to issues related to 
+scheduling and burden.
+
+-------------------
+Selection of youth
+-------------------
+
+Rosters of adjudicated youth were provided by facilities granting 
+in loco parentis (ILP) consent 5 weeks prior to data collection. 
+Facilities granting other forms of consent (either PGC or some 
+combination of PGC and ILP) provided a roster 9 weeks prior to 
+data collection. Rosters were updated weekly, up to 2 weeks prior 
+to the collection, to reflect youth who were subsequently admitted 
+to or discharged from each facility.
+
+Interviewing capacity at each facility was assessed based on the 
+number of available days, interviewing rooms, and interviewers. In 
+facilities determined to have sufficient capacity, all eligible 
+youth were selected for the survey. In other facilities, youth 
+were randomly subsampled so the number of youth did not exceed 
+interviewing capacity.
+
+A total of 22,944 youth were initially selected. Among these 
+individuals, 5,402 left prior to the interview team arriving at 
+the facility and 940 were excluded based on subsampling within the 
+facility. Once the discharges and excluded cases were removed from 
+the pool of selected youth, 16,602 youth remained eligible for the 
+NSYC-2.
+
+Approximately 26% of youth did not participate because consent 
+from the parent or guardian could not be obtained, 8% refused to 
+complete the interview, and 6% were nonrespondents for other 
+reasons (e.g., they did not complete the entire interview, they 
+were not at the facility at the time of visit, the facility denied 
+access, or they were excluded due to extreme or inconsistent 
+response patterns).
+
+-------------------------------------
+Weighting and nonresponse adjustments 
+for facility and national estimates
+-------------------------------------
+
+To generate facility estimates, each youth was assigned an initial 
+weight that corresponded to the inverse of the probability of 
+selection within each facility. A series of adjustments was 
+applied to the initial weight to compensate for nonresponse. These 
+adjustments were completed in three steps:
+
+1. Adjustment cells were constructed based on each youth’s most 
+serious offense, race or Hispanic origin, age, sex, and the 
+number of days held in the facility.
+
+2. An adjustment required a minimum nonresponse cell size of 10 
+responding youth. In many facilities, this resulted in no 
+nonresponse adjustment, as either the facility had too few 
+interviews (fewer than 20) to create multiple cells or the 
+differences between respondents and nonrespondents were not 
+significant. In facilities where significant differences 
+were observed, 2 to 4 nonresponse cells were created.
+
+3. After an initial nonresponse adjustment, the weights within 
+a facility were examined and trimmed to reduce undue 
+influence from a small number of respondents with very large 
+weights. If the highest weight was 4 times greater than the 
+lowest weight in the facility, the highest weights were 
+trimmed and the difference in weighted counts was 
+distributed to the remaining youth. After trimming, the 
+high-to-low ratio in the final weight would equal to 4.
+
+To generate national estimates, each sampled facility was assigned 
+a weight that corresponded to the inverse of the facility’s 
+probability of selection into the sample, and the weight was 
+adjusted for facility nonresponse. The adjusted facility weights 
+were then multiplied by the youth weights that resulted from the 
+three-step process outlined above, thereby producing a national-
+level youth weight.
+
+---------------------------
+Calculating response rates
+---------------------------
+
+A total of 8,845 youth completed the survey on sexual 
+victimization, and 996 completed the survey on drug and alcohol 
+use and treatment. After excluding 138 youth whose interviews were 
+deleted due to extreme or inconsistent responses in the sexual 
+victimization survey, the NSYC-2 achieved a weighted overall 
+response rate of 59% for all sampled youth. (See box on page 9 for 
+discussion of extreme and inconsistent response patterns.)
+
+Separate response rates were calculated for each participating 
+facility. (See appendix table 1.) Within each facility, a base 
+weight was created for each youth in the sexual victimization 
+survey by taking the inverse of each youth’s probability of 
+selection. In most facilities, youth selection probabilities were 
+the same; however, in facilities in which youth were subsampled or 
+where rosters contained duplicate records, selection probabilities 
+varied.
+
+An initial facility response rate was calculated by summing the 
+base weights for all youth who completed the sexual victimization 
+survey and dividing it by the sum of the base weights for all 
+sampled youth. Ineligible youth in each facility were excluded. 
+
+A final response rate was calculated to account for deleted 
+interviews that contained extreme or inconsistent responses. (See 
+discussion on page 9.) This was achieved by multiplying the 
+initial facility response rate by an adjustment ratio. In each 
+facility, this ratio represented the sum of final weights for all 
+interviewed youth (excluding those with extreme or inconsistent 
+responses) divided by the sum of final weights for all interviewed 
+youth (including those with extreme or inconsistent responses). 
+This final adjusted response rate was then multiplied by 100.
+
+Calculations for Adobe Mountain School (Arizona) illustrate the 
+measurement of these weighted facility-level response rates. This 
+facility listed 284 youth on its roster. Among those listed, 124 
+were subsampled out, and no interview was attempted with them. 
+Among the remaining 160 sampled youth, 144 were sampled for the 
+sexual victimization survey and 16 for the survey of past drug and 
+alcohol use and treatment. Of the 144 eligible youth, 105 
+completed the NSYC-2 sexual victimization survey (72.9%). After 
+adjusting for the probability of selection for each youth, the 105 
+youth who completed the sexual victimization survey represented 
+the 284 youth in this facility. Five of the interviewed youth 
+(4.8%) provided extreme or three or more inconsistent responses 
+and were excluded. After adjusting for these cases, the resulting 
+facility response rate was 69.4% (0.729 times 0.952 times 100).
+
+-------------------------------------
+Selecting facilities for publication
+-------------------------------------
+
+Facility-level estimates were published only if they met a set of 
+criteria to ensure that the estimates had minimum reliability. The 
+estimates were required to meet all of the following criteria: (1) 
+they were based on at least 15 youth who completed the sexual 
+victimization survey, (2) they represented facilities with a 30% 
+response rate or greater, and (3) they had a minimum coefficient 
+of variation of 30% and were significantly precise to detect a 
+high victimization rate (i.e., if they had a hypothetical 
+victimization rate of 25% or greater, the lower bound of the 
+confidence interval would be 35% higher than the national rate). 
+(See Standard errors and confidence intervals section below for 
+discussion of sampling precision.)
+
+Based on these criteria, facility-level estimates were reported 
+for 157 (of the 326) participating facilities. (See appendix 
+tables 2, 3, 4, and 5 for facility estimates by type of sexual 
+victimization.) These facilities accounted for approximately 70% 
+of the adjudicated youth covered in NSYC-2.
+
+----------------------
+State-level estimates
+----------------------
+
+State-level estimates were generated using a weighted average of 
+the facility-level rates. Except for 11 states in which one 
+participating facility did not meet the criteria for publication, 
+all published and unpublished state rates were used. In these 11 
+states, publishing a rate for the entire state, along with the 
+rates for the published facilities, would have made it possible to 
+derive the rate for the unpublished facility.
+
+Four approaches were used to produce state estimates:
+
+1. In 14 states and the District of Columbia, facility-level 
+estimates were published for all participating facilities. A 
+state-level rate was calculated by dividing the combined 
+weighted counts of youth reporting sexual victimization in 
+all facilities by the combined weighted count of all youth 
+in all of the participating facilities. (These states 
+included Arizona, Hawaii, Idaho, Indiana, Maine, 
+Mississippi, Nevada, Ohio, Oregon, Rhode Island, Vermont, 
+West Virginia, Wisconsin, and Wyoming.)
+
+2. In 11 states, facility-level estimates were published for 
+all participating facilities except one. A state-level rate 
+was calculated by dividing the combined weighted counts of 
+youth reporting sexual victimization in the published 
+facilities by the combined weighted counts of all youth in 
+the published facilities. (These states included Alabama, 
+Colorado, Delaware, Illinois, Kansas, Montana, Nebraska, New 
+Mexico, South Carolina, Tennesee, and Virginia. The excluded 
+facility accounted for 10% or less of the state population 
+in all states except Delaware and Nebraska.)
+
+3. In 17 states, one or more facilities had a published rate, 
+and two or more facilities did not have a published rate. A 
+state-level rate was estimated by calculating a weighted 
+average from the unpublished facilities and combining it 
+with the weighted average of the estimates from published 
+facilities. (These states included Alaska, Arkansas, 
+Florida, Georgia, Iowa, Kentucky, Louisiana, Michigan, 
+Minnesota, Missouri, New Jersey, North Carolina, North 
+Dakota, Pennsylvania, Texas, Utah, and Washington.)
+
+4. In six states, no facility-level estimates were published, 
+but all facilities together met the publication criteria. A 
+state-level rate was estimated by combining the data from 
+all unpublished facilities based on the original 
+probabilities of selection and weighting adjustments. (These 
+states included California, Massachusetts, Maryland, New 
+York, Oklahoma, and South Dakota.)
+
+In two states (Connecticut and New Hampshire), no facility-level 
+estimates were published and all facilities combined did not meet 
+the publication criteria. In these states, the NSYC-2 could not 
+provide a state-level estimate.
+
+-----------------------------------------
+Standard errors and confidence intervals
+-----------------------------------------
+
+Survey estimates are subject to sampling error because they are 
+based on a sample rather than a complete enumeration. Within each 
+facility, the sampling error varies by the size of the estimate, 
+the number of completed interviews, and the size of the facility. 
+Due to the relatively small samples within many of the selected 
+facilities, it is especially important to consider the possibility 
+of sampling error when interpreting the survey results.
+
+Estimates of the standard errors for selected measures of sexual 
+victimization are presented in tables that provide national-level 
+estimates. These estimates may be used to construct confidence 
+intervals around the survey estimates (e.g., numbers, percentages, 
+and rates), as well as to test for significant differences between 
+the estimates.
+
+For example, the 95%-confidence interval around the percentage of 
+male youth who reported sexual victimization by another youth is 
+approximately 2.2% plus or minus 1.96 times 0.2% (or 1.8% to 
+2.6%). Based on similarly conducted samples, 95% of the intervals 
+would be expected to contain the true (but unknown) percentage.
+
+The standard errors may also be used to construct confidence 
+intervals around differences in the estimates. The 95%-confidence 
+interval comparing the percentage of male youth (2.2%) and female 
+youth (5.4%) who reported sexual victimization by another youth 
+may be calculated. The confidence interval around the difference 
+of 3.2% is approximately plus or minus 1.96 times 0.82% (the 
+square root of the standard error of the difference). The standard 
+error of the difference is calculated by taking the square root of 
+the sum of each standard error squared (e.g., the square root of 
+(0.2)2 plus (0.8)2). Since the interval (1.6% to 4.8%) does not 
+include zero, the difference between male youth and female youth 
+in the rate of sexual victimization by other youth is considered 
+statistically significant.
+
+To express the possible variation due to sampling associated with 
+facility-level estimates, tables in this report provide lower and 
+upper bounds of the related 95%-confidence intervals. Since many 
+facility samples are small and the estimates are close to zero, 
+confidence intervals were constructed using an alternative method 
+developed by E.B. Wilson. Computationally, this method produces an 
+asymmetrical confidence interval around the facility estimates, in 
+which the lower bound is constrained to be greater than or equal 
+to 0%, and the upper bound is less than or equal to 100%. It also 
+provides confidence intervals for facilities in which the survey 
+estimates are zero (but other similarly conducted surveys could 
+yield non-zero estimates).
+
+------------------
+Exposure period
+------------------
+
+To calculate comparative rates of sexual victimization, the 
+facility provided the most recent admission date to the current 
+facility for each youth. If the admission date was at least 12 
+months prior to the date of the survey, youth were asked questions 
+related to their experiences during the last 12 months. If the 
+admission date was less than 12 months prior to the interview, 
+youth were asked about their experiences since they arrived at the 
+facility. The average exposure period for sexual victimization 
+among sampled youth was 6.2 months.
+
+---------------------------------
+Measuring sexual victimization
+--------------------------------
+
+The NSYC-2 relied on the reporting of direct experience of each 
+youth, rather than youth reporting on the experience of other 
+youth. The strategy was to first ask if the youth had engaged in 
+any type of sexual activity at the facility within the last 12 
+months or since they entered the facility, if they had been in the 
+facility for less than 12 months. These questions were not 
+specific to the perpetrator or whether the sexual activity was 
+coerced.
+
+The initial series of questions differed by the age of the youth. 
+Youth age 15 or older were administered questions related to the 
+touching of body parts in a sexual way, involving oral, anal, or 
+vaginal sex. Youth age 14 or younger were asked less detailed 
+questions about sexual activity. Rather than referring to explicit 
+body parts and acts, the items had less explicit language (i.e., 
+“private parts”). This was done to avoid exposing younger 
+respondents to explicit sexual references. (For specific survey 
+questions, see appendix 1.)
+
+Youth who reported sexual activity were then asked if the 
+activities occurred with other youth or with staff. They were then 
+asked questions about the presence and nature of coercion 
+(including use of physical force or threat of physical force, use 
+of other type of force or pressure, or return for money, favors, 
+protection, or other special treatment) associated with the youth-
+on-youth sexual activity. A separate but identical set of 
+questions was asked about coercion associated with staff-on-youth 
+sexual activity. (See appendix 2.)
+
+If the respondent did not report any sexual contact in the initial 
+screening items, the ACASI survey administered a series of 
+questions that asked if the youth had been coerced to engage in 
+sexual activity. If a youth answered affirmatively, he or she was 
+asked if the event occurred with another youth or with a staff 
+member. Follow-up questions, comparable to the initial screener 
+questions, were asked of those who reported victimization.
+
+The ACASI survey presented additional questions related to both 
+youth-on-youth and staff-on-youth sexual victimization. These 
+questions collected further information on the characteristics of 
+the victimization, such as time and location, number, race or 
+Hispanic origin, and sex of perpetrators; injuries sustained and 
+medical care received by the youth as a result of the assault; 
+characteristics of the relationship between youth and staff 
+perpetrators; and reporting of the assault to authorities and 
+action taken by leadership after the victimization.
+
+--------------------------------------------
+Measuring youth opinions about the facility 
+staff and fairness of facility policies
+--------------------------------------------
+
+The NSYC-1 and NSYC-2 included eight yes or no items that measured 
+youth opinions about facility staff:
+
+B1a. Are the facility staff good role models?
+
+B1b. Are the facility staff friendly?
+
+B1c. Do the staff seem to genuinely care about you?
+
+B1d. Are the staff helpful?
+
+B1e. Are the staff disrespectful?
+
+B1f. Are the staff hard to get along with?
+
+B1g. Are the staff mean?
+
+B1h. Are the staff fun to be with?
+
+“Yes” responses to items B1a, B1b, B1c, B1d, and B1h and “no” 
+responses to items B1e, B1f, and B1g were coded 1. All other 
+responses were coded 0. The response codes were then summed to 
+provide a count of the number of positive opinions about the 
+facility staff.
+
+The number of positive opinions about the facility and fairness of 
+facility policies was based on seven true or false items and one 
+agree or disagree item:
+
+B2a. Youth here are punished even when they don’t do anything 
+wrong.
+
+B2b. Facility staff use force when they don’t really need to.
+
+B2c. Problems between facility staff and youth here can be worked 
+out.
+
+B2d. Something bad might happen to me if I file a complaint 
+against a staff member.
+
+B2e. I usually deserve any punishment that I receive.
+
+B2f. Punishments given are fair.
+
+B2g. The staff treat the youth fairly.
+
+B2i. There are enough staff to monitor what is going on in this 
+facility (strongly agree, somewhat agree, somewhat disagree, 
+strongly disagree).
+
+“False” responses to items B2a, B2b, and B2d and “true” responses 
+to items B2c, B2e, B2f, and B2g were coded 1.  “Strongly agree” 
+and “somewhat agree” responses to item B2i were coded 1. All other 
+responses were coded 0. The response codes were then summed to 
+provide a count of the number of positive opinions about the 
+facility and fairness of facility policies.
+
+The entire ACASI questionnaire (listed as the National Survey of 
+Youth in Custody-2) is available on the BJS website at 
+www.bjs.gov.
+
+----------------------------------------------------------------
+
+*******************************************
+The 13 facilities classified as high-rate 
+were examined using additional exclusion 
+criteria for extreme or inconsistent 
+responses
+*******************************************
+
+The impact of the choice of exclusion criteria on the 
+classification of high-rate facilities was examined 
+(table 17). The data suggest that 10 of the 13 facilities would 
+have remained in the high-rate group had additional (more 
+restrictive) exclusion criteria been introduced.
+
+One facility, John G. Richards (South Carolina), would have 
+dropped out of the high-rate category if the calculations had 
+excluded interviews in which youth reported a sexual victimization 
+incident but failed to respond when asked how many times it had 
+occurred or answered zero times. While the facility rate would 
+have remained high (15.8%), the lower bound of the 95%-confidence 
+interval (10.2%) would have been less than 135% of the national 
+mean (less than 9.0% times 1.35, or 12.2%).
+
+The John G. Richards facility also would have dropped out of the 
+high-rate group if calculations had excluded interviews with two 
+or more inconsistencies (with a mean of 15.8% and a lower bound of 
+10.2%) or if calculations had excluded interviews based on one or 
+more inconsistencies (a mean of 8.6% and a lower bound of 4.4%). 
+
+Of the remaining 12 facilities, 2 facilities (Paulding Regional 
+Youth Detention Center, Georgia, and Birchwood, South Carolina) 
+would have dropped out only if interviews with any inconsistent 
+response had been excluded. The rate of sexual victimization in 
+the Paulding Regional Youth Detention Center would have dropped 
+from 32.1% to 5.0%, and the rate at Birchwood from 29.2% to 4.6%. 
+These two facilities had the smallest number of respondents (fewer 
+than 30) among the 13 high-rate facilities, and consequently were 
+the most sensitive to deleting interviews.
+
+Consideration of other exclusion criteria did not change the 
+classification of the remaining 10 facilities (not shown in 
+table). These 10 remaining facilities would have been classified 
+as high-rate even if interviews were dropped based on reports of 
+an incident rate of more than one per week since the admission 
+date or based on a case-by-case review of all items for internal 
+consistency. 
+
+Overall, the data suggest that classifying the 13 facilities as 
+high-rate is robust. In choosing to exclude interviews based on 
+one or more extreme responses or three or more inconsistent 
+responses, some youth may still report inconsistent information 
+but their entire interview should not be invalidated.  
+----------------------------------------------------------------
+
+*********************************************
+Appendix 1. Survey items measuring sexual 
+activity within the facility during the past 
+12 months or since entering the facility, 
+if less than 12 months
+*********************************************
+
+--------------------------
+Males, age 15 or older
+--------------------------
+
+C11. During the past 12 months, have you rubbed another person’s 
+penis with your hand or has someone rubbed your penis with their 
+hand?
+
+C12. During the past 12 months, have you rubbed another person’s 
+vagina with your hand?
+
+C13. During the past 12 months, have you put your mouth on another 
+person’s penis or has someone put their mouth on your penis?
+
+C14. During the past 12 months, have you put your mouth on 
+someone’s vagina?
+
+C15. During the past 12 months, have you put your penis, finger, 
+or something else inside someone else’s rear end or has someone 
+put their penis, finger, or something else inside your rear end?
+
+C16. During the past 12 months, have you put your penis, finger, 
+or something else inside someone’s vagina?
+
+C17. During the past 12 months, have you had any other kind of 
+sexual contact with someone at this facility?
+
+C17a.What kind of sexual contact was that? 
+
+CHECK ALL THAT APPLY.
+
+Kissing on the lips	                                  1
+
+Kissing other parts of the body	                          2
+
+Looking at private parts	                          3
+
+Showing something sexual, such as pictures or a movie	  4
+
+Something else that did not involve touching	          5
+
+Something else that did involve touching	          6
+
+--------------------------
+Females, age 15 or older
+--------------------------
+
+C18. During the past 12 months, have you rubbed another person’s 
+penis with your hand?
+
+C19. During the past 12 months, have you rubbed someone else’s 
+vagina with your hand or has someone else rubbed your vagina with 
+their hand?
+
+C20. During the past 12 months, have you put your mouth on another 
+person’s penis?
+
+C21. During the past 12 months, have you put your mouth on someone 
+else’s vagina, or has someone put their mouth on your vagina?
+
+C22. During the past 12 months, have you put your finger or 
+something else inside someone else’s rear end or has someone put 
+their penis, finger, or something else inside your rear end?
+
+C23. During the past 12 months, have you put your finger or 
+something else inside someone else’s vagina or has someone put 
+their penis, finger, or something else inside your vagina?
+
+C24. During the past 12 months, have you had any other kind of 
+sexual contact with someone at this facility?
+
+C24a.What kind of sexual contact was that? 
+
+CHECK ALL THAT APPLY.
+
+Kissing on the lips	                                   1
+  
+Kissing other parts of the body	                           2
+
+Looking at private parts	                           3
+
+Showing something sexual, such as pictures or a movie	   4
+
+Something else that did not involve touching 	           5
+
+Something else that did involve touching	           6
+
+----------------------------
+All youth age 14 or younger
+----------------------------
+
+C1. The next questions are about sexual contacts that happen in 
+this facility.
+
+Sexual contacts are when someone touches your private parts or you 
+touch someone else’s private parts in a sexual way.
+By private parts, we mean any part of the body that would be 
+covered by a bathing suit.
+
+C11. During the past 12 months, have you rubbed anyone’s private 
+parts with your hand or has anyone rubbed your private parts with 
+their hand?
+
+C12. During the past 12 months, have you put your mouth on 
+anyone’s private parts or has anyone put their mouth on your 
+private parts?
+
+C13. During the past 12 months, have you put any part of your body 
+inside anyone else’s private parts?
+
+C13a. During the past 12 months, has anyone put part of their body 
+inside your private parts?
+
+C14. During the past 12 months, have you had any other kind of 
+sexual contact with someone at this facility?
+
+C14a. What kind of sexual contact was that?
+
+CHECK ALL THAT APPLY.
+
+Kissing on the lips	                                      1
+
+Kissing other parts of the body	                              2
+
+Looking at private parts	                              3
+
+Showing something sexual, such as pictures or a movie 	      4
+
+Something else that did not involve touching 	              5
+
+Something else that did involve touching	              6
+
+---------------------------------
+Survey items measuring with whom 
+the sexual activity occurred
+---------------------------------
+
+C25. You’ve said that since you have been at this facility, you 
+[list of specific activities]
+
+Did (this/any of these) happen with a youth at this facility?
+
+C27. During the past 12 months, which ones happened with a youth 
+at this facility? [list of specific activities]
+
+C28. You’ve said that since you have been at this facility, you 
+[list of specific activities]
+
+Did (this/any of these) happen with a member of the facility 
+staff?
+
+C30. During the past 12 months, which ones happened with a youth 
+at this facility? [list of specific activities]
+
+***********************************
+Appendix 2. Survey items measuring 
+pressure or nature of coercion
+For incidents with youth
+***********************************
+
+C31. During the past 12 months, did (this/any of these) ever 
+happen because a youth at this facility used physical force or 
+threat of physical force?
+
+C34. During the past 12 months, did (this/any of these) ever 
+happen because a youth at this facility forced or pressured you in 
+some other way to do it?
+
+C34a. How were you forced or pressured in some other way?
+
+CHECK ALL THAT APPLY.
+
+Another youth threatened you with harm	                     1
+
+Another youth threatened to get you in 
+trouble with other youth 	                             2
+
+Another youth threatened to get you in 
+trouble with the staff	                                     3
+
+Another youth kept asking you to do it	                     4
+
+Another youth forced or pressured you 
+in some other way	                                     5
+
+C36. During the past 12 months, did (this/any of these) ever 
+happen with a youth at this facility in return for money, favors, 
+protection, or other special treatment?
+
+-------------------------
+For incidents with staff
+-------------------------
+
+C45. During the past 12 months, did (this/any of these) ever 
+happen because a staff member used physical force or threat of 
+physical force?
+
+C48. During the past 12 months, did (this/any of these) ever 
+happen because a staff member forced or pressured you in some 
+other way to do it?
+
+C48a. How were you forced or pressured in some other way?
+
+CHECK ALL THAT APPLY.
+
+A staff member threatened you with harm	            1
+
+A staff member threatened to get you in 
+trouble with other youth	                    2
+
+A staff member threatened to get you in 
+trouble with the staff	                            3
+
+A staff member kept asking you to 
+do it 	                                            4
+
+A staff member forced or pressured you 
+in some other way 	                            5
+
+C50. During the past 12 months, did (this/any of these) ever 
+happen with a staff member in return for money, favors, 
+protection, or other special treatment?
+
+**************************************
+Appendix 3. Items checked for extreme 
+and inconsistent response patterns
+**************************************
+
+----------------------------
+Items unrelated to reports 
+of sexual victimization
+----------------------------
+
+1. Reported one of the following:
+
+    * being admitted to the facility before turning age 8
+
+    * being admitted to the facility in the future
+
+    * being 8 feet tall or taller
+
+    * weighing 500 pounds or more
+     
+    * having a Body Mass Index of either less than 15 or 50 
+        or greater.
+
+2. Youth “strongly agreed” with the statement “that some of the 
+questions about sexual activity were hard to understand.”
+
+3. Youth reported being sexually assaulted prior to admission 
+to the facility, but when asked “how many times,” reported “0.”
+
+4./5. Youth reported being physically assaulted by staff/youth 
+more than 3 times per day.
+
+6./7. Youth reported being physically assaulted by staff/youth, 
+but when asked “how many times,” responded with “0.”
+
+8./9. Youth reported being injured by staff/youth, but when asked 
+“how many times,” responded with “0.”
+
+-------------------------
+Items related to reports 
+of sexual victimization
+---------------------------
+
+10. Youth reported sexual contact with a staff member, but the 
+type of activity was not consistent with the sex of the 
+perpetrator reported during the interview.
+
+11. Youth reported sexual assault by another youth, but the type 
+of activity was not consistent with the sex of the perpetrator 
+reported during the interview.
+
+12./13. Reports of injury resulting from sexual assault by 
+staff/youth were not consistently reported in different sections 
+of the questionnaire.
+
+14./15. Responses about reporting a sexual assault by staff/youth 
+to the facility administrators were not consistent across 
+different questions of the questionnaire.
+
+16./17. Youth reported forced sexual contact by staff/youth in one 
+section, but did not report specific types of coercion in another 
+section of the questionnaire. 
+
+18./19. Youth reported having sexual contact with staff or forced 
+sexual contact with youth, but did not provide the specific type 
+of activity that occurred.***Footnote 1 Response choices added in 
+the NSYC-2 questionnaire provided youth with the option of 
+selecting “pressured or hurt in some other way.”***
+
+20./21. Youth did not provide details about a report of injury 
+resulting from forced sexual contact with staff/youth.
+
+22./23. Youth reported sexual penetration by staff/youth in one 
+section of the questionnaire but not in another section.
+
+24./25. Youth reported having sexual contact with staff/youth, but 
+when asked “how many times,” responded with “0.”
+
+26./27. Youth reported sexual contact with staff/youth in return 
+for money, favors, protection, or special treatment at the time of 
+sexual contact in one section, but did not report these in another 
+section of the questionnaire.
+
+28. Youth reported being told of staff’s personal life or 
+receiving special treatment by staff in one section, but reported 
+the opposite in another section of the questionnaire.
+
+29. Youth reported not being told of staff’s personal life or not 
+receiving special treatment by staff in one section, but reported 
+the opposite in another section of the questionnaire.  
+
+30. Youth reported an extreme number of sexual assaults (e.g., 
+999, 9999) or a number with non-quantitative significance (e.g., 
+69, 666).
+
+************************************************
+Office of Justice Programs
+Innovation • Partnerships • Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+*************************
+6/3/2013/ JER/ 3:55
+*************************
+

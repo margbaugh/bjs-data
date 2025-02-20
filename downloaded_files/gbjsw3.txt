@@ -1,0 +1,738 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+-----------------------------
+
+Guide to the BJS Website
+
+December 2002, NCJ 187735
+
+---------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/gbjsw3.htm
+
+This report is one in series.  More recent editions
+may be available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2#guide
+---------------------------------------------------------------
+
+---------------------------------------------
+In addition to traditional paper publications, 
+BJS electronically publishes a variety of 
+materials including statistical graphics and 
+spreadsheets on the BJS website. Every 
+publication produced by BJS since 1995 and a 
+small selection from 1994, when the website 
+was launched, are available electronically.  
+
+To keep up with the latest at BJS visit
+What's new at BJS
+www.ojp.usdoj.gov/bjs/whtsnw2.htm.
+
+This page consists of  --
+
+*  Announcements of BJS-sponsored conferences, 
+   presentations, and other recent items 
+*  BJS publications and products (released
+   in the past 6 months) 
+*  Solicitations for BJS grant programs and
+   contracts 
+*  Latest data-spreadsheets and charts
+
+For more information about the site, take
+the tour of the BJS website at
+www.ojp.usdoj.gov/bjs/tour/intro.htm.
+----------------------------------------------
+
+This guide is issued periodically to notify
+you of updates and additions to the material 
+that is available on the website and not 
+otherwise published.
+
+New features
+
+Crime & Justice Data Online
+www/ojp.usdoj.gov/bjs/dataonline/
+
+This new interactive application provides
+quick access to comprehensive and easy
+to use crime and justice data.  Now, at the
+touch of a button, you can extract the data
+you need to build your own tables on
+crime and homicide trends and law
+enforcement.
+  
+Reentry Trends in the United States
+www/ojp.usdoj.gov/bjs/reentry.htm/
+
+This new section summarizes the lastest 
+data concerning inmates returning to the
+community after serving time in State or 
+Federal prison. 
+
+
+New listserve
+
+Subscribe to JUSTSTATS and
+get e-mail notices of all new and
+updated statistical materials
+from:
+*  Bureau of Justice Statistics
+*  Federal Bureau of Investigation 
+*  Office of Juvenile Justice and
+  Delinquency Prevention
+
+To subscribe, send an e-mail to 
+listproc@ncrjs.org, leave the subject line blank, 
+and in the message, type "subscribe 
+JUSTSTATS" and your name.
+
+Crime & Justice Data Online
+www.ojp.usdoj.gov/bjs/dataonline/
+
+In November 2001 BJS launched an interactive 
+application that provides quick access to 
+comprehensive and easy to use crime data.  
+Data are available on crime trends from the 
+FBI's Uniform Crime Reports, on homicide 
+trends and characteristics, and on large 
+law enforcement agencies from the Law
+Enforcement Management and Administrative 
+Statistics.
+
+Before Data Online these data were only
+available in hardcopy, if at all. Now, you
+can select the jurisdictions of interest, 
+build a table, and download a spreadsheet
+version for later use. You will not need 
+to perform data entry again.
+
+Crime trends from the FBI's Uniform
+Crime Reports (UCR)
+
+Users can construct data tables on the
+reported criminal offenses from the
+Uniform Crime Reports for the U.S. totals,
+all 50 States, and local agencies with a
+population coverage of 10,000 or more.  
+Included are the numbers and rates for 
+the following index offenses: 
+
+ Violent crimes
+*  murder and nonnegligent manslaughter
+*  forcible rape
+*  robbery
+*  aggravated assault Property crimes
+*  burglary
+*  larceny/theft
+*  motor vehicle theft.
+
+State level data are available from 1960,
+and local agency data are available from
+1985.
+
+Before this interactive application, 
+these data were only available from 
+annual editions of Crime in the United 
+States. See the electronic samples of 
+crime trends that are available from 
+Data Online.
+
+Homicide trends and characteristics
+from the FBI's Supplementary Annual
+Reports (SHR)
+
+Users can access homicide trends and
+characteristics for all 50 States since 
+1976 and local reporting agencies with
+population coverage of more than 250,000
+since 1985.
+
+This section displays the total number of
+homicides reported annually in the UCR
+and the characteristics of those homicides
+from the SHR. The characteristics are
+presented as percentages of the total
+because not all homicides are reported in
+the SHR. Six variable groups are covered:
+
+*  total number of homicides, reported
+   annually in the UCR
+*  age of victim (in age groups)
+*  race of victim (white, black, other)
+*  gender of victim (male, female)
+*  race and gender of victim (white male,
+   black male, and so on)
+*  weapon used(gun, knife, other weapon)
+
+Law Enforcement Management and
+Administrative Statistics (LEMAS)
+
+Data available from LEMAS describe the
+organization and administration of large
+police and sheriffs' departments. The 
+1997 and 1999 LEMAS data available are 
+for all 49 State law enforcement agencies 
+and local agencies with 100 or more sworn
+officers and 50 or more uniformed officers
+assigned to respond to calls for service
+(about 650 agencies).  You can get an
+agency profile or tables with additional
+details on one or more agencies.
+
+Special topics
+
+Reentry Trends in the United States
+www.ojp.usdoj.gov/bjs/reentry.htm
+
+In October 2002 this new section was
+added to the BJS website. It summarizes
+the latest national data concerning
+inmates returning to the community after
+serving time in State or Federal prison. 
+Reentry Trends in the United States is
+based on information from 12 statistical
+publications covering 6 different BJS data
+collections.  As new data become available, 
+the site will be updated.
+
+This section provides data on --
+*  State reentry trends --
+*  Growth in prison and parole populations
+*  Releases from prison
+*  Entries to parole
+*  Success rates for parolees
+*  Recidivism
+*  Characteristics of releases
+*  Federal reentry trends --
+*  Supervised release
+
+Homicide trends in the United States
+www.ojp.usdoj.gov/bjs/homicide/homtrnd.htm
+
+This section of the BJS website contains
+over 50 charts that describe homicide
+patterns and trends in the United States
+since 1976.  Homicide is of interest not
+only because of its severity but also
+because it is a fairly reliable barometer 
+of all violent crime. At a national level, 
+no other crime is measured as accurately 
+and precisely.  
+
+All charts, tables, and other information
+have been updated with the 2000 data
+from the Supplementary Homicide Reports
+and the Law Enforcement Officers Killed
+and Assaulted. Tables are provided that
+contain the values used in the graphics 
+as well as the numbers on which the 
+percentages and rates are based. 
+Spreadsheets of the data used are also 
+provided. 
+
+The data on this site may differ slightly
+from previously published figures because
+of updates to the data files after
+publication and because of the imputation
+methods used.
+
+-------------------------------------
+To ease printing for Homicide Trends in
+the United States (NCJ 185988) and
+Reentry Trends in the United States(NCJ
+197334), a consolidated version in
+portable document format(pdf)is provided.  
+Also, a paper reproduction of the site 
+can be ordered from NCJRS. Use the NCJ 
+number when ordering.
+-----------------------------------------
+
+Updated sections
+
+Key Crime & Justice Facts at a Glance
+www.ojp.usdoj.gov/bjs/glance.htm
+
+Key Facts at a Glance presents trends in
+crime and justice in 35 charts that are
+updated as new data become available. A
+complete list of the charts in Key Facts 
+at a Glance, including the date of the most
+recent update, is in Appendix 1. 
+
+Small versions of the charts (thumbnails)
+and brief statements of findings are
+presented. Click on the thumbnail and you
+will go to a page that contains a full-sized
+version of the chart and additional
+information about the data and findings. 
+Click on the full-sized version of the chart
+and a table with the data used in the chart
+will appear.  Also, spreadsheets with the
+chart data can be saved to your hard drive
+and imported into most spreadsheet,
+charting, and word processing programs.
+
+In addition, an electronic file is available
+that contains full-sized color versions of
+selected charts suitable for overheads or
+handouts.  This file is updated at the same
+time the charts are updated on the
+website.
+
+Topics that are covered in Key facts at a
+Glance are --
+
+*  Crime trends
+*  Violent crime
+*  Property crime
+*  Crime victim characteristics
+*  Arrests
+*  Trends in Federal investigations and
+   prosecutions
+*  Trends in felony convictions in State
+   courts
+*  Correction trends including  capital
+   punishment trends
+*  Demographic trends in correction
+   populations, by gender and race
+*  Demographic trends in jail populations,
+   by age, gender, and race
+*  Expenditure trends
+
+Paper versions of these charts are
+available from the BJS Clearinghouse. 
+Please reference NCJ 170087 when
+ordering.
+
+Drugs & Crime Facts
+www.ojp.usdoj.gov/bjs/dcf/contents.htm
+
+This section of the BJS website is an
+updated web version of the publication
+Drugs and Crime Facts, 1994. Statistics
+on drug-related crimes, law enforcement,
+courts, corrections, drug use, and public
+opinion are summarized in an easy to use
+format. Data from BJS series as well as
+other government sources provide an
+online overview of drugs and crime in the
+United States.
+
+Drugs & Crime Facts has been updated
+with information from 22 statistical
+publications issued since its launch in 
+May 1999. Links to the source materials 
+for each entry are provided for users 
+seeking more detail. As new data become
+available, the site is updated and
+enhanced.  Following is a listing of
+agencies that contribute information to
+update this site:
+
+Department of Justice
+*  Bureau of Justice Statistics.
+*  National Institute of Justice
+*  Office of Juvenile Justice and
+   Delinquency Prevention
+*  Federal Bureau of Investigation
+*  U.S. Sentencing Commission
+ 
+Executive Office of the President
+*  Office of National Drug Control Policy
+
+Department of Health and Human
+Services
+*  National Center on Addiction and Substance
+   Abuse
+*  Substance Abuse and Mental Services
+   Administration (SAMSHA)
+*  U.S. Department of Health and Human
+   Services National Institute on Drug Abuse
+
+To ease printing, a consolidated version of
+all of these pages in Drugs & Crime Facts
+is provided.  Also, a paper reproduction of
+the site can be ordered from NCJRS.  Use
+NCJ 165148 when ordering.
+
+Other electronic materials and
+publications from the BJS website
+
+Electronic releases
+
+Tables from various BJS series which
+were printed in the past are now being
+offered exclusively online.  All tables 
+are available in spreadsheet format, and
+several are also presented in portable
+document format (pdf). Collections of
+spreadsheets are archived in zip files to
+facilitate downloading. The following is 
+a list of recent electronic releases by 
+topic:
+
+Corrections
+www.ojp.usdoj.gov/bjs/correct.htm
+
+National Corrections Reporting Program
+ Time served in State prisons
+    1998  NCJ  195300
+    1999  NCJ  193210
+ Sentence length of State prisoners
+    1998  NCJ  195301
+    1999  NCJ  193211
+ 
+ Most serious offense of State prisoners
+    1998  NCJ  195303
+    1999  NCJ  193212
+ 
+Probation and Parole in the United States
+    1999  NCJ  183508
+    2000  NCJ  188208
+
+Correctional Populations in the United
+States  NCJ  192929
+
+Expenditure & employment
+www.ojp.usdoj.gov/bjs/eande.htm
+
+Justice Expenditure and Employment 
+Extracts 
+    1997  NCJ  185672
+    1998  NCJ  190641
+    1999  NCJ  190642
+
+Courts & sentencing
+www.ojp.usdoj.gov/bjs/stssent.htm
+
+State Court Sentencing of Convicted 
+Felons, 1998  NCJ  190637
+
+Crime & victims
+www.ojp.usdoj.gov/bjs/cvict.htm
+
+Criminal Victimization in United States:
+    1996  NCJ  174445
+    1997  NCJ  174446
+    1998  NCJ  181585
+    1999  NCJ  184938
+    2000  NCJ  188290
+ 
+Users who do not have Internet access
+can order the spreadsheets on diskette
+from the BJS Clearinghouse. Please use
+the NCJ number to order.
+
+Survey questionnaires
+www.ojp.usdoj.gov/bjs/quest.htm
+
+Most of BJS publications are developed
+through data gathered from BJS' surveys. 
+A description of these surveys and data
+series can be found under the topical
+references on BJS home page. Links to
+many of the questionnaires are available
+on the topical pages with the survey
+descriptions and on the questionnaire
+page. Following is a list of the
+questionnaires, added since the last
+update.  
+
+Crime and victims  
+ National Crime Victimization Survey 
+*  NCVS Survey instrument
+*  NCVS Crime Incident Report
+*  Police Public Contact Survey: A
+   Supplement to the NCVS 
+ The NCVS Survey instrument and Crime
+ Incident Report used to interview
+ Spanish speaking respondents.
+ 
+Corrections
+ 2000 Probation Data Survey
+ 2000 Parole Data Survey
+ 
+Law enforcement
+ 1999 Sample Survey of Law Enforcement
+ Agencies (CJ-44)
+ 2000 Law Enforcement Managment and 
+ Administrative Statistics (CJ-38L)2000
+ Census of State and Local Law
+ Enforcement Agencies (CJ-38S)  2001
+ State Police Traffic Stop Data  
+ Collection Procedures (SSP-1)
+ 2001 National Study of DNA
+ Laboratories
+ 
+Prosecution
+ 2001 National Survey of Prosecutors
+ 
+Courts and sentencing
+  2002 National Survey of Indigent
+   Defense Systems
+   * Program Survey
+   * County Survey
+
+Spreadsheets
+www.ojp.usdoj.gov/bjs/dtdata.htm
+
+Crime & Justice Electronic Data Abstracts
+(CJEDA) are a series of spreadsheets that
+contain data from a wide variety of
+published sources, usually by jurisdiction
+and over time. You can use these
+spreadsheets to find the answer to a
+particular question, include the data in
+other analyses, or create your own graphs
+or maps. These spreadsheets are updated as 
+new data become available. A complete list 
+of spreadsheet updates is available in 
+Appendix 2.
+
+To allow you to find what you want, these
+spreadsheets are indexed in two ways: by
+topic (Crime and arrest data, Criminal
+justice data, Corrections data,
+Demographic data) and by jurisdiction
+level (National, Federal, State, County,
+City).
+
+You can download these spreadsheets to
+your computer and open or import them
+into most spreadsheet, charting, and word
+processing programs. Most of these files
+are in .wk1 format. (The MIME type for
+these files is application/spreadsheet and
+the file extension is wk1.) Many browsers
+can be configured to automatically launch
+a spreadsheet program to display these
+files. Consult the documentation of your
+browser for specific instructions. 
+
+A few of the holdings are a collection of 
+files that are archived into one .zip file 
+to facilitate transfer from the Internet.  
+Additional help to unzip these files is 
+available at http:/www.info-zip.org/pub/info
+zip. If you do not have Internet access you 
+can order them on diskette from the BJS
+Clearinghouse. See page 8 for the ordering 
+process.
+
+Spreadsheets that support 
+publications
+
+BJS also provides data from the tables 
+of most BJS publications in spreadsheet
+format. Over 4,000 spreadsheets are
+available on the website. In many
+instances these files include not only 
+the published tables but also additional 
+detail used to calculate published rates 
+or percentages and the formulas used. You
+can use these spreadsheets to include the
+data in other analyses, create your own
+graphs or maps, or in some instances, view 
+details that are not in the published
+report.
+
+For details on how to access these files,
+see the description on how to download
+spreadsheets in the section above.
+
+Users who do not have Internet access
+can order the spreadsheets on diskette
+from the BJS Clearinghouse. Please use
+the NCJ number of the publication to
+order.
+
+New additions
+
+BJS Data Quality Guidelines
+www.ojp.usdoj.gov/bjs/abstract/
+dataquality.htm
+
+The Office of Management and Budget
+(OMB)required Federal agencies subject
+to the Paperwork Reduction Act (44 U.S.C.
+Chapter 35)to develop and publish their
+own information quality guidelines and
+provide the public with administrative
+means for requesting corrections to
+disseminated information. The BJS
+guidelines were finalized in October 2002. 
+
+They include a description of policies and
+procedures BJS follows to ensure data
+quality.
+ 
+BJS Statistical Principles and 
+Practices & BJS Strategic Plan 
+FY 2003-2004 
+www.ojp.usdoj.gov/bjs/principles.htm
+
+A unit of the U.S. Department of Justice,
+BJS has as its principal function to compile
+and analyze data and to disseminate
+information for statistical purposes. This
+page lists the principles and practices
+followed by BJS.
+
+Also available from this page is the Bureau
+of Justice Statistics Strategic Plan FY
+2003-2004. This report describes BJS's
+mission, planned activities, and associated
+outcome measures for FY 2003 and FY
+2004.  
+
+------------------------------------------
+BJS partners roll out new web capabilities
+
+Justice Research and Statistics
+Association (JRSA) www.jrsa.org
+
+This website features an improved navigation
+system, incorporating links to contact
+information, a site map, and an information
+request form on every page. There are also
+a search box at the top of every page and a
+copyright statement and address information
+at the bottom of every page. The main page
+offers prominent sections listing current
+events/projects and recent publications, 
+as well as direct links to the Statistical 
+Analysis Centers page and the Infobase of 
+State Activities & Research.
+
+The JRSA website has been enhanced
+visually. The main page features more
+color and graphics, making it easier to
+distinguish different sections.
+
+The web site was designed to maintain a
+consistent visual look regardless of the
+setup of a particular visitor's computer. 
+This was accomplished through a graphics-
+based navigation menu both on the left 
+side and at the top of the page.   
+
+Many of the graphic-based changes are
+based on recent research related to web-
+site user behavior and preferences;
+despite the increased use of graphics, the
+JRSA website remains accessible to the
+visually impaired.
+
+National Archive of Criminal Justice
+Data (NACJD)
+www.icpsr.umich.edu/NACJD/index.html
+
+In October 2002 NACJD implemented a
+redesigned version of its website.  The
+new site improves content and navigation
+and provides detailed resource guides to
+facilitate the use of some of the more
+complex data collections. Users can now
+search for data collections using justice
+topic keywords, study titles, principal
+investigators' names, and ICPSR study
+numbers. They can use the database of
+bibliographic citations that link to 
+published reports and statistics from 
+other data collections at NACJD. They can 
+also search a list of recent BJS publications,
+link to the publications, and download the
+data.
+
+Resource guides provide the following:
+*  SPSS programming code that facilitates
+   reproduction of statistics contained 
+   in BJS reports
+*  information about funding sources for
+   the support of secondary analysis of
+   justice data
+*  data sets that can be analyzed on-line
+   without downloading to a personal
+   computer, using enhanced variable
+   transformation capabilities and regression
+   analysis.
+
+Federal Justice Statistics Resource
+Center (FJSRC)
+http://fjsrc.urban.org/
+
+This website, created by the Urban Institute,
+provides online access to BJS Federal
+Justice Statistics Program (FJSP) database,
+which contains information about suspects
+and defendants processed in the Federal
+criminal justice system. The FJSP uses data
+obtained from Federal agencies to compile
+comprehensive information describing
+defendants from each stage of Federal
+criminal case processing. Since the last
+update, annual data for 1997- 2001 have
+been made available online.
+-----------------------------------------
+
+-----------------------------------------
+JUSTINFO
+
+The Bureau of Justice Statistics and other
+agencies within the Office of Justice
+Programs announce new releases in
+JUSTINFO, the electronic newsletter from
+the National Criminal Justice Reference
+Service. To automatically receive this
+biweekly newsletter, subscribe to
+JUSTINFO at--
+www.ncjrs.org/justinfo/index.htm.
+------------------------------------------
+
+------------------------------------------
+The Bureau of Justice Statistics is the
+statistical arm of the U.S. Department of
+Justice. Lawrence A. Greenfeld is the
+director. Priscilla Middleton wrote this
+report, under the supervision of Marianne
+Zawitz. Lara Reynolds and Ida Hines
+provided statistical assistance. Tom
+Hester edited this report and Jayne
+Robinson administered final production.
+
+December 2002, NCJ 187735
+-----------------------------------------
+
+-----------------------------------------
+To order these materials  --
+
+Contact the Bureau of Justice Statistics
+Clearinghouse to request information or to
+order publications and products. If you do
+not have Internet access, these materials
+can be obtained by calling the National
+Criminal Justice Reference Service
+(1-800-732-3277).  Some are available
+only in electronic form because they 
+are intended to be used on computers.
+
+Internet: 
+www.ncjrs.org/statordr.htm
+Mail:  BJS Clearinghouse/NCJRS
+    P.O. Box 6000
+    Annapolis Junction, MD 
+    20701
+Fax: 1-410-792-4358
+Phone: 1-800-732-3277
+
+*  Paper reproductions: - 25 pages and
+below $10.00 - above 25 pages $15.00.
+--------------------------------------------
+
+
+End of file
+12/16/02 ih

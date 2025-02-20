@@ -1,0 +1,912 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Federal Justice Statistics:  Reconciled Data
+
+Federal Criminal Case Processing, 2002
+
+
+January 2005, NCJ 207447
+
+--------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/fccp02.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#fccprd
+--------------------------------------------------------------
+
+Lawrence A. Greenfeld, Director
+
+This Bureau of Justice Statistics Report was prepared by the Urban Institute
+under the supervision of Steven K. Smith and Mark Motivans of the Bureau of
+Justice Statistics (BJS). This report was prepared under BJS grant number
+2001BJCXK027. Principal staff at the Urban Institute were Laura Winterfield,
+William Adams, Avi Bhati, Kamala Mallik Kane, Barbara Parthasarathy, Juliet
+Scarpa, and Yan Yuan. Layout and design were provided by Mick Schommer.  Tom
+Hester of BJS provided editorial review.
+
+This report is made possible through the cooperation of the following Federal
+agencies and their staffs: The United States Marshals Service (USMS), the
+Administrative Office of the United States Courts (AOUSC), the Executive
+Office for U.S. Attorneys (EOUSA), and the Federal Bureau of Prisons (BOP).
+The staff who provided expert advice about the source records include: Joe
+Briggs (USMS);Steven Schlesinger and Catherine Whitaker (AOUSC);Siobhan Sperin
+and Barbara Tone (EOUSA); and Sue Allison and Nancy Miller (BOP).
+
+BJS authorizes any person to reproduce, publish, translate, or otherwise use
+all or any part of the material in this publication; citation to source,
+however, is appreciated.
+
+An electronic version of this report and the data underlying graphics may be
+found on the BJS Internet Home Page <http://www.ojp.usdoj.gov/bjs/>.  The
+BJS sponsored Federal Justice Statistics Resource Center (FJSRC) Internet Home
+Page <http://fjsrc.urban.org> provides online access to the Federal Justice
+database. Users may download data from the Federal Justice database for
+independent analysis or use the online query system to quickly obtain
+customized statistics.
+
+To order additional copies of this report or CDROMs containing the Federal
+Justice database, call the BJS Clearinghouse at 18007323277.
+
+Office of Justice Programs
+Partnerships for Safer Communities
+http://www.ojp.usdoj.gov
+
+Contents
+
+Highlights, 1
+
+Introduction, 3
+ 
+Federal criminal case processing, 2002, 5
+
+Tables and figures
+
+Methodology, 17
+The Federal justice database
+Table construction and interpretation
+Offense classifications
+Classification level
+Estimations
+Statistics appearing in Federal Criminal Case Processing, 2002
+
+Appendix, 25
+
+Tables 
+
+Tables
+
+Federal criminal case processing, 2002, 5
+
+October 1, 2001 - September 30, 2002
+1. Suspects arrested for Federal offenses and booked by USMS, by offense
+2. Suspects in criminal matters investigated by U.S. attorneys, by offense
+3. Disposition of suspects in matters concluded by U.S. attorneys, by   
+offense
+4. Defendants in cases proceeded against in U.S. district courts, by   
+offense
+5. Disposition of defendants in cases terminated in U.S. district courts, by
+offense
+6. Sanctions imposed on offenders convicted and sentenced in U.S. district
+courts, by offense
+7. Criminal appeals filed, by type of criminal case and offense
+8. Offenders under Federal supervision, by offense
+9. Federal prison admissions and releases, by offense
+
+Methodology, 17
+
+M.1. Breakout of main category offenses
+M.2. Source agencies for data tables in Federal Criminal Case Processing
+
+Appendix, 25
+
+A.1. Suspects arrested for Federal offenses and booked by USMS, by offense,
+1994-2002
+A.2. Suspects in criminal matters investigated by U.S. attorneys, by offense,
+1994-2002
+A.3. Suspects in criminal matters concluded by U.S. attorneys, by offense,
+1994-2002
+A.4. Suspects in criminal matters concluded by U.S. attorneys:  Number
+prosecuted before U.S. district court judge, by offense, 1994-2002
+A.5. Suspects in criminal matters concluded by U.S. magistrates, by offense,
+1994-2002
+A.6. Suspects in criminal matters concluded by U.S. attorneys:  Number
+declined prosecution, by offense, 1994-2002
+A.7. Defendants in cases proceeded against in U.S. district courts,
+by offense, 1994-2002
+A.8.  Defendants in cases terminating in U.S. district courts, by offense,
+1994-2002
+A.9.  Defendants in cases terminating in U.S. district courts: Percent
+convicted, by offense, 1994-2002
+A.10. Offenders convicted and sentenced in U.S. district courts, by offense,
+1994-2002
+A.11. Offenders convicted and sentenced in U.S. district courts: Number
+sentenced to prison, by offense, 1994-2002
+A.12. Criminal appeals filed, by offense, 1994-2002 
+A.13. Offenders convicted and sentenced in U.S. district courts:  Number
+sentenced to probation only, by offense, 1994-2002
+A.14. Offenders convicted and sentenced in U.S. district courts:  Mean
+number of months of imprisonment imposed, by offense, 1994-2002
+A.15. Offenders under Federal supervision, by offense, 1994-2002
+A.16. Population at the end of the year in Federal prisons, by offense,
+1994-2002
+
+Figures
+
+Highlights, 1
+
+Figure H.1. Federal criminal case processing, October 1, 2001 - September 30,
+2002
+Figure H.2. Number of offenders under Federal correctional supervision,
+September 30, 2002
+
+Federal criminal case processing, 2002, 5
+
+Figure 1.  Number of suspects in criminal matters investigated by U.S.
+attorneys, by selected offenses, 1982-2002
+Figure 2.  Number of defendants in criminal cases terminated in U.S.
+district court, by selected offenses, 1982-2002
+Figure 3.  Defendants convicted in U.S. district court: Percentage
+sentenced to prison, by selected offenses, 1982-2002
+Figure 4.  Number of offenders under Federal supervision, by type of
+supervision, 1987-2002
+Figure 5.  U.S. district court commitments and first releases from Federal
+prison, by expected or actual time in prison, 1986-2002
+
+Highlights
+
+*  During 2002, U.S. attorneys initiated investigations involving 124,335
+suspects for possible violations of Federal law.  Almost a third (31%) of
+those investigated were suspected of a drug violation.
+
+*  Between 1994 and 2002, investigations initiated by U.S. attorneys have
+increased 25% -- from 99,251 to 124,335.  Investigations for immigration
+violations increased from 5,526 to 16,699; for drug offenses, investigations
+increased from 29,311 to 38,150. 
+
+*  U.S. attorneys declined to prosecute a smaller proportion of those
+investigated, as declinations of matters concluded decreased from 36% during
+1994 to 27% during 2002.
+
+*  During 2002, 124,074 suspects were arrested by Federal law enforcement
+agencies for possible violation of Federal law.  Just over 27% of all arrests
+were for drug offenses, 21% for immigration offenses, 18% for supervision
+violations, 14% for property offenses, 6% for weapon offenses, 4% for violent
+offenses, and 3% to secure and safeguard a material witness.
+
+*  Between 1994 and 2002, the number of defendants charged in criminal cases
+filed in U.S. district court increased 41%, from 62,327 to 87,727.  The 
+number of defendants charged with an immigration offense increased from 2,453
+to 13,101, while the number charged with a drug offense increased from 20,275
+to 30,673.  
+
+*  During 2002 criminal cases involving 80,424 defendants were concluded in
+U.S. district court.  Of these, 89% were convicted. Almost all (96%) of those
+convicted pleaded guilty or no contest.
+
+*  Drug prosecutions have comprised an increasing proportion of the Federal
+criminal caseload -- from 21% of defendants in cases terminating in U.S.
+district court during 1982 to 36% during 2002.
+
+*  Since implementation of the Sentencing Reform Act of 1984, the proportion
+of defendants sentenced to prison increased from 54% during 1988 to 75% 
+during 2002.  The proportion of drug offenders sentenced to prison increased
+from 79% to 91%.
+
+*  Prison sentences imposed increased slightly from 55.1 months during 1988 
+to 57.1 months during 2002.  For drug offenses, prison sentences increased
+from 71.3 months to 76.0 months; for weapon offenses, sentences imposed
+increased from 52.3 months to 83.8 months. 
+
+*  Time expected to be served in prison, on average, increased from 26.9
+months for offenders admitted during 1988 to 46.1 months for offenders
+admitted during 2002.  For drug offenses, the amount of time an incoming
+offender could expect to serve increased from 39.3 months to 62.4 months; 
+for weapon offenses, expected time served increased from 32.4 months to 
+64.5 months.
+ 
+*  During 2002 the U.S. Court of Appeals received 11,569 criminal appeals, 
+of which 9,764 were guidelines-based appeals. Fifty-eight percent of these
+appeals challenged both the conviction and the sentence imposed.
+
+*  During 2002, 107,367 offenders were under Federal community supervision. 
+Supervised release has become the primary form of supervision in the Federal
+system:  68% of offenders were on supervised release compared to 28% on
+probation, and 3% remaining on parole.
+
+*  On September 30, 2002, 143,031 offenders were serving a prison sentence 
+in Federal prison; 57% were incarcerated for a drug offense; 11% for an
+immigration offense; 10% for a violent offense; 10% for a weapon offense; 
+7% for a property offense; and 6% for all other offenses.
+
+Introduction
+
+Federal Criminal Case Processing, 2002, fourth in an annual series, provides
+statistics that describe defendants processed at different stages of the
+Federal criminal justice system for the 12-month period ending September 30,
+2002.  Also included are figures describing trends in Federal criminal case
+processing during the 1982-2002 period.
+
+The data presented are compiled from the BJS Federal justice database. The
+Federal justice database is comprised of data provided by the U.S. Marshals
+Service, the Drug Enforcement Administration, the Executive Office for the
+U.S. Attorneys, the Administrative Office of the U.S. Courts, the U.S.
+Sentencing Commission, and the Federal Bureau of Prisons (BOP). The
+Administrative Office of the U.S. Courts provides data describing the Federal
+court docket -- criminal and appellate -- as well as pretrial services,
+probation, parole, and supervised release.
+
+The Federal justice database may be obtained electronically from the Federal
+Justice Statistics Resource Center website at http://fjsrc.urban.org or on
+CD-ROM from the National Criminal Justice Reference Service Clearinghouse. 
+For more detailed information on obtaining the Federal justice database, see
+page ii.
+
+Statistics presented in this report include the number of suspects arrested 
+by Federal law enforcement agencies for violations of Federal law, the number
+of suspects investigated by U.S. attorneys for violations of Federal law, the
+outcome of U.S. attorney investigations (prosecution or declination), the
+number of defendants prosecuted in U.S. district courts, the outcome of
+criminal cases (convicted or not convicted), sanctions imposed on defendants
+convicted (type of sentence imposed and length of imprisonment), the number
+and type of criminal appeals filed, and the number of offenders under Federal
+correctional supervision -- prison, probation, parole, and supervised release. 
+A related publication, the Compendium of Federal Justice Statistics, provides
+more detail on many of the statistics presented in this report -- including
+statistics describing 40 offense categories and statistics on case processing
+matters not covered in this report, such as pretrial release and demographic
+characteristics of offenders.
+
+Several case processing statistics presented in this report have previously
+been reported by the individual agencies.  However, because these agencies 
+use different criteria to collect, tabulate, and report on case processing
+events, statistics published by each of the agencies may not be directly
+comparable.  In this report, BJS has attempted to reconcile differences in
+data collection and reporting to present comparable statistics across stages
+of the Federal criminal justice system. For a description of the
+reconciliation effort and the methodology employed, see Comparing Case
+Processing Statistics (NCJ 169274) and Reconciling Federal Criminal Case
+Processing Statistics (NCJ 171680).
+
+Since many terms and concepts used in this report have specialized meanings 
+-- either because they refer to specific provisions of Federal law or they
+refer to procedures used by agencies supplying the data – readers are
+encouraged to reference the glossary of the Compendium of Federal Justice
+Statistics for definitions of concepts.
+
+Modifications to Federal Criminal Case Processing, 2002
+
+Although not shown separately in the tables, the FY 2002 data marked the
+introduction of two new detailed offense categories, "wildlife offenses" and
+"environmental offenses." According to the reporting practices of this report,
+these two detailed offenses are grouped under the major offense category,
+"Public-order offenses, Other" in the tables. 
+
+Tables
+
+October 1, 2001   September 30, 2002
+
+1. Suspects arrested for Federal offenses and booked by USMS, by offense 
+
+2. Suspects in criminal matters investigated by U.S. attorneys, by offense 
+  
+3. Disposition of suspects in matters concluded by U.S. attorneys, by offense
+
+4. Defendants in cases proceeded against in U.S. district courts, by offense
+ 
+5. Disposition of defendants in cases terminated in U.S. district courts, by
+offense   
+
+6. Sanctions imposed on offenders convicted and sentenced in U.S. district
+courts, by offense
+
+7. Criminal appeals filed, by type of criminal case and offense
+
+8. Offenders under Federal supervision, by offense
+
+9. Federal prison admissions and releases, by offense
+
+Figures
+
+1. Number of suspects in criminal matters investigated by U.S. attorneys, 
+by category of offense, 1982-2002 
+   
+2. Number of defendants in criminal cases terminated in U.S. district court,
+by category of offense, 1982-2002  
+ 
+3. Defendants convicted in U.S. district court: Percentage sentenced to
+prison, by category of offense, 1982-2002  
+ 
+4. Number of offenders under Federal super-vision, by type of supervision,
+1987-2002  
+
+5. U.S. district court commitments and first releases from Federal prison, 
+by expected or actual time in prison, 1986-2002
+
+Methodology
+
+The Federal justice database
+
+Source of data
+The source of data for all tables in Federal Criminal Case Processing
+is the Bureau of Justice Statistics (BJS) Federal justice database.  The
+database is presently constructed from source files provided by the U.S.
+Marshals Service (USMS), the Drug Enforcement Administration (DEA), the
+Executive Office for U.S. Attorneys (EOUSA), the Administrative Office of 
+the U.S. Courts (AOUSC), the United States Sentencing Commission (USSC), 
+and the Federal Bureau of Prisons (BOP).  AOUSC also maintains the data
+collected by the U.S. Court of Appeals and the Federal Probation and
+Supervision Information System (FPSIS).  Federal law prohibits the use of
+these files for any purpose other than research or statistics. A description
+of the source agency data files is provided in table M.2 at the end of this
+section.
+
+Data universe
+The universe of the BJS Federal justice database includes criminal suspects
+investigated for violations of Federal criminal law, criminal suspects
+arrested for violations of Federal criminal law, defendants in cases filed 
+in U.S. district courts, and offenders entering Federal corrections and
+correctional supervision.
+
+The universe of criminal suspects arrested is all suspects arrested by the
+Federal law enforcement agencies (including the USMS), state agencies, and
+self-reported arrests and transferred to the custody of the U.S. Marshals
+Service for processing, transportation, and detention. 
+
+The universe of criminal suspects is limited to those whose matters were
+investigated by U.S. attorneys and in which the investigation took at least
+one hour of a U.S. attorney's time.
+
+The universe of defendants in Federal criminal courts is limited to those
+defendants whose cases were filed in a U.S. district court, whether before 
+a U.S. district court judge or a U.S. magistrate. This includes all felony
+defendants, Class A misdemeanant defendants, and those defendants charged 
+with petty offenses and handled by a U.S. district court judge.
+
+The universe of incarcerated offenders includes all sentenced offenders under
+the jurisdiction of the Federal Bureau of Prisons regardless of the source of
+their commitment (e.g., U.S. district court, State court, or military court,
+or return from a violation of conditions of supervision) or length of
+sentence.  This may include some offenders who were convicted of immigration
+offenses who were committed for petty offenses. It does not include those
+offenders who were convicted of violations of the District of Columbia
+criminal code unless they were committed by a Federal district court judge. 
+
+The universe of supervised offenders includes persons entering and exiting
+terms of Federal supervision, and persons under Federal supervision during 
+the fiscal year.  Supervision types include probation, parole, and supervised
+release.  Included amongst parole supervisees are those under two less common
+types of "old law" supervision (sentenced prior to the implementation of the
+Sentencing Reform Act of 1984):  mandatory release and special release. 
+Excluded from the supervised population counts are offenders supervised under
+military laws (military parole) and convicted organizations under supervision.
+
+The universe of suspects, defendants, and offenders varies from table to 
+table in this report, depending on the definition of the statistic reported
+and the source of the data.
+
+Reporting period
+Wherever possible, matters or cases have been selected according to some 
+event which occurred during fiscal year 2002 (October 1, 2001, through
+September 30, 2002).  Some data files provided by source agencies are
+organized according to a calendar year time frame; these have been combined
+and divided into fiscal years for purposes of this report. Files organized 
+by their source agencies according to fiscal year include some pertinent
+records in later years' files. For example, tabulations of suspects in
+matters concluded during fiscal year 2002 have been assembled from source
+files containing records of 2002 matters concluded which were entered into 
+the data system during fiscal years 2001 or 2002. 
+
+In the figures showing trends in Federal criminal case processing, information
+is presented for a period between 1982 and 2002. Data from the EOUSA are
+estimated from 1982  through 1993, as data prior to 1993 included appeals
+information not included in the subsequent years. Because of changes in the
+reporting and collection of data over time, data collected prior to 1994 from
+AOUSC and EOUSA were reported on a calendar-year basis; data collected from
+1994-2002 are on a fiscal-year basis. The figures are marked and noted
+according to the period of measurement. In figure 4, data collected from FPSIS
+reflect the supervised population as of June 30 for the period of 1987-1994,
+and the population as of September 30 for the period of 1995-2002. In figure
+5, data collected from BOP, presented from 1985-2002, are reported on a
+fiscal-year basis.
+
+Table construction and interpretation
+
+Universe in each table
+The universe in table 1 is suspects arrested for violations of Federal
+criminal law and transferred to the custody of the U.S. Marshals Service.
+
+The universe in tables 2 and 3, and figure 1 is suspects in criminal
+matters investigated by U.S. attorneys.  A person appearing in multiple
+matters will be counted separately for each matter.  Matters include
+criminal proceedings handled exclusively by U.S. attorneys, or in which
+U.S. attorneys provided assistance and spent at least one hour of
+time.  
+
+The universe in tables 4, 5, and 6, as well as figures 2 and 3, is
+defendants adjudicated and sentenced in U.S. district court.  Included
+are defendants charged with felonies, Class A and B misdemeanors,
+and petty offenses if the petty offenses are handled by U.S. district
+court judges.  Defendants who appear in more than one case are
+counted separately for each distinct case in which they appear. 
+Defendants may have been charged under "old law" (pre-Sentencing
+Reform Act) or "new law" (post-Sentencing Reform Act) standards.
+
+The universe in table 7 is criminal appeals filed in the U.S. Court of
+Appeals.  Appeals filed include both Preguidelines- and Guidelines-based
+appeals.  The Sentencing Reform Act allowed for the appeal of sentences
+imposed, where previously only the conviction could be appealed.
+
+The universe in table 8 and figure 4 is offenders entering, exiting, or
+under active supervision.  Active supervision includes supervisees who
+report regularly to their supervising officers.  Excluded are offenders
+released to military parole and offenders who are under community
+release prior to sentencing.
+
+The universe in table 9 and figure 5 is sentenced Federal offenders
+committed into Federal prison facilities -- regardless of the court from
+which they were committed and regardless of the length of sentence. 
+Federal prison facilities include BOP facilities, as well as private and
+contract facilities. The universe includes primarily offenders committed
+from U.S. district courts by U.S. district court judges, but also includes
+those committed by U.S. magistrates, military courts, and some State
+courts.  In addition, it includes offenders who violated conditions of
+supervised release and who were returned to prison for their violations
+rather than from a court commitment.  It does not include offenders
+committed for violations of the District of Columbia criminal code unless 
+they were committed by a Federal district court judge.
+
+Unit of analysis
+The unit of analysis in tables 1 through 7 is a combination of a person
+(or corporation) and a matter or case.  For example, if a single person
+is involved in three different criminal cases during the time period
+specified in the table, he or she is counted three times in the tabulation. 
+Similarly, if a single criminal case involves a corporate defendant and 
+four individual defendants, it counts five times in the tabulation.
+
+In tables 8 and 9, the unit of analysis for incarceration, probation, parole,
+or other supervised release is a person entering custody or supervision, or 
+a person leaving custody or supervision.  For example, a person convicted in
+two concurrent cases and committed once to the custody of the BOP in the
+indicated time period is counted as one admission to a term of incarceration. 
+A person who leaves a BOP facility, reenters, and leaves again in the same
+fiscal-year period would be counted as one admission and two releases.  A
+person who terminates probation twice in the indicated time period, such as
+with a violation and again after reinstatement, is counted as two 
+terminations of probation.
+
+Interpretation
+The data presented in this report are a statistical presentation of offenders
+processed in the Federal criminal justice system. The tables presented
+describe the number of offenders processed and the outcome of that processing
+at each stage of the Federal criminal justice system.  Because many tables
+represent different cross-sections of offenders, comparisons across tables 
+are not necessarily valid.
+
+Offense classifications
+
+Procedure
+The offense classification procedure used in this report is based on the
+classification system followed by the AOUSC.  Specific offenses in the
+AOUSC classification are combined to form the BJS categories shown in this
+report's tables.***Footnote: These categories correspond to the BJS crime
+definitions and, to the extent possible, are organized and presented
+consistent with BJS publications on State criminal justice systems.***
+
+For data from USMS (table 1) offense categories are based on the FBI's
+National Crime Information Center (NCIC) offense classifications, which are
+converted into U.S. Marshals' four digit offense codes.  These offense codes
+are then aggregated into the offense categories shown in table 1. 
+
+For data from EOUSA (tables 2 and 3, figure 1), which include U.S. Code
+citations but do not include the AOUSC offense classifications, U.S. Code
+titles and sections are translated into the AOUSC classification system and
+then aggregated into the offense categories used in the tables.  Offense
+categories for prisoners in table 9 are based on combinations of offense
+designations used by BOP.  They are similar to the categories in other 
+tables but may not be directly comparable.
+
+Felony/misdemeanor distinctions
+Felony and misdemeanor distinctions are provided where possible. Felony
+offenses are those with a maximum penalty of more than 1 year in prison. 
+Misdemeanor offenses are those with a maximum penalty of 1 year or less. 
+Felonies and misdemeanors are further classified using the maximum term 
+of imprisonment authorized. Section 3559, U.S. Code, Title 18 classifies
+offenses according to the following schedule:
+
+Felonies
+Class A felony -- life imprisonment, or if the maximum penalty is death.
+Class B felony -- 25 years or more.
+Class C felony  -- less than 25 years but more than 10 years.
+Class D felony  -- less than 10 years but more than 5 years.
+Class E felony --  less than 5 years but more than 1 year.
+
+Misdemeanors
+Class A misdemeanor -- 1 year or less but more than 1 month.
+Class B misdemeanor -- 6 months or less but more than 30 days.
+Class C misdemeanor -- 30 days or less but more than 5 days.
+Infraction -- 5 days or less, or if no imprisonment is authorized.
+
+In this report, felony and misdemeanor distinctions are provided where the
+data permit these distinctions.  Tables 1, 2, and 3 do not use this
+distinction because many suspects cannot be so classified at the 
+investigation stage in the criminal justice process.  Table 7 does not
+use this distinction because the Court of Appeals data do not allow for
+such a breakout.  Table 9 does not use this distinction because BOP offense
+categories do not allow for such a breakout.  None of the figures showing
+trend data report this distribution.
+
+Figures 2 and 3 display data by major offense category but do not show the
+felony/misdemeanor distinction.  Therefore, the data points for major 
+offense categories represented on the trend lines will not match the data 
+in Appendix tables A.7, A.9, and A.10, respectively, nor will the 2002 
+data points match the data for major offense categories in tables 5 and 6.
+
+Classification level
+
+Offenses in the tables in this report are classified, at the most general
+level, into felony and misdemeanor categories.  Felonies are then broken out
+by six main level offense classifications:  violent, property, drug,
+public-order, weapon, and immigration offenses. Property and public-order
+offenses are broken out into two sublevels. The main-level and sub-group
+categories are composed of individual offense types. Where the data source
+allows, drug offenses are broken out into the individual offense level. 
+"Other public-order offenses" include a limited breakout at the individual
+offense type level. Table M.1 shows a list of specific offenses under each
+offense category.
+
+Offense categories
+For offenses referred to in table M.1, the following conditions apply:
+
+"Murder" includes nonnegligent manslaughter.
+
+"Sexual abuse" includes only violent sex offenses. Beginning in 1999,
+nonviolent sex offenses, such as prostitution, were included in a
+separate category, "Nonviolent sex offenses."  Therefore, the 2002
+tables are not directly comparable with the appendix tables in this
+report, or with older editions of this report. 
+
+"Fraud" excludes tax fraud.
+"Larceny" excludes transportation of stolen property.
+
+"Other property felonies" excludes fraudulent property offenses, and
+includes destruction of property and trespass.
+
+"Tax law violations" includes tax fraud.
+
+"Obscene material" denotes the mail or transport thereof.
+
+"All other felonies" includes felonies with unclassifiable offense type.
+
+"Misdemeanors" includes misdemeanors, petty offenses, and unknown offense
+levels.
+
+"Drug possession" also includes other drug misdemeanors.
+
+Most serious offense selection
+Where more than one offense is charged or adjudicated, the most serious
+offense (the one that may or did result in the most severe sentence)is used 
+to classify offenses. The offense description may change as the criminal
+justice process proceeds. Tables indicate whether investigated, charged, 
+or adjudicated offenses are used.
+
+In tables 2 and 3, the most serious offense is based on the criminal
+lead charge as determined by the assistant U.S. attorney responsible
+for the criminal proceeding.
+
+In tables 4 and 5, the most serious offense charged is the one that has
+the most severe potential sentence.
+
+For table 6, conviction offenses are based on the disposition offenses
+having the most severe penalty.
+
+In table 7, an offense is classified into the category that represents the
+underlying offense of conviction, based on the disposition offense with
+the most severe sentence.
+
+In table 8, the most serious offense of conviction is either the one
+having the longest sentence imposed, or, if equal sentences were
+imposed or there was no imprisonment, it was the offense carrying the
+highest severity code as determined by AOUSC's offense severity
+code ranking.
+
+In table 9, prisoners are classified according to the offense which
+bears the longest single incarceration sentence.
+
+Estimations
+
+Several methods were used to estimate the trend data in this report.
+
+Estimated number of suspectsin criminal matters
+Because of a change in the reporting protocol for information received from
+the EOUSA effective with fiscal year 1994 data, it was necessary to estimate
+certain statistics for years 1982-1993. Prior to 1994, reports of the number
+of suspects in criminal matters included appellants in Federal criminal
+appeals. Because full-source agency data prior to 1994 could not be accessed,
+an estimation procedure was used to estimate the number of appellants within
+main offense categories and then subtract them from the number of suspects in
+criminal matters which included appellants. The procedure is described in 
+the following paragraphs.
+
+The objective was to estimate the number of appellants included in reports 
+of the number of suspects in criminal matters. This is denoted below as AEO.
+
+Using existing data on appellants derived from alternative sources, such as
+AOUSC reports, an estimator was developed based on the assumption that the
+ratio of appellants to defendants plus appellants in the EOUSA data was 
+equal to the observed ratio of appellants to appellants plus defendants in 
+the AOUSC data, or:
+
+----------------------------------------
+The number of AO appellants divided by the 
+sum of AO appellants plus AO defendants is 
+equal to the number of EO appellants divided 
+by the sum of EO appellants plus EO defendants
+
+where:
+
+ AAO = number of AO appellants
+ DAO = number of AO defendants
+ AEO = number of EO appellants
+ DEO = number of EO defendants
+
+Solving for AEO yields:
+
+Solving for the number of EO appellants yields 
+the following: AO appellants divided by the sum
+of AO appellants plus AO defendants and multiplying
+the result by the sum of EO appellants plus EO
+defendants
+------------------------------------------------
+
+Solving for AEO yields the estimator above.  This estimator was used to
+produce estimates each year between 1982 and 1993 using data from these 
+years. The estimated number of appellants in suspects in criminal matters 
+was subtracted from the reported number to derive the estimated number of
+suspects in criminal matters. These were used in figure 1. These estimates
+were done at the level of offense category (violent, property, drugs, and
+public-order).
+
+Estimated expected time to be served for offenders entering prison The
+methodology for estimating expected time to be served to first release 
+for prisoners entering the BOP system from a district court commitment
+involves grouping prisoners by their fiscal year of entry. Once this 
+grouping has occurred, each prisoner is classified into one
+of the following categories:
+
+a) a prisoner who has been released in 2002;
+
+b) a prisoner still incarcerated at the end of 2002 who was sentenced
+ prior to the passage of the Sentencing Reform Act of 1984 (an "old
+ law" prisoner);
+
+c) a prisoner still incarcerated at the end of 2002 who was sentenced
+ after to the passage of the Sentencing Reform Act (a "new law"
+ prisoner).
+
+For prisoners in category (a) actual time served is recorded.  For those
+prisoners in category (b), an estimate of time to be served is used,
+based on the mean time served by similar prisoners in previous entering 
+years (1985-98).  For prisoners in category (c) sentenced to more than 1 
+year, time to be served is 87% of the sentence imposed, which is the 
+minimum sentence to be served under the Sentencing Reform Act. For prisoners
+in category (c) sentenced to 1 year or less, time to be served is equal to 
+the sentence imposed.
+
+Statistics appearing in Federal Criminal Case Processing, 2002
+
+The statistics appearing in this report are as follows:
+
+Table 1. Suspects arrested 
+This is the number of suspects arrested by Federal law enforcement agencies
+for violations of Federal law and transferred to the custody of the U.S.
+Marshals Service for booking and pretrial detention.  Not included are
+suspects arrested by Federal agencies and transferred directly to the 
+custody of a State prosecutor.
+
+Table 2. Suspects in matters investigated by U.S. attorneys This is the 
+number of suspects in criminal matters whom U.S. attorneys spent at least 
+one hour investigating. It excludes suspects whose matters were immediately
+declined or whose matters were received via transfer from another district. 
+An immediate declination is one in which a U.S. attorney declines to 
+prosecute a criminal matter without investigating the matter. Suspects may
+include persons, corporations, or other legal entities. Matters are limited 
+to criminal matters investigated by U.S. attorneys or matters in which U.S.
+attorneys assisted in the investigation. Suspects appearing in more than one
+matter are counted separately for each matter.
+
+Table 3. Suspects in matters concluded by U.S. attorneys
+This is the number of suspects in criminal matters concluded by U.S.
+attorneys, regardless of the year in which the criminal matter was opened.  
+A matter is defined as concluded when a U.S. attorney files a case in a 
+U.S. district court before a U.S. district court judge, when a U.S. attorney
+declines to prosecute the matter, or when a misdemeanor case is concluded
+before a U.S. magistrate.  The table excludes suspects whose matter was
+declined immediately or whose matter was concluded by transfer.  Suspects in
+matters concluded may include persons, corporations, or other legal entities
+and are limited to the suspects investigated or prosecuted by U.S. attorneys,
+or in which U.S. attorneys assisted in the investigation or prosecution.
+Suspects appearing in more than one matter are counted separately for each
+matter.
+
+Table 4.  Defendants in cases commenced
+This is the number of defendants in cases proceeded in U.S. district court,
+either before a U.S. district court judge or a U.S. magistrate. Proceedings
+are initiated on or after the date a case is filed in a U.S. district court. 
+Included in the count are defendants in cases handled by U.S. district court
+judges plus Class A misdemeanors, whether handled by a U.S. district court
+judge or a U.S. magistrate.  Also included are defendants in cases involving
+petty offenses (Class B or C misdemeanors) if they were handled by U.S.
+district court judges. These cases included all cases commenced regardless 
+of the source of prosecution -- U.S. attorneys or Department of Justice. 
+Excluded from this count are defendants whose cases were opened by transfer
+from another district (e.g., a Rule 20 or Rule 40 transfer).  Defendants
+appearing in more than one case are counted separately in each case.
+
+Table 5.  Defendants in cases terminated
+This is the number of defendants whose cases were terminated in U.S. district
+court.  A case is terminated if a defendant is found not guilty, the charges
+are dismissed, or when a defendant is sentenced, if he or she was convicted. 
+Included in the count are defendants in cases handled by U.S. district court
+judges plus Class A misdemeanors, whether handled by a U.S. district court
+judge or a U.S. magistrate.  Also included are defendants in cases involving
+petty offenses (Class B or C misdemeanors) if they were handled by U.S.
+district court judges.  These cases included all cases commenced regardless 
+of the source of prosecution -- U.S. attorneys or Department of Justice. 
+Excluded from this count are defendants whose cases were opened by transfer
+from another district (e.g., a Rule 20 or Rule 40 transfer).  Defendants
+appearing in more than one case are counted separately in each case. 
+Defendants are classified as convicted if they pleaded guilty, nolo
+contendere, or if they are found guilty at trial. Defendants convicted by
+trial included those found guilty by reason of insanity.  Defendants not
+convicted includes defendants whose cases were dismissed and those who were
+acquitted or found not guilty at trial.
+
+Table 6.  Defendants sentenced
+This is the number of defendants sentenced in U.S. district court. Included
+are defendants sentenced in cases handled by U.S. district court judges plus
+Class A misdemeanors, whether handled by a U.S. district court judge or a 
+U.S. magistrate.  Also included are defendants sentenced for petty offenses
+(Class B or C misdemeanors) if they were handled by U.S. district court
+judges.  These cases included all cases commenced regardless of the source 
+of prosecution -- U.S.
+attorneys or Department of Justice.  Excluded from this count are
+defendants whose cases were opened by transfer from another district
+(e.g., a Rule 20 or Rule 40 transfer).  Defendants appearing in more
+than one case are counted separately in each case.
+
+The sanctions shown in table 5 include imprisonment only, mixed sentences 
+of prison plus supervision, probation, and fine only. Imprisonment is 
+limited to defendants receiving terms of imprisonment but no probation,
+including life and death sentences, but excluding suspended sentences or
+sentences to fewer than 4 days.  New law offenders receiving prison-
+community split sentences (prison and conditions of alternative community
+confinement) are also included. Mixed sentences include defendants given
+sentences of both prison and probation (applies to offenders sentenced under
+"old law" standards only).  Probation includes defendants given sentences of
+probation.  Defendants who received probation plus conditions of confinement
+such as intermittent confinement, home detention, or community confinement 
+are classified under probation.  Fine only includes defendants who received
+only a fine.  Other sentences include sealed sentences, prison sentences of 
+4 days or less, deportations, and cases in which the defendant was convicted
+but not given a sentence.  The statistics on mean and median prison sentences
+are based on the number given prison exclusive of life and death sentences. 
+For offenders given prison-community split sentences, only the prison 
+sentence length is included in the calculation.
+
+Table 7.  Criminal appeals filed
+This table reports the number of criminal appeals filed in the U.S. Court of
+Appeals.  Prior to implementation of the Sentencing Reform Act of 1984, only
+criminal convictions could be appealed. However, the Sentencing Reform Act
+provided for the appellate review of sentences imposed given that the 
+sentence was (1) imposed in violation of the law; (2) imposed as the result 
+of an incorrect sentencing guideline application; (3) outside the recommended
+guideline sentencing range; or (4) imposed for an offense for which no
+sentencing guideline exists and is plainly unreasonable.  Both the defendant
+and the Government have the right to appeal an imposed sentence (18 U.S.C. 
+sec 3742).
+
+Table 8.  Offenders under Federal supervision
+This table reports the number of offenders under active supervision at the
+close of the fiscal year.  It includes offenders under three forms of
+supervision:  probation, supervised release, and parole.  Included in parole
+supervisees are those under two less common types of "old law" (sentenced
+prior to the implementation of the Sentencing Reform Act of 1984), mandatory
+release and special release.  The unit of analysis is a unique person released
+on supervision.
+
+Table 9.  Prisoners
+This table reports the number of sentenced Federal offenders committed into
+the custody of the BOP, released from this custody, or in Federal prison. 
+"Into the custody of" includes prisoners in BOP facilities, contract
+facilities, and private facilities. Contract facilities generally house
+offenders prior to release from prison. Sentenced offenders include felony,
+misdemeanor, and petty offenders sentenced to prison for Federal offenses
+regardless of the judge -- U.S. district court judge or U.S. magistrate -- 
+who sentenced the offender.  Table 9 does not include those offenders who 
+were convicted of violations of the District of Columbia criminal code 
+unless they were committed by a Federal district court judge. The unit of
+analysis is a unique person in Federal prison.  The unit of count for 
+prisoner movements is based on admissions and releases into and from Federal
+prison.  A unique person may appear more than once in a column showing
+admissions and releases if that person was admitted or released from Federal
+prison more than once during the reporting period.
+
+Included in the counts of district court commitments are offenders
+sentenced from district courts. This includes some offenders sentenced by 
+U.S. magistrates. Other admissions include offenders committed from other
+courts and offenders returning to prison for violations of conditions of
+supervised release. A first release is defined as a release from a district
+court commitment. Other releases include releases of offenders who were
+serving terms for violating conditions of supervised release -- offenders 
+who were committed on other than a district court commitment.
+
+Appendix
+
+Tables
+
+A.1.  Arrests for Federal offenses, by offense,1994-2002
+
+A.2.  Suspects in criminal matters investigated by U.S. attorneys, by 
+offense, 1994-2002
+
+A.3.  Suspects in criminal matters concluded by U.S. attorneys, by offense,
+1994-2002
+
+A.4.  Suspects in criminal matters concluded by U.S. attorneys: Number
+prosecuted before U.S. district court judge, by offense,1994-2002 
+
+A.5.  Suspects in criminal matters concluded by U.S. magistrates, by
+offense, 1994-2002 
+
+A.6.  Suspects in criminal matters concluded by U.S. attorneys: Number
+declined prosecution, by offense, 1994-2002 
+
+A.7.  Defendants in cases proceeded against in U.S. district courts, by
+offense,1994-2002
+
+A.8.  Defendants in cases terminating in U.S. district courts, by offense,
+1994-2002 
+
+A.9.  Defendants in cases terminating in U.S. district courts: Percent
+convicted, by offense, 1994-2002 
+
+A.10. Offenders convicted and sentenced in U.S. district courts, by offense,
+1994-2002 
+
+A.11. Offenders convicted and sentenced in U.S. district courts: Number
+sentenced to prison, by offense, 1994-2002 
+
+A.12. Criminal appeals filed, by offense, 1994-2002
+
+A.13. Offenders convicted and sentenced in U.S. district courts: Number
+sentenced to probation only, by offense, 1994-2002
+
+A.14. Offenders convicted and sentenced in U.S. district courts: Mean
+number of months of imprisonment imposed, by offense,1994-2002
+
+A.15. Offenders under Federal supervision, by offense, 1994-2002
+
+A.16. Population at the end of the year in Federal prisons, by 
+offense, 1994-2002
+
+
+End of file
+01/12/05 ih
+ 
+
+
+
+
+
+
+
+
+
+

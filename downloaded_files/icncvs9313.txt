@@ -1,0 +1,1299 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics 
+
+*************************************************************
+Bureau of Justice Statistics Working Paper Series
+*************************************************************
+
+Interviewing Conditions in the National Crime Victimization 
+Survey, 1993-2013
+*************************************************************
+
+************************************************************
+------------------------------------------------------------
+This file is text only without graphics and many of 
+the tables. A Zip archive of the tables in this report 
+in spreadsheet format (.csv) and the full report 
+including tables and graphics in .pdf format are 
+available on BJS website 
+at:http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5725
+------------------------------------------------------------
+
+**************************************************************
+Shannan Catalano, Ph.D., BJS Statistician 
+*************************************************************
+
+*************************************************************
+Bureau of Justice Statistics
+810 Seventh Street, NW
+Washington, DC 20531
+**************************************************************
+
+************************
+NCJ 249682, August 2016
+***********************
+
+**************************************************************
+************
+Abstract:
+************
+
+Interviewing Conditions in the National Crime Victimization 
+Survey, 1993–2013, describes the circumstances under which 
+interviews are conducted with persons in the National Crime
+Victimization Survey (NCVS) from 1993 to 2013. This BJS Working 
+Paper focuses on two types of interview conditions: data 
+collection mode and privacy. Data collection mode is how the 
+interview is conducted--whether in person, during a face-to-face 
+contact, or by telephone. Interview privacy describes whether a 
+person is interviewed alone or in the presence of others during an 
+in-person interview. The Working Paper describes the level and 
+pattern of interviewing conditions in the NCVS over time, 
+highlighting variations among select survey respondent 
+characteristics. Findings cover the percentage of NCVS interviews 
+conducted in person, the percentage of in-person interviews
+conducted privately, and how these conditions vary by  
+characteristics of survey respondents. This BJS Working Paper 
+provides information on the unweighted distribution of 
+interviewing characteristics and the demographic characteristics 
+of sample respondents who responded to NCVS interviews. In
+addition, weighted data are used to examine the association among 
+interviewing conditions, crime rates, and household composition.
+************************************************************
+
+******************
+Table of Contents
+******************
+
+Abstract 
+
+Introduction
+
+1. Interviewing Conditions in the NCVS
+
+1.1 Data collection mode and interview privacy
+
+1.2 Changes in interviewing conditions over time
+
+2. Data Collection Mode in the NCVS, 1993–2013
+
+2.1 Respondent characteristics and data collection mode, 1993–2013 
+
+3. Interview Privacy in the NCVS, 1993–2013
+
+3.1 Respondent characteristics and interview privacy, 1993–2013
+
+4. Future Research
+
+Methodology
+
+******************
+List of Figures
+*****************
+
+Figure 1. Average annual type of interview, data collection 
+mode, and interview privacy in the NCVS, 2009–13 
+
+Figure 2. NCVS interviews, by type of interview and whether 
+interview was conducted in person or by telephone, 2009–13
+
+Figure 3. In-person interviews conducted with NCVS sample 
+respondents, by whether interview was conducted under private 
+or nonprivate interviewing conditions, 2009–13
+
+Figure 4. Percent of NCVS interviews, by in-person or telephone 
+interviewing conditions, 1993–2013 
+
+Figure 5. Percent of NCVS interviews conducted in person, 
+by respondent’s sex, 1993–2013
+
+Figure 6. Percent of NCVS interviews conducted in person, 
+by respondent’s age, 1993–2013
+
+Figure 7. Percent of NCVS interviews conducted in person, 
+by respondent’s race and Hispanic origin, 1993–2013 
+
+Figure 8. Percent of NCVS interviews conducted in person, 
+by respondent’s marital status, 1993–2013
+
+Figure 9. Percent of NCVS interviews conducted in person, 
+by household composition, 1993–2013
+
+Figure 10. Percent of NCVS interviews conducted in person, 
+by household income, 1993–2013 
+
+Figure 11. Proxy interviews conducted in the NCVS, 1993–2013
+
+Figure 12. Percent of NCVS in-person interviews, by private 
+or nonprivate interviewing conditions, 1993–2013 
+
+Figure 13. Percent of NCVS interviews conducted privately, 
+by respondent’s sex, 1993–2013
+
+Figure 14. Percent of NCVS interviews conducted privately, 
+by respondent’s age, 1993–2013
+
+Figure 15. Percent of NCVS interviews conducted privately, 
+by respondent’s race and Hispanic origin, 1993–2013 
+
+Figure 16. Percent of NCVS interviews conducted privately, 
+by respondent’s marital status, 1993–2013
+
+Figure 17. Percent of NCVS interviews conducted privately, 
+by household composition, 1993–2013 
+
+Figure 18. Percent of NCVS interviews conducted privately, 
+by household income, 1993–2013
+
+Figure 19. Rate of violent victimizations for single-person 
+and multiperson households, by whether in-person interview 
+was administered under private or nonprivate interviewing 
+conditions, 2009–13 
+
+****************
+List of Tables
+****************
+
+Table 1.  NCVS interviews conducted in non-English language, 
+2011–2013
+
+Table 2.  Rate of violent victimization per 1,000 persons age 
+12 or older, by in-person or telephone interviewing conditions, 
+2009–13
+
+Table 3.  Rate of violent victimization, for in-person interview, 
+by private or nonprivate interviewing conditions, 2009–13
+
+**************************
+List of Appendix Tables
+**************************
+
+Appendix table 1. Estimates for figure 1: NCVS interviews, 
+by type of interview and whether interview was conducted 
+in person or by telephone, 2009–13
+
+Appendix table 2. Estimates for figure 2: In-person interviews 
+conducted with NCVS sample respondents, by whether interview was 
+conducted under private or nonprivate interviewing conditions, 
+2009–13
+
+Appendix table 3. Estimates for figure 4: Percent of NCVS 
+interviews, by in-person or telephone interviewing conditions, 
+1993–2013
+
+Appendix table 4. Estimates for figure 5: Percent of NCVS 
+interviews conducted in person, by respondent’s sex, 
+1993–2013
+
+Appendix table 5. Estimates for figure 6: Percent of NCVS 
+interviews conducted in person, by respondent’s age, 
+1993–2013
+
+Appendix table 6. Estimates for figure 7: Percent of NCVS 
+interviews conducted in person, by respondent’s race and Hispanic 
+origin, 1993–2013
+
+Appendix table 7. Estimates for figure 8: Percent of NCVS 
+interviews conducted in person, by respondent’s marital status, 
+1993–2013
+
+Appendix table 8. Estimates for figure 9: Percent of NCVS 
+interviews conducted in person, by household composition, 
+1993–2013
+ 
+Appendix table 9. Estimates for figure 10: Percent of NCVS 
+interviews conducted in person, by household income, 
+1993–2013
+
+Appendix table 10. Respondent and household characteristics 
+of NCVS sample members, by in-person or telephone interviewing 
+conditions, 2009–13 
+
+Appendix table 11. Estimates for figure 11: Proxy interviews 
+conducted in the NCVS, 1993–2013 
+
+Appendix table 12. Estimates for figure 12: Percent of NCVS 
+in-person interviews, by private or nonprivate interviewing 
+conditions, 1993–2013 
+
+Appendix table 13. Estimates for figure 13: Percent of NCVS 
+interviews conducted privately, by respondent’s sex, 
+1993–2013
+
+Appendix table 14. Estimates for figure 14: Percent of NCVS 
+interviews conducted privately, by respondent’s age,
+1993–2013
+
+Appendix table 15. Estimates for figure 15: Percent of NCVS 
+interviews conducted privately, by respondent’s race and Hispanic 
+origin, 1993–2013
+
+Appendix table 16. Estimates for figure 16: Percent of NCVS 
+interviews conducted privately, by respondent’s marital status, 
+1993–2013
+
+Appendix table 17. Estimates for figure 17: Percent of NCVS 
+interviews conducted privately, by household composition, 
+1993–2013 
+
+Appendix table 18. Estimates for figure 18: Percent of NCVS 
+interviews conducted privately, by household income, 
+1993–2013
+
+Appendix table 19. Respondent and household characteristics 
+of NCVS sample, by whether in-person interview was conducted 
+under private or nonprivate interviewing conditions, 
+2009–13 
+
+Appendix table 20. Standard errors for table 2: Rate of violent 
+victimization, by in-person or telephone interviewing conditions, 
+2009–13 
+
+Appendix table 21. Standard errors for table 3: Rate of violent 
+victimization for in-person interview, by private or nonprivate 
+interviewing conditions, 2009–13 
+
+Appendix table 22. Rate of violent victimization for single-person 
+and multiperson households, by whether in-person interview was 
+administered under private or nonprivate interviewing conditions, 
+2009–13 
+
+Appendix table 23. Standard errors for appendix table 22: 
+Rate of violent victimization for single-person and multiperson  
+households, by whether in-person interview was administered under 
+private or nonprivate interviewing conditions, 
+2009–13
+
+***********************************************************
+
+**************
+Introduction
+**************
+
+This report is part of the Bureau of Justice Statistics’ (BJS) 
+working paper series, which is released to inform interested 
+parties of research and to encourage discussion on the topic. It 
+focuses on two types of interviewing conditions: data collection 
+mode and privacy. Interviewing conditions are the circumstances 
+under which interviews are conducted with persons in the NCVS. 
+This report describes the distribution of two interviewing 
+conditions-data collection mode and interview privacy-in the 
+NCVS. Data collection mode is how the interview is conducted--either 
+in person during a face-to-face contact or by telephone. Privacy 
+describes whether a person is interviewed alone or in the presence
+of others during an in-person interview. Interviewing conditions 
+vary for self-completed and proxy interviews (figure 1). 
+These interviewing conditions may also vary by the sample 
+characteristics and may be affected by changes in survey 
+administration over time. They are important to understand because 
+they can affect the quality of information collected from persons 
+in a survey and, consequently, the survey estimates. This report 
+focuses on self-completed interviews.
+
+For the period 2009 to 2013, 42% of National Crime Victimization 
+Survey (NCVS) self-completed interviews were conducted in person 
+and 54% were conducted by telephone (figure 2). In some instances, 
+if the household member could not complete the interview, a proxy 
+respondent was selected to respond to questions in the place 
+of that person (4%). Of those self-completed interviews that were 
+conducted in person, 47% were conducted privately and 53% were 
+conducted in a nonprivate setting with others present (figure 3). 
+Privacy can only be determined by an interviewer during an in-person 
+interview and not for telephone interviews.***Footnote 1 When the 
+interview is conducted by telephone, although FRs are instructed 
+to encourage respondents to complete the interview in a private 
+setting, FRs are unable to verify whether the respondent is alone 
+or if anyone else other than the respondent is present for any part 
+of the interview.*** 
+
+***********************************************************
+
+***************************************
+1 Interviewing Conditions in the NCVS
+***************************************
+
+1.1 Data collection mode and interview privacy
+************************************************
+
+The NCVS is a nationally representative, address-based survey 
+in which eligible persons age 12 or older living in a sampled 
+household are asked to self-report about the number and 
+characteristics of victimizations experienced during the previous 
+6 months. Persons may be interviewed up to seven times over a 
+3-year period.
+
+The NCVS is an interviewer-administered survey conducted by the 
+U.S. Census Bureau for the Bureau of Justice Statistics. 
+Interviewers, also known as field representatives, read the survey 
+questions out loud and enter the person’s answer onto the data 
+collection form. A person selected to participate in the NCVS is 
+referred to as an eligible sample member. When a person agrees to 
+participate in the NCVS and completes an interview, he or she is 
+referred to as a survey respondent. Respondent is used to refer 
+to survey respondents of the NCVS in the remainder of the report.
+
+NCVS interviews are conducted either in person or over the 
+telephone. An FR’s first contact with a sample household is always 
+attempted in person at the eligible sample member’s home. The 
+first interview with a household may be conducted during this 
+initial face-to-face contact or sample members may request a 
+telephone interview at a later time. Subsequent interviews with 
+the household may be conducted either in person or by telephone.
+
+NCVS FRs are trained to conduct all in-person interviews under 
+private conditions. For the NCVS, a private interview means that 
+only the person being interviewed and the FR were present, while 
+a nonprivate interview means that other persons (usually other 
+members of the family or household) were also present. Because 
+interviews are conducted with all eligible members of a household, 
+it is not always possible to interview all household members under 
+private interviewing conditions. Information on the presence of 
+others during an interview is determined by an FR when an in-
+person interview is conducted (figure 1).
+
+1.2 Changes in interviewing conditions over time
+**************************************************
+
+Several key aspects of NCVS survey administration have changed 
+over time, potentially affecting interviewing conditions. One 
+aspect of survey administration is whether information collected 
+during an interview is recorded using a paper and pencil 
+interviewing (PAPI) method or a computer-assisted interviewing 
+(CAI) method. From 1993 to 2006, the NCVS used a combination of 
+a paper survey (FRs wrote the survey respondent’s information 
+directly onto paper forms) and computer-assisted telephone 
+interviewing (CATI) (Census Bureau telephone interviewers 
+conducted interviews from centralized telephone facilities). 
+However, from 2006 to the present, the NCVS has used only CAI 
+methods, in which FRs enter the responses directly into a computer 
+during both in-person and telephone interviews. In an interviewer-
+administered survey like the NCVS that relies on in-person and 
+telephone interviews under CAI conditions, the survey 
+questionnaire is programmed into a laptop and the FR reads the 
+questions as they are presented on the computer screen.
+
+Over the 1993 to 2013 period, the NCVS implemented several changes 
+that affected interviewing conditions. Beginning in January 2006, 
+a new sample was introduced to the NCVS based on the 2000
+Decennial Census to account for shifts in population that occur 
+over time. This affected the percentage of in-person interviews, 
+as first interviews with new sample households are always 
+attempted in person.***Footnote 2 For more information on 
+methodological changes to the NCVS in 2006 and their effect on 
+victimization estimates, see Criminal Victimization, 2006 (NCJ 
+219413. BJS web, December 2007).*** An additional change to the 
+samples was implemented in 2010 and 2011 that potentially affected 
+interviewing conditions: Between October 2010 and June 2011, 
+sample cases that had been previously cut in the mid-2000s were 
+reinstated. The reinstated sample cases amounted to about a 24% 
+increase over the previous sample size, from about 8,500 
+households per month to 10,500. As in 2006, the introduction 
+of this new sample was associated with an increase in first-time 
+in-person interviews.
+
+A second change to NCVS survey administration involved the move 
+in 2007 from centralized to decentralized telephone interviews. 
+From 1993 through 2007, NCVS CATI interviews were initiated by
+Census Bureau interviewers located in a centralized call center. 
+CATI from a centralized call center was discontinued for the NCVS 
+in July 2007. Beginning in 2008, all NCVS CATI interviews were 
+decentralized, meaning that, like in-person interviews, they are 
+conducted by FRs working in the field.
+
+A third change that potentially affected interviewing conditions 
+was refresher training of NCVS FRs. Beginning in August 2011, 
+refresher training was conducted using an experimental split 
+sample cluster design. Half of the FRs were trained beginning in 
+2011, while the second half of FRs were trained in 2012. During 
+refresher training, special emphasis was placed on conducting NCVS 
+interviews in private when possible. In addition, following  
+refresher training, new FR performance metrics and enhanced field 
+supervision of FRs were implemented in the NCVS. Refresher 
+training, new performance metrics, and enhanced supervision may 
+be associated with an increase in in-person interviews conducted 
+privately.
+
+2. Data Collection Mode in the NCVS, 1993–2013
+***********************************************
+
+From 1993 to 2013, telephone interviews consistently accounted 
+for more than half of all completed NCVS interviews (figure 4). 
+The percentage of in-person interviews during this period 
+fluctuated between 21% and 43%.
+
+In part due to a shift away from centralized call centers, the 
+percentage of NCVS in-person interviews increased in 2006, and 
+43% of interviews were conducted in person in 2013. About 58% 
+of NCVS interviews were conducted by telephone in 2006, compared 
+to 52% in 2013.
+
+2.1 Respondent characteristics and data collection mode, 1993–2013
+*****************************************************************
+
+Although in-person interviewing in the NCVS increased from 1993 
+to 2013, the amount of the increase may have varied by the 
+characteristics of the survey respondent. Because differences 
+in interviewing conditions could result in differences in data 
+quality and reported victimization rates, it is important to 
+understand demographic differences in data collection mode over 
+time.
+
+Sex
+*****
+
+Following a slight decrease in the percentage of NCVS in-person 
+interviews from 1993 to 1997, the percentage of in-person 
+interviews generally increased at a similar pace for males and 
+females from 1998 to 2013. Among both females and males, in-person 
+interviews accounted for about 25% of interviews conducted in 
+1993, compared to about 45% in 2013 (figure 5).
+
+Age
+*****
+
+From 1993 to 2000, the percentage of NCVS interviews conducted 
+in person was generally stable for all age groups. The highest 
+percentage was observed for persons ages 18 to 24 (32% to 36%), 
+followed by persons ages 25 to 34 (28% to 30%) (figure 6). The 
+percentages were nearly equal for those ages 12 to 17 and age 35 
+or older.
+
+Beginning in 2001 across all age groups, in-person interviewing 
+accounted for an increasingly larger percentage of NCVS 
+interviews. For example, from 2001 to 2013, the number of 
+in-person interviews doubled among persons ages 12 to 17. 
+Twenty-two percent of interviews were conducted in person with 
+this age group in 2001, compared to 49% in 2013. During the same 
+period the rate of in-person interviews increased 82% among 
+persons age 35 or older, from 22% in 2001 to 42% in 2013. 
+In-person interviews also increased among persons ages 
+18 to 24 and among those ages 25 to 34.
+
+Race and Hispanic origin
+**************************
+
+From 1993 to 2013, white non-Hispanics consistently had the lowest 
+rates of in-person interviews compared to black non-Hispanics and 
+persons of other races (which includes American Indian, Alaska
+Native, Asian, and Pacific Islander) (figure 7). Although white 
+non-Hispanics accounted for the smallest percentage of in-person 
+interviews in 1993, in-person interviewing among this group nearly 
+doubled between 1993 (18%) and 2013 (41%). Beginning in 2004, the 
+percentage of interviews conducted in person among this group 
+generally increased each year until 2011. From 2011 to 2013, the 
+percentage of in-person interviews among whites remained stable 
+at about 41%.
+
+In contrast, persons of Hispanic or Latino origin consistently had 
+the highest percentage of in-person interviews, followed by blacks 
+and African Americans and persons of other races. Although the 
+highest percentage of in-person interviews was observed among 
+Hispanics, a relatively smaller percentage increase was observed 
+among this group from 1993 to 2013. Among Hispanics, in-person 
+interviews decreased from 45% of all interviews in 1993 to 38% 
+in 1995, and then fluctuated between 37% and 39% from 1996 to 2001. 
+Beginning in 2002, in-person interviews among this group generally 
+increased each year until 2013, when it reached 58% of interviews.
+
+Among blacks, following a period of general stability from 1993 
+to 2001, in-person interviewing generally increased each year, 
+from 39% in 2004 to 53% in 2013. Among persons of other races, 
+in-person interviews accounted for 29% to 34% of all interviews 
+from 1993 to 2003. By 2013, in-person interviews had increased 
+to account for 48% of NCVS interviews conducted with this group.
+
+Marital status
+****************
+
+From 1993 to 2013, the highest percentage of in-person interviews 
+was consistently observed among persons who were separated, 
+followed by persons who were never married and those who were 
+divorced or widowed (figure 8).
+
+From 1993 to 2001, a similar percentage of in-person interviews 
+were conducted among persons who were never married and divorced 
+or widowed. Beginning in 2002, in-person interviews conducted with 
+persons who were never married began increasing at a faster rate 
+than interviews with persons who were divorced or widowed. By 
+2013, a higher percentage of persons who were never married were 
+interviewed in person than those who were divorced or widowed.
+
+From 1993 to 2005, the lowest percentage of in-person interviews 
+was consistently observed for persons who were married. Beginning 
+in 2006, in-person interviews of married persons generally 
+increased each year, steadily converging with the percentage of 
+in-person interviews observed for divorced or widowed persons. In 
+2013, the percentages of in-person interviews observed for married 
+and divorced or widowed persons were about equal, accounting for 
+42% to 43% of all NCVS interviews conducted with these two groups.
+
+In-person interviews decreased slightly for persons in all marital 
+status groups from 1993 to 1997, and remained generally stable 
+from 1998 to 2000. Beginning in 2001, the percentage of in-person 
+interviews conducted generally increased each year for all marital 
+status groups.
+
+For those who were never married, in-person interviews increased 
+from 29% of all interviews in 2001 to 51% in 2013. From 2001 to 
+2013, the percentage of NCVS interviews conducted in person also 
+increased for persons who were separated and divorced or widowed.
+
+Household composition
+***********************
+
+From 1993 to 2013, the highest percentage of in-person interviews 
+was consistently observed for households composed of a single 
+adult with children (figure 9). From 1993 to 2008, households 
+composed of a single adult without children had the second largest 
+percentage of in-person interviews. Beginning in 2007, the 
+percentage of in-person interviews among households composed 
+of a single adult without children stabilized, accounting for 
+43% to 45% of all their interviews until 2013. From 2007 to 2013, 
+the percentage of in-person interviews among households composed 
+of two or more adults with children steadily increased, from 38% 
+in 2007 to 48% in 2013. From 2010 to 2013, a higher percentage 
+of in-person interviews were conducted with households composed 
+of two or more adults with children than with households composed 
+of a single adult without children.
+
+In comparison, the percentages of in-person interviews conducted 
+with households composed of two or more adults and two or more 
+adults with children were about equal from 1993 to 2008. Beginning 
+in 2008, in-person interviews increased at a faster rate for 
+households composed of two or more adults with children than for 
+two-adult households. By 2013, the two groups were no longer 
+similar in their percentage of in-person interviews. 
+
+Although in-person interviews increased for all household 
+composition groups, the greatest percentage increase was observed 
+for households composed of two or more adults and two or more 
+adults with children. Among these households, the percentage of 
+in-person interviews decreased slightly from 1993 to 1997 and then 
+generally increased each year until 2006. After a slight decrease 
+in 2007, the percentage of in-person interviews generally 
+increased each year from 2008 to 2011 before stabilizing in
+2012 and 2013.
+
+From 2001 to 2011, in-person interviews among two-person 
+households increased, from 23% in 2001 to 42% in 2011. From 2011 
+to 2013, NCVS interviews conducted in person accounted for
+42% of interviews among these households.
+
+During the same period, in-person interviews among households 
+composed of two or more adults with children increased more than 
+twofold, from 23% in 2001 to 48% in 2011. From 2011 to 2013, NCVS 
+interviews conducted in person accounted for 48% of interviews 
+among these households.
+
+In-person interviews conducted in households composed of a single 
+adult without children decreased from 33% in 1993 to 27% in 1997. 
+From 1998 to 2000, in-person interviews accounted for about 28% 
+of all interviews conducted in these households, compared to 30% 
+in 2001 and 45% in 2006. In-person interviews among households 
+composed of a single adult with no children did not increase from
+2007 to 2013, but fluctuated between 43% and 44%.
+
+Household income
+*******************
+
+From 1993 to 2013, the lowest percentage of in-person interviews 
+was consistently observed for households earning $50,000 or more 
+annually while the highest percentage of in-person interviews was 
+generally observed for households earning less than $24,999 
+annually (figure 10).
+
+Observed differences among household income categories were 
+generally stable from 1993 to 2002, but began converging among 
+some income category groups by 2003. For example, from 1993 to
+2002, households earning $24,999 or less annually had a higher 
+percentage of in-person interviews, compared to households of 
+other income categories. From 2003 to 2005, similar annual 
+percentages of in-person interviews were observed for households 
+earning $24,999 or less and households with unknown annual income. 
+Beginning in 2006, in-person interviews among households earning 
+$24,999 or less annually generally increased each year and 
+remained higher than households of other income categories 
+through 2013. 
+
+A similar pattern was observed among households whose income was 
+unknown. From 1993 to 2005, these households had consistently 
+higher percentages of in-person interviews than households earning 
+$25,000 or more annually. However from 2006 to 2013, similar 
+annual percentages of in-person interviews were observed among 
+households with unknown income and households earning $25,000 
+to $49,999 annually.
+
+From 1993 to 2013, the greatest percentage increase was observed 
+among households earning $50,000 or more annually. Among these 
+households, in-person interviews increased nearly threefold, from
+13% in 1993 to 38% in 2013. During the same period, in-person 
+interviews among households earning $25,000 to $49,999 annually 
+increased more than twofold, from 20% of all interviews conducted 
+with these households in 1993 to 47% in 2013.
+
+The percentage of NCVS interviews conducted in person also 
+increased among households earning less than $24,999 annually 
+(up 54%). Compared to other household income groups, the smallest
+increase between 1993 and 2013 was observed among households whose 
+income level was unknown (up 48%).***Footnote 3 Although more than 
+half of NCVS interviews were conducted by telephone from 2009 to 
+2013, the type of interview varied by the survey respondent’s 
+characteristics. Some persons were interviewed more frequently in 
+person than by telephone. See appendix table 10 for more detailed 
+information about demographic subgroups for 2009 to 2013.***
+
+***********************************************************
+******************************
+Proxy Interviews in the NCVS
+******************************
+
+The NCVS is a self-report survey in which respondents are asked 
+directly about their experiences with criminal victimization. In 
+some instances, a person in the household is allowed to answer 
+questions for another household member in what is called a proxy 
+interview. During data collection, a decision can be made to use 
+proxy interviewing instead of direct interviewing for the 
+following reasons:
+
+* A parent or guardian refuses to allow a child age 12 or 13 
+to be interviewed. In this case, any knowledgeable household 
+member who is at least age 18 can be a proxy respondent for 
+the child.
+
+* A household member is temporarily absent and will not return 
+to the address until after the data collection period for the 
+household has ended.
+
+* A household member is considered physically or mentally 
+incapacitated. To qualify as physically or mentally incapacitated, 
+the household member must have health or mental illness problems 
+that are continuous throughout the interview period and make it 
+impossible for the person to be interviewed.
+
+In a proxy interview, the interviewer asks a proxy respondent 
+questions and the proxy respondent answers the questions in the 
+place of the person for whom the interview is being conducted. 
+The quality of data gathered from a proxy respondent is associated 
+with the proxy’s knowledge of the event, the proxy’s relationship 
+to the respondent, and the saliency of the event being reported.
+
+The percentage of proxy interviews conducted in the NCVS has 
+remained generally stable over time, comprising 3% to 5% of all 
+completed interviews from 1993 to 2013 (figure 11). Similar to 
+self-report interviews, proxy interviews in the NCVS can be 
+conducted in person or by telephone. For the period 2009 to 2013, 
+2% of all interviews conducted that were by proxy were in person 
+and 3% were by telephone (appendix table 1). Proxy interviews are 
+most common in larger households and among persons ages 12 to 17 
+and those age 65 or older (not shown). Proxy interviews are not 
+allowed for non-English interviews in the absence of a suitable 
+interpreter.
+
+Non-English Interviews in the NCVS, 2011–13
+*********************************************
+
+NCVS questionnaires are available in English and Spanish but 
+interviews can be conducted in other languages if an interpreter 
+is available. For all non-English interviews, field 
+representatives (FRs) may use an interpreter if it is acceptable 
+to the person being interviewed. An interpreter may be a family 
+member, a neighbor of the person being interviewed, an official 
+interpreter, or the FR if he or she is fluent in the language of 
+the person being interviewed. If it is difficult to find a   
+suitable interpreter, field supervisors may help FRs obtain 
+assistance in completing a non-English interview. Information on 
+interview language was added to the NCVS in 2011 but is not 
+available in the public-use files collected before 2011.
+
+For the period 2011 to 2013, an average of about 6,700 non-English 
+interviews (4.3% of all NCVS interviews) were conducted annually 
+(table 1). About 85% of non-English NCVS interviews were conducted
+in Spanish and 5% were conducted in Chinese, while Vietnamese 
+(2%), Russian (1%), and Korean (1%) accounted for smaller 
+percentages of non-English interviews. Six percent of non-English 
+interviews were conducted in other languages.
+***********************************************************
+
+3. Interview Privacy in the NCVS, 1993–2013
+**********************************************
+
+NCVS interviewing protocols require FRs to interview respondents 
+privately when possible to ensure that respondents are able to 
+provide what is often personal and sensitive information about 
+their experiences. However, a private interview is not always 
+feasible, such as when a person refuses to be interviewed 
+privately, when multiple persons reside in a small space such 
+as a studio apartment, or when others (such as the parent 
+of a 12-year-old child) refuse to allow the respondent 
+to be interviewed privately. In other cases, a parent 
+or another person may be caring for a young child or an older 
+relative, or may have other caregiver responsibilities.
+
+From 1993 to 2011, 41% to 45% of in-person interviews were 
+conducted privately (figure 12). The percentage increased in 2011, 
+and in 2012 and 2013 the percentages conducted under private and
+nonprivate interviewing conditions were about equal. The increase 
+in interviews conducted in private may be attributed to NCVS 
+refresher training, new FR performance metrics, and enhanced field 
+supervision of FRs implemented in the NCVS beginning in 2011. In 
+2013, 51% of in-person interviews were conducted privately with 
+the respondent and 49% were conducted under nonprivate 
+interviewing conditions, with the person being interviewed in the 
+presence of others.
+
+3.1 Respondent characteristics and interview privacy, 1993–2013
+****************************************************************
+
+Overall interview privacy was generally stable from 1993 until 
+2006. Beginning in 2007, the percentage of in-person interviews 
+conducted privately generally increased each year until 2013. In 
+addition, privacy during NCVS interviews varied over time 
+according to the characteristics of the survey respondent.
+
+Sex
+*****
+
+From 1993 to 2010, 41% to 44% of NCVS interviews with males and 
+females were conducted privately (figure 13). Private interviews 
+increased for males and females between 2010 and 2013. Among 
+males, 43% of interviews were conducted private in 2010, compared 
+to 52% in 2013. Similarly among females, private interviews 
+increased 18% during the same period (from 42% in 2010 to 50% 
+in 2013).
+
+Age
+*****
+
+From 1993 to 2013, the highest percentage of private interviews 
+was observed for persons age 35 or older, followed by persons ages 
+18 to 24 and those ages 25 to 34 (figure 14). Private interviews 
+accounted for similar percentages of in-person interviews 
+conducted with persons ages 18 to 24 and those ages 25 to 34. 
+In comparison, the lowest percentage of private interviews was 
+consistently observed for persons ages 12 to 17.
+
+Among all age groups examined, the percentage of in-person NCVS 
+interviews conducted privately was generally stable from 1993 to 
+2009, and generally increased each year among all age groups from 
+2010 to 2013. The largest increase in private interviews was 
+observed among persons ages 12 to 17, from 16% of all interviews 
+in 2008 to 26% in 2013. Private in-person interviews also   
+increased among persons ages 18 to 24 (from 39% in 2008 to 49% in 
+2013) and among those ages 25 to 34 (from 42% in 2008 to 51% in 
+2013).
+
+Private interviews also increased among persons age 35 or older. 
+Between 2008 and 2010, the percentage of NCVS interviews conducted 
+privately with this group increased, from 46% of all interviews
+in 2008 to 54% in 2013.
+
+Race and Hispanic origin
+*************************
+
+From 1993 to 2013, black and white survey respondents had the 
+highest percentage of private interviews (figure 15). During the 
+same period, persons of other races had a lower percentage of 
+private interviews than whites or blacks but a higher percentage 
+than Hispanics. From 1993 to 2013, the lowest percentage of in-
+person interviews was consistently observed for Hispanic survey 
+respondents.
+
+From 1993 to 2011, the percentage of private interviews among 
+whites was generally stable, fluctuating from 42% to 47% of all 
+in-person interviews conducted with this group. However, private 
+interviews increased among whites, from 47% in 2010 to 53% in 
+2013.
+
+The percentage of privately conducted interviews among blacks 
+increased in 1997 to be similar to whites. From 1997 to 2001, 
+blacks and whites generally had similar percentages of privately 
+conducted interviews annually. The percentage of private 
+interviews among blacks increased from 43% in 1993 to
+49% in 2002. From 2002 to 2010, private interviews among blacks 
+fluctuated, accounting for 46% to 49% of all in-person interviews 
+conducted with this group. From 2011 to 2013, private interviews 
+among blacks increased from 52% of all in-person interviews in 
+2011 to 58% in 2013.
+
+Private interviews also increased among persons of other races and 
+Hispanics. For persons of other races, the percentage of private 
+interviews increased from 31% in 1993 to 35% in 1994. From 1994 to
+2001, private interviews among persons of other races accounted 
+for about 33% of all in-person interviews conducted with this 
+group. Between 2001 and 2013, private interviews among persons of 
+other races increased from 33% in 2001 to 49% in 2013.
+
+For Hispanics, private interviews increased from 24% in 1993 to 
+29% in 1995. From 1996 to 2000, private interviews among Hispanics 
+ranged from 25% to 27% of in-person interviews conducted with this 
+group. However, between 2000 and 2005, private interviews among 
+Hispanics generally increased each year, with private interviews 
+accounting for 29% of all interviews in 2001 and 32% in 2005. From 
+2005 to 2011, 29% to 34% of all in-person interviews with 
+Hispanics were conducted privately, increasing to 39% in 2012 and 
+42% in 2013.
+
+Marital status
+*****************
+
+From 1993 to 2013, the highest percentage of private interviews 
+was observed for survey respondents who were divorced or widowed, 
+followed by persons who were separated and those who never 
+married. The lowest percentage of private interviews was 
+consistently observed for persons who were married (figure 16).
+
+From 1993 to 2011, the percentage of private interviews was 
+generally stable among persons who never married and those who 
+were married. During the same period, 41% to 44% of all interviews 
+for persons who never married were conducted privately, which 
+increased to 51% in 2013. For married persons, 30% to 37% of all 
+interviews were private from 1993 to 2011. This increased to 43% 
+in 2013.
+
+Among persons who were separated, the percentage of in-person 
+interviews conducted privately increased steadily from 1993 to 
+2013, from 50% in 1993 to 55% in 2001 and 59% in 2009. In 2013, 
+62% of in-person interviews with separated persons were conducted 
+under private interviewing conditions.
+
+From 1993 to 2011, 63% to 68% of NCVS interviews were conducted 
+privately among persons who were divorced or widowed. The 
+percentage of private interviews among this group increased 
+to about 71% in 2012 and 2013.
+
+Household composition
+**********************
+
+From 1993 to 2013, the lowest percentage of private interviewing 
+was consistently observed for households composed of two or more 
+adults with children (figure 17). Among households composed of two 
+or more adults with children, private interviews accounted for 23% 
+to 27% of in-person interviews from 1993 to 2005, before 
+increasing to 30% in 2009. By 2013, private interviews accounted 
+for 38% of in-person interviews conducted among these households.
+
+Lower percentages of private interviewing were also observed for 
+households composed of a single adult with children. From 1993 
+to 1998, the percentage of privately conducted interviews observed 
+for this group was generally stable, ranging from 29-31%. Between 
+1999 and 2010, the percentage of privately conducted interviews 
+conducted with households composed of a single adult with children 
+ranged from 35% to 42%. Beginning in 2010, private interviewing 
+generally increased each year until 2013 when the percentage of 
+privately conducted interviews among these households increased 
+to 48%.
+
+From 1993 to 2013, the highest percentage of private interviews 
+was observed for survey respondents who resided in households 
+composed of a single adult without children. During this period, 
+about 90% of in-person interviews among these households were 
+conducted under private interviewing conditions, a substantially 
+higher percentage than observed for any other household group.
+
+From 1993 to 2010, among households composed of two or more 
+adults, 33% to 39% of in-person interviews were conducted 
+privately, increasing to 46% in 2012 and 2013.
+
+From 1993 to 1998, among households composed of a single adult 
+with children, 29% to 31% of in-person interviews were conducted 
+privately, which increased to 38% in 1999. From 1999 to 2006,
+private interviews accounted for 35% to 38% of in-person 
+interviews among these households, and increased to 42% in 2009 
+and 48% in 2013.
+
+Household income
+******************
+
+From 1993 to 2004, the highest percentage of private interviews 
+was observed for households with an unknown income level (figure 
+18). Beginning in 2005, the percentage of private interviews among 
+households earning less than $24,999 annually was about equal to 
+that observed for households with an unknown income. From 2005 
+to 2013, households in both of these income categories had the 
+highest percentages of in-person private interviews.
+
+From 1993 to 1999, households with incomes of less than $24,999, 
+$25,000 to $49,999, and$50,000 or more had similar percentages 
+of private interviews. From 2000 to 2013, the percentage of
+private interviews was lowest among households earning $25,000 
+to $49,999 and $50,000 or more, while the percentage of private 
+interviews during this period either increased or remained stable 
+among households in other income categories.
+
+Among households earning less than $24,999 annually, 40% to 42% 
+of in-person interviews were conducted privately from 1993 to 1999. 
+From 1999 to 2007, privately conducted interviews generally 
+increased each year in this income category, accounting for 48% 
+of in-person interviews conducted in 2007. Between 2007 and 2010, 
+46% to 49% of interviews were conducted privately, increasing 
+to 54% in 2013.
+
+From 1993 to 2011, among households earning $25,000 to $49,999, 
+37% to 42% of interviews were conducted privately. In 2012 and 
+2013, private interviews accounted for 48% of in-person interviews 
+in this income category.
+
+Among households earning $50,000 or more annually, the percentage 
+of privately conducted interviews declined from 44% in 1993 to 36% 
+in 2007. From 2007 to 2013, the percentage of private interviews 
+generally increased each year in this income category (40% in 
+2009, 42% in 2011, and 49% in 2013).
+
+Between 1993 and 2011, among households with an unknown income, 
+44% to 49% of in-person interviews were conducted privately, 
+increasing to 53% in 2013. ***Footnote 4 Although 53% of NCVS 
+interviews were conducted nonprivately from 2009 to 2013, the mix 
+of private and nonprivate interviews varied according to the 
+characteristics of the survey respondent. When examined by 
+respondent characteristics, privately conducted interviews 
+accounted for the majority of interviews among certain subgroups. 
+In addition, among some subgroups, private and nonprivate interviews 
+were conducted at about similar percentages. See appendix table 19 
+for more detailed information about demographic subgroups for 
+2009 to 2013.***
+
+********************
+4. Future Research
+********************
+
+The variables examined in these analyses may be associated with 
+each other and with other variables not included in the analyses. 
+Additional research could investigate how these complex
+relationships are associated with survey estimates of criminal 
+victimization. For example, from 2009 to 2013, differential rates 
+of criminal victimization were associated with the data collection 
+mode. From 2009 to 2013, the rate of serious violent crime associated 
+with in-person interviews (11 victimizations per 1,000 persons 12 
+or older) was more than two times higher than the rate of serious 
+violent crime associated with telephone interviews (5 per 1,000) 
+(table 2). These observed differences may be due to the 
+interviewing  conditions or the composition of respondents in 
+each of the mode groups.
+
+Similar associations were found when persons were interviewed 
+alone versus with others. During the period 2009 to 2013, the 
+rate of serious violent crime associated with private interviews 
+(12 per 1,000) was 1.4 times higher than the rate associated with 
+nonprivate interviews (9 per 1,000) (table 3). Higher rates of 
+violent victimization associated with private interviews may 
+occur because respondents choose not to reveal victimizations 
+when others are present, particularly if the offender is 
+another household member or if the victimization reveals sensitive 
+information about the respondent or causes embarrassment.
+
+To examine this in more detail, comparisons between victimization 
+rates are made by whether a person lives alone or in a multiperson 
+household with others and whether the interview took place privately
+or in the presence of others. If interview privacy and household 
+composition are jointly associated with a reduction in the level 
+of reported victimizations on the survey, there should be a 
+difference between victimizations among persons living with others 
+when they are interviewed alone compared to when others are present, 
+but this difference should not be observed between private and
+nonprivate interviews conducted among persons who live alone.
+
+Among persons living in multiperson households, the overall rate 
+of serious violent victimization was 10 victimizations per 
+1,000 persons age 12 or older (figure 19). However when examined 
+by interview privacy, rates of serious violence were significantly 
+higher among persons who were interviewed privately and significantly 
+lower among persons who were interviewed non-privately.
+
+Among persons residing in multiperson households who were interviewed 
+privately, the rate of violent victimization was 12 per 1,000, or 1.4 
+times higher than the observed rate of serious violent victimization 
+among persons residing in multiperson households who were interview 
+non-privately (9 per 1,000) (appendix table 22).
+
+In contrast, among respondents who lived alone, no significant 
+differences were observed between in-person private interviews 
+(35 per 1,000) and in-person nonprivate interviews (34 per 1,000). 
+The absence of observed differences in victimization rates for private 
+and nonprivate interviews conducted with persons who live alone can be 
+important because it suggests that household composition accounts
+for some portion of the association between victimization rates and 
+privacy. These findings suggest that privacy in multi-person households 
+is important and that additional compositional variables, such as the
+demographic variables examined in these analyses, could also be 
+associated with interviewing conditions and survey response.
+
+To examine the association between privacy and single person and 
+multiperson households in more detail, comparisons between 
+victimization rates among respondent who lived with others but 
+were interviewed privately are compared to overall in-person rates 
+of victimization among respondents who lived alone. The overall 
+in-person rate for live alone households was examined because the 
+focus of the comparison is on ascertaining whether victimization 
+rates observed in private interviews with respondents in multiperson 
+households approximate rates observed among respondents in single-
+person households, regardless of whether the single person household 
+interview was conducted privately.
+
+Among respondents who lived with others, the rate of rape and sexual 
+assault (2 per 1,000 persons age 12 or older) was identical to the 
+observed rate of rape and sexual assault among in-person interviews
+conducted with respondents who live alone (appendix table 22). Further, 
+no significant differences were observed when comparing rates of robbery, 
+aggravated assault, or simple assault for respondents from multiperson 
+households who were interviewed privately and respondents residing in 
+single-person households. This finding suggests that additional factors, 
+such as household composition, can affect the association between 
+interviewing conditions and rates of victimization. Additional research 
+is needed to better understand the effect of interview privacy on 
+victimization rates in these different contexts.
+
+Further investigations could also examine whether the type of person 
+who is present during a nonprivate interview is associated with 
+differential survey estimates under private and nonprivate interviewing 
+conditions. This report focused on whether someone other than the FR 
+and survey respondent was present during the interview, but the NCVS 
+collects far more detailed information on the exact nature of the other 
+persons who are present, including whether it was the respondent’s 
+spouse, other household members, or nonhousehold members. For example,
+the presence of a parent may influence the responses provided during 
+a teenager’s interview, and the presence of a spouse may influence 
+the responses provided by a male or female survey respondent.
+
+In addition, the association between interviewing conditions and NCVS-
+specific design features deserves further investigation. Survey 
+respondents in the NCVS are interviewed seven times over the course 
+of 3 years, and interviewing conditions (such as mode and privacy) 
+are associated with the interview number in which a person is responding. 
+This report did not examine these types of complex relationships 
+between interviewing conditions, respondent characteristics, survey rates, 
+estimates of crime, and survey design aspects of the NCVS.
+
+A final avenue of research should investigate the quality profile of NCVS 
+data collected under different interviewing conditions. Survey 
+questionnaires can be administered in a number of ways, including face to 
+face, telephone, mail, and internet. Each mode has unique advantages and 
+disadvantages related to cost, data quality, nonresponse, flexibility, 
+and timeliness. An analysis of the data derived from different 
+interviewing conditions can shed light on whether NCVS data quality 
+varies across different interviewing conditions.
+
+**************
+Methodology
+**************
+
+Survey coverage
+******************
+
+The National Crime Victimization Survey (NCVS) is an annual data collection 
+conducted by the U.S. Census Bureau for the Bureau of Justice Statistics 
+(BJS). The NCVS is a self-report survey in which interviewed persons are 
+asked about the number and characteristics of victimizations experienced 
+during the previous 6 months. The NCVS collects information on nonfatal 
+personal crimes (rape or sexual assault, robbery, aggravated assault, 
+simple assault, and personal larceny) and household property crimes
+(burglary, motor vehicle theft, and other theft) both reported and not 
+reported to police. In addition to providing annual level and change 
+estimates on criminal victimization, the NCVS is the primary source 
+of information on the nature of these incidents.
+
+Persons provide information about themselves (e.g., age, sex, race 
+and Hispanic origin, marital status, education level, and income) 
+and whether they experienced a victimization. For each victimization
+incident, the NCVS collects information about the offender (e.g., age, 
+sex, race and Hispanic origin, and victim–offender relationship), 
+characteristics of the crime (e.g., time and place of occurrence, 
+use of weapons, nature of injury, and economic consequences), whether 
+the crime was reported to police, reasons the crime was or was not 
+reported, and victim experiences with the criminal justice system.
+
+The NCVS is administered to persons age 12 or older from a nationally 
+representative sample of households in the United States. The NCVS defines 
+a household as a group of persons who all reside at a sampled address. 
+Persons are considered household members when the sampled address is their 
+usual place of residence at the time of the interview and when they have no 
+usual place of residence elsewhere. Once selected, households remain in the 
+sample for 3 years, and eligible persons in these households are interviewed 
+every 6 months either in person or over the phone, for a total of seven 
+interviews.
+
+All first interviews are conducted in person, and subsequent interviews 
+are conducted either in person or by phone. New households rotate into 
+the sample on an ongoing basis to replace outgoing households that have 
+been in the sample for the 3-year period. The sample includes persons 
+living in group quarters (such as dormitories, rooming houses, and religious 
+group dwellings) and excludes persons living in military barracks and 
+institutional settings (such as correctional or hospital facilities) 
+and persons who are homeless.
+
+Describing the NCVS sample
+****************************
+
+The data presented in Sections 1–3 of this BJS Working Paper describe 
+the unweighted distribution of interviewing conditions in the NCVS 
+and the demographic characteristics of sample respondents who responded 
+to NCVS interviews. Because these descriptive analyses are limited to the
+NCVS sample, they do not represent a national estimate. As a result, tables 
+describing the NCVS sample are based on unweighted data and all differences are 
+actual. 
+
+Nonresponse and weighting adjustments
+**************************************
+
+Estimates in Section 4 of this BJS Working Paper use data from the 
+1993 to 2013 NCVS data files that were weighted to produce annual estimates 
+of victimization for persons age 12 or older living in U.S. households. 
+Because the NCVS relies on a sample rather than a census of the entire 
+U.S. population, weights are designed to inflate sample point estimates 
+to known population totals and to compensate for survey nonresponse 
+and other  aspects of the sample design.
+
+The NCVS data files include both person and household weights. Person 
+weights provide an estimate of the population represented by each person 
+in the sample. Household weights provide an estimate of the U.S. household 
+population represented by each household in the sample. 
+
+In 2013, a weighted total of 90,630 households and 160,040 persons age 12 
+or older were interviewed for the NCVS. Each household was interviewed 
+twice during the year. The response rate was 84% for households and 
+88% for eligible persons. Victimizations that occurred outside of the 
+United States were excluded from this report. In 2013, less than 1% 
+of the unweighted victimizations occurred outside of the United States 
+and were excluded from the analyses.
+
+Victimization weights used in this analysis account for the number 
+of persons present during an incident and for high-frequency repeat 
+victimizations (i.e., series victimizations). Series victimizations 
+are similar in type but occur with such frequency that a victim is unable
+to recall each individual event or describe each event in detail. Survey 
+procedures allow NCVS interviewers to identify and classify these similar 
+victimizations as series victimizations and to collect detailed information 
+on only the most recent incident in the series.
+
+The weight includes series incidents as the actual number of incidents 
+reported by the victim, up to a maximum of 10 incidents. Including series 
+victimizations in national rates results in large increases in the level 
+of violent victimization. However, trends in violence are generally
+similar, regardless of whether series victimizations are included. In 2013, 
+series incidents accounted for about 1% of all victimizations and 4% of all 
+violent victimizations. Weighting series incidents as the number of incidents 
+up to a maximum of 10 produces more reliable estimates of crime levels, while 
+the cap at 10 minimizes the effect of extreme outliers on rates. Additional 
+information on the series enumeration is detailed in the report Methods 
+for Counting High-Frequency Repeat Victimizations in the National Crime 
+Victimization Survey (NCJ 237308, BJS web, April 2012).
+
+Standard error computations
+*****************************
+
+When national estimates are derived from a sample, as with the NCVS, 
+it is important to use caution when comparing one estimate to another 
+estimate or when comparing estimates over time. Although one estimate 
+may be larger than another, estimates based on a sample have some degree 
+of sampling error. The sampling error of an estimate depends on several 
+factors, including the amount of variation in the responses and the size 
+of the sample. When the sampling error around an estimate is taken into 
+account, the estimates that appear different may not be statistically 
+different. One measure of the sampling error associated with an estimate 
+is the standard error. The standard error can vary from one estimate 
+to the next. Generally, an estimate with a small standard error provides 
+a more reliable approximation of the true value than an estimate with 
+a large standard error. Estimates with relatively large standard 
+errors are associated with less precision and reliability and 
+should be interpreted with caution.
+
+To generate standard errors around numbers and estimates from the NCVS, 
+the Census Bureau produced generalized variance function (GVF) parameters 
+for BJS. The GVFs take into account aspects of the NCVS’s complex sample 
+design and represent the curve fitted to a selection of individual 
+standard errors based on the Jackknife Repeated Replication technique.
+The GVF parameters were used to generate standard errors for each point 
+estimate (e.g., counts, percentages, and rates) in this report.
+
+For data presented in Section 4, BJS conducted tests to determine whether 
+differences in estimated numbers, percentages, and rates in this report 
+were statistically significant once the sampling error was taken into 
+account. Using statistical programs developed specifically for the NCVS, 
+all comparisons in the text were tested for significance. The primary 
+test procedure was the Student’s t-statistic, which tests the difference 
+between two sample estimates. Differences described as higher, lower, 
+or different passed a test at the 0.05 level of statistical significance 
+(95% confidence level). Differences described as somewhat, slightly, 
+or marginally different,   or with some indication of difference, 
+passed a test at the 0.10 level of statistical significance (90% 
+confidence level). Caution must be taken when comparing estimates 
+not explicitly discussed in this report.
+
+Data users can work with the estimates and the standard errors of the 
+estimates provided in this report to generate a confidence interval 
+around the estimate as a measure of the margin of error. The following 
+example illustrates how standard errors can be used to generate
+confidence intervals:
+
+According to the NCVS, for the period 2009 to 2013, the rate of violent 
+crime for in-person self-interviews was 30.1 per 1,000 persons 
+(see table 2). Using the GVFs, it was determined that the estimated 
+victimization rate has a standard error of 1.5 (see appendix table 20). 
+A confidence interval around the estimate was generated by multiplying 
+the standard errors by ±1.96 (the t-score of a normal, two-tailed 
+distribution that excludes 2.5% at either end of the distribution). 
+Therefore, the 95% confidence interval around the 30.1 estimate is 
+30.1 ± (1.5 × 1.96) or (27.1 to 33.0). In other words, if different 
+samples using the same procedures were taken from the U.S. population, 
+95% of the time the violent crime rate for in-person interviews would
+fall between 27.1 and 33.0 per 1,000 persons.
+
+In this report, BJS also calculated a coefficient of variation (CV) 
+for all estimates, representing the ratio of the standard error 
+to the estimate. CVs provide a measure of reliability and a means 
+to compare the precision of estimates across measures with differing 
+levels or metrics. In cases in which the CV was greater than 50%, 
+or the unweighted sample had 10 or fewer cases, the estimate was 
+noted with a “!” symbol (interpret data with caution; estimate based
+on 10 or fewer sample cases, or the coefficient of variation is 
+greater than 50%).
+
+Methodological changes to the NCVS in 2006
+*********************************************
+
+It was originally thought that methodological changes implemented 
+in 2006 might have affected the crime estimates for that year 
+to such an extent that they are not comparable to estimates from 
+other years. BJS and the Census Bureau conducted an evaluation 
+of 2007 and later data from the NCVS and found a high degree 
+of confidence that estimates for 2007 through 2013 are consistent 
+with and comparable to estimates for 2005 and previous years. 
+See the Criminal Victimization series of reports for 2006 to 2014 
+on the BJS website.
+
+***********************************************************
+The Bureau of Justice Statistics of the U.S. Department 
+of Justice is the principal federal agency responsible 
+for measuring crime, criminal victimization, criminal
+offenders, victims of crime, correlates of crime, and the 
+operation of criminal and civil justice systems at the federal, 
+state, tribal, and local levels. BJS collects, analyzes, and 
+disseminates reliable and valid statistics on crime and justice
+systems in the United States, supports improvements to state and 
+local criminal justice information systems, and participates 
+with national and international organizations to develop and 
+recommend national standards for justice statistics.
+Jeri M. Mulrow is acting director.
+
+This report was written by Shannan Catalano, BJS Statistician. 
+Erika Harrell, BJS Statistician verified the report.
+
+Irene Cooperman and Brigitte A. Coulton edited the report. 
+Barbara Quinn and Tina Dorsey produced the report.
+
+August 2016, NCJ 249682
+***********************************************************
+
+************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+************************************************
+
+********************
+8/4/16 JER 10:50am
+********************
+
+
+
+

@@ -1,0 +1,617 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+****************************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5704
+****************************************************************
+
+**************************************************************
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to http://www.bjs.gov/index.cfm?ty=pbse&sid=77
+************************************************************
+
+******************************
+TECHNICAL REPORT
+*******************************
+
+**************************************** 
+Tribal Crime Data Collection Activities
+****************************************
+
+***************************************************************************
+HIGHLIGHTS 
+
+Funding 
+
+*During fiscal year (FY) 2016, BJS held meetings with justice professionals 
+from state, local, and tribal law enforcement and state and local prosecutor  
+offices to obtain input on the planning and development of surveys of state  
+and local justice agencies that serve tribal lands. 
+
+*The Census of State and Local Law Enforcement Agencies Serving Tribal Lands  
+and the Census of State and Local Prosecutor Offices Serving Tribal Lands are  
+now under review at the Office of Management and Budget. 
+
+*In 2015, BJS awarded a cooperative agreement to fund the 2016 Census of  
+Tribal Law Enforcement Agencies, the first BJS statistical collection targeting 
+tribal law enforcement and Bureau of Indian Affairs’ agencies in the lower 48  
+states and Alaska. 
+
+*Data collection for the National Survey of Tribal Court Systems concluded  
+at the end of 2015. 
+
+Most recent findings 
+
+*At midyear 2014, a total of 2,380 inmates were confined in 79 Indian country  
+jails—a 4% increase from the 2,287 inmates confined at midyear 2013  
+(Survey of Jails in Indian Country). 
+
+*At midyear 2014, local jails held about 10,400 American Indian and Alaska  
+Native (AIAN) inmates (i.e., nontribal and tribal AIAN), which was 1.4% of the 
+total (744,600) jail inmate population in the United States 
+(Annual Survey of Jails). 
+
+*During 2013, a total of 2,882 AIAN (both tribal and nontribal) were  
+arrested by federal law enforcement agencies, 1,429 were sentenced in  
+U.S. district courts, 1,740 entered federal prison, and 1,737 exited federal
+prison (Federal Criminal Case Processing Statistics) 
+*****************************************************************************
+
+************
+Background
+************
+
+Enacted in 2010, the Tribal Law and Order Act (TLOA)
+requires the Bureau of Justice Statistics (BJS) to (1) establish
+and implement a tribal data collection system, (2) consult
+with Indian tribes to establish and implement this data
+collection system, and (3) annually report to Congress the
+data collected and analyzed in accordance with the act
+(P.L. 111-211, 124 Stat. 2258, § 251(b)). This report describes
+the fiscal year (FY) 2016 activities in support of BJS’s tribal
+crime data collection system and summarizes findings and
+program enhancements.
+
+A total of 566 tribal entities in the lower 48 states and in
+Alaska were eligible for funding and services from the
+Bureau of Indian Affairs (BIA) in 2016. ***Footnote 1. See Indian Entities  
+Recognized and Eligible to Receive Services from the United States  
+Bureau of Indian Affairs at https://www.federalregister.
+gov/articles/2016/01/29/2016-01769/indian-entities-recognizedand-
+eligible-to-receive-services-from-the-united-states-bureau-ofindian#
+h-4.*** There were 334 federally and state-recognized  
+American Indian reservations in 2010, the most recent  
+available data. *** Footnote 2. For more information about federally 
+recognized tribes, reservations, and Alaska Native village statistical  
+areas, see Tribal Crime Data Collection Activities, 2012 at  
+http://www.bjs.gov/content/pub/pdf/tcdca12.pdf.***
+An estimated 4.8 million people lived on American Indian 
+reservations or in Alaska Native villages in the United States 
+in 2010. About a quarter (1.1 million) of these individuals in 
+2010 classified themselves as American Indian or Alaska Native (AIAN). 
+
+The tribal justice system in Indian country  
+varies across tribal nations and regions of the country. Criminal
+jurisdiction in Indian country—federally recognized
+reservations, tribal communities, and identified trust
+lands—varies by type of crime committed, whether the
+off ender or victim is a tribal member, and the state in which
+the offense occurred. Due to the sovereign status of federally
+recognized tribes in the United States, crimes committed in
+Indian country are often subject to concurrent jurisdiction
+among multiple criminal justice agencies.
+
+More than 300 tribes in the United States are under mandatory
+or optional Public Law 83-280 jurisdictions. Public Law 83-
+280 (commonly referred to as Public Law 280 or P.L. 280)
+conferred criminal jurisdiction from the federal government
+to six state governments: California, Minnesota (except the
+Red Lake Reservation), Nebraska, Oregon (except the Warm
+Springs Reservation), Wisconsin, and Alaska. These states
+have mandatory jurisdiction over crimes committed in Indian
+country. P.L. 280 also permitted other states to acquire optional
+jurisdiction either in whole or in part over Indian country
+within their boundaries: Nevada, Idaho, Iowa, Washington,
+South Dakota, Montana, North Dakota, Arizona, and Utah. In
+states where P.L. 280 does not apply, the federal government
+retains criminal jurisdiction for major crimes committed in
+Indian country. ***Footnote 3. Federal jurisdiction in Indian country is  
+established under the Indian Country Crimes Act (18 U.S.C. § 1152),  
+the Indian Country Major Crimes Act (18 U.S.C. § 1153), and the  
+Assimilative Crimes Act (18 U.S.C. § 13).***
+
+This report summarizes—
+
+*Tribal data collection activities during fiscal year
+2016 including—
+
+*Census of State and Local Law Enforcement Agencies
+Serving Tribal Lands
+*Census of State and Local Prosecutor Offices Serving
+Tribal Lands
+*Census of Tribal Law Enforcement Agencies
+*National Survey of Tribal Court Systems
+
+*Tribal participation in national records and information
+systems, including the National Criminal History
+Improvement Program and the National Instant Criminal
+Background Check System Act Record Improvement
+Program
+
+*Most recent findings and access to tribal information.
+
+**************************************************
+Tribal data collections during fiscal year 2016 
+**************************************************
+
+
+**************************************************
+Census of State and Local Law Enforcement Agencies
+Serving Tribal Lands and Census of State and Local
+Prosecutor Offices Serving Tribal Lands
+**************************************************
+
+During FY 2016, BJS continued efforts to fill the information
+gap on the role of nontribal state and local law enforcement
+agencies and prosecutor offices in providing and supporting
+criminal justice functions and services on tribal lands. The
+services and functions on tribal lands are based on federal
+mandates (Public Law 280) or consensual jurisdictional
+arrangements made between tribal and state governments.
+BJS has designed two surveys to document tribal-related law
+enforcement and courts activities and caseloads: the Census
+of State and Local Law Enforcement Agencies Serving Tribal
+Lands and the Census of State and Local Prosecutor Offices
+Serving Tribal Lands. These data collections will provide
+information on the legal and structural procedures in place to
+address crime on tribal lands.
+
+In FY 2016, BJS formed an expert panel comprised of state,
+local, and tribal law enforcement officers and prosecutors
+to provide input on designing the two data collections.
+Participants on the panel included representatives from—
+
+* Alaska State Troopers, Alaska
+* Apache Junction Police Department, Arizona
+* Association of Prosecuting Attorneys, Washington, D.C.
+* Beadle County State’s Attorney Office, South Dakota
+* Cass County State’s Attorney Office, Minnesota
+* Cherokee Nation Marshal Service, Oklahoma
+* International Association of Chiefs of Police, Indian
+Country Law Enforcement Section, Washington, D.C.
+* Miccosukee Tribal Police Department, Oklahoma
+* National District Attorneys Association, Virginia
+* National Sheriffs Association, Indian Affairs Committee,
+Washington, D.C.
+* Prosecuting Attorneys Coordinating Council, Michigan
+* Riverside County Sheriff’s Office, California
+* Roosevelt County Sheriff’s Office, Montana
+* San Diego District Attorney’s Office, California
+* South Dakota Highway Patrol, South Dakota
+* Sycuan Tribal Police Department, California
+
+BJS pilot tested draft s of the law enforcement and prosecutor
+censuses in August and September 2015. The data collection
+instruments were revised and improved using feedback from
+the pilot study and are pending final approval from the Office
+of Management and Budget (OMB).
+
+Although BJS has included tribal law enforcement agencies
+in previous iterations of the Census of State and Local Law
+Enforcement Agencies (CSLLEA), those surveys were not
+specifically designed to capture information on the unique
+nature and characteristics of policing in Indian country. For
+instance, the CSLLEA was not designed to gather data on (1)
+the administration and management of tribal law enforcement
+agencies and (2) the various changes that resulted from
+passage of the TLOA that enhanced the sentencing authority
+given to tribes, the Violence Against Women Act of 2005
+(VAWA) requirement to establish protection order registries,
+and the VAWA Reauthorization in 2013 that expanded
+criminal jurisdiction over non-Indians regarding selected
+domestic violence matters. In addition, the CSLLEA does
+not collect information about the progress made by tribal
+law enforcement agencies responsible for monitoring and
+managing sex off enders since passage of the Adam Walsh
+Child Protection and Safety Act of 2006.
+
+*******************************************
+Census of Tribal Law Enforcement Agencies
+*******************************************
+
+In 2015, BJS awarded the independent research organization
+NORC, at the University of Chicago, the cooperative
+agreement to conduct the 2016 Census of Tribal Law
+Enforcement Agencies (CTLEA). NORC partnered with the
+International Association of Chiefs of Police to administer the
+data collection. This is the first BJS data collection targeted
+solely at tribal law enforcement agencies. The survey is being
+designed to capture the unique attributes of these agencies,
+including information on—
+
+* criminal jurisdiction, staffing, and recruitment
+* officer training, budgets, and sources of funding
+* workloads and arrests
+* access to and participation in regional and national justice
+database systems
+* special topics like human trafficking, domestic violence, and
+child abuse
+* access to domestic violence and protection order registries
+* monitoring of sex offenders on tribal lands
+* reporting of crime data to the FBI’s Uniform Crime
+Reporting Program
+* special jurisdiction over non-Indian off enders for select
+domestic violence cases.
+
+The CTLEA will collect information from all tribal law
+enforcement agencies in the lower 48 states, the VPSOs in
+Alaska, and police agencies operated by the BIA. Due to their
+inherent differences, each type of agency will have its own
+customized survey form with a common core of items along
+with a set of items designed to collect its unique attributes.
+Since December 2015, BJS has coordinated meetings to
+identify information needs with various Department of
+Justice (DOJ) components (including the Bureau of Justice
+Assistance, the National Institute of Justice, Office of Juvenile
+Justice and Delinquency and Prevention, Office for Victims of
+Crime, Community Oriented Policing) and the Department
+of Interior’s (DOI) Bureau of Indian Affairs’ Office of Justice
+Services. These components provided valuable input on the
+gaps in available information and the type of data that would
+help them better understand the challenges faced by tribal law
+enforcement agencies. This input will help guide the contents
+of the CTLEA survey instruments.
+
+To ensure tribal governments and their law enforcement
+agencies have a central role in the development, design, and
+implementation of the CTLEA, BJS established a tribal justice
+and law enforcement panel comprised of tribal leaders and
+law enforcement representatives from across the country and
+representatives from the DOJ’s Office of Tribal Justice, the
+FBI’s Indian Country Crimes Unit, and the DOI’s Office of
+Justice Services.
+
+In addition, as part of the outreach and collaboration plans
+for the CTLEA, the BJS acting director will send a letter to all
+federally and state-recognized tribes across the United States
+announcing the new survey and its significance and inviting
+input from tribal nations in the design and development of
+the survey instrument. Prior to conducting the CTLEA, BJS,
+with the help of tribal justice experts, will explore methods
+to achieve high survey response rates and will conduct field
+tests of the various survey instruments. Following this work,
+BJS will submit to OMB a request to approve the fielding of
+the CTLEA.
+
+*****************************************
+National Survey of Tribal Court Systems
+*****************************************
+
+On December 31, 2015, BJS concluded the data collection for
+the National Survey of Tribal Court Systems (NSTCS). The
+NSTCS is BJS’s first statistical collection focusing solely on
+tribal justice systems since the 2002 Census of Tribal Justice
+Agencies gathered limited data on all justice agencies—
+law enforcement, courts, and corrections. The NSTCS
+gathered information on the administrative and operational
+characteristics of tribal justice systems (including budgets,
+staffing, the use of juries, and the appellate system); indigent
+defense services; pretrial and probation programs; protection
+orders; criminal, civil, domestic violence, and juvenile
+caseloads; implementation of various enhanced sentencing
+provisions of the TLOA; and various indigenous or traditional
+dispute forums operating within Indian country. NSTCS used
+three separate but compatible survey instruments customized
+to the type and location of the tribal courts: tribal courts in the
+lower 48 states, Alaska Native villages, and the BIA’s Code of
+Federal Regulation (CFR) courts. 
+
+BJS mailed surveys to 237 tribal courts or judicial forums
+identified in the lower 48 states, to 75 in Alaska Native villages,
+and to 7 BIA CFR courts. The NSTCS had an overall response
+rate of 81%, which varied by the respondent type (table 1). The
+response rate for the NSTCS was 83% for tribal courts in the
+lower 48 states, 72% for the judicial forums in Alaska Native
+villages, and 100% for the 7 CFR courts (that have jurisdiction
+over 22 separate tribes or service areas). 
+
+The development and implementation of the NSTCS received
+invaluable assistance from several organizations and tribes:
+* American Indian Development Associates, New Mexico
+* American Probation and Parole Association, Kentucky
+* Bristol Bay Native Association
+* Bureau of Indian Affairs’ Office of Justice Services
+* Hamline University School of Law, Minnesota
+* Kansas University School of Law’s Tribal Law and
+Government Center
+* National Judicial College, the National Tribal Judicial
+Center, Nevada
+* National American Indian Court Judges Association
+* Standing Rock Sioux Tribe, South Dakota
+* The Supreme Court of the Navajo Nation, Arizona
+* Syracuse University College of Law, the Center for
+Indigenous Law, Governance, and Citizenship, New York
+* Tanana Chiefs Conference
+* Tanana Chiefs Conference, Alaska
+* Tribal Law and Policy Institute
+* Tribal Law and Policy Institute, California
+* University of Colorado at Boulder, American Indian Law
+Clinic
+* University of North Dakota School of Law’s Tribal
+Judicial Institute.
+
+**************************************************
+Tribal participation in national records and
+information systems
+**************************************************
+
+During 2016, BJS continued to focus on improving tribal
+participation in national record and information systems
+through expanding tribal funding eligibility for the National
+Criminal History Improvement Program (NCHIP) and the
+National Instant Criminal Background Check System (NICS)
+Act Record Improvement Program (NARIP).
+
+Federally recognized tribal governments are eligible to apply
+for NCHIP funding, and tribes may submit applications as part
+of a multi-tribe consortium. NCHIP serves as an umbrella for
+various record-improvement activities and funding sources,
+each of which has unique goals and objectives. BJS strongly
+encourages states and tribes to ensure integrated record-improvement
+initiatives, regardless of the funding source. 
+
+The NCHIP aims to improve the nation’s safety and security
+by enhancing the quality, completeness, and accessibility
+of criminal history record information by ensuring
+the nationwide implementation of criminal justice and
+noncriminal justice background check systems. Despite
+the tremendous progress made toward criminal record
+improvements among states, several significant shortcomings
+remain among tribal justice agencies. 
+
+BJS has identified challenges confronting tribal nations. Many
+tribes do not have the capabilities or requisite technologies to
+support the transmission of records to national systems, either
+through their own infrastructure or via the state. Additionally,
+some tribes have not yet converted their manual records
+to electronic versions. Some entities are not yet submitting
+qualifying records to the National Crime Information Center
+Protection Order File, and the FBI reports continued problems
+with the appropriate flagging of protection orders regarding
+the prohibition for fi rearm purchases. 
+
+Federally recognized Indian tribal governments are eligible
+to apply for NARIP funding. NARIP helps states and tribal
+governments identify individuals prohibited by federal or state
+law from possessing firearms. 
+
+NARIP seeks to address the gap in information available to
+NICS about prohibiting mental health adjudications and
+commitments, and other prohibiting factors. Filling these
+information gaps will better enable the system to operate as
+intended—to keep guns out of the hands of persons prohibited
+by federal or state law from receiving or possessing fi rearms.
+The automation of records will also help reduce delays for
+law-abiding persons purchasing guns. NARIP authorizes a
+grant program to help states and tribes provide information to
+NICS and prescribes grant penalties for noncompliance with
+the act’s goals for complete records. 
+
+NARIP provides grants to each state or tribal government
+for use by the court systems to improve automation and
+transmittal to federal and state repositories. Repository records
+consist of (1) criminal history dispositions, (2) records relevant
+to determining whether a person has been convicted of a
+misdemeanor crime of domestic violence or whether a person
+is the subject of a prohibiting domestic violence protection
+order, and (3) prohibiting mental health adjudications
+and commitments.
+
+********************************************************
+Most recent findings and access to tribal information
+********************************************************
+
+
+*************************
+Jails in Indian country
+*************************
+
+The Survey of Jails in Indian Country (SJIC) is BJS’s only
+national data collection that provides annual data on the
+estimated 79 Indian country jails and detention facilities. BJS
+initiated the SJIC in 1998 as a component of the Annual Survey
+of Jails. The SJIC includes Indian country facilities operated
+by tribal authorities or the BIA. The survey collected data
+on the number of inmates, percentage of capacity occupied
+based on the average daily population, midyear population,
+and peak population in the facilities in June 2014. It also
+gathered information on staffing, offense types, and conviction
+status. The findings of the most recent SJIC data are available
+in Jails in Indian Country, 2014 (NCJ 248974, BJS website,
+October 2015).
+
+In June 2014, local jails operated by county or municipal
+authorities held about 10,400 AIAN inmates (both tribal
+and nontribal AIAN), which was 1.4% of the total (744,600)
+jail inmate population. See Jail Inmates at Midyear, 2014
+(NCJ 248629, BJS web, June 2015.) Half of all AIAN jail
+inmates were held in western states at yearend 2013 (the
+most recent state-level data). See Census of Jails: Population
+Changes, 1999–2013 (NCJ 248627, BJS web, December 2015.)
+In comparison, an estimated 2,380 inmates were confined in
+79 Indian country jails at midyear 2014, a 4% increase from
+the 2,287 inmates confined at midyear 2013. The average
+number of inmates per operating facility increased from 26
+inmates in 2000 to 30 inmates in 2014. At midyear 2014, the
+jail facilities in Indian country were rated to hold an estimated
+3,720 inmates, up from 3,482 in 2013. ***Footnote 4. A rating official  
+assigns the maximum number of beds or inmates a
+facility can hold, excluding temporary holding areas.***  
+Approximately 1,230 jail operations staff were employed to 
+supervise the confined inmates in 2014, up slightly from the 
+1,180 jail operations staff at midyear 2013. Footnote 5. Jail
+operations staff include correctional officers, guards, and 
+other staff who spend more than 50% of their time 
+supervising inmates.***
+
+
+Since 2000, the distribution of Indian country jail inmates by
+sex and age has changed slightly. Although males represent
+the largest portion of the inmate population in Indian country
+jails, the percentage of female jail inmates increased from 20%
+of all inmates in 2000 to 25% in 2014. The juvenile proportion
+of the Indian country jail population declined from 16% in
+2000 to 8% at midyear 2014. The distribution of inmates by
+conviction status and offense type also showed some change.
+After the percentage of convicted inmates peaked in 2009 at
+69%, it declined to 51% by midyear 2014.
+
+Since 2010, about 30% of inmates held in Indian country jails
+were confined for a violent offense, a decline from a peak of
+41% in 2007. At midyear 2014, domestic violence (12%) and
+aggravated or simple assault (9%) accounted for the largest
+percentage of violent off enders. Inmates held for unspecified
+violence (5%) and rape or sexual assault (2%) accounted for
+about 7% of the jail population. 
+
+Patterns of decline were also observed among inmates held for
+alcohol- and drug-related offenses. Inmates held for driving
+while intoxicated or driving while under the influence of drugs
+or alcohol declined from 16% of the total inmate population
+in 2000 to 9% at midyear 2014. The percentage of inmates held
+for a drug law violation declined from 8% in 2000 to 5% at
+midyear 2014. 
+
+In 2013, BJS enhanced the SJIC offense category questionnaire
+item to include burglary, larceny-theft , and public intoxication.
+The enhancement permitted better classification of previously
+unspecified offenses. At midyear 2014, about a quarter of
+persons being held in tribal jails were charged with public
+intoxication (20%), burglary (2%), or larceny-theft (1%),
+proportions similar to those in 2013.
+
+***************************
+Federal justice statistics
+***************************
+
+The Federal Justice Statistics Program (FJSP) provides annual
+data on workload, activities, and outcomes associated with
+federal criminal cases. It acquires information on all aspects
+of processing in the federal justice system, including arrests,
+initial prosecution decisions, referrals to courts or magistrates,
+court dispositions, sentencing outcomes, sentence length, and
+time served. The FJSP collects data from the U.S. Marshals
+Service, the Executive Office for U.S. Attorneys, the U.S.
+Office of Probation and Pretrial Services, the Administrative
+Office of the U.S. Courts, the U.S. Sentencing Commission,
+and the Federal Bureau of Prisons. Through FJSP, BJS
+compiles comprehensive information describing suspects and
+defendants processed in the federal criminal justice system.
+
+The FJSP captures an off ender’s race, but it does not provide
+information on tribal membership. During 2013 (the most
+recent federal data available), 2,882 AIAN were arrested and
+booked by federal law enforcement agencies, up from 2,482 in
+2012. There were 1,429 AIAN sentenced in U.S. district courts
+in 2013, up from 1,355 in 2012. In 2013, 1,740 AIAN offenders
+entered federal prison and 1,737 off enders exited federal
+prison. At fiscal yearend 2013, 3,725 AIAN were held in federal
+prison (1.9% of all prisoners).
+
+***********************************************
+BJS Indian country justice statistics webpage
+***********************************************
+
+The BJS Indian country webpage presents in one place
+information on and updates to BJS’s tribal data collections.
+***Footnote 6. BJS Indian country justice statistics page is at 
+http://www.bjs.gov/index.cfm?ty=tp&tid=200000.*** 
+The page provides links to the latest victimization, law
+enforcement, courts, corrections, and criminal justice data
+improvement information. Links to the FBI’s extract fi les on
+the BJS website of violent and property offenses known to
+tribal law enforcement by state from 2008 to 2014 are also
+available on the this page.
+
+****************************
+Previously released reports
+****************************
+
+Tribal Crime Data Collection Activities, 2015 (NCJ 248785)
+Jails in Indian Country, 2014 (NCJ 248974)
+Tribal Crime Data Collection Activities, 2014 (NCJ 246917)
+Jails in Indian Country, 2013 (NCJ 247017)
+Tribal Crime Data Collection Activities, 2013 (NCJ 242584)
+Jails in Indian Country, 2012 (NCJ 242187)
+Tribal Crime Data Collection Activities, 2012 (NCJ 239077)
+Tribal Crime Data Collection Activities, 2011 (NCJ 234518)
+Jails in Indian Country, 2011 (NCJ 238978)
+Jails in Indian Country, 2010 (NCJ 236073)
+Jails in Indian Country, 2009 (NCJ 232223)
+Jails in Indian Country, 2008 (NCJ 228271)
+Tribal Law Enforcement, 2008 (NCJ 234217)
+Summary: Tribal Youth in the Federal Justice System
+(NCJ 234218)
+State Prosecutors’ Offices with Jurisdiction in Indian Country,
+2007 (NCJ 234241)
+Jails in Indian Country, 2007 (NCJ 223760)
+Improving Criminal History Records in Indian Country,
+2004–2006 (NCJ 218913)
+Jails in Indian Country, 2004 (NCJ 214257)
+Jails in Indian Country, 2003 (NCJ 208597)
+Census of Tribal Justice Agencies in Indian Country, 2002
+(NCJ 205332)
+American Indians and Crime (NCJ 203097)
+Jails in Indian Country, 2002 (NCJ 198997)
+Jails in Indian Country, 2001 (NCJ 193400)
+Jails in Indian Country, 2000 (NCJ 188156)
+Tribal Law Enforcement, 2000 (NCJ 197936)
+Jails in Indian Country 1998–1999 (NCJ 173410)
+American Indians and Crime (NCJ 173386)
+
+************************
+BJS-sponsored research
+************************
+
+Examining Indian Country Cases in the Federal Justice
+System (NCJ 248656), produced by the Urban Institute,
+February 2015.
+Summary: Tribal Youth in the Federal Justice System, 1999–2008
+(NCJ 234218), produced by the Urban Institute, May 2011.
+
+***********************************************************
+The Bureau of Justice Statistics of the U.S. Department of Justice  
+is the principal federal agency responsible for measuring crime,  
+criminal victimization, criminal offenders, victims of crime, correlates  
+of crime, and the operation of criminal and civil justice systems at the  
+federal, state, tribal, and local levels. BJS collects, analyzes, and  
+disseminates reliable and valid statistics on crime and justice systems  
+in the United States, supports improvements to state and local criminal 
+justice information systems, and participates with national and  
+international organizations to develop and recommend national  
+standards for justice statistics. Jeri M. Mulrow is acting director. 
+This report was written by Steven W. Perry. Mark Motivans,  
+Todd Minton, and Suzanne Strong provided statistical review  
+and verification of the report. 
+
+Brigitte Coulton edited the report, and Barbara Quinn and  
+Morgan Young produced the report. 
+
+July 2016, NCJ 249939
+***********************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+**********************
+7/15/2016 11:17 am PMF 
+**********************

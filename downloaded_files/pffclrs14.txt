@@ -1,0 +1,610 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+-----------------------------------------------------------------
+
+This file is text only without graphics and many of the 
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5827
+
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to http://www.bjs.gov/index.cfm?ty=pbse&sid=75
+-----------------------------------------------------------------
+
+**********
+Bulletin
+*********
+
+*********************************
+Publicly Funded Forensic Crime
+Laboratories: Resources and
+Services, 2014
+*********************************
+
+Matthew R. Durose and Andrea M. Burch, BJS Statisticians
+Kelly Walsh and Emily Tiry, Urban Institute
+
+In 2014, the nation’s 409 crime labs received an estimated 3.8 
+million requests for forensic services, down from the 4 million 
+requests received in 2009 (figure 1). The analysis of controlled 
+substances, biological samples collected from convicted offenders 
+and arrestees for a DNA database, and toxicology accounted for 
+about 3 in 4 requests submitted to crime labs in both 2009 and 
+2014.
+
+This report summarizes data from the Bureau of Justice 
+Statistics’ (BJS) 2014 Census of Publicly Funded Forensic Crime 
+Laboratories (CPFFCL) and provides comparisons with data from 
+prior years. It focuses on the forensic services performed by 
+crime labs across the nation and the resources devoted to 
+completing the work. For information on accreditations, 
+proficiency tests, and other quality assurances within publicly 
+operated labs, see Publicly Funded Forensic Crime Laboratories: 
+Quality Assurance Practices, 2014 (NCJ 250152, BJS web,
+November 2016).
+
+****************************************************
+***************
+HIGHLIGHTS
+****************
+
+* Publicly funded crime labs received an estimated 3.8 million 
+forensic requests in 2014 and completed 3.6 million requests that 
+year (which included requests received prior to 2014).
+
+* At the end of 2014, U.S. crime labs had an estimated backlog of 
+570,100 requests for forensic services--a decline from 895,500 
+backlogged requests at yearend 2009.
+
+* DNA database samples from convicted offenders and arrestees 
+made up 39% of requests to federal labs, 36% of state labs, and 
+less than 5% of requests to county and municipal labs.
+
+* Thirty-eight percent of publicly funded crime labs outsourced 
+one or more types of forensic services during 2014.
+
+* Publicly funded crime labs employed 14,300 full-time personnel 
+in 2014.
+
+* The combined operating budgets for publicly funded crime labs 
+in 2014 was $1.7 billion.
+*****************************************************
+
+Publicly funded forensic crime labs examine and report on 
+physical evidence collected during criminal investigations for 
+federal, state, and local jurisdictions. Crime labs perform a 
+variety of forensic analyses and receive requests for these 
+services from criminal justice agencies, such as police 
+departments, prosecutors offices, courts, and correctional 
+facilities. The ability of a lab to handle its forensic workload
+depends on many factors, including the complexity of the 
+procedures and the availability of analysts and other resources.
+
+************************************
+Most crime labs provided forensic 
+services in multiple disciplines 
+************************************
+
+Publicly funded crime labs provided an average of five different 
+forensic functions in 2014 (not shown) (See Methodology for 
+definitions of forensic functions.) Since 2002, crime labs most 
+commonly performed analyses of controlled substances.
+Eighty-one percent of crime labs handled the identification of
+illegal drugs and other controlled substances in 2014 (table 1) 
+Among crime labs that processed controlled substances,
+9 in 10 analyzed synthetic cannabinoids (e.g., Spice or K2) and 
+synthetic cathinones (e.g., bath salts) in 2014 (not shown).
+
+Sixty-two percent of crime labs analyzed biological samples, such 
+as blood and saliva, during 2014. Sixty-one percent analyzed 
+forensic biology collected during criminal casework from crime 
+scenes, victims, or suspects, and 16% analyzed biological samples 
+collected from convicted offenders and arrestees for inclusion in 
+a local, state, or national DNA database (not shown). Crime labs 
+enter DNA profiles from criminal casework, convicted offenders, 
+and arrestees into the FBI’s Combined DNA Index System (CODIS). 
+CODIS software allows crime labs to compare biological evidence 
+collected from criminal investigations to DNA profiles stored in 
+a database for the purpose of linking serial crimes together and 
+identifying suspects. All 50 states, the District of Columbia, 
+and the federal government require offenders convicted of certain 
+crimes to provide DNA samples. Some jurisdictions must also 
+collect DNA from certain arrestees. In 2014, state labs (25%) 
+were more likely than county (9%) and municipal (4%) labs to 
+analyze biological samples collected from convicted offenders and 
+arrestees for a DNA database (table 2).
+
+Among crime labs that handled forensic biology requests in 2014, 
+15% conducted familial searching of a DNA database for the 
+purpose of identifying close biological relatives to an unknown 
+DNA profile collected from a crime scene (not shown). Three 
+percent of crime labs that performed forensic biology services in 
+2014 reported using a Rapid DNA instrument, which provided a 
+fully automated method to develop a DNA profile for a database.
+
+The majority (63%) of crime labs analyzed latent (or hidden) 
+fingerprints recovered from crime scenes. About 8 in 10 (82%) of 
+these labs used the FBI’s Integrated Automated Fingerprint 
+Identification System to perform latent fingerprint comparisons 
+in 2014 (not shown). Overall, nearly half (48%) of crime labs 
+examined trace evidence in 2014. Among these crime labs, 70% 
+performed fire debris analysis, 44% conducted hair examinations, 
+and 38% analyzed gunshot residue (table 3).
+
+*****************************************
+Crime labs received nearly 4 million 
+requests for forensic services in 2014
+*****************************************
+
+Crime labs play a critical role in the justice system, analyzing 
+millions of pieces of evidence from criminal investigations each 
+year. A criminal case may generate more than one type of request 
+to process or analyze evidence. For example, a crime lab may 
+receive fingerprints and DNA evidence from the same case, which 
+requires two separate requests for analysis by different sections 
+of the lab.
+
+The CPFFCL asked labs to provide the total number of requests 
+received and completed within their facility for each forensic 
+service. Completed requests included those received prior to and 
+during 2014. Submitting agencies sometimes canceled requests 
+before labs completed them because services were no longer needed 
+(e.g., law enforcement solved or closed the case). The CPFFCL 
+defined a pending forensic request as backlogged if it was not 
+completed within 30 days.
+
+In 2014, the nation’s 409 crime labs received an estimated 3.8 
+million new requests for forensic services and completed 3.6 
+million requests (table 4). About three-quarters of requests 
+received in 2014 were for either analysis of controlled 
+substances (33%), biological samples collected from convicted 
+offenders and arrestees for a database of DNA profiles (24%), and 
+toxicology (15%). Forensic biology casework accounted for a 
+larger proportion of the overall number of requests received in 
+2014 (9%) than in 2009 (6%).
+
+********************************************
+More than half of all requests for 
+forensic services were sent to state labs
+********************************************
+
+In 2014, more than half (2.2 million) of the estimated 3.8 
+million requests for forensic services received by publicly 
+funded crime labs nationwide were submitted to state labs (table 
+5). Labs serving county and municipal jurisdictions received 1.4 
+million forensic requests in 2014.
+
+The composition of the forensic work handled by U.S. crime labs 
+during 2014 varied among those serving federal, state, county, 
+and municipal jurisdictions. Toxicology requests accounted for 
+25% of the requests received by county labs, compared to less 
+than 10% received by federal and municipal labs. In comparison, 
+biological samples collected from convicted offenders and 
+arrestees for a database of DNA profiles comprised 39% of 
+requests made to federal labs and 36% of requests to state labs, 
+compared to less than 5% of requests to county (1%) and municipal 
+(4%) labs. Crime scene investigations accounted for 17% of 
+requests made to municipal labs, compared to 9% of requests to 
+county labs and less than 1% of requests to state and federal 
+labs.
+
+Publicly funded crime labs had a backlog of 570,100 requests for 
+forensic services at yearend 2014, down from 895,500 backlogged 
+requests at yearend 2009 (table 6). Biological samples collected 
+from convicted offenders or arrestees for a DNA database that 
+were backlogged decreased from 502,500 at yearend 2009 to 64,800 
+at yearend 2014. The FBI crime lab reported the majority of these 
+backlogged requests in 2009 because of an increase in the 
+collection of DNA samples as mandated by federal legislation. 
+Since 2009, the FBI crime lab has reduced its backlog of requests 
+for DNA samples taken from convicted offenders and arrestees. The 
+overall reduction in DNA samples led to a decline in the overall 
+number of backlogged requests within U.S. crime labs observed at 
+yearend 2009. The DNA samples collected from convicted offenders 
+and arrestees for a database of DNA profiles made up 11% of all 
+backlogged requests at yearend 2014. Forensic biology casework 
+samples accounted for 19% of the overall backlog at yearend 2014.
+
+The CPFFCL asked labs about requests to process forensic biology 
+from sexual assault cases. Not all labs that handled forensic 
+biology requests were able to separately report how many 
+received, completed, or backlogged requests were from sexual 
+assault cases. In the 2014 CPFFCL, 135 labs reported receiving an 
+estimated 45,000 requests to process sexual assault evidence 
+during 2014 and completed about 43,000 of these types of requests 
+that year (not shown). The requests completed in 2014 included 
+evidence collected before and during 2014. At yearend 2014, 128 
+crime labs reported approximately 9,000 backlogged requests to 
+process sexual assault evidence.
+
+********************************************
+About 4 in 10 labs outsourced some 
+forensic work in 2014
+********************************************
+
+To address the demands for forensic services, some publicly 
+funded crime labs outsourced work to private labs or other public 
+facilities. Thirty-eight percent of publicly funded crime labs 
+outsourced one or more types of forensic services in 2014, up 
+from 28% in 2009 (table 7). During 2014, municipal labs (60%) 
+were more likely than federal (28%) and state (23%) labs to 
+outsource requests for services. Publicly funded crime labs that 
+outsourced requests to private or other public labs in 2014 were 
+most likely to outsource toxicology analysis (68%) and forensic 
+biology casework (55%) (table 8).
+
+********************************************
+More than 14,000 full-time employees 
+worked in crime labs in 2014
+********************************************
+
+Overall, the combined operating budgets for the 409 crime labs in 
+2014 was $1.7 billion (table 9). Labs serving state jurisdictions 
+accounted for nearly half ($796 million) of the overall budget in 
+2014. Labs with 25 or more employees accounted for more than 80% 
+of the total combined budget nationwide. Typical expenditures 
+among crime labs include personnel (salaries and fringe 
+benefits), supplies, equipment, and construction costs. In 
+addition to their budgets, crime labs received funding from other 
+sources, such as grants and fees. In 2014, about 4 in 10 crime 
+labs charged the submitting agencies fees for completing the 
+forensic services (not shown).
+
+Publicly funded crime labs employed 14,300 full-time personnel in 
+2014, an increase from 11,000 in the 351 labs operating in 2002 
+(table 10). Nearly half (6,600) of these employees in 2014 worked 
+in state-operated labs. In 2014, the majority (59%) of crime labs 
+had 24 or fewer employees (not shown). The mean number of full-
+time lab employees was 35, and the median number was 20 employees 
+per lab. Twenty-six percent of federal labs, 19% of state labs, 
+and 18% of county and municipal labs had 100 or more employees in 
+2014. In 2014, more than half (60%) of crime lab employees were 
+analysts or examiners who prepared and analyzed evidence and 
+reported on their conclusions (table 11). The majority of 
+analysts were intermediate- or senior-level employees. Municipal 
+and county labs were more likely than state and federal labs to 
+employ crime scene technicians, who record and collect evidence 
+from crime scenes and submit that evidence to a crime lab for 
+analysis.
+
+***************
+Methodology
+***************
+
+Overview
+**********
+
+The Bureau of Justice Statistics (BJS) periodically conducts the 
+Census of Publicly Funded Forensic Crime Laboratories (CPFFCL) to 
+collect data on crime lab services, budgets, staffing, workload, 
+outsourcing, and quality assurance practices. The data collection 
+is directed to federal, state, county, and municipal crime labs 
+that are funded solely by the government or whose parent 
+organization is a government agency. The CPFFCL includes agencies 
+that employ one or more full-time scientists (1) with a minimum 
+of a bachelor’s degree in chemistry, physics, biology, 
+criminalistics, or a closely related forensic science field, and 
+(2) whose principal function is examining physical evidence in 
+criminal matters and providing reports and testimony to courts of 
+law regarding such evidence.
+
+About half of the crime labs included in the CPFFCL were part of 
+a multi-lab system (two or more physically separate facilities 
+that were overseen by a single organization). The CPFFCL 
+attempted to collect information from each lab in multi-lab 
+systems. The CPFFCL did not include operations that engage 
+exclusively in evidence collection and documentation, such as 
+fingerprint recovery and development, crime scene response, and 
+photography. In addition, the census did not collect data on the 
+forensic services performed by police identification units 
+outside of the crime lab, and it also did not include privately 
+operated crime labs.
+
+Data collection and response rate
+**********************************
+
+BJS conducted its fourth CPFFCL to collect detailed information 
+on the workload and operations of the nation’s 409 crime labs 
+during 2014 and to examine changes since the previous censuses 
+conducted in 2002, 2005, and 2009. The CPFFCL population frame 
+and questionnaire were developed by BJS and the Urban Institute 
+with input from the American Society of Crime Laboratory 
+Directors and researchers and practitioners in the forensic 
+science field. BJS pretested the CPFFCL questionnaire on a small 
+sample of labs representing facilities of different sizes and 
+governmental affiliations. 
+
+In April 2015, the Urban Institute initiated the data collection 
+on behalf of BJS through a web-based data collection interface 
+and mailed questionnaire. Follow-up emails and phone calls were 
+made to nonrespondents and labs that submitted incomplete 
+questionnaires. Of the 409 eligible crime labs that received the 
+questionnaire, 360 (88%) provided responses to at least some of 
+the items (table 12). ***Footnote * Of the 351 crime labs in the 
+2002 CPFFCL, 306 (87%) provided responses to the 2002 questionnaire. 
+Of the 389 crime labs in the 2005 CPFFCL, 351 (90%) provided 
+responses to the questionnaire. Of the 411 crime labs surveyed 
+in the 2009 CPFFCL, 397 (97%) provided responses to that data 
+collection.*** Of the 360 respondents, 351 (98%) completed the 
+questionnaire through the automated web system. The 2014 CPFFCL 
+response rate ranged from 72% for federal labs to 94% for state labs.
+
+Methods for producing national estimates
+*********************************************
+
+To generate national estimates for this report, BJS used several 
+imputation methods to account for missing data among labs that 
+did not respond to either the entire CPFFCL questionnaire (unit-
+level response) or certain questions (item-level response). 
+Because the CPFFCL data collection was a census with no sampling, 
+each crime lab was initially self-representing and had a design 
+weight of 1. BJS developed weighting class adjustments for the 
+2002, 2005, 2009, and 2014 CPFFCL data to compensate for unit 
+nonresponse and reduce nonresponse bias. Sixteen subpopulations 
+of labs were stratified into groups by crossing four categories 
+of jurisdiction (federal, state, county, and municipal) and four 
+categories of staff size (9 or fewer, 10 to 24, 25 to 49, and 50 
+or more). A seventeenth stratum was assigned to the FBI crime 
+laboratory, given its unique size of more than 500 employees. 
+Within each of the subgroups, statistical weights were applied to 
+the data from the crime labs that responded to the census to 
+allow their responses to represent the labs that did not respond.
+
+In addition to adjusting for unit nonresponse through the use of 
+weighting class adjustments, BJS also imputed for item 
+nonresponse. BJS measured staff size by full-time equivalent 
+employees and included both full-time and part-time employees 
+with part-time employees weighted by 0.5. For the labs that 
+responded to the CPFFCL but did not report employee data, 
+imputations were made for the count- and percentage-based 
+measures using their employee data reported in the other CPFFCL 
+data collections. If that information was not available, BJS used 
+the median staff size in 2014 among labs of similar jurisdiction. 
+Among the 360 labs that responded to the 2014 CPFFCL, 339 
+reported their 2014 employee total. For the 22 labs that did not 
+report their 2014 staff total, the previous reported staff total 
+was used. Estimates for the 2002, 2005, and 2009 CPFFCL were 
+generated using similar imputation methods. When employee totals 
+from other CPFFCL data collections were not available to account 
+for item nonresponse, the median staff size of labs of similar 
+jurisdiction was used.
+
+When a crime lab responded to the CPFFCL questionnaire but was 
+unable to provide budget data, imputations were made for the 
+count- and percentage-based measures using their budget data from 
+the other CPFFCL data collections. If that information was 
+unavailable, the lab’s staff size was multiplied by the median 
+ratio of budgets per employee for labs of similar jurisdiction 
+and size. Among the 360 labs that responded to the 2014 CPFFCL, 
+331 reported their 2014 budget. Twenty-four labs did not report 
+their 2014 budget and the previous reported budget was used. Five 
+labs did not report their 2014 or previous budget and the median 
+ratio of budgets per employee was used.
+
+When a crime lab responded to the CPFFCL questionnaire but did 
+not provide data on the number and types of requests received, 
+completed, and backlogged, data imputations were made for the 
+count- and percentage-based measures within each category of a 
+forensic function they performed that year. Depending on the 
+availability of data, imputations for requests received and 
+completed were based on either information provided in the other 
+CPFFCL data collections or on the median number of requests among 
+labs of similar size and jurisdiction. Depending on the 
+availability of information, imputations for backlogs were made 
+using the number of pending requests in 2014, the number of 
+backlogged requests reported in the other CPFFCL data 
+collections, or the median backlog among labs of similar size and 
+jurisdiction.
+
+When a crime lab responded to the CPFFCL questionnaire but could 
+not provide data on outsourcing requests for services, BJS used 
+sequential hot-deck imputation procedures to impute the missing 
+responses for 2002, 2005, 2009, and 2014. Sequential hot-deck 
+imputation replaces a missing value with a response provided by a 
+crime lab with similar characteristics. Data on outsourcing were 
+reported by 93% of the 360 labs responding to the 2014 CPFFCL,
+98% of the 397 labs responding to the 2009 CPFFCL, 76% of the 351 
+labs responding to the 2005 CPFFCL, and 88% of the 306 labs 
+responding to the 2002 CPFFCL. BJS grouped both respondents and 
+nonrespondents into the strata previously described and then 
+sorted within each stratum by the number of forensic functions 
+each lab performed. Once the list of crime labs was sorted within 
+strata, the respondents provided donor responses for 
+nonrespondents using the nearest neighbor method. This method 
+identifies and replaces a missing value with the response donated 
+from the lab listed immediately prior to the lab with missing 
+data. If the donor listed immediately prior to the lab with 
+missing data also had a missing response, BJS imputed a response 
+from a donor listed immediately after the lab with the missing 
+value. BJS repeated the process of going backwards and forwards 
+to obtain donated responses from neighbors until all missing 
+values were imputed.
+
+Comparability to prior reports
+*******************************
+
+Except for count-based estimates for staff size, budget, and 
+workload, data presented in the 2002, 2005, and 2009 CPFFCL 
+reports were not adjusted for unit or item nonresponse. Estimates 
+presented in this report may be different from previously 
+presented data because some adjustments for unit or item 
+nonresponse were made. For example, Census of Publicly Funded 
+Forensic Crime Laboratories, 2009 (NCJ 238252, BJS web, August 
+2012) reported that 31% of municipal crime labs outsourced 
+forensic services in 2009. However, this publication reported 
+that 32% of municipal crime labs outsourced forensic services in 
+2009. In the August 2012 report, data on outsourcing were based 
+on 389 crime labs (of the 397 labs that responded to the 2009 
+CPFFCL). In this report, 2009 data have been adjusted to account 
+for nonresponse and represent all 411 crime labs in the 2009 
+CPFFCL. In addition to the revisions to the workload estimates 
+based on the new imputation procedures, the overall number of 
+requests received, completed, and backlogged in 2009 for forensic 
+biology casework reported in Census of Publicly Funded Forensic 
+Crime Laboratories, 2009 were adjusted because of a revision in 
+the information collected from the FBI crime lab.
+
+Conducting tests of statistical significance
+***********************************************
+
+BJS conducted tests to determine whether differences in the 
+estimates were statistically significant. All differences 
+discussed in this report are statistically significant at or 
+above the 95% confidence interval. Standard errors were generated 
+using SPSS statistical software that estimates variance for 
+complex survey designs. The standard errors for the tables and 
+figures are presented in appendix tables. These standard error 
+estimates may be used to construct confidence intervals around 
+percentages in this report. For example, the 95% confidence 
+interval around the percentage of crime labs that outsourced 
+requests for services in 2014 is 38% ± 1.96 × 0.9% (or 
+approximately 1.8%), where 38% is the point estimate in table 6 
+and 0.9% is the standard error in appendix table 7.
+
+The standard errors may also be used to test the significance of 
+the difference between two statistics by pooling the standard 
+errors of the two estimates. For example, the standard error of 
+the difference between state and county crime labs that 
+outsourced requests for services in 2014 is 3.9% (or the square 
+root of the sum of the squared standard errors for each group). 
+The 95% confidence interval around the difference is 1.96 × 2% 
+(or 3.9%). Because the observed difference of 31% (54% minus 23%) 
+is greater than 3.9%, the difference is considered statistically 
+significant.
+
+Pilot study of digital evidence laboratories
+********************************************************
+
+BJS expanded the 2014 CPFFCL from previous data collections to 
+include a pilot study of agencies that solely analyze digital and 
+multimedia evidence in support of criminal investigations and 
+prosecutions. Law enforcement agencies obtain digital evidence in 
+various formats, including audio, video, and graphical images 
+from computers, cell phones, cameras, and other electronic 
+devices. The traditional CPFFCL definition of a crime lab limited 
+the information collected about digital evidence. Some crime labs 
+only handle this type of evidence and employ forensic experts 
+with training in computer science or information technology as 
+opposed to natural sciences. The expanded scope of the 2014 
+CPFFCL included additional questions related to the analysis of 
+digital evidence. BJS will use the results of this pilot study to 
+inform future data collections directed toward criminal justice 
+agencies that process forensic evidence.
+
+Definitions
+*************
+
+Analyst/examiner--an investigator who inspects, analyzes, and 
+interprets physical evidence, writes reports, and delivers 
+testimony in court about the evidence.
+
+Backlogged request--a request that has been submitted to a 
+specialized area of the crime laboratory and is not completed 
+within 30 days.
+
+Controlled substance analysis--the identification of drugs and 
+other substances whose possession or use, in either legal or 
+illicit dosages, is restricted by the government.
+
+Crime scene analysis--the identification, documentation, 
+collection, and interpretation of physical evidence at a location 
+external to a laboratory facility and where a suspected crime has 
+occurred.
+
+Digital evidence--the investigation of various types of analog or 
+multimedia evidence, such as the recovery, extraction, and 
+analysis of computer files, film, tape, and magnetic and optical 
+media.
+
+Firearms analysis--the examination and comparison of evidence 
+resulting from the discharge or use of firearms.
+
+Forensic biology--includes the discipline areas of biology 
+screening and DNA analysis. Biology screening is the examination 
+of evidence for the presence of stains from blood, saliva and 
+other physiological fluids. DNA analysis is the process used to 
+develop a DNA profile from convicted offenders or arrestees as 
+required by federal and state laws or casework samples collected 
+from crime scenes, victims, or suspects.
+
+Impressions analysis--the identification, documentation, 
+collection, and interpretation of two- and three-dimensional 
+impressions and imprints found at crime scenes (including shoes 
+and tires).
+
+Latent prints analysis--the development or comparison of finger 
+or palm print impressions.
+
+Municipal--cities, towns, villages, and boroughs.
+
+Questioned documents analysis--the examination of printed, typed, 
+or written material for the purpose of identifying the source or 
+determining alterations, or other means of gaining information 
+about the item or the circumstances surrounding its production.
+
+Request--the submission of physical evidence from a case to a 
+single specialized area of a crime laboratory. Multiple 
+submissions of new evidence from the same case to one or more 
+sections of the laboratory are counted as separate requests.
+
+Synthetic cannabinoids--synthetically produced compounds that 
+mimic naturally occurring cannabinoids. These compounds are added 
+to some other substrate, marketed as “spice” or herbal incense 
+products, and are used illicitly for their psycho-active 
+properties.
+
+Synthetic cathinones--a cathinone is a compound naturally found 
+in the khat plant. When produced synthetically, these compounds 
+are marketed as bath salts and abused for their stimulant 
+properties.
+
+Toolmark analysis--the comparison of marks made by various tools.
+
+Toxicology—the analysis of biological samples for the presence of 
+drugs and other potentially toxic materials. Includes antemortem, 
+postmortem, and blood alcohol content.
+
+Trace evidence--any analytical procedure using microscopy or 
+chemical and instrumental techniques. Includes the examination of 
+gunshot residue, explosives, hair, fibers, and fire debris.
+
+*********************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is acting 
+director.
+
+This report was written by Matthew R. Durose and Andrea M. Burch 
+of BJS and Kelly Walsh and Emily Tiry of Urban Institute. 
+Christina Aldada, Samantha Lowry, Eddie Mohr, Elizabeth 
+Pelletier, Jennifer Yahner, and Lilly Yu from the Urban Institute 
+assisted with data collection and processing activities. 
+Anastasios Tsoutis verified the report.
+
+Caitlin Scoville and Jill Thomas edited the report. Tina Dorsey 
+and Barbara Quinn produced the report.
+
+November 2016, NCJ 250151
+**********************************************************
+
+**************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+**************************************************
+
+**********************
+10/31/2016/JER/12:55pm
+**********************

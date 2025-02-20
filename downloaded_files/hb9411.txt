@@ -1,0 +1,541 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-----------------------------------------------------------------
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.csv) and the full report including tables and graphics in .pdf 
+format is available on BJS website at: 
+http://bjs.gov/index.cfm?ty=pbdetail&iid=4657
+----------------------------------------------------------------
+
+**********************************************************
+Household Burglary, 1994-2011
+
+Jennifer Hardison Walters, M.S.W., Andrew Moore,
+M.Stat., and Marcus Berzofsky, D.Ph., RTI International
+Lynn Langton, Ph.D., BJS Statistician
+
+June 2013, NCJ 241754
+
+**********************************************************
+In 2011, U.S. households experienced about 3,394,700 burglary victimizations, 
+a decline from 6,353,700 in 1994. The rate of burglary (attempted forcible 
+entry, completed forcible entry, and completed unlawful entry) decreased 56% 
+from 1994 to 2011, from 63.4 to 27.6 victimizations per 1,000 U.S. households 
+(figure 1). Although declines in the rate of completed burglary were 
+consistent across most characteristics of U.S. households, the greatest 
+declines occurred among households in urban areas (down 63%), those headed by 
+Hispanics (down 67%), and those with an income of $75,000 or more (down 74%). 
+From 1994 to 2011, the largest proportion of burglaries involved completed 
+unlawful entries, in which someone with no legal right to be in the residence 
+entered without use of force. (See Measuring burglary in the NCVS on page 3 
+for additional definitions of burglary.)
+
+**********************************************************
+
+*************
+Highlights
+*************
+
+* The rate of household burglary decreased 56% from 1994 to 2011, from a peak 
+of 63.4 victimizations per 1,000 U.S. households in 1994 to 27.6 
+victimizations per 1,000 households in 2011.
+
+* From 1994 to 2011, the rate of completed burglary decreased by at least 
+half across households headed by persons of all races and Hispanic origin.
+
+* Among all completed burglaries, those involving the theft of an electronic 
+device or household appliance increased from 28% in 2001 to 34% in 2011.
+
+* In 2011, 58% of completed burglaries were reported to police, compared to 
+51% in 1994.
+
+* Among completed burglaries reported to police, a similar percentage 
+resulted in an arrest in 1994 (8%) and 2011 (10%).
+
+* From 1994 to 2011, the median dollar value of items and cash stolen during 
+completed burglaries increased 54%, from $389 to $600 per year.
+
+* In 2011, 35% of burglarized households that lost $1,000 or more reported 
+the victimization to an insurance company, while less than 5% of burglarized 
+households that lost $1 to $499 reported the crime to insurance. 
+
+* From 1994 to 2011, households with an income of $14,999 or less were 
+victimized at a higher rate than households with higher incomes.
+**********************************************************
+
+The data in this report were drawn from the Bureau of Justice Statistics’ 
+(BJS) National Crime Victimization Survey (NCVS). The NCVS collects 
+information on nonfatal crimes reported and not reported to the police from a 
+nationally representative sample of U.S. households. Interviews are conducted 
+every 6 months over 3 years, with the first interview conducted in person and 
+the follow-up interviews conducted either in person or by phone.
+
+The NCVS produces national estimates of rates and levels of violent and 
+property crime victimization, as well as information on the characteristics 
+of crimes and victims and the consequences of victimization. This report 
+presents aggregate estimates of household burglary victimization, with 
+household victimization as the basic unit of analysis.
+
+The remainder of this report focuses on completed burglaries. Trend estimates 
+are based on 2-year rolling averages centered on the most recent year. Other 
+tables present data from 3 years: 1994, 2001, and 2011, which also represent 
+the average estimates for the 2-year period ending that year. For example, 
+estimates reported for 2011 represent the average estimates for 2010 and 
+2011. Presenting estimates based on two years of data improves the 
+reliability and stability of comparisons over time and between subgroups. For 
+additional estimates not included in this report, see the NCVS Victimization 
+Analysis Tool (NVAT) on the BJS website.
+
+**********************************************************
+A third of completed burglaries involved the theft 
+of an electronic device or household appliance in 2011
+**********************************************************
+
+Household burglary usually involved theft, and there was relative stability 
+in the percentage of completed burglaries that involved the theft of 
+different types of items (table 1). For instance, the percentage of completed 
+burglaries in which cash, checks, a purse or wallet, credit cards, or bank 
+cards were stolen was relatively stable between 1994 (15%), 2001 (18%) and 
+2011 (17%). From 1994 to 2011, the largest percentage of completed burglary 
+consistently involved the theft of personal items (such as clothing, furs, 
+luggage, briefcases, jewelry, watches, and keys) and electronics or household 
+appliances (including TVs, DVD players, and protable electronic devices).
+
+There was one exception to the stability in the type of items stolen during 
+household burglaries from 2001 to 2011. The percentage of burglaries that 
+involved the theft of a portable electronic device or household appliance 
+increased from 28% to 34%. In comparison, during this same period, the 
+percentage of completed burglaries that involved the theft of a bicycle, 
+bicycle parts, or recreational or sporting equipment declined from 13% to 9%.
+
+**********************************************************
+From 1994 to 2011, the median dollar value of items 
+and cash stolen during completed burglaries increased 54%
+**********************************************************
+
+From 1994 to 2011, between 68% and 81% of burglarized households experienced 
+losses of $1 or more as a result of the victimization (appendix table 4). 
+Among households that lost $1 or more during completed burglaries, the median 
+dollar value (inflation adjusted to 2011 dollars) of items and cash stolen 
+increased 54%, from $389 in 1994 to $600 in 2011 (figure 2).***Footnote 1 
+1Amount of loss was unknown for a small percentage of households, which may 
+result in an underestimation of loss.*** The median dollar value of stolen 
+goods ranged from a low of $366 in 2004 to a high of $618 in 2010, 
+representing a 69% difference. In 2011, the average dollar loss among the 73% 
+of burglarized households that lost $1 or more was about $2,116. (See 
+Methodology for more information on inflation adjustment.)
+
+**********************************************************
+
+********************************
+Measuring burglary in the NCVS
+********************************
+
+Burglary is the illegal entry or attempted entry of a residence that occurs 
+when the person entering has no legal right to be present. The entry may be 
+by force or without force. Burglary includes illegal entry of a garage, shed, 
+or any other structure on the property’s premises, as well as a hotel or 
+vacation residence.
+
+Attempted forcible entry--Force is used in an attempt to gain entry to a 
+residence.
+
+Attempted unlawful entry--No force is involved in an attempt to gain entry. 
+An example is jiggling a door knob to see if the door is unlocked. The NCVS 
+does not collect information about attempted unlawful entry.
+
+Completed forcible entry--Force is used to successfully gain entry to a 
+residence. Examples include breaking a window or slashing a screen.
+
+Completed unlawful entry--No force is used but the residence is entered by 
+someone having no legal right to be on the premises. Examples include 
+entering through an unlocked door or an open window.
+
+Completed burglary--Includes completed forcible entries and completed 
+unlawful entries. Completed burglaries do not necessarily involve stolen or 
+damaged property.
+
+**********************************************************
+
+****************************************************
+Completed burglaries that were reported to police 
+increased from 51% in 1994 to 58% in 2011
+****************************************************
+
+From 1994 to 2001, the percentage of completed burglaries reported to police 
+was relatively stable at about 50% (table 2). However, the percentage of 
+completed burglaries reported to police increased from 52% in 2001 to 58% in 
+2011.
+
+Of the 1.6 million burglaries reported to police in 2011, the police came 
+when notified in 85% of victimizations, an increase from 78% in 1994. The 
+percentage of reported burglary victimizations in which the police did not go 
+to the residence declined from 16% in 1994 to 10% in 2011.
+
+*****************************************************
+From 1994 to 2011, about 10% of reported burglaries 
+resulted in an arrest
+*****************************************************
+
+Among victimizations in which the police were notified and responded, a 
+greater percentage involved the police taking a report, gathering evidence, 
+or promising investigation or surveillance in 2011 compared to 1994. For 
+example, in 1994, the police took a report in 84% of the completed burglary 
+victimizations to which they responded, compared to 91% in 2011. Of the 
+victimizations in which police came when notified or the victim went to the 
+police, the police promised to investigate or conduct surveillance in about 
+25% of the victimizations in 2011, compared to 13% in 1994. Among completed 
+burglaries reported to police, the percentage that resulted in an arrest at 
+the scene remained relatively stable between 2% and 4% during the period. In 
+addition, the percentage of reported burglaries that resulted in an arrest at 
+any time in the investigation also remained relatively stable at about 10% in 
+1994, 2001, and 2011.
+
+When analyzed by amount of loss from cash stolen and items stolen or damaged, 
+the percentage that was reported to police remained relatively stable from 
+1994 to 2011 (figure 3). In 1994, 2001, and 2011, the highest percentage of 
+burglaries reported to police was among victimizations that resulted in 
+losses of $1,000 or more. In 2011, 83% of completed burglaries that resulted 
+in losses of $1,000 or more were reported to police, compared to 68% with 
+losses of $500 to $999, and 38% with losses of $1 to $499.
+
+**********************************************************
+Of completed burglaries that resulted in monetary loss, 
+the percentage reported to insurance companies increased 
+as the total amount of loss increased
+**********************************************************
+
+Each year from 1994 to 2011, the percentage of completed burglaries reported 
+to insurance companies rose in accordance with the total amount of loss 
+sustained during the burglary, with the exception of burglaries resulting in 
+no loss (figure 4). Households that lost $1,000 were more likely to report 
+the loss to an insurance company than households that lost $500 to $999, and 
+households that lost $500 to $999 were more likely to report the loss than 
+households that lost $1 to $499. From 1994 to 2011, less than 4% of 
+burglaries resulting in no loss were reported to insurance companies. In 
+2011, 35% of burglarized households with losses of $1,000 or more reported 
+the loss to an insurance company, compared to 10% of households that lost 
+$500 to $999 and 3% that lost $1 to $499.
+
+Reports to insurance companies by burglary victims who experienced a loss of 
+$1,000 or more declined from 1994 (41%) to 2003 (33%), and then remained 
+relatively stable through 2011. Among burglarized households that lost $500 
+to $999, the percentage that reported the loss to an insurance company also 
+declined, from 22% in 1994 to 10% in 2011.
+
+**********************************************************
+Among completed burglaries that were reported to the 
+police, the percentage that were also reported to 
+insurance companies increased with the amount of loss
+**********************************************************
+
+In 1994, 2001, and 2011, burglarized households were more likely to file a 
+claim with an insurance company when the victimization was reported to the 
+police (table 3). Among households that reported a completed burglary to 
+police, the percentage that also reported the victimization to insurance 
+companies increased as the amount of loss increased. In 2011, 7% of 
+households reported a loss of $1 to $499, compared to 14% when the household 
+experienced a loss of $500 to $999, and 42% when the household experienced a 
+loss of $1,000 or more.
+
+Households that did not report a completed burglary to police were unlikely 
+to report the burglary to an insurance company, regardless of the amount of 
+loss. In 1994, 2001, and 2011, less than 5% of burglarized households that 
+did not report the incident to police reported it to an insurance company.
+
+**********************************************************
+From 1994 to 2011, the rate of completed burglary decreased 
+by at least half across households headed by persons of all 
+races and Hispanic origin
+**********************************************************
+
+From 1994 to 2011, the rate of completed burglary decreased by at least half 
+across households headed by persons of all races and Hispanic origin (table 
+4). During this period, completed burglaries decreased 57% among households 
+headed by a white non-Hispanic person (from 48.3 to 20.8 victimizations per 
+1,000 households) and 52% among households headed by a black non-Hispanic 
+person (from 67.3 to 32.2 victimizations per 1,000 households). The greatest 
+decline (67%) in the rate of burglary victimization was among households 
+headed by a Hispanic person, (from 76.0 to 24.9 victimizations per 1,000 
+households). In 2011, households in which the head of household was a non-
+Hispanic American Indian or Alaskan Native (59.8 per 1,000 households) or two 
+or more races (80.5 per 1,000 households) were victimized at a higher rate 
+than households headed by a person of any other race.
+
+Burglary rates also declined by at least 50% for households headed by persons 
+of all age groups. In 2011, households headed by a person age 19 or younger 
+had the highest rate of victimization (49.7 per 1,000 households) compared to 
+any other age group.
+
+Among various types of household composition, households composed of married 
+couples experienced the greatest decrease (60%) in burglary victimizations 
+from 1994 (42 per 1,000 households) to 2011 (16.6 per 1,000 households). In 
+2011, households composed of two or more adults (21.0 per 1,000) had a lower 
+rate of burglary than households comprised of a single male (26.8 per 1,000) 
+or female (27.6 per 1,000) adult.
+
+**********************************************************
+Households with an income of $14,999 or less were 
+victimized at a higher rate than households with 
+higher incomes
+**********************************************************
+
+Regardless of residence location, the rate of completed burglaries decreased 
+from 1994 to 2011 (table 5). The largest decline (63%) was found among 
+households in urban areas, as the rate declined from 70.9 to 26.3 burglaries 
+per 1,000 households from 1994 to 2011. During the same period, burglaries in 
+suburban areas declined 51% (from 40.4 to 19.8 per 1,000 households), and 
+burglaries in rural areas declined 48% (from 52.5 to 27.2 per 1,000 
+households). While households in urban areas had the highest rate of burglary 
+in 1994, households in urban areas and rural areas had similar rates of 
+burglary in 2011. Both rates remained higher than the rate of burglary in 
+suburban areas in 2011.
+
+From 1994 to 2011, the rate of completed burglaries decreased in households 
+of all income levels. The greatest decline (74%) occurred in households 
+earning $75,000 or more, from 48.2 per 1,000 households in 1994 to 12.7 per 
+1,000 households in 2011.
+
+In 1994, 2001, and 2011, households with an income of $14,999 or less were 
+victimized at a higher rate than households with higher incomes. In 2011, 
+households with an income of $14,999 or less experienced a burglary rate of 
+45.1 per 1,000 households, compared to 29.7 per 1,000 households earning 
+$15,000 to $34,999, and 12.7 per 1,000 households earning $75,000 or more.
+Consistent across all three years, households that were renting the residence 
+were burglarized at a higher rate than households that owned the residence. 
+In 2011, the rate of completed burglary was 18.3 per 1,000 households that 
+owned the property and 32.7 per 1,000 households that rented.
+
+**********************************************************
+Burglary rates by household structural characteristics, 
+2004–2011
+**********************************************************
+Several structural characteristics of residences were also
+associated with variations in household burglary rates 
+(table 6). In the 2004–11 period, residences located in 
+gated or walled communities (20.1 burglaries per 1,000 
+households) were burglarized at a lower rate than residences 
+not located in gated or walled communities (24.9 per 1,000 
+households). Similarly, residences with restricted access, 
+such as apartment or condominium buildings with a doorman 
+or reception desk were burglarized at a lower rate (22.3 
+burglaries per 1,000 households) than those without 
+restricted access (24.7 per 1,000 households).
+**********************************************************
+
+***************
+Methodology
+***************
+
+Survey coverage
+------------------
+
+The National Crime Victimization Survey (NCVS) is an annual data collection 
+conducted by the U.S. Census Bureau for the Bureau of Justice Statistics 
+(BJS). The NCVS is a self-report survey in which interviewed persons are 
+asked about the number and characteristics of victimizations experienced 
+during the prior 6 months. The NCVS collects information on nonfatal personal 
+crimes (rape or sexual assault, robbery, aggravated and simple assault, and 
+personal larceny) and household property crimes (burglary, motor vehicle 
+theft, and other theft) both reported and not reported to police. In addition 
+to providing annual level and change estimates on criminal victimization, the 
+NCVS is the primary source of information on the nature of criminal 
+victimization incidents. Survey respondents provide information about 
+themselves (such as age, sex, race and ethnicity, marital status, education 
+level, and income) and whether they experienced victimization. The survey 
+collects information for each victimization incident, including data about 
+the offender (such as age, race and ethnicity, sex, and victim-offender 
+relationship), characteristics of the crime (including time and place of 
+occurrence, use of weapons, nature of injury, and economic consequences), 
+whether the crime was reported to police, reasons the crime was or was not 
+reported, and experiences with the criminal justice system.
+
+Trained interviewers administer the NCVS to persons age 12 or older from a 
+nationally representative sample of households in the United States. The NCVS 
+defines a household as a group of members who all reside at a sampled address 
+that is their usual place of residence at the time of the interview and when 
+they have no other usual place of residence. Once selected, households remain 
+in the sample for 3 years, and eligible persons in the households are 
+interviewed every 6 months for a total of seven interviews. New households 
+rotate into the sample on an ongoing basis to replace outgoing households 
+that have been in the sample for the 3-year period. The sample includes 
+persons living in group quarters, such as dormitories, rooming houses, and 
+religious group dwellings. Persons living in military barracks and 
+institutional settings, such as correctional or hospital facilities, and the 
+homeless are excluded from the sample. (For more information, see the Survey 
+Methodology in Criminal Victimization in the United States, 2008, NCJ 231173, 
+BJS website, May 2011.)
+
+In 2011, 79,800 households were interviewed for the NCVS, representing a 90% 
+household response rate. Victimizations that occurred outside of the United 
+States were excluded from this report. 
+
+****************************************
+Weighting adjustments for estimating 
+household victimization
+****************************************
+
+Estimates in this report use data from the 1993 to 2011 NCVS data files. 
+These files can be weighted to produce annual estimates of victimization for 
+persons age 12 or older living in U.S. households. Because the NCVS relies on 
+a sample rather than a census of the entire U.S. population, weights are 
+designed to inflate sample point estimates to known population totals and to 
+compensate for survey nonresponse and other aspects of the sample design.
+
+The NCVS data files include both person and household weights. Person weights 
+provide an estimate of the population represented by each person in the 
+sample. Household weights provide an estimate of the total U.S. household 
+population. Both household and person weights, after proper adjustment, are 
+also typically used to form the denominator in calculations of crime rates.
+
+Household weights used in this analysis account for repeat victims of series 
+incidents. The weight counts series incidents as the actual number of 
+incidents reported by the household, up to a maximum of 10 incidents. Series 
+victimizations are similar in type but occur with such frequency that a 
+victim is unable to recall each individual event or describe each event in 
+detail. Survey procedures allow NCVS interviewers to identify and classify 
+these similar victimizations as series victimizations and to collect detailed 
+information on only the most recent incident in the series. In 2011, about 3% 
+of all victimizations were series incidents. Weighting series incidents as 
+the number of incidents up to a maximum of 10 incidents produces more 
+reliable estimates of crime levels, while the cap at 10 minimizes the effect 
+of extreme outliers on the rates. Additional information on the series 
+enumeration is detailed in the report Methods for Counting High Frequency 
+Repeat Victimizations in the National Crime Victimization Survey, NCJ 237308, 
+BJS website, April 2012.
+
+Trend estimates are based on 2-year rolling averages centered on the most 
+recent year. Other tables present data from 3 years: 1994, 2001, and 2011, 
+which also represent the average estimates from the 2-year period ending that 
+year. For example, estimates reported for 2011 represent the average 
+estimates for 2010 and 2011. These methods of analysis improve the 
+reliability and stability of estimate comparisons over time.
+
+Standard error computations
+----------------------------
+
+When national estimates are derived from a sample, as is the case with the 
+NCVS, caution must be taken when comparing one estimate to another or when 
+comparing estimates over time. Although one estimate may be larger than 
+another, estimates based on a sample have some degree of sampling error. The 
+sampling error of an estimate depends on several factors, including the 
+amount of variation in the responses, the size of the sample, and the size of 
+the subgroup for which the estimate is computed. When the sampling error 
+around the estimates is taken into consideration, the estimates that appear 
+different may not be statistically different.
+
+One measure of the sampling error associated with an estimate is the standard 
+error. The standard error can vary from one estimate to the next. In general, 
+for a given metric, an estimate with a smaller standard error provides a more 
+reliable approximation of the true value than an estimate with a larger 
+standard error. Estimates with relatively large standard errors are 
+associated with less precision and reliability and should be interpreted with 
+caution.
+
+In order to generate standard errors around numbers and estimates from the 
+NCVS, the Census Bureau produces generalized variance function (GVF) 
+parameters for BJS. The GVFs take into account aspects of the NCVS complex 
+sample design and represent the curve fitted to a selection of individual 
+standard errors based on the Jackknife Repeated Replication technique. The 
+GVF parameters were used in the report to generate standard errors for each 
+point estimate (such as counts, percentages, and rates).
+
+BJS conducted tests to determine whether differences in estimated numbers and 
+percentages were statistically significant once sampling error was taken into 
+account. Using statistical programs developed specifically for the NCVS, all 
+comparisons in the text were tested for significance. The primary test 
+procedure used was Student’s t-statistic, which tests the difference between 
+two sample estimates. To ensure that the observed differences between 
+estimates were larger than might be expected due to sampling variation, the 
+significance level was set at the 95% confidence level.
+
+Data users can use the estimates and the standard errors of the estimates 
+provided in this report to generate a confidence interval around each 
+estimate as a measure of the margin of error. The following example 
+illustrates how standard errors can be used to generate confidence intervals:
+
+** According to the NCVS, from 2010 to 2011, there were 26.3 completed 
+burglaries per 1,000 households in urban areas (see table 5). Using the GVFs, 
+BJS determined that the estimate has a standard error of 1.2 completed 
+burglaries per 1,000 households (see appendix table 10). A confidence 
+interval around the estimate was generated by multiplying the standard errors 
+by ±1.96 (the t-score of a normal, two-tailed distribution that excludes 2.5% 
+at either end of the distribution). Therefore, the confidence interval around 
+the 26.3 completed burglaries per 1,000 households estimate is equal to 26.3 
+± 1.2 X 1.96 (or 24.0 completed burglaries per 1,000 households to 28.7 
+completed burglaries per 1,000 households). In other words, if different 
+samples using the same procedures were taken from the U.S. population during 
+the period from 2010 to 2011, 95% of the time the rate of completed 
+burglaries in urban areas would fall between 24.0 and 28.7.
+
+In this report, BJS also calculated a coefficient of variation (CV) for all 
+estimates, representing the ratio of the standard error to the estimate. CVs 
+provide a measure of reliability and a means to compare the precision of 
+estimates across measures with differing levels or metrics. In cases where 
+the CV was greater than 50%, or the unweighted sample had 10 or fewer cases, 
+the estimate was noted with a “!” symbol (interpret data with caution; 
+estimate is based on 10 or fewer sample cases, or the coefficient of 
+variation exceeds 50%).
+
+
+Many of the variables examined in this report may be related to one another 
+and to other variables not included in the analyses. Complex relationships 
+among variables in this report were not fully explored and warrant more 
+extensive analysis. Readers are cautioned not to draw causal inferences based 
+on the results presented.
+
+Adjusting for inflation
+------------------------
+
+All dollar values in the report are presented in constant 2011 dollars. 
+Estimates were adjusted for 2011 inflation using the consumer price index for 
+all consumers (CPI-U) adjustment factor. The CPI-U is the broadest and most 
+comprehensive consumer price index (www.bls.gov).
+
+Methodological changes to the NCVS in 2006
+-------------------------------------------
+
+Methodological changes implemented in 2006 may have affected the crime 
+estimates for that year to such an extent that they are not comparable to 
+estimates from other years. Evaluation of 2007 and later data from the NCVS 
+conducted by BJS and the Census Bureau found a high degree of confidence that 
+estimates for 2007, 2008, 2009, 2010, and 2011 are consistent with and 
+comparable to estimates for 2005 and previous years. The reports, Criminal 
+Victimization, 2006, NCJ 219413, December 2007; Criminal Victimization, 2007, 
+NCJ 224390, December 2008; Criminal Victimization, 2008, NCJ 227777, 
+September 2009; Criminal Victimization, 2009, NCJ 231327, October 2010; 
+Criminal Victimization, 2010, NCJ 235508, September 2011; and Criminal 
+Victimization, 2011, NCJ 239437, October 2012, are available on the BJS 
+website.
+
+Although caution is warranted when comparing data from 2006 to other years, 
+the use of 2-year rolling averages in this report diminishes the potential 
+variation between 2006 and other years. In general, findings do not change 
+significantly if the year 2006 is excluded from the analyses.
+
+**********************************************************
+The Bureau of Justice Statistics is the statistics agency of the U.S. 
+Department of Justice. William J. Sabol is acting director.
+
+This report was written by Jennifer Hardison Walters, M.S.W., Andrew Moore, 
+M.Stat., and Marcus Berzofsky, D.Ph. of RTI International, and Lynn Langton, 
+Ph.D. of BJS. RTI International verified the report.
+
+Vanessa Curto and Jill Thomas edited the report, and Barbara Quinn produced 
+the report under the supervision of Doris J. James.
+June 2013, NCJ 241754
+**********************************************************
+
+************************************************
+Office of Justice Programs
+Innovation • Partnerships • Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+*************************
+6/12/2013/ JER/ 1:17
+*************************
+

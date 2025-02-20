@@ -1,0 +1,2735 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+May 2012, NCJ 237363
+
+Sexual Victimization Reported by Former State Prisoners, 2008
+
+Allen J. Beck, Ph.D.
+BJS Statistician
+
+Candace Johnson, Ph.D.
+Principal Research Scientist, NORC 
+
+Bureau of Justice Statistics
+James P. Lynch
+Director
+
+BJS Website:
+www.bjs.gov
+
+askbjs@usdoj.gov
+---------------------------------------------------
+This file is text without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.cvs) and the full report including
+tables and graphs in .pdf format are available at:
+http://bjs.gov/index.cfm?ty=pbdetail&iid=2234
+
+---------------------------------------------------
+
+************************************************************
+     
+The Bureau of Justice Statistics is the statistics agency of
+the U.S. Department of Justice. James P. Lynch is director.
+
+************************************************************
+************************************************************
+
+This compendium was written by Allen J. Beck, BJS
+Statistician, and Candace Johnson, NORC Research Scientist.
+Jessica Rexroat, BJS intern, verified the report.
+
+************************************************************
+************************************************************
+
+BJS statisticians Christopher J. Mumola and Paige M.
+Harrison, under the supervision of Allen J. Beck, were
+project managers for the National Former Prisoner Survey.
+NORC, under a cooperative agreement and in collaboration with
+BJS staff, developed the survey and collected, processed, and
+analyzed the data. Candace Johnson with Pam Loose directed
+the project; Kirk Wolter and Ken Copeland guided sampling,
+weighting, and other statistical support services; Kris
+Talley and Patt Maugherman led field operations; Angela
+Herrmann directed telephone center activities; Mike Cooke
+managed TACASI development and IT support; Marissa Kiss,
+Stephanie Poland, Mehera Baugher, and Emily Frizzell assisted
+throughout the project; and Lynda Okeke and Fang Wang
+prepared statistical tables. 
+
+**************************************************************
+
+**************************************************************
+
+Vanessa Curto and Jill Thomas edited the report, and Barbara
+Quinn and Tina Dorsey designed and produced the report, under
+the supervision of Doris J. James.
+*************************************************************
+
+May 2012, NCJ 237363
+
+National Former Prisoner Survey, 2008
+
+Sexual Victimization Reported by Former State Prisoners, 2008
+
+Allen J. Beck, Ph.D.
+BJS Statistician
+
+Candace Johnson, Ph.D.
+Principal Research Scientist, NORC 
+
+May 2012, NCJ 237363
+
+BJS
+************************************************************
+
+*********
+Contents
+*********
+
+Highlights  
+                                                           5
+
+Incidents of sexual victimization                          8
+
+Type of coercion and physical injury                      12
+
+Circumstances surrounding victimization                   14
+
+Variations by sex of former inmates                       15
+
+Variations by other individual-level characteristics      16
+
+Variations by selected facility-level characteristics     20
+
+Prison placements and individual-level risk factors       25
+
+Reporting of sexual victimization                         30
+
+Post-release responses to victimization                   32
+
+HIV testing and results                                   33
+
+Methodology                                               35
+
+Appendix A                                                40
+
+Appendix B                                                41
+
+Appendix C                                                43
+
+Appendix D                                                44
+
+Appendix E                                                45
+
+*************************************************************
+
+**************
+List of tables
+***************
+
+Table 1. Former state prisoners reporting sexual
+victimization during most recent period of incarceration, by
+type of victimization and facility                         8
+
+Table 2. Former state prisoners reporting sexual
+victimization in a community-based correctional facility  10
+
+Table 3. Criminal history and supervision status of persons
+under active parole supervision, by sex of former inmate   11
+
+Table 4. Type of coercion and physical injury of former state
+prisoners who reported sexual victimization, by type of 
+incident                                                  12
+
+Table 5. Circumstances surrounding sexual victimization of
+former state prisoners, by type of incident               14
+
+Table 6. Former state prisoners reporting sexual
+victimization, by sex of inmate                           15
+
+Table 7. Staff sexual misconduct and type of activity, by sex
+of victim and sex of staff                                15
+
+Table 8. Prevalence of sexual victimization, by type of
+incident and former prisoner demographic characteristics  16
+
+Table 9. Prevalence of sexual victimization, by type of
+incident and former prisoner criminal justice status and
+history                                                   17
+
+Table 10. Multivariate logistic regression models of sexual
+victimization, by type of incident, former prisoner
+demographic characteristics, and former prisoner criminal
+justice status and history                                19
+
+Table 11. Prison facilities entered and prison placements, by
+former state prisoners                                    20
+
+Table 12. Sequence of reported sexual victimization in
+prison, by sex of victim and type of incident             21
+
+Table 13. Prevalence of sexual victimization during prison
+placement, by sex of inmate, type of incident, and
+facility-level characteristics                            23
+
+Table 14. Prevalence of sexual victimization during each
+prison placement, comparing the National Former Prisoner
+Survey, 2008, and National Inmate Survey, 2008 09         25
+
+Table 15. Prevalence of sexual victimization among male and
+female placements, by type of incident and former prisoner
+characteristics                                           26
+
+Table 16. Final multivariate logistic regression models of
+sexual victimization among male and female placements, by
+type of incident and former prisoner and facility
+characteristics                                          28
+
+Table 17. Reporting of sexual victimization, by type of
+incident and persons to whom the incident was reported   30
+
+Table 18. Reasons for not reporting sexual victimization to
+facility staff, by type of victimization                  31
+
+Table 19. Facility responses to the reporting of sexual
+victimization to staff, by type of incident               31
+
+Table 20. Post-release responses of victims to sexual
+victimization, by type of incident                        32
+
+Table 21. HIV testing and results for former state prisoners,
+by type of victim                                         33
+
+Table 22. Current employment, housing, and living
+arrangements of former inmates under active parole
+supervision, by victimization status                      34
+
+***********************
+List of appendix tables
+***********************
+
+Appendix table 1. Standard errors for table 4: Type of
+coercion and physical injury of former state prisoners who
+reported sexual victimization, by type of incident        46
+
+Appendix table 2. Standard errors for table 5: Circumstances
+surrounding sexual victimization of former state prisoners,
+by type of incident                                       47
+
+Appendix table 3. Wald-F statistics for former prisoner
+characteristics in the final multivariate logistic regression
+models of sexual victimization, by type of incident       48
+
+Appendix table 4. Wald-F statistics for former state prisoner
+and facility characteristics in the final multivariate
+logistic regression models of sexual victimization among male
+and female placements, by type of incident                49
+
+Appendix table 5. Standard errors for table 17: Reporting of
+sexual victimization, by type of incident and persons to whom
+the incident was reported                                 50
+
+Appendix table 6. Standard errors for table 19: Facility
+responses to the reporting of sexual victimization to staff, 
+by type of incident                                       50
+
+Appendix table 7. Standard errors for table 20: Post-release
+responses of victims to sexual victimization, by type of 
+incident                                                  51
+
+*************
+Highlights
+*************
+
+Prevalence of sexual victimization
+
+* An estimated 9.6% of former state prisoners reported one or
+more incidents of sexual victimization during the most recent
+period of incarceration in jail, prison, and post-release
+community-treatment facility.
+
+* Among all former state prisoners, 1.8% reported
+experiencing one or more incidents while in a local jail,
+7.5% while in a state prison, and 0.1% while in a
+post-release community-treatment facility.  
+
+* About 5.4% of former state prisoners reported an incident
+that involved another inmate. An estimated 3.7% of former
+prisoners said they were forced or pressured to have
+nonconsensual sex with another inmate, including manual
+stimulation and oral, anal, or vaginal penetration. 
+
+* About 5.3% of former state prisoners reported an incident
+that involved facility staff. An estimated 1.2% of former
+prisoners reported that they unwillingly had sex or sexual
+contact with facility staff, and 4.6% reported that they
+"willingly" had sex or sexual contact with staff.
+
+* Although the rate of sexual victimization in state prison
+reported by former inmates (7.5%) was higher than the rate
+reported by inmates in previous BJS surveys (4.8% in
+2008-09), the difference may reflect longer exposure periods
+(39.4 months and 7.9 months, respectively).
+
+Coercion and physical injury 
+
+* Among victims of inmate-on-inmate sexual violence, a
+quarter had been physically held down or restrained, and a
+quarter had been physically harmed or injured.
+
+* Half of all victims of staff sexual misconduct said they
+had been offered favors or special privileges; a third said
+they had been persuaded or talked into it. 
+
+* Approximately 16% of victims of unwilling sexual activity
+with staff, compared to 2% of victims of "willing" sexual
+activity, reported being physically injured by staff. 
+ 
+Individual risk factors
+
+* The rate of inmate-on-inmate sexual victimization was at
+least 3 times higher for females (13.7%) than males (4.2%).
+
+* The rate of "willing" sexual activity with staff was higher
+among males (4.8%) than females (2.6%), and the rate of
+unwilling sexual activity was higher among females (2.5%)
+than males (1.1%).
+
+* Among heterosexual males, an estimated 3.5% reported being
+sexually victimized by another inmate. In comparison, among
+males who were bisexual, 34% reported being sexually
+victimized by another inmate.  Among males who were
+homosexual or gay, 39% reported being victimized by another
+inmate.
+
+* Female heterosexual inmates reported lower rates of
+inmate-on-inmate victimization (13%) and staff sexual
+misconduct (4%) than female bisexual inmates (18% and 8%,
+respectively).
+ 
+* Among female homosexual or lesbian inmates, the rate of
+inmate-on-inmate sexual victimization was similar to that for
+female heterosexual inmates (13%), while the rate of staff
+sexual victimization was at least double (8%) that for female
+heterosexual inmates (4%). 
+
+* The rate of imate-on-inmate sexual victimization for males
+was higher among non-Hispanic white inmates (5.9%) and
+inmates of two or more races (9.5%) than non-Hispanic black
+inmates (2.9%).
+
+Among male former state prisoners, the rates of staff sexual
+misconduct were higher for those of two or more races (11.3%)
+and black non-Hispanics (6.5%) than for white non-Hispanics
+(4.5%) and Hispanics (4.0%). 
+
+* The rate of staff sexual misconduct was higher for male
+inmates ages 20 to 24 (7.9%) than for male inmates ages 25 to
+34 (5.2%), ages 35 to 44 (3.5%), and age 45 or older (2.0%). 
+
+* Among female former state prisoners, rates of staff sexual
+misconduct were lower for those ages 35 to 44 (3.1%) and age
+45 or older (1.6%), compared to those ages 20 to 24 (6.7%).
+
+* Most victims of staff sexual misconduct (87%) reported only
+perpetrators of the opposite sex.
+
+* Among victims of staff sexual misconduct, 79% were males
+reporting sexual activity with female staff. An additional 5%
+were males reporting sexual activity with both female and
+male staff.
+
+Facility characteristics
+
+* Rates of sexual victimization did not vary among commonly
+cited characteristics of facilities, including size of
+facility, facility age, crowding, inmate-to-staff ratios, or
+gender composition of staff.
+
+* Among male former inmates, inmate-on-inmate and
+staff-on-inmate victimization rates were higher in facilities
+under a court order or consent decree, higher in facilities
+reporting a major disturbance in the 12 months prior to the
+most recent facility census, higher in facilities with medium
+or greater security levels, and higher in facilities with a
+primary function of housing general population than in
+facilities without these characteristics.
+
+* Among female former inmates, rates of inmate-on-inmate
+victimization were lower in community corrections centers, in
+facilities that permitted 50% or more of their inmates to
+leave unaccompanied during the day, in minimum or low
+security facilities, and in privately operated facilities
+than in facilities without these characteristics.
+
+* After controlling for multiple individual-level
+characteristics 
+
+**Inmate-on-inmate and staff-on-inmate victimization rates
+among males were lower in reception and diagnostic centers
+than in facilities that housed general population, and lower
+in minimum security facilities than in facilities with higher
+security levels. 
+
+**Inmate-on-inmate victimization rates among females were
+lower in facilities that permitted 50% or more of their
+inmates to leave unaccompanied during the day than in other
+confinement facilities, lower in medium security facilities
+than in maximum or high security facilities, and higher in
+facilities that had a major disturbance in the census year
+than in facilities that did not.
+
+Sexual victimization and its consequences
+
+* Following their release from prison, 72% of victims of
+inmate-on-inmate sexual victimization indicated they felt
+shame or humiliation, and 56% said they felt guilt. 
+
+* The majority of victims of staff sexual misconduct
+involving unwilling activity said they felt shame or
+humiliation (79%) and guilt (72%) following their release
+from prison. More than half (54%) reported having difficulty
+feeling close to friends or family members as a result of the
+sexual victimization.
+
+* Although the vast majority of victims of staff sexual
+misconduct (86%) reported at least one incident that they
+considered "willing," approximately a quarter said they felt
+guilt (27%) or shame and humiliation (23%) after their
+release from prison.
+
+* Among former inmates who had been tested for HIV (90%),
+those who had been sexually victimized by other inmates or by
+staff had significantly higher percentages for HIV positive
+(6.5% and 4.6%, respectively) than those who had not been
+victimized (2.6%).
+
+* Among former inmates under parole supervision, victims and
+nonvictims did not differ in their current employment (64%
+employed) or housing arrangements (92% in house, apartment,
+trailer, or mobile home); however, victims (18%) were
+somewhat more likely than nonvictims (14%) to be living
+alone. 
+
+Sexual Victimization Reported by Former State Prisoners, 2008
+
+The Bureau of Justice Statistics (BJS) conducted the
+first-ever National Former Prisoner Survey (NFPS) between
+January 2008 and October 2008. NORC at the University of
+Chicago, under a cooperative agreement with BJS, collected
+the data. A total of 317 parole offices in 40 states were
+randomly included in the survey sample. A total of 17,738
+former state prisoners who were under active supervision
+(i.e., required to contact a supervisory parole authority
+regularly in person, by mail, or by telephone) participated
+in the national survey. Interviews from an additional 788
+former prisoners were included from the survey test sites.
+These former inmates had been randomly selected from 16
+offices sampled. Based on 18,526 completed interviews, the
+survey achieved a 61% response rate. (See Methodology for
+further details.)
+
+The NFPS is part of the National Prison Rape Statistics
+Program, which collects both administrative records of
+reported sexual violence and allegations of sexual
+victimization directly from victims. BJS has collected
+administrative records annually since 2004. We collected
+victim reports through surveys of adult inmates in prisons
+and jails in the National Inmate Survey in 2007 (NIS-1) and
+in 2008-09 (NIS-2) and through surveys of youth held in
+juvenile correctional facilities in the National Survey of
+Youth in Custody in 2008-09 (NSYC-1). 
+
+The NFPS collects data on the totality of the prior term of
+incarceration, including any time in a local jail, state
+prison, or community correctional facility prior to final
+discharge.  Because the survey is based on a sample of parole
+offices and not a sample of prisons, the NFPS is not
+conducive to providing facility estimates or rankings. The
+NFPS is designed to encourage a fuller reporting of
+victimization, by surveying only former inmates, who are not
+subject to the immediate risk of retaliation from
+perpetrators or a code of silence while in prison. The NFPS
+may elicit reports of incidents that were unreported in the
+previous NIS-1 and NIS-2 surveys of prisoners; however, some
+reports may be untrue. At the same time, some former inmates
+may remain silent about sexual victimization experienced
+while incarcerated, despite efforts to assure victims that
+their responses will be kept confidential. 
+
+**************************************************
+Other PREA data collections
+
+The Prison Rape Elimination Act of 2003 (PREA; P.L. 108-79)
+requires the Bureau of Justice Statistics (BJS) to carry out,
+for each calendar year, a comprehensive statistical review
+and analysis of the incidence and effects of prison rape. The
+act further specifies that the review and analysis shall be
+based on a random sample or other scientifically appropriate
+sample of not less than 10% of all federal, state, and county
+prisons and a representative sample of municipal prisons.  It
+requires BJS to use surveys and other statistical studies of
+current and former inmates. To fully meet these requirements,
+BJS has developed a multiple measure, multi-mode data
+collection strategy, in which the NFPS is one component.
+                                   
+National Survey of Youth in Custody (NSYC) provides
+facility-level estimates of youth reporting sexual
+victimization in juvenile facilities, as required under PREA.
+The first NSYC (NSYC-1) was conducted in 2008-09; the second
+(NSYC-2) is underway and will be completed by September 2012.
+NSYC-2 will provide estimates for large facilities that house
+adjudicated youth and for each of the 50 state systems and
+the District of Columbia.
+
+National Inmate Survey (NIS) gathers data on the incidence of
+sexual assault in adult prisons and local jail facilities, as
+reported by inmates. The first NIS (NIS-1) was conducted in
+2007, the second (NIS-2) was conducted in 2008-09, and the
+third (NIS-3) is underway and will be completed by May 2012.
+Based on inmate allegations, the NIS provides facility-level
+estimates used to rank facilities as required under PREA. 
+
+Survey of Sexual Violence (SSV) collects data annually on the
+incidence of sexual violence in adult and juvenile
+correctional facilities. Based on administrative data only,
+the SSV is limited to incidents reported to correctional
+officials.  Begun in 2004, the SSV provides detailed
+information on incidents that have been substantiated upon
+investigation. 
+
+Clinical Indicators of Sexual Violence in Custody (CISVC) In
+2010 11, in collaboration with the National Institute of
+Justice (NIJ) and the Centers for Disease Control and
+Prevention (CDC), BJS conducted a feasibility study using
+medical indicators and medical surveillance methodologies. As
+part of routine medical practice, medical staff in 19 prisons
+and 11 jails completed a surveillance form for adult males
+who either made an allegation of sexual violence or displayed
+clinical conditions consistent with sexual victimization. 
+Results of the 12-month pilot study are expected in 2012
+
+*************************************************************
+               
+**********************************
+Incidents of sexual victimization
+**********************************
+
+9.6% of former state prisoners reported one or more incidents
+of sexual victimization during the most recent period of
+incarceration in jail, prison, or a post-release
+community-treatment facility
+
+Among the 18,526 former state inmates participating in the
+NFPS survey, 2,096 reported experiencing one or more
+incidents of sexual victimization during their most recent
+period of incarceration, including the combined time in local
+jails, state prisons, or post-release community-treatment
+facilities. Because the NFPS is a sample survey, weights were
+applied to the sampled offices and offenders under their
+supervision to produce national-level estimates. The
+estimated number of former state prisoners experiencing
+sexual victimization totaled 49,000, or 9.6% of all former
+state prisoners under active supervision at midyear 2008
+(table 1).
+
+Among all former state prisoners, 1.8% reported experiencing
+one or more incidents while in a local jail, 7.5% while in a
+state prison, and 0.1% while in a post-release
+community-treatment facility. An estimated 1.4% reported an
+incident in a facility for which the type could not be
+determined. 
+
+5.4% of former inmates reported an incident with another
+inmate; 5.3% reported an incident with staff
+
+Among former state prisoners, 5.4% (or an estimated 27,300
+prisoners nationwide at midyear 2008) reported an incident
+that involved another inmate, and 5.3% (27,100) reported an
+incident that involved facility staff. Some inmates (1.1%)
+reported sexual victimization by both another inmate and
+facility staff.
+
+An estimated 3.7% of former prisoners said they had
+nonconsensual sex with another inmate, including manual
+stimulation and oral, anal, or vaginal penetration. An
+additional 1.6% of former prisoners said they had experienced
+one or more abusive sexual contacts only with another inmate,
+including unwanted touching of the inmate's buttocks, thigh,
+penis, breast, or vagina in a sexual way.
+
+An estimated 1.2% of former prisoners reported that they
+unwillingly had sex or sexual contact with facility staff. An
+estimated 4.6% said they "willingly" had sex or sexual
+contact with staff.
+
+**************************************************************
+National Former Prisoner Survey Protocol
+
+
+Active post-custody supervision
+
+Only people who had served time in a state prison, were age
+18 or older at the time of the survey, and under active
+post-release supervision were eligible to be part of the
+NFPS. The survey includes some people who were under age 18
+at the time of their incarceration. These people were
+sentenced as adults and served time in adult facilities.
+
+In 2008, approximately 85% of all persons under some form of
+post-custody supervision were considered to be under active
+supervision. Individuals who were ineligible for the survey
+included those who had absconded, were re-incarcerated, were
+in a halfway house or community-based treatment center, had a
+warrant issued for their arrest, were in violator status, or
+had been transferred to another parole office. Persons under
+supervision in small offices (under 40 parolees) in remote
+areas or in specialty offices (e.g., sex offender supervision
+or treatment facilities) were also excluded from the survey.
+Overall, the NFPS is a representative sample of approximately
+510,800 former state prisoners under supervision at midyear
+2008. (See Methodology for sampling information.)
+
+Audio computer-assisted self-interview
+
+The NFPS interviews, which averaged 23 minutes in length,
+were conducted using computer-assisted personal interviewing
+(CAPI) and audio computer-assisted self-interviewing (ACASI)
+data collection methods. Survey interviewers initiated the
+personal interview using CAPI to obtain demographic and
+criminal history information. For the remainder of the
+interview, respondents interacted with a
+computer-administered questionnaire using a touch-screen and
+synchronized audio instructions delivered via headphones.
+Respondents completed the survey in private at the parole
+office (or satellite office), with the interviewer in the
+room but unable to see the computer screen. (See Methodology
+for further description of the survey protocol.)
+
+Voluntary participation with incentives
+
+Before the interview, respondents were informed verbally and
+in writing that participation was voluntary and that all
+information provided would be held in confidence.  They were
+also informed that if they agreed to participate, they would
+receive $50 as a token of appreciation for participating in
+the survey.  A second automated consent protocol was
+administered at the beginning of the ACASI portion of the
+interview to confirm that the respondent had been properly
+informed that participating in the survey was voluntary and
+that they were "ready to continue with the interview."
+
+Measuring sexual victimization
+
+The NFPS first screened for inmate-on-inmate sexual touching
+"when they didn't want this to happen" and sexual activity
+"in which they did not want to participate." Respondents were
+then asked about the specific sexual activity, including
+oral, anal, or vaginal penetration, and about the specific
+contact, including touching of buttocks, thighs, breasts,
+penis, or vagina in an attempt to hurt or arouse the victim
+or the perpetrator. (See appendix A and B for specific survey
+questions.) Reports of inmate-on-inmate sexual victimization
+were classified as either nonconsensual sexual acts or
+abusive sexual contacts.
+
+The NFPS also asked about staff sexual activity, including
+staff sexually harrassing the inmate, staring inappropriately
+at the inmate, and forcing the inmate to undress or brushing
+private parts when "it was not required by their job." Former
+inmates were then screened for sexual contact with staff,
+"whether it was willing or not," or "whether you wanted to
+have it or not." These contacts may have included oral, anal,
+or vaginal penetration and other forms of sexual stimulation
+through rubbing the penis and touching other private parts.
+(See appendix C and D for specific survey questions.)
+ 
+Reports of staff sexual misconduct involving physical force,
+threat of force, fear of bodily injury, and being pressured
+or made to feel they had no choice were classified as
+"unwilling." Other reports of staff sexual misconduct in
+which former inmates reported willingly having sex or sexual
+contact with staff were classified as "willing" even though
+any sex or sexual contact between inmates and staff is
+illegal. (See Definition of terms on page 13.)
+
+**************************************************************
+
+Former prisoners reported a wide variety of other sexual
+experiences with staff that were inappropriate:
+
+* An estimated 8.9% reported that staff had hassled or
+harassed them in a sexual way.
+
+* 27.9% said that staff had stared or watched them at
+inappropriate times (e.g., while the inmate was dressing or
+taking a shower). 
+
+* 13.5% said that staff had forced them to undress in their
+presence or had brushed against their private parts when
+"they did not think it was an accident or it was not required
+by their job."
+
+Nearly a third (32.4%) of all former inmates reported one or
+more of these types of experiences. While inappropriate,
+these lesser forms of staff sexual misconduct were not
+included in the analysis unless combined with reports of
+"willingly" or unwillingly having sex or sexual contact with
+staff. (See appendix D for survey items related to
+staff-on-inmate sexual victimization.)
+
+Few former inmates reported experiencing sexual victimization
+while in a community-based correctional facility
+
+Correctional facilities are typically classified as
+community-based if 50% or more of the residents are regularly
+permitted to leave unaccompanied by facility staff to work or
+study in the community. Community-based facilities include
+entities such as halfway houses, residential treatment
+centers, restitution centers, and pre-release centers.
+Although community-based correctional facilities are covered
+by the Prison Rape Elimination Act (PREA), little data have
+been available on the rate of sexual victimization in these
+facilities. Despite the large number of such facilities (529
+of the 1,719 state correctional facilities in 2005), they
+hold few inmates on any single day (54,233 inmates at yearend
+2005, or approximately 4% of all state inmates held
+nationwide) (See Census of State and Federal Correctional
+Facilities, 2005, October 2008, BJS Web, NCJ 222182, appendix
+tables 2 and 10.) As a result of their small size (an average
+of 102 inmates per facility) and the relatively short length
+of stay for most inmates while in community-based facilities,
+inmates held in these facilities have been excluded from
+previous PREA-related inmate surveys.
+
+The NFPS provides the first systematic data available on
+sexual victimization in community-based facilities. An
+estimated 66,400 former state prisoners (13%) said they had
+served some time in a community-based treatment facility or
+halfway house after release from prison. Among those inmates
+who had served time in such a facility, 0.9% reported
+experiencing one or more incidents of sexual victimization
+while in the facility (table 2). Among all former state
+prisoners, 0.1% said they had been sexually victimized while
+in a post-release community-treatment facility.
+Approximately 65,500 former inmates (13%) reported spending
+time in a community-based facility before their release from
+prison. During the time they had been placed in such a
+facility, 2.0% reported experiencing one or more incidents of
+sexual victimization: 0.7% reported inmate-on-inmate sexual
+victimization, while 1.4% reported staff-on-inmate
+victimization.
+
+Sexual victimization rates differed from those previously
+reported in the NIS-1 and NIS-2 
+
+The rate of sexual victimization reported by former state
+prisoners (9.6%) was substantially higher than the rates
+reported in the previous BJS National Inmate Surveys which
+were based on confined state and federal inmates (e.g., 4.5%
+in the NIS-1 conducted in 2007 and 4.4% in the NIS-2
+conducted in 2008-09). The differences may largely reflect
+longer average exposure time among former inmates. 
+
+Unlike NFPS, the NIS-1 and NIS-2 provide facility-specific
+estimates of the prevalence of sexual victimization. As
+required under the PREA of 2003, these surveys are designed
+to provide a list of prisons and jails ranked by the
+prevalence of sexual victimization. To eliminate experiences
+that may have occurred in other facilities or in the distant
+past and to control for the varying length of stay, the NIS-1
+and NIS-2 asked inmates to provide the most recent date of
+admission to the current facility. To provide comparative
+rates, if the date of admission was at least 12 months prior
+to the date of the interview, inmates were asked questions
+related to their experiences during the past 12 months. If
+the admission date was less than 12 months prior to the
+interview, inmates were asked about their experiences since
+they arrived at the facility. 
+
+As a consequence, the average exposure period among state
+prisoners participating in the NIS-2 was 7.9 months, compared
+to the average of 39.4 months that the former inmates in the
+NFPS had served in state prisons prior to their release
+(excluding time served in a local jail or post-release
+community-treatment facility). (See Methodology for
+differences in coverage between NFPS and NIS.)
+
+**********************************************************
+Criminal history and supervision profile of former inmates
+
+In addition to collecting data on the sexual experiences of
+former state inmates during their most recent period of
+confinement, the NFPS gathered information on their criminal
+histories and their current supervision (table 3). Results
+from the survey include the following:
+
+* Among former state inmates under active supervision, 47%
+had been on parole or community supervision for less than 12
+months, 24% for 12 to 23 months, 12% for 24 to 35 months, and
+17% for 36 months or more.
+
+* About a third of the former inmates under active parole
+supervision had served time for a violent offense (33%) or a
+drug offense (30%), a quarter for a property offense (25%),
+and an eighth for a public-order offense (12%).
+
+* Nearly 21% of the former inmates under active supervision
+had served time for a probation violation; 21% for a parole
+violation.  
+  
+* Nineteen percent of the former state prison inmates had
+served less than 12 months in prison or jail before their
+release from prison; 25% had served 12 to 23 months; 16%, 24
+to 35 months; 17%, 36 to 59 months; and 23%, 60 months or
+more.
+
+* More than half of those under supervision (56%) had been
+released as a result of a parole board decision.
+
+* As a condition of their release, more than 90% of the
+parolees were required to submit to drug testing; 78% were
+required to be employed. 
+
+* Participation in a treatment or counseling program was also
+required of 53% of the parolees for drugs; 39% for alcohol;
+and 26% for issues other than drugs or alcohol. 
+
+* Nearly 80% of parolees said they had a face-to-face meeting
+in the last month with their parole officer in the parole
+office; 57% said they had a face-to-face meeting outside of
+the office (at home, at work, or elsewhere); and 48% said
+they had been contacted by mail, e-mail, or telephone.
+
+****************************************************************
+
+**************************************
+Type of coercion and physical injury
+**************************************
+  
+Among victims of inmate-on-inmate sexual violence, a quarter
+had been physically held down or restrained and a quarter had
+been physically harmed or injured 
+  
+Incidents of inmate-on-inmate sexual victimization involved a
+wide array of acts with differing levels of coercion and
+force to get the victim to participate. Although many of the
+victims were not raped, all of the victims had been sexually
+abused. 
+
+Force or threat of force or harm was reported by 59% of
+victims of inmate-on-inmate sexual victimization about 3.2%
+of former state prisoners overall (not shown in table). An
+estimated 53% said they had been threatened with harm or a
+weapon; 28% had been physically held down or restrained, and
+25% had been physically harmed or injured. (table 4).
+
+The most common form of coercion other than force or threat
+of force was being "persuaded or being talked into it" (34%)
+against their will. A quarter of victims (26%) said the
+inmate perpetrator had given them a bribe or blackmailed
+them, and a quarter (24%) said they had been offered or given
+protection from other inmates. In addition, some victims had
+been given drugs or alcohol to get them drunk or high (9%),
+and some had sexual contact to pay off or settle a debt that
+they owed (8%). Overall, 52% of victims reported one or more
+of these types of coercion.
+
+Among victims of inmate-on-inmate sexual victimization, the
+most common injuries were anal or vaginal tearing, severe
+pain or bleeding (12%) and chipped or lost teeth (12%).
+Although 29% of all victims reported bruises, black eyes,
+sprains, cuts, scratches, swelling, or welts from one or more
+incidents involving another inmate, nearly a quarter (23%)
+also reported more serious injuries
+
+Half of victims of staff sexual misconduct said they had been
+offered favors or special privileges; a third had been
+persuaded or talked into it; a quarter had been bribed or
+blackmailed
+
+Most victims of staff sexual misconduct said they "willingly"
+had sex or sexual contact with staff; however, many of these
+victims also reported sexual contact or activity with staff
+that involved some form of coercion. Among the estimated
+23,300 former prisoners who reported some type of "willing"
+activity with staff, 11% (2,500) also reported unwilling
+sexual activity with staff. The most common form of coercion
+reported by the 23,300 "willing" victims was offers of favors
+or special privileges by staff (49%), followed by being
+persuaded or talked into it by staff (34%) and being given a
+bribe or blackmailed (24%). Overall, 62% of inmates who had
+engaged in "willing" sex or sexual activity with staff
+reported some type of coercion or offer of favors, special
+privileges, or protection by staff.
+
+An estimated 6,300 former state prisoners (1.2%) reported
+unwilling sexual activity with staff during their most recent
+period of incarceration. These unwilling victims (48%) were
+more likely than "willing" victims of staff sexual misconduct
+(5%) to report having been physically forced or threatened by
+staff. An estimated 44% of unwilling victims said they had
+been threatened with harm or a weapon, 19% said they had been
+physically held down, and 15% said they had been physically
+harmed or injured. 
+
+Nearly 7 of every 8 inmates who reported unwilling sexual
+activity with staff said that staff had employed other forms
+of coercion to engage them in sexual activities or have
+sexual contact. In specific, 72% of the victims were offered
+favors or special privileges, 72% were persuaded or talked
+into it, 60% were given bribes or blackmailed, 34% were
+offered protection from other staff, and 21% were given drugs
+or alcohol.
+
+These reports suggest that these former inmates experienced a
+wide array of pressures from staff to have sexual contact
+against their will. More than 80% of victims who reported
+force and threat of force also reported one or more of these
+other forms of coercion (not shown in table). 
+
+Four percent of victims of staff sexual misconduct reported
+that they were physically injured
+
+Approximately 16% of victims of unwilling sexual activity
+with staff, compared to 2% of victims of "willing" sexual
+activity, reported being physically injured by staff. Among
+victims of unwilling activity, the most commonly reported
+injuries were bruises, black eyes, sprains, cuts, scratches,
+swelling or welts (11.8%). Most of these victims of unwilling
+sexual activity also reported more serious injuries,
+including anal or vaginal tearing (8.8%), loss or chipping of
+teeth (6.3%), and receiving internal injuries (4.9%). Though
+few victims of "willing" sexual activity with staff reported
+being injured, some (1.6%) reported a serious injury.
+
+***********************************************************
+
+Definition of terms 
+
+Sexual victimization all types of unwanted sexual activity
+with other inmates (e.g., oral, anal, or vaginal penetration,
+hand jobs, or touching of the inmate's buttocks, thighs,
+penis, breasts, or vagina in a sexual way), abusive sexual
+contacts with other inmates, and both willing and unwilling
+sexual activity with staff.
+
+Nonconsensual sexual acts unwanted contact with another
+inmate or any contact with staff that involved oral, anal,
+vaginal penetration, hand jobs, and other sexual acts.
+
+Abusive sexual contacts only unwanted contact with another
+inmate or any contact with staff that involved touching of
+the inmate's buttocks, thighs, penis, breasts, or vagina in a
+sexual way.
+
+Unwilling activity incidents of unwanted sexual contact with
+another inmate or staff.
+
+Willing activity incidents of willing sexual contacts with
+staff. These contacts are characterized by the reporting
+inmates as willing; however, all sexual contacts between
+inmates and staff are legally nonconsensual.
+
+Staff sexual misconduct all incidents of willing and
+unwilling sexual contact with facility staff, and all
+incidents of sexual activity that involved oral, anal or
+vaginal penetration, hand jobs, and other sexual acts with
+facility staff.
+
+*********************************************************
+
+***************************************
+Circumstances surrounding victimization
+***************************************
+
+Inmate-on-inmate victimization occurred most often in the
+victim's cell; staff-on-inmate victimization occurred most
+often in a closet, office, or other locked room
+In the NFPS victims were asked to provide additional
+information about the circumstances surrounding their
+victimization, including the number of times it had happened,
+the number of different perpetrators, when each incident
+occurred, and where it occurred in each facility.
+
+Data provided by inmates who reported sexual victimization by
+another inmate revealed that 
+
+* Victimization was more common in the evening (between 6
+p.m. and midnight) (52%) than at any other time (table 5).
+* Almost two-thirds (62%) of the victims said at least one
+incident took place in their cell or room, and a quarter said
+an incident took place in another inmate's cell or room
+(24%).
+
+* An estimated 46% of inmate-on-inmate victims had been
+victimized by more than one perpetrator.
+About 42% had been victimized once; 31% had been victimized 3
+or more times.
+
+Most victims (86%) of staff sexual misconduct reported more
+than one incident; 47% reported more than one perpetrator
+Data provided by inmates who had been sexually victimized by
+facility staff also revealed that 
+
+* Reports of staff sexual misconduct were more common between
+midnight and 6 a.m. (54%) than at any other time.
+
+* More than two-thirds (70%) of the victims said at least one
+incident had occurred in a closet, office, or other locked
+room; half (54%) of the victims said an incident had occurred
+in a work area; and a third (35%) in a shower or bathroom.
+
+* Reports of when and where incidents had occurred were
+similar among willing and unwilling victims.
+
+***************************************
+Variations by sex of former inmates
+***************************************
+
+Past BJS surveys of confined prison inmates have consistently
+found higher rates of inmate-on-inmate victimization among
+females than males. In the National Inmate Survey, 2008-09,
+4.7% of the surveyed female inmates and 1.9% of the male
+inmates reported being sexually victimized by another inmate.
+This difference was found to be statistically independent and
+largely unexplained by covariation with other demographic
+characteristics (e.g., an inmate's race or Hispanic origin,
+age, education, marital status, and weight). (See Sexual
+Victimization in Prisons and Jails Reported by Inmates,
+2008-09, tables 6 and 7.) The reports of former prisoners
+confirm the large and statistically significant difference
+between male and female rates of inmate-on-inmate sexual
+victimization (table 6). 
+
+The rate of inmate-on-inmate sexual victimization among
+former state prisoners was 3 times higher among females
+(13.7%) than males (4.2%)
+
+When the rate of sexual victimization was limited to
+nonconsensual sexual acts including only incidents of manual
+stimulation and oral, anal, or vaginal penetration, the
+difference between females and males was large. An estimated
+10.5% of females reported such incidents with other inmates,
+compared to 2.7% of males. 
+
+The rate of "willing" sexual activity with staff was higher
+among males (4.8%) than females (2.6%), and the rate of
+unwilling sexual activity was higher among females (2.5%)
+than males (1.1%)
+
+Most victims of staff sexual misconduct (87%) reported only
+perpetrators of the opposite sex (table 7). Same-sex
+victimization was more likely to be reported by victims of
+unwilling staff sexual misconduct than by victims of
+"willing." Approximately a quarter of the reports of
+unwilling sexual activity with staff involved male inmates
+with male staff only (23%) and female inmates with female
+staff only (3%).
+
+****************************************************
+Variations by other individual-level characteristics
+****************************************************
+
+Large differences in sexual victimization were found among
+former inmates based on their sexual orientation
+
+An estimated 3.5% of male heterosexual former inmates
+reported being sexually victimized by another inmate, and
+5.2% reported being victimized by staff (table 8). In
+comparison, 34% of male inmates who were bisexual reported
+being sexually victimized by another inmate, and 18% reported
+being sexually victimized by staff. Thirty-nine percent of
+male inmates who were homosexual or gay indicated they had
+been victimized by another inmate and 12% by staff.
+
+* Bisexual female former inmates reported a higher rate of
+inmate-on-inmate victimization (18%) than heterosexual
+inmates (13%) and lesbian inmates (13%).
+
+* Lesbian inmates and bisexual female former inmates had
+rates of staff sexual misconduct that were at least double
+(8%) the rate among heterosexual female former inmates.
+
+Rates of inmate-on-inmate sexual victimization among males
+varied by race and Hispanic origin. Rates of inmate-on-inmate
+victimization for males were higher among white non-Hispanic
+inmates (5.9%) and multi-racial inmates (9.5%) than among
+black non-Hispanic inmates (2.9%). Among females, rates of
+inmate-on-inmate victimization did not vary significantly
+across other demographic characteristics.
+
+Patterns of staff sexual misconduct among male former
+prisoners varied among multiple demographic characteristics.
+Rates of staff sexual misconduct were higher for those of two
+or more races (11.3%) and lower for white non-Hispanic
+inmates (4.5%) and Hispanic inmates (4.0%), when compared to
+black non-Hispanic inmates (6.5%). Rates of staff sexual
+misconduct were also higher among younger male inmates (under
+age 25) than among older male inmates; higher among those
+with less than a high school education than those who
+completed high school; and higher for those who were married
+than those who were widowed, divorced, separated, or never
+married. 
+
+Among female former prisoners, rates of staff sexual
+misconduct were significantly lower among those ages 35 to 44
+(3.1%) and age 45 or older (1.6%), compared to those ages 20
+to 24 (6.7%). The only other statistically significant
+difference among female inmates was that 11.9% of
+multi-racial inmates reported staff sexual misconduct, which
+was approximately 2 to 3 times the rate of victimization
+reported by white non-Hispanic inmates (4.5%), black
+non-Hispanic inmates (4.2%), and Hispanic inmates (3.8%).
+
+Violent, male sex offenders reported high rates of
+inmate-on-inmate sexual victimization (13.7%)
+
+Consistent with findings in previous BJS data collections
+based on inmates held in prisons and local jails, male former
+state prisoners whose most serious offense was a violent sex
+offense reported significantly higher rates of
+inmate-on-inmate sexual victimization than other inmates
+(table 9). The rate among male sex offenders (13.7%) was more
+than twice the rate among other violent male offenders
+(4.9%), 3 times the rate of property offenders (4.4%), 5
+times the rate of public-order offenders (2.6%), and 6 times
+the rate of drug offenders (2.0%). Among female former
+inmates, no differences were found in rates of
+inmate-on-inmate sexual victimization by type of offense for
+which they had been sentenced.
+
+Rates of sexual victimization increased with the length of
+time that former inmates had served
+
+Rates of sexual victimization by other inmates and staff
+increased with the length of time the former inmate had
+served during the most recent incarceration in jail, prison,
+or post-release community-treatment facility. Among males,
+rates for former inmates who had served 5 years or more were
+at least 3 times higher than for those who had served less
+than a year. Among males who had served 10 years or longer,
+12% reported having been sexually victimized by other inmates
+and 17% by staff. Among females who had served 5 to 10 years
+before their release, 21% reported having been sexually
+victimized by other inmates and 11% by staff. A quarter of
+the females who had served 10 years or more reported
+experiencing staff sexual misconduct.
+
+Male inmates with no prior incarceration experience had a
+higher rate of inmate-on-inmate sexual victimization (6.6%)
+compared to those with one or more prior incarcerations
+(3.7%). Rates of staff sexual victimization for males and
+rates for both inmate and staff sexual victimization for
+females did not vary by prior incarceration history. 
+
+Former state prisoners who had served time in 5 or more
+facilities during their most recent confinement reported the
+highest rates of staff sexual misconduct 
+
+Staff sexual misconduct rates varied by the number of
+facilities in which male and female inmates had served time
+during their most recent period of incarceration.
+Approximately 25% of the male former state prisoners and 10%
+of the female state prisoners had served time in five or more
+facilities before their release. These inmates reported
+significantly higher rates of staff sexual misconduct (6.7%
+or more among males and 7.7% or more among females) than
+those who had served in three or fewer facilities (4.0% or
+less among males and females). 
+
+These differences are consistent with the practice of
+transferring victims to other facilities in response to
+substantiated incidents of staff sexual misconduct. In 2006,
+based on reports by correctional authorities of all
+substantiated incidents of sexual victimization, nearly a
+third of the victims of staff sexual misconduct were
+transferred to another facility 19% of victims in prisons and
+48% of victims in jails. (For further details, see Sexual
+Violence Reported by Correctional Authorities, 2006, April
+2007, BJS Web, NCJ 218914, table 12.) The increase in sexual
+victimization rates by number of facilities may also reflect
+covariation with total time served, with inmates who serve
+longer sentences being placed in more facilities.
+
+Difference in findings after BJS performed multivariate
+logistic regressions
+
+Among male former prisoners, after controlling for the
+effects of other individual-level factors 
+
+* Inmate-on-inmate victimization was higher for white
+non-Hispanic inmates, persons of two or more races, those age
+24 or younger, non-heterosexuals, sex offenders, and those
+who served 5 years or more than for inmates with other
+characteristics (table 10)
+
+Staff sexual misconduct was higher for black non-Hispanic
+inmates, persons of two or more races, those age 24 or
+younger, non-heterosexuals, those with one or more prior
+incarcerations, and those who served 12 months or more than
+for inmates with other characteristics.
+
+Among female former prisoners, after controlling for the
+effects of other individual-level factors 
+
+* Inmate-on-inmate victimization was higher for inmates of
+two or more races, those age 24 or younger, those with some
+college education, those with one or more prior
+incarcerations, and those who had served a year or more but
+less than 10 years than for inmates with other
+characteristics.
+
+* Staff sexual misconduct was higher for white non-Hispanic
+inmates, inmates of two or more races, those age 24 or
+younger, those with one or more prior incarcerations, and
+those who served 3 years or more than for inmates with other
+characteristics.
+
+* Sexual victimization either by other inmates or by staff
+was unrelated to sexual orientation.
+
+For both male and female former prisoners, the number of
+facilities in which the inmate had served time was no longer
+related to reports of staff sexual misconduct. For male
+former inmates, education levels and marital status were no
+longer correlated with reports of staff sexual victimization.
+
+**************************************************************
+
+BJS used multivariate logistic regression models to determine
+which inmate characteristics were significant predictors of
+whether the inmate would be sexually victimized in prison
+
+Multivariate logistic regression estimation is a modeling
+technique used to determine what characteristics are
+statistically significant for predicting a dichotomous
+outcome (e.g., an inmate is victimized or not victimized)
+while controlling for all the other characteristics in the
+model. 
+
+BJS used this technique to determine which inmate
+characteristics were statistically significant for predicting
+sexual victimization. Based on four separate models, each
+representing the type of sexual victimization and sex of the
+former inmate, the variations in rates of sexual
+victimization by demographic characteristic, sexual
+orientation, and criminal justice status were found to be
+largely statistically independent of one another.  
+
+Estimates are displayed in terms of the conditional marginal
+probabilities, which represent the probability that a former
+male or female inmate with a particular characteristic has
+experienced a specific sexual victimization outcome
+conditional on the former inmate having the mean value for
+all other predictors in the model. For example, based on
+models with demographic and criminal justice status
+characteristics only, a white male former inmate had a 4.0%
+chance of having been sexually victimized by another inmate,
+and a female former inmate had a 12.2% chance (conditional on
+the inmate having the mean value on all of the other
+characteristics in the model). For characteristics that are
+categorical, which is the case for every variable in these
+logistic regression models, the mean value is a weighted
+value of the joint distribution of all other characteristics
+in the respective model. (See Methodology for a discussion of
+logistic regression
+
+**************************************************************
+
+****************************************************** 
+Variations by selected facility-level characteristics 
+******************************************************
+
+To understand more fully the correlates of sexual
+victimization and circumstances surrounding that
+victimization, BJS included survey questions to identify each
+of the state facilities in which the inmates had served time
+during their most recent period of incarceration and asked if
+the inmates had been sexually victimized (by type of
+victimization) within each facility. (See appendix E for
+specific survey questions.) Data collected in prior BJS
+censuses of state prison facilities (conducted in 1990, 1995,
+2000 and 2005) were linked to these reports to determine
+whether any facility characteristics were associated with
+variations in rates of sexual victimization. Although data on
+local jails and post-release community-treatment facilities
+were also collected, they have been excluded from this
+analysis. (See Methodology for details on linkage of prison
+census data.)
+
+Three-quarters of former inmates had served time in more than
+one prison facility; nearly 1 in 8 had served time in 5 or
+more prison facilities before their release 
+
+During their period of incarceration, inmates typically
+served time in more than one facility. Covering only the last
+continuous period of incarceration, the 18,526 former
+prisoners interviewed in NFPS reported 63,813 separate
+placements. Of these, 16,073 involved jail placements (either
+prior to prison, as an interim stop or as the only placement
+for some). In addition, 2,422 placements were to post-release
+local facilities, and 1,525 were to out-of-state facilities.
+When weighted by the inverse of the probability of selection,
+the eligible prison-only placements represented more than 1.3
+million separate placements (table 11).
+
+Overall, an estimated 500,400 former prisoners (98%) had
+served time in a prison facility in the state in which they
+were currently under parole or post-custody supervision,
+excluding 10,400 prisoners who had served time only in a
+local jail. Approximately three-quarters of these inmates had
+served time in more than one prison facility; nearly an
+eighth had served time in five or more prison facilities.
+
+Nearly 44% of male victims and 74% of female victims reported
+that sexual victimization had occurred in the first prison
+facility they had entered 
+
+Based on the self reports of victims in the NFPS, sexual
+victimization frequently occurred in the first facility to
+which the inmates had been admitted. Among victims, nearly
+half (49%) said they were victimized in the first prison they
+had entered (table 12). Female victims (74%) were much more
+likely than male victims (44%) to report having been
+victimized in the first prison entered. This difference in
+victimization may be partially explained by differences among
+males and females in the likelihood of serving time in more
+than one facility. An estimated 78% of males, compared to 57%
+of females, had served time in two or more prison facilities
+before their release; nearly 25% of males, compared to 7% of
+females, had served time in four or more prison facilities
+(not shown in table).
+
+Among victims, sexual victimization by other inmates was more
+likely than sexual victimization by staff to have occurred in
+the first facility the inmates had entered. More than half
+(57%) of the estimated 18,800 prisoners who reported sexual
+victimization by another inmate indicated that it occurred in
+the first prison facility they entered. Fewer than half (42%)
+of the 23,800 victims of staff sexual misconduct indicated it
+occurred in the first facility. 
+
+Reports of sexual violence did not vary by size of facility,
+facility age, crowding, inmate-to-staff ratios, or sex
+composition of staff
+
+Further analysis of prison placements provided a detailed
+risk profile of facility-level characteristics in conjunction
+with reported sexual victimization. Overall, few measurable
+differences at the 95% level of statistical confidence
+emerged among commonly cited facility risk factors (table
+13). Sexual victimization rates (defined by type of
+victimization and sex of inmate) did not increase with 
+
+* increased size of the facility (based on the average daily
+population during the 12 months prior to the census closest
+in time to the inmate's placement)
+
+* increased age of the facility (based on year of original
+construction)
+* facility overcrowding (based on the ratio of the number of
+inmates the facility actually held to the official rated
+capacity)
+
+* increased inmate-to-staff ratios in the facility (based on
+the number of inmates held to the total number of payroll,
+non-payroll, and contract staff)
+
+* decreased proportion of female to male staff.
+
+Sexual victimization rates varied by type and primary
+function of the facility and by indicators of facility
+disorder
+
+Among male former state prisoners, inmate-on-inmate and
+staff-on-inmate victimization rates were higher in
+facilities 
+
+* under a court order or consent decree (to limit the number
+of inmates, to address crowding, or in response to the
+totality of conditions at the time of the census) than in
+other facilities
+
+* reporting a major disturbance (involving five or more
+inmates and which resulted in serious injury or significant
+property damage) in the 12 months prior to the census than in
+other facilities
+
+* with medium or greater security levels than in facilities
+with minimum or low security levels 
+
+* with a primary function of housing general population than
+in facilities with specialized functions (e.g., reception or
+diagnostic centers, community corrections centers, medical
+treatment, and alcohol or drug treatment).
+
+Among female former state prisoners, reports of
+inmate-on-inmate victimization were lower in community
+corrections centers (1.3%) and facilities that permitted 50%
+or more of their inmates to leave unaccompanied during the
+day (1.3%), than in facilities holding general population
+(5.3%) or in general confinement facilities (5.0%).
+Inmate-on-inmate sexual victimization rates were also lower
+in minimum or low security facilities (3.0%) than in medium
+security facilities (5.6%) and lower in privately operated
+facilities (2.0%) than in state facilities (5.0%). 
+
+Reports of staff sexual misconduct among female former state
+prisoners did not vary significantly across facility
+characteristics, except for being lower in minimum or low
+security facilities (1.0%) than in medium security facilities
+(3.0%) and higher in facilities under a court order (6.3%)
+than in other facilities (2.0%). 
+
+Whether a facility was publicly operated or privately
+operated was an inconsistent predictor of victimization.
+While reports by male former state prisoners of staff sexual
+misconduct were higher in privately operated facilities
+(4.6%) than in state facilities (2.5%), reports by female
+former prisoners did not differ statistically between state
+and privately operated facilities. Rates of inmate-on-inmate
+victimization among women, but not among men, were lower in
+privately operated facilities than in state facilities.
+
+When an inmate had been placed in the facility was a strong
+predictor of sexual victimization among male former
+prisoners. As measured by the census year closest to the time
+of placement, male former state inmates were nearly 4 times
+more likely to report victimization by another inmate and 3
+times more likely to report victimization by staff if they
+had entered the facility around the 1990 census than if they
+had entered around the 2005 census. Female inmates who
+entered the prison facility around 1990 were nearly 8 times
+more likely to report staff sexual misconduct (12.5%) than if
+they had entered around 2005 (1.6%). However, rates of
+inmate-on-inmate sexual victimization among females did not
+differ by year of placement.
+
+****************************************************
+Prison placements and individual-level risk factors
+****************************************************
+
+While individual-level factors related to sexual
+victimization have been examined by type of victimization and
+sex of inmate for the entire period of incarceration, they
+may also be examined for each prison placement. Such a
+placement-based examination takes into account the risk of
+victimization related to individual-level factors, regardless
+of the duration of time served during a specific prison
+placement, and permits analysis of the independent
+contribution of individual-level and facility-level factors.
+Unlike the earlier analysis based on individuals (510,800
+former inmates nationwide), the placement analysis is based
+on prison placements (more than 1.25 million prison
+placements). Individuals are represented multiple times,
+based on their number of separate prison placements (up to a
+maximum of 15 times per inmate). 
+
+An incident of sexual victimization was reported in 4.0% of
+prison placements
+
+Among the estimated 1.15 million placements of male inmates,
+1.6% involved inmate-on-inmate sexual victimization and 2.6%
+involved staff-on-inmate victimization (table 14). Among the
+estimated 102,500 placements of female inmates, 4.8% involved
+sexual victimization by another inmate and 2.4% involved
+sexual victimization by staff. Overall, in 4.0% of the more
+than 1.25 million prison placements, former prisoners
+reported at least one experience of sexual victimization by
+another inmate or facility staff.
+
+These rates of victimization among all prison placements are
+similar to those reported by inmates in NIS-2 based on the
+current facility (during the last 12 months or since
+admission, if shorter). Based on the NIS-2, 2.0% of currently
+confined male inmates reported sexual victimization by
+another inmate and 3.2% by staff; 5.1% of currently confined
+female inmates reported sexual victimization by another
+inmate and 2.3% by staff. 
+
+Patterns of sexual victimization based on prison placements
+also resembled those observed for individuals based on their
+entire period of incarceration in NFPS, except that the rates
+were somewhat lower across categories defined by demographic
+and criminal justice characteristics:
+
+* Large differences in sexual victimization during prison
+placement were found among inmates based on their sexual
+orientation (table 15).
+
+* Among male former inmates, reports of inmate-on-inmate
+sexual victimization during prison placement varied by race
+and Hispanic origin. Reports were higher among white
+non-Hispanic inmates (2.4%) and multi-racial inmates (4.0%)
+than among black non-Hispanic inmates (0.9%). 
+
+* Among male inmates, violent sex offenders reported higher
+rates of inmate-on-inmate sexual victimization (5.9%) than
+other violent offenders (1.4%), property offenders (1.7%),
+public-order offenders (1.0%), and drug offenders (0.8%).
+
+* Among male former inmates, those with a prior incarceration
+(1.4%) were less likely to be victims of other inmates than
+those with no prior incarceration (2.5%).
+
+* Among female former inmates, rates of inmate-on-inmate
+victimization during prison placement did not significantly
+vary across demographic characteristics, except among inmates
+of two or more races.
+
+* Among placements of male former prisoners, reports of staff
+sexual misconduct were higher among black non-Hispanic inmates
+(3.3%) than among white non-Hispanic inmates (2.0%) and
+Hispanic inmates (1.7%). The rates were also higher among
+younger male inmates (under age 25) than among older male
+inmates (age 35 or older). 
+
+* Among placements of female former prisoners, rates of staff
+sexual misconduct were significantly lower among those ages 35
+to 44 (1.5%) and age 45 or older (1.1%), compared to those
+ages 20 to 24 (4.0%). 
+
+* The only other statistically significant difference among
+placements of female former inmates was that 8.1% of
+multi-racial inmates reported staff sexual misconduct,
+compared to 2.4% or lower among inmates who were white, black,
+or Hispanic.
+
+**************************************************
+Independent contributions of individual-level and
+facility-level factors to victimization
+**************************************************
+
+Variations in rates of sexual victimization among groups of
+inmates based on the characteristics of facilities in which
+they were placed overlap somewhat with variations based on
+individual risk factors. Multivariate regression models were
+developed to incorporate selected individual-level and
+facility-level factors. Models for each type of sexual
+victimization were developed separately for male and female
+former prisoners based on prison placements 
+(table 16). 
+
+In each of the logistic regression models, the conditional
+probabilities represent the probability that a former inmate
+during a prison placement with a particular individual or
+facility characteristic experienced sexual victimization,
+conditional on the inmate having the mean value for all other
+predictors in the model. For example, based on the final
+multivariate model, a male former state prisoner who served
+time for a violent sex offense had a 2.2% chance of having
+been sexually victimized by another inmate during a prison
+placement, given that he was at the mean of the joint
+distribution of other individual characteristics (i.e., race
+or Hispanic origin, marital status, sexual orientation, and
+time served) and facility characteristics (i.e., type,
+security level, census year closest to placement, and
+placement order).
+
+Variations in sexual victimization rates were strongly related
+to sexual orientation after controlling for other factors
+
+An inmate's sexual orientation remained an important correlate
+of victimization, except for staff sexual misconduct reported
+by females. Male inmates who identified themselves as bisexual
+were at least 13 times more likely to report being sexually
+victimized by another inmate and 4 times more likely to report
+being sexually victimized by staff than male inmates who
+identified themselves as straight or heterosexual. 
+
+After controlling for other factors, an inmate's race or
+Hispanic origin remained an important predicator of sexual
+victimization.  Based on the multivariate placement models for
+male former inmates 
+
+* White non-Hispanic inmates (1.4%) and inmates of two or more
+races (2.0%) had higher rates of inmate-on-inmate
+victimization than black non-Hispanic and Hispanic inmates
+(each 0.6%).
+
+* Black non-Hispanic inmates (2.0%) had higher rates of
+staff-on-inmate victimization than white non-Hispanic (1.4%)
+and Hispanic inmates (1.2%).
+
+Based on the multivariate placement models for female former
+inmates 
+
+* Inmate-on-inmate victimization rates were lower for black
+non-Hispanic inmates (2.8%) than for white non-Hispanic
+inmates (3.9%), Hispanic inmates (4.6%) and inmates of two or
+more races (8.7%)
+
+* Staff-on-inmate victimization rates were higher for inmates
+of two or more races (6.1%) than for white non-Hispanic
+(1.7%), black non-Hispanic (1.1%) and Hispanic inmates (1.1%).
+
+Facitily-level factors remained significant after controlling
+for inmate characteristics 
+
+* Among male former inmates, inmate-on-inmate and
+staff-on-inmate victimization rates were lower in reception or
+diagnostic centers than in facilities that housed general
+population. For inmate-on-inmate victimizations, rates were
+lower in minimum security facilities than in facilities with
+higher security levels. 
+
+* Among female former inmates, the inmate-on-inmate
+victimization rate was lower in facilities that permitted 50%
+or more of their inmates to leave unaccompanied during the day
+(than in other confinement facilities), lower in medium
+security facilities (than in facilities with maximum, close,
+or high security levels), higher in facilities that had been
+built before 1951 or after 1985 (than in facilities built
+between 1951 and 1985), and higher in facilities that had a
+major disturbance in the census year (than in those that did
+not).
+
+* Among female former inmates, few facility-level factors were
+linked to staff sexual misconduct. Rates were lower in minimum
+or low security facilities than in medium security facilities,
+and lower in facilities built between 1951 and 1985 than in
+facilities built before 1951.
+
+The final regression models confirm that the best predictor of
+staff sexual misconduct among female former inmates was length
+of time served, with the rate of staff sexual misconduct
+during prison placements generally increasing with total time
+served. 
+
+***********************************
+Reporting of sexual victimization
+***********************************
+
+In addition to identifying key individual-level and
+facility-level risk factors associated with variations in
+sexual victimization rates, the former inmate survey provided
+data on the responses of victims and the impact on victims
+while they were still in prison and after their release from
+prison. The survey included questions about reporting
+victimization to facility staff and persons other than
+facility staff, reasons for not reporting and what happened if
+they did report to facility staff, and the continued impact on
+the victims following their release from prison.
+
+Two-thirds of victims of inmate-on-inmate sexual victimization
+said they reported at least one incident to facility staff or
+someone else
+
+Detailed data suggest that victims of inmate-on-inmate
+victimization were most likely to have reported at least one
+incident to another inmate (49%), followed by having reported
+to a family member or friend outside the facility (28%) and to
+correctional officers (24%). Few victims (1.4%) had reported
+their experience on a telephone hotline (table 17). 
+An estimated 37% of victims of inmate-on-inmate sexual
+victimization reported at least one incident to facility
+staff 58% of those injured, compared to 29% of those not
+injured (not shown in table). Reporting to medical and
+healthcare staff was even less common (14% of the victims said
+they reported an incident to medical personnel). Among those
+physically injured by another inmate, a third (33%) said they
+reported to medical staff (not shown in table).
+
+22% of unwilling victims of sexual activity with staff,
+compared to 3% of "willing" victims, said they had reported an
+incident to facility staff or someone else
+
+"Willing" sexual activity with staff was rarely reported to
+any facility staff (2%) or to other persons (2%). When sexual
+activity with staff was reported, it was typically unwilling
+and divided nearly equally between reporting to staff (21%)
+and someone other than staff (20%). 
+                              
+Most common reasons for not reporting sexual victimization by
+other inmates linked to embarrassment, shame, and not wanting
+others to know
+
+Victims who never reported their experience of sexual
+victimization to anyone at the facility were asked their
+reasons for not reporting. The most common reason for victims
+not reporting sexual victimization by another inmate was that
+they "didn't want anyone else to know about it" (70%),
+followed by feeling "embarrassed or ashamed that it happened"
+(68%) (table 18). The most common reasons for not reporting
+staff sexual misconduct were that they "had the sex or sexual
+contact willingly" (80%) and they "didn't want the staff
+person to get in trouble" (71%). Almost 40% of victims of
+inmate-on-inmate sexual victimization and staff sexual
+misconduct said they were afraid of being punished by staff.
+Nearly a quarter of inmates victimized by another inmate or by
+staff said they were afraid of being charged with making a
+false report.
+
+37% of victims who reported being victimized by other inmates
+said facility staff did not respond
+
+Among victims who reported inmate-on-inmate sexual
+victimization to authorities 
+
+* 34% were moved to administrative segregation or protective
+housing, 24% were confined to their cell, 14% were assigned a
+higher level of custody, and 11% were placed in a medical unit
+or hospital.
+
+*18% were offered a transfer to another facility.
+
+* More than a quarter (29%) said they were written up; and 28%
+said they spoke to an investigator (table 19).
+
+Though few in number, 86% of the victims who reported staff
+sexual misconduct to authorities said the facility responded:
+more than half (54%) of the victims spoke to an investigator,
+and nearly half (46%) said that they were "written up" for the
+incident. More than 40% said they were moved to administrative
+segregation or protective housing.
+
+****************************************
+Post-release responses to victimization
+****************************************
+
+Following their release from prison, victims of
+inmate-on-inmate sexual victimization 
+
+* had feelings of shame or humiliation (72%) and guilt (56%)
+(table 20)
+
+* discussed their victimization with intimate partners (27%)
+or friends (26%)
+
+* saw a therapist or counselor (15%), participated in a
+self-help group for emotional or mental health problems (14%),
+or enrolled in a treatment program other than counseling (8%).
+
+Victims of staff sexual misconduct that involved unwilling
+activity reported many similar feelings or thoughts about
+their victimization following their release from prison:
+
+* 79% said they felt shame or humiliation.
+
+* 72% said they felt guilt.
+
+* 54% reported having difficulty feeling close to friends or
+family members.
+
+Although the vast majority of victims (86%) of staff sexual
+misconduct said they had at least one incident that they
+considered "willing," more than a quarter (27%) said they felt
+guilt and 23% said they felt shame or humiliation after their
+release from prison.
+
+************************
+HIV testing and results
+************************
+
+The former inmate survey also provided self-report data on HIV
+testing and outcomes for victims of inmate-on-inmate and
+staff-on-inmate sexual victimization.
+
+* Among former inmates tested for HIV, a significantly higher
+percentage of those who had been sexually victimized by other
+inmates (6.5%) or by staff (4.6%) were HIV-positive, compared
+to those who had not been victimized (2.6%) (table 21).
+
+* Among all victims tested for HIV, 5.1% of males and 3.9% of
+females were HIV-positive (not shown in table).  
+
+* Among all victims tested for HIV, 15.5% of non-heterosexual
+inmates were HIV-positive, compared to 3.8% of heterosexual
+victims (not shown in table). 
+
+Although the rates of HIV infection are high among former
+prisoners, when these inmates contracted HIV is unknown. 
+Inmates were not asked if they became HIV-positive while
+incarcerated. 
+
+Through the National Prisoner Statistics program, BJS has
+collected data on the number of inmates HIV-positive and the
+number with confirmed acquired immune deficiency syndrome
+(AIDS) since 1991. At yearend 2008, 20,499 inmates in state
+prisons (or 1.6% of all inmates in custody) were known to be
+HIV-positive or had confirmed AIDS. (See HIV in Prisons,
+2007-08, NCJ 228307, BJS Web, December 2009.) Data are not
+available on the percentage of inmates who were HIV-positive
+when they were admitted to prison.
+
+*****************************************
+Current employment, housing, and living 
+arrangements of former inmates
+*****************************************
+
+Following their release from prison, victims and nonvictims
+did not differ in their employment and housing arrangements,
+but victims were more likely than nonvictims to be living
+alone 
+
+The NFPS asked former prisoners about their current employment
+status, housing, and living arrangements while on post-release
+supervision. Except for a slightly higher percent of victims
+living alone (18%) than nonvictims (14%), few differences were
+reported in their current employment status or housing
+arrangements:
+
+* Two-thirds of both victims and nonvictims were employed; at
+least half of each group were employed full-time.
+
+* A quarter of victims and nonvictims were looking for work.
+
+* More than 90% of victims and nonvictims were currently
+living in a house, apartment, trailer or mobile home.
+
+* An estimated 2% of victims and nonvictims said they were in
+a shelter, homeless, or on the street (table 22).
+
+************           
+Methodology
+************
+
+The National Former Prisoner Survey (NFPS) was conducted
+between January 2008 and October 2008. The data were collected
+by the NORC at the University of Chicago under a cooperative
+agreement with the Bureau of Justice Statistics. A total of
+317 total parole offices in 40 states were included in the
+survey sample. Within each of the sampled offices, respondents
+were selected at random from rosters of eligible former
+prisoners. A total of 17,738 former state prisoners under
+active supervision participated in the survey. An additional
+788 former prisoners were included from survey test offices.
+These former inmates had been randomly selected from 16
+sampled offices. Based on 18,526 completed interviews, the
+survey achieved a 61% response rate.
+
+The interviews, which averaged 23 minutes in length, were
+conducted using computer-assisted personal interviewing (CAPI)
+and audio computer-assisted self-interviewing (ACASI) data
+collection methods. Survey interviewers initiated the personal
+interview using CAPI to obtain demographic and criminal
+history information. For the remainder of the interview,
+respondents interacted with a computer-administered
+questionnaire using a touch-screen and synchronized audio
+instructions delivered via headphones. Respondents completed
+the survey in private at the parole office (or satellite
+office), with the interviewer in the room but unable to see
+the computer screen.
+
+The interviews were completed in 13 rounds of data collection.
+The survey was typically scheduled for 2 weeks at each parole
+office. Approximately 2 to 3 weeks before each round of
+interviews, sampled respondents were contacted by mail. The
+respondents were introduced to the survey, provided an
+approximate data collection date, informed of the nature of
+the survey, and given a toll-free number to set up an
+appointment. Two weeks prior to the interview period, NORC
+appointment setters called respondents to set up interview
+appointments with those respondents who had not used the toll-
+free number. 
+
+Before the interview, respondents were informed verbally and
+in writing that participation was voluntary and that all
+information provided would be held in confidence. They were
+also informed that if they agreed to participate, they would
+receive $50 as a token of appreciation for participation in
+the survey. A second automated consent protocol was
+administered at the beginning of the ACASI portion of the
+interview to confirm that the respondent had been properly
+informed that participation in the survey was voluntary and
+that they were "ready to continue with the interview."
+Interviews were conducted in either English (99.4%) or Spanish
+(0.6%). Twenty interviews (0.1%) were lost because the sample
+parolee could not speak English or Spanish.
+
+Sample design 
+
+The NFPS used a multistage stratified sample design with
+probabilities of selection proportionate-to-size (PPS). The
+sampling frame was developed based on the 2006 Census of State
+Parole Supervising Agencies, conducted by the U.S. Census Bureau
+on behalf of BJS. The original sampling frame consisted of two
+subframes: a field office group (FOG) level frame of 800 field
+office groups and a district level frame of 101 districts. Each
+of these subframes was sampled separately to produce the sampled
+offices. A two-stage stratified sample design was used for
+selection from the office subframe, while a three-stage design
+was used for the district subframe. 
+
+Sampling from the field office subframe
+
+Prior to selection of offices, the field office sampling frame
+was modified:
+
+* 40 offices were considered ineligible and deleted, including
+administrative offices not actively supervising parolees;
+specialty offices, such as those supervising sex offenders
+only; and offices supervising only individuals committed to
+treatment or other confinement facilities.
+
+* 8 offices in the District of Columbia were deleted, as most
+parolees had served time in federal facilities; 10 offices in
+Alaska and 4 offices in Hawaii, except for the largest in each
+state, were deleted.
+
+* 34 offices, with a parolee population under 40 and that had
+no other in-state office within 75 miles, were deleted.
+  
+* 27 offices included in the sample frame for the NFPS pretest
+were excluded. (See page 36 for details on the inclusion of
+pretest sample data in the final survey.)
+
+* Offices with a parolee population under 40 were combined
+with another office within 75 miles for sampling purposes to
+form FOGs. 
+
+Field offices and FOGs were selected from the remaining frame
+of 800 offices using a PPS sampling procedure: 
+
+* 34 FOGs were selected with certainty, due to their large
+size, and allocated a sample size of 260 parolees.
+
+* 117 FOGs were selected with non-certainty and allocated a
+sample size of 130 for offices with populations of 130 or
+greater, or the actual population sizes for offices with
+populations of less than 130.
+
+* 37 additional FOGs were selected as reserve offices and
+activated in order of selection as needed to offset office
+refusals and potential ineligible offices on the frame.
+
+A total of 151 FOGs (including 7 involving combined offices)
+were selected. Data collection was completed in 157 FOGs
+(after exclusion of 4 ineligible administrative offices and
+inclusion of 10 reserve sample offices.) All eligible sampled
+offices agreed to participate.
+
+Sampling from the district office sub-frame
+
+The 2006 census provided data only at the district or regional
+office in 19 states. A total of 50 districts were selected
+from the list of 101 offices using PPS sampling procedures
+(including 35 certainty and 15 non-certainty districts). An
+additional 20 reserve districts were selected to offset
+potential refusals and ineligible listings. Eleven of the
+districts on the reserve list were activated. All sampled
+state offices granted approval to participate in the survey;
+however, one sampled district was excluded due to lateness of
+the request.
+
+Following selection of district offices, field offices and
+population sizes within each selected district were
+enumerated. The same grouping and elimination criteria as
+listed above for parole offices were used for FOGs within each
+district, except that the distance cutoff was increased to 120
+miles. Offices with fewer than 40 parolees were only
+eliminated if there was no other office with 120 miles for
+grouping. Three offices were deleted due to the distance and
+size criteria. Access to one office was denied by the district
+and was replaced by another randomly selected office within
+that district.
+
+The remaining eligible FOGs within each sampled district were
+selected using PPS sampling procedures. A total of 81 FOGs
+were selected (including 21 with combined field offices). 
+
+Parolee selection
+
+After approvals from states and offices were received, a
+roster was requested of eligible former prisoners under
+active supervision by the parole office. Only persons who had
+served time in a state prison and were age 18 or older were
+eligible. Individuals who had absconded, were reincarcerated
+or committed, were in a halfway house or community treatment
+center, had a warrant issued for their arrest, were in
+violator status, or had been transferred to another parole
+office were ineligible.
+
+Prior to sample selection, each roster was sorted by sex.
+Males and females were then randomly selected for inclusion in
+the survey. The target sample size was 260 (196 males and 64
+females) in large field offices and 130 (98 males and 32
+females) in smaller offices. Female former prisoners were
+sampled at a higher rate than males to ensure that sufficient
+numbers were included to provide reliable national estimates.
+For offices with 130 or fewer eligible parolees, all former
+prisoners were selected. In total, 34,782 former prisoners
+were selected.
+
+Response rates
+
+Of the total number of former prisoners selected for the
+national survey, 17,738 eligible and available respondents
+completed the CAPI and ACASI portions of the interview: 
+
+* 4,318 (12.4%) refused to participate in the survey for
+reasons such as work, no transportation to the office,
+unwillingness to discuss prison experiences, wanting to avoid
+the parole office, dissatisfaction with the system, in
+trouble, health issues, and other unknown reasons.
+
+* 5,664 (16.3%) could not be reached due to absence of working
+phone numbers, wrong phone numbers, failure to return phone
+messages, or lack of interest communicated by the parole
+officer or another person.
+
+* 3,338 (9.6%) were found to be ineligible for reasons such as
+death; deportation; under age 18; not on parole; under warrant
+or absconder status; transferred to another office;
+incarcerated at time of sample selection; or under warrant,
+violator or absconder status after sample selection.
+
+* 2,151 (6.2%) were unavailable due to change in status after
+sample selection, primarily due to incarceration, transfer, or
+completion of parole supervision. 
+
+* 1,571 (4.5%) did not participate for other reasons,
+primarily due to missing scheduled appointments.
+
+Overall, 60.6% of eligible and available sampled former
+prisoners participated in the survey.
+
+Inclusion of pretest sample sites and respondents
+
+Due to the extensive and burdensome nature of the pretest, and
+the similarities in the pretest and national survey design and
+content, data from the pretest were included in the final
+survey results. PPS sampling methods were employed: 
+
+* 16 offices from a list of 29 offices responsible for
+supervision of post-release offenders were selected using PPS
+sampling methods. 
+
+* The initial protocol called for randomly sampling 75 cases
+from each office, with a goal of obtaining 50 completed
+interviews per office.
+
+* A reserve sample of 50 former prisoners per office was drawn
+for activation in case of high numbers of ineligible cases and
+non-response.
+
+* After interviewing in 8 offices, the initial sample sizes
+were increased to 100 to address the large numbers of
+ineligible cases on the office rosters.
+
+* Sample sizes varied from 100 to 135 across 15 of the sampled
+offices. One office, with a population of 67, had a sample
+size equal to its population.
+
+In total, 1,745 former prisoners were selected in the pretest.
+Interviews were completed by 788 parolees (representing 64.5%
+of the 1,222 eligible sampled cases).
+
+Weighting and non-response adjustments
+
+Responses from interviewed former prisoners were weighted to
+provide national-level estimates. The construction of parolee
+base weights took into account the probability of selection at
+each stage, reflecting two stages in the field office subframe
+and three stages in the district subframe: 
+
+* Within the district sample, selection probabilities were
+adjusted at the district and office levels for non-response.
+ 
+* Within the field office sample, all selected FOGs
+participated.
+
+* Probabilities of selection from each subframe took into
+account the impact of certainty and non-certainty districts
+and offices. 
+
+* Within selected FOGs in both subframes, males and females
+were selected at different rates; consequently, the
+probabilities of selection were computed separately.
+
+* The final parolee base weights in the district sample
+represent the inverse of the product of the non-response
+adjusted probabilities from the district and FOG stages times
+the probability of selection of male and female parolees
+within field offices. The base weights in the field office
+subframe represent the inverse of the product of the
+probability of selection at the FOG and parolee stages.
+
+A series of adjustments were applied to the initial base
+weights to compensate for non-response among sampled parolees.
+To produce final weights, the initial weights given to sampled
+parolees who did not respond to the survey were distributed to
+responding cases. A response propensity model was constructed
+and used to form adjustment cells within which these weights
+were reallocated:
+ 
+* Variables used in the non-response adjustments were race,
+age, years in prison, years since release, and required number
+of office visits per month.
+
+* Predicted probabilities obtained from the model were used to
+construct five non-response groupings, based on the quintiles
+of the probability distribution.
+
+* Subsequent weight adjustment was done within each group, so
+that the weights of nonresponding individuals within a range
+of propensities were allocated to like individuals. 
+
+Following procedures to address undesirably large weights,
+final post-stratification was introduced to adjust the weights
+to known control totals. All states in the sample frame were
+divided into seven strata, and control totals for each stratum
+were produced based on the midyear 2008 parolee counts.
+
+The final weights in the national survey (including pretest
+offices) averaged 27.57, resulting in a national estimate of
+approximately 510,800.
+
+Standard errors and confidence intervals
+
+As with any survey estimates, the NFPS estimates are subject
+to error arising from the fact that they are based on a sample
+rather than a complete enumeration. A common way to express
+this sampling error is to construct a 95%-confidence interval
+around each survey estimate. Typically, multiplying the
+standard error by 1.96 and then adding or subtracting the
+result from the estimate produces the confidence interval.
+This interval expresses the range of values that could result
+among 95% of the different samples that could be drawn. 
+
+To facilitate the analysis, rather than provide the detailed
+estimates for every standard error, differences in the
+estimates of sexual victimization for subgroups in these
+tables have been tested and notated for significance at the
+95%-level confidence. For example, the difference in the rate
+of inmate-on-inmate sexual victimization among female
+prisoners (13.7%), compared to male prisoners (4.2%), is
+statistically significant at the 95% level of confidence. (See
+table 6 on page 15.) In all tables providing detailed
+comparisons, statistically significant differences at the 95%
+level of confidence or greater have been designated with two
+asterisks (**).
+ 
+Measurement of sexual victimization
+
+The survey of sexual victimization relied on former inmates
+reporting their direct experience, rather than reporting on
+the experience of other inmates. Questions related to inmate-
+on-inmate sexual activity were asked separately from questions
+related to staff sexual misconduct.
+
+The ACASI survey began with a series of questions that
+screened for general unwanted sexual activities with other
+inmates. To fully measure all sexual activities, a question
+related to touching of specific body parts in a sexual way was
+followed by a general question regarding any sexual activity
+with another inmate in which the respondent did not want to
+participate. (For specific screening questions, see appendix
+A.) 
+
+Respondents who answered "yes" to either of the sex-specific
+screener questions were then asked questions related to the
+touching of body parts in a sexual way and questions related
+to acts of oral, anal, and vaginal sex. (For survey items
+related to specific inmate-on-inmate victimization categories,
+see appendix B.) The nature of coercion (including physical
+force, pressure, and other forms of coercion) was measured for
+each type of reported sexual activity.
+
+ACASI survey items related to staff sexual misconduct were
+asked somewhat differently. Respondents were first asked if
+during their confinement staff had sexually harassed them,
+watched them at an inappropriate time while dressing or taking
+a shower, or forced them to undress or touched their private
+parts in an inappropriate way. (See survey items in appendix
+C.) 
+
+Regardless of the responses to the initial questions, all
+respondents were then asked two screener questions to
+determine if they ever "willingly" or unwillingly had sex or
+sexual contact with any facility staff. Respondents who
+answered "yes" to either of the screener questions were then
+asked questions related to "willing" and unwilling sex or
+sexual contacts, the nature of coercion, and the specific
+types of sexual contacts including oral, anal, and vaginal
+sex. (For survey items related to specific staff-on-inmate
+victimization categories, see appendix D.) 
+
+Based on their responses to the survey items, victims were
+classified in each of four general variables: (1) inmate-on-
+inmate nonconsensual acts, (2) inmate-on-inmate abusive sexual
+contacts only, (3) staff sexual misconduct unwilling; and (4)
+staff sexual misconduct willing. 
+
+The entire ACASI questionnaire (listed as the National Former
+Prisoner Survey) is available on the BJS website at
+http://www.bjs.gov.
+
+Prison placements
+
+In order to assess the impact of facility factors on the
+likelihood of a former prisoner reporting inmate-on-inmate
+sexual victimization and staff sexual misconduct, a separate
+record for each prison placement was constructed. Overall, the
+18,526 former prisoners in the survey reported entering
+separate prison facilities 45,318 times during the period of
+incarceration prior to their release from custody. Depending
+on the number of state prisons entered, each respondent is
+represented between 0 and 15 times. Facility-level data from
+BJS prison censuses conducted in 1990, 1995, 2000, and 2005
+were merged to each placement record, based on the census
+closest to the period of incarceration. 
+
+Individual-level victimization variables and other individual-
+level characteristics reported in the survey were included
+with each placement. Of all 45,318 prison placements, 96% were
+matched to an appropriate census data file. When weighted to
+reflect initial probabilities of selection and non-response
+adjustments, data were available for 1,254,998 of the prison
+placements (approximately 94% of all placements). Local jail
+placements (prior to prison, as an interim stop, or as the
+only placement) were excluded. Placements in hospitals and
+out-of-state facilities were also excluded.
+
+Linkage of placements to prison census data
+
+Prison facilities were identified from an initial list
+provided by the 2000 Census of State and Federal Correctional
+Facilities. Information on these facilities was enhanced by
+the 1990 and 1995 censuses and contacts in departments of
+correction in each state. The final list was programmed to
+appear in the CAPI portion of the survey prior to the start of
+ACASI. If the respondent provided a facility name that could
+not be identified on the list after attempts to locate the
+facility by name of city, the interviewer added the facility
+to the list.
+
+Initial rules were used to define the most appropriate census
+file for linking the facility information. Each inmate
+provided admission and release dates for the most recent
+period of incarceration, not for individual facilities. The
+following rules were applied to determine the reference year
+for linkage, either the year of admission or the average year
+(i.e., the midpoint between the admission and release date):
+
+* If the victim was placed in only one facility, the average
+year was used.
+
+* If the victim was in multiple facilities, the admission year
+was used for the first facility placement and the average year
+for all other placements.
+
+If the reference year was--
+ 
+* 1992 or earlier, facility characteristics were drawn from
+the 1990 census
+
+* 1993-1997, facility characteristics were drawn from the 1995
+census
+
+* 1998-2002, facility characteristics were drawn from the 2000
+census
+
+* 2003 or later, facility characteristics were drawn from the
+2005 census.
+
+All unmatched facilities from the interviewer entry list were
+identified and linked to an appropriate census file.
+
+Logistic regression models
+
+Multivariate logistic regression estimation is a modeling
+technique used to determine what characteristics are
+statistically significant for predicting a dichotomous outcome
+(e.g., victimized or not victimized) while controlling for all
+the other characteristics in the model. 
+
+NFPS used this technique to determine what inmate-level
+characteristics were significant predictors of inmate-on-
+inmate sexual victimization and staff sexual misconduct over
+the entire period of confinement. For each type of
+victimization, and for males and females separately, selected
+parolee characteristics were examined, including demographic
+characteristics, sexual orientation and history, and criminal
+justice status and history. For each type of victimization, a
+logistic model was iteratively run under a backwards selection
+technique until only predictors that were significant at the
+95% level of confidence remained. (See table 10 on page 19.)
+
+NFPS also used this technique to determine what facility-level
+and inmate-level characteristics were significant predictors
+of inmate-on-inmate sexual victimization and staff sexual
+misconduct in each of the state prisons where the former
+inmates had served time. Based on a separate record for each
+prison placement for the 18,526 former prison inmates
+interviewed, logistic regression models were developed to
+model the effects of individual and prison-level
+characteristics. For each type of victimization, a logistic
+model was developed to isolate specific individual and
+facility factors that remain significant at the 95% level of
+confidence. (See table 16 on page 28.) 
+
+Conditional marginal probabilities
+
+In each of the logistic regression models, the conditional
+marginal probability represents the probability that an inmate
+with a particular characteristic has experienced sexual
+victimization (by type) conditional on the inmate having the
+mean value for all other predictors in the model. For example,
+based on a combination of individual characteristics only, a
+white male former prisoner had a 4.0% chance of being
+victimized by another inmate given that he was at the mean of
+the joint distribution of age, sexual orientation, offense, and
+total time served. 
+
+For purposes of estimating the conditional marginal
+probabilities, the overall log odds of incurring the event for
+a given level of race/Hispanic origin was calculated from the
+estimated linear model by specifying the value of the
+race/Hispanic origin variable as the level of interest and
+then specifying all other variables in the model to be the
+weighted mean in the population. For example, the simple
+logistic model for the binary variable Y (experienced sexual
+victimization or not) is
+
+where, ài is the parameter of the race/Hispanic origin
+category for the individual i ( i=1  n, n is the total number
+of respondents). 
+
+To calculate the log odds for a specific race/Hispanic origin
+= r; use fixed àr  and  x,
+
+where,    .
+
+For other categorical covariates x except race/Hispanic
+origin, the mean value for each dummy variable is the weighted
+percentage of the corresponding level. 
+
+Based on the obtained log odds, the conditional marginal
+probability was then calculated for the specific level of the
+race/Hispanic = r as
+
+These estimates (Mr) represent the expected risk of
+victimization for a former inmate, conditional on the inmate
+belonging to a particular group (defined by each
+characteristic in the model) and having the mean value on all
+of the other characteristics in the model. The conditional
+marginal assumes that  x is constant, and the variance is due
+to the variances of  . 
+
+Significance tests
+
+For each of the regression models, variances for the estimates
+took into account the NFPS sample design. These variances were
+computed with weighted data in SUDAAN using the Taylor
+Linearization method.Wald F-statistics were calculated to test
+for statistical significance of the effects of each
+individual-level and facility-level characteristic (appendix
+tables 3 and 4). The Wald F-statistics were used to test the
+null hypothesis that all regression coefficients are equal to
+zero for each characteristic (i.e., the probability of
+experiencing victimization is the same across all categories
+of the selected characteristic), conditional on all other
+inmate or facility-level characteristics being included in the
+model.
+
+NFPS and NIS sample differences
+ 
+Findings in the NFPS are limited to persons released from
+state prison to a period of post-custody supervision
+(including parole, probation following incarceration,
+community supervised release, or other form of supervision).
+Approximately 24% of all sentenced state prisoners released in
+2008 were released unconditionally.  These former inmates,
+some of whom may have experienced sexual victimization while
+in prison, were not surveyed. Because these former inmates
+were not subject to post-custody supervision, and correctional
+authorities lacked their current addresses or phone numbers,
+they could not be easily contacted and interviewed after their
+release from prison. 
+
+The NFPS findings should not be generalized to all former
+prisoners. Based on selected demographic characteristics
+reported in BJS's National Corrections Reporting Program in
+2008, inmates released conditionally were similar to those
+released unconditionally. Nearly the same percentage were male
+(89.2% compared to 89.4%), under age 30 (34.9% compared to
+35.2%), age 50 or older (10.1% compared to 10.2%), and
+sentenced for a violent offense (25.4% compared to 26.6%).
+However, inmates released unconditionally had served
+significantly longer in prison than those released
+conditionally. An estimated 23.2% of inmates released
+unconditionally had served more than 3 years, compared to
+15.9% of inmates released conditionally. In addition, 12.5% of
+unconditional releases had served fewer than 6 months,
+compared to 32.5% of conditional releases.
+
+Caution is also recommended when comparing NFPS findings with
+NIS-1 and NIS-2 findings, due to differences in coverage and
+differences in composition among former and current inmates. 
+In contrast with the NIS sample, the NFPS sample does not
+include inmates who may never be released. (Based on data from
+the 1997 Survey of Inmates in State Prison, approximately 5%
+of all inmates in state prison were not expected to ever be
+released.) In addition, the cross-section of former inmates is
+comprised of less serious offenders with shorter maximum
+sentences than the cross-section of inmates in the NIS sample.
+For example, 33% of former inmates in NFPS had served time for
+a violent offense, compared to 56% of state inmates in NIS-2
+who were serving time for a violent offense.
+
+*************
+Appendix A
+*************
+
+Survey items that screen for inmate-on-inmate sexual victim
+ization, National Former Prisoner Survey, 2008
+
+C11. [MALES] During your confinement, did another inmate touch
+your butt, thighs, penis, or other private parts in a sexual
+way or did you touch theirs, when you did not want this to
+happen?
+
+C11a. [FEMALES] During your confinement, did another inmate
+touch your butt, thighs, breasts, vagina, or other private
+parts in a sexual way or did you touch theirs, when you did
+not want this to happen?
+
+[IF C11 NE Yes or C11a NE YES] We recognize that you may find
+questions regarding sexual activity sensitive. However, no one
+will know how you answered these questions. Please remember
+that your responses are confidential.
+
+C11b. During your confinement, were you involved in any sexual
+activity with another inmate in which you did not want to
+participate?
+
+*************
+Appendix B
+*************
+
+Survey items related to inmate-on-inmate sexual victimization
+categories, National Former Prisoner Survey, 2008
+
+Males
+          
+Nonconsensual sexual activity oral sex
+
+C12. Did the sexual activity ever involve oral sex or a blow
+job in which your mouth was on another inmate's penis or other
+private parts?
+
+You indicated that you were involved in unwanted sexual inci
+dents, but that oral and anal sex did not occur. During the
+unwanted sexual incident or incidents, which of the following
+things happened? Please indicate all that happened.
+ 
+C15f. Another inmate put their mouth on your penis or other
+private parts.
+
+C15g. You put your mouth on another inmate's butt or thighs.
+
+Females
+
+C12d. Did the sexual activity ever involve oral sex in which
+your mouth was on another inmate's vagina or other private
+parts?
+
+You indicated that you were involved in unwanted sexual inci
+dents but [if applicable] oral, [if applicable] vaginal, or
+[if applicable] anal sex did not occur. During the unwanted
+sexual incident or incidents, which of the following happened?
+Please indicate all that happened. 
+
+C16g. Another inmate put their mouth on your vagina or other
+private parts.
+
+C16h. You put your mouth on another inmate's butt or thighs.
+
+Nonconsensual sexual activity anal sex
+
+Males
+
+C14. Did the sexual activity ever involve anal sex in which
+another inmate inserted their finger, penis, or an object into
+your butt? 
+    
+You indicated that you were involved in unwanted sexual inci
+dents, but that oral and anal sex did not occur. During the
+unwanted sexual incident or incidents, which of the following
+things happened? Please indicate all that happened.
+ 
+C15h. You inserted your finger, penis, or an object into
+another inmate's butt.   
+
+Females
+
+C14a. Did the sexual activity involve anal sex in which an
+other inmate inserted their finger or an object into your
+butt?
+
+You indicated that you were involved in unwanted sexual inci
+dents but [if applicable] oral, [if applicable] vaginal, or
+[if applicable] anal sex did not occur. During the unwanted
+sexual incident or incidents, which of the following happened?
+Please indicate all that happened. 
+
+C16j. You inserted your finger or an object into another
+inmate's butt.
+
+Nonconsensual sexual activity vaginal sex
+
+Female
+
+C13. Did the sexual activity ever involve vaginal sex in which
+another inmate inserted their finger or an object into your
+vagina?
+
+You indicated that you were involved in unwanted sexual inci
+dents but [if applicable] oral, [if applicable] vaginal, or
+[if applicable] anal sex did not occur. During the unwanted
+sexual incident or incidents, which of the following happened?
+Please indicate all that happened. 
+
+C16i. You inserted your finger or an object into another
+inmate's vagina.
+
+Males 
+         
+Nonconsensual sexual activity manual/hand job
+
+You indicated that you were involved in unwanted sexual inci
+dents, but that oral and anal sex did not occur. During the
+unwanted sexual incident or incidents, which of the following
+things happened? Please indicate all that happened. 
+
+C15d. Another inmate rubbed your penis in an attempt to arouse
+you.
+
+C15e. You rubbed another inmate's penis with your hand.
+
+C15i. You were forced to masturbate while someone watched. 
+ 
+Females
+
+You indicated that you were involved in unwanted sexual inci
+dents but [if applicable] oral, [if applicable] vaginal, or
+[if applicable] anal sex did not occur. During the unwanted
+sexual incident or incidents, which of the following happened?
+Please indicate all that happened. 
+
+C16e. Another inmate rubbed your breasts, butt, or vagina in
+an attempt to arouse you.
+
+C16f. You rubbed another inmate's breasts or vagina with your
+hand.
+
+Abusive sexual contact only
+
+Males
+
+You indicated that you were involved in unwanted sexual inci
+dents, but that oral and anal sex did not occur. During the
+unwanted sexual incident or incidents, which of the following
+things happened? Please indicate all that happened. 
+
+C15a. Another inmate touched your butt or thighs.
+
+C15b. Another inmate touched your penis or scrotum.
+
+C15c. Another inmate violently grabbed or touched your penis
+or scrotum in an attempt to hurt you.
+
+Females 
+       
+You indicated that you were involved in unwanted sexual inci
+dents but [if applicable] oral, [if applicable] vaginal, or
+[if applicable] anal sex did not occur. During the unwanted
+sexual incident or incidents, which of the following happened?
+Please indicate all that happened. 
+
+C16a. Another inmate touched your butt or thighs.
+
+C16b. Another inmate touched your breasts.
+
+C16c. Another inmate touched your vagina.
+
+C16d. Another inmate violently grabbed or touched your breasts
+or vagina in an attempt to hurt you.
+
+*************
+Appendix C
+*************
+
+Survey items related to staff sexual misconduct, National
+Former Prisoner Survey, 2008
+
+E1. During your confinement, did staff hassle or harass you in
+a sexual way?
+
+E2. Did staff ever stare at you or watch you at inappropriate
+times (for example, while you were dressing or taking a
+shower)?
+
+E3. [FEMALES] Did a staff member ever force you to undress in
+their presence or hit or brush against your breast or other
+private parts when you did not think it was an accident or it
+was not required by their job?          
+
+E3b. [MALES] Did a staff member ever force you to undress in
+their presence or hit or brush against your private parts when
+you did not think it was an accident or it was not required by
+their job?
+
+E4. Did you ever willingly or unwillingly have sex or sexual
+contact with any facility staff person?
+
+[IF E4 NE Yes] Please remember that your responses are confi
+dential. Neither you nor the staff person involved will be
+identified through this survey.  No one will know you answered
+these questions.
+
+E4a. During your confinement did you have sex or any sexual
+contact with a staff person, whether it was willing or not?
+
+*************
+Appendix D
+*************
+
+Survey items related to staff-on-inmate sexual victimization
+categories, National Former Prisoner Survey, 2008
+
+Males
+          
+Nonconsensual sexual activity oral sex
+
+E15. Did the sexual contact involve oral sex or a blow job in
+which your mouth was on the male staff person's penis or other
+private parts or his mouth was on your private parts?  
+
+E15a. Did the sexual contact involve oral sex or a blow job in
+which the female staff person's mouth was on your penis or
+other private parts or in which your mouth was on her private
+parts?
+     
+Females
+
+E15b. Did the sexual contact involve oral sex in which your
+mouth was on the male staff person's penis or other private
+parts or his mouth was on your private parts?
+
+E15c. Did the sexual contact involve oral sex in which your
+mouth was on the female staff person's breasts, vagina, or
+other private parts or her mouth was on your private parts?
+
+Nonconsensual sexual activity anal sex
+
+Males
+
+E16. Did it involve anal sex in which the male staff person
+inserted his finger, penis, or an object into your butt or you
+inserted your finger, penis, or object into his?
+
+E16a. Did it involve anal sex in which the female staff person
+inserted her finger or an object into your butt or you in
+serted your finger, penis, or an object into hers?     
+     
+Females
+
+E16b. Did it involve anal sex in which the male staff person
+inserted his finger, penis, or an object into your butt or you
+inserted your finger or an object into his?
+
+E16c. Did it involve anal sex in which the female staff person
+inserted her finger or an object into your butt or you in
+serted your finger or an object into hers?
+
+Nonconsensual sexual activity vaginal sex
+
+Females
+
+E13. Did you have vaginal sex with a female staff person in
+which your penis, finger, or an object was inserted into her
+vagina?
+
+E13a. Were you involved in vaginal sex in which a male staff
+person inserted his penis, finger, or an object into your
+vagina?
+
+E13b. Were you involved in vaginal sex with a female staff
+person in which she inserted her finger or an object into your
+vagina or you inserted your finger or an object into hers?
+
+Nonconsensual sexual activity manual/hand job
+
+Males
+
+E14. Did you give or receive a hand job in which a male staff
+person rubbed your penis with his hand or you rubbed his?
+
+E14a. Did you receive a hand job in which a female staff
+person rubbed your penis with her hand?      
+
+Females
+
+E14b. Did you give the male staff person a hand job in which
+you rubbed his penis with your hand?
+
+Abusive sexual contact only
+
+Male 
+
+E12. Did a male staff person touch your penis or other private
+parts in a sexual way or did you touch his?       
+
+E12a. Did a female staff person touch your penis or other
+private parts in a sexual way or did you touch her private
+parts?
+
+Females
+          
+E12b. Did a male staff person touch your breasts, vagina, or
+other private parts in a sexual way or did you touch his
+private parts?
+
+E12c. Did a female staff person touch your breasts, vagina, or
+other private parts or did you touch hers?
+
+*************
+Appendix E
+*************
+
+Survey items that identify prison placements and measure
+sexual victimization in each facility, National Former Pris
+oner Survey, 2008
+
+B5. What was the name of the facility in which you were placed
+in [Month/Year]?
+
+B6. Were you placed in any other facilities between [date of
+admission] and your release in [Month/Year]?
+
+B5. [REPEAT, up to 25 times] What was the name of another
+facility in which you were placed?
+
+For each type of inmate-on-inmate sexual victimization
+
+FBM12a. [MALES] You indicated you had unwanted [oral sex or
+gave a blow job because you were physically forced, afraid, or
+someone threatened to hurt you physically]. Where did this
+unwanted [oral sex or blow job occur]? [READ LIST OF FACILI
+TIES]
+
+FBM12b. [FEMALES] You indicated you had unwanted [oral sex
+because you were physically forced, afraid, or someone threat
+ened to hurt you physically]. Where did this unwanted [oral
+sex] occur? [READ LIST OF FACILITIES]
+
+For all forms of staff-on-inmate sexual victimization
+------------------------------------------------------
+E6. At which facility or facilities did you have sexual 
+contact with staff? [READ LIST OF FACILITIES]
+
+***************************************************
+Office of Justice Programs
+Innovation -- Partnerships -- Safer Neighborhoods
+www.ojp.usdoj.gov
+****************************************************
+                           
+*********************
+5/7/2012 JER/ 2:35
+******************

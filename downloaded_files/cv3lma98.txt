@@ -1,0 +1,540 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Technical Report
+
+
+Crime and Victimization in the Three Largest Metropolitan 
+Areas, 1980-98
+
+
+February 2005, NCJ 208075
+
+
+
+---------------------------------------------------------------
+This file is text only without graphics and many of the tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/cv3lma98.htm
+---------------------------------------------------------------
+
+By
+
+Janet L. Lauritsen, Ph.D.
+Fellow, BJS and Professor, University of 
+Missouri-St. Louis
+
+Robin J. Schaum
+University of Missouri-St. Louis
+                     
+Introduction
+
+For more than three decades, the Nation has had two national indicators
+of crime: the Uniform Crime Reporting (UCR) program and the National
+Crime Victimization Survey (NCVS). The UCR program contains information that
+is voluntarily provided by police departments and forwarded to the FBI. The
+NCVS gathers information from a nationally representative sample of persons
+age 12 or older to produce estimates of crime that are independent of the
+recording practices of criminal justice systems. Data from the two programs
+are routinely used together to provide a more complete assessment of crime 
+in the United States.***Footnote 1: In this report the terms "police data" 
+and "UCR data"  are used interchangeably. For more detail about the UCR and
+NCVS programs, see "The Nation's Two Crime Measures," Bureau of Justice
+Statistics, 2003, NCJ 122705.***
+
+Annual estimates of the number of crimes derived from NCVS data have often
+been higher than the annual counts in the UCR. There are several reasons why
+this may occur.  Most importantly, the NCVS data include crimes that are not
+reported to the police.***Footnote 2: For more details, see Hart and Rennison
+(2003), Reporting Crime to the Police, 1992-2000, Bureau of Justice
+Statistics, NCJ 195710.*** According to recent estimates, approximately 51% 
+of violent victimizations and 64% of property victimizations are not reported
+to the police. In addition, NCVS counts may be higher if police departments 
+do not record all of the incidents that come to their attention or do not
+forward the reports to the national UCR program. Indeed, increased knowledge
+about crimes not reported to the police and assessments of the reliability 
+of police data were two important reasons for the development of the crime
+survey in the early 1970's.
+
+For some types of crimes in the NCVS and the UCR, it is possible to
+reconcile apparent discrepancies in annual estimates by taking into
+account differences in the coverage of both data series and adjusting the
+NCVS counts to include only those incidents said to have been reported
+to the police. When such adjustments are made, levels and trends in
+burglary, robbery, and motor vehicle theft appear similar in the NCVS and
+UCR. On the other hand, UCR and NCVS levels and trends in aggravated assault
+and rape continue to exhibit discrepancies after these kinds of adjustments
+are made. Remaining differences in levels or trends in aggravated assault 
+and rape may reflect broader changes concerning the public's willingness to
+report crime to the police, the ways in which police departments record 
+crime, the quality of victimization survey data, or other factors. It is 
+clear that the differences in the methodologies of the UCR and NCVS programs
+must be considered when assessing both levels and trends of crime in the
+Nation.  
+
+When State and local governments are interested in assessing levels or
+trends in crime in their own areas, they typically rely solely on police 
+data because victimization survey data are rarely available for places other
+than the Nation as a whole. The collection of reliable crime survey data
+is costly and most State and local governments have not had the resources 
+to conduct their own victimization surveys, especially on an annual basis.
+Knowing that crime may not be reported to the police or fully recorded, many
+wonder whether police-based estimates for local areas provide an accurate
+foundation on which to assess levels or short-or long-term trends in crime. 
+In addition, many wonder whether conclusions drawn from national police and
+victim survey data also apply to their local areas.
+ 
+To examine how police records compare to victimization survey estimates for
+places other than the Nation as a whole, the Bureau of Justice Statistics
+(BJS) and the U.S. Census Bureau have developed special subsets of NCVS data
+that are capable of providing survey-based estimates of crime for the 
+largest metropolitan areas in the country. This report compares NCVS and
+police estimates of burglary, robbery, and aggravated assault for the
+country's three largest metropolitan areas – New York, Chicago, and Los
+Angeles -- for 1980 through 1998. The features of the NCVS sample limit the
+UCR-NCVS comparisons to the core counties that comprise each of these
+metropolitan areas (described below). These comparisons can be used to inform
+the public about the levels and trends in criminal victimization in these
+three areas. They also provide information about the correspondence between
+police and victim survey data throughout the 1980's and 1990's for the New
+York, Chicago, and Los Angeles areas. 
+
+Characteristics of the data
+
+NCVS estimates
+
+The NCVS, and its predecessor, the National Crime Survey (NCS), are
+household-based surveys designed to gather information about victimization
+directly from the public. A random sample of U.S. households is generated
+using a multistage stratified sampling procedure. The result is a
+representative sample of households and persons ages 12 or older living in
+households.***Footnote 3:  Persons not living in households, such as 
+homeless, institutionalized or incarcerated persons, are not included in the
+sample design.***  The Census Bureau develops the sample and administers the
+survey for BJS. The sampling strategy for the NCVS is developed explicitly 
+to provide national estimates of criminal victimization. Generally speaking,
+the sample design is capable of providing local area estimates of crime only
+for certain places. Heavily populated metropolitan areas constitute unique
+self-representing portions of the sample; as a result, it is possible to use
+the data from the largest of those areas to form reliable survey-based
+estimates of crime for those places.***Footnote 4: The NCVS sample is
+generated in two stages.  During the first stage, primary sampling units
+(PSU's) are designated to reflect metropolitan areas, counties, and
+groups of counties.  Larger PSU's (reflecting metropolitan areas) are
+termed self-representing (SR) and are automatically included in the
+sample.  Smaller PSU's (non-self-representing or NSR PSU's) are
+grouped together in similar strata based on known Census geographic
+and demographic characteristics.  From the NSR PSU's, sample PSU's
+are selected by probability proportionate to population size.***      
+Two important limitations of the NCVS metropolitan area data should be
+noted. First, the boundaries of metropolitan areas often change due to
+population shifts and development patterns. To ensure that metropolitan
+area victimization rates remain comparable over time, it is necessary to
+restrict the geographic boundaries of the areas to the core counties that
+remained continuously part of each metropolitan area from 1980 through
+1998. For the New York core county area, the sample includes residents
+from Bronx, Kings, New York, Queens, Richmond, Putnam, Rockland, and
+Westchester Counties.***Footnote 5: For an extensive analysis comparing UCR
+and NCVS rates for New York City, see Langan and Durose, "The Remarkable 
+Drop in Crime in New York City," ISTAT (Italy's National Institute of
+Statistics) meeting "per una societa pie secura," Rome, December 3-5, 
+2004.***  For the Chicago core county area, residents are selected from the
+city and Cook, DuPage, and McHenry Counties. For the Los Angeles core county
+area, residents of the city and Los Angeles County form the sample used in
+these victimization estimates.  
+
+Second, compared to the national sample, the number of persons interviewed
+within each metropolitan area in a year is relatively small. Altogether 
+these three metropolitan core county areas constitute roughly 9.5% of the 
+U.S. population. Sample size places statistical limitations on the types of
+crimes that can be reliably estimated for each metropolitan area and year. 
+The three crimes that occur with sufficient statistical regularity to permit
+comparisons with police data are burglary, robbery, and aggravated assault.
+To maximize the reliability of the NCVS metropolitan area estimates of
+burglary, robbery, and aggravated assault victimization, 3-year moving
+averages are used for NCVS crime rate estimates.  
+
+Police estimates
+
+Police counts of burglary, robbery, and aggravated assault in each
+metropolitan area are based on offenses known to the police departments with
+jurisdiction in each of the core county areas.***Footnote 6: Because police
+departments voluntarily submit data to the UCR a large amount of data is
+missing across time and places. This missing data issue made it difficult to
+collect consistent data across all of the counties over the 20-year period.
+For this reason, the police data used here for the metropolitan core county
+areas of New York and Chicago were gathered from their respective State
+criminal justice websites rather than from the UCR reports. The New
+York metropolitan area police data were retrieved from the New York
+State Division of Criminal Justice Services at
+<http://www.criminaljustice.state.ny.us/>.  The Chicago metropolitan area
+police data were retrieved from the Illinois Criminal Justice Information
+Authority at <http://www. icjia.state.il.us/public/>. The Chicago core 
+county police data were not complete for 1979 through 1982. Unlike police 
+data for the Chicago and New York areas, the Los Angeles metropolitan area
+data were complete. Therefore, the Los Angeles area data were obtained
+directly from UCR records.*** Police data for each county and year were
+gathered from different sources for each metropolitan area. Population data
+for each county and year were obtained from the Census Bureau so that
+standardized rates could be used for comparisons. 
+
+In each metropolitan area, police-based crime rates rely on summaries
+from multiple police departments and jurisdictions. As a result, it is not
+possible to draw conclusions about the reporting practices of any
+particular police department within the metropolitan area. Nonetheless,
+it is possible to illustrate the degree of correspondence between the two
+data series by comparing the crime rates based on police department
+records to those estimated by the survey.
+
+Nature of the comparisons
+
+Three sets of estimates are provided for each crime type, year, and
+metropolitan area. The first set of estimates, based on NCVS data, is
+designated "NCVS Crime Rates."  They consist of the burglary, robbery,
+and aggravated assault victimization rates regardless of whether the
+incident was reported to the police.***Footnote 7:  Because the NCVS is
+a household-based survey, it includes residential burglaries but not
+commercial burglaries. The UCR data that were available to us included
+both residential and commercial burglaries. Because we were unable to
+determine how many of the police recorded burglaries were against
+commercial establishments in each county and year, the UCR burglary
+rates are expected to be higher than the NCVS reported burglary rates.
+Also, unlike the NCVS burglary rate which is typically based on the
+number of households, the UCR burglary rate is measured by taking the
+total number of burglaries known to the police and dividing by the total
+number of persons. To make the NCVS and UCR burglary rates as comparable as
+possible, the NCVS rates were estimated using persons age 12 or over in the
+denominator. In addition, it was not possible to determine how many of the
+police recorded robberies and aggravated assaults were against persons under
+age 12 (incidents excluded from the NCVS because persons under age 12 are 
+not interviewed). As a result, the NCVS robbery and aggravated assault rates
+were created by dividing the number of victimizations by the population age 
+12 or over, while the UCR rates were created by dividing the total number of
+offenses known divided by the total population for each county and year. UCR
+rates based on the total population age 12 or over in the denominator also
+were calculated to check the sensitivity of the findings to differences in
+population coverage. Of course, the UCR rates increased when the denominator
+was restricted to the population age 12 or over. However, the substantive
+conclusions reported here were similar regardless of which denominator was
+used for the UCR and NCVS rates.***  The second set of estimates, also based
+on NCVS data, is the victimization rates based on incidents that victims 
+said were reported to the police. These estimates are referred to as "NCVS
+Reported Crime Rates."  The third set of estimates, based on police records,
+consists of the UCR crime rates for each metropolitan area. These estimates
+are referred to as "UCR Crime Rates." 
+
+For each metropolitan area and crime type, the NCVS Crime Rates are compared
+with the NCVS Reported Crime Rates to assess whether levels of reporting 
+crime to the police have changed appreciably.***Footnote 8: Significant
+changes were made to the methodology of the NCVS in 1992. To make the NCVS
+rates comparable before and after 1992, the earlier rates were weighted by
+their crime specific adjustment factors. These weights were derived from
+assessments of how national estimates changed following a phase-in of
+the new methodology. There is little reason to suspect that the effects of
+the new methodology varied across these three metropolitan areas. For
+more information on the weighting of crimes, see Kindermann, C., Lynch,
+J., and Cantor, D. (1997), Effects of the Redesign on Victimization
+Estimates, Bureau of Justice Statistics, NCJ 164381.***  The NCVS
+Reported Crime Rates are compared to the UCR Crime Rates to ascertain the
+correspondence between police data and victim reports for each metropolitan
+area.  
+
+Burglary
+
+New York Metropolitan Area
+
+For the core counties of the New York metropolitan area, both police and
+survey data agree that burglary declined from 1980 to 1998 (figure 1).
+And as expected, the total NCVS burglary rate was higher than the UCR
+burglary rate.  According to New York area victims, roughly 61% of
+burglaries were reported to the police over these two decades.  The gap
+between the NCVS burglary rates and the NCVS reported burglary rates
+appears to have diminished somewhat in the New York metropolitan
+area, suggesting an increase in reporting to the police.***Footnote 9: The
+statistical limitations associated with the size of the metropolitan area
+sample do not permit one to conclude that this change is statistically
+significant. Statements about differences between the UCR crime rates
+and the NCVS crime reported to police rates are based on the point
+estimates shown in the figures and not strictly on significance testing. The
+reason for this is that even though 3-year moving averages are used for
+the NCVS rates, the 95% confidence intervals around those averages are, at a
+minimum, plus or minus 4 per 1,000. Thus, very few of the annual differences
+between a UCR rate and an NCVS reported to police rate would be statistically
+significant. The purpose of these analyses is not to determine the specific
+years in which the two rates are or are not statistically significant for 
+each crime type and metropolitan core county area, but to show the broader
+patterns of correspondence between police data and victim survey reports.***   
+
+Throughout the 1980's and 1990's, the NCVS reported burglary rate was
+similar to the UCR burglary rate. The correspondence in these two trends
+indicates that the UCR burglary data for the New York metropolitan area
+closely match both the levels and trends indicated by the victim survey
+data.
+
+Chicago Metropolitan Area
+
+Police and survey estimates for burglary in the Chicago metropolitan
+area agree that there was a decline in burglary throughout the 1980's
+and 1990's. The NCVS burglary rate was higher than the UCR rate,
+with victims in the Chicago area stating that 52% of burglaries were
+reported to the police over this period. The gap between the NCVS
+burglary rates and the NCVS reported burglary rates was somewhat
+reduced later in the series, suggesting that there may have been an
+increase in reporting to the police over these two decades. 
+
+In the Chicago metropolitan area, the NCVS reported burglary rate is
+somewhat higher than the UCR burglary rate during the early years of the
+time series. In later years, the NCVS reported burglary rate and the UCR
+burglary rate corresponded more closely. Although long-term trends in
+the victim and police data indicate a general decline in burglaries
+reported to police, the decline appears greater in in the NCVS data than
+in the Chicago metropolitan area police data.
+
+Los Angeles Metropolitan Area 
+
+In the Los Angeles metropolitan region, police and survey data agree that
+the burglary rate declined throughout much of the 1980's and 1990's. The
+exception to the decline appeared in the late 1980's when the NCVS
+rates suggested an increase in residential burglary victimization. The
+decline in burglary in the Los Angeles region appeared larger than the
+declines in the New York and Chicago areas because the survey based
+rates in Los Angeles were higher in the earlier years of the time series.
+According to victims, the level of reporting burglary to the police averaged
+50% over the two decades, with no apparent change in the level at which
+residential burglary was reported to the police.
+
+Throughout much of the 1980's and 1990's, the NCVS reported burglary rate 
+was similar to the UCR burglary rate in the Los Angeles metropolitan area.
+Since the early 1990's, the two data series have shown similar short and
+long-term trends in burglary victimization.
+
+Robbery 
+
+Unlike residential burglary, robbery can take place away from home. This
+fact makes comparisons of UCR and NCVS robbery data more complex.
+If a nonresident, such as a tourist or commuter, is victimized by robbery
+while in the metropolitan area, the crime (if reported) is likely to be
+reported to the police department with jurisdiction in the area where the
+incident occurred. This means that UCR robbery counts for metropolitan
+areas include crimes committed against nonresidents. NCVS robbery
+counts, on the other hand, are based only on interviews with persons who
+reside in the metropolitan core county areas. If UCR robbery rates for the
+New York, Chicago, and Los Angeles areas contain many incidents against
+persons who live outside these counties, they will be higher than
+the local NCVS robbery rates.***Footnote 10:  UCR robbery rates also
+will be higher than NCVS robbery rates if police robbery data include
+many incidents against persons who are not part of households (for
+example, homeless persons). Such persons are ineligible to participate
+in household-based surveys.***
+
+Alternatively, if many of the robberies against metropolitan area residents
+took place while they were outside of the core counties of their
+metropolitan areas, the NCVS estimates could be higher than UCR
+estimates. The NCVS counts do not easily distinguish victimizations that
+occurred inside the metropolitan core county area from those that
+occurred outside. Little evidence indicates which of the above concerns
+is more problematic. To resolve the issue would require additional
+information about the residence of each victim in UCR records and
+location information for each incident in the NCVS reports. The
+UCR-NCVS correspondence in robbery will reflect in part, the extent to
+which these two concerns are relatively equal.
+
+New York Metropolitan Area
+
+Police and victim survey data for the New York metropolitan area agree
+that robbery rates have generally declined over the past two decades
+(figure 4). As expected, NCVS robbery rates were higher than UCR rates,
+but both exhibit similar long-term trends. On average, about 53% of
+robberies that occurred to residents were reported to the police, with no
+statistically significant changes in reporting between the early and later
+portions of the time series. Nonetheless, the NCVS data suggest a
+decrease in the reporting of robbery to the police in the New York
+metropolitan area from approximately 1989 to 1994.
+
+From the mid-1980's until the mid-1990's, annual UCR robbery rates
+were higher than NCVS reported robbery rates. Given the limitations
+associated with the size of the sample, the annual differences were not
+large enough to be statistically significant. Even so, this difference in
+robbery rates may be important. If one assumes that the reliability of the
+UCR and NCVS robbery rates did not change during this time period, the
+higher UCR rates may have reflected a relatively higher occurrence of
+robberies against nonresidents of the New York metropolitan area during
+these years. The higher UCR rate might also indicate a relatively greater
+increase in robbery against persons not captured in the NCVS sample,
+such as homeless persons. If crimes against such groups increased at
+rates higher than it did among others, UCR robbery rates could be higher
+than NCVS reported robbery rates.
+
+Chicago Metropolitan Area
+
+Both police and victim survey data for the Chicago metropolitan area
+suggest that robbery rates were lower in the late 1990's compared to the
+early 1980's. Both data series show that the declines in the Chicago area
+were relatively smaller than in the New York area during this same time
+period. Over these two decades, the average level of robbery reporting
+among residents was 56%, and there appears to have been relatively
+little change in reporting.
+
+As in the New York metropolitan area, Chicago area UCR robbery rates
+were somewhat higher than NCVS reported robbery rates in several
+years. These differences were not large enough to be found statistically
+significant. After 1984 the short and long-term trends in NCVS reported
+robbery rates and UCR robbery rates generally corresponded, although
+the police data on robbery peaked and began to decrease about 2 years
+earlier than the survey data.
+
+Los Angeles Metropolitan Area
+
+In the Los Angeles metropolitan area, robbery rates based on police and
+victim survey data were lower in the late 1990's compared to the early
+1980's. UCR and NCVS data agree that Los Angeles area robbery rates
+declined from the mid-to late-1990's. The gap between NCVS robbery
+rates and NCVS reported robbery rates changed little in the Los Angeles
+area during the 1980's and 1990's. Roughly 49% of all robberies against
+residents were reported to the police during these two decades.
+
+Annual UCR robbery rates and NCVS reported robbery rates were very similar
+throughout most of the 1980's and the latter half of the 1990's. As was 
+found in the New York and Chicago metropolitan areas, the Los Angeles area 
+UCR robbery rates were somewhat higher than NCVS reported robbery rates in
+selected years of the series (roughly 1989 through 1993). Similarly, these
+annual differences were not large enough to be statistically significant.  
+As noted earlier, the higher UCR robbery rate may reflect more robberies
+against nonresidents or against persons not captured by the survey during 
+this time period.  
+
+Aggravated  assault
+
+Like robbery, comparisons of police and victim survey data for aggravated
+assault involve unique complexities. Police data will include an unknown
+number of crimes committed against nonresidents, and residents may become
+victims of aggravated assault when they are outside of their metropolitan
+area. Police data will also include an unknown number of crimes against
+persons ineligible or unlikely to participate in the NCVS. But the 
+measurement of aggravated assault also is unique in that it is likely to 
+have been affected by broad scale changes in police response to domestic
+assault incidents. Mandatory arrest policies have replaced informal
+dispositions in many areas of the Nation. As a result, trends exhibited in
+police data may not correspond closely with trends based on survey data, but
+instead reflect changes in police handling of aggravated assault incidents.   
+
+New York Metropolitan Area
+
+In the New York area, the NCVS data indicate that there were fluctuations in
+aggravated assault levels, followed by a gradual decrease in the later 1990's.
+Comparisons of NCVS aggravated assault rates and the NCVS reported aggravated
+assault rates show no significant changes in the level at which these crimes
+were reported to the police.  About 56% of all aggravated assaults against 
+New York area residents were reported to the police. Police data for
+aggravated assault suggest that there was a gradual increase in this crime
+throughout the 1980's, followed by a gradual decline in the 1990's. Compared
+to burglary and robbery, the correspondence between police and survey
+estimates of aggravated assault levels and trends was lower. During much of
+the 1980's and 1990's the police rate of aggravated assault was higher than
+the NCVS reported rate. In several years the police-based rate of aggravated
+assault in the New York metropolitan area was greater than the total NCVS
+rate. Although the two series suggest different trends during some years,
+there was greater similarity in the trends in the latter half of the 1990's.  
+
+Chicago Metropolitan Area
+
+NCVS rates of aggravated assault in the Chicago metropolitan area show a 
+mixed set of trends. The survey data suggest that rates were at their
+highest in the early 1980's and lowest in the later 1990's. The gap
+between the NCVS aggravated assault rate and the NCVS reported aggravated
+assault rate remained relatively consistent throughout the two decades.
+Fifty-one percent of residents' aggravated assaults were reported to the
+police during these years.
+
+The correspondence between the police and survey estimates of aggravated
+assault was lower in the Chicago area than the correspondence for the crimes
+of burglary and robbery. Police rates of aggravated assault suggest increases
+until the early 1990's, while NCVS rates suggest that the rates were highest
+in the early 1980's. More fluctuations also were exhibited in the survey
+estimates than in the UCR data. The lower degree of correspondence between 
+the NCVS aggravated assault rates and the UCR rates makes it difficult to 
+draw conclusions about more recent short-term trends in aggravated assault. 
+
+Los Angeles Metropolitan Area
+
+In the Los Angeles area, the NCVS data exhibit no clear long-term trend
+in the risk for aggravated assault victimization. The UCR rates, on the
+other hand, suggest stability in the early 1980's, an increase in the later
+1980's, and a steady decrease beginning around 1992. The gap between the NCVS
+aggravated assault rate and the rate reported to police was steady, and the
+average level of reporting among residents was approximately 50%.  
+
+Both police and victim survey data in the Los Angeles metropolitan area
+agree that aggravated assault began to  decrease gradually in the early
+1990's. But for earlier years, the two series often suggested different
+year-to-year changes in aggravated assault rates. Nonetheless, the UCR
+rates were similar to the NCVS reported rates, indicating agreement
+about the level of aggravated assault brought to the attention of the
+police. 
+
+Conclusions
+
+As noted earlier, local governments often are interested in assessing
+levels or trends in crime, but they typically draw conclusions about crime
+in their areas solely on the basis of police data. These analyses have
+examined how police data compare to victim survey data for burglary,
+robbery, and aggravated assault for the three largest metropolitan areas
+in the Nation. For burglary and robbery, UCR crime rates were generally
+similar to NCVS reported crime rates in the New York, Chicago, and Los
+Angeles areas for 1980 through 1998. Police and victim survey data were
+more likely to show discrepancies in levels and trends of aggravated
+assault, a crime that is likely to have been affected by broader policy
+changes in police handling of domestic violence incidents.
+
+Even though UCR rates and NCVS reported rates often suggest different levels
+and trends in aggravated assault, there are many instances in which the two
+data series provide statistically similar annual estimates for this crime. 
+For the Los Angeles metropolitan area for example, annual differences between
+the UCR rates and NCVS reported rates rarely were statistically significant.
+And for the New York and Chicago areas, the UCR rates and NCVS reported rates
+did not
+differ significantly in many of the years. Statistical significance is a
+function of both sample size and the magnitude of the difference between the
+NCVS reported rate and the UCR rate. Given the relative rarity of aggravated
+assault and the sample size limitations noted earlier, it is not surprising
+that few statistically significant differences are found. Nonetheless, the
+differences between some of the UCR and NCVS annual estimates of aggravated
+assault provide important information about the sensitivity of these 
+estimates to methodological differences between the two sources of data.
+
+-------------------------------------------------------------
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Lawrence A. Greenfeld
+Director
+
+Janet L. Lauritsen, Professor, University of Missouri-St. 
+Louis, and Robin J. Schaum, University of Missouri-St. Louis, 
+wrote this report. The U.S. Census Bureau, in cooperation 
+with BJS, produced the data for the analyses presented. 
+Lawrence Greenfeld, Marshall DeBerry, Matt Durose, Patrick 
+Langan, and Michael Rand at BJS and Marilyn Monahan at the 
+Census Bureau assisted. 
+
+Professor Lauritsen was a Visiting Fellow at BJS and produced 
+this report under cooperative agreement 2002-BJ-CX-0002. 
+Findings and conclusions reported here are those of the 
+authors and do not necessarily reflect the official position 
+or policies of the U.S. Department of Justice and the Bureau 
+of Justice Statistics.
+ 
+Address all correspondence to Professor Lauritsen at Department 
+of Criminology and Criminal Justice, University of Missouri-St. 
+Louis, 1 University Blvd., St. Louis, MO  63121, or 
+Janet_Lauritsen@umsl.edu.
+
+February 2005,  NCJ 208075
+---------------------------------------------------------------
+
+
+End of file
+02/24/05 ih

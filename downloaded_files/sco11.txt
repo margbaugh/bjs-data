@@ -1,0 +1,482 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+----------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=4802
+
+This report is one in a series. More recent editions may be
+available. To view a list of all in the series go to
+http://bjs.gov/index.cfm?ty=pbse&sid=47
+---------------------------------------------------------
+
+***************
+Special Report
+***************
+
+State Court Organization, 2011
+
+Ron Malega, Ph.D., and Thomas H. Cohen, J.D., Ph.D., former 
+BJS Statisticians
+
+From 1980 to 2011, the number of state trial court judges 
+increased 11%, from 24,784 to 27,570 (figure 1). During the 
+same period, the U.S. population increased 37%, and arrests 
+in the U.S. increased 19%. Because of these increases, the 
+ratio of judges per 100,000 U.S. residents declined 23%, 
+from 13.2 in 1980 to 10.2 in 2011. In this report, judge 
+refers to any judicial officer granted authority to preside 
+over court proceedings. 
+
+Data for this report were drawn from the Bureau of Justice 
+Statistics’ (BJS) State Court Organization (SCO) report 
+series. The SCO reports provide state-level data on court 
+types, jurisdictional levels of state courts, the number of 
+judges and support staff, funding sources, judicial 
+education standards, and procedures for selecting judges. 
+BJS previously released four comprehensive reports on state 
+court organization covering survey years 1980, 1987, 1993, 
+1998, and 2004. The most recent SCO data collection explored 
+the organizational structure and operations of state courts 
+in all 50 states and the District of Columbia during 2011.
+
+************
+Highlights
+************
+
+* The organizational structure of the nation’s trial and 
+appellate courts changed modestly from 1980 to 2011.
+
+* Six states added intermediate appellate courts between 
+1980 and 1998: Minnesota, Mississippi, Nebraska, North 
+Dakota, Utah, and Virginia.
+
+* From 1980 to 2011, the number of states with more than 
+three types of limited jurisdiction trial courts declined 
+from 31 to 21.
+
+* The number of states with one or no limited jurisdiction 
+trial courts increased from 14 in 1980 to 21 in 2011. 
+
+* From 1980 to 2011, the number of state appellate court 
+judges increased 69%, and the number of state trial judges 
+increased 11%. 
+
+* All judges in general jurisdiction trial courts had some 
+legal qualification in 2011, compared to 59% of judges in 
+limited jurisdiction trial courts.
+
+* In 2011, 52% of appellate court judges were appointed to 
+their initial terms, while 75% of trial court judges were 
+elected to their initial terms.
+
+* In 2011, two-thirds of state administrative court offices 
+had full responsibility for judicial education and court 
+technical assistance. 
+
+* All general jurisdiction trial courts juries were required 
+to reach unanimous verdicts for felony or misdemeanor cases 
+in 2011, compared to 47% for civil cases.
+
+************************************************************
+
+*************************************
+Jurisdictional level of state courts
+*************************************
+
+States organize their court systems differently (figure 2). 
+In general, each state uses some or all of the following 
+four jurisdictional levels to organize its court system:
+
+* Limited jurisdiction courts (LJCs)--also called inferior 
+courts or lower courts, have jurisdiction on a restricted 
+range of cases, primarily lesser criminal and civil matters, 
+including misdemeanors, small claims, traffic, parking, and 
+civil infractions. They can also handle the preliminary 
+stages of felony cases in some states.
+
+* General jurisdiction courts (GJCs)--often called major 
+trial courts, have primary jurisdiction on all issues not 
+delegated to lower courts, most often hearing serious 
+criminal or civil cases. Cases are also designated to GJCs 
+based on the severity of the punishment or allegation or on 
+the dollar value of the case.
+
+* Intermediate appellate courts (IACs)--hear appeals on 
+cases or matters decided in GJCs and LJCs. IACs may also 
+hear appeals from administrative agencies. Depending on the 
+state, IACs represent the first--and often only--appeal 
+because they exercise both mandatory and discretionary 
+review of the cases they hear.
+
+* Courts of last resort (COLRs)--also called state supreme 
+courts, have final authority over all appeals filed in state 
+courts. Most states have one COLR, but Oklahoma and Texas 
+both have separate courts for civil and criminal appeals. 
+Depending on the state, a COLR may have either a mandatory 
+or discretionary docket for cases it will hear.
+
+* California has a unified court system consisting of one 
+type of GJC (i.e., superior court) and a two-tier system of 
+appeals courts (i.e., court of appeals and supreme court). 
+
+California’s court system does not use LJCs. In comparison, 
+Georgia has a more fragmented court structure consisting of 
+seven different types of LJCs (i.e., civil, state, juvenile, 
+county recorders, magistrate, probate, and municipal), one 
+type of GJC (i.e., superior court), and a two-tier system of 
+appeals courts (i.e., court of appeals and supreme court). 
+Such variations in state court structure are often reflected 
+in court funding sources. Many LJCs are funded and operated 
+at the local level (e.g., county), while GJCs are likely to 
+be managed and funded at the state level.
+************************************************************
+
+**********************************
+State court organization changed 
+gradually from 1980 to 2011
+**********************************
+
+Six states--Minnesota, Mississippi, Nebraska, North Dakota, 
+Utah, and Virginia--added intermediate appellate courts 
+(IACs) between 1980 and 1998. No states established IACs 
+after 1998. In 2011, forty states had two-tier systems of 
+intermediate and final review consisting of IACs and courts 
+of last resort (COLRs) (table 1). While most states used one 
+COLR and one IAC, some states used multiple COLRs or IACs. 
+For example, Oklahoma and Texas used two COLRs and one IAC. 
+Alabama, Indiana, New York, Pennsylvania, and Tennessee used 
+two IACs. Eleven states relied exclusively on COLRs for 
+final review: Delaware, the District of Columbia, Maine, 
+Montana, Nevada, New Hampshire, Rhode Island, South Dakota, 
+Vermont, West Virginia, and Wyoming.
+
+In 2011, 46 states used general jurisdiction courts (GJCs) 
+and limited jurisdiction courts (LJCs). Over the past three 
+decades, states have decreased their use of LJCs. Thirty-one 
+states had three types of LJCs in 1980, compared to 21 
+states in 2011. The number of states with one or no LJCs 
+increased from 14 to 21 during the same period. California, 
+Illinois, Iowa, Minnesota, and the District of Columbia 
+operated without LJCs in 2011. See map 1 and map 2 for the 
+appellatte and trial court structures for 2011.
+
+************************************
+The unification of trial courts in 
+some states reduced the percentage 
+of judges serving in LJCs 
+************************************
+
+The movement towards unification in some state courts has 
+reduced the number of LJC judges. The percentage of trial 
+court judges serving in LJCs, compared to GJCs, declined by 
+12 percentage points from 1980 to 2011 (table 2). In 
+addition, the number of GJC judges increased 57% from 1980 
+to 2011, while the number of LJC judges declined 6% (table 
+3). These trends were primarily a result of California’s 
+court unification during the 1990s, which eliminated all 
+LJCs and reclassified those judges to GJCs. 
+
+The distribution of appellate court judges between IACs and 
+COLRs also changed from 1980 to 2011. During the past three 
+decades, the number of IAC judges increased by about 400 
+judges, while the number of COLR judges remained stable. 
+Much of growth in IAC judges can be attributed to the six 
+states that established IACs between 1980 and 1998. The 
+number of judges serving in state COLRs is often mandated by 
+state constitutions; therefore, the number of COLR judges 
+remained relatively stable during the same period, 
+decreasing by two judges (1%).
+
+**********************************
+Three-quarters of all trial court 
+judges needed some legal 
+qualifications to serve as judge 
+**********************************
+
+The legal qualifications necessary to serve as a judge for a 
+GJC compared to an LJC vary by state. In 2011, all GJC trial 
+judges needed some type of legal qualification to serve as a 
+judge (table 4). In comparison, 59% of LJC trial judges were 
+required to obtain some type legal qualification to serve as 
+a judge. ***Footnote 1 Examples of legal qualifications less 
+than a law degree include taking a judicial education course 
+prior to office or passing a legal certification exam other 
+than the state bar***. Possessing a law degree was the most 
+commonly required legal qualification to serve as a judge. 
+Sitting GJC judges were nearly 3 times more likely than LJC 
+judges to need a law degree. GJC judges were about 2 times 
+more likely than LJC judges to need state bar membership or 
+have had an active legal practice.
+
+*************************************
+Trial court judges were more likely 
+than appellate court judges to be 
+elected into the first term 
+*************************************
+
+In 2011, 52% of appellate court judges were appointed for 
+their initial terms by judicial nominating committees, 
+governors, legislators, or other methods (table 5). Of the 
+appellate judges who were required to be elected to their 
+initial terms, 59% ran in partisan elections. Eighty-one 
+percent of all appellate court judges were required to run 
+in some type of election to retain their positions. The 
+majority of appellate judges (52%) that ran for office did 
+so in retention elections rather than partisan or 
+nonpartisan elections. ***Footnote 2 In a retention 
+election, a judge runs unopposed and is removed from office 
+if a majority of votes are cast against retention. In a 
+partisan election, a judge is listed with party affiliation, 
+while in a nonpartisan election, the judge is listed on the 
+ballot with no party affiliation***. Only 3% of appellate court 
+judges served life terms in 2011.  
+
+Among trial court judges, 75% were required to be elected to 
+their initial terms. Of those trial court judges who ran in 
+an election, 45% ran in partisan elections. For subsequent 
+terms, 90% of all trial court judges were required to run in 
+an election to retain their positions. Among trial court 
+judges required to run in an election for subsequent terms, 
+48% ran in nonpartisan elections. Only 1% of trial court 
+judges served life terms in 2011.
+
+************************************************************
+
+*****************************
+Varied routes to judgeship
+*****************************
+
+How judges come to the bench varies from state to state and 
+may even vary within a state by type of court (e.g., trial 
+compared to appellate court). States most often use one or 
+more of the following methods to select judges:
+
+* Appointment: Depending on the state, judges may be 
+appointed by the governor, legislature, or a COLR chief 
+justice. Some states use nominating committees, which 
+provide the appointing body with a limited number of 
+candidates from which to choose a judge (map 3).
+
+* Partisan election: Judges may run in a contested election 
+in which candidates must declare their political party 
+affiliation (map 4).
+
+* Nonpartisan election: Judges may run in a contested 
+election but do not declare political party affiliation.
+
+* Retention election: Sitting judges may retain their office 
+through an uncontested retention election at the end of each 
+term. Judges maintain their bench if the majority votes that 
+they should be retained in office.
+************************************************************
+
+**************************************
+Fewer states used partisan elections 
+to fill appellate and general 
+jurisdiction trial court judgeships
+**************************************
+
+Twelve states used partisan elections to fill appellate 
+court judgeships for their initial terms in 1987, compared 
+to 8 states in 2011 (table 6). Four states at the appellate 
+court level moved away from using partisan elections. 
+Tennessee changed from partisan election to appointment by 
+the governor, while Arkansas, Mississippi, and North 
+Carolina changed to nonpartisan elections.
+
+Several states also moved away from using partisan elections 
+to retain appellate court judges. In 1987, 10 states used 
+partisan elections for the retention of appellate court 
+judges, compared to 5 states in 2011. Arkansas, Mississippi, 
+and North Carolina changed from partisan elections to 
+nonpartisan elections for retention terms. New Mexico and 
+Tennessee changed from partisan to uncontested retention 
+elections. 
+
+Fourteen states used partisan elections to fill initial 
+terms of GJC trial judges in 1987, compared to 11 states in 
+2011. Arkansas, North Carolina, and Mississippi all changed 
+to nonpartisan elections to fill the initial terms of GJC 
+judges. 
+
+The number of states using a partisan election for the 
+retention of GJC judges declined by 4 states from 1987 to 
+2011. Arkansas, Mississippi, and North Carolina changed from 
+partisan elections to nonpartisan elections for retention 
+terms, while New Mexico changed from partisan to uncontested 
+retention elections. 
+
+**************************************
+On average, judges serving in COLRs 
+had the longest terms
+**************************************
+
+The length of judicial term varies by state, type of court, 
+and method of selection. Excluding states where judges 
+served life terms, judges serving in COLRs had the longest 
+average length of judicial term (8 years) (table 7). The 
+average term for appellate and trial court judges was 7 
+years. Judges serving in COLRs had the largest range in 
+judicial term (12 years), while judges serving in IACs had 
+the least variation (9 years).
+
+**************************************
+Salaries for trial court judges were 
+most often funded by the state
+**************************************
+
+Funding sources for GJCs and LJCs varied by type of 
+expenditure. At least 50% of trial courts received their 
+primary funding for the salaries of court administrators, 
+research attorneys, court reporters, and judges from state 
+funding sources (table 8). In comparison, expenditure items 
+that were funded mostly at the county level included court 
+security (57%), building property expenses (64%), pretrial 
+services (61%), and Americans with Disabilities Act 
+compliance (56%). While the majority of court expenditures 
+were funded through the state, county, or a combination, 12% 
+of state courts’ primary funding for court-ordered treatment 
+expenditures came from other sources, such as federal funds 
+or local fees.
+
+**************************************
+Two-thirds of state administrative 
+offices of the courts had full 
+responsibility for providing technical 
+assistance and judicial education
+**************************************
+
+In every state, a central office is responsible for the 
+administrative functions of the state’s trial court system. 
+Administrative offices of the courts (AOCs) provide a wide 
+range of services to support state courts. Of the 48 states 
+and the District of Columbia reporting information, all 
+state AOCs reported having at least some responsibility for 
+providing research planning (table 9). Forty-eight state 
+AOCs reported having at least some responsibility for 
+providing information technology, state court statistics, 
+serving as the liaison to legislature, and providing 
+technical assistance. Thirty-three state AOCs had full 
+responsibility for providing the courts with technical 
+assistance and judicial education, and eleven state AOCs 
+provided some type adult probation services to the courts 
+(map 5).
+
+**************************************
+Jury size and verdict requirements 
+varied by court jurisdiction and 
+case type
+**************************************
+
+For GJCs, all states and the District of Columbia required a 
+12-person jury when trying felony cases (table 10). Fifteen 
+states required such courts to have a 6-person jury when 
+hearing misdemeanor cases. All states and the District of 
+Columbia required juries in GJCs to reach a unanimous 
+verdict for felony and misdemeanor trials.*** Footnote 3 
+3Kentucky’s GJC does not have authority to adjudicate 
+misdemeanor jury trials***. For civil cases, 23 states and 
+the District of Columbia required juries in GJCs to reach a 
+unanimous verdict. 
+
+Twenty-five states allowed LJCs to try misdemeanor cases. 
+All 25 states except Delaware, Ohio, and Texas used 6-person 
+juries. In Oklahoma, the LJC judge decided if the jury 
+needed to reach a unanimous verdict in misdemeanor cases. 
+Twenty-seven states allowed LJCs to try civil cases. All 27 
+states, except Delaware, North Carolina, Ohio, and Texas, 
+used 6-person juries. Eleven states required a unanimous 
+verdict, while judges in Oklahoma decided if the jury needed 
+to reach a unanimous verdict in civil cases.
+
+**************
+Methodology
+**************
+
+Data for the 1980, 1987, 1993, 1998, 2004, and 2011 State 
+Court Organization (SCO) reports were collected by the 
+National Center for State Courts (NCSC) with funding 
+provided by the Bureau of Justice Statistics (BJS). Data 
+collections prior to 2011 were mail surveys to state court 
+administrators in all 50 states, the District of Columbia, 
+Puerto Rico, and U.S. territories. The 2011 SCO collected 
+information from this same set of state court 
+administrators, but the 2011 collection was primarily web-
+based with paper surveys made available for respondents that 
+preferred or needed a traditional response mode. All SCO 
+data collections obtained court information at the state and 
+jurisdictional levels, depending on the type of information 
+collected. A survey aimed at state court administrators was 
+designed to collect information on court organization, 
+administration, and operation. Separate surveys designed to 
+collect descriptive information (e.g., budget and staffing) 
+were sent to appellate courts and trial courts. While 
+respondents provided most of the information to complete the 
+survey, staff at NCSC also compiled information on specific 
+laws, legal procedures, and legal practices that applied 
+statewide.
+
+Data for this report were drawn from the five previously 
+released SCO reports and the 2011 web-based interactive 
+application tool. BJS summarized select data from the SCO 
+2011 Interactive Application (accessed in February 2012) to 
+produce the narrative, tables, maps, and figures found 
+within the report. This report also used select standardized 
+SCO data from 1980 to 2011, created by BJS staff, to analyze 
+trends in state court organization over three decades. The 
+topics presented in this report reflect many of the themes 
+common to the SCO data collections and highlight some of the 
+long-standing issues relevant to state court systems. This 
+report presents information for all 50 states and the 
+District of Columbia. It excludes information on Puerto Rico 
+and the U.S. territories.
+
+For more information, see State Court Organization, 1980, 
+NCJ 76711, BJS website, May 1982; State Court Organization, 
+1993, NCJ 148346, BJS website, January 1995; State Court 
+Organization, 1998, NCJ 178932, BJS website, June 2000; and 
+State Court Organization, 2004, NCJ 212351, BJS website, 
+August 2006. For analysis of trends, see State Court 
+Organization, 1987–2004, NCJ 217996, BJS website, October 
+2007. Data for the individual 1998 and 2004 State Court 
+Organization reports may be downloaded through the Inter-
+University Consortium for Political and Social Science 
+Research (ICPSR) website at 
+http://www.icpsr.umich.edu/icpsrweb/landing.jsp. The 2011 
+within-year data set and the standardized trend data sets 
+for 1980 through 2011 used in this report are available for 
+download through the ICPSR website.
+
+************************************************************
+The Bureau of Justice Statistics, located in the Office of 
+Justice Programs, U.S. Department of Justice, collects, 
+analyses, and disseminates statistical information on crime, 
+criminal offenders, victims of crime, and the operation of 
+justice systems at all levels of government. William J. 
+Sabol is acting director. 
+
+This report was written by Ron Malega, Ph.D., and Thomas H. 
+Cohen, J.D., Ph.D., former BJS Statisticians. Tara Martin 
+provided verification.
+
+Vanessa Curto and Jill Thomas edited the report, and Tina 
+Dorsey produced the report.
+
+November 2013, NCJ 242850
+************************************************************
+
+***************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+****************************************************
+
+*********************
+11/13/13 JER 9:45am
+*********************

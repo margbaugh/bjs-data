@@ -1,0 +1,572 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-------------------------------------------------------
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: 
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5864
+
+This report is one in a series. More recent editions 
+may be available. To view a list of all in the series 
+go to http://www.bjs.gov/index.cfm?ty=pbse&sid=74
+-------------------------------------------------------
+
+*******************
+Technical report
+*******************
+
+Arrest-Related Deaths Program Redesign Study,
+2015–16: Preliminary Findings
+****************************************************
+
+Duren Banks, Ph.D., Paul Ruddle, and Erin Kennedy, 
+RTI International, Michael G. Planty, Ph.D., 
+BJS Statistician
+
+**************
+Introduction
+**************
+
+The Bureau of Justice Statistics (BJS) has maintained the 
+Arrest-Related Deaths (ARD) program since 2003. BJS developed 
+the ARD program in response to the Death in Custody Reporting 
+Act (DICRA) of 2000 (P.L. 106-297) and designed it to be a census 
+of all deaths that occur during the process of arrest or during 
+an attempt to obtain custody by a state or local law enforcement 
+agency in the United States (see text box, Deaths reportable to 
+the Arrest-Related Deaths program). The ARD program is a component 
+of BJS’s Deaths in Custody Program (DCRP), which has also collected 
+data on inmate deaths that have occurred in the custody of local 
+jail or state prison since 2000.
+
+BJS released two reports on the number, characteristics, and 
+circumstances of arrest-related deaths occurring in the United 
+States between 2003 and 2009. ***Footnote 1 See Arrest-Related 
+Deaths, 2003–2009 - Statistical Tables (NCJ 235385, BJS web, 
+November 2011) and Arrest-Related Deaths in the United States, 
+2003–2005 (NCJ 219534, BJS web, October 2007).*** BJS has also 
+assessed and updated the methods used to identify arrest- 
+related deaths and collect information about decedents and the 
+circumstances surrounding those deaths. In 2010, for example, 
+the ARD program began to rely more on open information sources, 
+such as media stories, to identify arrest-related deaths, 
+rather than relying solely on law enforcement agencies to 
+identify and report these deaths. ***Footnote 2 See Arrest-
+Related Deaths Program: Data Quality Profile (NCJ 248544, BJS 
+web, March 2015).*** BJS also conducted an assessment of the 
+ARD program’s coverage in 2014. ***Footnote 3 See Arrest-
+Related Deaths Program Assessment: Technical Report (NCJ 
+248543, BJS web, March 2015).*** Based on findings from the 
+program assessment, BJS launched a redesign of the ARD program 
+in June 2015 to include multiple methods of identifying and 
+confirming arrest-related deaths. The revised ARD program 
+methodology is designed to increase the reliability, validity, 
+and comprehensiveness of the data collection. A key feature of 
+the redesigned data collection process is a standardized review 
+of media articles to identify potential arrest-related deaths. 
+This review is followed by a survey of law enforcement agencies 
+and medical examiner/coroners’ (ME/C) offices for official 
+reports and information about the arrest-related death.
+
+This report describes the redesign methods, findings from the 
+media reviews conducted from June 2015 through March 2016, and 
+preliminary results from the agency survey to collect more 
+information about deaths identified in June, July, and August 
+2015.
+
+Media reviews identified 1,348 potential arrest-related deaths 
+in the United States from June 1, 2015 through March 31, 2016 
+(figure 1). With the exception of June, the number of deaths 
+was fairly consistent across months, ranging from 87 to 156 
+arrest-related deaths--an average of 135 deaths per month.
+
+BJS conducted a survey to confirm and collect more information 
+about the 379 deaths that were identified in June, July, and 
+August 2015. The survey asked law enforcement agencies and ME/C 
+offices to confirm or deny those potential arrest-related 
+deaths and to identify other deaths meeting the ARD program 
+scope that were not identified through media review. 
+Preliminary survey findings indicate 425 arrest-related deaths 
+occurred in the United States from June to August 2015. Using 
+information captured from media sources from June 2015 through 
+May 2016 and assuming another 12% identified directly from 
+agencies, an estimated 1,900 arrest-related deaths occurred.
+
+*******************************************
+Arrest-Related Deaths program redesign
+*******************************************
+
+The DICRA of 2000 expired in 2006, although BJS continued to 
+maintain the ARD program until 2014, at which time BJS 
+suspended data collection efforts to assess the program’s 
+ability to capture all relevant incidents. The program 
+assessment found that the ARD program captured about half of 
+the estimated number of justifiable homicides in the United 
+States from 2003 through 2011, excluding 2010. ***Footnote 4 
+See Assessment of Coverage in the Arrest-Related Deaths Program 
+(NCJ 249099, BJS web, October 2015).***In general, the 
+incomplete coverage each year was due in part to the 
+unstandardized data collection process across states. However, 
+program coverage increased to a high of 69% in 2011, when the 
+program began to rely more on open information sources to 
+identify potentially eligible deaths.
+
+The DICRA of 2013 (P.L. 113-242) was reauthorized in December 
+2014 and requires any state receiving funds from the Department 
+of Justice to report information on a quarterly basis regarding 
+the death of any person who is detained, under arrest, in the 
+process of being arrested, en route to be incarcerated, or 
+incarcerated. BJS has been developing new methodologies to 
+identify the full scope of arrest-related deaths identified by 
+the DICRA of 2013 and to collect information about those deaths 
+through the ARD program redesign study.
+
+The ARD program redesign data collection methodology includes 
+two phases to maximize agency participation and data 
+completeness. During the first phase, BJS identified potential 
+arrest-related deaths through review of open information 
+sources, including news outlets, official agency documents, and 
+other publicly available information. During the second phase, 
+BJS conducted a survey of law enforcement agencies and ME/C 
+offices. BJS surveyed the state and local agencies with 
+jurisdiction over the potential arrest-related deaths 
+identified in phase one and a selected group of agencies where 
+no death was identified.
+
+This hybrid approach was designed to address two primary 
+obstacles to compiling accurate and reliable information from 
+media sources. First, a huge amount of information is available 
+from open sources that must be reviewed, which carries 
+associated cost and time resources. This obstacle was addressed 
+through a process of automated article reduction, coding, and 
+classification. Second, the reliability and accuracy of various 
+media sources was unknown and in many cases limited to a few 
+pieces of information about the event. As a result, any 
+information about the decedent and circumstances surrounding 
+the death must be collected and verified through official 
+sources. This obstacle was addressed through the agency survey.
+
+The redesigned ARD program study will enable BJS to--
+
+* confirm whether potential arrest-related deaths identified 
+through open information source review meet the ARD program 
+definition and scope
+
+* identify any additional arrest-related deaths that BJS did 
+not identify during the open information source review
+
+* collect additional information about the decedent and the 
+circumstances surrounding the incident for all confirmed 
+arrest-related deaths.
+
+For the purposes of the ARD program, a death is defined as 
+arrest-related when (1) the death results from police use of 
+force or (2) the event causing the death (e.g., self-inflicted 
+injury, cardiac arrest, fall from a height, and drowning) 
+occurs while the decedent’s freedom to leave is restricted by a 
+law enforcement agency.
+
+************************************************************
+*****************************************
+Deaths reportable to the Arrest-Related
+Deaths program
+*****************************************
+
+* All deaths attributed to any use of force by law enforcement 
+personnel acting in an official agency capacity.
+
+* Any death that occurs while the decedent’s freedom to leave 
+is restricted by a state or local law enforcement agency prior 
+to, during, or following an arrest, which includes--
+
+** while detained for questioning 
+
+** during the process of apprehension
+
+** while in the custody of, or shortly after restraint by, law 
+enforcement (even if the decedent was not formally under 
+arrest)
+
+** during transport to or from law enforcement or medical 
+facilities.
+
+* Any death that occurs while confined in lockups or booking 
+centers.
+************************************************************
+
+******************************************************
+Redesign phase 1: media review methods and findings
+******************************************************
+
+BJS set up a series of media alerts designed to capture the 
+full scope of arrest-related deaths. The alerts return articles 
+that include one or more of several primary search terms in 
+proximity to other text that indicates state or local law 
+enforcement personnel acting in an official agency capacity.
+The primary search terms included text variations of shot, 
+killed, death, standoff, Taser, use of force, accidental, 
+overdose, and heart attack. Law enforcement proximity words 
+included text variations of police, officers, custody, and 
+arrest.
+
+A data pipeline was built to manage the large volume of data 
+returned through the media alerts and reduce the number of 
+articles that needed to be manually coded by reviewers (figure 
+2). An external media monitoring provider was used to obtain 
+URLs, titles, and short descriptions of articles that matched 
+alerts of interest. Some sources (e.g., reddit.com, 
+craigslist.com, and tumblr.com) were determined to be either 
+unreliable sources of information on arrest-related deaths or 
+returned information not relevant to the ARD program scope.
+Articles from such sources were excluded. Returned articles 
+that corresponded to duplicate web addresses were also 
+excluded.
+
+An external text retrieval service was then used to retrieve 
+article text associated with each URL. Modern natural language 
+processing techniques were used to identify articles that are 
+similar to each other and exclude such similar articles from 
+further classification and coding. Similarity was determined on 
+the basis of whole text similarity and similarity of the 
+entities (e.g., people, places, and things) automatically 
+extracted from an article.
+
+Machine learning classifiers were developed to identify 
+articles that were likely to provide information related to an 
+arrest-related death. Information from approximately 150,000 
+articles, which were manually reviewed and coded, was used to 
+train logistic regression and decision tree classifiers. 
+Classifiers were combined to maximize predictive power. 
+Articles were weighted to protect against developing a 
+classifier that identified arrest-related deaths covered widely 
+in the media but failed to identify arrest-related deaths 
+mentioned in a few articles. During model building, articles 
+that identified a decedent found in a small number of articles 
+were weighted higher than articles that identified a decedent 
+found in many articles. Between June 2015 and June 2016, more 
+than 2 million articles were classified using this approach.
+
+Following the classification process, approximately 250,000 
+media articles with a higher likelihood of providing relevant 
+information were manually coded to determine if they identified 
+a potential arrest-related death. The vast majority of articles 
+(83%, not shown in table) were associated with the primary 
+search terms of shooting, shot, killed, death, or dead.
+
+Each article was reviewed to determine if it identified a death 
+that appeared to meet the ARD program scope. For these 
+potential arrest-related deaths, reviewers then recorded the 
+name of the decedent, incident location, date of death, and the 
+primary law enforcement agency or agencies involved. The list 
+of decedents was then re-reviewed to remove duplicate 
+references to the same decedent and to follow up on any records 
+with incomplete information. The resulting list of unique 
+decedents was further compared to existing open source lists 
+with overlapping scope (see text box, Arrest-Related Deaths 
+program scope).
+
+Among the reviewed articles, an average of 8% of articles 
+identified a potential arrest-related death (not shown). From 
+June 2015 through March 2016, 18% of the potential arrest-
+related deaths were identified through one article, while 2% of 
+the potential deaths were referenced in more than 100 articles 
+(figure 3).
+
+An open source review of articles published from June 2015 
+through March 2016 identified potential arrest-related deaths 
+in all 50 states (figure 4). California had the largest number 
+of potential arrest-related deaths identified during this 
+period, although the District of Columbia, Wyoming, and New 
+Mexico had the highest rate of potential arrest-related deaths 
+per million residents. In some states with very high rates, 
+such as Wyoming, the estimated rate is based on a low number of 
+deaths. New Jersey, New York, and Rhode Island had the lowest 
+rates of potential arrest-related deaths per million residents 
+compared to other states (figure 5).
+
+********************************************
+Arrest-Related Deaths program scope
+********************************************
+In addition to direct media alerts, BJS consulted existing open 
+source lists of deaths with scopes that overlapped with the 
+ARD program, including lists maintained by Fatal Encounters, 
+The Guardian, Killed by Police, Gun Violence Archive, and The 
+Washington Post (table 1). Of these, Fatal Encounters most closely 
+matched the ARD program scope. Killed by Police included deaths 
+associated with off-duty police officers who are not acting in 
+an official agency capacity, and the ARD program excludes 
+such deaths.
+********************************************
+
+************************************************
+Redesign phase 2: survey methods and findings
+************************************************
+
+The ARD program survey was distributed to the chief executive 
+in each state and local law enforcement agency that was 
+involved with the 379 potential arrest-related deaths that 
+occurred from June to August 2015, as well as the chief medical 
+examiner or coroner with concurrent jurisdiction over those 
+deaths. Each survey respondent was asked to confirm or deny 
+each potential arrest-related death identified through media 
+review and identify any other deaths that met the ARD program 
+scope and occurred during the same time frame. For all 
+confirmed deaths, the agency was then asked to complete an 
+incident form.
+
+The law enforcement agency incident form (Form CJ-11A) requests 
+information about the decedent, the reason the law enforcement 
+agency was involved with the decedent, actions the decedent 
+took during the incident, and actions the law enforcement 
+agency took during the incident. The ME/C office incident form 
+(Form CJ-12A) also includes decedent characteristics and the 
+cause and manner of death (see text box, ARD Program Incident 
+Form Measures).
+
+************************************************
+***************************************
+Arrest-Related Deaths program incident
+form measures
+***************************************
+
+Form CJ-11A
+-------------------------------------------------
+Law Enforcement Agency (LEA) Arrest-Related Death
+Incident Report
+
+1. Identifying information
+ - LEA involved
+ - State
+ - Decedent name
+ - Date/time of death
+2. Location of incident
+3. Decedent demographics
+4. Precipitating events
+ - Reason for initial contact
+ - Did decedent commit or allegedly commit any crimes
+5. Decedent behavior during incident
+ - Barricade, threaten, assault, escape, etc.
+ - Exhibit mental health problems or appear to be intoxicated
+ - Possess or appear to possess a weapon
+ - Use a weapon to threaten or assault
+ - Attempt to injure officers or others
+6. Law enforcement actions during incident
+ - Engage in pursuit or restraint tactics
+ - Use of force
+ - If firearm discharged, how many shots fired
+ - Number of officers and LEAs that responded to incident
+
+Form CJ-12A
+------------------------------------------------------
+
+Medical Examiner/Coroner’s Office Arrest-Related Death
+Incident Report
+
+1. Identifying information
+ - State
+ - Decedent name
+ - Date/time of death
+2. Location of incident
+3. Decedent demographics
+4. Whether autopsy was performed
+5. Manner of death
+6. Cause of death
+7. If died from injuries, how were those injuries sustained
+8. If weapon caused death, what type of weapon
+************************************************
+
+
+In most states, separate surveys were sent to the law 
+enforcement agencies and the local ME/C offices involved in the 
+death. Respondents in Arizona, California, Maryland, and Texas 
+provided information on behalf of both the law enforcement 
+agencies and ME/C offices due to centralized reporting 
+requirements already in place in those states. From June to 
+August 2015, a total of 486 agencies were surveyed, with 75% 
+providing some response and 72% providing a complete response, 
+including full incident forms for all confirmed decedents 
+(table 2). The response was approximately the same for both law 
+enforcement and ME/C offices. While the response rates for 
+agencies reached 75%, a low response was expected given the 
+short response window and follow-up period. Many of these 
+incidents were open investigations at the time of data 
+collection or had other matters standing, such as civil cases. 
+More time to allow these cases to close, coupled with more 
+aggressive nonresponse follow-up strategies, could yield higher 
+participation rates.
+
+Of the 379 potential arrest-related deaths identified through 
+media sources for the agency survey from June through August
+2015, 79% were confirmed by at least one survey respondent and 
+55% were confirmed by both the law enforcement agency and ME/C 
+office involved (table 3).
+
+Sixty deaths were denied by at least one agency, with more than 
+half (32) of those deaths denied by one agency but confirmed by 
+another. The most common reason for denying a potential arrest-
+related death was because the agency surveyed had no record of 
+the decedent (N = 24, 40% of all denied deaths). The second 
+most common reason was because the agency reported that the 
+potential decedent was in the custody of another agency (N = 
+15, 25% of denied deaths). Approximately 15 deaths were denied 
+because the agency did not agree that the death met the ARD 
+program scope. Follow-up review of publicly available 
+information showed that these deaths meet the ARD program scope 
+and included suicides and accidents that occurred during police 
+pursuit. Two deaths were denied by both the law enforcement 
+agency and ME/C office involved, who indicated in both cases 
+that the potential decedent was not deceased. These two deaths 
+were removed from further analysis. The remaining denied cases 
+were researched further, and no information was identified that 
+excluded these cases from the ARD program scope, so they were 
+retained for further analyses.
+
+In addition to reviewing the list of deaths BJS identified from 
+open source review, agencies were asked to report any other 
+deaths that met the ARD program scope and occurred in their 
+jurisdiction from June to August 2015. Agency-reported deaths 
+determined to be out of ARD program scope, either because they 
+occurred outside of the survey period, occurred in the custody 
+of local jail or state prison, or otherwise did not meet ARD 
+program criteria, were excluded from the analysis (not shown in 
+table). Forty-eight deaths were reported by agency respondents 
+and retained in the ARD program analysis. Through follow-up 
+media review, 14 of these agency-reported deaths were confirmed 
+to meet the ARD program scope. A media record of the remaining 
+34 agency-reported deaths was not located.
+
+Media reviews and agency surveys together identified a total of 
+425 arrest-related deaths that occurred from June to August 
+2015, excluding the two persons determined not to be deceased. 
+Among the total deaths, 88% or 375 decedents had an incident 
+form completed by either a law enforcement agency or ME/C 
+office. Forty-four states had at least one death in the 3 month 
+period, with three states accounting for 35% of the total—
+California (64), Texas (58), and Florida (25) (table 4).
+
+Twelve percent of the 425 deaths in June, July and August 2015 
+were reported by agency respondents and not initially 
+identified through media searches. Based on deaths identified 
+from open source information review from June 2015 to May 2016 
+and assuming an additional 12% identified by agencies, there 
+were an estimated 1,900 arrest-related deaths.
+
+Manner of death was determined for decedents with a completed 
+ME/C office incident form (N = 300) or imputed from open source 
+information when the item was missing (N = 125). Of all deaths 
+occurring in June, July, and August 2015, 64% were homicides, 
+18% were suicides, and 11% were accidents (table 5).
+
+*************
+Conclusions
+*************
+
+A key component to the Arrest-Related Deaths (ARD) program 
+redesign study is the standardized mixed method, hybrid 
+approach that does not rely solely on media sources or 
+voluntary reporting from law enforcement agencies to identify 
+and provide information about arrest-related deaths.
+
+Arrest-related homicides are often reported in the media and 
+included in other open source existing lists, while deaths due 
+to suicide, accident, and other manners of death are also 
+within the scope of the ARD program and may be identified less 
+often in publicly available information sources. Information on 
+the circumstances surrounding all manners of arrest-related 
+deaths death--including homicides, suicides, accidents, and 
+deaths due to natural causes--may inform law enforcement 
+training and policies. Furthermore, information about the 
+incident, such as the number of shots fired, the reason for the 
+interaction between law enforcement and the decedent, and 
+whether the decedent threatened or assaulted officers or 
+civilians during the incident may be incomplete or unavailable 
+in the media.
+
+The ARD program redesign also includes a survey of law 
+enforcement agencies and medical examiner/coroners’ (ME/C) 
+offices that did not have a potential arrest-related death 
+identified through media review. This survey component was 
+concluded in July 2016. Based on the survey data, BJS will 
+update the number of arrest-related deaths that occurred from 
+June to August 2015 to include any deaths identified by the 
+additionally surveyed agencies. BJS will also report more 
+detailed information on the circumstances surrounding confirmed 
+arrest-related deaths, including decedent race and ethnicity, 
+reason for law enforcement involvement, decedent actions during 
+the incident, and law enforcement agency actions during the 
+incident.
+
+Additionally, the redesign study deviates from past ARD data 
+collection efforts by centralizing data collection efforts 
+across states, standardizing search efforts, and conducting 
+direct contact with the responsible law enforcement and ME/C 
+offices. These efforts result in improvements in data 
+completeness and quality.
+
+************************************************
+************************
+Federal coordination
+************************
+
+The FBI has historically collected information on law enforcement 
+homicides through the Supplementary Homicide Reports, which are part of 
+the Uniform Crime Reporting Program. To better capture the 
+wider scope of use of force by law enforcement officers, the 
+FBI is developing a national use of force data collection 
+system.
+
+BJS and the FBI continue to coordinate data system 
+development and data collection efforts to ensure that the 
+activities of both federal agencies minimize reporting burden 
+on law enforcement agencies and maximize the comprehensiveness 
+and accuracy of the information that is collected. The ARD program 
+redesign work will inform the development of a reliable and valid 
+use of force data system maintained by the DOJ. This collaboration 
+across agencies will serve as a way to maintain and increase data 
+quality and public accountability.
+
+************************************************
+
+***************************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for 
+measuring crime, criminal victimization, criminal offenders, 
+victims of crime, correlates of crime, and the operation of 
+criminal and civil justice systems at the federal, state, 
+tribal, and local levels. BJS collects, analyzes, and 
+disseminates reliable and valid statistics on crime and justice 
+systems in the United States, supports improvements to state 
+and local criminal justice information systems, and 
+participates with national and international organizations to 
+develop and recommend national standards for justice 
+statistics. Jeri M. Mulrow is acting director.
+
+This report was written by Duren Banks, Paul Ruddle, and Erin 
+Kennedy of RTI International, and Michael Planty of BJS. Jason 
+Nance and Nicole Johnson verified the report.
+
+Morgan Young edited the report. Tina Dorsey and Morgan Young 
+produced the report.
+
+December 2016, NCJ 250112
+
+***************************************************************
+
+***************************************************************
+Office of Justice Programs
+Building Solutions * Supporting Communities * Advancing Justice 
+www.ojp.usdoj.gov
+***************************************************************
+
+***************************************
+11/29/16 /JER/10:12am 
+***************************************
+
+
+
+
+

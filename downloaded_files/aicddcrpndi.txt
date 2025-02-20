@@ -1,0 +1,962 @@
+﻿U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+****************************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5601
+****************************************************************
+
+*******************
+Technical Report
+*******************
+
+*****************************************************
+Assessing Inmate Cause of Death: Deaths in Custody 
+Reporting Program and National Death Index
+***************************************************** 
+
+Zhen Zeng, Ph.D., Margaret Noonan, and E. Ann Carson, Ph.D., 
+BJS Statisticians
+Ingrid Binswanger, M.D., BJS Visiting Fellow
+Patrick Blatchford, Ph.D., Colorado School of Public Health
+Hope Smiley-McDonald, Ph.D., and Chris Ellis, RTI International
+
+********************
+Introduction
+********************
+
+The U.S. Department of Justice’s Bureau of Justice Statistics
+(BJS) has collected data annually on inmates who died in
+state prison and local jail and the circumstances surrounding
+these deaths since the Death in Custody Reporting Act (P. L. 106–
+297) was passed in 2000. There were no standardized requirements 
+for prison and jail administrators to report inmate deaths prior 
+to the passage of the act.
+
+Under BJS’s Deaths in Custody Reporting Program (DCRP), 
+respondents from jails and state departments of corrections are 
+asked to report causes of deaths (COD), identifiers, and 
+characteristics of each inmate who died. This includes personal 
+data (i.e., name, date of birth, date of death, and sex), 
+correctional information (i.e., length of stay, legal status, and 
+criminal offense of the deceased), and the circumstances of the 
+death (i.e., medical treatment before death, pre-existing 
+conditions, and time and place of death incident).
+
+The DCRP had a 100% response rate among 50 state departments of 
+corrections and 99% among the approximately 2,800 jail jurisdictions. 
+Item response rates were also generally close to 100%. However, BJS 
+had some concerns about the collection of COD data in the DCRP. Due 
+to changes in data collection agents in 2008, data quality follow-up 
+was cut short, resulting in 21% of missing COD information for jail 
+deaths that year, compared to 2% in 2007 and 2009. This data anomaly 
+significantly compromised BJS’s ability to report death trends.
+
+
+Although the DCRP has collected inmate COD data since 2000, the 
+extent to which respondents accurately reported this information, 
+especially in multiple-cause deaths, is unknown. Various 
+correctional professionals may complete the DCRP records, 
+including jail administrators and correctional medical and line 
+staff, while only the treating physician, a forensic pathologist, 
+coroner, or funeral director may complete and file death 
+certificates in the United States. 
+
+The DCRP did not collect information on the manner of death for 
+suicides (e.g., hanging) until 2008 and for alcohol and drug 
+intoxication (e.g., ethanol toxicity and heroin toxicity) until 
+2009.
+
+DCRP respondents are instructed to report the final COD (known as 
+the immediate COD on the death certificate) as recorded by a 
+medical examiner or through another official medical 
+investigation. (See Collecting cause of death data in the DCRP 
+and NDI textbox.) In comparison, U.S. death certificates capture 
+“the chain of events--diseases, injuries, or complications--that 
+directly caused the death” ranked in order from the immediate to 
+underlying. Contributing causes, which did not result in the 
+underlying cause, are also collected in the National Center for 
+Health Statistics’ (NCHS) National Death Index (NDI).
+
+COD is one of the items that require the highest level of data 
+quality follow-up in the DCRP collection due to item nonresponse 
+or invalid data. If an autopsy is requested--as it is for nearly 
+all jail and most prison deaths--DCRP respondents must wait for 
+the autopsy report and all associated toxicology and lab tests to 
+be made available. In some cases, respondents cannot obtain COD 
+information from the medical examiner and will submit a record 
+that is missing the COD. Missing data require follow-up and can
+delay the final death record for weeks or months.
+
+To address these issues, BJS examined the NDI as an alternative 
+means of capturing COD data. The NDI is a centralized database of 
+death certificate information abstracted from state vital 
+statistics offices. Through NDI searches, health and medical 
+researchers can determine whether persons in their studies have 
+died or establish COD for persons known to be deceased. The NDI 
+is considered the most comprehensive and accurate collection
+of death identification and COD information. Both the source 
+(e.g., death certificates) and coverage are better than other 
+mortality death files, such as the Social Security 
+Administration’s Death Master File.***Footnote 1 Fillenbaum, G. 
+G., Burchett, B. M., & Blazer, D. G. (2009). Identifying
+a National Death Index match. American Journal of Epidemiology, 
+170(4), 515-518***.
+
+BJS had several objectives for this project: obtain the COD codes 
+reported on death certificates, evaluate the quality of the 
+matches, and assess the agreement in COD between the matched DCRP 
+and NDI records.
+
+This report summarizes the results of these analyses and provides 
+recommendations for improving COD data by linking DCRP and NDI 
+data.
+
+*************************************
+DCRP and NDI cause of death coding
+*************************************
+
+Both the DCRP and NDI use codes for COD from the 10th revision 
+of the International Statistical Classification of Diseases and 
+Related Health Problems (ICD-10). However, the two collections 
+differ in how they assign ICD-10 codes and identify the most 
+important COD when multiple conditions are present. These 
+differences play an important role in COD mismatch between the 
+DCRP and NDI (table 1).
+
+A nosologist (i.e., a clinical coder trained by the NCHS)
+processes DCRP data based on the codes listed on DCRP death 
+forms. The nosologist assigns a maximum of five codes to each 
+DCRP death case. The NDI provides up to 20 ICD-10 codes for the 
+various conditions a decedent had, with a maximum of 14 for this 
+dataset. While the NDI assigns ICD-10 codes for all deaths, the 
+DCRP assigns ICD-10 codes only to natural deaths, such as heart 
+disease, cancer, and liver disease. DCRP respondents are instructed 
+to check a box for AIDS-related deaths, but no additional COD 
+information is captured for these deaths. Unnatural deaths, 
+such as drug or alcohol intoxication, homicides, suicides, 
+and accidents, are not assigned ICD codes in the DCRP.
+
+The NDI uses the Automated Classification of Medical Entities
+(ACME) program to identify the underlying COD, which is the 
+international standard for automated selection of the underlying 
+COD. Studies have shown little discrepancy (up to 7%) between 
+underlying causes assigned by ACME and a professional nosologist, 
+but ACME offers considerable savings both in cost and efficiency. 
+***Footnote 2 Doody, M. M., Hayes, H. M., & Bilgrad, R. (2001). 
+Comparability of National Death Index Plus and standard 
+procedures for determining causes of death in epidemiologic 
+studies. Annals of Epidemiology, 11(1), 46-50***.
+
+The inputs to ACME are the multiple ICD codes assigned to each 
+entity (e.g., disease condition, accident, or injury) listed
+on death certificates, in a particular order as reported. ACME
+then applies the World Health Organization rules to the ICD
+codes and selects an underlying COD. Underlying COD is defined as 
+“(a) the disease or injury which initiated the train of events 
+leading directly to death, or (b) the circumstances of the 
+accident or violence which produced the fatal injury.”***Footnote 
+3 World Health Organization. (1975). Manual of the international
+statistical classification of diseases, injuries, and causes of 
+death: World Health Organization***.
+
+The DCRP uses a different system for identifying the underlying 
+COD. Specifically, respondents are instructed to report a final 
+COD as determined by a medical examiner. Cases with a single COD 
+are ranked by frequency separately for male and female decedents. 
+When a death is caused by multiple illnesses, the most common 
+sex-specific COD among those with only one COD is designated the 
+underlying COD. For example, a male decedent with two 
+conditions—liver disease and cancer—is counted as a cancer death 
+because cancer is a more common COD than liver disease among men
+who die from a single COD.
+
+In the NDI, the underlying COD variable is assigned an
+ICD-10 code. This variable is collapsed into broader COD
+categories: first into a 113-category Level-2 COD variable and
+then into an 11-category Level-1 COD variable. For instance,
+ICD-10 codes E10 through E14 (i.e., insulin-dependent diabetes 
+mellitus, non-insulin-dependent diabetes mellitus, malnutrition-
+related diabetes mellitus, other specified diabetes mellitus, and 
+unspecified diabetes mellitus) are grouped into diabetes  
+mellitus, a Level-2 category. The Level-1 CODs include 11 major 
+categories of death:
+
+* heart disease
+
+* AIDS-related
+
+* cancer
+
+* liver disease
+
+* respiratory disease
+
+* other illness
+
+* suicide
+
+* homicide
+
+* drug and alcohol intoxication
+
+* accident
+
+* other.
+
+Both Level-1 and Level-2 categories are standard classifications
+of CODs that are used by epidemiologists to categorize CODs and 
+by the Centers for Disease Control and Prevention (CDC) and the 
+NCHS.
+
+In the DCRP, the underlying COD is a categorical variable with
+the same 11 groups as the Level-1 underlying COD in the NDI; the 
+DCRP does not offer ICD-10 codes or detailed categories for the 
+underlying COD. Because BJS publishes inmate death rates by major 
+categories of COD annually, this study focuses on the 11-category 
+underlying COD variable when comparing DCRP and NDI data. 
+Comparisons of multiple causes using all available ICD-10 codes 
+were also conducted.
+
+***************************************************************
+
+****************************************************
+Collecting cause of death data in the DCRP and NDI 
+****************************************************
+
+DCRP form
+*********
+
+15. What was the cause of death? *** Please SPECIFY cause of 
+death--it is critical information ***
+
+* Illness—Exclude AIDS-related deaths [Specify] 
+_________________________________________________________________
+
+* Acquired Immune Deficiency Syndrome (AIDS)
+
+* Accidental alcohol/drug intoxication [Describe] 
+_________________________________________________________________
+
+* Accidental injury to self [Describe] 
+_________________________________________________________________
+
+* Accidental injury by other (e.g., vehicular accidents during 
+transport) [Describe] ___________________________________________
+
+* Suicide (e.g., hanging, knife/cutting instrument, intentional 
+drug overdose) [Describe] _______________________________________
+
+* Homicide [Describe] 
+_________________________________________________________________
+
+* Other cause(s) [Specify] 
+_________________________________________________________________
+
+U.S. standard certificate of death
+***********************************
+
+CAUSE OF DEATH (See instructions and examples)
+32. PART I. Enter the chain of events—diseases, injuries, or 
+complications—that directly caused the death. DO NOT enter 
+terminal events such as cardiac arrest, respiratory arrest, or 
+ventricular fibrillation without showing the etiology. DO NOT 
+ABBREVIATE. Enter only one cause on a line. Add additional lines 
+if necessary. 
+IMMEDIATE CAUSE (Final disease or condition resulting in death --
+-------> a. ______________________________________________________
+Sequentially list conditions, if any, leading to the cause listed 
+on line a. Enter the UNDERLYING CAUSE (disease or injury that 
+initiated the events resulting in death) LAST.
+b. 
+_________________________________________________________________
+
+c. 
+_________________________________________________________________
+
+d. 
+_________________________________________________________________
+
+PART II. Enter other significant conditions contributing to death 
+but not resulting in the underlying cause given in PART I.
+***************************************************************
+
+********************
+Matching procedure
+********************
+
+DCRP death records from 2007 through 2010 were sent to the NDI 
+Plus service, which provides COD listings for each potential 
+match. Subjects in the DCRP were considered known decedents by 
+the NDI, meaning that the DCRP had established the fact of death. 
+Known decedent searches result in a higher likelihood of true 
+matches than searches for subjects with an unknown vital status.
+
+The NDI prefers using Social Security numbers (SSNs) as
+identifiers. Neither SSNs nor maiden names of female inmates
+are collected by DCRP and could be linked with the NDI. The
+match between DCRP and NDI records used the following variables: 
+decedents’ birth and death dates, first and last names, sex, race 
+or Hispanic origin, and state of residence.
+
+The DCRP 2007–10 file contained 17,420 records. Analysis was 
+limited to those records with complete information on birth and 
+death dates and unique birth date and death date combinations. 
+Some pairs of subjects with the same birth and death dates also 
+matched on last name, sex, race or Hispanic origin, and state of 
+residence, differing only in first name. It is likely that these 
+were duplicate records, and the difference in the first names was 
+due to the inmate’s use of an alias. The final study cohort 
+contained 17,358 decedents (figure 1).
+
+The search for 17,358 DCRP subjects in the NDI database resulted 
+in 37,868 possible matches. Each possible match was assigned a 
+probabilistic match score by the NDI system. The probabilistic 
+score is calculated by summing the individual weights applied to 
+each data element (e.g., decedents’ sex, race or Hispanic origin, 
+date of birth, state of residence) used in the NDI match. The 
+weights reflect the degree of agreement between the information 
+on the submission record and the NDI record. *** Footnote 4 
+National Center for Health Statistics. (2013). National Death 
+Index user’s guide. Hyattsville, MD: U.S. Department of Health 
+and Human Services, Centers for Disease Control and 
+Prevention***. For subjects with multiple possible matches, the 
+record with the highest probabilistic score was selected. This 
+procedure reduced the total number of matches to 16,265 deaths, 
+or one match per subject.
+
+In addition to the probabilistic match score, NDI provides
+two variables to assess the quality of potential matches: status
+code and exact match indicator. Derived from the probabilistic
+match score, the status code indicates whether an individual is 
+either assumed to be alive (status code=0) or dead (status 
+code=1). In this study, given that all DCRP subjects are known
+to be dead, a status code of 0 means that the potential match
+has a relatively low probability of being a true match. The
+NDI assigns status codes conservatively to avoid incorrectly
+assuming that a living person is dead. As a result, while most
+of the potential matches assigned a status code of 1 were true
+matches, a number of true matches were assigned a status code
+of 0.
+
+The exact match variable indicates that all match fields on the
+user record agree exactly with the information in the NDI.
+Exact match is a more conservative criterion than status code
+and may misclassify more true matches (i.e., false negatives)
+due to misspellings or nicknames (e.g., Robert compared to
+Bob). Given that all subjects were known to be dead, a broad
+definition of match was employed to avoid the risk of dropping
+eligible deaths, and all 16,265 cases with NDI matches were
+included in the analysis.
+
+*********************
+Quality of matching
+*********************
+
+Overall, the NDI had at least one record available for 94% of
+the DCRP subjects. No matches were found for 1,093 DCRP records 
+(table 2). Eighty-two percent of the records had a status code 
+of 1 and 67% had an exact match.
+
+The overall match rate (94%) was slightly lower than in other 
+samples, such as Vietnam era veterans (97%) and refinery and
+petrochemical workers (97%). *** Footnote 5 Boyle, C. A. & 
+Decoufle, P. (1990). National sources of vital status
+information: Extent of coverage and possible selectivity in 
+reporting. American Journal of Epidemiology, 131(1), 160-168; and 
+Acquavella, J. F., Donaleski, D., & Hanis, N. M. (1986). An 
+analysis of mortality follow-up through the National Death Index 
+for a cohort of refinery and petrochemical workers. American 
+Journal of Indian Medicine, 9(2), 181-187***. However, in the 
+absence of several important identifiers (e.g., SSN and maiden 
+name for females), this was a decent match rate.
+
+The match rate did not show much variation by facility type, 
+decedent’s sex, race or Hispanic origin, age, or death year. Even 
+when differences were statistically significant between groups 
+(e.g., prison compared to jail deaths and male compared to female 
+decedents), they amounted to about 2 to 4 percentage points.
+
+********************************************
+Comparing data coverage for cause of death
+********************************************
+
+About 2% of death records in 2007–10 were missing COD in the 
+DCRP, compared to 6% in the NDI (table 3). COD data may be 
+missing in the NDI for a DCRP record for two reasons: (1) no 
+matched record was found in the NDI, or (2) a matched record was 
+found but the NDI had no COD information for it. In this 
+comparison, all missing COD in the NDI was due to unmatched 
+records. All matched records had COD data in the NDI. Out of the 
+336 cases with missing COD in the DCRP, COD data was available 
+for 302 cases by linking with the NDI, leaving 34 cases with no 
+COD information (not shown).
+
+The rate of missing data was higher for jail deaths than prison 
+deaths, particularly in the DCRP (6% missing in jail compared to 
+1% in prison). This was due to a data anomaly in 2008, when 21% 
+of the DCRP jail deaths (n=202) were missing COD information. 
+***Footnote 6 Excluding 2008, 1% of jail deaths were missing 
+COD***. By linking to the NDI database, COD information was 
+obtained for 185 out of those 202 cases, providing a resolution 
+for 92% of the cases (not shown).
+
+The NDI provided more ICD-10 codes than the DCRP. On average, 
+each subject received 1.06 ICD codes in the DCRP (including 
+unmatched cases), while each matched record received an average 
+of 2.69 codes in the NDI (table 4). This large difference 
+occurred in part because the DCRP asks respondents for final 
+cause of death, and the cause of death question on the U.S. 
+standard certificate of death requests multiple causes. In 
+addition, ICD-10 codes were not assigned to unnatural deaths in 
+the DCRP.
+
+Prison deaths were assigned more ICD codes than jail deaths both 
+in the DCRP (1.17 for prison deaths compared to 0.68 for jail 
+deaths) and in the NDI (2.74 for prison deaths compared to 2.54 
+for jail deaths). Large differences also existed by COD category. 
+The DCRP did not assign ICD codes for unnatural deaths, such as 
+suicides, homicides, intoxications, and accidents. In the NDI, 
+deaths from unnatural causes received more ICD codes than deaths 
+from illness.
+
+*************************************
+Comparing underlying cause of death
+*************************************
+
+In this report, DCRP and NDI data are compared to determine the 
+accuracy and completeness of CODs reported by DCRP respondents. 
+COD data were compared in three ways. The distributions of 
+underlying COD in the two datasets were compared at the aggregate 
+level. Also, the correspondence of underlying COD between the two 
+datasets was examined at the individual level, and the reasons 
+for mismatch were explored. The first two analyses used the major 
+category of death, which classified COD into 11 groups. Finally, 
+the analysis compared the correspondence of multiple causes 
+between the two datasets at the individual level, using all
+available ICD-10 codes. This analysis helped explain the mismatch 
+of the underlying COD in the two datasets.
+
+The marginal distributions of the underlying COD from the two 
+datasets were similar. The leading CODs in the DCRP were heart 
+disease (25%), cancer (22%), and suicide (11%), while those in 
+the NDI were cancer (23%), heart disease (22%), and suicide (11%) 
+(table 5). Illness, or natural, deaths were far more prevalent 
+among prisoners (89% of prison deaths in the DCRP and the NDI) 
+than among jail inmates (55% of jail deaths in the DCRP and 59% 
+in the NDI). About 30% of jail deaths were due to suicide, 
+compared to 6% of prison deaths.
+
+The leading CODs were the same for male and female inmates
+(i.e., heart disease, cancer, and suicide) with small  
+differences: Cancer and heart disease accounted for higher 
+percentages of male deaths than female deaths, while suicide 
+accounted for a higher percentage of female deaths than male 
+deaths. ***Footnote 7 Although suicides accounted for a larger 
+percentage of female inmate deaths, males accounted for the 
+majority (91% in jail and 95% in prison) of suicides in 
+correctional facilities. See Mortality in Local Jails and State
+Prisons, 2000–2013 - Statistical Tables (NCJ 248756, BJS web, 
+August 2015). These patterns were evident in both the DCRP and 
+the NDI. 
+
+To examine how COD data in the NDI correspond to data in the DCRP 
+at the individual level, the DCRP underlying COD was cross-
+tabulated by the NDI underlying COD for 15,963 respondents with 
+known COD in both datasets. This reveals how frequently the COD 
+categorization of NDI agreed with that of DCRP (table 6 and table 
+7).
+
+Two statistics are used to measure the congruence of DCRP and NDI 
+COD data (i.e., intercoder reliability): the agreement rate and 
+the kappa statistic. The agreement rate is the percentage of 
+records classified into the same category by the two datasets. 
+The kappa statistic was first proposed by Cohen. ***Footnote 8 
+Cohen, J. (1960). A coefficient of agreement for nominal scales.
+Educational and Psychological Measurement, 20, 37-46***. It 
+measures intercoder reliability while taking into account 
+agreement that is expected purely by chance--that is, it 
+indicates the level of agreement achieved beyond chance. When the 
+raters (i.e., the DCRP and NDI) are in complete agreement, kappa 
+takes on the value of 1. Landis and Koch suggested characterizing 
+values less than 0 as indicating no agreement, 0 to 0.20 as 
+slight, 0.21 to 0.40 as fair, 0.41 to 0.60 as moderate, 0.61 to 
+0.80 as substantial, and 0.81 to 1 as almost perfect agreement. 
+***Footnote 9 Landis, J. R. & Koch, G. G. (1977). The 
+measurement of observer agreement for categorical data. 
+Biometrics, 33(1), 159-174***. (See Methodology for more detail.)
+
+The overall agreement rate was 70%, meaning that 70% of the 
+deaths were classified into the same major category of death by 
+the DCRP and the NDI. The kappa statistic was 0.64, which 
+indicates a substantial level of agreement following Landis and 
+Koch’s guidelines. The percentage of records that received 
+identical classification in both collections varied by COD 
+category, ranging from less than 40% to more than 90%. The 
+categories in the DCRP with the highest agreement rates were 
+suicide (93%), cancer (87%), homicide (86%), and AIDS-related 
+(79%). In the DCRP, deaths due to liver disease (38%) and 
+respiratory disease (48%) had the lowest agreement rates. This 
+low agreement rate was likely due to how DCRP respondents 
+recorded these deaths. For example, a death due to hepatitis (an 
+inflammation of the liver caused by the hepatitis virus) would be 
+recorded accurately as an infectious disease by the NDI, but may 
+have been recorded as a liver-related death by the DCRP. 
+Similarly, respiratory deaths are frequently coupled with other 
+conditions and diseases (such as AIDS, cancer, or heart disease), 
+and it is likely that DCRP respondents listed the causes that 
+they deemed more serious than others.
+
+The NDI attributed 18% of the 3,917 DCRP deaths due to heart 
+disease (n=722) to some undefined illness categories, 4% to 
+respiratory disease (n=148), and 4% to cancer (n=146). In total, 
+the NDI attributed 3,553 deaths to heart disease, 9% less than 
+the DCRP. The NDI also attributed 14% of DCRP homicides to other 
+causes. Specifically, 9% were classified as natural deaths in the 
+NDI—heart disease (3%), cancer (2%), respiratory or other illness 
+(4%)—and the remainder were classified as accidental or other.
+
+Close to half (49%) of deaths due to liver disease in the DCRP
+were attributed to other illness in the NDI. This included 
+liver-related deaths caused by the hepatitis virus because of
+its infectious nature. The NDI also attributed 11% of DCRP
+deaths from respiratory disease to heart disease, 9% to cancer,
+and 23% to other illness.
+
+When the NDI classified a record differently from the DCRP, it 
+tended to place it in the same broad category of COD as in the 
+DCRP (either illness or unnatural death). In total, 68% of the 
+illness deaths in the DCRP were classified into the same major 
+category of death in the NDI (table 8). Thirty percent of the 
+illness deaths were attributed to a different illness category,
+while only 2% were reported as unnatural deaths. Eighty-six
+percent of the unnatural deaths in the DCRP received the same
+classification in the NDI, 8% were attributed to illness deaths,
+and 4% to other causes.
+
+****************************************************************
+Assessing the sources of disagreement between the DCRP and NDI
+****************************************************************
+
+Differences in the COD classification between the DCRP and NDI 
+are due to several factors. Mismatched records are the first 
+factor to consider. Two records may not be true matches even if 
+they have the same identifiers, such as last name and birth and 
+death dates. It is not possible to accurately distinguish true 
+matches from false matches, but the NDI status code can be used 
+as a proxy. As previously discussed, the NDI matching process 
+assigned a status code of 1—indicating a high probabilistic 
+score--to 82% of the matches, and a code of 0--indicating a low 
+probabilistic score--to 18% of matches. The congruence in 
+underlying COD between the DCRP and NDI should be higher for 
+matches with a status code of 1 than for those with a status code 
+of 0.
+
+The second factor is data source. The information on the death 
+certificate may be different from that on the medical examiner’s 
+report, or the text may be the same, but the case was assigned 
+different ICD-10 codes by NDI and DCRP nosologists. This 
+explanation was examined by directly comparing the sets of ICD 
+codes from the DCRP and NDI for matched records.
+
+The two datasets use different methods to identify the underlying 
+COD when decedents have multiple health conditions. Specifically, 
+the NDI uses ACME to identify the underlying COD from the list of 
+ICD-coded conditions. When using ACME, shuffling the order in 
+which the codes are listed can change the underlying COD. The 
+DCRP instructs respondents to report a final COD as determined by 
+a medical examiner. For multiple-cause deaths in the DCRP, the 
+most common cause is designated as the underlying COD. Due to 
+such procedural differences, even records with an identical
+set of ICD-10 codes may be assigned to different underlying
+COD categories in the two datasets. To understand how much this 
+factor affects the congruence of the underlying COD between the 
+DCRP and NDI, agreement rates were calculated separately for 
+records with an identical set of ICD codes in the two datasets 
+and those with different ICD codes. Agreement rates were also 
+calculated by the number of ICD codes. The agreement rates should 
+be higher for records with an identical set of ICD codes and for 
+those with fewer ICD codes.
+
+The congruence of the underlying COD between the DCRP and the NDI 
+was compared by status code and other factors (table 9). The 
+kappa statistic of 0.46 and the overall agreement rate of 56% for 
+records with a status code of 0 (i.e., matches with lower 
+probabilistic match scores) were significantly lower than the 
+kappa statistic of 0.66 and 72% for the corresponding statistics 
+for those with a status code of 1 (i.e., those with higher 
+probabilistic match scores). Except for accidental and other or 
+unknown COD, deaths in each COD category by DCRP had a higher 
+agreement rate for matches with a status code of 1 than for 
+matches with a status code of 0. For example, 83% of the AIDS-
+related deaths in the DCRP with a status code of 1 were also 
+classified as AIDS-related deaths in the NDI, compared to 57% of 
+those with a status code of 0.
+
+The agreement rates were also compared by the number of 
+conditions (i.e., single-cause compared to multiple-cause 
+deaths), facility type, sex, and death year. In this context,
+single-cause deaths were those that had only one ICD-10 code in 
+both datasets, and multiple-cause deaths had more than one ICD-10 
+code in either the NDI or DCRP. Because no ambiguity was involved 
+in identifying the underlying COD for single-cause deaths, 
+single-cause deaths had higher intercoder reliability, with a 
+kappa statistic of 0.77 and an overall agreement rate of 83%, 
+compared to a kappa statistic of 0.52 and an overall agreement 
+rate of 63% for multiple-cause illness deaths. The difference in 
+agreement rates was also substantial within each illness 
+category. For example, 73% of deaths attributed only to 
+respiratory disease in the DCRP were also categorized as 
+respiratory disease in the NDI, compared to 42% of the deaths 
+attributed to respiratory disease in the DCRP that also had other 
+causes. Because the DCRP did not assign ICD-10 codes to unnatural 
+deaths, this analysis was restricted to DCRP illness deaths only.
+
+Jail deaths had better agreement than prison deaths, with a kappa 
+statistic of 0.68 (compared to 0.61 for prison deaths) and an 
+overall agreement rate of 74% (compared to 69%). This was likely 
+because nearly all jail deaths in the study group were sent for 
+autopsy (95%), while about two-thirds (65%) of prisoner deaths 
+were autopsied.
+
+DCRP–NDI agreement improved over time. Within 4 years, the kappa 
+statistic increased from 0.60 in 2007 to 0.68 in 2010 and the 
+overall agreement rate increased from 67% in 2007 to 74% in 2010.
+
+To further explore how DCRP–NDI agreement varies by decedent 
+demographics and circumstances of death, a logistic regression 
+was run with the 15,293 death records with COD information in 
+both datasets. The dependent variable is binary, with 1 
+indicating that the record received the same COD classification 
+in the DCRP and the NDI, and 0 indicating otherwise. The 
+independent variables include facility type, sex, race or 
+Hispanic origin, age group of the deceased, year of death, DCRP 
+COD category, match quality (or NDI’s status code), and the 
+number of conditions (i.e., single compared to multiple).
+
+The regression results confirm the relationships observed in the 
+previous analysis (table 10). Records with a status code of 1 
+were more likely to receive the same categorization for 
+underlying COD in both datasets than those with a status code of 
+0, with an odds ratio of 2.2. This effect was statistically 
+significant. Likewise, single-cause deaths were more likely to be 
+consistently classified than multiple-cause deaths, with an odds 
+ratio of 2.05.
+
+Intercoder reliability also varied across COD categories. Deaths 
+due to suicide, homicide, cancer, and AIDS-related problems had 
+higher agreement rates than deaths by heart disease, while liver 
+disease, respiratory disease, and drug and alcohol intoxication 
+had lower agreement rates. Furthermore, deaths that occurred in 
+jail had higher agreement rates than deaths that occurred in 
+prison, with an odds ratio of 1.21. The sex of the decedent made 
+no difference on agreement rate. Deaths of black decedents had 
+lower agreement rates than those of white decedents, with an odds 
+ratio of 0.91. There were no statistical differences among 
+Hispanics, whites, and persons of other races. Lastly, the 
+agreement rates in 2009 and 2010 were significantly higher than 
+in 2007.
+
+To further understand the source of mismatch between the
+underlying COD, detailed ICD-10 codes from the DCRP and the NDI 
+were analyzed for matched records. This analysis was limited to 
+12,131 records with ICD codes from both records. Thirty percent 
+of the cases were excluded either because they were classified as 
+unnatural deaths, and therefore not assigned ICD-10 codes in the 
+DCRP, or because no matches were found in the NDI. The 12,131 
+records were classified into 5 groups based on the relationship 
+of their ICD codes reported in the DCRP and NDI (table 11).
+
+Twenty percent of the cases (2,402) received the same set of
+ICD codes in the DCRP and NDI. In 3,371 cases (28%), the DCRP ICD 
+codes were a subset of the NDI codes. That is, all DCRP codes 
+were also reported on the matching NDI record, but the latter 
+also had one or more codes not reported in the DCRP. The NDI 
+codes were a subset of the DCRP codes in 342 cases (3%). Because 
+the DCRP provides up to 5 ICD codes for each illness death, while 
+the NDI provides up to 14 codes for each death in this dataset, 
+it is more likely that the COD codes assigned by the DCRP were a 
+subset of those assigned by the NDI than the reverse. In 1,129 
+cases (9%), the ICD-10 codes from the two datasets were different 
+with some overlap. In 4,887 cases (40%), the ICD-10 codes from 
+the two datasets were different with no overlap. The proportions 
+of the last two groups indicate substantial mismatch in the all-
+cause ICD codes between the two datasets. 
+
+Ninety-four percent of records with the same set of ICD-10 codes 
+in the DCRP and the NDI were assigned to the same major category 
+of death by the two datasets in the categorization of the 
+underlying COD (table 12). The agreement rate was 78% for records 
+with DCRP codes being a subset of NDI codes, and 72% for records 
+with NDI codes being a subset of DCRP codes. The agreement rate 
+was lower for records with different sets of ICD codes with 
+overlap (62%) and without overlap (52%).
+
+Six percent of the cases with identical ICD-10 codes in the DCRP 
+and the NDI ended up in different major categories of underlying 
+COD. This could be due to the order in which the ICD-10 codes 
+were entered into the system, as order can affect the final COD 
+determination in ACME. For cases with a single identical ICD-10 
+code in both datasets, the agreement rate was almost 100%. As the 
+number of ICD-10 codes increased to 5, the agreement rate dropped 
+to 57%. The same pattern was observed for groups B and C. As the 
+number of ICD-10 codes in the DCRP increased, the agreement rate 
+dropped from 79% to 58% for group B, and from 84% to 57% for 
+group C. For groups D and E, where DCRP and NDI codes were 
+different with or without overlapping, the agreement rate was 
+relatively low, regardless of the number of ICD-10 codes in the 
+DCRP.
+
+These results confirm that disagreement in the underlying COD 
+between the DCRP and the NDI was due partly to differences in the 
+source data and partly to the different procedures for 
+identifying the underlying COD. Forty percent of the cases 
+received completely different ICD codes in the DCRP and the NDI. 
+This group had a much lower agreement rate in underlying COD than 
+records that received identical or similar ICD codes in the two 
+datasets. Even among records that received the same ICD codes, 
+the agreement rate declined as the number of conditions 
+increased, suggesting that the different procedures for 
+identifying the underlying COD in the two datasets can lead to 
+different classifications of major categories of deaths.
+
+**************************
+Summary and implications
+**************************
+
+This study evaluated the feasibility of linking the DCRP data to 
+the NDI database and assessed whether the DCRP was accurately 
+capturing and measuring COD, whether the NDI could provide COD 
+for DCRP cases missing this data, and whether the NDI could 
+provide additional detail to illness deaths. Matches were found 
+for 94% of the death records sent to the NDI, and 82% of the 
+matches were considered a true match by the NDI matching program. 
+Notably, the percentage of cases that were unable to be matched 
+declined over time, from 7.3% in 2007 to 5.8% in 2010. To further 
+improve the matching effectiveness of NDI search, BJS may 
+consider the following:
+
+* Create and use a unique subject ID variable for DCRP records 
+sent to the NDI. A subject ID would allow the study to include 
+persons who share the same last name, date of birth, and date of 
+death as unique individuals with shared traits. Without the 
+identifier, the distinction between unique persons and potential 
+duplicate records could not be made, and these cases were 
+excluded.
+
+* Send multiple records with all known aliases to the NDI to 
+improve matching. All aliases for one individual should be 
+identified by the same subject ID. This would be applicable if 
+the data providers included information about aliases by which an 
+inmate is known (e.g., Sammy or Sam). If more than one match was 
+returned, the match with the highest probabilistic score could 
+then be used as the true match.
+
+* Use decedents’ SSNs in matching. The DCRP does not collect 
+SSNs; however, BJS may be able to obtain them for decedents by 
+matching DCRP records to other BJS administrative databases that 
+include them.
+
+The NDI linkage provides reliable, accurate, and comprehensive 
+information of COD on jail and prison inmates. NDI data are based 
+on death certificates and processed with standard National Center 
+for Health Statistics (NCHS) codes. The NDI uses a reproducible 
+automated algorithm (i.e., ACME) to identify the underlying COD. 
+It allows comparisons with national data on noninstitutionalized
+populations because the same algorithms are used for ranking COD, 
+determining underlying COD, and rolling up the CODs into broad 
+categories of death. These algorithms are stable over time and 
+systematic, and they are easily understood by public health and 
+medical audiences.
+
+The NDI provided more than twice as many ICD-10 codes per subject 
+than did the DCRP (2.69 for the NDI compared to 1.06 for the 
+DCRP). This was likely a result of the way CODs were recorded in 
+death certificates. BJS may consider adopting the version found 
+in standard death certificates. 
+
+With more accurate and comprehensive COD data from the NDI, BJS 
+may produce statistics on specific diseases in correctional 
+populations. Prison administrators and correctional health 
+professionals may use detailed NDI trend data to plan and budget 
+for treating chronic health conditions among long-term inmates. 
+For example, hepatitis C has received a lot of attention in 
+correctional health circles recently, in part because new 
+pharmacotherapy to treat hepatitis C is expensive and the older 
+standard course of treatment is complicated and hard to implement 
+among inmates.*** Footnote 10 Keller, J. E. (2014). Hepatitis C 
+treatment: Between a rock and a hard place. Correct Care, 28(2), 
+8-9, 20. http://www.ncchc.org/ filebin/CorrectCare/28-2.pdf; and 
+Mortality in Local Jails and State Prisons, 2000–2013 - 
+Statistical Tables, NCJ 248756, BJS web, August 2015***. National 
+statistics could be used by administrators and health care 
+professionals to justify the funding and resources needed to 
+mitigate the high rates of hepatitis C found in some facilities.
+
+NDI search is a viable solution if BJS wants to reduce missing 
+COD data or improve data quality. NDI search provided COD 
+information for 90% of the cases with missing data in the DCRP. 
+It takes approximately 12 months after the end of the calendar 
+year for deaths to be included in the NDI database, which is 3 
+months longer than the DCRP. However, relying exclusively on the 
+NDI for COD is not recommended because a subset of DCRP cases (6% 
+in 2007–10) cannot be matched with NDI data, and some matches may 
+not be correct.
+
+At the individual level, 70% of the records were classified into 
+the same major category of death by the two datasets. The 
+discrepancies were due to several factors: (1) the matched 
+records may not be true matches, (2) most cases were not assigned 
+the same set of ICD-10 codes by the two datasets, and (3) the 
+process for identifying the underlying COD from multiple ICD 
+codes was different between the two datasets such that even 
+records with identical ICD codes may be classified to different 
+major categories of death. Deaths with more ICD-10 codes were 
+less likely to be categorized as the same underlying COD in the 
+two datasets.
+
+BJS publishes annual statistical tables on the distribution of
+COD over 11 major categories. When detailed NDI data were rolled 
+into the same categories, the overall distributions from the two 
+datasets were similar. In other words, the current DCRP method 
+for obtaining COD produces aggregate statistics that are roughly 
+comparable to what may be produced using NDI data.
+
+Overall, the NDI linkage provides significant improvement in the 
+quality of COD data in the DCRP. BJS will report COD statistics 
+with increased confidence when DCRP COD data align with NDI data.
+
+*************
+Methodology
+*************
+
+Data source: Deaths in Custody Reporting Program
+*************************************************
+
+The Deaths in Custody Reporting Program (DCRP) is an annual 
+Bureau of Justice Statistics (BJS) data collection. The DCRP 
+collects national, state, and incident-level data on persons who 
+died while in the physical custody of the 50 state departments of 
+corrections or the approximately 2,800 local adult jail 
+jurisdictions nationwide. The DCRP began in 2000 under the Death 
+in Custody Reporting Act of 2000 (P.L. 106-297), and it is the 
+only national statistical collection to obtain comprehensive 
+information about deaths in adult correctional facilities. BJS 
+uses DCRP data to track national trends in the number and causes 
+(or manners) of deaths occurring in state prison or local jail 
+custody.
+
+The DCRP collects data about the characteristics of the decedents 
+as well as circumstances surrounding the death, including the 
+cause, time and location where the death occurred, and  
+information on whether an autopsy was conducted and the
+availability of results to the respondent. Data on executions are
+excluded from this report but are accessible on the BJS website
+along with the DCRP mortality data. 
+
+The DCRP data collection instruments are administered annually to 
+both state prisons and local jails. In addition to individual 
+death records, respondents provide an aggregate count of the 
+number of deaths that occurred during the referenced calendar 
+year. 
+
+BJS obtains a separate report describing the decedent’s
+characteristics and the circumstances surrounding the death
+for each death that occurred in a state prison or local jail. 
+State prison and local jail respondents can submit individual 
+records on decedents at any time during a collection cycle 
+through a BJS web-based collection system.
+
+Data source: The National Death Index
+***************************************
+
+The National Death Index (NDI) is a centralized database of death 
+certificates filed by state vital statistics offices. The NDI was 
+established by the National Center for Health Statistics (NCHS) 
+established the NDI as a mortality register for epidemiologists 
+and other professional medical investigators and death 
+researchers. Like the DCRP, the NDI is available for statistical 
+purposes only, which precludes its use for legal, administrative, 
+private or genological purposes.
+
+The NDI is considered the “gold standard” for death 
+identification because both the source, i.e., death certificates,
+and coverage is better than other mortality death files, such as
+the Social Security Administration’s Death Master File. 
+***Footnote 11 Fillenbaum, G.G., Burchett, B.M. & Blazer, D.G. 
+(2009). Identifying a National Death Index Match. American 
+Journal of Epidemiology, 170(4), 515–518***.
+
+Nonresponse
+*************
+
+All state department of corrections and more than 99% of jails 
+participated for data years 2007 through 2010. However, there is 
+varying degree of item nonresponse, particularly for the cause of 
+death item. BJS changed data collection agents in 2009. As a 
+result, the follow-up period for data year 2008 was cut short, 
+and 21% of jail deaths and 3% of prison deaths were missing cause 
+of death information. Aside from data year 2008, missingness 
+affects a small percentage of cases--less than 1% of prison and 
+3% of jail deaths--annually.
+
+Reported statistics
+*********************
+
+The kappa statistic was first proposed by Cohen. ***Footnote 12 
+Cohen, J. (1960). A coefficient of agreement for nominal scales.
+Educational and Psychological Measurement, 20, 37–46***. It 
+measures intercoder reliability while taking into account 
+agreement that is expected purely by chance—that is, it indicates 
+the level of agreement achieved beyond chance. For reliability 
+between two raters (i.e., the DCRP and NDI), kappa is calculated 
+as (po – pe) / (1 – pe), where po is the observed proportionate 
+agreement among raters and pe is the expected proportionate 
+agreement by chance. When the raters are in complete agreement, 
+kappa is 1. Landis and Koch suggested characterizing values less 
+than 0 as indicating no agreement, 0 to 0.20 as slight, 0.21 to 
+0.40 as fair, 0.41 to 0.60 as moderate, 0.61 to 0.80 as 
+substantial, and 0.81 to 1 as almost perfect agreement.*** 
+Footnote 13 Landis, J. R. & Koch, G. G. (1977). The measurement 
+of observer agreement for categorical data. Biometrics, 33(1), 
+159–174***.
+
+************************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. Jeri M. Mulrow is acting 
+director.
+
+This report was written by Zhen Zeng, Margaret Noonan, and E. Ann 
+Carson, BJS Statisticians; Ingrid Binswanger, BJS Visiting 
+Fellow; Patrick Blatchford, Colorado School of Public Health; and 
+Hope Smiley-McDonald, and Chris Ellis, RTI International. 
+Anastasios Tsoutis and Emmaline Mitchell verified the report.
+
+Lynne McConnell, Morgan Young, and Jill Thomas edited the report.
+Tina Dorsey and Barbara Quinn produced the report.
+
+April 2016, NCJ 249568
+************************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+************************************************
+3/29/2016 11:22 am JER--Revised 4/20/16 8:35am
+************************************************

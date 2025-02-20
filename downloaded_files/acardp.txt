@@ -1,0 +1,304 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+********************************************************
+This file is text only without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.csv) and the full report including
+tables and graphics in .pdf format are available on BJS
+website at: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5412
+*********************************************************
+
+Technical Report
+
+Assessment of Coverage in the Arrest-Related Deaths Program
+
+Duren Banks, Ph.D. and Lance Couzens, RTI International 
+Michael Planty, Ph.D., Bureau of Justice Statistics
+
+*******************
+Executive summary
+*******************
+
+After the passage of the Death in Custody Reporting Act (DICRA) 
+of 2000 (P.L. 106-297), the Bureau of Justice Statistics (BJS) 
+began collecting data on deaths that occurred in the process of 
+arrest. Provisions in the 2000 DICRA called for collecting all 
+deaths occurring within the process of arrest in any state, 
+county, or local law enforcement agency nationwide. From 2003 
+through 2009, BJS obtained reports on 4,813 such deaths through 
+its Arrest-Related Deaths (ARD) program. About 3 in 5 of these 
+deaths (2,931) were classified as homicides by law enforcement 
+personnel. The remaining 2 in 5 deaths were attributed to other 
+manners, including suicide (11%), intoxication deaths (11%), 
+accidental injury (6%), and natural causes (5%) ***Footnote 1 
+Arrest-Related Deaths, 2003–2009 - Statistical Tables (NCJ 
+235385, BJS web, November 2011)***. In three-quarters (75%) of 
+homicides by law enforcement personnel, the underlying offense of 
+arrest was a violent offense. No criminal charges were intended 
+in less than 2% of these incidents.
+
+To assess the completeness of the ARD data that BJS received, in 
+2013 BJS undertook a technical review of the ARD program’s 
+methodology and an assessment of the program’s coverage of all 
+arrest-related deaths in the United States. The methodology 
+review examined the variation in states’ approaches to 
+identifying and confirming arrest-related deaths. The assessment 
+of coverage focused on determining whether BJS received all 
+arrest-related deaths that occurred or only a portion of them. 
+The primary focus of the assessment of coverage was on homicides 
+by law enforcement officers.
+
+The analysis showed that the ARD program obtained fewer law 
+enforcement homicide deaths than expected, based on the 
+methodology used to estimate the expected number of law 
+enforcement homicides. It also showed that the data BJS used for 
+comparison purposes—the FBI’s Supplementary Homicide Reports 
+(SHR)--also reported fewer justifiable homicides than 
+expected ***Footnote 2 Arrest-related Deaths Program Assessment: 
+Technical Report (NCJ 248543, BJS web, March 2015***. In total, 
+the BJS ARD program data and the SHR data each identified about 
+half of the expected number of homicides by law enforcement 
+officers during the period from 2003 through 2009 and 2011 
+(figure 1). The ARD program captured approximately 49% of these 
+homicides, while the SHR captured 46%. More than a quarter (28%) 
+of law enforcement homicides in the United States were not 
+captured by either system. The analysis also showed that the ARD 
+program obtained more arrest-related deaths in 2009 and 2011, 
+when BJS began to use open source methods (e.g., Google searches 
+to identify potential cases), compared with prior years when BJS 
+did not use open source methods ***Footnote 3 ARD program data for 
+2010 were unavailable due to a shift in data collection 
+methodology between 2009 and 2011***.
+
+Drawing from the results of this study, BJS has begun a pilot 
+study that explores multiple methods of identifying and 
+confirming deaths occurring in the process of arrest. The study 
+will inform BJS efforts to implement the requirements of the 
+reauthorized 2013 DICRA (P.L. 113-242). 
+
+*******************************************
+Arrest-Related Deaths program assessment
+*******************************************
+
+BJS designed the ARD program to be a census of all deaths that 
+occurred in the process of arrest or during an attempt to obtain 
+custody by a state or local law enforcement agency. BJS collected 
+ARD data from 2003 through 2013, covering deaths occurring in 
+calendar years 2003 through 2012 ***Footnote 4 BJS only published 
+statistics from calendar years 2003 through 2009 ***. BJS 
+implemented the ARD program as part of its Deaths in Custody 
+Reporting Program (DCRP), which it developed in response to the 
+2000 DICRA and includes collections that measure deaths occurring 
+in jails and state prisons, in addition to deaths occurring 
+during the process of arrest. ***Footnote 5 The 2000 DICRA expired 
+in 2006, although BJS continued to maintain its DCRP data 
+collections. The 2013 DICRA was passed by Congress and became law 
+in December 2014. The 2013 DICRA requires any state receiving 
+funds from the Department of Justice to report on a quarterly 
+basis information regarding the death of any person who is 
+detained, under arrest, or in the process of being arrested; is 
+en route to be incarcerated; or is incarcerated***., ***Footnote 6 
+For more information on the Deaths in Custody Reporting Program, 
+see the BJS website***. 
+
+The ARD program identified the manner of arrest-related death, 
+including law enforcement homicides, other homicides, accidents, 
+suicides, and deaths due to natural causes. Law enforcement 
+homicides included all deaths attributed to weapons or restraint 
+tactics used by state or local law enforcement officers. From 
+2003 through 2009, about 61% of all deaths reported to the ARD 
+program were law enforcement homicides ***Footnote 7 See Arrest-
+Related Deaths, 2003–2009 - Statistical Tables (NCJ 235385, BJS 
+web, November 2011)***.
+
+As part of its ongoing efforts to evaluate the quality of its 
+statistical programs, BJS began to assess the quality of ARD 
+program data in 2013. This assessment focused on the methodology 
+used to obtain the data and on the completeness of the arrest-
+related deaths reported to the program. In part, BJS began this 
+assessment in response to an unexpected increase in the number of 
+law enforcement homicides reported to the ARD program in 2009 and 
+2011. In these years, BJS began to use open sources (e.g., web 
+searches and Google Alerts) and other methods to independently 
+identify potential cases of deaths in the process of arrest. 
+These cases were then sent to BJS’s state data collection agents 
+for review and verification. The implementation of this new 
+methodology led to an increase in the number of homicides by law 
+enforcement reported to the ARD that was more than the average 
+number (406) for previous years. For example, BJS obtained 689 
+reports of law enforcement homicides in 2011, which represented a 
+39% increase from the 496 reported in 2009 (figure 2).
+
+Given the increase in the number of deaths identified by the ARD 
+program after changes in methodology, along with concerns about 
+overall program coverage, BJS temporarily suspended ARD data 
+collection while it undertook the ARD program assessment and 
+technical review. A primary focus of this BJS study was to 
+estimate the coverage error (i.e., the percentage of the expected 
+number of ARD deaths that the program missed).
+
+********************************************
+Methodology review and coverage assessment
+********************************************
+
+The ARD program had methodological limitations that prevented BJS 
+from obtaining a full enumeration of all arrest-related deaths in 
+the United States. The program relied on voluntary reporting from 
+state and local agencies to compile information about arrest-
+related deaths, including law enforcement homicides. It also 
+relied on centralized reporting mechanisms to compile and submit 
+information about these deaths. These state reporting 
+coordinators (SRC) in each of the 50 states and the District of 
+Columbia were responsible for understanding the scope and 
+definition of the ARD program, identifying eligible cases in 
+their respective states, and working with available resources to 
+collect and report information about those cases. Not all states 
+had an SRC. In those states, BJS relied on its contractor to take 
+on the SRC role. As of 2009, several jurisdictions (i.e., 
+Arkansas, the District of Columbia, Georgia, Maryland, Montana, 
+Nevada, Wisconsin, and Wyoming) had yet to participate in the 
+program.
+
+BJS studied the completeness of all law enforcement homicides 
+reported to the ARD program by using both ARD data and a separate 
+source of data on law enforcement homicides—the FBI’s SHR data 
+*** Footnote 8 SHR data are voluntarily provided by law enforcement 
+agencies to the FBI’s Uniform Crime Reports (UCR) Program. For 
+more information about the UCR program, see 
+https://www.fbi.gov/about-us/cjis/ucr/ucr ***. BJS compared the 
+number of law enforcement homicides reported by the ARD program 
+from 2003 through 2009 and 2011, representing all of the ARD 
+program years for which data were available, with the number of 
+justifiable homicides captured by the SHR over the same period *** 
+Footnote 9  The UCR Program handbook defines justifiable 
+homicides as (1) the killing of a felon by a police officer in 
+the line of duty or (2) the killing of a felon, during the 
+commission of a felony, by a private citizen ***.
+
+Applying a commonly used technique known as capture-recapture to 
+estimate the size of populations, the BJS assessment produced an 
+estimate of the expected number of law enforcement homicides in 
+the United States. This estimate was based on the extent to which 
+the ARD and SHR data on law enforcement homicides overlapped 
+(i.e., reported on the same cases ***Footnote 10 See Palusci, V.J., 
+Wirtz, S.J. & Convington, T.M. (2010). Using capture-recapture 
+methods to better ascertain the incidence of fatal child 
+maltreatment. Child Abuse & Neglect, 24, 396–402. See also 
+Wolter, K.M. (1986). Some coverage error models for census data. 
+Journal of the American Statistical Association, 81, 338–346***. 
+As the amount of overlap between the data sources increased, the 
+estimated underlying population size got closer to the number of 
+cases in the data sources.
+
+Capture-recapture analysis relies on a number of assumptions, 
+including that cases can be matched across lists, that the lists 
+are limited to cases that meet the definition of law enforcement 
+homicides, and that inclusion on one list is independent from 
+inclusion on the other. Many of these assumptions were met, but 
+the nature of the ARD program and SHR necessitated the violation 
+of other assumptions (including independence across lists, as 
+some ARD SRCs relied on the same reporting mechanisms as those 
+that inform the SHR). RTI International implemented a number of 
+adjustments to account for these violations ***Footnote 11 For 
+descriptions of the violations, see Arrest-Related Deaths Program 
+Assessment: Technical Report (NCJ 248543, BJS web, March 2015)                   
+***.
+
+In the assessment, BJS generated estimates based on differing 
+assumptions about missing data. This resulted in an upper- and a 
+lower-bound estimate of the expected number of law enforcement 
+homicides that should have been reported to the ARD program, if 
+the ARD data were 100% complete.
+
+Across the 8 years of data used in the analysis from 2003 through 
+2009 and 2011, the lower-bound estimate of the expected number of 
+law enforcement homicides that should have been reported to the 
+ARD program was 7,427, or an average of 928 per year (table 1). 
+The ARD program captured approximately half (49%) or 3,620 of 
+these homicides (an average of 453 a year), whereas the SHR 
+captured 46% or 3,385 of these homicides (423 per year). More 
+than a quarter (28%) or 2,103 of the estimated homicides in the 
+United States during those 8 years were not captured by either 
+system. The lower-bound estimate assumed that any agencies that 
+did not report to the ARD or SHR programs did not have an arrest-
+related death during the study period. The upper-bound estimate 
+assumed the number of arrest-related deaths in law enforcement 
+agencies that did not report to the ARD or the SHR were 
+comparable to those of the agencies that did report. This yielded 
+an estimated 9,937 law enforcement homicides in the United 
+States, an average of 1,242 per year, of which the ARD program 
+captured more than a third (36%).
+
+As BJS implemented changes to improve the ARD collection 
+methodology, the program’s coverage of arrest-related deaths 
+improved. Analysis indicated that the ARD program included a 
+greater proportion of the estimated law enforcement homicides in 
+2009 and 2011 than it did from 2003 through 2008. In 2011, the 
+ARD program captured 69% of the estimated 1,000 law enforcement 
+homicides in the United States (figure 3).
+
+**************
+Conclusions
+**************
+
+BJS’s analysis of the ARD program’s coverage found that for the 
+study period from 2003 through 2009 and 2011, both the ARD 
+program and the SHR obtained reports for only about half of the 
+expected number of law enforcement homicides in the United 
+States. Examining the data on deaths that were reported to either 
+or both systems, BJS found that, combined, the systems obtained 
+reports on at best 72% of all law enforcement homicides in the 
+United States across all years observed. The ARD program showed 
+improvements in coverage in the most recent years studied (i.e., 
+2009 and 2011), and these improvements coincided with the 
+increased use of open-source data to identify potential cases of 
+arrest-related deaths. Despite demonstrated improvements over 
+time, the ARD program missed reports for more than a quarter of 
+the expected number of law enforcement homicides in 2011.
+
+The ARD program coverage may be improved by providing a more 
+centralized method for identifying arrest-related deaths and 
+providing incentives for law enforcement agencies to confirm or 
+identify deaths that occur during the process of arrest and to 
+provide information about them. Therefore, BJS has begun to 
+explore the use of open-source data to identify arrest-related 
+deaths in conjunction with a direct survey of law enforcement and 
+other agencies responsible for investigating deaths in the 
+process of arrest. The study will inform BJS efforts to implement 
+the requirements of the reauthorized DICRA of 2013 (P.L. 113-
+242).
+
+*************************************************
+The Bureau of Justice Statistics of the U.S. Department of 
+Justice is the principal federal agency responsible for measuring 
+crime, criminal victimization, criminal offenders, victims of 
+crime, correlates of crime, and the operation of criminal and 
+civil justice systems at the federal, state, tribal, and local 
+levels. BJS collects, analyzes, and disseminates reliable and 
+valid statistics on crime and justice systems in the United 
+States, supports improvements to state and local criminal justice 
+information systems, and participates with national and 
+international organizations to develop and recommend national 
+standards for justice statistics. William J. Sabol is director.
+
+This report was written by Duren Banks and Lance Couzens, RTI 
+International, and Michael Planty, Bureau of Justice Statistics. 
+Lynn Langton provided verification of the report.
+
+Morgan Young and Jill Thomas edited the report. Tina Dorsey and 
+Barbara Quinn produced the report.
+
+October 2015, NCJ 249099
+***************************************************
+
+*************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+*************************************************
+
+***********************
+9/28/2015 3:00pm JER 
+***********************

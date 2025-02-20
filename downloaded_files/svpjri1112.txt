@@ -1,0 +1,2445 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+-----------------------------------------------------
+This report is one in series. More recent editions may be available. 
+To view a list of all reports in the series go to 
+http://www.bjs.gov/index.cfm?ty=pbse&sid=63
+
+This file is text only without graphics and many of the tables. A Zip 
+archive of the tables in this report in spreadsheet format (.csv) and the 
+full report including tables and graphics in .pdf format are available on 
+BJS website at: http://bjs.gov/index.cfm?ty=pbdetail&iid=4654
+------------------------------------------------------
+
+Sexual Victimization in Prisons and Jails Reported by Inmates, 2011-12
+Allen J. Beck, Ph.D. BJS Statistician
+
+Marcus Berzofsky, Dr.P.H., Rachel Caspar, 
+and Christopher Krebs, Ph.D., RTI International
+
+May 2013, NCJ 241399
+
+***************************************************************
+Bureau of Justice Statistics
+William J. Sabol
+Acting Director
+
+BJS Website:
+www.bjs.gov
+askbjs@usdoj.gov 
+
+The Bureau of Justice Statistics is the statistics agency of the U.S. 
+Department of Justice. William J. Sabol is the acting director. 
+
+This report was written by Allen J. Beck, Ph.D., BJS Statistician, 
+and Marcus Berzofsky, Dr.P.H., Rachel Caspar, and Christopher Krebs, 
+Ph.D., RTI International. 
+
+Paige M. Harrison (former BJS statistician) was the project manager 
+for the NIS-3. RTI International staff, under a cooperative agreement 
+and in 
+collaboration with BJS, designed the survey, developed the questionnaires, 
+and monitored the data collection and processing. The staff included Rachel 
+Caspar, Principal Investigator/Instrumentation Task Leader; Christopher Krebs, 
+Co-principal Investigator; Ellen Stutts, Co-principal Investigator and Data
+ Collection Task Leader; Susan Brumbaugh, Logistics Task Leader; Jamia Bachrach, 
+Human Subjects Task Leader; David Forvendel, Research Computing Task Leader; 
+and Marcus Berzofsky, Statistics Task Leader. Ramona Rantala, BJS statistician, 
+and RTI staff, including Heather Meier, Barbara Alexander, and Rodney Baxter, 
+verified the report.
+
+Morgan Young and Jill Thomas edited the report, and Barbara Quinn designed 
+and produced the report under the supervision of Doris J. James. 
+May 2013, NCJ 241399
+***************************************************************
+
+**********
+Contents
+**********
+
+Highlights	                                                               6
+
+National Inmate Survey-3                                                       8
+
+Incidents of sexual victimization 	                                       8
+
+Facility-level rates 	                                                      10
+
+Demographic and other characteristics                                         17
+
+Special inmate populations--Inmates ages 16 to 17                             20
+
+Special inmate populations-- Inmates with mental health problems              24
+
+Special inmate populations--Inmates with a non-heterosexual sexual 
+orientation                                                                   30
+
+Methodology	                                                              32
+
+Appendix 1. Survey items related to inmate-on-inmate sexual 
+victimization, National Inmate Survey, 2011–12	                              41
+
+Appendix 2. Survey items related to staff sexual misconduct, 
+National Inmate Survey, 2011–12	                                              42
+
+Appendix 3. Follow-up questions for inmates reporting no    
+sexual activity, National Inmate Survey, 2011–12                              42
+
+**********************
+List of tables
+***********************
+
+Table 1.  Adult inmates reporting sexual victimization, by type of 
+facility and incident, National Inmate Survey, 2011–12	                        9                                                                                                                               
+
+Table 2.  Prevalence of sexual victimization across inmate surveys, 
+by type of incident, National Inmate Survey, 2007, 2008–09, and 2011–12	       10                                                                                                    
+
+Table 3.  Facilities with high rates of inmate-on-inmate sexual 
+victimization, by type of facility, National Inmate Survey, 2011–12	       12                                                                                                                    
+
+Table 4.  Facilities with high rates of staff sexual misconduct, 
+by type of facility, National Inmate Survey, 2011–12	                       13
+                                                                                                                                                                  
+Table 5.  Facilities with low rates of sexual victimization, 
+by type of facility, National Inmate Survey, 2011–12                           15
+
+Table 6.  Rates of sexual victimization in special correctional facilities, 
+by type of incident and facility, National Inmate Survey,2011–                 16
+
+Table 7.  Prevalence of sexual victimization, by type of incident 
+and inmate characteristics, National Inmate Survey, 2011–12	               17                                                                                                      
+
+Table 8.  Prevalence of sexual victimization, by type of incident 
+and inmate sexual characteristics, National Inmate Survey, 2011–12	       18                                                                                          
+
+Table 9.  Prevalence of sexual victimization, by type of incident 
+and inmate criminal justice status and history, 
+National Inmate Survey,  2011–12                                               19                                                                          
+
+Table 10.  Prevalence of sexual victimization, by type of incident 
+and age of inmate, National Inmate Survey, 2011–12	                       21                                                                                                                 
+
+Table 11.  Juvenile inmates reporting sexual victimization, by type of 
+incident, National Inmate Survey, 2011–12	                               21 
+
+Table 12.  Prevalence of sexual victimization among juveniles ages 16–17 
+and inmates ages 18–19 and 20–24, by type of incident and inmate 
+characteristics, National Inmate Survey, 2011–12	                       22
+
+Table 13.  Circumstances surrounding incidents among juveniles ages 16–17 
+and inmates ages 18–19 and 20–24, by type of victimization, 
+National Inmate Survey, 2011–12	                                               23
+
+Table 14.  Prevalence of victimization by current mental health status 
+and history of mental health problems among inmates, by type of facility, 
+National Inmate Survey, 2011–12	                                               24
+
+Table 15.  Prevalence of serious psychological distress among adults in 
+prisons, jails, and the U.S. civilian noninstitutional population,   2011–12   26
+
+Table 16.  Prevalence of inmate-on-inmate sexual victimization, 
+by current mental health status and inmate characteristics,
+National Inmate Survey, 2011–12	                                               27
+
+Table 17.  Prevalence of staff sexual misconduct, 
+by current mental health status and inmate characteristics, 
+National Inmate Survey,    2011–12	                                       28                                                                
+
+Table 18.  Circumstances surrounding incidents among adult inmates, by 
+current mental health status and type of victimization, 
+National Inmate Survey, 2011–12	                                               29
+
+Table 19.  Prevalence of sexual victimization, 
+by type of incident and inmate sexual orientation,  
+National Inmate Survey, 2011–12                                                30                                                                                                  
+
+Table 20.  Circumstances surrounding incidents of sexual victimization 
+among heterosexual and non-heterosexual inmates, 
+National Inmate Survey, 2011–12                                                31
+************************************************************************
+
+********************
+List of figures
+********************
+
+Figure 1. Confidence intervals at the 95% level for prisons 
+with high rates of inmate-on-inmate sexual victimization, 
+National Inmate Survey, 2011–12                                                11	                                                                              
+
+Figure 2. Confidence intervals at the 95% level for jails 
+with high rates of inmate-on-inmate sexual victimization, 
+National Inmate Survey,    2011–12	                                       11                                                                            
+
+Figure 3. Confidence intervals at the 95% level for prisons 
+with high rates of staff sexual misconduct, 
+National Inmate Survey, 2011–12                                                14                                                                                        
+
+Figure 4. Confidence intervals at the 95% level for jails 
+with high rates of staff sexual misconduct, 
+National Inmate Survey, 2011–12                                                14                                                                                                
+*************************************************************************
+
+**********************
+List of appendix tables
+**********************
+
+Appendix table 1. Characteristics of state and federal prisons 
+and prevalence of sexual victimization, by facility, 
+National Inmate Survey, 2011–12	                                                43
+
+Appendix table 2. Percent of prison inmates reporting 
+sexual victimization, by type of incident and facility, 
+National Inmate Survey, 2011–12	                                                49
+
+Appendix table 3. Percent of prison inmates reporting 
+sexual victimization by level of coercion, by facility, 
+National Inmate Survey, 2011–12	                                                55
+
+Appendix table 4. Percent of prison inmates reporting n
+onconsensual sexual acts and abusive sexual contacts, 
+by facility, National Inmate Survey, 2011–12	                                61
+
+Appendix table 5. Characteristics of jails and prevalence of sexual 
+victimization, by facility, National Inmate Survey, 2011–12	                67
+
+Appendix table 6. Percent of jail inmates reporting 
+victimization, by type of incident and facility, 
+National Inmate Survey, 2011–12	     75
+
+
+Appendix table 7. Percent of jail inmates reporting sexual 
+victimization, by level of coercion and facility, 
+National Inmate Survey, 2011–12  83
+
+Appendix table 8. Percent of jail inmates reporting nonconsensual 
+sexual acts and abusive sexual contacts, by facility, 
+National Inmate Survey, 2011–12                                                 91
+
+Appendix table 9. Characteristics of special correctional facilities and 
+prevalence of sexual victimization, by facility, National Inmate Survey, 
+2011–12	                                                                        99
+
+Appendix table 10. Standard errors for table 2: Prevalence of sexual 
+victimization across inmate surveys, by type of incident, 
+National Inmate Survey, 2007, 2008–09, and 2011–12                            	99
+
+Appendix table 11. Standard errors for table 7: Prevalence of sexual 
+victimization, by type of incident and inmate characteristics, 
+National Inmate Survey, 2011–12	                                               100
+
+Appendix table 12. Standard errors for table 8: Prevalence of sexual 
+victimization, by type of incident and inmate sexual characteristics, 
+National Inmate Survey, 2011–12	                                               101
+
+Appendix table 13. Standard errors for table 9: Prevalence of sexual 
+victimization, by type of incident and inmate criminal justice status 
+and history, National Inmate Survey, 2011–12	                               101
+
+Appendix table 14. Standard errors for table 10: Juvenile inmates 
+reporting sexual victimization, by type of incident,
+ National Inmate Survey, 2011–12                                               102
+
+Appendix table 15. Standard errors for table 11: Prevalence of sexual 
+victimization, by type of incident and age of inmate, 
+National Inmate Survey, 2011–12	                                               102
+
+Appendix table 16. Standard errors for table 12: Prevalence of sexual 
+victimization among juveniles ages 16–17 and inmates ages 18–19 and   
+ 20–24, by type of incident and inmate characteristics, 
+National Inmate Survey, 2011–12                                                103
+
+Appendix table 17. Standard errors for table 13: Circumstances surrounding 
+incidents among juveniles ages 16–17 and inmates ages 18–19 and 20–24, 
+by type of victimization, National Inmate Survey, 2011–12	               103
+
+Appendix table 18. Standard errors for table 14: Prevalence of 
+victimization by current mental health status and history of
+ mental health problems among inmates, by type of facility, 
+National Inmate Survey, 2011–12	                                               104
+
+Appendix table 19. Standard errors for table 15: Prevalence of serious 
+psychological distress among adults in prisons, jails, and the U.S. 
+civilian noninstitutional population, 2011–12	                               104
+
+Appendix table 20. Standard errors for table 16: Prevalence of
+inmate-on-inmate victimization, by current mental health status 
+and inmate characteristics, National Inmate Survey, 2011–12	               105
+
+Appendix table 21. Standard errors for table 17: Prevalence of staff 
+sexual misconduct, by current mental health status and inmate 
+characteristics, National Inmate Survey, 2011–12	                       105
+
+Appendix table 22. Standard errors for table 18: Circumstances 
+surrounding incidents among adult inmates, by current mental 
+health status and type of victimization, National Inmate Survey, 
+2011–12	                                                                       106
+
+Appendix table 23. Standard errors for table 19: Prevalence of sexual 
+victimization, by type of incident and inmate sexual orientation, 
+National Inmate Survey, 2011–12	                                               106
+
+Appendix table 24. Standard errors for table 20: Circumstances 
+surrounding incidents of sexual victimization among heterosexual and 
+non-heterosexual inmates, National Inmate Survey, 2011–12	               107
+************************************************************************
+
+************
+Highlights
+************
+
+-----------------------------------
+Prevalence of sexual victimization
+-----------------------------------
+
+* In 2011-12, an estimated 4.0% of state and federal prison inmates and 3.2% 
+of jail inmates reported experiencing one or more incidents of sexual 
+victimization by another inmate or facility staff in the past 12 months 
+or since admission to the facility, if less than 12 months.
+
+* Using the same methodology since 2007, the rate of sexual victimization 
+among state and federal prison inmates was 4.5% in 2007 and 4.0% in 2011-12; 
+but, the difference was not statistically significant. Among jail inmates, 
+the rate of sexual victimization remained unchanged—3.2% in 2007 
+and 3.2% in 2011-12.
+
+* Among state and federal prison inmates, 2.0% (or an estimated 29,300 
+prisoners) reported an incident involving another inmate, 2.4% (34,100) 
+reported an incident involving facility staff, and 0.4% (5,500) reported
+both an incident by another inmate and staff.
+
+* About 1.6% of jail inmates (11,900) reported an incident with another 
+inmate, 1.8% (13,200) reported an incident with staff, and 0.2% (2,400) 
+reported both an incident by another inmate and staff.
+
+* From 2007 to 2011-12, reports of “willing” sexual activity with staff 
+(excluding touching) declined in prisons and jails, while reports of other 
+types of sexual victimization remained stable.
+
+------------------
+Facility rankings
+------------------
+
+* Eleven male prisons, 1 female prison, and 9 jails were identified as high-rate 
+facilities based on the prevalence of inmate-on-inmate sexual 
+victimization in 2011-12. Eight male prisons, 4 female prisons, and 12 jails were 
+identified as high rate based on the prevalence of staff sexual misconduct.
+ Each of these facilities had a lower bound of the 95%-confidence interval 
+that was at least 55% higher than the average rate among comparable facilities.
+
+
+* Seven male prisons, 6 female prisons, and 4 jails were identified as low-rate 
+facilities based on a small percentage of inmates reporting any sexual victimization 
+by another inmate or staff and a low upper bound of the 95%-confidence interval around the rate. 
+
+* Among the 225 prisons and 358 jails in the survey, 13 prisons and 34 jails had no reported 
+incidents of sexual victimization.
+
+* Two military facilities and one Indian country jail had high rates of staff sexual misconduct
+in 2011-12. The Northwest Joint Regional Correctional Facility (Fort Lewis, Washington) 
+(6.6%) and the Naval Consolidated Brig (Miramar, California) (4.9%) had high rates of staff 
+sexual misconduct that were more than double the average of prisons (2.4%) and jails (1.8%) nationwide. 
+The Oglala Sioux Tribal Offenders Facility (Pine Ridge, South Dakota) (10.8%) reported the highest rate 
+of staff sexual misconduct among all tribal and nontribal jails in the survey.
+
+----------------------------------
+Variations in victimization rates
+----------------------------------
+
+* Patterns of inmate-on-inmate sexual victimization in 
+2011-12 were consistent with patterns in past surveys. Rates reported by 
+prison and jail inmates were higher among females than males, higher among 
+whites than blacks, and higher among inmates with a college degree than those 
+who had not completed high school.
+
+* Variations in staff sexual misconduct rates were also similar across 
+surveys. Rates reported by inmates were higher among males in jails than 
+females in jails, higher among black inmates in prisons and jails than white 
+inmates in prisons and jails, and lower among inmates age 35 or older than 
+inmates ages 20 to 24 in both prisons and jails.
+
+* Inmates held for violent sexual offenses reported higher rates of inmate-on-inmate 
+sexual victimization (3.7% in prison and 3.9% in jails) than inmates held for other 
+offenses.
+
+----------------------------
+Special inmate populations 
+----------------------------
+
+* In 2011-12, juveniles ages 16 to 17 held in adult prisons and jails did not have 
+significantly higher rates of sexual victimization than adult inmates:
+
+** An estimated 1.8% of juveniles ages 16 to 17 held in prisons and jails 
+reported being victimized by another inmate, compared to 2.0% of adults in 
+prisons and 1.6% of adults in jails.
+
+** An estimated 3.2% of juveniles ages 16 to 17 held in prisons and jails 
+reported experiencing staff sexual misconduct. Though higher, these rates 
+were not statistically different from the 2.4% of adults in prisons and 1.8% 
+f adults in jails.
+
+** Juveniles (ages 16 to 17) and young adults (ages 18 to 19 and 20 to 24) reported 
+similar rates of sexual victimization for most of the key subgroups (sex, race or 
+Hispanic origin, body mass index, sexual orientation, and offense).
+
+* Inmates with serious psychological distress reported high rates of inmate-on-inmate 
+and staff sexual victimization in 2011-12:
+
+** Among state and federal prison inmates, an estimated 6.3% of those 
+identified with serious psychological distress reported that they were 
+sexually victimized by another inmate. In comparison, among prisoners with no 
+indication of mental illness, 0.7% reported being victimized by another inmate.
+
+** Similar differences were reported by jail inmates. An estimated 3.6% of those 
+dentified with serious psychological distress reported inmate-on-inmate sexual 
+victimization, compared to 0.7% of inmates with no indication of mental illness.
+
+** Rates of serious psychological distress in prisons (14.7%) and jails 
+(26.3%) were substantially higher than the rate (3.0%) in the U.S. 
+noninstitutional population age 18 or older.
+
+** For each of the measured demographic subgroups, inmates with serious 
+psychological distress reported higher rates of inmate-on-inmate sexual 
+victimization than inmates without mental health problems.
+
+* Inmates who reported their sexual orientation as gay, lesbian, bisexual, or 
+other were among those with the highest rates of sexual victimization in 2011-12:
+
+** Among non-heterosexual inmates, 12.2% of prisoners and 8.5% of jail 
+inmates reported being sexually victimized by another inmate; 5.4% of 
+prisoners and 4.3% of jail inmates reported being victimized by staff.
+
+** In each demographic subgroup (sex, race or Hispanic origin, age, and 
+education), non-heterosexual prison and jail inmates reported higher rates 
+of inmate-on-inmate sexual victimization than heterosexual inmates.
+
+** Among inmates with serious psychological distress, non-heterosexual 
+inmates reported the highest rates of inmate-on-inmate sexual victimization 
+(21.0% of prison inmates and 14.7% of jail inmates).
+
+***************************
+National Inmate Survey-3
+***************************
+
+Between February 2011 and May 2012, BJS completed the third National Inmate Survey 
+(NIS-3) in 233 state and federal prisons, 358 jails, and 
+15 special confinement facilities operated by Immigration and Customs 
+Enforcement (ICE), the U.S. Military, and correctional authorities in 
+Indian country. The survey, conducted by RTI International (Research Triangle Park, 
+North Carolina), was administered to 92,449 inmates age 18 or older, including 38,251 
+inmates in state and federal prisons, 52,926 in jails, 573 in ICE facilities, 539 in 
+military facilities, and 160 in Indian country jails. The survey was also administered 
+to juveniles ages 16 to 17 held in adult prisons and jails. Based on 527 completed interviews
+of juveniles in state prisons and 1,211 interviews in local jails, the NIS-3 provides the 
+first-ever national estimates of sexual victimization of juveniles held in adult facilities.
+
+The NIS-3 is part of the National Prison Rape Statistics Program, which 
+collects reported sexual violence from administrative records and allegations of 
+sexual victimization directly from victims through surveys of inmates in prisons 
+and jails and surveys of youth held in juvenile correctional facilities. 
+Administrative records have been collected annually since 2004. Reports by victims 
+of sexual victimization have been collected since 2007. 
+
+The NIS-3 survey consisted of an audio computer-assisted self-interview 
+(ACASI) in which inmates used a touch-screen to interact with a computer-
+assisted questionnaire and followed audio instructions delivered via 
+headphones. Some inmates (751) completed a short paper form instead of using 
+the ACASI. Most of these inmates were housed in administrative or 
+disciplinary segregation or were considered too violent to be interviewed. 
+
+***************************************************************
+The Prison Rape Elimination Act of 2003 (P.L. 108-79;
+PREA) requires the Bureau of Justice Statistics (BJS)
+to carry out a comprehensive statistical review and
+analysis of incidents and effects of prison rape for each
+calendar year. This report fulfills the requirement under
+Sec. 4c(2)(B)(ii) of the act to provide a list of prisons and
+jails according to the prevalence of sexual victimization.
+***************************************************************
+
+As in the NIS-1 (conducted 2007) and the NIS-2 (conducted 2008-09), 
+the NIS-3 collected only allegations of sexual victimization. Since participation 
+in the survey is anonymous and reports are confidential, the survey does not permit 
+any follow-up investigation or substantiation of reported incidents through review. 
+Some allegations in the NIS-3 may be untrue. At the same time, some inmates may not 
+report sexual victimization experienced in the facility, despite efforts of survey 
+staff to assure inmates that their responses would be kept confidential. Although the 
+effects may be offsetting, the relative extent of under reporting and false reporting 
+in the NIS-3 is unknown. 
+
+***********************************
+Incidents of sexual victimization 
+***********************************
+
+---------------------------------------------------------------------
+In 2011-12, 4.0% of prison inmates and 3.2% of jail inmates reported 
+experiencing one or more incidents of sexual victimization 
+---------------------------------------------------------------------
+
+Among the 91,177 adult prison and jail inmates participating in the NIS-3 
+sexual victimization survey, 3,381 reported experiencing one or more 
+incidents of sexual victimization in the past 12 months or since admission to 
+the facility, if less than 12 months. Since the NIS-3 is a sample survey, weights 
+were applied for sampled facilities and inmates within facilities to produce 
+national-level and facility-level estimates. The estimated number of prison and 
+jail inmates experiencing sexual victimization totaled 80,600 (or 4.0% of all 
+prison inmates and 3.2% of jail inmates nationwide) (table 1).
+ 
+Among all state and federal prison inmates, 2.0% (or an estimated 29,300 
+prisoners) reported an incident involving another inmate, and 2.4% (34,100) 
+reported an incident involving facility staff. Some prisoners (0.4% or 5,500)
+reported sexual victimization by both another inmate and facility staff.  
+
+Among all jail inmates, about 1.6% (11,900) reported an incident with another 
+inmate, and 1.8% (13,200) reported an incident with staff. Approximately 0.2% 
+of jail inmates (2,400) reported being sexually victimized by both another 
+inmate and staff. 
+
+The NIS-3 screened for specific sexual activities in which inmates may have 
+been involved during the past 12 months or since admission to the facility, 
+if less than 12 months. Inmates were then asked if they were forced or 
+pressured to engage in these activities by another inmate or staff. 
+(See appendices 1, 2, and 3 for specific survey questions.) Reports of inmate-on-inmate
+sexual victimization were classified as either nonconsensual sexual acts or 
+abusive sexual contacts. (See text box for Terms and definitions.) 
+
+Approximately 1.1% of prisoners and 0.7% of jail inmates said they were 
+forced or pressured to have nonconsensual sex with another inmate, 
+including manual stimulation and oral, anal, or vaginal penetration. 
+An additional 1.0% of prison inmates and 0.9% of jail inmates said they had 
+experienced one or more abusive sexual contacts only or unwanted touching of 
+specific body parts in a sexual way by another inmate.   
+
+An estimated 1.5% of prison inmates and 1.4% of jail inmates reported
+that they had sex or sexual contact unwillingly with staff as a result of 
+physical force, pressure, or offers of special favors or privileges. 
+An estimated 1.4% of all prison inmates and 0.9% of jail inmates reported they 
+willingly had sex or sexual contact with staff. Any sexual contact between inmates 
+nd staff is illegal, regardless of whether an inmate reported being willing or 
+unwilling, but this difference between willing and unwilling may be informative 
+when addressing issues of staff training, prevention, and investigation.
+
+**************************
+Terms and definitions
+**************************
+
+Sexual victimization--all types of sexual activity, e.g.,
+oral, anal, or vaginal penetration; hand jobs; touching
+of the inmate’s buttocks, thighs, penis, breasts, or
+vagina in a sexual way; abusive sexual contacts; and
+both willing and unwilling sexual activity with staff.
+
+Nonconsensual sexual acts--unwanted contacts with
+another inmate or any contacts with staff that involved
+oral, anal, vaginal penetration, hand jobs, and other
+sexual acts.
+
+Abusive sexual contacts only--unwanted contacts with
+another inmate or any contacts with staff that involved
+touching of the inmate’s buttocks, thigh, penis, breasts,
+or vagina in a sexual way.
+
+Unwilling activity--incidents of unwanted sexual
+contacts with another inmate or staff.
+
+Willing activity--incidents of willing sexual contacts
+with staff. These contacts are characterized by the
+reporting inmates as willing; however, all sexual
+contacts between inmates and staff are legally
+nonconsensual.
+
+Staff sexual misconduct--includes all incidents of
+willing and unwilling sexual contact with facility staff
+and all incidents of sexual activity that involved oral,
+anal, vaginal penetration, hand jobs, blow jobs, and
+other sexual acts with facility staff.
+
+The NIS-3 recorded slightly lower rates of sexual victimization in prisons 
+compared to the NIS-1 and NIS-2, which was largely driven by a decline in the 
+reported rates of staff sexual misconduct (table 2). Overall, the rate of 
+sexual victimization was 4.5% in 2007 and 4.0% in 2011-12, but the difference 
+was not statistically significant. (See Methodology for discussion of 
+significance testing and standard errors.) Staff sexual misconduct considered 
+“willing” by the victims was the only rate to show a decline, from 1.8% in 
+2008-09 to 1.4% in 2011-12. This drop was limited to willing sexual activity, 
+excluding touching. In addition, willing sexual activity with staff 
+(excluding touching only) in 2011-12 was significantly different from 2007 
+(dropping from 1.5% to 1.2%). 
+
+Among jail inmates, the overall rates of sexual victimization remained 
+unchanged (3.2% in 2007, 3.1% in 2008-09, and 3.2% in 2011-12). The rates of 
+staff sexual misconduct in jails were 2.0% in 2007, 2.0% in 2008-09, and 1.8% 
+in 2011-12, but this decline was not statistically significant. Jail inmates 
+in 2011-12 were less likely to report experiencing willing sexual activity 
+with staff (0.9%) than jail inmates in 2007 (1.1%) and 2008-09 (1.1%). This 
+decline was limited to willing sexual activity, excluding touching.
+
+*********************
+Facility-level rates 
+*********************
+
+--------------------------------------
+The NIS-3 provides a basis for 
+identifying high rate and low 
+rate facilities 
+--------------------------------------
+
+As required under the Prison Rape Elimination Act, the NIS-3 provides 
+facility-level estimates of inmate-on-inmate sexual victimization and staff 
+sexual misconduct. Since these estimates are based on a sample of inmates 
+rather than a complete enumeration, they are subject to sampling error. 
+(See Methodology for description of sampling procedures.) 
+
+The precision of each of the facility-level estimates can be calculated based 
+on the estimated standard error. Typically, a 95%-confidence interval around 
+each survey estimate is calculated by multiplying the standard error by 1.96 
+and then adding and subtracting the result from the sample estimate to create 
+an upper and lower bound. This interval expresses the range of values that 
+could result among 95% of the different samples that could be drawn. 
+
+For small samples and estimates close to 0%, as is the case with facility-
+level estimates of sexual victimization by type of incident, the use of the 
+standard error to construct the 95%-confidence interval may not be reliable. 
+An alternative method developed by E. B. Wilson has been shown to perform 
+better than the traditional method.***Footnote 1Brown, L.D., Cai, T., & 
+DasGupta, A. (2001).“Interval Estimation for a Binomial Proportion.” 
+Statistical Science, 16(2), pp. 101–117.***
+*** Footnote 2 Wilson, E.B. (1927). “Probable Inference, the Law of 
+Succession, and Statistical Inference.” Journal of the American Statistical 
+Association,22(158), pp. 209–12.. ***
+
+This method provides asymmetrical confidence intervals for facilities in 
+which the lower bound is constrained to be no less than 0%. It also provides 
+confidence intervals for facilities in which the survey estimates are 0% (but 
+other similarly conducted samples could yield non-zero estimates). 
+
+Although the NIS-3 provides facility-level estimates and measures of 
+precision, it cannot provide an exact ranking for all facilities as required 
+under PREA. Rates of inmate-on-inmate sexual victimization and staff sexual 
+misconduct differ across facilities, but the observed differences are not 
+always statistically significant. To address PREA requirements, facilities 
+have been categorized as having high rates or low rates based on criteria 
+applied to the lower and upper bounds of the 95%-confidence interval for each 
+facility (figure 1 and figure 2). 
+
+As with the NIS-2, the criterion that the lower bound of the confidence 
+interval be at least 55% higher than the average rate for comparable 
+facilities was used in the NIS-3 to identify high-rate male prisons, female 
+prisons, and jails. The criterion that the upper bound of the confidence 
+interval be lower than 65% of the average rate for comparable facilities was 
+used to identify low-rate facilities. 
+
+To better identify variations among correctional facilities in rates of 
+sexual victimization, prisons and jails are compared separately by type of 
+sexual victimization. Though informative, an analysis of a single, overall 
+prevalence rate of sexual victimization for each sampled facility would 
+confound differing risk factors, circumstances, and underlying causes of 
+victimization. For the same reasons, prisons are compared separately by the 
+sex of inmates housed.
+
+The NIS-3 sample was designed to ensure a sufficient number of female-only 
+prison facilities (44 facilities participated) and a sufficient number of 
+female respondents (7,141 completed the survey) to allow for valid 
+comparisons among female prisons. Four of the 358 jails that participated in 
+the NIS-3 housed females only and one other jail was majority female. As a 
+result, rates of sexual victimization in jails could not be compared 
+separately by sex of inmates housed. 
+
+--------------------------------------------
+11 male prisons, 1 female prison, and 
+9 jails were identified as having 
+high rates of inmate-on-inmate sexual 
+victimization in 2011-12 
+--------------------------------------------
+
+Among the 233 prisons and 358 jails surveyed in the NIS-3, 11 male prisons, 
+1 female prison, and 9 jails were designated as high-rate facilities based on 
+reports of inmate-on-inmate sexual victimization (table 3). Each of these 
+facilities had a rate of inmate-on-inmate sexual victimization that was at 
+least twice the national rate of 1.7% for male prisons, 7.2% for female 
+prisons, and 1.6% for jails. Each had a 95%-confidence interval with a lower 
+bound that was at least 55% higher than the average rate among comparable 
+facilities. 
+
+Among male prisons, Northwest Florida Reception Center (Florida), Idaho 
+Maximum Security Institution, and Montana State Prison recorded inmate-on-
+inmate sexual victimization rates of 9.0% or greater. Mabel Bassett 
+Correctional Center (Oklahoma), with a rate of 15.3%, was the only female 
+prison that could be classified as high rate.  Eleven other female-only 
+prison facilities had rates of 10% or greater but did not meet the 
+requirement of a lower bound that was 55% higher than the average rate for 
+all female prisons. (See appendix table 2.)
+
+Ripley County Jail (Indiana) recorded an inmate-on-inmate sexual 
+victimization rate of 7.9% and Philadelphia City Riverside Correctional 
+Facility (Pennsylvania), a female-only jail facility, recorded a rate of 
+6.7%, both of which were more than four times the average rate among jails 
+nationwide. Two other jails—Harris County Jail, Baker Street (Texas) and 
+Eastern Regional Jail (Martinsburg, West Virginia)—each had rates of 6% or 
+greater.
+
+-----------------------------------------------
+8 male prisons, 4 female prisons, and 12 jails 
+were identified as having high rates of staff 
+sexual misconduct 
+------------------------------------------------
+
+Twelve prisons were identified as high-rate facilities based on reports of 
+staff sexual misconduct—eight male prisons and four female prisons (table 4). 
+Twelve jails were also identified as high-rate facilities. Each had a 
+confidence interval with a lower bound that was at least 55% higher than the 
+national rate for male prisons (2.4%), female prisons (2.4%), and jails 
+(1.8%) (figure 3 and figure 4). 
+
+In five state prisons, at least 9% of surveyed inmates reported being the 
+victims of staff sexual misconduct, including 10.1% of inmates in Santa Rosa 
+Correctional Institution (Florida), 9.9% in Montana State Prison, 9.6% in 
+Walnut Grove Youth Correctional Facility (Mississippi), 9.5% in Clements Unit 
+(Texas), and 10.7% in Denver Women’s Correctional Facility (Colorado).
+
+Seven jails had staff sexual misconduct rates of at least 6%. Marion County 
+Jail Intake Facility (Indiana) had the highest reported rate of staff sexual 
+misconduct (7.7%), followed by Baltimore City Detention Center (Maryland) 
+(6.7%), St. Louis Medium Security Institution (Missouri) (6.3%), and 
+Philadelphia City Industrial Correctional Center (Pennsylvania) (6.3%).
+  
+The reported use or threat of physical force to engage in sexual activity 
+with staff was generally low among all prison and jail inmates (0.8%); 
+however, at least 5% of the inmates in three state prisons and one high-rate 
+jail facility reported they had been physically forced or threatened with 
+force. (See appendix tables 3 and 7.) The Clements Unit (Texas) had the 
+highest percentage of inmates reporting sexual victimization involving 
+physical force or threat of force by staff (8.1%), followed by Denver Women’s 
+Correctional Facility (Colorado) (7.3%), and Idaho Maximum Security 
+Institution (6.0%). Wilson County Jail (Kansas) led all surveyed jails, with 
+5.6% of inmates reporting that staff used physical force or threat of force 
+to have sex or sexual contact. 
+
+While 0.8% of prison and jail inmates reported the use or threat of physical 
+force, an estimated 1.4% of prison inmates and 1.2% of jail inmates reported 
+being coerced by facility staff without any use or threat of force, including 
+being pressured or made to feel they had to have sex or sexual contact. In 8 
+of the 24 facilities with high rates of staff sexual misconduct, at least 5% 
+of the inmates reported such pressure by staff. Among state prisoners, the 
+highest rates were reported by female inmates in the Denver Women’s 
+Correctional Facility (Colorado) (8.8%) and by male inmates in the Clements 
+Unit (Texas) (8.7%). Among jail inmates, the highest rates were reported by 
+inmates in the Rose M. Singer Center (New York) (5.6%) and the Contra Costa 
+County Martinez Detention Facility (California) (5.2%).
+
+---------------------------------------------
+7 male prisons, 6 female prisons, and 
+4 jails were identified as low-rate 
+facilities for sexual victimization overall 
+---------------------------------------------
+
+Thirteen prisons and 34 jails had no reported incidents of sexual 
+victimization of any kind. (See appendix tables 1 and 5.) Estimates of the 
+number of inmates who experienced a sexual victimization in each of these 
+facilities are also subject to sampling error and could vary if a different 
+group of inmates had been interviewed. Although the lower bound of the 95%-
+confidence interval in each of these facilities is 0%, the upper bound varies 
+depending on the number of completed interviews in each facility. 
+
+Combining reports of inmate-on-inmate sexual victimization and staff sexual 
+misconduct, seven male prisons and six female prisons were designated as 
+low-rate facilities. These designations were based on their low rate of sexual 
+victimization overall and the upper bound of their 95%-confidence interval 
+that was less than 65% of the average rate among male and female prisons 
+(table 5). Six of these facilities had no reported incidents of sexual 
+victimization, while seven facilities had at least one inmate who reported 
+sexual victimization. 
+
+Danville Correctional Center (Illinois), with a reported sexual victimization 
+rate of 0.5%, had a confidence interval with the lowest upper bound (1.8%) 
+among male prisons. FCI Marianna Camp (operated in Florida by the Federal 
+Bureau of Prisons), with a reported sexual victimization rate of 0.6%, had a 
+confidence interval with the lowest upper bound (2.1%) among female prisons.
+
+Four jails were designated as low-rate facilities based on the upper bound of 
+the 95%-confidence interval that was less than 65% of the average for jails 
+nationwide. Woodford County Detention Center (Kentucky), with a 0.1% overall 
+sexual victimization rate, had a confidence interval with the lowest upper 
+bound (0.6%). 
+
+--------------------------------------------
+In 2011-12, two military facilities and one 
+Indian country jail had high rates of 
+staff sexual misconduct 
+---------------------------------------------
+
+The NIS-3 also surveyed 15 special confinement facilities, including 5 ICE 
+facilities, 5 military facilities, and 5 Indian country jails. (See 
+Methodology for sample description.) As a result of too few completed 
+interviews, rates in two Indian country facilities—Hualapai Adult Detention 
+Center (Arizona) and Standing Rock Law Enforcement and Adult Detention Center 
+(North Dakota)—could not be provided. 
+  
+Among ICE facilities, sexual victimization rates were highest in the Krome 
+North Service Processing Center (Florida), in which 3.2% of detainees 
+reported experiencing sexual victimization by another detainee and 3.0% 
+reported experiencing staff sexual misconduct (table 6). Overall, an 
+estimated 3.8% of detainees in this ICE facility reported experiencing one or 
+more incidents of sexual victimization, which was somewhat lower than the 
+4.0% average in prisons nationwide and slightly higher than the 3.2% average 
+in jails nationwide. (See appendix table 9.)
+
+The Northwest Joint Regional Correctional Facility (Washington), which is 
+operated by the U.S. Army Corrections Command and holds pretrial offenders 
+and short-term post-trial offenders, had a staff sexual misconduct rate 
+(6.6%) that was more than double the average rate for prisons (2.4%) and 
+jails (1.8%) nationwide. Inmates held at this military facility also reported 
+a high rate of inmate-on-inmate sexual victimization (5.1%), which was also 
+more than double the 2.0% average among prisons and 1.6% average among jails 
+nationwide.
+
+Inmates at the Naval Consolidated Brig Mirimar (California) reported high 
+rates of staff sexual misconduct (4.9%) and inmate-on-inmate sexual 
+victimization (3.0%). This facility, which is operated by the U.S. Navy, 
+holds male inmates sentenced to terms of 10 years or less and female inmates 
+regardless of sentence length from all military services. 
+
+Among all facilities sampled, staff sexual misconduct was highest in the 
+Oglala Sioux Tribal Offenders Facility (South Dakota) (10.8%). Based on the 
+6.2% lower bound of the 95%-confidence interval, the rate of staff sexual 
+misconduct in this Indian country facility was statistically higher than the 
+rate reported for any jail nationwide. This facility, with a peak population 
+of 147 in June 2011, was the most crowded facility among the 80 Indian jails 
+in operation at midyear 2011. (See Jails in Indian Country, 2011, NCJ 
+238978.)
+
+***************************************
+Demographic and other characteristics 
+***************************************
+
+----------------------------------------------
+Overweight and obese prison inmates had 
+lower rates of inmate-on-inmate sexual 
+victimization and staff misconduct than 
+inmates who were at or below a normal weight
+-----------------------------------------------
+
+Variations in reported sexual victimization rates across inmate demographic 
+categories in the NIS-3 were consistent with past surveys:
+
+ * Rates of inmate-on-inmate sexual victimization among prison inmates were 
+higher among females (6.9%) than males (1.7%), higher among whites (2.9%) or 
+inmates of two or more races (4.0%) than among blacks (1.3%), higher among 
+inmates with a college degree (2.7%) than among inmates who had not completed 
+high school (1.9%), and lower among currently married inmates (1.4%) than 
+among inmates who never married (2.1%) (table 7).  
+
+* Similar patterns of inmate-on-inmate sexual victimization were reported by 
+jail inmates. Female jail inmates (3.6%), whites (2.0%), and inmates with a 
+college degree (3.0%) reported higher rates of victimization  than males 
+(1.4%), blacks (1.1%), and inmates who had not completed high school (1.4%). 
+
+* Rates of inmate-on-inmate sexual victimization were unrelated to age among 
+state and federal prisoners, except for slightly lower rates among inmates 
+age 55 or older. 
+
+* Rates were lower among jail inmates in the oldest age categories (ages 35 
+to 44, 45 to 54, and 55 or older) than among jail inmates ages 20 to 24. 
+
+* Patterns of staff sexual misconduct were different, with higher rates among 
+males in jails (1.9%) than among females in jails (1.4%), and higher among 
+black inmates in prisons (2.6%) and jails (2.1%) than among white inmates in 
+prisons (1.6%) and jails (1.4%). 
+
+* In both prisons and jails, rates of reported staff sexual misconduct were 
+lower among inmates in the oldest age categories (ages 35 to 44, 45 to 54, 
+and 55 or older), compared to inmates in the 20 to 24 age category. 
+
+With a new survey question on the inmate’s specific height in combination 
+with a question on the inmate’s weight, the NIS-3 provides the first 
+opportunity to determine if rates of sexual victimization vary based on an 
+inmate’s Body Mass Index (BMI). Among state and federal prison inmates, obese 
+inmates (with a BMI of 30 to 39) and overweight inmates (with a BMI of 25 to 
+30) had lower rates of inmate-on-inmate sexual victimization and staff sexual 
+misconduct than inmates with a normal weight (with a BMI of 18.5 to 24) or 
+who were underweight (a BMI of less than 18.5). (See Methodology for 
+calculation of BMI.)  
+
+Among jail inmates, those underweight (3.5%) and those morbidly obese (BMI of 
+40 or greater) (3.0%) have nearly double the rate of inmate-on-inmate sexual 
+victimization than inmates in other categories (1.6%, normal weight; 1.5%, 
+overweight; and 1.7%, obese). There are no statistically significant 
+variations in reported staff sexual misconduct among jail inmates across BMI 
+categories.
+
+--------------------------------------------------
+Large differences in sexual victimization 
+were found among inmates based on their 
+sexual orientation and past sexual experiences
+--------------------------------------------------
+
+Inmates who identified their sexual orientation as gay, lesbian, bisexual, or 
+other reported high rates of inmate-on-inmate sexual victimization and staff 
+sexual misconduct: 
+
+* Among heterosexual state and federal prisoners, an estimated 1.2% reported 
+being sexually victimized by another inmate, and 2.1% reported being 
+victimized by staff. In comparison, among non-heterosexual prison inmates 
+(including gay, lesbian, bisexual, and other sexual orientations), 12.2% 
+reported being sexually victimized by another inmate, and 5.4% reported being 
+sexually victimized by staff (table 8).
+
+* Among jail inmates, heterosexual inmates reported lower rates of inmate-on-
+inmate sexual victimization (1.2%) and staff sexual misconduct (1.7%) than 
+non-heterosexual inmates (8.5% for inmate-on-inmate and 4.3% for staff sexual 
+misconduct). 
+
+* Inmates who experienced sexual victimization before coming to the facility 
+were also more likely than inmates with no sexual victimization history to 
+report incidents of sexual victimization involving other inmates and staff. 
+Among inmates who experienced sexual victimization before coming to the 
+facility, 12.0% of prisoners and 8.3% of jail inmates reported being sexually 
+victimized by another inmate at the current facility. An estimated 6.7% of 
+prisoners and 5.1% of jail inmates who experienced sexual victimization 
+before coming to the facility reported sexual victimization by staff. 
+
+------------------------------------------
+In 2011-12, inmates held for a violent 
+sexual offense reported higher rates of 
+inmate-on-inmate sexual victimization 
+than inmates held for other offenses
+------------------------------------------ 
+
+An estimated 3.7% of violent sex offenders in prison and 3.9% of violent sex 
+offenders in jail reported being sexually victimized by another inmate in the 
+last 12 months or since admission to the facility, if less than 12 months 
+(table 9). These rates were higher than those reported by inmates held for 
+other offenses. Among state and federal prisoners, rates of inmate-on-inmate 
+sexual victimization were--
+
+* higher among prison inmates serving a sentence of life or death (2.7%) than 
+among inmates serving a sentence of 1 to 4 years (1.8%).  
+
+* higher among prison inmates who had been at their current facility for 5 
+years or more (2.9%) than among inmates who had been admitted in the last 
+month (1.4%).
+ 
+Among jail inmates, the rate of inmate-on-inmate sexual victimization 
+increased with the length of time served in the current facility, rising from 
+0.9% among inmates who had been at the facility for less than a month to 1.7% 
+among inmates in jail for 1 to 5 months, 2.7% among inmates in jail for 6 to 
+11 months, and 2.6% among those in jail for 1 to 4 years. 
+
+------------------------------------------
+Rates of staff sexual misconduct varied 
+among inmates based on their criminal 
+justice status and history 
+------------------------------------------
+
+* Among state and federal prisoners, inmates with a long sentence, inmates 
+who had served 5 years or more in prison prior to coming to the current 
+facility, and inmates who had served 5 years or more at the current facility 
+were more likely to report experiencing staff sexual misconduct than inmates 
+with a sentence of 1 to 4 years, inmates who had not served any prior time, 
+and inmates who had been admitted in the last month. 
+
+* Among jail inmates, the rate of reported staff sexual misconduct increased 
+with time served in the current facility and was higher among inmates who had 
+previously served time in a correctional facility for 1 year or more. 
+These variations in rates of sexual victimization among inmate subgroups 
+based on demographic characteristics, sexual history and orientation, and 
+criminal justice status are almost identical to those reported in the NIS-2. 
+(See Sexual Victimization in Prisons and Jails Reported by Inmates, 2008-09, 
+NCJ 231169, BJS Web, August 2010.) 
+
+*******************************
+Special inmate populations--
+Inmates ages 16 to 17
+*******************************
+
+-----------------------------------------------
+In 2011-12, juvenile inmates ages 16 
+to 17 held in adult facilities reported
+rates of sexual victimization similar to 
+those of adult inmates
+-----------------------------------------------
+
+The NIS-3 was specially designed to provide estimates of sexual victimization 
+for inmates ages 16 to 17 held in adult facilities. Previous NIS collections 
+excluded inmates age 17 or younger due to special human subject issues 
+(related to consent and assent, as well as risk of trauma in the survey 
+process) and statistical issues (related to clustering of youth and the need 
+to oversample to ensure a representative sample). To address issues of 
+consent and risk, the NIS-3 juvenile sample was restricted to inmates ages 16 
+to 17 (who represented an estimated 95% of the 1,790 juveniles held in 
+prisons at yearend 2011 and 97% of the 5,870 juveniles held in local jails at 
+midyear 2011). 
+
+The NIS-3 was designed to oversample for facilities that house juveniles and 
+to oversample juveniles within selected facilities. The resulting sample was 
+structured to provide separate nationwide estimates for juveniles in prisons 
+and jails, while providing national-level and facility-level estimates for 
+adult inmates that were comparable to estimates in the NIS-1 and NIS-2. (See 
+Methodology for the juvenile sample design.)
+
+Juveniles ages 16 to 17 held in prisons and jails did not report 
+significantly higher rates of sexual victimization than adult inmates. 
+Although the overall rates for juveniles (4.5% in prisons and 4.7% in jails) 
+were somewhat higher than those for adults (4.0% in prisons and 3.2% in 
+jails), the differences were not statistically significant (table 10). 
+ 
+Rates of inmate-on-inmate sexual victimization are unrelated to age among 
+state and federal prisoners (table 11). When compared to inmates in every 
+other age category, inmate ages 16 to 17 reported experiencing inmate-on-
+inmate sexual victimization at similar rates. Among jail inmates, the rate of 
+staff sexual misconduct was higher for inmates ages 16 to 17 than for older 
+inmates; however, the differences were statistically significant only for 
+inmates age 35 or older.
+
+These data do not support the conclusion that juveniles held in adult prisons 
+and jails are more likely to be sexually victimized than inmates in other age 
+groups. Due to the relatively small number of juveniles held in state prisons 
+(an estimated 1,700 inmates ages 16 to 17 at midyear 2011), BJS combined 
+these data with reports from juveniles held in local jails (an estimated 
+5,700 inmates ages 16 to 17). 
+ 
+Overall, the patterns of reported sexual victimization by juveniles were 
+similar to those for adult inmates, including higher rates of staff sexual 
+misconduct than rates of inmate-on-inmate sexual victimization:
+
+* Of juveniles held in prisons and jails, 1.8% reported being victimized by 
+another inmate in the past 12 months or since admission to the facility, if 
+less than 12 months) (table 12). This rate was similar to the rate reported 
+by adult prisoners (2.0%) and adult jail inmates (1.6%). 
+ 
+* Among juveniles held in prisons and jails nationwide, 3.2% reported 
+experiencing staff sexual misconduct. Though higher, the rate was not 
+statistically different from that of adults in prisons (2.4%) and adults in 
+jails (1.8%).
+
+-----------------------------------------------------
+Among juveniles and young adult inmates in 2011-12, 
+patterns of sexual victimization across demographic 
+subgroups showed little variation 
+-----------------------------------------------------
+
+Across subgroups defined by sex, race or Hispanic origin, BMI, sexual 
+orientation, and most serious offense, juveniles and young adults reported 
+experiencing similar rates of sexual victimization. Due to the small number 
+of juveniles within each subgroup, few differences in sexual victimization 
+rates across age groups were statistically significant. (Tests across age 
+group not shown; see appendix table 14 for standard errors.)  
+
+Among juvenile inmates ages 16 to 17 and young adult inmates ages 18 to 19 
+and 20 to 24 --
+
+* Young adult females reported higher rates of inmate-on-inmate sexual 
+victimization than young adult males, while young adult males reported higher 
+rates of staff sexual misconduct than young adult females.
+
+* White non-Hispanic young adults (ages 18 to 19 and 20 to 24) reported 
+higher rates of inmate-on-inmate sexual victimization than black non-Hispanic 
+and Hispanic youth in the same age groups.
+
+* Inmates ages 18 to 19 and 20 to 24 with a sexual orientation other than 
+heterosexual experienced higher rates of sexual victimization by another 
+inmate than heterosexual inmates in similar age groups.
+
+* Male juvenile inmates reported higher rates of staff sexual misconduct 
+(3.3%) than female juveniles (0.9%). 
+
+* Juvenile inmates held for violent sex offenses reported higher rates of 
+staff sexual misconduct (12.0%) than those held for property offenses (1.5%).
+
+Among juveniles victimized by other inmates in 2011-12, more than three-
+quarters experienced force or threat of force, and a quarter were injured
+
+Juveniles ages 16 to 17 who reported sexual victimization by other inmates 
+revealed that--
+
+* Two-thirds were victimized more than once (65.5%) 
+(table 13).
+
+* An estimated 78.6% reported experiencing physical force or threat of force, 
+and 39.8% were pressured by the perpetrator to engage in the sexual act or 
+other sexual contact.
+
+* More than a quarter (27.7%) were injured in at least one of the incidents.
+
+* Fewer than 1 in 6 (15.4%) reported an incident to someone at the facility, 
+a family member, or a friend.
+
+Among juvenile inmates ages 16 to 17 who reported experiencing staff sexual 
+misconduct-- 
+
+* Three-quarters (75.8%) were victimized more than once.
+
+* An estimated 43.7% said that staff used force or threat of force.
+
+* An estimated 10.8% were injured in at least one of the incidents.
+* Fewer than 1 in 10 (9.0%) reported the staff sexual misconduct to someone 
+at the facility, a family member, or a friend.
+
+*************************************
+Special inmate populations--
+Inmates with mental health problems
+*************************************
+
+The NIS-3 collected data on the mental health problems of inmates for the 
+first time in 2011-12. Inmates were asked whether they had been told by a 
+mental health professional that they had a mental disorder or if because of a 
+mental health problem they had stayed overnight in a hospital or other 
+facility, used prescription medicine, or they had received counseling or 
+treatment from a trained professional. These items have been previously used 
+by BJS to determine if inmates in prisons and jails had any history of mental 
+health problems. (See Mental Health Problems of Prison and Jail Inmates, NCJ 
+213600, BJS Web, September 2006.) 
+
+-------------------------------------------
+A high percentage of inmates had a history 
+of problems with their emotions, nerves, 
+or mental health 
+--------------------------------------------
+
+An estimated 36.6% of prison inmates and 43.7% of jail inmates reported being 
+told by a mental health professional that they had a mental health disorder, 
+as specified in the Diagnostic and Statistical Manual of Mental Disorders 
+(DSM-IV) (table 14). Inmates were asked specifically if they had ever been 
+told they had manic depression, bipolar disorder, or other depressive 
+disorder, schizophrenia or another psychotic disorder, post-traumatic stress 
+disorder, or an anxiety or other personality disorder. (See Methodology for 
+survey items and full list of disorders.)
+
+More than a third of prison inmates (35.8%) and jail inmates (39.2%) said 
+they had received some counseling or therapy from a trained professional for 
+these problems. An estimated 8.9% of prisoners and 12.8% of jail inmates 
+reported an overnight stay in a hospital or other facility before their 
+current admission to prison or jail. Approximately 15.4% of prisoners and 
+19.7% of jail inmates reported taking prescription medication for these 
+mental health and emotional problems at the time of the offense for which 
+they were currently being held.
+
+--------------------------------------------
+Inmates with a history of mental health 
+problems had higher rates of sexual 
+victimization than other inmates 
+---------------------------------------------
+
+Inmates who had been told by a mental health professional that they had a 
+mental disorder were more likely than other inmates to report being sexually 
+victimized while in prison or jail. Among inmates who had been told they had 
+a specific DSM-IV disorder--
+
+* During 2011-12, an estimated 3.8% of prison inmates and 2.9% of jail 
+inmates reported that they were sexually victimized by another inmate.
+
+* Approximately 3.4% of prison inmates and 2.5% of jail inmates reported that 
+they were sexually victimized by staff during 2011-12.
+
+Sexual victimization rates were also higher among inmates who had stayed 
+overnight in a hospital or other treatment facility because of a mental 
+health problem than among inmates who had no prior admission for mental 
+health problems.  Among those who had stayed overnight in a hospital for 
+mental or emotional problems, 5.7% of prison inmates and 4.4% of jail inmates 
+said they were victimized by another inmate, and 4.9% of prison inmates and 
+3.4% of jail inmates said they were victimized by facility staff.
+
+Differences in sexual victimization rates among inmates were similar across 
+other mental health measures. Rates of inmate-on-inmate sexual victimization 
+were--
+
+* Two to three times higher among inmates who were taking prescription 
+medications for their mental health or emotional problems at the time of the 
+current offense than among inmates who were not taking such medications.  
+
+Three to four times higher among inmates who had received mental health 
+counseling or treatment from a trained professional in the past than among 
+inmates who had not received such counseling or treatment.
+
+----------------------------------------------
+In 2011-12, nearly 15% of state and federal 
+prisoners and 26% of jail inmates had 
+symptoms of serious psychological distress
+----------------------------------------------
+
+To determine whether inmates had a current mental health problem, BJS used 
+the K6 screening scale in the NIS-3. The K6 was previously developed by 
+Kessler and others for estimating the prevalence of serious mental illness in 
+noninstitutional settings as a tool to identify cases of psychiatric 
+disorder. It has been used widely in epidemiological surveys in the U.S. and 
+internationally.*** Foonote 3  3Kessler, R.C., Barker, P.R., Colpe, L.J., 
+Epstein, J.F., Gfroerer, J.C., Hiripi,E., Howes, M.J., Normand, S.L., 
+Manderscheid, R.W., Walters, E.E., &Zaslavsky, A.M. (2003). “Screening for 
+serious mental illness in the generalpopulation.” Archives of General 
+Psychiatry, 60, 184–189.***  ***Footnote 4 Kessler, R.C., Green, J.G., 
+Gruber, M.J., Sampson, N.A., Bromet, E., Cuitan, M., Furukawa, T.A., et al. 
+(2010). “Screening for serious mental illness in the general population with 
+the K6 screening scale: results from the WHO World Mental Health (WMH) survey 
+initiative.” International Journal of Methods in Psychiatric Research, 19 
+(Spp. 1) 4–22.***
+
+The K6 consists of six questions that ask inmates to report how often during 
+the past 30 days they had felt--
+
+* nervous
+
+* hopeless
+
+* restless or fidgety
+
+* so depressed that nothing could cheer them up
+
+* everything was an effort
+
+* worthless.
+
+The response options were (1) all of the time, (2) most of the time, (3) some 
+of the time, (4) a little of the time, and (5) none of the time. Following 
+Kessler, the responses were coded from 4 to 0, with 4 assigned to “all of the 
+time” and 0 assigned to “none of the time.” A summary scale combining the 
+responses from all six items was then produced with a range of 0 to 24. The 
+summary score was then reduced to three categories: 0 to 7 indicated no 
+mental illness, 8 to 12 indicated an anxiety-mood disorder, and 13 or higher 
+indicated serious psychological distress (SPD). 
+
+Since 2008, the K6 scale has been used in federal epidemiological studies to 
+measure symptoms of SPD rather than serious mental illness. Although the K6 
+has been demonstrated to be a good predictor of serious mental illness in 
+prior studies, a technical advisory group, convened by the Center for Mental 
+Health Services at the Substance Abuse and Mental Health Services 
+Administration (SAMHSA), recommended that it should be supplemented with 
+questions on functional impairment to improve statistical prediction and 
+validity. (See Methodology for discussion of K6 scaling rules and current 
+applications.)
+
+Consistent with other measures of mental health or emotional problems, the K6 
+reveals that prison and jail inmates have high rates of SPD. An estimated 
+203,200 state and federal inmates and 185,500 jail inmates reported levels of 
+psychological distress in the 30 days prior to the interview consistent with 
+SPD. These estimates of current SPD represented nearly 15% of state and 
+federal inmates and 26% of local jail inmates. These may be underestimates 
+because some inmates with serious mental illness may have been unable to 
+participate in the NIS-3 due to cognitive limitations that precluded them 
+from fully understanding the informed consent procedures or the survey 
+questions.
+
+---------------------------------------------------
+An additional 251,700 state and federal prisoners 
+(18.2%) and 155,800 jail inmates (22.2%) reported 
+lower levels of psychological distress, indicative 
+of anxiety-mood disorders.
+---------------------------------------------------
+
+Rates of SPD in prisons and jails were substantially higher than the 3.0% 
+rate of SPD observed in the 2012 National Health Interview Survey of the 
+noninstitutional U.S. population age 18 or older, using the same K6 
+screener.5 Although inmate populations are demographically different from the 
+general U.S. population, these differences in the prevalence of SPD remain 
+significant when comparisons are restricted to demographic subgroups most 
+commonly held in prisons and jails (table 15):
+ 
+* Among males, 3.0% of the general U.S. population was identified with SPD, 
+compared to 14.7% of prisoners and 26.3% of jails inmates.
+
+
+* Among persons ages 18 to 44, 2.7% of the general population, 14.8% of 
+prisoners and 26.1% of jail inmates had SPD.
+
+* Among black non-Hispanic adults, 2.6% of the general population was 
+classified with SPD, compared to 13.0% of prisoners and 22.1% of jail 
+inmates.
+
+* Among white non-Hispanic adults, 2.9% of the general population, 17.5% of 
+prisoners and 30.8% of jail inmates had SPD.
+
+---------------------------------------------
+Inmates with SPD or anxiety-mood disorders 
+reported high overall rates of sexual 
+victimization in 2011-12
+----------------------------------------------
+
+Inmates identified with SPD reported significantly higher rates of inmate-on-
+inmate sexual victimization and staff sexual misconduct than inmates without 
+a mental health problem: 
+
+* Among state and federal inmates, an estimated 6.3% of those identified with 
+SPD reported being sexually victimized by another inmate, and 5.6% reported 
+being victimized by staff. In comparison, among prison inmates with no 
+indication of mental illness or anxiety-mood disorders, 0.7% reported being 
+sexually victimized by another inmate and 1.1% reported experiencing staff 
+sexual misconduct.
+
+* Similarly, jail inmates identified with SPD reported higher rates of 
+inmate-on-inmate sexual victimization (3.6%) and staff sexual misconduct 
+(3.6%) than inmates with no mental illness (0.7% for inmate-on-inmate and 
+1.0% for staff sexual misconduct).
+
+Inmates identified as having anxiety-mood disorders reported higher rates of 
+sexual victimization than inmates who did not report a mental health problem. 
+Inmates with anxiety-mood disorders reported lower victimization rates than 
+inmates with SPD. Among inmates with anxiety-mood disorders--
+
+* An estimated 2.8% of prison inmates and 1.3% of jail inmates reported that 
+they were sexually victimized by another inmate.
+
+* About 3.0% of prison inmates and 1.4% of jail inmates reported that they 
+were sexually victimized by staff.
+
+------------------------------------------------
+Inmates with mental illness reported higher 
+rates of sexual victimization than inmates 
+without mental health problems across subgroups
+-------------------------------------------------
+
+For each of the measured subgroups (i.e., sex, race or Hispanic origin, age, 
+sexual orientation, and most serious offense), inmates with SPD reported 
+higher rates of inmate-on-inmate sexual victimization than inmates without 
+mental health problems (table 16). With the exception of jail inmates age 45 
+or older, the differences were large and statistically significant. Among 
+inmates with SPD, non-heterosexual inmates reported the highest rates of 
+inmate-on-inmate sexual victimization (an estimated 21.0% of prison inmates 
+and 14.7% of jail inmates).
+
+Patterns of staff sexual misconduct were similar to those of inmate-on-inmate 
+victimization. Staff sexual misconduct was also higher among inmates with SPD 
+than those without mental health problems (table 17). With the exception of 
+female jail inmates, the differences within each demographic subgroup were 
+statistically significant. Among inmates with SPD, non-heterosexual prison 
+inmates recorded the highest rate (10.5%) of sexual victimization by staff.
+
+-------------------------------------------
+Reports of sexual victimization differed 
+among inmates with SPD and other inmates
+-------------------------------------------
+
+Among prison and jail inmates who reported inmate-on-inmate sexual 
+victimization, those with SPD were more likely than those without mental 
+health problems to be--
+
+* victimized more than once (80.4% compared to 62.6%) 
+
+* forced or threatened with force by the perpetrator (71.2% compared to 
+57.7%)
+
+* injured (26.4% compared to 12.3%) (table 18).
+
+Among victims of staff sexual misconduct, inmates with SPD were more likely 
+than those without mental health problems to--
+
+* report being pressured by staff (73.4% compared to 50.2%) or forced or 
+threatened with force (47.2% compared to 33.8%)
+
+* be injured by staff (19.8% compared to 6.3%)
+
+* report at least one victimization to someone at the facility, a family 
+member, or a friend (24.9% compared to 14.1%).
+
+*********************************************
+Special inmate populations—
+Inmates with a non-heterosexual sexual 
+orientation
+*********************************************
+
+To date, all of the BJS victim self-report surveys conducted under PREA have 
+found that inmates with the highest rates of sexual victimization are those 
+who reported their sexual orientation as gay, lesbian, bisexual, or other. 
+For example, among non-heterosexual inmates interviewed in the NIS-2, 11.2% 
+of prison inmates and 7.2% of jail inmates reported being victimized by 
+another inmate in the past 12 months or since admission to the facility, if 
+less than 12 months. Among former state prison inmates interviewed in the 
+National Former Prisoner Survey (NFPS, conducted in 2008), more than a third 
+of non-heterosexual males (33% of bisexuals and 39% of gays and lesbians) 
+reported being sexually victimized by another inmate during their most recent 
+period of incarceration. Combined with the higher rates among non-
+heterosexual inmates in the NIS-3 (12.2% in prisons and 8.5% in jails), the 
+surveys clearly identify a high-risk population. Although the NIS-2 and NFPS 
+provide detailed multivariate models that control for other risk factors, 
+NIS-3 provides additional detail on this population.
+
+--------------------------------------------------
+Across subgroups, inmate-on-inmate victimization 
+rates were higher for non-heterosexual inmates 
+than heterosexual inmates 
+--------------------------------------------------
+
+In every measured subgroup (i.e., sex, race or Hispanic origin, age, 
+education, and mental health problems), non-heterosexual prison and jail 
+inmates reported higher rates of inmate-on-inmate sexual victimization than 
+heterosexual inmates (table 19). Rates of sexual victimization by other 
+inmates against non-heterosexual inmates were at least 10 times greater than 
+that of heterosexual inmates when the victim was also male, black, Hispanic, 
+or had less than a high school education. These differences were smaller, but 
+still large, among non-heterosexual female inmates (2.5 times larger), whites 
+(more than 6 times larger), and high school graduates 
+(8 times larger).
+
+Within each of the other demographic subgroups, staff-on-inmate victimization 
+rates were at least double for non-heterosexual inmates compared to 
+heterosexual inmates. Among non-heterosexual prison and jail inmates, rates 
+of staff sexual misconduct were the highest for inmates ages 18 to 24 (6.7%), 
+blacks (6.2%), and males (6.1%).
+
+Non-heterosexual victims (82.9%) were more likely than heterosexual victims 
+(68.0%) to report that the victimization by another inmate involved pressure, 
+but less likely to report that it involved force or threat of force (62.0% 
+for non-heterosexual compared to 69.7% for heterosexual victims) (table 20).  
+In addition, non-heterosexual victims (84.2%) of staff sexual misconduct were 
+more likely than heterosexual victims (71.4%) to report more than one 
+incident.
+
+*************
+Methodology
+*************
+
+
+The National Inmate Survey, 2011-12 (NIS-3) was conducted in 233 state and 
+federal prisons, 358 jails, and 15 special facilities (military, Indian country, 
+and Immigration and Customs Enforcement (ICE)) between February 2011 and May 
+2012. The data were collected by RTI International under a cooperative 
+agreement with the Bureau of Justice Statistics (BJS).
+
+The NIS-3 comprised two questionnaires—a survey of sexual victimization and a 
+survey of mental and physical health, past drug and alcohol use, and 
+treatment for substance abuse. Inmates were randomly assigned to receive one 
+of the questionnaires so that at the time of the interview the content of the 
+survey remained unknown to facility staff and the interviewers. 
+
+A total of 106,532 inmates participated in NIS-3, including the sexual 
+victimization survey or the randomly assigned companion survey. Combined, the 
+surveys included 43,721 inmates in state and federal prisons, 61,351 inmates 
+in jails, 605 inmates in military facilities, 192 inmates in Indian country 
+jails, and 663 inmates in facilities operated by ICE. 
+
+The interviews, which averaged 35 minutes in length, used computer-assisted 
+personal interviewing (CAPI) and audio computer-assisted self-interviewing 
+(ACASI) data collection methods. For approximately the first two minutes, 
+survey interviewers conducted a personal interview using CAPI to obtain 
+background information and date of admission to the facility. For the 
+remainder of the interview, respondents interacted with a computer-
+administered questionnaire using a touchscreen and synchronized audio 
+instructions delivered via headphones. Respondents completed the ACASI 
+portion of the interview in private, with the interviewer either leaving the 
+room or moving away from the computer.
+
+A shorter paper questionnaire was made available for inmates who were unable 
+to come to the private interviewing room or interact with the computer. The 
+paper form was completed by 751 prison inmates (or 1.9% of all prison 
+interviews)—733 were completed by adult prison inmates (1.9% of adult prison 
+inmate interviews) and 18 were completed by prisoners ages 16 to 17 (3.4% of 
+all prison inmate interviews of inmates ages 16 to 17). The paper 
+questionnaire was also completed by 264 jail inmates (0.5% of all jail inmate 
+interviews)—255 were completed by adults (0.5% of adult jail inmate 
+interviews) and 9 were completed by jail inmates ages 16 to 17 (0.7% of jail 
+inmate interviews of inmates ages 16 to 17). In addition, five paper 
+questionnaires were completed by military inmates (0.9% of all military 
+inmate interviews). Most of these inmates were housed in administrative or 
+disciplinary segregation or were considered too violent to be interviewed.
+
+Before the interview, inmates were informed verbally and in writing that 
+participation was voluntary and that all information provided would be held 
+in confidence. Interviews were conducted in either English (96% in prisons, 
+95% in jails, 35% in ICE facilities, and 100% in military and Indian country 
+facilities) or Spanish (4% in prisons, 5% in jails, and 65% in ICE 
+facilities).
+
+---------------------------------------
+Selection of state and federal prisons
+---------------------------------------
+
+A sample of 241 state and federal prisons was drawn to produce a sample 
+representing the 1,158 state and 194 federal adult confinement facilities 
+identified in the 2005 Census of State and Federal Adult Correctional Facilities, 
+supplemented with updated information from websites maintained by each state’s 
+department of corrections (DOC) and the Federal Bureau of Prisons (BOP). 
+The 2005 census was a complete enumeration of adult state prisons, including all 
+publicly operated and privately operated facilities under contract to state 
+correctional authorities. 
+
+The NIS-3 was restricted to confinement facilities—institutions in which 
+fewer than 50% of the inmates were regularly permitted to leave, 
+unaccompanied by staff, for work, study, or treatment. Such facilities 
+included prisons, penitentiaries, prison hospitals, prison farms, boot camps, 
+and centers for reception, classification, or alcohol and drug treatment. The 
+NIS-3 excluded community-based facilities, such as halfway houses, group 
+homes, and work release centers. 
+
+Based on BJS’s 2011 National Prisoner Statistics and 2005 Census of State and 
+Federal Adult Correctional Facilities, the prisons in the study universe held 
+an estimated 1,238,000 state and 203,800 federal inmates age 18 or older and 
+1,700 state inmates ages 16 to 17 at yearend 2011. Facilities that had been 
+closed and new facilities that had opened since the 2005 census were 
+identified via review of DOC and BOP websites. Facilities determined to be 
+closed were removed from the NIS-3 frame and new facilities were added. 
+
+State and federal confinement facilities were sequentially sampled with 
+probabilities of selection proportionate to size (as measured by the number 
+of inmates held in state prisons on December 30, 2005, and in federal prisons 
+on September 9, 2010). 
+
+Facilities on the sampling frame were stratified by sex of inmates housed, 
+whether the facility had a mental health function, and whether the facility 
+held five or more juveniles: 
+
+* Among facilities that housed males, the measure of size for facilities that 
+held male inmates and participated in the NIS-1 in 2007 or NIS-2 in 2008-09 
+were adjusted to lower their probability of selection in the NIS-3. 
+
+
+* Among facilities with an inmate population that was at least 50% female, the 
+measure of size for facilities that participated in the NIS-2 was reduced to 
+lower their probability of selection in the NIS-3. 
+
+
+* The measures of size were further adjusted to increase the probability of 
+selection of facilities with large juvenile populations. 
+
+Within each stratum, facilities in the sampling frame were first sorted by 
+region, state, and public or private operation: 
+
+
+* The sample measures of size for facilities housing only female inmates were 
+increased by a factor of 5 to ensure a sufficient number of women and allow 
+for meaningful analyses of sexual victimization by sex. This led to an 
+allocation of 51 female facilities (out of 233) in the sample.
+
+
+* An additional 25 facilities were allocated to the stratum with facilities 
+that have a mental health function, and another 20 facilities were allocated 
+to the strata that housed juveniles. 
+
+
+* This led to the allocation of 66 facilities known to have a mental health 
+function—49 male facilities and 17 female facilities—and 38 facilities that 
+housed juveniles (36 facilities that housed males and 2 facilities that 
+housed females). 
+ 
+Facilities were sampled ensuring that at least one facility in every state 
+was selected. Federal facilities were grouped together and treated like a 
+state for sampling purposes. The remaining facilities were selected from each 
+region with probabilities proportionate to size. 
+
+Of the 241 selected prison facilities, 7 had closed prior to the start of 
+data collection: Metro State Prison (Georgia), Hillsborough Corr. Inst. 
+(Florida), Gates Corr. Inst. (Connecticut), Brush Corr. Fac. (Colorado), 
+Burnet Co. Intermediate Sanction Fac. (Texas), and Diamondback Corr. Fac. 
+(Oklahoma). One facility—Chittenden Regional Corr. Fac. (Vermont)—had 
+transitioned from holding males to females during the data collection period 
+and was considered a closed facility. All other selected prison facilities 
+participated fully in NIS-3.
+
+---------------------------------------
+Selection of inmates within prisons
+---------------------------------------
+
+A roster of inmates was obtained just prior to the start of data collection 
+at each facility. Inmates age 15 or younger and inmates who were released 
+prior to data collection were deleted from the roster. Eligible inmates 
+within a facility were placed into one of two strata based on their ages. 
+Inmates who were ages 16 to 17 (juveniles) were placed in one stratum and 
+inmates age 18 or older (adults) were placed in the other. Inmates age 15 or 
+younger were considered ineligible for the NIS-3. 
+
+------------------------------------------
+Selection of adult inmates within prisons
+------------------------------------------
+
+The number of adult inmates sampled in each facility varied based on six 
+criteria--
+
+* an expected sexual victimization prevalence rate of 4%
+
+* a desired level of precision based on a standard error of 1.75%
+
+* a projected 70% response rate among selected inmates
+
+* a 10% chance among participating inmates of not receiving the sexual 
+victimization questionnaire
+
+* an adjustment factor of 1.9 to account for the complex survey design
+the size of the facility.
+
+Each eligible adult inmate was assigned a random number and sorted in 
+ascending order. Inmates were selected from the list up to the expected 
+number of inmates determined by the sampling criteria. 
+
+-------------------------------------------------
+Selection of inmates ages 16 to 17 within prisons
+--------------------------------------------------
+
+The number of inmates ages 16 to 17 sampled in each facility varied based on 
+the number who appeared on the roster:
+
+
+* If fewer than 50 were on the roster, all inmates ages 16 to 17 were selected.
+
+* If between 50 and 149 were on the roster, 75% were sampled (with a minimum 
+of 50).
+
+* If 150 or more were on the roster, 75% were sampled (with a minimum of 150).
+
+In cases in which not all inmates ages 16 to 17 were selected, each eligible 
+inmate ages 16 to 17 was assigned a random number and sorted in ascending 
+order. Inmates were selected from the list up to the expected number of 
+inmates determined by the sampling criteria.
+
+A total of 74,655 prison inmates were selected. After selection, 2,233 
+ineligible inmates were excluded—1,441 (1.9%) were released or transferred to 
+another facility before interviewing began, 657 (0.9%) were mentally or 
+physically unable to be interviewed, 10 (0.01%) were age 15 or younger or 
+their age could not be obtained during the interview process, 56 (0.5%) were 
+selected in error (i.e., an inmate was incorrectly listed on the facility 
+roster), 21 (0.03%) were only in the facility on weekends, and 47 (0.06%) 
+were on unsupervised work release or only served time on weekends.
+
+Of all selected eligible prison inmates, 32% refused to participate in the 
+survey, 0.5% were not available to be interviewed (e.g., in court, in medical 
+segregation, determined by the facility to be too violent to be interviewed, 
+or restricted from participation by another legal jurisdiction), and 0.5% 
+were not interviewed due to survey logistics (e.g., language barriers, 
+releases, or transfers to another facility after interviewing began).
+
+Overall, 43,721 prison inmates participated in the survey, yielding a 
+response rate of 60%. Approximately 90% of the participating inmates (38,778) 
+received the sexual assault survey. (See appendix table 1 for the number of 
+participating inmates in each prison facility.)
+
+-----------------------------
+Selection of jail facilities
+-----------------------------
+
+A sample of 393 jails was drawn to represent the 2,957 jail facilities 
+identified in the Census of Jail Inmates, 2005, and the sample was 
+supplemented with information obtained during the NIS-1 and NIS-2. The 2005 
+census was a complete enumeration of all jail jurisdictions, including all 
+publicly operated and privately operated facilities under contract to jail 
+authorities. The NIS-3 was restricted to jails that had six or more inmates 
+on June 30, 2005. Jails identified as closed or ineligible during the NIS-1 
+and NIS-2 were removed from the NIS-3 frame. Based on estimates from the 
+Annual Survey of Jails, 2011, the jails in the NIS-3 held an estimated 
+720,171 inmates age 18 or older and 5,700 inmates ages 16 to 17 on June 30, 
+2011.
+
+Jail facilities were sequentially sampled with probabilities of selection 
+proportionate to size (as measured by the number of inmates held on June 30, 
+2005).
+ 
+
+* Two facilities that were unable to participate in the 
+NIS-2 were selected with certainty in the NIS-3. 
+
+* The measures of size for facilities that participated in the NIS-1 or NIS-2 
+were adjusted to give them a lower probability of selection.
+
+* Facilities with juveniles had their measures of size adjusted to increase 
+their probability of selection. 
+
+* Facilities were stratified such that facilities in each of the 10 largest 
+jail jurisdictions were placed into a stratum. Within the large jurisdiction 
+stratum, three facilities were selected from the five largest jurisdictions 
+with probabilities proportionate to size, and two facilities were selected 
+from the next five largest jurisdictions with probabilities proportionate to 
+size.
+
+
+* All other facilities were placed in a single stratum and then sorted by 
+region, state, and public or private operation. Facilities were sampled to 
+ensure that at least one jail facility in every state was selected. The 
+remaining jail facilities were selected from each region with probabilities 
+proportionate to size. 
+
+Of the 393 selected jails in the NIS-3, 20 facilities refused to participate:
+
+* Covington Co. Jail (Alabama)
+
+* Mobile Co. Metro Jail (Alabama)
+
+* Delaware Co. George W. Hill Corr. Fac. (Pennsylvania)
+
+* Montcalm Co. Jail (Michigan)
+
+* Will Co. Adult Det. Fac. (Illinois)
+
+* Northumberland Co. Prison (Pennsylvania)
+
+* Kenosha Co. Pre-Trial Det. Fac. (Wisconsin)
+
+* Carroll Co. Jail (Tennessee)
+
+* Brevard Co. Jail (Florida)
+
+* Pinellas Co. North Division (Florida)
+
+* Hillsborough Co. Falkenburg Road Jail (Florida)
+
+* Paulding Co. Det. Ctr. (Georgia)
+
+* Whitfield Co. Jail (Georgia)
+
+* Marion Co. Jail (Tennessee)
+
+* Sandoval Co. Det. Ctr. (New Mexico)
+
+* Williamson Co. Jail (Texas)
+
+* Montgomery Co. Jail (North Carolina)
+
+* Catahoula Parish Corr. Ctr. (Louisiana)
+
+* Escambia Co. Det. Ctr. (Alabama)
+
+* Orleans Parish House of Det. (Louisiana).
+
+Williamsburg Co. Jail (South Carolina), was excused due to construction at 
+the facility. In Nassau Co. Corr. Ctr. (New York), data were collected only 
+among inmates ages 16 to 17 due to lack of space to interview both adults and 
+juveniles ages 16 to 17.   
+
+Fourteen facilities were determined to be ineligible: six had closed, two 
+were considered part of another facility on the sampling frame, three had 
+fewer than six eligible inmates, two were facilities containing only 
+unsupervised work release inmates, and one had active litigation related to 
+sexual victimization. All other selected jail facilities participated fully 
+in NIS-3.
+
+-----------------------------------
+Selection of inmates within jails
+-----------------------------------
+
+A roster of inmates was obtained just prior to the start of data collection 
+at each facility. Inmates age 15 or younger and inmates who had not been 
+arraigned were removed from the roster. Eligible inmates within a facility 
+were placed into one of two stratum based on their age. Inmates who were ages 
+16 to 17 (juveniles) were placed in one stratum and inmates age 18 or older 
+(adults) were placed in the other. Inmates age 15 or younger were considered 
+ineligible for the NIS-3.  
+
+-----------------------------------------
+Selection of adult inmates within jails
+-----------------------------------------
+
+The number of adult inmates sampled in each facility varied based on six 
+criteria:
+
+
+* an expected prevalence rate of sexual victimization of 3%
+
+* a desired level of precision based on a standard error of 1.4%
+
+* a projected 65% response rate among selected inmates
+
+* a 10% chance among participating inmates of not receiving the sexual 
+victimization questionnaire
+
+* an adjustment factor of 1.9 to account for the complex survey design
+
+* a pre-arraignment adjustment factor equal to 1 in facilities where the status 
+was known for all inmates and less than 1 in facilities where only the 
+overall proportion of inmates who were pre-arraigned was known.
+
+Each eligible adult inmate was assigned a random number and sorted in 
+ascending order. Inmates were selected from the list up to the expected 
+number of inmates determined by the sampling criteria. 
+
+Due to the dynamic nature of jail populations, a second roster of inmates was 
+obtained on the first day of data collection. Eligible adult inmates who 
+appeared on the second roster but who had not appeared on the initial roster 
+were identified. These inmates had been arraigned since the initial roster 
+was created or were newly admitted to the facility and arraigned. A random 
+sample of these new inmates was chosen using the same probability of 
+selection used to sample from the first roster. 
+
+--------------------------------------------------
+Selection of inmates ages 16 to 17 within jails
+--------------------------------------------------
+
+The number of inmates ages 16 to 17 sampled in each facility varied based on 
+the number who appeared on the roster:
+
+* If fewer than 50 were on the roster, all inmates ages 16 to 17 were selected.
+
+* If between 50 and 149 were on the roster, 75% were sampled (with a minimum of 
+50).
+
+* If 150 or more were on the roster, 75% were sampled (with a minimum of 150).
+
+In facilities in which not all inmates ages 16 to 17 were selected, each 
+eligible inmate ages 16 to 17 was assigned a random number and sorted in 
+ascending order. Inmates were selected from the list up to the expected 
+number of inmates determined by the sampling criteria. 
+ 
+As with adult jail inmates, a second roster obtained on the first day of data 
+collection was used to identify inmates that had been arraigned since the 
+initial roster was created or newly admitted. A random sample of these new 
+inmates was chosen using the same probability of selection used to sample 
+from the first roster.
+
+A total of 112,594 jail inmates was selected. After selection, 11,342 
+ineligible inmates were excluded—9,479 (8.4%) were released or transferred to 
+another facility before interviewing began, 1,036 (0.8%) were mentally or 
+physically unable to be interviewed, 25 (0.02%) were age 15 or younger or 
+their age could not be obtained during the interview process, 296 (0.3%) were 
+selected in error (i.e., an inmate was incorrectly listed on the facility 
+roster), and 484 (0.4%) were on unsupervised work release or only served 
+time on weekends.
+
+Of all selected inmates, 22% refused to participate in the survey, 1.1% were 
+not available to be interviewed (e.g., in court, in medical segregation, 
+determined by the facility to be too violent to be interviewed, or restricted 
+from participation by another legal jurisdiction), and 8% were not 
+interviewed due to survey logistics (e.g., language barriers, releases, and 
+transfers to another facility after interviewing began).
+
+Overall, 61,351 jail inmates participated in the survey, yielding a response 
+rate of 61%. Approximately 90% of the participating inmates (54,137) received 
+the sexual victimization survey. (See appendix table 5 for the number of 
+participating inmates in each jail facility.)
+
+---------------------------------------------
+Selection of special confinement facilities
+---------------------------------------------
+
+A sample of 16 special facilities was drawn to represent the inmate 
+populations in military, Indian country, and ICE facilities. Five military, 
+six Indian country, and five ICE facilities were included. 
+
+The military frame came from the military correctional facilities population 
+report on April 1, 2011. The Indian country frame came from the BJS report, 
+Jails in Indian Country, 2009, NCJ 232223, BJS Web, February 2011. The ICE 
+frame came from the ICE integrated decision support system on March 21, 2011.
+
+Military, Indian country, and ICE facilities were sequentially selected with 
+probability proportionate to the adjusted number of inmates in the facility. 
+The measures of size (population) were adjusted to reduce the probability of 
+selection among facilities included in the NIS-2. 
+
+Tohono O’odham Adult Detention Facility (Arizona) refused to participate in 
+the NIS-3. All other selected special confinement facilities participated 
+fully in the survey.
+
+----------------------------------------------------------
+Selection of inmates in special confinement facilities
+----------------------------------------------------------
+
+For purposes of inmate selection, military facilities were treated as 
+prisons, and Indian country and ICE facilities were treated like jails. The 
+assumptions used to determine the sample size within a prison or jail and the 
+corresponding selection procedures were used. However, in ICE facilities, a 
+second sample of newly admitted inmates was not drawn due to an inability to 
+identify new inmates on the ICE rosters. In addition, inmates in ICE 
+facilities who did not speak English or Spanish were defined as ineligible 
+for the study.
+
+Overall, 2,874 inmates were selected, including 910 in military facilities, 
+300 in Indian country facilities, and 
+1,664 in ICE facilities. After selection, 163 ineligible inmates were 
+excluded—28 (1.0%) were released or transferred to another facility before 
+interviewing began, 46 (1.1%) were mentally or physically unable to be 
+interviewed, 3 (0.1%) were sampled in error, 2 (0.1%) were inmates in custody 
+only on the weekend, and 84 (3.0%) in ICE facilities did not speak English or 
+Spanish. 
+
+Overall, 1,272 inmates participated in the survey (605 in military, 192 in 
+Indian country, and 663 in ICE facilities), yielding a response rate of 68% 
+in military, 68% in Indian country, and 43% in ICE facilities. Approximately 
+90% of the participating inmates (1,379) received the sexual victimization 
+survey (539 in military, 160 in Indian country, and 573 in ICE facilities). 
+(See appendix table 9 for the number of participating inmates in each special 
+confinement facility.)
+
+----------------------------------------
+Weighting and nonresponse adjustments
+----------------------------------------
+
+Responses from interviewed inmates were weighted to provide national-level 
+and facility-level estimates. Each interviewed inmate was assigned an initial 
+weight corresponding to the inverse of the probability of selection within 
+each sampled facility. A series of adjustment factors was applied to the 
+initial weight to minimize potential bias due to nonresponse and to provide 
+national estimates.
+
+Bias occurs when the estimated prevalence is different from the actual 
+prevalence for a given facility. In each facility, bias could result if the 
+random sample of inmates did not accurately represent the facility 
+population. Bias could also result if the nonrespondents were different from 
+the respondents. Post-stratification and nonresponse adjustments were made to 
+the data to compensate for these two possibilities. These adjustments 
+included--
+
+
+* calibration of the weights of the responding inmates within each facility so 
+that the estimates accurately reflected the facility’s entire population in 
+terms of known demographic characteristics. These characteristics included 
+distributions by inmate age, sex, race, sentence length, and time since 
+admission. This adjustment ensured that the estimates better reflected the 
+entire population of the facility and not just the inmates who were randomly 
+sampled.
+
+* calibration of the weights so that the weight from a non-responding inmate 
+was assigned to a responding inmate with similar demographic characteristics. 
+This adjustment ensured that the estimates accurately reflected the full 
+sample, rather than only the inmates who responded.
+
+For each inmate, these adjustments were based on a generalized exponential 
+model, developed by Folsom and Singh, and applied to the sexual victimization 
+survey respondents.***Footnote 66Folsom, Jr., R.E., & Singh, A.C. (2002). 
+“The Generalized ExponentialModel for Sampling Weight Calibration for Extreme 
+Values, Nonresponse,and Poststratification.” Proceedings of the American 
+Statistical Association,Survey Research Methods Section, pp. 598–603.***
+
+A final ratio adjustment to each inmate weight was made to provide national-
+level estimates for the total number of inmates age 18 or older and the total 
+number of inmates ages 16 to 17 who were held in jails at midyear 2011 or in 
+prison at yearend 2011. These ratios represented the estimated number of 
+inmates by sex (from BJS’s 2011 Annual Survey of Jails and 2011 National 
+Prisoner Statistics) divided by the number of inmates by sex for adults and 
+overall for juvenile inmates ages 16 to 17 in the NIS-3, after calibration 
+for sampling and nonresponse. The national estimates for state prisons were 
+1,154,600 adult males, 83,400 adult females, and 1,700 juveniles ages 16 to 
+17; for federal prisons, 190,600 adult males and 13,200 adult females (there 
+were no juveniles ages 16 to 17 in federal custody); and for jails (with an 
+average daily population of six or more inmates), 628,620 adult males, 91,551 
+adult females, and 5,700 juveniles ages 16 to 17. 
+
+Final ratio adjustments were not applied to inmate weights in military, 
+Indian country, and ICE facilities. Estimates for special confinement 
+facilities were made at the facility level only.
+
+--------------------------------------------
+Standard errors and tests of significance
+--------------------------------------------
+
+The NIS-3 is statistically unable to provide an exact ranking for all 
+facilities as required under PREA. As with any survey, the NIS estimates are 
+subject to error arising from the fact that they are based on a sample rather 
+than a complete enumeration. Within each facility, the estimated sampling 
+error varies by the size of the estimate, the number of completed interviews, 
+and the size of the facility. 
+
+A common way to express this sampling variability is to construct a 95%-
+confidence interval around each survey estimate. Typically, multiplying the 
+standard error by 1.96 and then adding or subtracting the result from the 
+estimate produces the confidence interval. This interval expresses the range 
+of values that could result among 95% of the different samples that could be 
+drawn.
+ 
+For small samples and estimates close to 0%, as is the case with sexual 
+victimization in most prisons and jails, the use of the standard error to 
+construct the 95%-confidence interval may not be reliable. An alternative 
+developed by Wilson has been shown to perform better than the traditional 
+method when constructing a confidence interval. (See footnote 1 on page 10.) 
+This method produces an asymmetrical confidence interval around the facility 
+estimates in which the lower bound is constrained to be greater than or equal 
+to 0%. It also provides confidence intervals for facilities in which the 
+survey estimates are zero (but other similarly conducted surveys could yield 
+non-zero estimates). (See tables 3, 4, 5, and 6 and appendix tables 1, 2, 4, 
+5, 6, 8, and 9.)
+
+When applied to large samples, the traditional and the Wilson confidence 
+intervals are nearly identical. As a result, the tables that show national 
+estimates display traditional standard errors. (See tables 1 and 2.) The 
+traditional standard errors have also been used to compare estimates of 
+sexual victimization among selected groups of inmates that have been defined 
+by type of incident, demographic subgroup, sexual history, and criminal 
+justice status. (See tables 7 through 9 and 11 through 20.) To facilitate the 
+analysis, rather than provide the detailed estimates for every standard 
+error, differences in the estimates of sexual victimization for subgroups in 
+these tables have been tested and notated for significance at the 95%-level 
+of confidence. 
+
+For example, the difference in the rate of inmate-on-inmate sexual 
+victimization among female prison inmates (6.9%) compared to male prison 
+inmates (1.7%) is statistically significant at the 95%-level of confidence 
+(table 7). In all tables providing detailed comparisons, statistically 
+significant differences at the 95%-level of confidence or greater have been 
+designated with two asterisks (**).
+
+-----------------
+Exposure period
+-----------------
+
+To calculate comparative rates of sexual victimization, respondents were 
+asked to provide the most recent date of admission to the current facility. 
+If the date of admission was at least 12 months prior to the date of the 
+interview, inmates were asked questions related to their experiences during 
+the past 12 months. If the admission date was less than 12 months prior to 
+the interview, inmates were asked about their experiences since they had 
+arrived at the facility.
+
+The average exposure period of inmates participating in the sexual 
+victimization survey was--
+
+
+* 8.8 months for federal prisoners
+
+* 8.1 months for adult state prisoners
+
+* 5.5 months for juveniles ages 16 to 17 in state prisons 
+
+* 3.7 months for jail inmates
+
+* 7.6 months for inmates in military facilities
+
+* 2.8 months for inmates in ICE facilities
+
+* 2.0 months for inmates in Indian country facilities.
+
+--------------------------------------
+Measurement of sexual victimization
+-------------------------------------
+
+The survey of sexual victimization relied on inmates reporting their direct 
+experiences, rather than inmates reporting on the experiences of other 
+inmates. Questions related to inmate-on-inmate sexual activity were asked 
+separately from questions related to staff sexual misconduct. (For specific 
+survey questions, see appendices 1 and 2.) 
+
+The ACASI survey began with a series of questions that screened for specific 
+sexual activities without restriction, including both wanted and unwanted sex 
+and sexual contacts with other inmates. To fully measure all sexual 
+activities, questions related to the touching of body parts in a sexual way 
+were followed by questions related to manual stimulation and questions 
+related to acts involving oral, anal, and vaginal sex. The nature of coercion 
+(including use of physical force, pressure, and other forms of coercion) was 
+measured for each type of reported sexual activity.
+
+ACASI survey items related to staff sexual misconduct were asked in a 
+different order. Inmates were first asked about being pressured or being made 
+to feel they had to have sex or sexual contact with the staff and then asked 
+about being physically forced. In addition, inmates were asked if any 
+facility staff had offered favors or special privileges in exchange for sex. 
+Finally, inmates were asked if they willingly had sex or sexual contact with 
+staff. All reports of sex or sexual contact between an inmate and facility 
+staff, regardless of the level of coercion, were classified as staff sexual 
+misconduct.
+
+The ACASI survey included additional questions related to both inmate-on-
+inmate sexual victimization and staff sexual misconduct. These questions, 
+known as latent class measures, were included to assess the reliability of 
+the survey questionnaire. After being asked detailed questions, all inmates 
+were asked a series of general questions to determine if they had experienced 
+any type of unwanted sex or sexual contact with another inmate or had any sex 
+or sexual contact with staff. (See appendix 3.)
+
+The entire ACASI questionnaire (listed as the National Inmate Survey-3) and 
+the shorter paper and pencil survey form (PAPI) are available on the BJS 
+website at www.bjs.gov. 
+
+-------------------------------------------------------
+Interviews checked for inconsistent response patterns
+-------------------------------------------------------
+
+Once data collection was completed, individual response patterns were 
+assessed to identify interviewer error, interviews that had been completed in 
+too short of time, and incomplete interviews. In 141 interviews, the 
+interviewers administered sex-specific survey items inconsistent with the sex 
+of the inmate. In 693 interviews, the inmate failed to complete enough 
+questions to be considered a completed interview. These interviews were 
+excluded from the calculations of sexual victimization. 
+
+Interviews were also examined for inconsistent response patterns. A list of 
+31 indicators were developed based on inmate characteristics (e.g., 
+education, age, marital status, and time since admission) and items related 
+to victimization (e.g., number of times, injuries, willing contact with 
+staff, sex of staff perpetrator, and reporting of victimization). Indicators 
+compared responses to initial questions with responses to detailed follow-up 
+questions. The indicators were identified as unlikely, highly unlikely, or 
+extremely unlikely. 
+
+Of the 31 indicators, 21 were deemed unlikely, 7 were deemed highly unlikely, 
+and 3 were deemed extremely unlikely. An example of an unlikely indicator is 
+when a respondent indicated victimization occurred, but responded no to all 
+types of victimization. An example of a highly unlikely indicator is when a 
+responded indicated that the first time a victimization occurred was before 
+the inmate was admitted to the facility. An example of an extremely unlikely 
+indicator is if the inmate responded yes to 12 or more of the sex-specific 
+victimization items and indicated being victimized 11 or more times to both 
+staff sexual misconduct and inmate-on-inmate victimization. If any of the 
+extremely unlikely indicators were triggered and at least one highly unlikely 
+indicator or four or more unlikely indicators were triggered, the inmate’s 
+data were removed. 
+ 
+The amount of time the interview took was also reviewed. Inmates whose 
+average time for the sexual victimization items was less than 2 seconds per 
+item and inmates whose total time was less than 10 minutes for English 
+respondents and less than 12 minutes for Spanish respondents had their data 
+removed.
+  
+Overall, the results revealed very high levels of consistency in survey 
+responses. Of the 92,689 respondents to the sexual victimization survey, 87 
+triggered one extremely highly unlikely flag. Of these, 20 met the additional 
+criteria for removal. In addition, data for 12 respondents were removed 
+because their interviews did not meet the length of interview criteria. Among 
+the 32 cases that were removed, 1 respondent was in a federal facility, 13 
+respondents were in state prisons (2 were juveniles ages 16 to 17), and 18 
+respondents were in jails. These 32 inmates came from separate facilities 
+(i.e., only one inmate from each of these facilities was removed) and were 
+excluded from the calculation of sexual victimization. 
+
+---------------------------------------
+Calculation of Body Mass Index (BMI) 
+----------------------------------------
+
+BMI is a measurement of body fat, based on height and weight, that applies to 
+both men and women ages 18 to 65. BMI can be used to determine if a person is 
+underweight (18.5 or less), normal (18.5 to 24.9), overweight (25 to 29.9), 
+obese (30 to 39.9), or morbidly obese (40 or greater). The calculation in the 
+NIS-3 was based on the following formula provided by the Centers for Disease 
+Control and Prevention:
+
+BMI = weight (pounds) / [height (inches)]2 x 703.
+
+Screening for serious psychological distress (SPD) and history of mental 
+health problems
+
+The NIS-3 included four items to measure the prevalence of any problems with 
+emotions, nerves, or mental health an inmate may have had in the past:
+
+R24. Have you ever been told by a mental health professional, such as a 
+psychiatrist or psychologist, that you had… 
+
+a, manic depression, a bipolar disorder or mania?
+
+b. a depressive disorder?
+
+c. schizophrenia or another psychotic disorder?
+
+d. post-traumatic stress disorder (PTSD)?
+
+e. another anxiety disorder, such as panic disorder or obsessive compulsive 
+disorder (OCD)?
+
+f. a personality disorder, such as antisocial or borderline personality?
+
+g. a mental or emotional condition other than those listed above?
+
+R27. During the 12 months before you were admitted to [this facility / any 
+facility to serve time on your current sentence], did you stay overnight or 
+longer in any type of hospital or other facility to receive treatment or 
+counseling for problems you were having with your emotions, nerves, or mental 
+health?
+
+R30. At the time of the offense for which you are currently [being held / 
+serving time], were you taking prescription medicine for any problem you were 
+having with your emotions, nerves, or mental health?
+
+R33. Have you ever received counseling or therapy from a trained 
+professional, such as a psychiatrist, psychologist, social worker, or nurse, 
+for any problem you were having with your emotions, nerves, or mental health?
+
+-------------------------
+Development of the K6 
+-------------------------
+
+The K6 is a six-item scale designed to provide rapid assessment of the 
+prevalence of serious psychological distress (SPD) in population surveys. 
+(See page 25 for the six items and response categories.) Developed by Kessler 
+and colleagues, the K6 has become widely used in epidemiological surveys 
+throughout the world. It is included in three general population surveys in 
+the U.S.—the Behavioral Risk Factor Surveillance System and the National 
+Health Interview Survey (conducted by the Centers for Disease Control and 
+Prevention) and the National Survey on Drug Use and Health (conducted by the 
+U.S. Substance Abuse and Mental Health Services Administration).
+    
+The K6 has been recognized as a broad screener rather than a specific 
+screener for any one mental disorder. Kessler and others have shown that the 
+K6 outcomes are consistent with blinded clinical diagnoses of SPD in general 
+population samples. Moreover, their statistical analyses of alternative 
+scoring rules for the sex items have shown the unweighted sum (based on codes 
+0 to 4, with a total sum ranging from 0 to 24) to be virtually identical to 
+sums using other weighting schemes. Although its use under PREA is to 
+determine risk related to SPD and the incidence of sexual victimization, more 
+specific screening scales could have been used to determine if sexual 
+victimization was associated with particular kinds of mental disorder.
+
+Prior to 2004, the K6 was used in the National Survey on Drug Use and Health 
+(NSDUH) to estimate the prevalence of serious mental illness.  In 2008, 
+following the recommendation of a technical advisory group, convened by the 
+Center for Mental Health Services at the SAMHSA, NSDUH supplemented the K6 
+scale with questions on functional impairment. Functional impairment is 
+defined as difficulties that substantially interfere with or limit role 
+functioning in one or more major life activities, including basic living 
+skills; instrumental living skills; and functioning in social, family, and 
+vocational or educational contexts.7 However, the NIS-3 did not include any 
+items related to functional impairment, since past measures and scales are 
+not appropriate for inmates held in prisons or jails.
+
+The use of K6 for predicting serious mental illness has never been validated 
+in a correctional setting. It may be expected that some inmates feel nervous, 
+hopeless, restless or fidgety, sad or depressed, or worthless due to their 
+confinement rather than due to an underlying mental health disorder. 
+Consequently, the exact cut point for serious psychological distress may be 
+higher than 13 among inmates than among persons in the general population.
+  
+However, the link between SPD and sexual victimization rates remains strong, 
+regardless of the exact cut point in the K6 scale. For example, had the cut 
+point for serious psychological distress in the NIS been raised to 17 (from 
+13), inmate-on-inmate sexual victimization rates would have increased to 7.6% 
+among prison inmates and 4.4% among jail inmates, and staff sexual misconduct 
+rates would have increased to 7.2% among prison inmates and 4.4% among jail 
+inmates.
+
+----------------------------
+Imputation of missing data
+----------------------------
+
+SPD status was determined by the sum of the responses to the K6 items. Since 
+some inmates did not respond to all six items, inclusion and imputation 
+criteria were developed. Only respondents who answered at least four of the 
+K6 items were included in the estimates of SPD status. 
+ 
+A missing K6 item was imputed in a nearest neighbor approach (i.e., the donor 
+value for the imputed value was the nearest previous nonmissing K6 response). 
+If the nearest K6 item was missing, then the value from the first nonmissing 
+response preceding the missing item was used as the donor. For example, if 
+item 2 was not answered, but item 1 was answered, then the value from the 
+first K6 item was used as the value for the selected K6 item. If the first K6 
+item was missing, then the first nonmissing value that followed was used as 
+the donor. Since only respondents who answered at least four of the K6 items 
+were included in the analysis, the donor response was never more than two 
+items away from the item with the missing response.
+
+In prisons, among the 38,251 adult respondents, 555 (1.5%) answered fewer 
+than four items and thus were not included in the estimates of SPD. Of the 
+adult prison inmates who responded to four or more items, 931 (2.4%) had one 
+or two items imputed.
+
+In jails, among the 52,926 adult respondents, 1,106 (2.1%) answered fewer 
+than four items and therefore were not included in the estimates of SPD 
+status. Of the adult jail inmates who responded to four or more items, 1,840 
+(3.5%) had one or two items imputed.  
+
+-----------------------
+Terms and definitions
+-----------------------
+
+Sexual victimization--all types of sexual activity, e.g., oral, anal, or 
+vaginal penetration; hand jobs; touching of the inmate’s buttocks, thighs, 
+penis, breasts, or vagina in a sexual way; abusive sexual contacts; and both 
+willing and unwilling sexual activity with staff.
+
+Nonconsensual sexual acts--unwanted contacts with another inmate or any 
+contacts with staff that involved oral, anal, vaginal penetration, hand jobs, 
+and other sexual acts.
+
+Abusive sexual contacts only--unwanted contacts with another inmate or any 
+contacts with staff that involved touching of the inmate’s buttocks, thigh, 
+penis, breasts, or vagina in a sexual way.
+
+Unwilling activity--incidents of unwanted sexual contacts with another inmate 
+or staff.
+
+Willing activity--incidents of willing sexual contacts with staff. These 
+contacts are characterized as willing by the reporting inmates; however, all 
+sexual contacts between inmates and staff are legally nonconsensual.
+
+Staff sexual misconduct--includes all incidents of willing and unwilling 
+sexual contact with facility staff and all incidents of sexual activity that 
+involved oral, anal, vaginal penetration, hand jobs, blow jobs, and other 
+sexual acts with facility staff. 
+
+
+----------------------------
+Related prior publications
+---------------------------
+
+Eight BJS reports on sexual victimization in prisons and jails:
+
+Sexual Violence Reported by Correctional Authorities, 2004 (NCJ 210333)
+
+Sexual Violence Reported by Correctional Authorities, 2005 (NCJ 214646)
+
+Sexual Violence Reported by Correctional Authorities, 2006 (NCJ 218914)
+
+Sexual Victimization Reported by Adult Correctional Authorities, 2007-2008 
+(NCJ 231172)
+
+Sexual Victimization in State and Federal Prisons Reported by Inmates, 2007 
+(NCJ 219414)
+
+Sexual Victimization in Local Jails Reported by Inmates, 2007 (NCJ 221946)
+
+Sexual Victimization in Prisons and Jails Reported by Inmates, 2008-09 (NCJ 
+231169)
+
+Sexual Victimization Reported by Former State Prisoners, 2008 (NCJ 237363).
+
+An overview of all of the BJS prison rape collections: PREA Data Collection 
+Activities, 2012 (NCJ 238640)
+
+These reports are available on the BJS website at www.bjs.gov.
+
+******************************************************
+Appendix 1. Survey items related to inmate-on-inmate 
+sexual victimization, National Inmate Survey, 2011–12
+******************************************************
+
+-------
+Males
+-------
+
+E16. During the last 12 months, did another inmate use physical force to
+touch your butt, thighs, or penis in a sexual way?
+
+E17. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to let them
+touch your butt, thighs, or penis in a sexual way?
+
+E22. During the last 12 months, did another inmate use physical force to
+make you give or receive a hand job?
+
+
+E23. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to give or receive
+a hand job?
+
+E26. During the last 12 months, did another inmate use physical force to
+make you give or receive oral sex or a blow job?
+
+E27. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to give or receive
+oral sex or a blow job?
+
+E32. During the last 12 months, did another inmate use physical force to
+make you have anal sex?
+
+E33. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to have anal sex?
+
+E34. During the last 12 months, did another inmate use physical force
+to make you have any type of sex or sexual contact other than sexual
+touching, hand jobs, oral sex or blow
+jobs, or anal sex?
+
+E35. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to have any type
+of sex or sexual contact other than sexual touching, hand jobs, oral sex or
+blow jobs, or anal sex?
+
+----------
+Females
+----------
+
+E18. During the last 12 months, did another inmate use physical force to
+touch your butt, thighs, breasts, or vagina in a sexual way?
+
+E19. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to let them
+touch your butt, thighs, breasts, or vagina in a sexual way?
+
+E24. During the last 12 months, did another inmate use physical force to
+make you give or receive oral sex?
+
+E25. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to give or receive
+oral sex?
+
+E28. During the last 12 months, did another inmate use physical force to
+make you have vaginal sex?
+
+E29. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to have
+vaginal sex?
+
+E32. During the last 12 months, did another inmate use physical force to
+make you have anal sex?
+
+E33. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to have anal sex?
+
+E34. During the last 12 months, did another inmate use physical force
+to make you have any type of sex or sexual contact other than sexual
+touching, oral sex, vaginal sex, or anal sex?
+
+E35. During the last 12 months, did another inmate, without using
+physical force, pressure you or make you feel that you had to have any type
+of sex or sexual contact other than sexual touching, oral sex, vaginal sex,
+or anal sex?
+
+***************************************************
+Appendix 2. Survey items related to staff sexual 
+misconduct, National Inmate Survey, 2011–12
+**************************************************
+
+These next questions are about the behavior of staff at this facility during
+the last 12 months. By staff we mean the employees of this facility and
+anybody who works as a volunteer in this facility.
+
+G4. During the last 12 months, have any facility staff pressured you or
+made you feel that you had to let them have sex or sexual contact with you?
+
+G5. During the last 12 months, have you been physically forced
+by any facility staff to have sex or sexual contact?
+
+G7. During the last 12 months, have any facility staff offered you favors or
+special privileges in exchange for sex or sexual contact?
+
+G2. During the last 12 months, have you willingly had sex or sexual
+contact with any facility staff?
+
+G11. [IF G2 OR G4 OR G5 OR G7 = Yes] During the last 12 months, which
+of the following types of sex or sexual contact did you have with a facility
+staff person?
+
+G11a. You touched a facility staff person’s body or had your body touched 
+in a sexual way.
+
+G11b. You gave or received a hand job.
+
+G11c. You gave or received oral sex or a blow job.
+
+G11d. You had vaginal sex.
+
+G11e. You had anal sex.
+
+
+*******************************************************
+Appendix 3. Follow-up questions for inmates reporting 
+no sexual activity, National Inmate Survey, 2011–12
+******************************************************
+
+Follow-up questions for inmates  reporting no sexual activity in the
+screener questions for sexual activity with inmates:
+
+LCM1. During the last 12 months, did another inmate use physical force,
+pressure you, or make you feel that you had to have any type of sex or
+sexual contact?
+
+LCM2. How long has it been since another inmate in this facility used
+physical force, pressured you, or made you feel that you had to have any type
+of sex or sexual contact?
+
+1. Within the past 7 days 
+
+2. More than 7 days ago but within the past 30 days
+
+3. More than 30 days ago but within the past 12 months
+
+4. More than 12 months ago
+
+5. This has not happened to me at this facility
+
+Follow-up questions for inmates reporting no sexual activity in the
+screener questions for sexual activity with staff:
+
+LCM5. During the last 12 months, have you had any sex or sexual
+contact with staff in this facility whether you wanted to have it or not?
+
+LCM6. How long has it been since you had any sex or sexual contact
+with staff in this facility whether you wanted to or not?
+
+1. Within the past 7 days
+
+2. More than 7 days ago but within the past 30 days
+
+3. More than 30 days ago but within the past 12 months
+
+4. More than 12 months ago
+
+5. This has not happened to me at this facility
+
+****************************************************************
+Office of Justice Programs
+Innovation * Partnerships * Safer Neighborhoods
+www.ojp.usdoj.gov
+****************************************************************
+
+****************************************************************
+4/30/13/11:45pm/JER
+****************************************************************

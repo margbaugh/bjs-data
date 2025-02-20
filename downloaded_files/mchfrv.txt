@@ -1,0 +1,2094 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+April 2012, NCJ  237308
+
+Methods for Counting High-Frequency Repeat 
+Victimizations in National Crime Victimization Survey
+
+Janet L. Lauritsen, Jennifer Gatewood Owens, 
+Michael Planty, Michael R. Rand, Jennifer L. Truman,
+Statisticians
+---------------------------------------------------         
+This file is text without graphics and many of the
+tables. A Zip archive of the tables in this report in
+spreadsheet format (.cvs) and the full report including
+tables and graphs in .pdf format are available at:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=2240
+---------------------------------------------------
+
+****************************************************     
+Technical Series Report
+
+Bureau of Justice Statistics
+
+James P. Lynch. Director
+
+BJS Website: www.bjs.gov
+askbjs@usdoj
+
+***************************************************
+
+Executive Summary
+
+As part of ongoing research efforts associated with the
+redesign of the National Crime Victimization Survey
+(NCVS), the Bureau of Justice Statistics (BJS) has
+investigated ways to include high-frequency repeat
+victimizations, or series victimizations, in estimates of
+criminal victimization. Including series victimizations
+would obtain a more accurate estimate of victimization.
+This report summarizes the research results and describes
+changes in BJS's enumeration practices regarding the
+treatment of series victimizations when estimating annual
+victimization rates.
+
+The NCVS's primary purpose is to accurately estimate
+the number and type of criminal victimizations that
+occur each year in the United States. To enumerate and
+classify victimizations, the NCVS employs an interview
+procedure that asks respondents to recall specific types of
+criminal events that occurred over the previous 6 months.
+Repeatedly victimized persons have experiences that
+present considerable challenges for the accurate counting
+and description of criminal events. These experiences
+involve multiple crimes that are often indistinguishable to
+victims, making it difficult for them to separate the details
+of each event. Such experiences may include intimate
+partner violence or bullying by schoolmates. To handle
+these repeated victimizations, the NCVS employs a series
+victimization protocol. Currently, the NCVS records a series
+victimization when the respondent reported experiencing
+six or more similar crimes during the 6-month reference
+period and was unable to recall or describe each event
+in detail. If all of these conditions are met, the NCVS
+interviewer records the victim's report of the number of
+times this type of victimization occurred and collects
+detailed information only for the most recent victimization.
+
+Although information about series victimizations is
+collected in the NCVS, BJS typically excludes series
+victimizations from annual estimates of crime. This
+enumeration practice resulted from concerns about
+the accuracy of the victimization count, whether each
+victimization in the series occurred within the reference
+period, and whether characteristics of the most recent
+victimization (such as whether an injury occurred) would
+apply to the other victimizations in the series.
+
+To assess the strengths and weaknesses for enumerating and
+classifying series victimizations into national victimization
+estimates, this report examined the extent and the nature of
+series victimization in the NCVS and reviewed the general
+patterns and statistical properties of victims' responses
+to being asked how many times the incident occurred.
+Series victimization analyses also examined how different
+treatments would affect conclusions about the victimization
+level and annual rate of change for various crime types and
+victimization characteristics.
+
+*********
+Findings
+*********
+
+* While violent series victimizations have declined in
+number and proportion over time, the characteristics of
+these victimizations have exhibited little change. Violent
+series victimizations primarily consist of domestic
+violence, school violence, and work-related violence.
+
+* Many series victims had difficulty recalling exactly how
+many times violent victimizations occurred within a
+6-month reference period. The observed patterns of
+response clustering indicate that many victims provided
+estimates of the number of times the incidents occurred.
+Victim responses tended to be consistent when asked for
+a second time about the frequency of such victimizations.
+
+* Including series victimizations in national rates results
+in rather large increases in the level of violent
+victimization; however, trends in violence are generally
+similar regardless of whether series victimizations are
+included. The impact of including series victimizations may
+vary across years and crime types, in part reflecting the
+relative rarity of the offense type under consideration.
+
+* The series victimization counting rule has limited
+statistical and substantive effects on the proportions and
+patterns of some victimization characteristics, such as
+the percentage reported to the police, the percentage
+involving weapon use, and the proportion resulting in
+injury. For other victimization characteristics, such as the
+proportions involving strangers or intimate partners, the
+treatment of series victimizations had a larger impact.
+
+Given the findings from this research, BJS will enumerate
+series victimizations using the victim's estimates of the
+number of times the victimizations occurred over the past 6
+months, capping the number of victimizations within each
+series at a maximum of 10. This strategy for counting series
+victimizations balances the desire to estimate national rates
+and account for the experiences of persons with repeated
+victimizations while noting that some estimation errors exist
+in the number of times these victimizations occurred.
+
+*********
+Contents
+*********
+
+Introduction............................................1
+
+Counting and classification............................ 1
+
+
+History of counting high-frequency repeat victimization
+in the NCVS........................................1
+
+Analysis of series victimization in the NCVS.............3
+
+Extent and nature of series victimization in the NCVS ...3
+
+Victim responses to "How many times did this type of
+incident happen?".................................... ..8
+
+Counting series victimizations.........................14
+
+Impact of including series victimizations on national
+estimates of violence..................................15
+
+Impact of including series victimizations on major crime
+categories............................................ 17
+
+Impact of including series victimizations on violence
+rates for types often reported as series ..............20
+
+Impact of series counting decisions on selected
+victimization characteristics..........................23
+
+Conclusions ...........................................27
+
+Methodology............................................28
+
+Methodological changes to the NCVS in 2006............ 28
+
+Series victimizations in intimate partner violence.....28
+
+Standard error computations.......................... .28
+ 
+Definitions......................................... ..29
+
+References.......................................... ..30
+
+**************
+List of Tables
+**************
+
+Table 1. Percent of victimizations reported as series
+victimizations, 1993 2009...............................3
+
+Table 2. Percent of victimizations reported as series
+victimizations, by type of crime, 1993 1999 and
+2000 2009...............................................3
+
+Table 3. Activity at time of most recent violent series
+victimization, 1992 1995 and ...........................4
+
+Table 4. Distribution of violent series victimizations,
+by age and sex, 2000 2009...............................4
+
+Table 5. Violent series victimizations at work or on duty,
+by sex and occupation, age 18 or older, 
+2001 2009 ..............................................5
+
+Table 6. Characteristics of most recent series
+victimization compared to other victimizations in the
+series, by age and sex, 2000 2009.......................7
+
+Table 7. Responses to "How many times did this type of
+incident happen?" for all violent victimizations,
+1993 2009............................................. 10
+
+Table 8. Consistency of first and second responses to
+"How many times did this type of incident happen?",
+1993 2009............................................. 11
+
+Table 9. Characteristics of violent incidents for 
+nonseries and series victimizations,...................16
+
+Table 10. Percent change in victimization rates with
+series victimizations included and excluded, by type of
+crime................................................. 17
+
+Table 11. Percent change in victimization rates with
+series victimizations included and excluded, 
+by type of victimization...............................21
+
+***************
+List of Figures
+***************
+
+Activity during most recent incident in series victimization
+for male and female youth ages 12 to 17, 2000 2009..........5
+
+Activity during most recent incident in series victimization
+for male and female adults age 18 or older, 2000 2009.......5
+
+Victim-offender relationship in most recent incident in
+series victimization for male and female youth ages 12 to 17,
+2000 2009........6
+
+Victim-offender relationship in most recent incident in
+series victimization for male and female adults age 18 or
+older, 2000 2009............................................6
+
+Responses to "How many times did this type of incident
+happen?" for all violent series victimizations, 1993 2009...9
+
+Series victims' first and second responses to "How many times
+did this type of incident happen?", 1993 2009..............11
+
+Mean difference between the first and second responses to
+"How many times did this type of incident happen?" for all
+violent series victimizations, 1993 2009...................12
+
+Responses to "How many times did this type of incident
+happen?" for all violent victimizations, 1993 2009.........13
+
+Violent victimization rates with series victimizations
+included and excluded, 1993 2009...........................14
+
+Rape and sexual assault victimization rates with series
+victimizations included and excluded, 1993 2009............17
+
+Robbery victimization rates with series victimizations
+included and excluded, 1993 2009...........................18
+
+Aggravated assault victimization rates with series
+victimizations included and excluded, 1993 2009............19
+
+Simple assault victimization rates with series victimizations
+included and excluded, 1993 2009...........................19
+
+Rates of female intimate partner violence including series
+victimizations counted as 1, and counted using victim 
+reports for females age 12 and older, 1993 2009............20
+
+Rates of violent victimization at school with series
+victimizations included and excluded for youth ages 12 
+to 17, 1993 2009...........................................21
+
+Rates of violent victimization at work or on duty with series
+victimizations included and excluded for adults age 18 or
+older, 1993 2009...........................................22
+
+Percent of violent victimization reported to police with
+series victimizations counted as 1 and counted using victim
+reports, 1993 2009........................................23
+
+Percent of violent victimizations resulting in injury with
+series victimizations counted as 1 and counted using 
+victim reports, 1993 2009.................................24
+
+Percent of violent victimizations involving weapon use with
+series victimizations counted as 1 and counted using 
+Victim reports, 1993 2009.................................24
+
+Percent of violent victimizations involving strangers with
+series victimizations counted as 1 and counted using 
+Victim reports, 1993 2009.................................25
+
+Percent of violent victimizations involving intimate partners
+with series victimizations counted as 1 and counted using
+victim reports, 1993 2009.................................25
+
+Percent of violent victimizations involving intimate 
+Partners with series victimizations counted as 1 
+and counted Counted Using victim reports for females 
+age 12 and older, 1993 2009...............................26
+
+*************************
+List of Appendix Tables
+*************************
+
+Standard errors for table 1: Percent of victimizations
+reported as series victimizations, 1993 2009..............31
+
+Standard errors for table 2: Percent of victimizations
+reported as series victimizations, by type of crime,
+1993 1999 and 2000 2009...................................31
+
+Standard errors for table 4: Distribution of violent series
+victimizations, by age and sex, 2000 2009.................31
+
+Standard errors for figure 1: Activity during most recent
+incident in series victimization for male and female youth
+ages 12 to 17, 2000 2009..................................31
+
+Standard errors for figure 2: Activity during most recent
+incident in series victimization for male and female adults
+age 18 or older, 2000 2009................................31
+
+Standard errors for table 5: Violent series victimizations 
+at work or on duty, by sex and occupation, age 18 or older,
+2001 2009.................................................31
+
+Standard errors for figure 3: Victim-offender relationship 
+in most recent incident in series victimization for male and
+female youth ages 12 to 17, 2000 2009.....................31
+
+Standard errors for figure 4: Victim-offender relationship 
+in most recent incident in series victimization for male and
+female adults age 18 or older, 2000 2009..................32
+
+Standard errors for table 6: Characteristics of most recent
+series victimization compared to other victimizations in the
+series, by age and sex, 2000 2009.........................32
+
+Standard errors for figure 17: Percent of violent
+victimizations reported to police with series victimizations
+counted as 1 and counted using victim reports, 
+1993 2009.................................................32
+
+Standard errors for figure 18: Percent of violent
+victimizations resulting in injury with series victimizations
+counted as 1 and counted using victim reports,
+1993 2009.................................................32
+
+Standard errors for figure 19: Percent of violent
+victimizations involving weapon use with series
+victimizations counted as 1 and counted using victim reports,
+1993 2009.................................................33
+
+Standard errors for figure 20: Percent of violent
+victimizations involving strangers with series victimizations
+counted as 1 and counted using victim reports, 
+1993 2009.................................................33
+
+Standard errors for figure 21: Percent of violent
+victimizations involving intimate partners with series
+victimizations counted as 1 and counted using victim 
+reports, 1993 2009......................................33
+
+Standard errors for figure 22: Percent of violent
+victimizations involving intimate partners with series
+incidents counted as 1 and counted using victim reports 
+for females age 12 and older, 1993 2009......................33
+
+Methods for Counting High- Frequency Repeat Victimizations in
+the National Crime Victimization Survey
+
+Janet L. Lauritsen, Jennifer Gatewood Owens, Michael Planty,
+Michael R. Rand, and Jennifer L. Truman
+
+*************
+Introduction
+*************
+
+The primary purpose of the Bureau of Justice Statistics'
+(BJS) National Crime Victimization Survey (NCVS) is to
+accurately measure the number and type of criminal
+victimizations that occur each year to persons ages 12 and
+older (Groves and Cork, 2008). To enumerate and classify
+criminal victimization, the NCVS employs an interview
+procedure that asks respondents to recall specific types of
+criminal events that occurred over the past 6 months.
+Criminal victimization is usually a relatively rare but
+salient event, and many victims can recall the details of a
+single victimization, such as an armed robbery or a home
+burglary. In addition, crimes that result in injury, large
+economic loss, and those involving the police are not easily
+forgotten. 
+
+For some types of victimization, however, it can be difficult
+for the victim to accurately enumerate and describe the
+details of their experiences. Persons who are repeatedly
+victimized present considerable measurement challenges for
+the NCVS.
+ 
+Counting and classification
+
+Measuring repeated or recurring victimization presents
+challenges for any survey designed to provide counts of
+criminal victimizations that occur each year. Providing a
+count of victimizations assumes that crime is a discrete
+event with an identifiable beginning and end. Many types of
+crime are well-suited to being counted as a discrete event
+that occurred within a given time period. For these types of
+victimizations, victims can readily identify whether such an
+incident occurred within the previous six months.
+
+However, for some people, crime may be a continuous process
+or condition (Biderman, 1980; Skogan, 1981). For example, an
+abused woman may suffer periodic violence within an on-going
+pattern of abuse that extends over time. Victims of bullying
+at school may suffer continuous threats and assaults by one
+or more offenders over the course of a school year. These
+situations may involve multiple crimes that run together in
+the victim's mind making it difficult, if not impossible, to
+distinguish the details of each victimization during the
+interview procedure (Dodge, 1984). Cognitive challenges and
+time burdens arise when respondents are asked to recall the
+number of victimizations and answer detailed questions about
+each incident. Yet these details are necessary for counting
+and classifying victimizations that occur each year.
+
+History of counting high-frequency repeat victimization in
+the NCVS
+
+The NCVS and its predecessor, the National Crime Survey
+(NCS), use a series victimization protocol to address the
+cognitive and time burdens on respondents who report a large
+number of repeated victimizations during the survey's
+reference period. In the earlier NCS, a series victimization
+occurred when a respondent reported experiencing three or
+more crimes similar in nature during the survey's 6-month
+reference period and could not recall the details of each
+victimization. When a victim reported these conditions, the
+interviewer recorded the number of times the victimizations
+occurred and collected detailed information for the last
+occurrence.
+
+Analysis based on early NCS data showed that high-frequency
+repeat victimizations constituted an important component of
+victimization (Dodge, 1984a; 1984b; Dodge and Lentzner, 1980;
+Reiss, 1980; 1984). As part of the research that resulted in
+the later 1992 redesign of the NCS, BJS conducted a
+re-interview study to obtain additional information about the
+nature of series crimes (Dodge, 1987). This study found that
+most victims could recall the details of individual
+victimizations when the minimum number to count as a series
+was raised from three to six victimizations. The study also
+found that most victimizations within the series were the
+same general type of crime. As a result, the redesigned NCVS
+raised the minimum number required to use the series protocol
+to six victimizations.
+
+Currently, the NCVS records a series victimization when the
+respondent reported experiencing six or more similar crimes
+during the 6-month reference period and could not recall the
+details of each victimization. If these conditions are met,
+the interviewer uses the series victimization protocol,
+recording the number of victimizations that occurred and
+collecting detailed information for the last occurrence.
+Then, the NCVS interviewer asks the respondent the following
+questions about the series victimization: (1) "How many times
+did this kind of thing happen to you during the last 6
+months?" (2) "Did all, some, or none of these incidents occur
+in the same place?" (3) "Were all, some, or none of these
+incidents done by the same person(s)?" (4) "Did the same
+thing happen each time?" and (5) "Is the trouble still going
+on?" Responses to these questions provide analysts with a
+better understanding of the nature of series victimization.
+
+The series protocol addresses the recall and burden issues
+for the respondent, but at the cost of having less available
+information about these experiences in the data. Since
+details are only gathered for the most recent victimization,
+specific information to classify the crime type is
+unavailable for other victimizations in the series. Along
+with concerns about the accuracy of the victimization count
+and whether all the series victimizations occurred within the
+reference period, this lack of additional detail resulted in
+an early BJS decision to exclude series victimizations from
+annual crime estimates.
+
+BJS has long recognized that excluding or counting series
+victimizations as one victimization, as has been the practice
+for various topical reports, lead to undercounts of
+victimization. Our practice has been to exclude series
+victimizations from crime estimates presented in the annual
+Criminal Victimization bulletins due to concerns about
+counting and classifying them. Some essential details about
+victimization are necessary to classify the crime during
+post-interview processing, therefore determining the counts
+and rates for a particular type of crime. For example, the
+involvement of a weapon or the occurrence of a serious injury
+determines whether a victimization is classified as a simple
+assault or aggravated assault. If either occurred, then the
+victimization is classified as an aggravated assault.
+However, without these details it is unknown whether other
+assaults in the series should also be classified as
+aggravated assaults.
+
+The issue of how to treat high-frequency repeat
+victimizations is not limited to the NCVS. Large-scale
+victimization surveys conducted in other countries also
+obtain information about the occurrence of repeated
+victimizations, though the manner of gathering victimization
+details varies. Most countries that use survey data to
+produce victimization rates implement a capping method that
+limits the maximum number of counted victimizations when a
+victim reports a series-type incident. 
+
+In the British Crime Survey (BCS), respondents who reported
+being victimized more than once are subsequently asked if
+they would identify the victimization as a series of crimes
+that were very similar, done under the same circumstances,
+and probably by the same people (Bolling, Grant, and Donovan,
+2009). When estimating victimization rates, BCS publications
+typically limit the inclusion of series victimizations to a
+maximum of five. The national survey conducted for Mexico,
+the Encuestas Nacionales Sobre Iseguridad (ENSI), also uses a
+cap of five incidents when estimating victimization rates. 
+
+The International Crime Victimization Survey (ICVS) and the
+European Union International Crime Survey (EUICS), which have
+been administered in a variety of countries, do not use
+open-ended responses to the question "How many times did this
+incident occur?" when estimating national victimization
+rates. These surveys typically present prevalence rates,
+which represent the proportion of the population that has
+experienced one or more crimes of a specific type, and such
+rates do not take into consideration how many times a person
+experienced a victimization (van Kesteren, Mayhew, and
+Nieuwbeerta, 2000; EUICS Consortium). Large national
+victimization surveys conducted around the world have handled
+the issue of series and repeat victimizations in different
+ways, and those that ask victims how many times an incident
+occurred typically cap or limit the contribution that these
+types of victimizations can have on national victimization
+rates.
+
+*********************************************
+Analysis of series victimization in the NCVS
+*********************************************
+
+We conducted multiple analyses using NCVS data to assess the
+strengths and weaknesses for incorporating series
+victimizations into national victimization estimates. These
+analyses were designed to build on prior methodological
+studies of series victimizations in the NCS, such as Biderman
+and Lynch (1991), Dodge (1984a, 1984b, 1987), Dodge and
+Lentzner (1980), Reiss (1980, 1984), and in the NCVS, such as
+Lynch, Berbaum, and Planty (1998) and Planty and Strom
+(2007). 
+
+The first set of analyses examined the extent and nature of
+series victimization by assessing the most common
+characteristics and recent trends in the proportion of all
+incidents reported as series victimizations. The second set
+of analyses assessed the general patterns and statistical
+properties of victims' responses to the question "How many
+times did this incident occur?" Because the interviewer asked
+this before and after the details of the last victimization
+were collected, the consistency of victims' responses to
+these two items could also be assessed. The results of the
+first two sets of analyses informed decisions about how BJS
+would count series victimizations in its reports. 
+
+The third set of analyses examined how different treatments
+of series victimizations affected conclusions about the level
+of and annual rate of change for various types of violent
+crime, including the types of crime most commonly found among
+series victimizations. The fourth set of analyses assessed
+how different treatments of series victimizations would
+affect conclusions about the prevalence of various
+victimization characteristics, such as the percentage of
+crimes reported to the police or involving intimate partners.
+The results of the latter two sets of analyses showed how
+changing the treatment of series victimizations might affect
+some key findings about trends in victimization
+characteristics.
+
+Extent and nature of series victimization in the NCVS
+Extent of series victimization
+
+Beginning in 1993, BJS fully implemented the new NCVS
+methodology for measuring series victimization. In that year,
+respondents reported 6.7% of all violent victimizations and
+1.3% of property crime as series victimizations. Over the
+next 17 years, the proportion of victimizations that were
+reported as series victimizations declined (table 1). Series
+victimizations in both violent and property crime constituted
+a smaller proportion of crime in recent years compared to the
+past.
+
+When considering specific types of violent crime, series
+victimizations were slightly more common for rape and sexual
+assault and simple assault victimizations compared to
+incidents involving robbery and aggravated assault, and this
+pattern existed during both the 1993 to 1999 and 2000 to 2009
+periods (table 2). The NCVS data show that the proportion of
+violent victimizations reported as series victimizations
+declined over time for each category of violent crime. Among
+property crimes, series victimizations were slightly more
+common for burglaries than for other types of thefts, though
+series victimizations for property crime were less common
+than for violent crime. As was the case for violent crime,
+the proportion of property crimes that were reported as
+series victimizations declined over time. 
+
+Nature of violent series victimizations
+
+Prior research by Lynch, Berbaum, and Planty (1998), Planty
+and Strom (2007), and Dodge (1984a; 1984b; 1987) examined the
+characteristics of violent series victimizations in detail.
+These studies found that typical violent series
+victimizations primarily consisted of three categories of
+assaults: those that occurred in the home and involved
+intimate partners or other family members; those that
+occurred at school and often involved persons known to one
+another; and those associated with certain occupations,
+typically involving offenders who were strangers to the
+victim. Victims in the third category were often police
+officers or other types of security officers, as well as
+medical workers.
+
+We conducted a general replication of this past research
+using NCVS data from 2000 to 2009 to determine whether the
+characteristics of recent violent series victimizations
+remained similar. When a victim reported a series
+victimization, the interviewer obtained details about the
+most recent victimization. Assuming that the most recent
+victimization was similar to others in the series allowed for
+a description of the typical series victimization. The
+validity of this assumption could be examined because victims
+were also asked several questions about the similarities of
+the last victimization to others in the series. Analyses of
+the 2000 to 2009 NCVS data showed that the primary types of
+violent series victimization have changed little over time.
+
+Victims reported that the most recent series victimization
+typically took place at work, at home, or at school, as was
+generally the case during the early 1990s (table 3). Because
+school- and work-related victimizations were primarily youth-
+and adult-related phenomenon, we further disaggregated the
+series victimizations by the victim's age. Males and females
+were considered separately because intimate partner violence
+was predominantly experienced by females. Examination of
+series victimizations disaggregated by the victim's age found
+that youth age 12 to 17 accounted for 19% of series
+victimization reports, and adults age 18 or older accounted
+for 81% (table 4). As persons ages 12 to 17 composed
+approximately 10% of the population age 12 and older during
+2000 to 2009, the data suggested that youth experienced
+series victimizations disproportionately compared to adults.
+Persons age 12 to 17 also accounted for a disproportionate
+share (22%) of non-series victimizations; therefore, youth
+were more likely than adults to report experiencing violent
+series and nonseries victimizations.
+
+Among youth, males and females reported comparable numbers of
+series victimizations. With regard to the activity at the
+time of the most recent victimization, the proportion of
+series victimizations that occurred at school was similar for
+male and female youth (figure 1). Adult males and females
+also reported similar numbers of series victimizations during
+2000 to 2009. However, greater differences in the victim's
+sex were found among adults than among youth regarding their
+activity during the most recent series victimization (figure
+2). Adult male victims most often reported that the series
+victimization took place while at work or on duty, while
+adult females most often reported that series victimizations
+occurred at home. Both male and female adults reported
+roughly similar proportions of victimizations occurring on
+the way to work or elsewhere and at the home of their
+friends. 
+
+For adult males, 65% of the series victimizations that took
+place at work or on duty involved victims who worked in law
+enforcement and security occupations (table 5). For adult
+females in series victimizations, 31% involved health
+occupations, 13% involved law enforcement and security
+occupations, 9% involved community and social work, and 7%
+involved teaching occupations. In previous research, the
+types of occupations found to be most associated with
+repeated victimizations were law enforcement, health-related,
+and teaching. The same general pattern occurred during 2000
+to 2009, though the relatively low numbers of such cases in
+the data limit the ability to draw firm conclusions about the
+differences in occupations across men and women.
+
+The victim-offender relationship reported in the most recent
+series also varied according to age and sex. For male and
+female youth, the victim most often reported that they knew
+the offender (figure 3). Greater sex differences occurred
+among adults in the victim-offender relationship in series
+victimizations (figure 4). Adult females most often reported
+that the offender was an intimate partner, and least often
+reported that the offender was a stranger. In comparison,
+among adult males, series victimizations were most likely to
+involve an offender who was a stranger and least likely to
+involve an offender who was an intimate partner.
+
+To understand the possible similarities between the most
+recent victimization and others in the series, BJS examined
+the extent to which victims responded that the series
+victimizations involved the same offenders and whether they
+occurred in the same place. Victims were also asked whether
+the same thing happened each time and if the trouble was
+ongoing. Among both youth and adults, males and females most
+often reported that the victimizations occurred in the same
+place and that the same thing happened each time (table 6).
+However, females experienced more repeated violent
+victimizations at the hands of the same person than did
+males. 
+
+Summary
+
+The first set of analyses showed that series victimization
+reports have declined over time, as series incidents
+constitute a smaller proportion of all victimizations in more
+recent years when compared to the past. Victims were more
+likely to report a violent incident as a series victimization
+than theft as a series victimization. While violent series
+victimizations have declined in number and proportion over
+time, little has changed in the general nature of these
+victimizations. Similar to the findings from past research,
+analyses showed that violent series victimizations primarily
+consisted of domestic, school, and work-related violence.
+Overall, approximately 18% of series victimizations involved
+female intimate partner victims, 11% involved youth victims
+at school, and 36% involved adult victims at work. These
+three types of victimizations accounted for approximately
+two-thirds of all series victimizations reported from 1993 to
+2009. 
+
+Among both youth and adults, males and females reported
+series victimizations at similar levels. However, adult
+females experienced more repeated incidents of violence at
+the hands of the same person, particularly intimate partners,
+and adult males experienced more repeated victimizations at
+the hands of strangers.
+
+Victim responses to "How many times did this type of incident
+happen?"
+
+For victims of repeated violence, one of the reporting
+challenges is to recall exactly how many times the various
+victimizations occurred within a specific time period. Prior
+research shows that victims of repeated violence provide
+estimates of the number of times the incident occurred rather
+than counting directly from memory (Rand and Rennison, 2005;
+Planty and Strom, 2007). For some research purposes,
+estimations of the number of times an event occurred are
+sufficient, because the victims' responses can be treated as
+ordinal in scale to distinguish higher-rate victims from
+lower-rate victims.
+
+If the purpose is to provide a count of victimizations in
+order to calculate a national rate of victimization, the
+precision of the victim's response is very important. This is
+especially true when the event being measured is
+statistically rare. Under this condition, the inclusion of a
+small number of high-rate victims can result in national
+rates that vary widely. The challenges that victims of
+repeated crimes have in recounting the number of times an
+event occurred are not unique to surveys designed to estimate
+victimization. Instead, they are common to all survey
+research in which respondents are asked to recount events
+that they experience frequently (e.g., Sudman et al, 1996;
+Groves et al, 2004). 
+
+When victims report that a high number of incidents have
+occurred, the issue of respondent burden is also a concern.
+Prior research shows that when survey questions impose
+greater demands on respondents, some respondents will either
+refuse to answer the questions or state that they do not know
+the answer. Most survey developers are aware of this problem,
+and they design questionnaires to obtain the maximum amount
+of information from as few questions as possible. Depending
+on experience, the interviewer may also prompt and encourage
+high-rate victims to provide details on each victimization,
+thus determining whether a series or nonseries strategy is
+used to gather the victimization information (Dodge, 1984a).
+
+We analyzed victims' responses to being asked how many times
+the victimization occurred to assess two issues: (1) the
+degree to which respondents appeared to estimate the
+frequency of the victimizations rather than directly counting
+from their memories of the experiences, and (2) the extent to
+which interviewers decided to use the series victimization
+reporting strategy to reduce respondent burden. The first
+issue was assessed by comparing the observed distribution of
+the number of times series victims said they were victimized
+during the 6-month reference period to a theoretical
+distribution of expected responses. We also examined the
+consistency of victims' responses, as series victims were
+asked this question twice within a single interview for the
+NCVS: once before they answered questions about the most
+recent victimization, and once after those characteristics
+were ascertained. Comparing answers to the same question
+asked twice during an interview constituted a test-retest
+reliability assessment that provided information about the
+consistency of victims' responses.
+
+The second issue investigated the interviewers' use of series
+victimization reporting to reduce respondent burden. We
+assessed this issue by examining the distribution of the
+number of times all respondents said they were violently
+victimized during the 6-month reference period, and comparing
+the observed distribution of these counts against a
+theoretical distribution of expected responses to see if
+significantly fewer responses than expected occurred in the
+range of values leading up to 6 responses (i.e., fewer
+responses of 4 or 5 than of 6). If so, this would suggest
+that interviewers were engaging with respondents to decide
+how their repeated victimizations should be handled during
+the interview. If there were fewer than expected responses
+for values 4 or 5, then interviewers may have encouraged
+victims to report at least six victimizations so that the
+victim needed to only provide the details for the most recent
+victimization. 
+
+NCVS protocol asks victims who report five victimizations or
+fewer to report the details of each victimization. If the
+average length of time to administer the victimization form
+was 10 minutes, then victims who reported five victimizations
+may have spent 50 minutes discussing their experiences, while
+those who reported six incidents as a series victimization
+would have instead spent 10 minutes discussing the same
+experiences. Interviewers who sensed that the victim was
+unwilling or unable to provide the details for each
+victimization may have recorded 6 victimizations in response
+to the question "How many times did this type of incident
+happen?" so that only one victimization report was taken. If
+this occurred, incidents for such victims may have been
+overestimated and may not indicate the true number of
+victimizations.
+
+Distribution of series victim responses
+
+We examined the distribution of series victims' responses to
+being asked "How many times did this type of incident happen?"
+using data from the full NCVS period from 1993 to 2009 (figure
+5). The data indicated that 6 was the most common answer to
+this question, and responses tended to cluster at values such
+as 10, 12, 15, 20, 24, and 30. These clusters of responses
+tended to be either multiples of 5, 6, or 10, suggesting that
+victims provided estimates of the number of times the incident
+occurred rather than counting directly from memory. Answers
+that are multiples of 5 or 10 are common in survey research
+(Blair and Burton, 1987; Burton and Blair, 1991; Belli et al,
+2000). Answers that are multiples of 6 suggest that victims
+estimated the number of times the incident occurred each month
+and then multiplied it by 6 (the number months in the recall
+period). 
+
+Six was determined to be the modal response to how many times
+the incident occurred in all years of the NCVS, which was the
+minimum number required for invoking the series incident
+protocol. The median value was 10 in nearly all of the years
+(table 7). However, the mean number of incidents per series
+victimization varied considerably over the years due to some
+victims' reports of very high values, such as 480 or 750 times
+during a 6-month period. Also, the mean number of
+victimizations declined over time because of reductions in the
+number of very high estimates from series victims. From 2007
+to 2009, 30 was the maximum value for the number of times the
+victimizations occurred. Further investigation of this pattern
+revealed that this value reflected a programming decision to
+change from paper and pencil personal interviewing (PAPI) to a
+fully computerized administration of the NCVS interview (CAPI)
+in 2006. Since then, information about the number of times the
+victimizations occurred has been truncated to a maximum of 30.
+
+Responses to "How many times did this type of incident
+happen?" constituted count data, and we conducted a series of
+dispersion tests using the generalized linear models (GLM)
+commands in Stata statistical software to determine which
+distribution best fit series victims' responses (StataCorp,
+2007). The negative binomial distribution was found to be the
+best fit for these responses, because the reporting patterns
+were highly skewed or overdispersed as the variance exceeded
+the mean. The observed response distribution was subsequently
+compared to those predicted by the negative binomial
+distribution parameters, and a Chi-square goodness of fit test
+was used to assess the deviation of series victims' responses
+from the predicted distribution. This test indicated that
+significantly more responses occurred than expected for values
+such as 10, 12, 15, and 20, as well as a larger number of
+multiples of 5 and 6 (p < .001). It also indicated that
+victims reported fewer cases than expected for the values in
+between these cluster points (e.g., 7, 8, 9, and 11). 
+
+This statistical test supported the interpretation that the
+responses were not clustered randomly, but systematically.
+Series victims have some difficulty recounting precisely how
+many times violent victimizations occur within a 6-month
+period. Victims also approximate the number of times the
+victimizations happened by either selecting numbers that are
+multiples of 5, or by estimating the number of times the
+victimization occurred each month and then multiplying that
+number by 6.
+
+Consistency of responses
+
+After series victims finished answering questions about the
+most recent victimization in the series, they were asked "How
+many times did this kind of thing happen to you during the
+last 6 months?" This allowed BJS to test the reliability of
+the respondent's answers across similar questions asked at
+different times during the same interview. Approximately 22%
+of the data were missing for this question, so a comparison of
+these two items could only be done for 78% of violent series
+crime victims. The bivariate correlation between series
+victims' response to this question and the first question was
+high (r = .87, p<.001), and 89% of the responses overall were
+the same for both questions (figure 6). 
+
+The percentage of consistent responses varied depending on how
+many incidents the victims reported when first asked the
+question. For the majority of series victims who initially
+reported experiencing 6 to 10 victimizations, 93% reported the
+same number when subsequently asked. For those who initially
+reported 11 or more victimizations, 84% reported the same
+number when asked again. The relationship between the number
+of victimizations initially reported (6 to 10 compared to 11
+or more) and the consistency of responses (yes or no) was
+statistically significant (Chi-square = 36.93, df=1, p <
+.001).
+
+We also assessed whether victims who did not report the same
+count in both questions provided higher or lower estimates to
+the later question. The distribution of the discrepant answers
+balanced somewhat evenly with roughly 7% responding with a
+higher number to the later question and 4% responding with a
+lower number (table 8). Even though a small proportion of
+series victims provided different answers to the two
+questions, the magnitude of the discrepancies was often quite
+large. For victims who provided higher estimates to the later
+question, the mean change was 35.1 (standard deviation=61.5)
+victimizations. For victims who provided lower estimates to
+the later question, the mean change was 25.1 (standard
+deviation=41.3) victimizations. Additional analyses revealed
+that the magnitude of the discrepancy increased as the
+victims' responses to the initial question increased. For
+example, the mean discrepancy between the two estimates for
+victims who initially reported 10 or more incidents was 5.5
+victimizations (figure 7). For those who initially reported 18
+or more victimizations, the mean discrepancy was 8.4
+victimizations. For those who initially reported 60 or more
+victimizations, the average discrepancy was 15.2
+victimizations.
+
+Distribution of responses by all victims of violence
+
+To examine the possibility that interviewers recorded violent
+crime victims with fewer than six victimizations as having
+more than six victimizations and used the victim series
+protocol, we analyzed the distribution of all violent crime
+victims' responses to being asked "How many times did this
+type of incident happen?" Both the mode and the median answer
+to this question was one, indicating that the vast majority of
+violent crime victims reported one victimization over the
+6-month recall period. 
+
+The negative binomial distribution was the best fitting
+distribution for the responses of all violent crime victims
+because the values were highly skewed (figure 8). A comparison
+between the observed distribution of responses to those
+predicted by the negative binomial distribution revealed that
+significantly fewer responses were reported than expected for
+values 4 and 5, and significantly more responses were reported
+than expected for 6. This pattern of responses suggested that
+interviewers may have decided to use the series victimization
+reporting protocol to reduce respondent burden. 
+
+Summary
+
+Our assessment of series victims' responses to being asked
+"How many times did this type of incident happen?" confirmed
+past research findings suggesting that many series victims
+have difficulty recalling exactly how many times violent
+victimizations occurred within a 6-month reference period. The
+observed patterns of response clustering indicated that many
+victims provided estimates of the number of times the
+victimizations occurred rather than counting directly from
+memory. 
+
+Comparisons of the counts from the two different questions
+suggested that even though series victims may have
+approximated the number of times the events happened, a large
+majority did so consistently. Those discrepancies that did
+occur were often large in magnitude, especially when the
+initial response to the question suggested higher counts of
+violent victimization. 
+
+In addition, when we examined the responses to the question
+using data from all victims of violence, evidence suggested
+that interviewers classified some victims who may have had
+four or five victimizations as series victims, perhaps because
+the interviewer decided that it was important to use the
+series victimization protocol to reduce respondent burden. For
+these cases, a count of 6 victimizations was likely to be an
+overestimate of the number of victimizations that occurred.
+
+Counting series victimizations
+
+Prior research findings and our analyses suggest using a
+capping method when counting series victimizations for
+national victimization rates to limit the influence of higher
+and less consistent reports. Using a capping strategy made it
+necessary to determine at what level the cap should be set.
+Other countries that provide victimization rates (rather than
+prevalence rates) used a cap of five for victimizations
+similar in nature (using a 1-year recall period). A comparable
+cap of five for the NCVS would be illogical, as series
+victimizations must include at least six victimizations
+according to the definitions used in the NCVS. Although the
+modal response category by series victims is six
+victimizations for all NCVS years, a cap of six would be too
+low, as it would not capture the relative frequency of
+victimizations for the majority of series victims. 
+
+The median response count for series victims of violence was
+10 victimizations per the 6-month recall period across nearly
+all NCVS years. The decision was made to use a value of 10 as
+the cap on series victimizations because it was found to be
+stable over time and included the count provided directly from
+the victim for the majority of series victimization cases. The
+cap of 10 was also selected because the consistency of
+responses began to decline at that point, and the magnitude of
+the discrepancies began to increase.
+
+Now when the NCVS national victimization rates are estimated
+to include series victimizations, the experiences of all
+series victims will be taken into consideration. When series
+victims state that the number of times the victimization
+occurred is 10 or fewer, those experiences will be counted at
+their stated value using the victim's response provided when
+first asked to report this count. Series victims who provide
+responses that are greater than 10 will have their experiences
+counted as 10 victimizations so that the overall impact on the
+victimization rates of the higher and less consistent
+estimates will be reduced. Series victims who are unable to
+provide a count of the number of times the victimization
+occurred, but who report that it occurred at least six times,
+will be counted as having experienced 6 victimizations (the
+modal response category).
+
+This new series counting decision balances the concerns of
+wanting victimization rates to include the experiences of
+high-rate victims while understanding that multiple sources of
+error exist in estimates of the number of victimizations that
+occurred. These sources of error include less consistency when
+the counts are higher, a greater magnitude in the
+discrepancies when the counts are higher, and possible
+overestimation of some victimization counts in instances where
+victims report four or five victimizations, but interviewers
+then use the series protocol requiring a minimum of six
+victimizations to reduce respondent burden. 
+
+Beginning with NCVS data for 2010, the annual BJS report
+Criminal Victimization included estimates of violent
+victimization that took series incidents into account by using
+a cap of 10 victimizations per series report (figure 9). (For
+more information, see Criminal Victimization, 2010, NCJ
+234408, September 2011.) To assess the impact of the new
+series counting, the rates of violent victimization were
+compared without the inclusion of series victimizations to the
+rates that included series victimizations from 1993 to 2009.
+
+********************************************************
+Impact of including series victimizations on national
+estimates of violence
+********************************************************
+
+Including series victimizations in the rate estimation
+procedure required subsequent analyses to determine how the
+new counting procedure affected conclusions about the levels
+and trends in rates for specific types of crime, such as those
+most typically found in series incident reports. These
+analyses examined whether incorporating series victimizations
+would produce different conclusions about the trends in the
+violent crime. While the level of the rates would be higher,
+it was unknown whether the trends from 1993 to 2009 would
+differ depending on the treatment of series victimizations.
+The research extended the earlier analyses of series
+victimization by Planty and Strom (2007) that covered the
+period from 1993 to 2000 by including data from the subsequent
+decade. 
+
+From 1993 to 2009, the victimization rates ranged from 23% to
+37% lower than the rates obtained when series victimizations
+were included. Differences between the two estimates were
+statistically significant in each year (p < .05). However, the
+introduction of series victimizations in these estimates did
+not affect the general trends in the violent victimization
+rate. Both trends showed a similar pattern of decline from
+1993 to 2009. The decline from 1993 to 2009 was 70% when
+violent victimization rates excluded series victimizations,
+and the decline was 76% when series incidents were included.
+Similarly, the declines ranged from about 30% to 52% from 2001
+to 2009. The average change estimate from 2008 to 2009 showed
+a 6% decline with the inclusion of series victimizations and
+an 11% decline without the inclusion of series victimizations.
+Due to the declines in the proportions of violent
+victimization reported as series incidents, BJS expects a
+greater similarity over time in the levels of violent
+victimization under the two counting schemes.
+
+When attempting to compare specific crime types including and
+excluding series victimizations, conceptual issues arose
+because victimization details were gathered only for the most
+recent incident in the series victimization. They were the
+only details available for the purpose of classifying the
+victimizations into specific types of crime, and the new
+series counting procedure treated all other victimizations in
+the series as the same. It seemed reasonable to assume that if
+the most recent victimization was violent, then the other
+victimizations in the series were also violent. Also, when a
+victim reported that the victimizations were of the same type
+and that the most recent victimization was sexual violence,
+one may assume that the other victimizations in the series
+were similar because sexual aspects of assaults are highly
+memorable. 
+
+However, it was less clear whether victims thought about
+specific aspects of the victimization necessary for
+classification, such as a theft in an attempted or completed
+robbery, when asked if the incidents were similar to each
+other in detail. If the objective was detailed classification
+of victimization, the assumption of incident homogeneity
+across series victimizations for some types of crime was less
+likely to be supported. For example, in the case of repeated
+bullying among youth at school, the most recent victimization
+may have involved the attempted or completed taking of
+property by force; however, the majority of the other
+victimizations experienced by the victim may not have included
+this specific element, which distinguishes an assault from a
+robbery. 
+
+The counting of series aggravated assaults and simple assaults
+raised similar concerns about incident homogeneity. The main
+difference between a simple assault and an aggravated assault
+was whether a serious injury resulted from the victimization
+or whether a weapon was used during the assault. Victims may
+not have been making such distinctions when asked whether a
+series of victimizations were similar to each other in detail.
+It was also possible that victims recalled and focused on
+other aspects of the victimization, such as the context in
+which the victimization occurred (e.g., at school, home, or
+work) or whether it involved the same offender (e.g., intimate
+partner violence). In addition, when victims reported about
+the most recent victimization, they may have been instead
+reporting the details of the most salient of recent
+victimizations, which was likely the more serious type of
+assault in the series. Without further questioning, it was
+difficult to know exactly what victims were thinking about
+when asked if the series of victimizations were similar to
+each other in detail. This issue about the nature and degree
+of similarity across series victimizations became more
+important as the level of detail in the crime classification
+scheme increased.
+
+To gain further information about violent series and 
+nonseries victimization characteristics, we examined whether
+series victimizations appeared to be significantly different
+in their details compared to nonseries victimizations. If the
+detailed characteristics of series and nonseries
+victimizations did not statistically differ from each other,
+it would have suggested that victims reported about the most
+recent victimization when asked to do so rather than reporting
+about the most serious victimization in the series.
+
+A comparison of the distribution of specific characteristics
+for series and nonseries victimizations suggested that the two
+types of victimization reports were significantly different
+(Chi-square=180.2, df=19, p < .001) (table 9). In other words,
+series victimization reports differed in at least some
+characteristics from nonseries victimization reports of
+violence. However, the magnitude of the differences between
+series and nonseries victimizations was relatively small
+(V=.07). (See Methodology for more information about the
+standard error computations.) 
+
+The specific victimization characteristic that accounted for
+much of this observed difference was whether the victimization
+was primarily a verbal threat of assault. A verbal threat of
+assault was the most common type of violent victimization but
+had somewhat more prevalence among series victimizations.
+Verbal threats of assault constituted 27% of violent
+victimizations in nonseries and 36% of violent victimizations
+in series reports. These patterns suggested that the
+characteristics of series victimizations were only slightly
+different in nature from nonseries victimizations, and that
+victims were likely to report about the most recent
+victimization in the series instead of the most serious
+victimization in the series. This helped confirm that the
+inclusion of series victimizations in the victimization rate
+will have had a slightly greater effect on simple assault
+rates than on rates of more serious forms of violence, because
+verbal threats are generally categorized as simple assaults in
+BJS reports.
+
+The degree to which the inclusion of series victimizations
+would affect crime-specific rates depended on the relative
+rarity and the proportion of series victimizations for that
+type of crime. Annual estimates of rape and sexual assault
+varied more from year to year depending on the inclusion of
+series victimizations, because this type of crime occurred
+less often than nonsexual assaults. Rape and sexual assaults
+contained a higher proportion of series victimizations
+compared to robbery and aggravated assault. When annual
+estimates were sensitive to the inclusion of series
+victimizations, percentage change estimates across selected
+years were more likely to vary.
+
+Prior research by Planty and Strom (2007) found that the
+degree to which the inclusion of series victimizations
+affected the annual victimization rates varied by crime type.
+Using data from the NCVS from 1993 to 2000, they found that
+estimates of rape and sexual assault were most sensitive to
+the inclusion of series victimizations, as were simple
+assaults. Our research suggested similar conclusions to those
+reported by Planty and Strom (2007).
+
+Impact of including series victimizations on major crime
+categories
+
+Rape and sexual assault rates
+
+For rape and sexual assault, the rates excluding series
+victimizations ranged from 0% to 48% lower than the rates
+obtained when series victimizations were included (figure 10).
+In 1998, 2004, 2005, and 2007, the differences between the two
+estimates were not statistically significant (p < .05),
+primarily because victims reported very few series
+victimizations of these types. In each of these years, the
+total unweighted number of series rape and sexual assault
+victimizations reported was three or fewer. The inclusion of
+series victimizations in the estimates generally did not
+affect the long-term trends in rape and sexual assault,
+although the estimate of the magnitude of change over time
+varied depending on the years selected for comparison. 
+
+While both trends showed a similar pattern of decline from
+1993 to 2009, more annual variation occurred in the rates that
+included series victimizations. From 1993 to 2009, rape and
+sexual assault rates declined 80% when excluding series
+victimizations and declined 72% when including series
+victimizations (table 10). When estimating the change from
+2001 to 2009, the rates declined 54% when excluding series
+victimizations and 42% when including series victimizations.
+The most recent annual change in this series (i.e., from 2008
+to 2009) was estimated to be a 39% decline excluding series
+victimizations and a 13% decline including series
+victimizations. Since BJS reports included tests for whether
+each percentage change estimate was statistically significant,
+the same general conclusion would have been made about the
+changes in rape and sexual assault from 2008 to 2009
+regardless of whether series victimizations were included. In
+this instance, neither change estimate was significant.
+
+Robbery rates
+
+Robbery rates that excluded series victimizations ranged from
+about 5% to 28% lower than rates that included series
+victimizations (figure 11). In several years (1998, 2001 to
+2005, 2008, and 2009), the differences between the two
+estimates were not statistically significant (p < .05) because
+very few victims reported series victimizations of robbery. In
+each of these years, the total annual number of unweighted
+series robbery victimization reports was five or fewer. The
+long-term trends in robbery tended to not be sensitive to the
+inclusion of series victimizations, but the estimates of the
+magnitude of change also varied depending on the years
+selected for comparison. 
+
+Both trends showed similar rates of declines from 1993 to
+2009. the rate declined 65% when excluding series
+victimizations and declined 70% when including series
+victimizations. From 2001 to 2009, the rate declined 24%
+excluding series victimizations and 14% including series
+victimizations. From 2008 to 2009, the rate declined 4%
+excluding series victimizations and 7% including series
+victimizations. Even when the differences in the change
+estimates appeared to be somewhat large in magnitude (e.g.,
+down 24% compared to down 14%), the same general conclusion
+might have been drawn. In this instance, both estimates
+revealed a significant decline; however, what remains unclear
+is which estimate BJS should use to indicate the size of the
+decline.
+
+Aggravated assault rates
+
+Aggravated assault rates that excluded series victimizations
+ranged from about 12% to 35% lower than rates that included
+series victimizations, and the differences in the annual rates
+were statistically significant in all of the years except 2001
+and 2008 (p < .05) (figure 12). There were 9 unweighted series
+aggravated assault victimization reports in 2001 and 4 in
+2008. The long-term trends in aggravated assault were
+generally similar with and without series victimizations, but
+the estimates of the magnitude of change varied depending on
+the years selected for comparison.
+ 
+Both trends show declines from 1993 to 2009, but the decline
+was 57% when series victimizations were excluded and 75% when
+series victimizations were included. From 2001 to 2009, the
+rate declined 39% excluding series victimizations and declined
+33% including series victimizations. However, estimates
+comparing 2008 to 2009 appeared to suggest different
+short-term trends depending on how series victimizations were
+treated. When series victimizations were excluded, the
+aggravated assault rate appeared to decline 3% from 2008 to
+2009. When series victimizations were included, the rate of
+aggravated assaults appeared to increase 5% during the same
+time period. Neither of the more recent changes (2008 to 2009)
+in aggravated assault were statistically significant, so the
+general conclusion that no significant change occurred in this
+type of victimization from 2008 to 2009 held regardless of
+which series counting procedure was used.
+
+Simple assault rates
+
+Simple assault rates with and without the inclusion of series
+victimizations exhibited generally similar long-term trends
+(figure 13). The rates that excluded series victimizations
+ranged from about 23% to 42% lower than those that included
+series simple assaults. These level differences were
+statistically significant (p < .05) in all years, primarily
+because the proportion of simple assaults reported as series
+victimizations was relatively high compared to other types of
+violence. 
+
+The fewest unweighted number of series simple assault reports
+was 28 in 2009. The trends showed roughly similar rates of
+declines from 1993 to 2009, with a 62% decline when series
+victimizations were excluded and 71% decline when series
+victimizations were included. The declines from 2001 to 2009
+were also comparable, with a 29% decline when series
+victimizations were excluded and a 33% decline when series
+victimizations were included. The percentage change from 2008
+to 2009 also suggested similar rates of decline. During this
+time period, the simple assault rate declined 13% when
+excluding series victimizations and 16% when including series
+victimizations.
+
+Impact of including series victimizations on violence rates
+for types often reported as series
+
+Female intimate partner violence
+
+Among the most typical types of series victimizations,
+intimate partner violence was the most consistent in its
+characteristics across all victimizations in the series. For
+example, from 1993 to 2009, female intimate partner series
+victimizations were reported to have been committed by the
+same offender in 99% of the series reports, and in 86% of the
+series reports the victim said that the same thing happened
+each time. Unlike the annual Criminal Victimization bulletin,
+BJS special topic publications about female intimate partner
+violence have included series victimizations by counting the
+series victimization as one.
+
+BJS practice has been to count series victimizations as one
+victimization in the intimate partner violence reports, rather
+than as the number of victimizations that the victim reported
+for the series (with or without a cap), due to concerns about
+whether the characteristics of the most recent victimization
+were the same for other victimizations in the series. Counting
+a series victimization as one victimization has both
+advantages and drawbacks. The advantage is that the details
+the victim provided are known for at least one victimization
+(that is, the last victimization in the series), and no
+assumptions are made about the last victimization's
+similarities to other victimizations in the series. The
+drawback is that at least six victimizations must be reported
+to qualify for the series incident protocol; therefore, the
+rates are clearly underestimated by counting the victimization
+as one. However, counting a series victimization as the number
+of victimizations that the victim reported (with a cap of 10)
+produces the same uncertainties because the degree of
+similarity in characteristics across the victimizations in the
+series is unknown.
+
+To assess how the treatment of series victimizations affects
+the levels and trends in intimate partner violence, we
+estimated female victimization rates by counting series
+intimate partner violence as one, then compared those rates to
+the estimates of the number of times the victim said the
+victimizations happened, using a cap of 10 (figure 14). The
+definition of intimate partner violence used here was a
+summary measure including all forms of violence (i.e., rape
+and sexual assault, robbery, and aggravated and simple
+assault). Female rates of intimate partner violence that
+included series victimizations counted as one range from about
+25% to 49% lower than those that included series
+victimizations using the alternative counting strategy. The
+level differences in the annual rates were statistically
+significant in each year (p < .05).
+ 
+While the differences in the levels were apparent, the overall
+trends showed roughly similar patterns across the period from
+1993 to 2009. During this time, annual rates of female
+intimate partner violence declined 51% when series
+victimizations were counted as one and declined an estimated
+55% when series victimizations were counted using the victim
+reports (table 11). The percentage change from 2001 to 2009
+also differed only slightly. When series victimizations were
+counted as one, the rates indicated a 12% decline from 2001 to
+2009. When the victimizations were counted using the victim
+reports, the rates suggested a 15% decline. From 2008 to 2009,
+counting series victimizations as one suggested a 6% increase
+in intimate partner violence, while counting them using the
+victim reports resulted in a 1% decline. However, neither of
+the 2008 to 2009 change estimates was significant, generally
+concluding that no significant change in female intimate
+partner violence occurred from 2008 to 2009. Even though the
+actual percentage change estimates were somewhat sensitive to
+the years under consideration, these differences in the
+percentage change estimates were not statistically
+significant.
+
+Youth violence at school
+
+A notable proportion of series victimizations involved victims
+ages 12 to 17 who reported that the last victimization in the
+series occurred at school. To assess how estimates of youth
+violence at school were affected by the inclusion of series
+victimizations, BJS compared the victimization rates with both
+series victimizations included and excluded using the victim's
+report capped at 10. 
+
+From 1993 to 2009, youth reported that the same thing happened
+each time in 84% of the series reports. Unlike intimate
+partner violence, these victimizations were not overwhelmingly
+committed by the same person. Victims responded that the
+victimizations at school were committed by the same offender
+in 54% of the reports, that some of the victimizations
+involved the same offender in 34% of the reports, and that
+none of the victimizations involved the same offender in 7% of
+the reports. While the nature of the victimizations may have
+been similar from the victim's perspective, the same offenders
+may not have been involved in a large proportion of these
+series victimizations. Based on this analysis, if the purpose
+is to estimate the characteristics of offenders in youth
+violence victimizations, it cannot be assumed that the
+characteristics of the offenders in the most recent
+victimization are indicative of others in series. However, if
+the purpose is to estimate rates of violent youth
+victimization at school, then the inclusion of series
+victimizations would appear to be reasonable.
+
+Victimization rates of youth violence at school that excluded
+series victimizations ranged from about 13% to 52% lower than
+rates that include series victimizations using the victim's
+report capped at 10 (figure 15). The level differences in the
+annual rates were statistically significant (p < .05) in each
+of the years except 2002, 2004, and 2007. 
+
+While the differences in the levels in some of the years were
+considerable, the two trends showed roughly similar rates of
+declines from 1993 to 2009. The rate of youth violence at
+school declined 54% when excluding series victimizations. When
+series victimizations were included and counted using the
+victim reports, the decline was somewhat larger at 66%. The
+magnitudes of the declines from 2001 to 2009 differed more
+depending on the treatment of series victimizations. Between
+2001 and 2009, the rates suggested a 15% decline when series
+victimizations were excluded. However, when the series
+victimizations were counted using the victim reports, the
+rates suggested a 31% decrease which was twice as large.
+Between 2008 and 2009, the rates for youth violence at school
+suggested a 13% decrease when excluding series victimizations,
+while the rates including series victimizations showed a 4%
+decrease. Long-term trends in youth violence at school
+suggested somewhat similar declines under both treatments of
+series victimizations. However, the percentage change
+estimates were sensitive in some instances to the treatment of
+series victimization and the years selected for consideration.
+
+Adult violence at work or on duty
+
+The largest proportion of series victimizations were those
+that the victim reported to have occurred at work or on duty.
+In 80% of these series victimizations, the victim said that
+the same thing happened each time, which was slightly lower
+than those for female intimate partner violence and youth
+violence at school. Victims reported that the victimizations
+involved all the same offender in only 12% of the series
+reports for violence at work. In the case of work-related
+violence, it is not reasonable to assume that the offender
+characteristics found in the series report were the same as
+those for the other victimizations in the series.
+
+We estimated rates of violence at work or on duty that
+included and excluded series victimizations for persons ages
+18 or older, because adults overwhelmingly reported
+work-related series victimizations rather than youth. Rates of
+work-related victimization that excluded series victimizations
+ranged from about 33% to 57% lower than the rates that
+included series victimizations using the alternative counting
+strategy (figure 16). The level differences in the annual
+rates were statistically significant in each of the years (p <
+.05). The two trends showed roughly similar rates of declines
+from 1993 to 2009. The rate of violence at work or on duty
+declined 75% when excluding series victimizations. When series
+victimizations were included and counted using the victim
+reports, the decline was slightly larger at 82%. In fact,
+rates of adult violence at work have declined somewhat faster
+than rates of intimate partner violence and youth violence at
+school. 
+
+The estimated magnitudes of the declines from 2001 to 2009
+differed a bit more. When series victimizations were excluded,
+the decline was 48%. However, when counted using the victim
+reports, the decline was 43%. The percentage change in
+work-related violence from 2008 to 2009 was also similar. The
+rates that excluded series victimizations suggested a 23%
+decrease, while the rates that include series victimization
+indicated an 18% decrease. 
+
+Summary
+
+Including series victimizations to estimate the rates of
+specific forms of violence increased the levels substantially.
+The magnitude of the impact of including series victimizations
+varied across years and crime types, in part reflecting the
+relative rarity of a particular type of offense. This was not
+unexpected given the findings from previous research on this
+issue (e.g., Planty and Strom, 2007). 
+
+The apparently random component of year-to-year variation
+among some crime types suggested that caution be used when
+estimating the magnitude of change for specific forms of
+violence between any two years. Using both methods of counting
+series victimizations would be the most comprehensive approach
+for assessing change in specific forms of violence, as well as
+viewing temporal changes over comparatively long periods of
+time. Counting series victimizations using both methods would
+provide a more complete understanding of change in violent
+victimization by giving context to the difference between the
+two rates and their change estimates.
+
+Impact of series counting decisions on selected victimization
+characteristics
+
+The final set of analyses assessed how different treatments of
+series victimizations affected conclusions about the
+prevalence of various victimization characteristics, such as
+the percentages of violent victimizations reported to the
+police, resulting in injury, involving a weapon, or involving
+strangers and intimate partners. We selected these specific
+victimization characteristics because they were routinely
+reported in the Criminal Victimization bulletins. 
+
+Victimization characteristics were assessed for total violent
+victimization and not for any specific type of violence,
+because the findings showed that the crime-specific rates
+could be sensitive to annual fluctuations even without further
+disaggregation by victimization characteristics. Also, many
+cases had an insufficient number of victimizations per crime
+type in any given year to support such analyses. In many BJS
+reports, analyses included series victimization
+characteristics that were counted as one victimization, as
+victims provided details on only the last incident in the
+series.  The results from this series counting strategy were
+compared to those that resulted from counting series
+victimizations using the victim report and a cap of 10
+victimizations per series.
+
+Percentage of violent victimization reported to police
+
+When the two series counting strategies were used to estimate
+the percentage of violent crimes reported to the police, the
+data showed very similar levels and trends (figure 17). For
+any given year, the difference in the two estimates was less
+than two percentage points. Because the differences in the
+percentage of violent crimes reported to police were minimal,
+descriptions of the overall trends in reporting were also very
+similar. Furthermore, estimates of changes in police reporting
+rates for total violence were not sensitive to the years
+selected for comparison. The similarities in these rates
+suggested that the average proportion of nonseries violent
+victimizations reported to the police was roughly equal to the
+average proportion reported to the police in the series report
+about the last victimization. The lack of notable differences
+in the two reporting trends did not prove that the various
+series victimizations were identical. Instead, we found that
+the rate of violence reported to the police for the last
+victimization in the series was similar to the rate for
+nonseries reports of violent victimization.
+
+Percentage of violent victimization resulting in injury
+
+When using the two counting strategies for series
+victimization to estimate the percentage of violent crimes
+resulting in injury, the data suggested similar levels and
+trends (figure 18). For each year, the difference in the two
+estimates was less than three percentage points. For the
+majority of years, counting series victimizations as one
+victimization resulted in a slightly higher estimate of the
+proportion injured. Because the differences in the percentage
+of violent crimes resulting in injury were minimal across the
+two series counting strategies, descriptions of the overall
+trends were similar, and specific change estimates would not
+be sensitive to the years selected for comparison. 
+
+The similarities in the proportions injured indicated that the
+average proportion of nonseries violent victimizations
+resulting in injury roughly equaled the average proportion
+found for the last victimization in the series. The proportion
+injured was slightly higher when series victimizations were
+counted as one due to the slightly greater proportion of
+simple assaults that were reported as series victimizations,
+and injury is a key characteristic that distinguishes simple
+assaults from aggravated assaults.
+
+Percentage of violent victimization involving weapon use
+The series counting strategy had limited influence on the
+levels or trends in the percentage of violent victimizations
+involving weapons use (figure 19). The difference in the two
+estimates was less than four percentage points for each year,
+and descriptions of the overall trends were similar regardless
+of the series counting strategy. 
+
+In most years, counting series victimizations as one produced
+a slightly higher estimate of the proportion of violent
+victimizations involving weapons. As with injury rates, this
+small difference indicated that the average proportion of
+nonseries violent victimizations involving a weapon was
+similar to the average proportion in the last victimization of
+the series. The proportion tended to be slightly higher when
+counted as one because victims reported a somewhat greater
+proportion of simple assaults as series victimizations
+compared to aggravated assaults and robbery, which most often
+involved the use of a weapon. Counting series victimizations
+using the victim reports capped at 10 is unlikely to change
+conclusions about the proportion or trends of violent
+victimizations that involved a weapon.
+
+Percentage of violent victimization involving strangers
+
+The series counting strategy had some influence on the
+percentage levels of violent victimizations involving
+strangers; however, the counting strategy did not influence
+the overall trends in this proportion (figure 20). The
+difference in the two estimates was less than four percentage
+points in each year, and descriptions of the overall trends
+were similar regardless of the series counting strategy. 
+
+In most years, counting series victimizations as one produced
+a slightly higher estimate of the proportion of violent
+victimizations involving strangers, indicating that the
+average proportion of nonseries violent victimizations
+involving strangers was slightly higher than the average
+proportion found in the last victimization of the series. This
+pattern was expected because intimate partner violence was
+more likely to be reported as a series victimization than was
+stranger violence. Counting series victimizations using the
+victim reports capped at 10 likely would have a limited effect
+on conclusions drawn about the proportion of violent
+victimizations involving strangers in any given year.
+
+Percentage of violent victimization involving intimate
+partners
+
+Compared to stranger violence, the series counting strategy
+had a proportionately greater influence on the levels and
+trends of violent victimizations involving intimate partners
+(figure 21). The difference in the two estimates was less than
+four percentage points for each year; however, when compared
+to the lower overall base percentage, the effect of including
+series victimizations was proportionately larger. 
+
+Unlike other victimization characteristics considered,
+counting series victimizations as one produced a lower
+estimate of the proportion of violent victimizations involving
+intimate partners, because victims were more likely to report
+this form of violence as a series victimization than violence
+involving other types of victim-offender relationships. 
+
+Since intimate partner victimization involved primarily female
+victims, we examined how the series counting strategy affected
+the estimates for female victims only (figure 22). Among
+female victims, the difference in the two estimates was less
+than about six percentage points for each year. In 2008, for
+example, counting series victimizations as one suggested that
+the percentage of female violent victimizations involving
+intimate partners was 24%, while counting series
+victimizations using the victim reports capped at 10 suggested
+it was 30% a percentage more similar to that found in studies
+of female homicide victims from 1976 to 2005. (See the BJS
+website for more information on homicide trends in the U.S. by
+sex.)
+
+Even though the series counting strategy had an effect on the
+estimated proportion of female victimizations involving
+intimate partners, the long-term trends based on either
+counting strategy were generally similar. Both estimates
+suggested that the proportion of female victimization
+involving intimate partners was relatively stable from 1993 to
+2005, and then appeared to increase some from 2006 to 2009.
+However, the rate of female intimate partner violence
+exhibited no clear upward trend during the later years in the
+series. The trends suggest that declines in female
+victimization in more recent years were greater for types of
+violence that did not involve intimate partners.
+
+Summary
+
+For the purpose of estimating selected victimization
+characteristics, the way in which series victimizations are
+counted will have limited, but mixed effects. For
+characteristics such as the percentage reported to the police,
+the proportion resulting in injury, and the proportion
+involving weapon use, few differences occurred in either
+overall proportions or the general trends in those
+proportions. The similarity in the levels for reporting to the
+police, injury, and weapon use suggested that the average
+proportions of these characteristics in nonseries
+victimizations were very similar to the average proportions
+found in the series report. 
+
+Conversely, when the victimization characteristic was the
+victim-offender relationship, the treatment of series
+victimizations had somewhat different effects on the
+proportions of violence involving strangers or intimate
+partners. The percentage point differences under the two
+series counting strategies were slightly larger, but the
+trends in these proportions were minimally affected. 
+
+Intimate partner violence continues to emerge as one of the
+main types of series victimization; therefore, the counting
+strategy mattered more for assessing victim-offender
+relationships. Since these selected victimization proportions
+appear to have been minimally affected, conclusions based on
+either series counting strategy were generally similar.
+However, for the purpose of assessing victim-offender
+relationships, relying primarily on the series counting
+strategy that uses the victim report with a cap of 10 may be
+more useful. The information from these types of
+victimization-level analysis should always be considered in
+conjunction with changes in actual rates of stranger, intimate
+partner, and other forms of violence.
+
+***********
+Conclusions
+***********
+
+These analyses assessed the strengths and weaknesses of
+various options for incorporating series victimizations into
+national estimates. The findings must be considered in order
+to make decisions about how series victimizations should be
+incorporated into annual reports about criminal victimization. 
+Building on prior research that examined the nature of series
+victimizations, these analyses showed that series
+victimizations constituted a smaller proportion of
+victimization reports over time. While the proportion of
+series victimizations declined over time, the nature of these
+series victimizations is similar to those reported nearly two
+decades ago. These high-rate violent victimizations tended to
+involve either adult violence at work, female intimate partner
+violence, or youth violence at school.
+
+To incorporate these experiences in national victimization
+rates, the analyses also assessed the statistical properties
+and consistencies in victims' responses to being asked "How
+many times did this type of incident occur?" These results
+suggested that many victims provided estimates of the number
+of times the victimizations occurred rather than directly
+counting such victimizations from memory. Some consistency was
+found in victims' estimates; however, the reports that
+involved higher counts when victims were first asked the
+question were somewhat less consistent, and the discrepancies
+that did occur in the higher counts were often large in
+magnitude. In addition, an assessment of all victims'
+responses to the question suggested that some victims who may
+have had fewer than six victimizations were classified as
+series victims and counted as having six victimizations,
+perhaps to reduce respondent burden.
+
+Using the results from the full set of analyses, BJS will
+count series victimization using the victims' estimates of the
+number of times the victimizations occurred over the past 6
+months, but will cap the number of victimizations reported at
+10. Capping strategies are common in victimization surveys
+around the world. Other surveys either use a lower cap or do
+not produce estimates of the numbers or rate of
+victimizations, choosing instead to produce estimates of the
+number of victims, which eliminates the need to make
+victimization counting decisions. This BJS strategy for
+counting series victimizations balances the desire to account
+for the experiences of high-rate victims when estimating
+national rates with indications that various sources of error
+exist in series victims' estimates about the number of times
+these victimizations occurred. 
+
+Not unexpectedly, the inclusion of series victimizations in
+national rates results in rather large increases in the level
+of victimization especially during 1990s. For the most part,
+conclusions about victimization trends are generally similar
+regardless of which series victimization counting strategy is
+used. 
+
+When the focus of the analysis switched from estimating trends
+in victimization rates to estimating trends in the proportion
+of victimizations that exhibited various victimization
+characteristics (e.g., the percentage reported to police or
+involving a weapon) the counting strategy used for series
+victimizations had little impact. BJS found greater
+differences in the levels but not the trends in the proportion
+of victimizations involving intimate partners, primarily
+because intimate partner violence is a major form of series
+victimization. 
+
+Though the ways of counting series victimizations and
+incorporating them in national victimization rates affects the
+level of victimization, previous reports do not appear to have
+mischaracterized the overall trends by excluding series
+victimizations from the national estimates. For the most part,
+reports about victimization characteristics do not appear to
+be very sensitive to the series counting strategy. The
+victim-offender relationship is an important exception, as
+counting series using the victim report capped at 10 produced
+some increases in the proportion of female victimization
+involving intimate partners. Even though the increase
+occurred, the trends in these proportions remained the same.
+
+***********
+Methodology
+***********
+
+The National Crime Victimization Survey (NCVS) is an annual
+data collection conducted by the U.S. Census Bureau for the
+Bureau of Justice Statistics (BJS). The NCVS collects
+information on nonfatal victimizations, reported and not
+reported to the police, against persons age 12 or older from a
+nationally representative sample of U.S. households.
+Violent crimes measured by the NCVS include rape or sexual
+assault, robbery, aggravated assault, and simple assault.
+Property crimes include household burglary, motor vehicle
+theft, and theft. Victimizations that occurred outside of the
+U.S. are excluded from this report. 
+
+The survey results presented in this report are based on data
+gathered from residents living throughout the United States,
+including persons living in group quarters, such as
+dormitories, rooming houses, and religious group dwellings.
+Armed Forces personnel living in military barracks and
+institutionalized persons, such as correctional facility
+inmates, were not included in the scope of this survey.
+ 
+Each housing unit selected for the NCVS remains in the sample
+for 3 years, with each of seven interviews taking place at
+6-month intervals. An NCVS field representative's first
+contact with a household selected for the survey is in person.
+The field representative may conduct subsequent interviews by
+telephone.  
+
+Methodological changes to the NCVS in 2006
+
+Methodological changes implemented in 2006 may have affected
+the estimates for that year to an extent that some estimates
+were not considered comparable to those of previous years.
+Evaluation of 2007 and later data from the NCVS conducted by
+BJS and the Census Bureau have found a high degree of
+confidence that estimates for these years are consistent with
+and comparable to those for 2005 and previous years. See
+Criminal Victimization, 2007, BJS Web, NCJ 224390, December
+2008, for more information.
+
+Series victimizations in intimate partner violence
+
+Unlike other types of crime in this report, estimates for
+intimate partner violence include series victimizations as one
+victimization. BJS practice has been to count series
+victimizations as one victimization in the intimate partner
+violence reports, rather than as the number of victimizations
+that the victim reported for the series, due to concerns about
+whether the characteristics of the most recent victimization
+were the same for other victimizations in the series.
+
+Standard error computations
+
+Any time national estimates are derived from a sample rather
+than the entire population, as is the case with the NCVS, it
+is important to be cautious when drawing conclusions about the
+size of one population estimate in comparison to another or
+about whether a time series of population estimates is
+changing. Although one estimate may be larger than another,
+estimates based on responses from a sample of the population
+each have some degree of sampling error. The sampling error of
+an estimate depends on several factors, including the amount
+of variation in the responses, the size and representativeness
+of the sample, and the size of the subgroup for which the
+estimate is computed.
+
+One measure of the sampling error associated with an estimate
+is the standard error. In general, an estimate with a smaller
+standard error provides a more reliable approximation of the
+true value than an estimate with a higher standard error.
+Estimates with relatively large standard errors are associated
+with less precision and reliability and should be interpreted
+with caution.
+
+A statistical test is used to determine whether differences in
+means or percentages are statistically significant once
+sampling error is taken into account. Most comparisons made in
+the text were tested for statistical significance using
+t-tests for significance at the p < .05 level to ensure that
+the differences were larger than might be expected due to
+sampling variation. Significance testing calculations were
+conducted at BJS using a generalized variance function (GVF),
+a statistical program developed specifically for the NCVS by
+the U.S. Census Bureau. These GVFs take into consideration
+aspects of the complex NCVS sample design when calculating
+estimates.
+
+In other instances, differences were examined using the
+Chi-square test. The Chi-square is a statistical test that
+evaluates whether the distributions of frequencies observed in
+the data differ significantly from those that would be
+expected under hypothetical distributions. Chi-square goodness
+of fit tests are used to compare the observed frequencies of
+one variable against a theoretical distribution, and
+Chi-square tests of independence are used to assess whether
+paired observations on two variables are independent of each
+other. The Cramer's V statistic is a measure ranging from 0 to
+1 indicating the strength of the association between two
+categorical variables. A value of 0 indicates that there is no
+association between the variables, while a value of 1
+indicates that the two variables are perfectly associated.
+
+Definitions
+
+Incident--A specific criminal act involving one or more
+victims and offenders. For example, if two people are robbed
+at the same time and place, this is classified as two robbery
+victimizations but only one robbery incident.
+
+Prevalence rate--A measure of the proportion of the population
+that has experienced one or more crimes. This rate does not
+take into consideration how many times a person experienced
+victimization. For personal crimes, this is based on the
+number of victims per number of residents age 12 or older.
+
+Victimization--A victimization refers to a single victim or
+household that experienced a criminal incident. Criminal
+incidents or crimes are distinguished from victimizations in
+that one criminal incident may have multiple victims or
+victimizations. For violent crimes (rape or sexual assault,
+robbery, aggravated assault, and simple assault) and for
+personal larceny, the count of victimizations is the number of
+individuals who experienced a violent crime. For crimes
+against households (burglary, theft, and motor vehicle theft),
+each household affected by a crime is counted as a single
+victimization.
+
+Victimization rate--A measure of the occurrence of
+victimizations among a specified population group. For violent
+crimes, this is based on the number of victimizations per
+1,000 residents age 12 or older. 
+
+***********
+References
+***********
+
+Belli, R.F., Schwarz, N., Singer, E., & Talarico, J. (2000).
+Decomposition can harm the accuracy of behavioral frequency
+reports. Applied Cognitive Psychology, 14, 295-308.
+
+Biderman, A.D., & Lynch, J.P. (1991). Understanding crime
+incidence statistics: Why the UCR diverges from the NCVS. New
+York: Springer-Verlag.
+
+Blair, E. & Burton, S. (1987). Cognitive processes used by
+survey respondents to answer behavioral frequency questions.
+Journal of Consumer Research, 14, 280-288.
+
+Bolling, K., Grant C., & Donovan J.L. (2009). 2008-09 British
+Crime Survey (England and Wales). London: BMRB.
+
+Burton, S. & Blair, E. (1991). Task conditions, response
+formulation processes, and response accuracy for behavioral
+frequency questions in surveys. Public Opinion Quarterly, 55,
+50-79.
+
+Dodge, R.W. (1984a). A preliminary inquiry into series
+victimization. In R.G. Lehnen & W. Skogan (Eds.), The National
+Crime Survey working papers, 2. Washington, D.C.: Bureau of
+Justice Statistics.
+
+Dodge, R.W. (1984b). Series victimization   what is to be
+done? In R.G. Lehnen & W.Skogan (Eds.), The National Crime
+Survey working papers, 2. Washington, D.C.: Bureau of Justice
+Statistics.
+
+Dodge, R.W. (1987). Series crimes: report of a field test.
+Washington, D.C.: Bureau of Justice Statistics.
+
+Dodge, R.W. & Lentzner, H.R. (1980). Patterns of personal
+series incidents in the National Crime Survey. Review of
+public data use, 8, 27-41.
+
+EUICS Consortium (2005). Methodology of the European Crime and
+Safety Survey. Retrieved from
+http://www.europeansafetyobservatory.eu/downloads/WP_methodolo
+gy.pdf.
+
+General Social Survey Cycle 18: Victimization, 2004
+(2005).User's guide to the public use microdata file. Ottawa,
+Ontario: Statistics Canada.
+
+Groves, R.M. & Cork, D.L. (Eds.) (2008). Surveying victims:
+options for conducting the National Crime Victimization
+Survey. National Research Council panel to review the programs
+of the Bureau of Justice Statistics. Washington, D.C.:
+National Academies Press.
+
+ICESI (2011). Cuadernos del ICESI 9: Analisis de la Septima
+Encuesta Nacional Sobre Inseguridad ENSI-7/2010.
+
+Lynch, J.P., Berbaum, M.L., & Planty, M. (1998). Investigating
+repeated victimization with the NCVS. Final report for
+National Institute of Justice Grant 97-IJ-CX-0027. Washington,
+D.C.: U.S. Department of Justice.
+
+
+Planty, M. & Strom, K.J. (2007). Understanding the role of
+repeat victims in the production of annual US victimization
+rates. Journal of Quantitative Criminology, 23, 179-200.
+
+Rand, M.R. & Rennison, C.M. (2005). Bigger is not necessarily
+better: an analysis of violence against women estimates from
+the National Crime Victimization Survey and the National
+Violence Against Women Survey. Journal of Quantitative
+Criminology, 21, 267-292.
+
+Reiss, A.J. (1980). Victim proneness to repeat victimization
+by type of crime. In A.J. Reiss & S. Feinberg (Eds.),
+Indicators of Crime and Criminal Justice: Quantitative
+Studies. Washington, D.C.: Bureau of Justice Statistics.    
+
+Reiss, A.J. (1984). Summary of series and nonseries incident
+reporting, 1972-75. In R.G. Lehnen & W. Skogan (Eds.), The
+National Crime Survey working papers, 2. Washington, D.C.:
+Bureau of Justice Statistics.
+
+Sudman, S., Bradburn, N., & Schwarz, N. (1996). Thinking about
+answers: the application of cognitive processes to survey
+methodology. New York: Jossey-Bass Publishers.
+
+van Kesteren, J., Mayhew, P., & Nieuwbeerta, P. (2000).
+Criminal victimisation in seventeen industrialised countries:
+key findings from the 2000 International Crime Victims Survey.
+The Hague, The Netherlands: Ministry of Justice, WODC.
+
+******************************************************
+The Bureau of Justice Statistics is the statistics 
+agency of the U.S. Department of Justice.
+ James P. Lynch is director.
+
+This report was written and verified by Janet L.
+Lauritsen, Jennifer Gatewood Owens, Michael Planty,
+Michael R. Rand, and Jennifer L. Truman. Lynn
+Langton assisted with verification.
+
+Jill Thomas edited the report, Barbara Quinn and Tina
+Dorsey produced the report under the supervision of
+Doris J. James.
+
+April 2012, NCJ 237308
+*******************************************************
+
+*********************
+3/27/2012/JER/9:50
+
+*********************
+
+

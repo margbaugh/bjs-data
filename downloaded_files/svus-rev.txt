@@ -1,0 +1,562 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Stalking Victims in the United States - Revised
+
+Shannan Catalano, Ph.D., BJS Statistician
+
+September 2012, NCJ 224527
+-----------------------------------------------------------
+This file is text without graphics and many of the tables. 
+A Zip archive of the tables in this report in Comma-
+delimited format (CSV) and the full report including tables 
+and graphs in PDF format are available at:
+http://www.bjs.gov/index.cfm?ty=pbdetail&iid=1121
+-----------------------------------------------------------
+
+An estimated 3.3 million persons age 18 or older were 
+victims of stalking during a 12-month period. Stalking is 
+defined as a course of conduct directed at a specific person 
+that would cause a reasonable person to feel fear. The data 
+for this report are from the Supplemental Victimization 
+Survey (SVS) conducted in 2006 as part of the National Crime 
+Victimization Survey (NCVS). The SVS identified seven types 
+of harassing or unwanted behaviors consistent with a course 
+of conduct experienced by stalking victims. The survey 
+classified individuals as stalking victims if they responded 
+that they experienced at least one of these behaviors on at 
+least two separate occasions. In addition, the individuals 
+must have feared for their safety or that of a family member 
+as a result of the course of conduct, or have experienced 
+additional threatening behaviors that would cause a 
+reasonable person to feel fear. 
+
+The SVS measured the following stalking behaviors:
+
+* making unwanted phone calls
+
+* sending unsolicited or unwanted letters or e-mails
+
+* following or spying on the victim
+
+* showing up at places without a legitimate reason
+
+* waiting at places for the victim
+
+* leaving unwanted items, presents, or flowers
+
+* posting information or spreading rumors about the victim 
+on the internet, in a public place, or by word of mouth.
+
+While individually these acts may not be criminal, 
+collectively and repetitively these behaviors may cause a 
+victim to fear for his or her safety or the safety of a 
+family member. These behaviors constitute stalking for the 
+purposes of this study. The federal government, all 50 
+states, the District of Columbia, and U.S. territories have 
+enacted laws making stalking a criminal act, although the 
+elements defining the act of stalking differ across states 
+(see Stalking Laws on page 3).
+The SVS also identified victims who experienced the 
+behaviors associated with stalking but neither reported 
+feeling fear as a result of such conduct nor experienced 
+actions that would cause a reasonable person to feel fear. 
+This report characterizes such individuals as harassment 
+victims. These instances of harassment might eventually have 
+risen to the definitional requirement for stalking. However, 
+at the time of the interview, the offender’s actions and 
+victim’s responses did not rise to the threshold of stalking 
+victimization as measured by the SVS.
+Few national studies have measured the extent and nature of 
+stalking in the United States. The Department of Justice 
+Office on Violence Against Women funded the 2006 SVS to 
+enhance empirical knowledge about stalking (see 
+Methodology). The SVS, which represents the largest study of 
+stalking conducted to date, incorporated elements contained 
+in federal and state laws to construct a working definition 
+of stalking.
+-----------------------------------------------------------
+Errata: The original report, released in January 2009, was 
+written by Katrina Baum, Ph.D., Shannan M. Catalano, Ph.D., 
+and Michael R. Rand of the Bureau of Justice Statistics, and 
+Kristina Rose of the National Institute of Justice. See page 
+2 for details about the revisions.
+-----------------------------------------------------------
+**************************************
+***********
+Highlights
+***********
+* During a 12-month period, an estimated 1.5% of persons age 
+18 or older were victims of stalking.
+
+* The percentage of stalking victims was highest for 
+individuals who were divorced or separated (3.3%), compared 
+to those married, never married, or widowed.
+
+* Nearly 7 in 10 stalking victims knew their offender in 
+some capacity.
+
+* A greater percentage of females were stalked than males; 
+however, females and males were equally likely to experience 
+harassment.
+****************************************
+
+**************************************
+************************************
+Revisions to Stalking Victims in the 
+United States initially released 
+January 2009 
+**********************************
+
+The report Stalking Victimization in the United States was 
+initially released in January 2009. Recently, two errors in 
+the analysis were identified: some responses regarding 
+“repetitive and unsolicited communications” were incorrectly 
+classified as stalking or harassment; and the population 
+used to generate percents incorrectly used persons age 12 or 
+older instead of persons age 18 or older. Implementing these 
+corrections resulted in revisions to point estimates of 
+stalking and harassment victim counts and percentages for 
+various demographic and victim characteristics. In addition, 
+previous estimates were presented as victimization rates per 
+1,000 persons. The revised report presents stalking and 
+harassment as a prevalence estimate. Prevalence is defined 
+as the proportion of the population that experienced an 
+event or condition within a specified period of time.
+
+In the sample selection procedure for the 2009 report, 170 
+cases where victims reported receiving “repetitive and 
+unsolicited communications” were actually spam email, 
+internet scams, and contacts from telemarketers or bill 
+collectors. The survey respondents were instructed to 
+exclude these types of incidents. A total of 133 cases were 
+erroneously included in the harassment category and 37 cases 
+were incorrectly included in the stalking victimization 
+category (table 1). When these cases are excluded, the 
+estimate of persons who experienced behaviors consistent 
+with either stalking or harassment dropped to 5.3 million 
+from 5.9 million.
+
+In conjunction with the National Crime Victimization Survey, 
+the Supplemental Victimization Survey (SVS), the data source 
+for this report, was administered to persons age 18 or 
+older. However, the estimates presented in the 2009 release 
+were generated using populations for persons age 12 or 
+older. The population base for the two age groups varies by 
+demographic characteristics (table 2). Using populations for 
+persons age 18 or older, the estimated percentage of the 
+population experiencing stalking increased from 1.4% to 
+1.5%. 
+
+This revised report is not a comprehensive update of the 
+original report. The first five tables and figures presented 
+in the original report and the associated text have been 
+revised, reflecting the new numerator and denominator and 
+statistical testing. These tables cover the key stalking and 
+harassment variables. Also, the Methodology and some 
+appendix material received slight revision. The original 
+report, tables and other related documents are no longer 
+available on the BJS website or in print. The SVS dataset is 
+available to users at the National Archive of Criminal 
+Justice Data at www.icpsr.umich.edu/icpsrweb/NACJD/.
+***************************************
+This report presents information on stalking victims. 
+Harassment is discussed where appropriate to provide fuller 
+context. Persons interested in viewing the SVS data in its 
+entirety may obtain the data file from the University of 
+Michigan’s Archive of Criminal Justice Data at 
+www.icpsr.umich.edu/NACJD.
+
+**********************************
+During a 12-month period, an estimated 
+1.5% of persons age 18 or older were 
+a victim of stalking
+***********************************
+
+An estimated 5.3 million U.S. residents age 18 or older 
+experienced behaviors consistent with either stalking or 
+harassment in the 12 months preceding the SVS interview 
+(table 3). Of the 5.3 million victims, more than half 
+experienced behavior that met the definition of stalking. 
+Approximately 1.5% of persons age 18 or older experienced 
+the repetitive behaviors associated with stalking in 
+addition to feeling fear or experiencing behaviors that 
+would cause a reasonable person to feel fear. About 0.9% of 
+persons age 18 or older were classified as victims of 
+harassment who experienced a course of conduct consistent 
+with stalking but who did not report feeling fear. Many 
+victims of stalking reported being stalked over a period of 
+months or years, and 11% of victims said they had been 
+stalked for 5 years or more (figure 1).
+
+**********************************
+
+*************
+Stalking Laws
+*************
+
+While the federal government, all 50 states, the District of 
+Columbia, and U.S. territories have enacted criminal laws to 
+address stalking, the legal definition of stalking varies 
+across jurisdictions. State laws vary regarding the element 
+of victim fear and emotional distress, as well as the 
+requisite intent of the stalker.  Some state laws specify 
+that the victim must have been frightened by the stalking, 
+while others require only that the stalking would have 
+caused a reasonable person to experience fear.  In addition, 
+states vary on what level of fear is required. Some state 
+laws require prosecutors to establish fear of death or 
+serious bodily harm, while others require only that 
+prosecutors establish that the victim suffered emotional 
+distress. Interstate stalking is defined by federal law 18 
+U.S.C. § 2261A.
+**********************************
+
+**********************************
+Unwanted phone calls and message 
+were the most common type of stalking 
+behavior experienced 
+**********************************
+
+Stalking victims were about twice as likely to report 
+experiencing following or spying on the victim, showing up 
+at places without a legitimate reason, or waiting outside 
+(or inside) places for the victim than individuals who were 
+harassed. For example, 34% of stalking victims reported that 
+the offender followed or spied on them, compared to 12% of 
+harassment victims who reported experiencing this behavior 
+(table 4). Thirty-two percent of stalking victims reported 
+that the offenders showed up in places where they had no 
+legitimate purpose being; approximately 12% of harassment 
+victims reported this type of unwanted behavior. Also, 29% 
+of stalking victims stated that the offender waited in 
+places for them, while 10% of harassment victims reported 
+this type of behavior.
+**********************************
+Risk of victimization varied more 
+for stalking than for harassment
+**********************************
+
+A greater percentage of females experienced stalking than 
+males (table 5). During the study period, 2.2% of females 
+experienced at least one stalking victimization compared to 
+0.8% of males. Males and females were equally likely to 
+experience harassment.
+
+*******
+Age
+*******
+
+The percentage of persons stalked diminished with age. 
+Persons ages 18 to 19 and 20 to 24 experienced the highest 
+prevalence of stalking victimization. About 2.9% per 1,000 
+persons ages 18 to 19 were stalked during the study period, 
+and 2.8% of persons ages 20 to 24 experienced this type of 
+victimization.
+
+**********************************
+Race and Hispanic origin of victim
+**********************************
+
+A lower percentage of Asians and Pacific Islander (0.6% of 
+persons age 18 or older) experienced stalking than whites 
+(1.5%), blacks (1.4%), and persons of two or more races 
+(4.1%). Non-Hispanics and Hispanics were equally likely to 
+experience stalking. During the study period, 1.5% of non-
+Hispanics experienced stalking. The percentage for Hispanics 
+during this period was 1.3% for persons age 18 or older.
+****************
+Marital status
+****************
+
+The percentage of individuals who were divorced or separated  
+and stalked was 3.3%--a higher percent than for persons of 
+other marital statuses. A higher percentage of individuals 
+who had never been married (2.4%) were stalked than persons 
+who were married (0.8%) or widowed (0.7%).
+
+***********
+Income
+***********
+
+As with crime more generally, persons residing in households 
+with higher incomes experienced a lower percentage of 
+stalking than those from households with lower incomes. The 
+percentage of individuals in households with an annual 
+income of $7,499 or less and those with an income from 
+$7,500 to $14,999 experienced about the same percentage of 
+stalking. However, the percentage of individuals living in 
+these households experienced a higher percentage of stalking 
+than persons in households with an annual income at or above 
+$25,000.
+
+*************
+Relationship
+*************
+
+Nine percent of victims were stalked by a stranger, and 
+nearly 70% of all victims knew their offender in some 
+capacity (table 6). Stalking victims most often identified 
+the stalker as a former intimate (20%) or a friend, 
+roommate, or neighbor (15%).
+
+****************************************
+**************
+Methodology
+**************
+
+The Supplemental Victimization Survey (SVS) was administered 
+as a supplement to the Bureau of Justice Statistics’ (BJS) 
+National Crime Victimization Survey (NCVS) during January 
+through June, 2006. All NCVS respondents age 18 and older 
+were eligible for the supplement. About 65,270 persons 
+participated in the supplemental survey. The response rate 
+for eligible individuals was 83%. 
+
+The estimates presented in this report are annual prevalence 
+estimates for persons age 18 or older victimized by stalking 
+or other harassing behaviors during the 12 months prior to 
+the interview. The interviews were conducted during the 
+first 6 months of 2006; therefore, the majority of the 
+stalking behaviors occurred during 2005. 
+The Office on Violence Against Women (OVW) and BJS convened 
+a 1-day forum with experts in the area of stalking and 
+violence against women. Researchers, law enforcement 
+officials, prosecutors, and victim advocates comprised the 
+expert group. Also included in the group were 
+representatives from the Census Bureau, the federal agency 
+that carries out survey development and data collection for 
+BJS. The purpose of the 1-day forum was to discuss 
+definitional and methodological issues surrounding the crime 
+of stalking, as well as to determine where gaps in current 
+information on stalking existed and how the SVS could 
+further the research and knowledge regarding this crime.
+
+Following this meeting, a small federal working group was 
+formed with representatives from OVW, BJS, and the Census 
+Bureau. The working group met weekly for approximately 12 
+months until a satisfactory survey instrument was completed 
+and approved. During the last phase of the survey 
+development, the Census Bureau conducted cognitive 
+interviews with stalking victims around the United States to 
+test the instrument before administering the SVS in the 
+field. Revisions were made to the instrument to incorporate 
+findings from these interviews.
+
+The name of the SVS intentionally does not indicate that the 
+focus of the survey is stalking. This decision was made to 
+avoid biasing the responses of individuals and the 
+subsequent estimates. The respondent had to state that they 
+experienced all of the following in order for a course of 
+behavior to be counted as stalking victimization:
+
+* At least one of the harassing behaviors in the stalking 
+screener
+
+* Harassing behavior more than one time on separate days
+
+* At least one of multiple harassing contacts during the 
+12 months prior to the interview
+
+* Fear for their own or a family member’s safety or 
+experience of another crime committed by the offender that 
+would make a reasonable person fearful (see the Screener 
+questions box).
+
+Victims of harassment met all the requirements for stalking 
+except those associated with induced fear or the commission 
+of additional associated crimes. Harassing acts by bill 
+collectors, telephone solicitors, or other sales people were 
+excluded from the estimates of stalking and harassment. 
+
+***************************  
+Standard error computations
+***************************
+Comparisons of percentages and counts made in this report 
+were tested to determine if observed differences were 
+statistically significant. Differences described as higher, 
+lower, or different passed a test at the .05 level of 
+statistical significance (95% confidence level). Differences 
+described as somewhat, lightly, marginally, or some 
+indication passed a test at the .10 level of statistical 
+significance (90% confidence level). Caution is required 
+when comparing estimates not explicitly discussed in the 
+report.
+
+****************************************
+Screener questions for stalking behaviors
+****************************************
+
+Now, I would like to ask you some questions about any 
+unwanted contacts or harassing behavior you may have 
+experienced that frightened, concerned, angered, or annoyed 
+you. Please include acts committed by strangers, casual 
+acquaintances, friends, relatives, and even spouses and 
+partners. I want to remind you that the information you 
+provide is confidential.
+
+Not including bill collectors, telephone solicitors, or 
+other sales people, has anyone, male or female, EVER – 
+frightened, concerned, angered, or annoyed you by... 
+
+a.	making unwanted phones calls to you or leaving messages?
+
+b. sending unsolicited or unwanted letters, e-mails, or 
+other forms of written correspondence or communication?
+
+c. following you or spying on you?
+
+d. waiting outside or inside places for you such as your 
+home, school, workplace, or recreation place?
+
+e. showing up at places where you were even though he or she 
+had no business being there?
+
+f. leaving unwanted items, presents, or flowers?
+
+g. posting information or spreading rumors about you on the 
+Internet, in a public place, or by word of mouth?
+
+h. none
+***********************************
+Actions that would cause a reasonable 
+person to feel fear
+***********************************
+
+1. In order to frighten or intimidate you, did this person 
+attack or attempt to attack...
+ 
+a. a child
+
+b. another family member
+
+c. a friend or co-worker
+
+d. a pet 
+
+2. During the last twelve months, did this person attack or 
+attempt to attack you by...
+
+hitting, slapping, or knocking you down
+
+choking or strangling you
+
+raping or sexually assaulting you
+
+attacking you with a weapon
+
+chasing or dragging with a car
+
+attacking you in some other way
+
+
+3. Other than the attacks or attempted attacks you just told 
+me about, during the last 12 months, did this person 
+threaten to...
+
+a.	kill you
+
+b.	rape or sexually assault you
+
+c.	harm you with a weapon
+
+d.	hit, slap, or harm you in some other way
+
+e. harm or kidnap a child
+
+f.	harm another family member
+
+g.	harm a friend or co-worker
+
+h.	harm a pet
+
+i harm or kill himself/herself
+
+4. What were you most afraid of happening as these unwanted 
+contacts or behaviors were occurring?
+ 
+a.	death
+
+b.	physical/bodily harm
+
+
+c.	harm or kidnap respondent’s child
+
+d.	harm current partner/boyfriend/girlfriend
+
+e.	harm other family members
+
+f.	don’t know what would happen
+
+******************************
+Questions used to measure fear
+*****************************
+
+How did the behavior of (this person/these persons) make you 
+feel when it FIRST started? Anything else?
+
+a. anxious/concerned
+
+b. annoyed/angry
+
+c. frightened
+
+d. depressed
+
+e. helpless
+
+f. sick
+
+g. suicidal
+
+h. some other way–specify
+
+2. How did you feel as the behavior progressed? Anything 
+else?
+
+a. no change in feelings
+
+b. anxious/concerned
+
+c. annoyed/angry
+
+d. frightened
+
+e. depressed
+
+f. helpless
+
+g. sick
+
+h. suicidal
+
+i. some other way–specify
+
+********************************************
+The Bureau of Justice Statistics is the statistical agency 
+of the U.S. Department of Justice. James P. Lynch is the 
+director.
+
+This report was revised by Shannan Catalano, Ph.D., and 
+Jennifer  L. Truman verified the report. The original 
+report, released in January 2009, was written by Katrina 
+Baum, Ph.D., Shannan Catalano, Ph.D., and Michael Rand, 
+Bureau of Justice Statistics, and Kristina Rose, National 
+Institute of Justice . 
+
+Catherine Bird and Jill Thomas edited the report and Barbara 
+Quinn produced the report under the supervision of Doris J. 
+James.
+
+September 2012, NCJ 224527
+****************************************
+
+*************************
+Office of Justice Programs
+Innovation * Partnerships 
+* Safer Neighborhoods
+www.ojp.usdoj.gov
+**************************
+
+9/26/2012/JER/12:55am
