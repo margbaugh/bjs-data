@@ -1,0 +1,3693 @@
+Bridging Gaps in Police Crime Data
+
+A Discussion Paper from the BJS Fellows Program
+
+by Michael D. Maltz
+Department of Criminal Justice
+University of Illinois at Chicago
+and 
+Visiting Fellow
+Bureau of Justice Statistics
+
+September 1999, NCJ 176365
+
+This paper is based on a Workshop
+on Uniform Crime Reporting
+Imputation, sponsored by the
+Bureau of Justice Statistics
+and the 
+Federal Bureau of Investigation
+Uniform Crime Reporting
+Program
+
+U.S. Department of Justice
+Bureau of Justice Statistics
+
+Jan M. Chaiken, Ph.D.
+Director
+
+The points of view or opinions 
+expressed in this document are 
+those of the author and do not 
+necessarily represent the official 
+position or policies of the U.S. 
+Department of Justice. 
+
+BJS Discussion Papers promote 
+the exchange of information, 
+analysis, and ideas on issues 
+related to justice statistics 
+and to the operations of the 
+justice system. 
+
+This document was prepared under
+cooperative agreement 95-BJ-CX-
+0001 for the BJS Visiting Fellowship
+Program. 
+
+The author may be reached at the following addresses:  
+
+  Professor Michael D. Maltz  
+  Department of Criminal Justice
+  University of Illinois at Chicago
+  1007 W. Harrison Street (M/C 141)
+  Chicago, IL 60607-7140
+
+  email: mikem@uic.edu
+
+
+Acknowledgments
+
+I began work on this project because, although I had been using 
+the UCR for many years, I had never understood all of its 
+intricacies -- and felt somewhat embarrassed to ask simple 
+questions about why certain procedures were used, because 
+obviously everyone else knew. It turned out, however, that most 
+people seemed to be as much in the dark as I was, perhaps about 
+different aspects of the UCR,and during this project we began to 
+share our knowledge, each of us having an understanding of different 
+aspects of the data collection and analysis process. This report 
+is, then, more a collaboration than a single-authored effort, a 
+kind of "open source" presentation of our collective knowledge. 
+[Although the knowledge is collective, the interpretation of that 
+knowledge is my own.]
+
+The information contained herein is based on a 2-day meeting
+held over 2 years ago; analyses of UCR data conducted since
+then; and conversations, letters, faxes, and e-mails between me
+and a number of colleagues. In particular, I wish to acknowledge
+the comments and advice of the following:
+
+*  From BJS -- Jan Chaiken, Larry 
+Greenfeld, Tom Hester, Charles
+Kindermann, Pat Langan, Sue 
+Lindgren, Don Manson, Marilyn
+Marbrook, Mona Rantala, Steve 
+Smith, Paul White, and Marianne
+Zawitz
+
+*  From the FBI -- Yoshio Akiyama, 
+Bennie Brewer, Kenneth Candell, 
+Carlos Davis, Gil Gee, Antonio 
+Hwang, Dawn Kording,Vicki Major, 
+Jim Nolan, Sharon Propheter, and 
+Maryvictoria Pyne
+
+*  From the research community -- Dan 
+Bibel, Becky Block, Roland Chilton, 
+Chris Dunn, Bob Flewelling, Jamie 
+Fox, John Jarvis, Jim Lynch, 
+Mike Maxfield, and Howard Snyder.
+
+In addition, I wish to thank the UCR program personnel from the
+50 States with whom my research assistants (Leanne Brecklin,
+University of Illinois at Chicago; Chris Kenaszchuk, University
+of Maryland; and Todd Minton and Matt Durose, BJS) and I
+corresponded and spoke. I received cooperation from officials in
+every State in putting together this report; I hope that the end
+result is of use to them and to others who deal with crime
+statistics.
+
+This report was written while I was a Visiting Fellow at the
+Bureau of Justice Statistics and completed while I was on
+sabbatical from the University of Illinois at Chicago. While I
+greatly appreciate the help I received from BJS, FBI, and State
+officials, they should not be held responsible for any errors in
+this report, and the opinions, conclusions, and
+recommendations expressed herein are my own and should not be
+construed as the policy of any of these organizations.
+
+Michael D. Maltz
+
+Department of Criminal Justice
+University of Illinois at Chicago
+
+Visiting Fellow
+Bureau of Justice Statistics
+
+
+Summary 
+
+Crime in the United States (CIUS), published annually by the
+FBI, is a compilation of the Uniform Crime Reports (UCR)
+provided by over 18,000 policing jurisdictions. It represents
+one of the two primary sources of data about crime in the United
+States, the National Crime Victimization Survey (NCVS) being the
+other. While the NCVS is a very reliable indicator of national
+trends in crime, it is based on a survey of under 50,000 house-
+holds and thus cannot provide local information on crime,
+which is provided by the UCR and CIUS.  [For a thorough
+understanding of the differences between the two statistical
+series, see Biderman and Lynch's (1991) Understanding Crime
+Incidence Statistics: Why the UCR Diverges from the NCS.  The
+NCS, or National Crime Survey, was the predecessor to the NCVS. 
+A briefer explanation can be found in The Nation's Two Crime
+Measures, found at http://www.ojp.usdoj.
+gov/bjs/abstract/ntmc.htm and included annually in CIUS.]
+
+Not only does CIUS provide local information about crime
+incidence, it also compiles arrest data from these
+jurisdictions; these data permit us to form a picture of who is
+committing crime (or at least, who is arrested for committing
+crime).
+
+The quality of the data provided to the FBI, however, is uneven.
+Reporting to the FBI remains for many jurisdictions a voluntary
+activity; although many States now mandate that agencies report
+crime and arrest data to them (which they then forward to the
+FBI), even in those States local agencies do not always comply.
+Moreover, despite the efforts of the FBI to maintain their
+quality, there are many gaps in the data that make their use
+questionable. While this has had limited impact in the past, the
+fact that the UCR data have, for the first time, been used to
+allocate Federal funds brings issues about data quality to
+center stage. 
+
+In addition, the FBI is moving to implement an improved crime
+and arrest reporting system, the National Incident-Based
+Reporting System (NIBRS), to augment the summary UCR data
+published in CIUS. It is hoped that the study of deficiencies in
+UCR data will be of use in planning for the full implementation
+of NIBRS.
+
+This report describes the history of the UCR system and the data
+problems that it deals with in reporting crime, arrests, and
+homicide. It describes the procedures used by the FBI to fill in
+gaps in the data when they exist and makes suggestions about how
+they might be improved.
+
+Contents
+
+I. Introduction
+
+Why We Need to Look at the UCR     
+
+     The Information-Gathering Process 
+     Report Organization 
+
+II. UCR History and Coverage
+
+     State-Level Reporting 
+     Comparing Crime Data 
+     Coverage Gaps and Imputation 
+     The UCR and Funding Decisions 
+     The UCR and Electronic Access
+
+    Use of Sub-National UCR Data 
+
+     The UCR and NIBRS 
+
+
+
+III. Incomplete Crime Data Error Checking 
+
+     Reasons for Incomplete Reporting
+
+IV. Incomplete Arrest Data 
+
+V. Processing and Publishing the Crime Data
+
+     Publishing the UCR 
+     Archiving the UCR Data File   
+
+VI. Procedures Used for Imputing Crime Data
+
+     FBI Imputation Procedures for Crime
+     NACJD Imputation Procedure    
+     Imputation Procedures for Arrests
+     Imputation and "Zero-Population" Agencies 
+     Updating UCR Files
+
+VII. Inaccuracies Produced by the Imputation Procedures
+
+     Incomplete-Reporting Agencies
+     Non-Reporting Agencies
+     "Zero-Population" Agencies
+     Summary
+
+VIII. Suggested Imputation Philosophy 
+
+     Suggested Imputation 
+     Zero-Population Agencies
+     Incomplete and Non-Reporting Agencies
+
+IX. Supplementary Homicide Reports
+
+     Uses of the SHR 
+     Incomplete Provision of SHR Data by Police Departments 
+            Updating SHR Files 
+     Availability of SHR Data Sets 
+     SHR Imputation
+     Weighting the Victim File
+     Weighting the Offender File
+     Problems with This SHR Imputation Procedure
+
+    Suggested Alternative SHR 
+
+         Imputation Procedure 
+
+X. Conclusions and Recommendations 
+
+           Reporting Practices
+           Publishing and Archiving
+           Imputation
+           NIBRS
+
+Appendix A. Persons Attending the
+Workshop on UCR Imputation Procedures
+
+Appendix B. State On-Line Publication of Crime Data
+
+Appendix C. Characteristics of State UCR Collection Programs
+
+Appendix D. Extent of UCR Data Coverage, Alabama-Wyoming, 1958-97
+
+Appendix E.  Missing Data in UCR Files Used for the 1996 LLEBG
+Formula Calculations 
+
+           Background
+
+           Extent of Missing Data, by State
+           Characteristics of Agencies with Less than 36 Months 
+                of Violent Crime Data
+           Agencies with 0 Months of Data 
+           Jurisdictions with between 1 and 35 Months of Data 
+           Impact of Incomplete Data
+           Addendum on "Zeropop" Agencies    
+
+References
+
+Glossary
+
+
+I.  Introduction
+
+The Uniform Crime Reporting Program (UCR) of the Federal Bureau
+of Investigation (FBI) has been collecting crime and arrest data
+from police departments throughout the United States since 1930.
+(Footnote: See Glossary for definitions of many abbreviated
+names or terms.) The data are published in the annual report,
+Crime in the United States (CIUS), and represent one of the more
+widely used sources of longitudinal data in the social sciences.
+The UCR is based on monthly summary reports of crimes known to
+the police and arrests made by the police, that are provided to
+the FBI by over 17,000 of the more than 18,000 police agencies
+in the United States and its territories. (Footnote:  Police
+agencies also report on other topics to the FBI, including hate
+crimes, personnel statistics, and law enforcement officers
+killed and assaulted. These topics are not covered in this
+report.)
+
+The FBI office that deals with the UCR is the Program Support
+Section (PSS), a section of the Criminal Justice Information
+Services (CJIS) Division. Five of the eight units within PSS are
+concerned with various aspects of CIUS: 
+
+*The Statistical Unit collects, checks, and manages the data
+coming in from the police agencies.
+
+*The Communications Unit is involved in publications and data
+dissemination.
+
+ 
+
+*The Education and Training Services Unit trains local agencies
+in UCR data collection procedures.
+
+ 
+
+*The Crime Analysis Research and Development Unit analyzes data
+and develops specifications for new methods of presenting the
+data.
+
+
+
+*The CJIS Audit Unit performs quality assurance reviews to
+maintain the quality of the UCR.
+
+
+
+The UCR includes a Crime Index, a count of certain specific
+crimes occurring over the past year in each jurisdiction. These
+are called "Index crimes," and, listed in order of their
+presumptive seriousness, are murder and nonnegligent
+manslaughter, forcible rape, robbery, aggravated assault,
+burglary, larceny-theft, and motor vehicle theft.  
+
+Arson was added to the Crime Index in 1979 although it is not as
+likely as the other Index crimes to be reported to the police,
+because arsons are often categorized as "fires of suspicious
+origin." Except for arson, these particular crimes were chosen
+because they were frequent, generally serious in nature, and
+most likely to be reported to the police; victims, their
+relatives, and/or bystanders who witness the incident are likely
+to know that incidents of those types are criminal in nature and
+are likely to report them.
+
+Although the UCR has some limitations (indeed, the aim of this
+report is to address some of them), even these limitations
+provide important information. For example, incomplete citizen
+reporting to the police of certain types of crimes has been used
+as an indicator of a number of police-related factors: how the
+relationship between offender and victim affects citizen
+reporting of crime; the extent to which citizens trust the
+police; and the effect of police policies and problems on
+reporting behavior. Yet the public is generally unaware that the
+UCR system is essentially a voluntary system; there is no
+federal legislation that requires states or local jurisdictions
+to report their crime data to the FBI.
+
+
+
+The voluntary nature of the UCR, of course, affects the accuracy
+and completeness of the data. Although the FBI devotes a great
+deal of attention to the quality of the data it publishes in
+CIUS, it cannot mandate agencies to provide data on time (or at
+all). As a consequence, the FBI must deal with problems of
+missing or late data, and has developed a mechanism to account
+for these gaps: it imputes (or estimates) data where gaps exist,
+which limits the accuracy of the estimated crime statistics
+published in CIUS.
+
+
+
+Why We Need to Look at the UCR
+
+
+
+Despite these problems with the data, adjustments for missing
+data have not been of major consequence in the past, since the
+primary purpose of the data was to present national and State
+trends -- and estimates were adequate for this purpose.
+Researchers, police administrators, and some journalists are
+aware of the limitations of the UCR, but it mattered little to
+others outside the field. However, in the recent past four
+changes were made in the environment in which the UCR data are
+being employed:
+
+
+
+*UCR data are being used to allocate Federal funds.
+
+
+
+*The data are now instantly accessible on the Internet.
+
+
+
+*Because of the greater accessibility of the data, researchers
+are increasingly analyzing UCR statistics at sub-national
+levels, but the results of their analyses may be suspect because
+of the way missing data are handled.
+
+
+
+* A new reporting system (the National Incident-Based Reporting
+System or NIBRS) now being implemented to augment  the summary
+UCR data will increase the amount of data collected on each
+crime and arrest.
+
+Thus, the collection, analysis, and publication of crime data
+are now occurring in a new environment, due to changes in
+legislation, changes in the ease of access by citizens and
+researchers to the data, and changes in crime reporting. This
+means that the FBI's imputation procedures, which were adequate
+for handling many of the weaknesses in the current data
+collection system, may have to be revised.
+
+Toward this end, a Workshop on UCR Imputation Procedures was
+held in Washington, DC, April 24-25, 1997, and attended by key
+personnel from the FBI and the Bureau of Justice Statistics
+(BJS), as well as by researchers familiar with UCR data and
+their problems. The list of attendees is given in Appendix A.
+Just prior to the workshop the FBI had moved the Program Support
+Section to Clarksburg, West Virginia. The move resulted in a
+turnover of personnel and equipment. The workshop thus came at
+an opportune time for the FBI, which recognizes the need to
+update the procedures it has been using for over 40 years -- when
+the UCR had its last major revision (FBI, 1958). 
+
+The workshop provided an opportunity for statisticians and
+researchers from both of these Federal agencies and from the
+user community to discuss ways of improving UCR data collection
+and estimation procedures. The goal of the workshop was to
+recommend new ways to ensure that the American public is
+provided with the best possible police- collected information
+related to crime and criminality, and to move toward that end in
+the most expeditious and feasible way possible. This report is
+based on the findings and discussions from that workshop.
+
+Issues relating to standard UCR data (i.e., crime counts,
+arrests) were not the only topics addressed at the workshop.
+Attention was also devoted to the Supplementary Homicide Reports
+(SHR), forms filled out by police departments that provide a
+more detailed description of each homicide than just the raw
+statistics of number of homicides. The workshop explored how
+these data could be made more useful, and this report discusses
+those findings as well.
+
+Issues related to Federal crime data are not included in this
+report. Thus, the accuracy or completeness of the statistics of
+crimes committed on Indian reservations, military installations,
+and national parks are for the most part excluded.
+
+This report also includes information gathered from State
+criminal justice agency personnel and data analyses subsequent
+to the workshop.  
+
+The voluntary nature of the UCR system means that there is a
+high degree of State-to-State variation in UCR reporting.
+Specifically, some States mandate reporting and require reports
+to be channeled through  (and checked by) State agencies before
+being transmitted to the FBI, while in other States individual
+jurisdictions report directly to the FBI. Although the FBI
+institutes quality control checks on the data it receives, the
+lack of uniform reporting standards and procedures results in a
+lack of uniformity in the Uniform Crime Reports. (Footnote: The
+lack of uniformity is due primarily to variation in completeness
+of State reporting, not to variation in what is reported. The
+PSS Education and Training Services Unit works with individual
+police agencies to ensure uniformity in reporting practices.)
+
+The Information-Gathering Process
+
+Some of the material included herein is based on informal
+conversations with FBI and BJS personnel and State officials who
+use or collect the data, and some of their statements about the
+UCR (or my interpretations of what they meant) may be in error.
+Although I have tried to verify all statements, some errors may
+have slipped through. Should a reader find mistakes in this
+report, please notify me (mikem@uic.edu), and corrections will
+be added to an errata sheet that will be posted on the BJS
+website.
+
+It seems that every decade or so I look into the intricacies of
+crime data (Maltz, [1972] 1999; 1984: 141) and find the
+following caution about official statistics from Josiah Stamp
+(1929: 258) applicable:
+
+"The individual source of the statistics may easily be the
+weakest link. Harold Cox tells a story of his life as a young
+man in India. He quoted some statistics to a Judge, an
+Englishman, and a very good fellow. His friend said, "Cox, when
+you are a bit older, you will not quote Indian statistics with
+that assurance. The Government are very keen on amassing
+statistics  --  they collect them, add them, raise them to the
+nth power, take the cube root and prepare wonderful diagrams.
+But what you must never forget is that every one of these
+figures comes in the first place from the chowty dar [village
+watchman], who just puts down what he damn pleases."
+
+
+
+While strides have been made in improving the coverage and
+accuracy of police-reported crime data (in India as well as in
+this country), there is still need for a great deal of
+improvement. My hope is that this report helps to realize this
+goal.
+
+
+
+Report Organization
+
+
+
+The organization of this report is as follows: The next section
+gives a brief summary of how the coverage of the UCR has
+increased over the past few decades, both in terms of population
+covered and State collection efforts. Section III describes the
+reasons for incomplete crime data and Section IV problems with
+arrest data. Section V documents the steps necessary to verify
+and publish CIUS. The imputation procedures used by the FBI to
+account for these gaps are described in Section VI, and the
+problems with these imputation procedures in Section VII. Some
+suggested changes in the imputation procedures are described in
+Section VIII. Issues related to the SHR data are addressed in
+Section IX. Conclusions and recommendations are found in Section
+X. 
+
+Five appendixes are included: Appendix A lists the attendees at
+the BJS/FBI workshop. Appendix B is a compendium of
+crime-related data available on the Internet from State
+agencies. Appendix C lists some of the characteristics of State
+UCR collection programs. The crime reporting history of each
+State is charted in Appendix D. Appendix E, written by Sue
+Lindgren of BJS, describes the procedures used to account for
+missing data in calculating the Local Law Enforcement Block
+Grant funding for each jurisdiction. 
+
+II.  UCR History and Coverage 
+
+The International Association of Chiefs of Police (IACP) created
+the UCR in January 1930. It was created in large part to
+forestall newspapers from manufacturing "crime waves" out of
+thin air (IACP, 1929; Maltz, 1977). A national system of crime
+reporting, it was felt, would put the inevitable (and
+unpredictable) swings of crime incidence in a single
+jurisdiction into a proper context, reducing the media pressure
+put on any particular jurisdiction or police chief. This
+pressure has led to police departments "cooking the books" and
+reducing the amount of crime they recorded instead of the amount
+of crime reported to them.
+
+At the request of the IACP, the FBI assumed stewardship of the
+UCR in 1930, soon after it started. Police departments that
+provided crime (and other) data sent the data directly to the
+FBI, which compiled the data and published periodic reports. 
+
+[A note on terminology: the FBI identifies all police and other
+agencies that report crime data with an ORI (for ORIginating
+Agency Identifier) number. In this report I use the terms "ORI,"
+"reporting agency," "police department," and "jurisdiction"
+interchangeably.]
+
+Initially there was not enough coverage of the entire United
+States to permit estimation of the crime rate for the Nation as
+a whole. From 1930 through 1957 the FBI published the data in
+tables according to size of the reporting jurisdiction and did
+not aggregate the data to the national level. In 1958, based on
+a review of the UCR by a consultant committee (FBI, 1958), it
+was felt that there was enough coverage to begin to estimate
+annual crime rates for the Nation as a whole, which the FBI
+began to do with the publication of the 1958 report. 
+
+State-Level Reporting
+
+In the late 1960's a few States that had been compiling their
+own statistics arranged with the FBI to act as the data
+collection point for all ORIs within the State, and began to
+send the entire State's data directly to the FBI, in an effort
+to make the process more manageable for the FBI. Other States
+also began to compile their crime statistics; under the Law
+Enforcement Assistance Administration (LEAA), funds were made
+available to the States to establish statewide programs as part
+of State criminal justice Statistical Analysis Centers (SACs).
+The SACs were developed in an effort to build analytic
+capability in States, so that they could deal with their crime
+problems by themselves. The FBI then developed requirements for
+State UCR collection programs; currently, 44 States have met
+these requirements and send all of their agencies' data to the
+FBI.( Footnote: The decrease in the early 1980's was due to the
+loss of LEAA funding.)  See figure 1, which shows how the
+program developed over the past four decades.
+
+----------------------------------------------------------------
+Figure 1.  Number of States Submitting 
+UCR Data Directly to the FBI
+
+         Number of States
+    1969        2
+    1970        9
+    1971       11
+    1972       13
+    1973       22
+    1974       32
+    1975       36
+    1976       41
+    1977       43
+    1978       45
+    1979       47
+    1980       44
+    1981       40
+    1982       39
+    1983       41
+    1984       41
+    1985       41
+    1986       41
+    1987       41
+    1988       41
+    1989       42
+    1990       42
+    1991       42
+    1992       42
+    1993       44
+    1994       44
+    1995       44
+    1996       44
+    1997       44
+
+Source: CIUS, 1969-97, and 
+States responding by letter, 
+e-mail, and telephone  
+----------------------------------------------------------------
+
+Although some of the SACs disappeared or were scaled down after
+Federal funding declined, States have continued to compile their
+own crime data. Most States and territories have set up
+State-level UCR programs --some under SACs, some under the State
+police, and some in other agencies -- and now publish annual
+crime reports, and the FBI continues to compile and publish the
+data for the Nation as a whole. Appendix B provides a (partial)
+listing of the availability of State on-line publication of crime data.
+
+Comparing Crime Data
+
+The annual publication of CIUS is still an occasion for the
+media to compare a jurisdiction's crime rates with those of
+other jurisdictions and with its past experience, so media
+pressure has not been entirely dispelled. But nowadays reporters
+and the public are more sophisticated and recognize that the
+police have only a limited ability to affect many types of
+crime. This has eased the pressure on police administrators "to
+keep the crime rate down" by reporting less crime than had
+occurred, although the pressure to falsify crime data still
+persists, from Philadelphia to New York City to Atlanta to Boca
+Raton. (Footnote: See The Philadelphia Inquirer, November 1,
+1998, "How To Cut City's Crime Rate: Don't Report It;"  The New
+York Times, August 3, 1998, "As Crime Falls, Pressure Rises To
+Alter Data;" The Atlanta Journal-Constitution, May 21, 1998,
+"Manipulation of Crime Figures Alleged;" and The Miami Herald,
+May 3, 1998, "Sugarcoating? Officer Faked Boca Crime Stats.")
+
+Other problems with the data are due to inadequate systems and
+procedures. But as local jurisdictions automate their crime
+record systems we should be able to see improvements in crime
+data accuracy. New software products for police records
+management include provisions for automated reporting of UCR and
+NIBRS data in the correct formats. And the accuracy of crime
+data seems to have been improving.  As figure 2 shows, the UCR
+estimates of violent crime recorded by the police have been
+drawing closer to (and following the same general pattern of)
+estimates of violent victimizations that victims say they
+reported to the police (the two middle lines). 
+
+----------------------------------------------------------------
+Figure 2. Four measures of serious violent crime
+
+            Serious Violent Crimes (including homicide)
+
+         Total             Victimizations     Crimes
+         violent           reported           recorded by
+Year     crime             to the police      the police       Arrests
+
+1973       3,590,500       1,861,000           715,900          392,700       
+1974       3,800,000       2,030,000           791,000          462,900       
+1975       3,594,700       1,976,100           844,100          441,100       
+1976       3,613,300       2,039,600           822,800          414,600       
+1977       3,662,500       1,966,800           845,700          438,500       
+1978       3,626,100       1,879,800           894,100          469,900       
+1979       3,834,800       2,020,500           998,700          467,700       
+1980       3,794,400       2,037,500         1,108,300          482,900       
+1981       4,101,700       2,217,900         1,125,000          496,600       
+1982       3,926,200       2,232,700         1,108,300          547,400       
+1983       3,455,500       1,877,400         1,064,900          516,600       
+1984       3,683,300       2,003,500         1,081,800          501,600       
+1985       3,358,400       1,926,500         1,126,700          506,800       
+1986       3,284,700       1,900,200         1,268,800          565,000       
+1987       3,424,900       1,987,800         1,265,300          568,100       
+1988       3,563,000       1,942,000         1,336,700          600,000       
+1989       3,533,700       1,847,800         1,405,000          666,100       
+1990       3,500,600       1,949,200         1,556,800          722,400       
+1991       3,712,000       2,133,000         1,632,700          738,200       
+1992       3,987,000       2,161,000         1,657,300          722,700       
+1993       4,191,000       2,218,500         1,648,100          716,100       
+1994       4,116,000       2,110,800         1,605,600          778,800       
+1995       3,493,500       1,848,600         1,549,900          796,200       
+1996       3,260,000       1,740,400         1,444,600          729,900       
+1997       3,039,000       1,741,800         1,405,200          717,800
+1998       2,776,800       1,587,900         1,319,800          675,900
+
+Note:  The serious violent crimes included are rape, robbery, aggravated assault,  
+     and homicide.  Because of changes made to the victimization  survey, data 
+     prior to 1992 are adjusted to make them comparable to data collected under 
+     the redesigned methodology.  Estimates for 1993 to 1998 are based
+     on collection year while earlier estimates are based on data year.    
+        
+The measures of violent crime come from two sources of data: 
+  1)  The National Crime Victimization Survey (NCVS) a household survey 
+      ongoing since 1972 that interviews about 80,000 persons age 12 and older 
+      in 43,000 households twice each year about their victimizations from crime. 
+  2)  The Uniform Crime Reports (UCR) that collects information on crimes and arrests 
+      reported by law enforcement authorities to the FBI.
+ 
+----------------------------------------------------------------
+
+Measures of Serious Violent Crime
+
+Source:  http://www.ojp.usdoj.gov/bjs/glance/cv2.htm) (Footnote:
+The victimization data are from the National Crime Victimization
+Survey (NCVS), which began in 1972.  In it a random sample of
+U.S. households is chosen, and household members age 12 and over
+are asked about their victimization experiences.  The crime data
+are from CIUS, modified to be made comparable to the
+victimization data; that is, for robbery it means that all
+commercial robberies are excluded, as are rapes, robberies and
+aggravated assaults whose victims were under 12 years old.  That
+the two sources of data are not converging means that the crimes
+that citizens say they have reported to the police are being
+recorded more completely by the police in their statistics.  For
+a more complete description of the characteristics of the two
+crime measures, see The Nation's Two Crime Measures (BJS/FBI,
+1995, http://www.ojp.usdoj.gov/bjs/pub/pdf/ntmc.pdf and in the
+recent issues of CIUS).)
+
+Coverage Gaps and Imputation 
+
+However, in recent years more and more of the crime statistics
+reported by the police have not been based on crime counts but
+on imputed crime counts. Figure 3 shows how the percentage of
+the population covered by the UCR has changed over time; as can
+be seen, a long period of improvement in coverage has been
+followed in recent years by a reduction in coverage. (Figure 3.
+Percent of the U.S. Population Covered by the UCR  Source: 
+CIUS, 1953-97.) This rather considerable decline in population
+coverage in the 1990's is due in part to problems at the State
+level, in converting their crime reporting systems to comply
+with NIBRS requirements.  As problems are dealt with, the
+coverage should return to above 95%.
+
+The missing coverage is not uniform over space and time. Most
+jurisdictions provide largely accurate crime reports every month
+while others do not, for reasons described later in the report.
+Since 1969 more and more States have passed legislation
+mandating the submission of crime data by local jurisdictions to
+state agencies, but very few incur penalties if they do not
+comply with such requirements. See Appendix C for a listing of
+the characteristics of State UCR reporting procedures.
+
+Appendix D shows the extent to which the 50 States
+have provided crime reports to the UCR since 1958, the year that
+national and State crime rates were first published. As can be
+seen from the patterns, some States have historically been able
+to provide close to 100 percent UCR coverage (and therefore low
+imputation rates). This response is true of about 20 States.
+
+The infusion of LEAA funding in the 1970's apparently permitted
+an additional 12 States to improve their UCR reporting systems. 
+All experienced a reduction in the percent of crime imputed in
+the 1970's and continue to have low percentages of imputed
+crime. Some States, however, have experienced substantial
+problems in UCR reporting:
+
+*Complete data for Illinois, for example, have not been included
+in the UCR since 1985, initially because the Illinois statutory
+definition of sexual assault is inconsistent with the UCR
+definition of rape, (Footnote:  "Until 1984, 'rape' was defined
+as the carnal knowledge of a female, forcibly and against her
+will.  On July 1, 1984, Illinois' sexual assault laws became
+gender neutral and the old concept of rape was broadened to
+include many types of sexual assault.  This index crime now
+includes all sexual assaults, completed and attempted,
+aggravated and non-aggravated."  (Illinois Criminal Justice
+Information Authority, 1987, p. 5.)) and since 1992 because the
+Illinois UCR submissions did not adhere to the UCR's "hierarchy
+rule."  
+
+*A number of States have had problems in implementing NIBRS,
+reflected in recent major increases in the percentage of imputed
+UCR data or in the complete absence of data. 
+
+*In still other States, there has been a recent gradual growth
+in the percent imputed, reflecting a gradual withdrawal of local
+jurisdictions from the UCR reporting program.
+
+These reporting omissions (i.e., data that are missing or are
+reported too late to meet the publication deadline of CIUS) have
+generally been considered to be of little consequence, because
+most do not account for a significant percentage of overall
+crime -- as can be seen in figure 3, despite the reporting gaps
+depicted in Appendix D, the UCR still represents 87 percent of
+the U.S. population. Moreover, the FBI has developed procedures
+to accommodate such omissions. These procedures in essence "fill
+in the gaps" by imputing data when the data are either missing
+or not furnished to the FBI until after its publication
+deadline. Such imputations permit the FBI to make national,
+regional, and State estimates of crime data despite the missing
+data, and thus keep the annual publication of CIUS on schedule
+with relatively comparable data from year to year.
+
+----------------------------------------------------------------
+Figure 3.  Percent of the U.S. Population
+Covered by the UCR
+
+            Percent of U.S. population
+       1953        70%
+       1954        75
+       1955        80
+       1956        81
+       1957        83
+       1958        88
+       1959        88
+       1960        88
+       1961        92
+       1962        93
+       1963        92
+       1964        91
+       1965        92
+       1966        91
+       1967        92
+       1968        92
+       1969        92
+       1970        91
+       1971        92
+       1972        93
+       1973        93
+       1974        94
+       1975        95
+       1976        96
+       1977        98
+       1978        98
+       1979        98
+       1980        98
+       1981        97
+       1982        97
+       1983        97
+       1984        96
+       1985        97
+       1986        97
+       1987        96
+       1988        96
+       1989        96
+       1990        96
+       1991        96
+       1992        95
+       1993        90
+       1994        90
+       1995        90
+       1996        88
+       1997        87
+
+Source:  CIUS, 1953-97
+
+----------------------------------------------------------------
+
+But researchers have been using county-level data to study crime
+characteristics, without realizing that some counties' crime
+statistics are based on a substantial amount of imputed data.
+(Footnote: Neither estimated city nor county data are
+disseminated outside the FBI. They are used solely to arrive at
+State and national estimates.)  The county-level data set is
+compiled from the raw jurisdictional data provided by the FBI to
+the National Archive of Criminal Justice Data (NACJD), which
+uses its own county-level imputation procedures (described in
+Section IV.). 
+
+NACJD is maintained by the University of Michigan's
+Inter-university Consortium for Political and Social Research
+(ICPSR). Funded by BJS, NACJD obtains the FBI's archived raw
+crime and arrest data sets to archive them on their own website
+in a form suitable for research use. NACJD has agency- level
+data files from 1966-96 and data files aggregated at the county
+level for 1977 through 1996. Imputation procedures used by NACJD
+in aggregating data to the county level are described in Section
+IV.
+
+As mentioned earlier, in some cases the data for a whole State
+have been problematic. In particular, over the past decade some
+or all of the data from Delaware (1995), Florida (1988, 1996),
+Illinois (1985-97), Iowa (1991), Kansas (1993-97) Kentucky
+(1988, 1996-97), Michigan (1993), Minnesota (1993), Montana
+(1994-97), New Hampshire (1997), Pennsylvania (1995), and
+Vermont (1997) have not been included by the FBI for tabulation
+in CIUS, as seen in figure 4. In other words, to develop national 
+estimates of crime, data for States have been imputed in whole 
+or in part. Imputation to such an extent may no longer be 
+appropriate or desirable, especially now that UCR crime data 
+are legislatively required to be used in formulas for
+allocating certain Federal funds.
+
+------------------------------------------------------------------
+Figure 4.  State-Level Reporting of UCR Data to the FBI
+
+Indiana          no State-level data
+Mississippi      no State-level data
+Missouri         no State-level data
+Utah             no State-level data 1970-93 reported UCR data to the FBI 1994-97
+South Dakota     no State-level data 1970-92 reported UCR data to the FBI 1993-97
+Dist. of Col.    no State-level data 1970-80 reported UCR data to the FBI 1981-97
+Washington       no State-level data 1970-80 reported UCR data to the FBI 1981-97
+North Dakota     no State-level data 1970-78 reported UCR data to the FBI 1979-97
+Connecticut      no State-level data 1970-77 reported UCR data to the FBI 1978-97
+Massachusetts    no State-level data 1970-77 reported UCR data to the FBI 1978-97
+New Hampshire    no State-level data 1970-77 reported UCR data to the FBI 1978-96  had some problems with data 1997
+Wyoming          no State-level data 1970-77 reported UCR data to the FBI 1978-97
+Alabama          no State-level data 1970-76 reported UCR data to the FBI 1976-97
+Colorado         no State-level data 1970-76 reported UCR data to the FBI 1976-97
+Ohio*            no State-level data 1970-76, 1985-97 reported UCR data 1976-84
+Texas            no State-level data 1970-76 reported UCR data to the FBI 1976-97
+Arizona          no State-level data 1970-74 reported UCR data to the FBI 1976-97
+Georgia          no State-level data 1970-74 reported UCR data to the FBI 1975-97    
+Hawaii           no State-level data 1970-74 reported UCR data to the FBI 1975-97
+Iowa             no State-level data 1970-74 reported UCR data to the FBI 1975-97 had some problems with data 1991
+Kansas           no State-level data 1970-74 reported UCR data to the FBI 1975-97 had some problems with data 1993-97
+Louisiana        no State-level data 1970-74 reported UCR data to the FBI 1975-97
+Maryland         no State-level data 1970-74 reported UCR data to the FBI 1975-97
+New York         no State-level data 1970-74 reported UCR data to the FBI 1975-97
+Tennessee*       no State-level data 1970-74, 1981-97 reported UCR data to the FBI 1975-80
+Virginia         no State-level data 1970-74 reported UCR data to the FBI 1975-97
+Arkansas         no State-level data 1970-73 reported UCR data to the FBI 1974-97
+Idaho            no State-level data 1970-73 reported UCR data to the FBI 1974-97    
+Illinois         no State-level data 1970-73 reported UCR data to the FBI 1974-97 had some problems with data 1985-97
+Maine            no State-level data 1970-73 reported UCR data to the FBI 1974-97
+Nevada           no State-level data 1970-73 reported UCR data to the FBI 1974-97
+New Mexico*      no State-level data 1970-73, 1984-97 reported UCR data to the FBI 1974-83
+Oklahoma         no State-level data 1970-73 reported UCR data to the FBI 1974-97
+Oregon           no State-level data 1970-73 reported UCR data to the FBI 1974-97
+South Carolina   no State-level data 1970-73 reported UCR data to the FBI 1974-97
+Michigan         no State-level data 1970-72 reported UCR data to the FBI 1973-97 had some problems with data 1993
+North Carolina   no State-level data 1970-72 reported UCR data to the FBI 1973-97
+Delaware         no State-level data 1970-71 reported UCR data to the FBI 1972-97 had some problems with data 1995
+West Virginia    no State-level data 1970-71 reported UCR data to the FBI 1972-97
+Florida          no State-level data 1970 reported UCR data to the FBI 1971-97 had some problems with data 1988, 1996
+Kentucky         no State-level data 1970 reported UCR data to the FBI 1971-97 had some problems with data 1989, 1993-97
+Minnesota        no State-level data 1970 reported UCR data to the FBI 1971-97 had some problems with data 1993
+Alaska           reported UCR data to the FBI 1970-97
+California       reported UCR data to the FBI 1970-97
+Montana          reported UCR data to the FBI 1970-97 had some problems with data 1994-97
+Nebraska         reported UCR data to the FBI 1970-97
+New Jersey       reported UCR data to the FBI 1970-97
+Pennsylvania     reported UCR data to the FBI 1970-97 had some problems with data 1995
+Rhode Island     reported UCR data to the FBI 1970-97
+Vermont          reported UCR data to the FBI 1970-97 had some problems with data 1997
+Wisconsin        reported UCR data to the FBI 1970-97 
+
+Sources:  CIUS, 1969-96, and responses from State officials by letter, e-mail, and telephone
+
+------------------------------------------------------------------
+
+The UCR and Funding Decisions
+
+In 1994, in reauthorizing the Omnibus Crime Control and Safe
+Streets Act of 1968, the U.S. Congress appropriated additional
+anticrime funding for jurisdictions under the Local Law
+Enforcement Block Grant Program. The amount of funds received by
+a jurisdiction was to be based on the number of violent crimes
+they had experienced in the 3 most recent years (1992-94).
+According to the statute, the UCR was to be the source of the
+crime data. 
+
+This marked the first time that funding decisions were to be
+made on the basis of the data in the  UCR, and caused a number
+of other agencies within the US Department of Justice (DOJ) to
+deal directly with the short- comings of this data set. The
+Bureau of Justice Assistance (BJA) was charged with the task of
+allocating the funds; BJA called on BJS, with its statistical
+expertise and know- ledge of the UCR's characteristics, to
+develop the allocation formula according to the law's
+provisions. [Appendix E gives the background for the development
+of this formula.]   
+
+BJS used the actual raw crime data as reported by each police
+agency to the FBI, rather than the imputed data, in the
+allocation formula. But in reviewing the raw UCR data, BJS
+immediately recognized their limitations: Of the 18,413 police
+agencies that reported to the FBI in 1992-94, 3,516 (19%) did
+not provide crime data for any month during the 36-month period
+used in the formula and another 3,197 (17%) reported between 1
+and 35 months (table 1). 
+
+----------------------------------------------------------------
+Table 1.  Reporting Behavior of 18,413 Police Agencies, 1992-94
+
+
+                                    Police agencies
+Reporting frequency                 Number      Percent
+Total                               18,413       100%
+
+Full reporting (36 months)          11,700        64%
+Partial reporting (1-35 months)      3,197        17
+No reports                           3,516        19
+   Special agency                    2,650        14
+   Regular agency                      866         5
+
+----------------------------------------------------------------
+
+Although most gaps in the data were found to be relatively 
+inconsequential, this was not true across the board. Of the 
+3,516 non-reporting agencies, all but 866 either were within 
+jurisdictions that had other agencies report for them or were 
+State agencies or special police agencies (such as transit 
+police, fish-and-game police, or park police) that probably 
+were not eligible for a formula award. (Footnote:  But
+by not reporting crimes that occurred within the jurisdiction,
+they may have affected the statistics of agencies that were
+eligible for an award, and thus the crime figures reported to
+the FBI for that jurisdiction may be lower than had actually
+occurred. In some States an agency reporting as few as five
+violent crimes in the 3-year period qualified for a grant of
+over $10,000.)
+
+However, the remaining 866 agencies that provided no crime data
+for the 36-month period included some major jurisdictions:  the
+primary police agencies in 3 cities and counties with
+populations over 100,000; 17 cities with populations between
+50,000 and 100,000; and almost 200 cities with populations over
+10,000. Note that fully 5 percent of the regular police agencies
+provided no reports for 3 full years. A subsequent analysis
+found that 15 percent of the regular agencies did not provide
+any data for 1992, and reporting behavior worsened in succeeding
+years (reanalysis by S. Lindgren, May 27, 1999).
+
+In less populous States, even cities with populations of 10,000
+received awards. Thus, the lack of complete reporting had
+financial consequences for a significant number of
+jurisdictions. The legislation does make provision for
+determining funding if UCR data are not available, but it may
+also serve as a spur for ORIs to improve their reporting
+practices.
+
+The UCR and Electronic Access
+
+Another recent change in the crime data environment is the
+greater degree of public access to crime data. They have always
+been available to the public on paper, in the annual CIUS
+publications. For the most part, analyzing the data in the past
+usually meant entering data from the paper version of CIUS into
+one's own computer. (Footnote:  When I started as a Visiting
+Fellow at BJS in early 1995, BJS statisticians were still doing
+this on a regular basis.) As discussed earlier, for many years
+they have been made available (primarily to researchers) in
+electronic form (e.g., magnetic tape), but they are now also
+accessible to the general public from various websites. 
+
+The FBI, BJS, and NACJD now have regularly updated websites that
+provide access to UCR data, so it can be anticipated that more
+people will be encountering the inconsistencies in the data.
+Each site contains crime data, but in different forms and
+formats:
+
+*The FBI site is http://www.fbi.gov;
+it contains the UCR data as published in CIUS, beginning in 1995.
+
+*The BJS site is http://www.ojp. usdoj/bjs In the section Crime
+and Justice Electronic Data Abstracts (CJEDA), it provides UCR
+crime data by State from 1960 to 1997, UCR crime and arrest data
+for the 90 largest counties for 1990-96, and 1985-97 homicide
+data for cities with populations over 100,000.
+
+*The NACJD site is  http://www.icpsr.
+umich.edu/nacjd/ucr.html; it contains downloadable arrest and
+offense data at the agency level from 1966 to 1996 and at the
+county level from 1977 to 1996.
+
+The State estimates provided by the FBI (and found on the BJS
+website) are based on the FBI's imputation and estimation
+procedures and are not directly comparable to NACJD's
+county-level data. Now that any person in the world with a
+computer and modem can download the data and do comparisons, it
+would be helpful to resolve the data inconsistencies as much as
+possible and to provide explanations for the inconsistencies
+when resolution is not possible. (Footnote:  Many of the
+downloadable data sets currently contain explanations for some
+inconsistencies (see, for example, the data set at
+http://www.ojp.usdoj.gov/bjs/dtdata.htm#crime), but the
+explanations are not complete.)
+
+Use of Sub-National UCR Data
+
+The ready availability of UCR data at the subnational level has
+resulted in researchers using these data to answer policy
+questions. Unfortunately, the data may not be up to the task. To
+understand why this is so, a brief account of the history of
+their collection, aggregation, and initial uses would be
+beneficial.
+
+Prior to 1958, UCR data were collected from individual
+jurisdictions and aggregated to give, for each crime type in the
+crime index: urban and rural crime rates and year-to-year
+changes; crime counts by size of city (for reporting cities) and
+year-to-year changes; crime counts by State for reporting cities
+in each State, and year-to-year changes; and crime counts in
+cities by size of city, and year-to-year changes. State-level
+data were based on only those cities that reported to the FBI, and
+State-level crime rates were calculated by dividing the crime
+counts for these cities by their aggregate population.
+
+State-level data. Despite the known deficiencies in the data,
+the UCR State-level homicide data for the years 1930, 1940,
+1950, 1960, and 1970 were used by Ehrlich (1975) to estimate
+that every execution deters eight homicides, a finding that the
+U.S. Supreme Court cited (Maltz, 1996, p. 36). Critics pointed
+out some of the analytic problems, but it was assumed that
+State-level homicide data would be more accurate than data
+concerning other crimes. 
+
+However, the State-level homicide rates for 1930, 1940, and 1950
+were doubtless based on jurisdictions covering less than 70
+percent of the Nation.  (See figure 3.) The variation in
+coverage from State to State was probably considerable. Although
+I have not examined the data from this era, it seems likely that
+much of the reporting was from urban agencies. Thus, a State
+that was 75 percent rural and 25 percent urban, but in which the
+urban agencies were much more diligent than rural agencies in
+reporting UCR data, would have its homicide rate based primarily
+on the homicide experience of its urban areas rather than on the
+experience of the State as a whole.
+
+County-level data. In 1983 BJS published Report to the Nation on
+Crime and Justice (Zawitz, 1983), a snapshot of the state of
+crime and justice at that time. It featured a choropleth map of
+the county-by-county violent crime rate in the United States in
+1980 (Figure  5. Map: County-Level UCR Violent Crime Rates, 1980 
+Source:  Zawitz, 1983). (Footnote: A choropleth map of crime
+displays levels of crime with different shadings or colors.) To
+produce this map, BJS tasked NACJD with estimating the crime
+rate of each county. This was done by aggregating the crime
+count for all the jurisdictions in the county and dividing by
+the aggregated population for those jurisdictions. 
+
+Some counties reported no data; they are represented in white in
+the figure. ORIs that did not report at least 6 months of data
+to the FBI were also excluded; those that did report 6 months or
+more, but provided less than 12 months, had their data imputed.
+The imputation procedure simply multiplied the violent crime
+rate by 12/N, where N was the number of months reported. This
+implicitly assumes that the crime rate for non-reporting months
+is the same as for the reporting months. 
+
+Moreover, if some agencies in a county did not report, or
+reported less than 6 months of data, their data and their
+population were excluded from the crime rate calculations. This
+implicitly assumes that the crime rate for nonreporting ORIs is
+the same as for the reporting ORIs in the county, which is
+probably a stretch.
+
+It should be noted that the imputation procedure was developed
+as an ad hoc procedure to make the 1980 data reasonably
+comparable from county to county so as to provide a snapshot,
+and not as a final means of dealing with missing data.
+
+However, this report was received so favorably that BJS decided
+to update it.  In 1988 it released the second edition of Report
+to the Nation on Crime and Justice (Zawitz, 1988a), based on UCR
+data from 1984.  (See Figure  6. Map: County-Level UCR Violent Crime
+Rates, 1984  Source: Zawitz, 1988a.) NACJD used the same
+imputation procedure to fill in the missing data. (Footnote: The
+procedure is described in Zawitz (1988b), p. 8.)
+
+Because of favorable reception of the reports and the data on
+which they were based, BJS decided to make county-level data
+sets routinely available through NACJD. The deficiencies or
+consequences of using the ad hoc imputation procedure were not
+considered, because up to that time the county-level data had
+only been used for cross-sectional comparisons and not for more
+rigorous analytic purposes.
+
+Since then, however, these data have been used for other
+purposes. For example, a recent study used the data to conclude
+that right-to-carry laws reduce crime (Lott, 1998). This finding
+was contested on methodological grounds (Black and Nagin, 1998),
+but not from the standpoint of the data quality. It turns out
+that smaller counties are more likely than the larger counties
+to have a significant fraction of their data imputed (C. Dunn,
+at the 1997 workshop); the fact that smaller counties are more
+rural may have a decided effect on this analysis.
+
+One data documentation feature that NACJD now uses (until an
+improved imputation procedure is implemented) is a "coverage
+factor" in the county-level data set. This feature (described in
+Section VI) at least warns the analyst that the data are limited
+in coverage.
+
+The UCR and NIBRS
+
+A fourth change in the crime data picture concerns the way crime
+data are to be reported to the FBI. Over 10 years ago a study
+commissioned by the FBI and BJS provided a "blueprint" for
+changing the way crime data were to be reported to the FBI
+(Poggio et al., 1985). The recommended changes have been adapted
+and incorporated in a set of new procedures that comprise NIBRS;
+NIBRS has already been implemented in a number of states and is
+expanding to cover the entire United States.
+
+The change in data collection is considerable. Under the UCR
+program an agency provides a monthly summary report of crime,
+called Return A (Figure 7.  Replica of the FBI's UCR Return A);
+each line of the report refers to a single type of crime; it
+contains a count of the number of crimes of that type that had
+occurred in that month. Under NIBRS each incident is to be
+reported in detail, with a number of records devoted to
+describing the characteristics of each crime. For a single 
+incident, information is recorded for each included offense
+(type, weapons, location, motivation method of entry, etc.);
+victim, offender, and arrestee; type of property; and so on. 
+See figure 8 (Figure 8. Diagram: The Structure of NIBRS Data Elements
+Source:  Akiyama and Nolan, 1999a). NIBRS will provide a great
+deal of detail about the nature of criminal activity: for
+example, one will be able to determine to what extent aggravated
+assaults were committed by family members or strangers, or what
+fraction of burglaries occurred in apartments or in private
+homes, by time of day, and in other ways. This will give both
+the police and the public with detailed information on the risk
+of crime to enable them to develop more useful policies and
+tactics.
+
+One of the problems with current UCR reporting that should be
+ameliorated by NIBRS is caused by a characteristic of the UCR
+system known as the hierarchy rule. The hierarchy rule for
+reporting crimes was instituted by the FBI in the 1930's, to
+ensure that there would be no double-counting of crimes. A
+criminal event that includes two different crime categories is
+thus counted only once, and only in the most serious crime
+category. For example, if a convenience store robbery results in
+the death of the store clerk, this would be classified as a
+homicide rather than a robbery -- because homicide is a more
+serious crime than robbery. Yet this expedient, important in the
+pre-computer age, masks the nature of what happened. It would
+certainly be better to recognize both characteristics of the
+incident, if only to be able to provide an estimate of risk, in
+the form of the fraction of incidents that start out as
+robberies but result in homicide (see, e.g., Maltz, 1976b).
+
+Even with NIBRS implemented, summary data will doubtless be
+aggregated and compiled for each agency, and data for some
+agencies may continue to be missing, delinquent, or in error. In
+other words, there will still be a need for imputation
+procedures after NIBRS is implemented nationwide. In fact,
+missing data may become a greater problem under NIBRS, because
+of the huge increase in categories and the complexity of
+definitions. This may make it more difficult to assume that the
+counting rules and definitions are being applied uniformly.
+
+III. Incomplete Crime Data
+
+Two separate streams of crime data are sent to the FBI's Uniform
+Crime Reporting Section: one from individual police agencies,
+the other from State UCR collection programs. Although 36 States
+now have statutes mandating the reporting of crime and other
+criminal justice information, not all police departments submit
+this information to their State agency designated to collect the
+data, or they may submit it too late for entry in CIUS.
+
+Occasionally some of the data may appear to be in error -- too
+high or too low, based on the jurisdiction's past crime
+experience. This section describes the procedures used by the
+FBI to correct errors in reporting and, when reporting gaps
+occur, to impute data as necessary. It also discusses when and
+how UCR data files are updated.
+
+Error Checking
+
+Potential errors in the data are checked in different ways,
+depending on how the UCR reports were sent to the FBI and
+depending on the size of the jurisdiction. If the data are first
+collected by the State agency, that agency itself may undertake
+follow-up procedures to verify the data. When the errors are
+glaring, they can be found by simply inspecting the data or by
+using simple graphical techniques. One State agency refers to
+such errors as "tent poles" and "craters" -- excessively high or
+low figures compared to the surrounding data (R. Christ,
+personal communication). Such errors often come from transposing
+numbers in returns submitted manually. Small errors, however,
+will probably not be caught in this manner.
+
+If the State does not have auditing procedures, or if the data
+are sent directly to the FBI, staff members in the FBI's UCR
+Section may note the omission or anomaly and request the State
+agency to follow up. In cases in which the data are sent
+directly to the FBI, the FBI may follow up with the police
+agency by mail. If, however, the agency has a population of over
+100,000, personnel from the UCR Section call the agency directly
+to verify the data (D. Kording, at the 1997 workshop).
+
+When errors are found in the data, they are corrected, and the
+corrected counts are included in the statistics. Depending on
+when the errors were discovered and corrected, they may not be
+incorporated in CIUS (if the corrections occur after the FBI's
+publication deadline), but they may be included in the
+public-use data set archived at NACJD (J. Lynch, at the 1997
+workshop). This means that someone trying to determine the
+extent of crime in a jurisdiction will encounter unexplained
+differences between CIUS statistics and the data archived by
+NACJD.
+
+Reasons for Incomplete Reporting
+
+Aside from these errors in reporting, police agencies may not
+provide complete (or any) reports to the FBI. The agencies may
+be delinquent or incomplete in their reporting of crime for a
+number of reasons:
+
+*Some agencies experienced natural disasters that prevented them
+from getting their data in on time (or in some instances, at
+all).
+
+*As has been the case with other public agencies, budgetary
+restrictions on the police have meant that some agencies have
+had to cut back on services. Although crime reporting is
+considered an essential function because it provides information
+about community safety to the public, some agencies that are
+especially strapped may forgo these routine clerical activities
+so as to ensure that sufficient resources exist for patrolling
+the streets.
+
+*Retirements, promotions, and other personnel changes may mean
+that the person experienced in the preparation of UCR crime and
+arrest data is replaced by someone -- 
+
+-- who has little experience in its preparation (and
+consequently makes numerous errors)  
+
+-- who is not given sufficient training 
+
+-- who gives the task a low priority 
+
+-- or who doesn't prepare the data in a timely manner.
+
+
+
+*With respect to training, some jurisdictions may rely
+completely on handbooks on UCR reporting produced by the Program
+Support Section, and there may be ambiguities in the reports
+that require more complete descriptions than are included in the
+handbooks.
+
+*Phasing in a new reporting system or computerization of the old
+system may cause delays or gaps in the crime reporting process. 
+This may be especially true as agencies convert to NIBRS. (See
+Appendix D.)
+
+*Small agencies with little crime to report may feel it
+unnecessary to fill out reports that are filled almost entirely
+with zeros. [In fact, in some cases small agencies file reports
+for only 1 month; they want to ensure that their agencies'
+employee statistics are included in CIUS, and reporting their
+data for 1 month will accomplish this.]
+
+*A State may have offense definitions that are incompatible with
+UCR definitions, leading to data being submitted but not
+accepted.
+
+Thus, there are a number of reasons that crime reports may be
+incomplete, late, or in error. The extent to which this is a
+problem in an individual State can be seen in Appendix D (page
+47), which shows the UCR reporting behavior of each State over
+the past 40 years. Note that the impact of LEAA funding of State
+statistical systems in the 1970's is apparent in these graphs,
+as is (in some States) the impact of its termination.  
+
+Note also that while some States have a history of consistently
+good reporting, other States have a history of consistently poor
+reporting, and yet others have exhibited highly erratic
+reporting behavior. In particular:
+
+*The data for six States were excluded from the 1997 UCR, with
+the data from one of those States not having been included since
+1993.
+
+*Six States have consistently poor reporting, missing reports on
+the crime experienced by more than 20% of their population.
+
+Some of the recent erratic reporting by States is attributable
+to their conversion to NIBRS. In particular, some States and
+agencies that have begun the NIBRS conversion process are
+working with software that currently does not have the ability
+to produce UCR reports. Over the long term we can expect that
+many of these reporting problems will disappear or at least
+diminish.  Many smaller agencies that are currently automating
+are purchasing computer software that provides near-automatic
+reporting (including audit checks) of these data. However, in
+the near term we can expect these problems to continue, for
+standards for such software do not currently exist.  (See
+Appendix C.)
+
+Incomplete Arrest Data
+
+As with offense data, there are major gaps in arrest data. To
+some extent the problems with arrest data are greater because of
+three factors:
+
+*The percent of arrests reported by police is substantially
+lower than the percentage of crimes reported.
+
+
+
+*By publishing the characteristics of arrestees, there is an
+implicit assumption that they also characterize those who commit
+similar crimes but are not arrested.
+
+*Whereas crimes reported to the police are generally considered
+to be (and have been shown to be) similar to crimes not reported
+to the police, arrests reported by the police are as much a
+reflection of police priorities as they are of criminal activity.
+
+Agencies are less diligent in reporting arrest data than crime
+data. The FBI attempts to ensure completeness of arrest data by
+rejecting an agency's adult arrest data if it does not also send
+in juvenile arrest data, nor is arrestee race information
+accepted without age and sex information (V. Major, at the 1997
+workshop). This means, however, that information on arrests is
+considerably less complete than information on crimes.
+
+Moreover, the arrest data published in CIUS are biased even in
+comparison to the arrest data eventually reported to the FBI.
+(Footnote: The FBI accepts data that it receives after its
+publication deadline date and includes them in data files sent
+to NACJD, so the data files include reports not included in
+CIUS.) For example, Snyder compared the 1980 CIUS arrest data
+with the final counts of arrests, after all of the
+late-reporting ORIs submitted their data (H. Snyder, personal
+communication, 1999). He found that juvenile arrests (as a
+percentage of all arrests) were overrepresented in the published
+statistics. He attributed this to the fact that large urban
+agencies, with higher percentages of juvenile arrestees,
+generally reported early (in time for publication) and the late
+reporters tended to be less urban agencies, with lower percent-
+ages of juvenile arrestees. So, not only are the arrest data
+published in CIUS not a representative sample of all arrests,
+they are not a representative sample of arrest data eventually
+reported to the FBI.
+
+Figure 9 shows how 1997 arrest reporting varies by State. As can
+be seen, 4 States and Washington, DC, did not provide acceptable
+arrest data, and more than half of the population was not
+represented in an additional 12 States. 
+
+---------------------------------------------------------------
+Figure 9.  Percent of Population Covered in Arrest Data 
+Reported to the FBI, 1997
+
+                       Percent of population
+State                  covered by reported arrest data
+
+District of Columbia                 0%
+Florida                              0
+Kansas                               0
+New Hampshire                        0
+Vermont                              0
+Kentucky                            19
+Illinois                            23
+Georgia                             33
+Mississippi                         37
+Montana                             39
+Delaware                            41
+Tennessee                           42
+Alaska                              44
+South Dakota                        45
+Nevada                              46
+New York                            46
+Pennsylvania                        47
+Ohio                                55
+Indiana                             57
+Missouri                            60
+Washington                          61
+New Mexico                          68
+Colorado                            70
+Utah                                75
+Wisconsin                           76
+Louisiana                           79
+Michigan                            81
+Iowa                                82
+Massachusetts                       83
+Arizona                             85
+Connecticut                         85
+Oregon                              87
+Arkansas                            89
+North Dakota                        90
+Alabama                             94
+Maine                               94
+Nebraska                            94
+West Virginia                       96
+New Jersey                          96
+Hawaii                              97
+Texas                               97
+Idaho                               98
+Wyoming                             98
+Virginia                            98
+California                          99
+North Carolina                      99
+South Carolina                      99
+Minnesota                          100
+Maryland                           100
+Oklahoma                           100
+Rhode Island                       100
+
+Source:  CIUS, 1997
+
+---------------------------------------------------------------
+
+Figure 10 shows the extent nationally to which arrest data have
+been reported to the FBI for the past four decades. The percent-
+ages are consistently lower than those for crime data (cover
+figure), but their time trend shows the same declining pattern.
+As with the decline in crime reporting, it is probably
+attributable for the most part to the difficulties in shifting
+to NIBRS. (Figure 10.  Percent of  U.S. Population Represented
+by Agencies that Provide Arrest Data  Source:  CIUS, 1960-97)
+
+---------------------------------------------------------------
+Figure 10.  Percent of U.S. Population Represented
+by Agencies that Provide Arrest Data
+
+            Percent of U.S. population
+       1960           61%
+       1961           63%
+       1962           67%
+       1963           68%
+       1964           70%
+       1965           69%
+       1966           70%
+       1967           73%
+       1968           73%
+       1969           72%
+       1970           75%
+       1971           76%
+       1972           77%
+       1973           74%
+       1974           64%
+       1975           84%
+       1976           82%
+       1977           88%
+       1978           95%
+       1979           93%
+       1980           92%
+       1981           94%
+       1982           81%
+       1983           86%
+       1984           76%
+       1985           85%
+       1986           82%
+       1987           83%
+       1988           77%
+       1989           81%
+       1990           78%
+       1991           75%
+       1992           84%
+       1993           83%
+       1994           80%
+       1995           74%
+       1996           72%
+       1997           68%
+
+Source:  CIUS, 1960-97
+
+
+---------------------------------------------------------------
+
+Note that compared to the reporting of crime data, there is a
+greater degree of annual variation in the reporting of arrest
+data.  Year-to-year differences of close to ten percent in the
+reporting population are not uncommon. This variation is due in
+part to the changes in reporting standards for arrests.
+
+For example the large "notch" in arrest reporting in 1974 was
+probably due to the changeover from annual to monthly arrest
+reporting, which took some time for agencies to systematize (V.
+Major, personal communication, May 20 and August 23, 1999). In
+prior years only agencies that reported arrests every month
+(i.e., were "12-months complete") were included in the arrest
+tallies; starting in 1974, when monthly arrest data began to be
+collected, arrest data were aggregated for all agencies with 6
+months or more of arrest data. This changed again after 1981;
+from 1982 on, the FBI reverted to reporting aggregate arrests
+for only those agencies that provided 12 months of arrest data.
+The effect of this change can be seen in the 1981-82 drop in the
+population represented in arrest reports.
+
+This lack of completeness and consistency (and, more
+importantly, lack of representativeness) of the reporting of
+arrest data can have major consequences because of implicit
+assumptions made by some individuals in "analyzing" the arrest
+data. For example, Snyder shows how these arrest data have been
+used improperly to infer offense rates of juveniles (Snyder,
+1999).
+
+V.  Processing and Publishing the Crime Data
+
+After the data are received by the FBI (specifically, by the
+Program Support Section of the Criminal Justice Information
+Services Division), they are stored in a data file that contains
+(among other data) offense data for each ORI taken from Return A
+(figure 7): month-by-month counts of each of the offenses
+listed. A computer program processes this file, in which the 12
+months of data for each offense are summarized by two numbers:
+total for that offense and number of months reported.  A page of
+output from one of the many programs used by the FBI to process
+the data is shown in Figure 11. (Figure 11. Part of the Printout
+of the FBI's Crime-by-County File )  This output file, "Crime by
+County," is one of then more widely distributed files. Note that --
+
+*The ORIs are grouped by State and by county within each State. 
+
+*An ORI's population and its Standard Metropolitan Area (SMA --
+not the same codes as used by the U.S. Bureau of the Census) and
+population group indicators are given. (See table 2.)
+
+----------------------------------------------------------------
+Table 2.  FBI Classification of Population Groups
+
+Population  group   Political  label   Population  range
+I                   City               250,000 and over
+II                  City               100,000 to 249,999
+III                 City               50,000 to 99,999
+IV                  City               25,000 to 49,999
+V                   City               10,000 to 24,999
+VI                  City/a             Less than 10,000
+VIII (Rural County) County/b           . . .
+IX (Suburban County County/b           . . .
+
+Note:  Group VII, missing from this table, consists of cities with population 
+under 2,500 and universities and colleges to which no population is attributed
+For compilation of CIUS, Group VII is included in Group VI.
+a/Includes universities and colleges to which no population is attributed.
+b/Includes State police to which no population is attributed.
+
+----------------------------------------------------------------
+
+*Both the total number of Index crimes and modified Index crimes
+(the first seven Index crimes plus arson) are given. (Footnote:
+The arson totals provided in figure 11 are summaries of all
+arson on file for the respective agencies and may not be
+representative of the number of months reported in the MO
+column.)
+
+*Although not apparent from the printout, only the reporting
+ORIs are included in this compilation.  If an ORI does not
+submit any UCR data for a year, it is omitted from the data
+file, and its population is not included in the county total.
+
+Publishing the UCR
+
+The deadline for submitting UCR data to the FBI is late March of
+the following year. Data submitted beyond this date are accepted
+by the FBI and incorporated in the data file until the FBI
+closes out the data file for that year. The date that this file
+is closed out is not fixed; for example, the 1997 file was not 
+closed out until early April 1999.
+
+The paper version of CIUS for a given year is published in the
+fall of the following year, usually in October or November.
+Between the March cutoff date and the publication date the staff
+of the Program Support Section perform the error checks and
+prepare the data for publication.
+
+
+
+January and February are devoted to writing to the larger ORIs
+to verify data and/or to request missing months; listings of
+missing months are routinely prepared during this period. Data
+from agencies that do not provide 12 months of data are analyzed
+to identify any month(s) deviating from agency norms due to
+special circumstances affecting those agencies (e.g., floods,
+tornadoes, and fire). By early March all agencies with
+delinquent data have been contacted. By mid-February population
+estimates are calculated, based on Census Bureau data, and
+included in the raw data file.
+
+By mid-April the data processing unit prepares a preliminary set
+of tables; this permits the Crime Analysis Research and
+Development Unit to begin to look for patterns in the data and
+draft the text and analysis for the report. In addition, the
+tables are sent to the outside contractor to format the tables 
+for printing.
+
+The material for CIUS is sent to an contractor in three
+installments. The first installment is delivered to the
+contractor in May. It consists chiefly of the appendixes, which
+have few tables and do not change much from year to year, the
+methodology section, and tables of law enforcement personnel,
+which had been collected from the ORIs in October. Over the next
+month the FBI  corrects the proofs and returns them to the
+contractor twice in succession.
+
+Installment 2, consisting chiefly of Crime Index Offenses
+Cleared, is sent to the contractor in early June and, as with
+the first installment, is proofread and returned to the
+contractor twice for revision over the next month.
+
+The third installment consists primarily of tables and text on
+offenses and arrests, as well as the program summary (Section I)
+and the inclusion of some data that were omitted from sections
+that had been prepared earlier. For example, the schedule for
+the 1998 CIUS projects completion of these three installments by
+the end of July, and a final check of the entire report by early
+August.
+
+Archiving the UCR Data File
+
+At the request of BJS, the raw data file is provided to NACJD
+for archiving. The file is then restructured by NACJD and
+additional fields are included to make it more accessible for
+research purposes. In the past this restructuring has resulted
+in errors such as mismatched fields; consequently,  the FBI
+cannot respond to queries about the data archived by NACJD.
+
+The file that NACJD archives is not the one used to produce
+CIUS; rather, it is the updated file that contains the
+additional data received by the FBI after the March publication
+deadline. This has meant that analyses using the raw data cannot
+be compared to the tables in CIUS, because they are based on
+different data sets.
+
+NACJD also produces county-level files from the raw data file
+(see Section II) which are available for downloading from NACJD
+(http://www.icpsr.umich.edu/nacjd/ucr.html) . Notes accompanying
+those files state that "UCR county-level files are not official
+FBI UCR releases and are being provided for research purposes
+only. Users with questions regarding these UCR county-level data
+files can contact the National Archive of Criminal Justice Data
+at ICPSR."
+
+
+
+Thus, two sets of UCR data are made available to the public.
+One, published in CIUS and available through the FBI website,
+contains the data sent to the FBI before its publication cutoff
+date. The other, available through the NACJD website, contains
+data sent to the FBI before its data file cutoff date, which may
+be considerably later than the publication cutoff date. The
+difference between the two is usually not great, but has led to
+some misunderstandings.
+
+VI.  Procedures Used for Imputing Crime Data
+
+It should be noted at the outset that the FBI does not publish
+or release data that include imputations below the State level.
+Its imputation procedures are used solely for estimating crime
+rates at the State and national levels.  NACJD, however, does
+publish offense data that have been imputed at the county level.
+In this section we describe the imputation procedures used by
+both the FBI and NACJD.
+
+FBI Imputation Procedures for Crime
+
+Whether an ORI reports through the Summary UCR Program or
+through NIBRS, the FBI will still need to use imputation
+techniques that allow it to make reasonable estimates of crime
+and arrests. The imputation procedures used by the FBI for
+estimating crime rates are described below. 
+
+Since 1958 the FBI has used two different means of imputing
+crime data for a police agency. (Footnote: Crime data are not
+imputed for all agencies; see "Imputation and Zero-Population
+Agencies.") If the agency reports 3 or more months, one
+procedure is used, while another is used when less than 3 months
+is reported.
+
+Partial Use of Data. If an agency has provided reports of crime
+data for 3 or more months, the imputation procedure is based on
+those reports. The total annual crime for that jurisdiction is
+estimated by multiplying the reported number of crimes by 12/N,
+where N is the number of months for which reports exist. Thus,
+an agency that reports 4 months of crime data (a third of the
+year) would be estimated to have 12/4, or 3 times the number of
+crimes that it reports for that period.
+
+Data Not Used. If an agency reports for 2 or fewer months, the
+number of crimes is estimated from scratch. These agencies are
+considered to be nonreporting agencies, and the FBI bases the
+imputed data for such agencies on the crime rates for the same
+year for similar agencies. "Similar agencies" are considered to
+be those in the same Population Group in the same State, but
+only those that provided 12 months of data. Table 2 (page 21)
+shows how the FBI categorizes these groups. Thus, if an agency
+in Alabama with a population of 150,000 reports 2 months or less
+of crime data in 1997, and the 1997 aggravated assault rate for
+Group II agencies (population between 100,000 and 249,999) in
+Alabama is 620.2 per 100,000, then the agency is estimated to
+have had 930.3 (620.2 x 150,000 / 100,000) aggravated assaults
+for 1997. (Footnote:  If there are no comparable ORIs in the
+State, the estimate is based on the rates of occurrence in the
+region: New England, Middle Atlantic, East North Central, etc.)
+
+NACJD Imputation Procedure
+
+Every year NACJD obtains a data set from the FBI containing the
+raw UCR figures from the FBI, archives it, and uses it to
+develop a file containing crime and arrest data for each county
+in the US. NACJD also has to contend with missing data, in
+aggregating to the county level. It has used two different
+imputation procedures: one for the 1980-93 data sets and the
+other for datasets from 1994 onward.
+
+As stated earlier, the original county-level imputation
+procedure was developed to be used to plot crime by county for a
+single year, 1980. When BJS decided to continue providing
+county-level data through NACJD, they continued to use the same
+imputation procedure, similar to the FBI procedure but with a
+different cut point: agencies that provided reports for 6 or
+more months were estimated to have 12/N crimes, where N is the
+number of months reported.
+
+Those reporting less than 6 months were estimated to have the
+same offense rates as the rest of the county (not State and
+population group). If an agency with 10 percent of a county's
+population provided reports for 5 months or less, then the
+county's rates were used for that agency, and the estimated
+number of crimes for the county became C/.9, where C is the
+number of crimes reported by the rest of the county. However,
+from the 1994 data file onward NACJD has used essentially the
+same imputation procedure as the FBI.
+
+Coverage Factor.  More recently, in consultation with BJS, NACJD
+began to include a new element, "coverage factor," in its
+county-level data files. This factor represents the extent to
+which the crime and arrest figures for a county are based on
+real data and the extent to which they are based on imputed
+figures. For example, if a county with a population of 500,000
+includes an agency with a population of 100,000 that reported
+for only 9 months (all other agencies reporting fully), then the
+coverage factor for that county would be 1.00 - (3/12) x
+(100,000/500,000) = .95, or 95 percent, because a fourth of the
+data are missing for 20 percent of the county population. If
+that agency reported for 2 months or less, then the coverage
+factor would be 1.00 - (12/12) x (100,000/500,000) = .80, or 80
+percent, since all 12 months are considered missing. This does
+not correct the problems of imputation so much as it puts the
+users of the data on notice that the data they are using have
+been estimated to some degree.
+
+Imputation Procedures for Arrests
+
+Arrest data are missing to a much greater extent than crime
+data. Imputing the missing arrest figures thus becomes much more
+difficult. The imputation procedure used by the FBI to account
+for missing or late arrest data is applied to all ORIs that
+report fewer than 12 months of data, i.e., are not "12-months
+complete."  It is similar to that used for crime data, with two
+exceptions: first, arrests are estimated only at the national
+level; and second, instead of basing the imputation on the
+arrest rates in the same population group and State, it is based
+on the arrest rates in the same population group throughout the
+country.
+
+NACJD has used a similar arrest imputation procedure since the
+1994 data year, except that data for the nonreporting agencies
+(2 or fewer months) are imputed based on the arrests rates in
+the same population group and the same State.
+
+Imputation and "Zero-Population" Agencies
+
+
+
+In compiling its crime and arrest statistics, the FBI tries to
+ensure that both the numerators (number of crimes and arrests)
+and denominators (number of people) are based on accurate data
+and estimates. This means that populations that are policed by
+more than one agency should be counted only once. Some
+jurisdictions are policed by State or county police departments,
+or even by other cities. For example, Chicago is in Cook County,
+Illinois. But the number of crimes reported by the Cook County
+Sheriff's Police Department (CCSPD) is for the areas policed by
+the CCSPD, and only for those areas (both unincorporated areas
+and municipalities that contract with CCSPD); it does not
+include the crimes in Chicago or any other Cook County
+jurisdiction not policed by the CCSPD. Since the crime rate is
+the number of crimes divided by the population, the population
+in question should live only in the areas policed by the CCSPD.
+
+As noted earlier (and in the footnotes to table 2), not all
+police agencies have populations associated with them in the UCR
+program. These "zero-population" agencies (transit police, park
+police, university police, and similar agencies) may be entirely
+within "primary" police jurisdictions (Groups I-VI in table 2)
+that already report crime to the FBI. Were these special police
+agencies to be associated in the UCR with the populations they
+serve, it would be tantamount to double-counting those
+populations.
+
+When these agencies report crime data, the data are attributed
+to that ORI and are included in the respective counties of the
+agencies. When they are not reported (or are delayed in
+reporting, or report only partially), no imputation is made of
+the missing figures.
+
+State police agencies are usually considered "zero-population"
+agencies because, for the most part, they police State highways
+and rural areas not covered by municipal agencies. When these
+agencies report crime or arrest data, the data are also
+attributed to their ORI (for example, each State police barracks
+may have its own ORI) and are included in the respective
+counties of the agencies. And similarly, when these agencies'
+data are not reported or are delayed in reporting or are
+reported only partially, no imputation is made of the missing
+figures.
+
+Updating UCR Files
+
+As previously noted, UCR files are updated when additional or
+corrected information is made available . For example, suppose a
+jurisdiction was missing December's Return A, but then sent it
+in after the publication cutoff date and prior to the date that
+the data file is archived. In such a case the data file (but not
+the published material) is updated to include the additional
+information. The updated file is then sent to NACJD for
+archiving, and contains different data than the printed version.
+
+VII.  Inaccuracies Produced by the Imputation Procedures
+
+As is the case with all estimates, those produced by the FBI's
+imputation procedures are not entirely accurate. It may actually
+be that the inaccuracies due to imputation do not amount to
+much, at least for some uses of the crime data. But currently we
+have no way of knowing whether they produce major or minor
+discrepancies in the crime data, because the extent to which
+this imprecision affects our estimate of the crime rate has not
+been determined. Most observers believe that the effect on the
+estimate of the overall crime rate in the United States would be
+minimal, but that it could be quite problematic when
+investigating the crime rate for a smaller unit such as a State
+or county, or when looking at rural crime rates.
+
+The potential effects of the imputation procedures are described
+in this section. They include those used for primary police
+agencies reporting between 3 and 11 months (called
+"incomplete-reporting agencies"), for agencies that report less
+than 3 months (called "nonreporting agencies"), and for police
+agencies with no associated population (called "zero-population"
+agencies).
+
+Incomplete-Reporting Agencies
+
+Included in this category are agencies that report between 3 and
+11 months of data, for which full-year estimates are made by
+inflating the data to cover the entire year. Even when this
+imputation procedure is used, biases may exist. This would be
+especially true for crimes that vary seasonally. If the months
+that were not reported are historically lower in crime, then
+basing the jurisdiction's annual crime rate on the remaining
+months would result in an overestimate. For example, an agency
+in a resort area may report its crime only during the tourist
+season (when there are more officers and more crime), so the
+imputed crime rate might be considerably higher than the actual
+crime rate.
+
+Nonreporting Agencies
+
+Included in this category are agencies that report data for 2 or
+fewer months, since their data are not incorporated in the
+agency's estimated crime rates. As described earlier, imputation
+of the crime rates of these agencies is based on other agencies
+in the same population group and State. However, it may be that
+the nonreporting agencies do not report specifically because
+they have little crime to report. If this is the case, then this
+procedure may overestimate the amount of crime. For the most
+part, the nonreporting agencies are in jurisdictions with quite
+small populations; however, in some counties the effect of such
+imputation may increase the estimated crime rate considerably.
+
+"Zero-Population" Agencies
+
+Included in this category are those agencies that have statewide
+jurisdiction (e.g., State police, fish and game police), or that
+are entirely within jurisdictions policed by agencies that
+already provide crime reports (e.g., university police), or are
+cities with populations under 2,500. When these
+"zero-population" agencies do not report crimes or arrests, no
+imputation is made of their estimated crime. For example, crimes
+and arrests made by the University of Michigan Police are
+reported to the FBI for UCR purposes. However, if the University
+of Michigan Police neglect to report the data or are late in
+getting the data to the State, no imputation is made of the
+missing data. This omission may distort the picture of crime and
+arrest volume, depending on the amount of crime that is not
+reported.
+
+For another example, suppose a State police agency's crime
+statistics are not produced in time for the FBI's publication
+cutoff date for CIUS. Suppose further that in one (rural) county
+the State police barracks is responsible for half of the crime
+reports. Since no provision is made for their imputation, the
+crime figures for that county would be underestimated by about
+50 percent. In other words, the effect of not imputing
+zero-population agencies may not have much effect in terms of
+national or State-level statistics, but it can have a measurable
+effect on city- or county-level statistics.
+
+Summary
+
+In 1958, when the FBI first began to provide national estimates
+-- based on the recommendations of its Consultant Committee on
+Uniform Crime Reporting (FBI, 1958) -- about half of the States
+had over 90 percent coverage, and now about three-quarters have
+over 90 percent coverage. Yet, despite the increases in
+coverage, the missing data can distort the crime picture in
+subnational estimates. When a primary police agency (i.e., in
+Groups I-V in table 2) does not report, or provides partial
+reports, an attempt is made to rectify the omissions by
+imputation. The imputation procedures that are used, however,
+may serve to overestimate the amount of crime that actually
+occurred.
+
+When reports from a zero-population agency are missing, no
+matter how large the agency or how important it is in terms of
+crime reporting, no estimates are made to compensate for the
+missing reports. Thus, the effect of this policy may be to
+underestimate crime and arrest rates for counties and rural
+areas.
+
+The FBI initiated these procedures over four decades ago, well
+before the time when computing was widespread, and when
+compilation of crime and arrest data from each individual agency
+was a difficult and time-consuming process. Although it is still
+difficult and time consuming, the current state of computer
+hardware and software makes it possible to make adjustments to
+the data with much greater ease. 
+
+That this imputation procedure has continued to the present is
+probably attributable to --
+(a) the desire on the part of the FBI to maintain consistency in
+its data series
+
+(b) the assumption that it made little 
+difference at the national level (at most 1 or 2 percent) and
+would not greatly affect the general trends in the data
+
+(c) the fact that there had been no need in the past to make any
+changes -- "If it ain't broke (or if no one cares if it's
+broke), don't fix it." 
+
+But now that UCR data are being used at the jurisdictional level
+to determine funding, it is clear that the crime reporting
+system needs to be improved. (Footnote: Data for individual
+jurisdictions are not imputed in the calculation of funds;
+"however, the State-level estimates we use to determine the
+amount to be distributed across the States are based on
+imputations. To the extent that these imputations cause errors
+that are not consistent across all States, it does affect the
+dollar amounts to be distributed across the States" (S.
+Lindgren, memorandum to the author, March 20, 1999). Therefore,
+the agencies within States that have higher imputed estimates of
+crime than they actually experienced will get larger awards than
+they should, and those in States with too low estimates will get
+lower awards.)  According to NACJD personnel, even before the
+new Federal legislation brought the problems to the forefront,
+it was quite evident that the crime rates in some counties had
+substantial discrepancies due to missing data (C. Dunn, at the
+1997 workshop). Even though the FBI does not impute at the
+county level (and does not condone such uses), it is a fact that
+the data are imputed at this level -- and that policies are
+proposed based on the imputed data. It is for this reason that
+the FBI should consider revising its imputation procedures. A
+small percentage difference in overall crime is one thing, but 
+when looking at a level like rural crime in a single State (or
+more specifically, like a single jurisdiction's crime rate), the
+difference might be more substantial.
+
+VIII.  Suggested Imputation Philosophy
+
+[This section is based on conversations with and memoranda
+written by Yoshio Akiyama and James Nolan, III. While I am
+deeply indebted to them for their advice and consultation, as
+with the rest of this report the opinions and recommendations
+are mine and should not be taken as policy of the FBI or BJS.]
+
+The UCR imputation procedures used by the FBI have been
+generally effective. The goal of the FBI has been to estimate
+national and State rates, and the methods perform that task
+effectively. The extension of imputation to smaller units of
+analysis (where problems arise) was first done by NACJD at the
+behest of BJS, to provide a more fine-grained national picture
+of crime, and has since been done on a yearly basis by NACJD.
+This may have led researchers to (incorrectly) assume that the
+imputed data were accurate at this level. 
+
+However, because the UCR data are the only source of crime and
+arrest data at the jurisdictional level and because they have
+been used to allocate Federal funds, it may well be worthwhile
+to update the imputation procedures to an extent. This will
+permit the FBI to provide as accurate an estimate of
+jurisdictional data as possible; however, it should be
+accomplished without unduly burdening the FBI with complicated
+procedures.
+
+No specific imputation procedures are recommended. Only those
+who have a detailed knowledge of the data collection and
+analysis processes can specify what makes sense in practice.
+However, some general principles can be considered.
+
+Suggested Imputation Philosophy
+
+At the jurisdiction level, a longitudinal estimation procedure
+(i.e., over time within the same jurisdiction) appears to be
+preferable to a cross-sectional one (i.e., for the same year
+across jurisdictions). Longitudinal estimation assumes that the
+best indicator of a jurisdiction's current and future crime and
+arrest activity is its own crime and arrest history, not the
+history of "similar" jurisdictions. This means that an estimate
+based on the jurisdiction's crime experience in the previous
+year is better than an estimate based on other jurisdictions'
+crime experience during the current year, and an estimate for a
+missing month that is based on the same month last year is
+better than one based on the reported months for this year. 
+
+Current research in criminology strongly supports this approach.
+Recent studies have clearly shown that "all crime is local"
+(Sherman et al, 1997; Lattimore et al, 1997). That is, different
+jurisdictions have different crime patterns (and different
+neighborhoods in a jurisdiction have different crime patterns).
+This should be recognized in terms of how gaps in criminal
+justice data are filled in by imputation. 
+
+For global estimates of missing agencies, however,
+cross-sectional methods should be seriously considered. They
+assume that the best indicator of a group of agencies is the
+average of similar agencies for the same year, as sampling
+theory indicates.
+
+Among the points that must be considered in developing an
+imputation scheme are (a) whether an agency reported data in the
+previous year (to permit longitudinal estimation), (b) the
+historical reporting behavior of a delinquent agency, (c)
+whether non-reporting agencies constitute a random sample of all
+jurisdictions, (d) whether the agencies in question have changed
+their borders during the time period in question.
+
+Different procedures need to be considered for zero-population
+agencies and for regular agencies that are incomplete- and
+non-reporting agencies. Some of the issues that might affect the
+imputation procedures are described below.
+
+Zero-Population Agencies
+
+Currently no imputation is made of missing data from
+zero-population agencies. This policy should be reconsidered.
+Although the crime counts from these agencies may constitute a
+small fraction of the whole, it may be advisable to investigate
+the extent to which ignoring these agencies' data affects the
+estimates of crime rates for specific sub-populations -- rural
+areas, certain types of crimes, etc. 
+
+In particular, before any specific imputation procedure can be
+recommended, a study should be undertaken to determine (a) if
+different types of zero-population agencies should be handled
+differently and (b) whether they provide reports to other
+governmental entities (cities, States) from which an estimate of
+their statistics can be made. The examples given earlier, of
+university or State police agencies not providing data
+consistently, indicate that they may have some effect on biasing
+the crime picture; it is worth determining the extent to which
+this is the case.
+
+Different strategies might be tried for different situations.
+Imputing data for a non- reporting State police department might
+be based on the crime rate for the State as a whole; if it has
+decreased by 5 percent, then a reasonable estimate for the State
+police might also be a decrease of 5 percent. Imputing data for
+a university police department, on the other hand, might be
+based more properly on the change in crime rate for the city in
+which the university is located. [Although it might be more
+accurate to base the imputation on the change in crime rate for
+the neighborhood of the university, such detail is beyond the
+capability or needs of the UCR program.
+
+Incomplete and Non-Reporting Agencies
+
+As Akiyama and Nolan (1999b) point out in their memorandum, "UCR
+Data Imputation: Longitudinal vs Cross-Sectional Approaches,"
+the bulk of the delinquent agencies report fewer than 4 months
+(i.e., there are relatively few incomplete-reporting agencies as
+compared to non-reporting agencies). Imputing the missing data
+for these agencies might best be accomplished by imputing each
+missing month separately. This has the effect of simplifying the
+imputation process by putting all agencies with missing data
+into the same category (and eliminating the arbitrary 3-month
+cut-point), but it also would permit seasonality to be taken
+into account by providing monthly estimates.
+
+There are two different cases to consider for primary police
+agencies that submit no reports. First, there are agencies that
+virtually never provide reports of crimes. The voluntary nature
+of the UCR program precludes the FBI from taking any measures to
+require reporting from non-reporting agencies. The fact that
+they do not report to the FBI, however, does not mean that they
+provide no reports of their activity at all; most agencies must
+do so, to some governmental body. A sample of these reports
+could be analyzed to determine the extent to which the current
+imputation procedure (i.e., using the same crime rate as in
+"similar" jurisdictions) reflects their true crime rates.
+
+For example, if a particular municipal police department does
+not provide crime data to the FBI or State criminal justice
+agency, it still may prepare an annual report to the
+municipality: a police department must normally justify its
+annual budget with an accounting of its activity. To determine
+the extent to which crime is underreported, it might be
+worthwhile to get in contact with a random sample of
+non-reporting agencies and obtain their annual reports. In this
+way an estimate could be made of the extent of crime and arrest
+activity in these and similar non-reporting jurisdictions.
+
+Second, there are agencies that normally do prepare reports but
+are unable to do so for a particular year. In such a case, an
+imputation procedure that is partly longitudinal and partly
+cross-sectional may be useful. That is, one can use the
+year-to-year change in crime rate for like jurisdictions (in the
+same state and same population group), and apply this
+year-to-year change to the agency's prior year's data. For
+example, if Agency X did not produce reports for 1997, and the
+year-to-year increase in crime for "like" agencies (i.e., in the
+same population group and State) was 3%, this increase could be
+imputed to last year's data for Agency X.
+
+IX.  Supplementary Homicide Reports
+
+The FBI initiated the Supplementary Homicide Reports in the
+1960s (Riedel, 1990), and NACJD has archived the data from 1976
+to the present. All police departments that report homicides to
+the FBI generally also submit SHR forms. While the monthly
+reports to the UCR program consist for the most part of summary
+data (e.g., the number of homicides occurring in January 1998),
+the data from the SHR are considerably more detailed (Figure 12.
+Replica of Supplementary Homicide Report Form, pages 1 and 2).
+
+In some ways, the SHR can be considered a precursor to NIBRS,
+since it provides details about the incident's occurrence (the
+jurisdiction, month, and year of occurrence); the apparent
+circumstances under which it occurred (number of victims and
+offenders, whether it resulted from a robbery, domestic
+violence, argument, or other circumstance); age, race, and sex
+information about the victims  and offenders, if known; and the
+relationship between victims and offenders, if known.
+
+As with any new data series, SHR data for the first few years
+had some limitations, but the series appears to be fairly
+accurate in terms of the number of homicides reported. The basis
+for this assessment is the fact that another data series on
+homicide exists, mortality data based on death certificates and
+collected by health departments since around the turn of the
+century. Data on Vital Statistics are collected and maintained
+by the National Center for Health Statistics (NCHS), US
+Department of Health and Human Services. Although the SHR was 
+apparently undercounting homicides by about 14 percent during
+the 1960's and 1970's (Riedel, 1990), more recently the two
+series have been within a few percentage points of each other
+(Riedel, 1999).
+
+Uses of the SHR
+
+The SHR has been useful in developing policy recommendations
+related to homicide. Its nationwide collection, and the fact
+that not just the number of homicides but the characteristics of
+the victims and offenders are included, permits researchers to
+uncover patterns of significant importance: for example, that
+the decreasing homicide rates for some groups tended to mask the
+increase in homicide rates for 14- to 17-year-old males (Fox,
+1997) and that infanticide is a significant problem in the
+United States (Maltz, 1998). In addition, many of the articles
+in Homicide Studies, a journal published by the Homicide
+Research Working Group, are based on the SHR data, and many have
+policy consequences. 
+
+These studies may not lead to solving particular homicides,
+which has long been the primary focus of police attention to
+homicide; however, insofar as they point out patterns and risk
+factors, they contribute greatly to the public safety, the
+primary mission of the police. The accessibility of the SHR data
+is increased by the inclusion of files that contain SPSS and SAS
+data definition and programming statements, so that the SHR can
+be analyzed using these two statistical analysis packages or
+others that can read these formats.
+
+The SHR has been used not only to study homicide patterns but to
+study patterns of violent crime in general. The rationale for
+using homicide rates as a proxy for violent crime rates is
+because they are highly correlated (e.g., Blumstein, 1974);
+however, since there is very little unreported homicide in
+comparison to other crimes, using the homicide rate all but
+eliminates the problem of unreported crime. But this is
+misleading, and the SHR has been misinterpreted by researchers
+and journalists in their search for patterns in homicide data.
+Homicide is not so much a crime in itself as it is the fatal
+outcome of different crimes or "homicide syndromes," and
+analysis of homicide as a single entity can produce misleading
+results. The easy accessibility of the SHR data, then, has
+unfavorable as well as beneficial consequences. 
+
+A better way to look for patterns in homicide data is to
+consider the various circumstances under which homicides occur,
+that is, to disaggregate infanticides from felony homicides from
+spousal murders, and to consider the homicide rate from within
+the context of the underlying crime. From this type of analysis
+one can investigate the risk of death due to child abuse, armed
+robbery, or domestic violence (Maltz, 1976, 1998; Maxfield,
+1989; Block and Block, 1992). 
+
+This, then is one of the great benefits of the SHR: because it
+provides detailed information about each homicide, it can be
+used to great advantage in exploring offense patterns and public
+policies. For example, if the risk of death due to child abuse
+is much higher in one jurisdiction than another, it may be that
+the true rates are the same but that the lower-rate jurisdiction
+has better child abuse reporting practices.
+
+Incomplete Provision of SHR Data by Police Departments
+
+The SHR has a number of shortcomings, in particular with respect
+to incomplete data. There are three ways in which SHR data may
+be incomplete. First, not all homicides reported on the UCR are
+reported on the SHR form. Second, some agencies do not include
+all the information about offender characteristics or
+motivations that is available to them. Third, even when the
+information is complete it may be wrong, because offender-victim
+relationship is given instead of victim-offender relationship or
+because the same relationship is given for all victims and/or
+offenders in an incident with more than one victim and/or
+offender.
+
+The FBI tries to ensure that all homicides reported on the UCR
+are reported in the SHR as well, by specifically requesting this
+information from jurisdictions for each UCR-reported homicide.
+The FBI doesn't always obtain it, but the SHR/UCR ratio has run
+between 86 percent and 96 percent between 1980 and 1994 (Snyder,
+1996: 10-11).
+
+Incomplete reporting of SHR data is a greater problem. For
+example, the data element "Circumstance" reflects the nature of
+the homicide as far as it can be determined. See table 3. Yet,
+the number of homicides with unknown circumstances varies
+considerably from agency to agency, indicating that departmental
+policy more than knowledge of the circumstances governs the
+information collected by the SHR.
+
+----------------------------------------------------------------
+
+Table 3.  Circumstances under Which Homicide Occurred
+
+Circumstances coded in SHR records
+    2 Rape                                        32 Abortion                              60 Other
+    3 Robbery                                     40 Lover's triangle                      50 Victim shot in hunting accident
+    5 Burglary                                    41 Child killed by babysitter            51 Gun-cleaning death not self-inflicted 
+    6 Larceny                                     42 Brawl due to influence of alcohol   
+    7 Motor vehicle theft                         43 Brawl due to influence of narcotics   52 Children playing with guns
+    9 Arson                                       44 Argument over money or property       53 Other negligent handling of gun
+   10 Prostitution and  commercialized vice       45 Other arguments                       59 All other negligent manslaughter except traffic death
+   17 Other sex offense                           46 Gangland killing                      70 Suspected felony-type
+   18 Narcotics and drug laws                     47 Juvenile gang killing                 80 Felon killed by police
+   19 Gambling                                    48 Institutional killing                 81 Felon killed by private citizen
+   26 Other felony-type not specified             49 Sniper attack
+
+ Source:  Fox, 1997
+
+----------------------------------------------------------------
+
+There may be a number of reasons for agencies not providing
+complete information. First, the information may not be readily
+available initially, when the officer first completes the
+agency's homicide report -- and it may be this initial form that
+is used to complete the SHR form. There are strong indications
+that the Washington, DC, Metropolitan Police Department may fill
+the form out based on this preliminary report -- for example, in
+1994 the offenders in 96 percent of homicides were listed as of
+unknown age (this was used as a proxy for "offender unknown").
+Although this is the most extreme example of inadequate data
+collection efforts, figure 13 (based on data from Snyder, 1996)
+shows that Washington is far from alone. (Figure 13.  Percent 
+of Offenders with Known Ages (as Proxy for Known Offenders)
+in SHR Data in Counties with More than 100 Homicides in 1994)
+
+Second, some departments may downplay the utility of such
+information and give it low priority, since it is a voluntary
+collection system. Thus, the goal of obtaining complete
+information for crime prevention purposes too often takes a back
+seat to reducing the paperwork burden for a police department.
+
+Third, one city (Boston) does not provide information about the
+offender or his/her possible motivation "in order to prevent
+creating documentation that would be discoverable and of
+potential use to the defense at trial" (Braga, Piehl and
+Kennedy, 1997). (Footnote:  I suspect that this policy was
+instituted after the information was used successfully in
+acquitting a defendant; I also suspect that a less drastic step
+could have been taken. In any event, this problem may be mooted
+by NIBRS, which allows a window of 2 years in which to update an
+incident with additional information.)
+
+Fourth, there is a great deal of variability from city to city
+in the diligence with which the SHR information is provided.
+During the 1997 workshop it was mentioned that one city 
+(Washington, DC) rarely records drug involvement in homicides,
+while in another city (Detroit) almost every homicide is
+recorded as drug-involved -- when the actual truth for both
+cities is somewhere in between.
+
+Moreover, incompleteness in SHR reporting also reflects the
+coding procedures established by the FBI to collect the data.
+The codebook (Fox, 1996) for the SHR data gives an example:
+"[T]he structure of the data collection forms prescribes that
+the relationship of the offender to the first victim (often
+chosen arbitrarily) be coded for this offender. Thus, for
+example, in 1977 a Redondo Beach, California, woman killed her
+husband and three step-children by burning down the family home.
+Appropriately in this case, the weapon was coded a 'fire' for
+all four victims, but the relationship of victim to offender was
+coded as 'step-daughter' for all victims -- two 8-year-old white
+females, a 7-year-old white male, and a 40-year-old white male."
+That is, the FBI strips the relationship data that may be
+provided to the FBI and uses only one relationship to
+characterize the entire incident.
+
+This problem does not affect most homicides, however, since the
+great majority of homicides consist of one victim and one
+offender.
+
+Updating SHR Files
+
+SHR files are updated when additional information is provided by
+police departments. It should be understood that the SHR file is
+updated, but individual records are not updated. For example, an
+accidental death may be reclassified as a homicide, and
+consequently is sent in to the FBI for inclusion in the SHR
+file; it is in this way that the SHR file is updated.
+
+However, if police submit an SHR record to the FBI with a
+homicide whose offender was classified as unknown, and
+subsequently learn of the identity of the offender (the
+Unabomber or Theodore Kasczinski case is exemplary), the records
+of those homicides are not changed. The FBI cannot revisit old
+records because no unique index code is included in the SHR file
+that would permit them to identify specific homicides. 
+
+This problem will diminish when NIBRS is implemented, since each
+incident will have a unique identifier, permitting true updating
+for 2 years after the incident. Insofar as police departments
+adopt NIBRS and adhere to its requirements, it will be possible
+to truly update the incident files as more information about
+incidents develops.
+
+Availability of SHR Data Sets
+
+The FBI makes the data files available to BJS, and the files are
+then restructured, reformatted, cleaned, and given wider
+accessibility through the NACJD website (at
+http://icpsr.umich.edu/nacjd/ucr.html). Each record can contain
+information on up to 11 victims and offenders; since most
+homicides are one-victim/one-offender homicides, this makes each
+year's file much larger than it need be and consequently more
+difficult to analyze. In addition, there is a separate file for
+each year, so these datasets need to be combined to perform any
+multi-year analyses.
+
+For this reason, BJS and the National Institute of Justice
+funded an effort to make the SHR data more accessible, resulting
+in a multi-year SHR data set, 1976-94 (Fox, 1996). Included in
+the restructured file are weights that take into account missing
+offender data according to their age, race, and sex, at both the
+State and Federal levels. Manslaughters by negligence and
+justifiable homicides are not included in the data set.
+
+There are problems in dealing with multiple victims and
+offenders in a single data set, in a way that keeps the
+victim-offender relationships intact without having to carry
+along (mostly empty) space for 11 victims and offenders. The way
+it is handled in the 1976-94 dataset is to create a different
+record for each victim-offender pair. That is, an incident with
+four victims and two offenders would have eight records, each
+record corresponding to a different victim-offender pair.
+
+Multi-year SHR data sets from 1976-97 will soon be available at
+NACJD, which handle multiple victims and offenders in a
+different manner. Two separate data sets are generated from the
+FBI data files, a victim data set and an offender data set. The
+victim data set contains a separate record for each victim; if a
+single homicide incident includes four victims and two
+offenders, four records are created -- one for each victim --
+and the offender data included on those four records are the
+characteristics of the first offender. To describe the same
+incident, the offender data set would include two records, one
+for each offender, and the victim data included on those two
+records are the characteristics of the first victim.
+
+SHR Imputation
+
+The first point to be made about imputation of the SHR is that
+the FBI does not impute SHR data. However, the victim and
+offender data sets for the combined 1976-97 SHR data, to be
+provided at NACJD, do include imputation procedures. The
+imputation procedures incorporated in these data sets are not
+the only ones that have been used for SHR data, but because they
+are used on the most complete SHR data sets (1976-97) -- and the
+ones most likely to be used in the future -- their
+characteristics are described below.
+
+Two different kinds of imputation are used in the (to-be)
+archived multi-year SHR data set. The first one is used to
+reconcile the count of SHR homicide victims with the count in
+CIUS. The second imputation procedure is used to estimate the
+characteristics of offenders in incidents in which there is no
+information about the offender. In both types of imputation
+weights are assigned to each case. The best way to explain these
+imputation procedures and their use is to discuss each type of
+weight given in the SHR file.
+
+Weighting the Victim File
+
+The number of records in the victim file is the count of SHR
+homicides. As noted earlier, this number is often not the same
+as the count of UCR homicides, both nationally and at the State
+level. Two of the weights included in the victim file are used
+to reconcile these two numbers. 
+
+Weight wtus. This weight is the same for all cases for a given
+year. The weight represents the ratio of the number of homicides
+reported in CIUS to the number reported in the SHR. Thus, since
+the UCR reported 18,780 homicides and the SHR reported 16,605
+homicides for 1976, the weighting factor wtus is 1.13
+(18,870/16,605) for 1976. It is used in the following way:
+suppose one wants to estimate the number of homicide victims
+under 6 years of age. The UCR does not detail this information,
+but we can estimate the number by extrapolating from the known
+SHR cases to the UCR cases. In 1976 the SHR recorded 519 such
+cases, so the 1976 estimate would be (1.13 x 519 =) 587 victims
+under age 6. This would permit us to compare 1976 data with data
+from another year, in which a different weighting factor is
+used. For example, in 1977, 548 such cases were recorded in the
+SHR, representing a 6% increase over the 519 in 1976. However,
+wtus for 1977 was 1.06 (19,120 UCR homicides versus 18,032 SHR
+homicides), so we estimate that there actually were 581 such
+victims; this represents a 1% decrease from the 1976 estimate of
+586. (Footnote:  These examples are given for illustrative
+purposes only. A better way of estimating year-to-year change is
+to obtain the rate, by dividing the estimates by the estimated
+population under 6 in each year.)
+
+-------------------------------------------------------------
+
+Table 4.  Victim Imputation in the SHR
+                                                          Estimated
+         UCR          SHR        UCR/        SHR age      UCR age
+Year     total        total      SHR ratio   5 or under   5 or under 
+
+1976      18780        16605        1.13          519        587
+1977      19120        18032        1.06          548        581
+
+Victims under age 5 --
+SHR percent increase                    5.6%
+Estimated UCR percent increase         -1.0%
+
+
+-------------------------------------------------------------
+
+Weight wtst. This weight is the same for all cases in a State.
+The weight represents the ratio of the number of homicides
+reported by the State in CIUS to the number reported In the SHR.
+Thus, the weighting factor wtst of 1.17 for Alabama's 453
+SHR-recorded homicides for  1976 indicates that Alabama
+experienced (1.17 x 453 = ) 530 homicides in 1976. For Alaska,
+however, wtst was 1.0 for all of the 43 homicides, indicating
+that the UCR and SHR reported the same number of homicides. In
+1977 the values of wtst for Alabama and Alaska were 1.06 and
+0.96, respectively, so the SHR counts of 487 and 46 indicate
+that these States had (1.06 x 487 =) 516 and (0.96 x 46 =) 44
+UCR-reported homicides, respectively. (Footnote: There may be
+more SHR homicides than UCR classifications due to crime
+reclassification across years. For example, perhaps two shooting
+victims in Alaska in incidents classified as aggravated assaults
+in 1976 died in 1977.)
+
+Weighting the Offender File
+
+There are three weights in the offender file. Just as the
+weights in the victim file are meant to provide a better
+estimate of the number of homicide victims, the weights in the
+offender file are meant to provide a better estimate of the
+number of homicide offenders. Whereas the victim file weights
+are used to fill in for missing records, the offender file
+weights are used to fill in for missing data within records,
+that is, for cases where the identity and characteristics of the
+offender are unknown.
+
+Weight wtimp. This weight imputes, for the Nation at large, the
+number of offenders by age/race/sex category. Suppose that there
+are 500 victims in a specific age/sex/race category, and 400 of
+them are killed by known offenders. Then wtimp would equal 1.25
+because the unknown offenders are presumed to have the same
+age/sex/race characteristics as the known offenders. For
+example, suppose that 25 percent of them (or 100) are killed by
+white males ages 15-24. Then we would estimate that 25 of the
+victims of unknown offenders are also killed by white males ages
+15-24.
+
+Weights wtimpus and wtimpst. In order to take into account the
+cases that are reported to the UCR but not included in the SHR,
+we can estimate the total number of white male offenders ages
+15-24 in the United States, by multiplying wtimp by the
+aforementioned wtus. If the latter is 1.13, as in the earlier
+example, the value of the weight wtimpus would be (1.13 * 1.25
+=) 1.41. Similarly, if we wanted to estimate the number of such
+offenders in Alabama, we would weight each homicide committed by
+a 15- to 24-year-old white male by (1.17*1.25 =) 1.46, the value
+of wtimpst for Alabama.
+
+Problems with this SHR Imputation Procedure
+
+Since there are two different weighting schemes, for the victim
+and offender data sets respectively, the inaccuracies that arise
+from their application need to be considered separately.
+
+
+Victim File. The weights wtus and wtst are applied to reconcile
+the number of homicides recorded in the UCR and SHR, at the
+national or State levels, respectively. When there is a
+discrepancy between the two, the UCR is usually (but not always)
+the larger of the two, so these weights are usually larger than
+1. There may be a number of reasons for the discrepancy. 
+
+*There may be clerical errors in an agency's submission of
+either Return A or the SHR form. For example, some homicides
+that were reported to the UCR may have "slipped through the
+cracks" when an agency filled out the SHR form, or perhaps
+because the agency did not fill the form out at all. If the
+former is true, then the agency is likely to be a larger police
+department with many cases to report; if the latter is true,
+then the agency is likely to be a rural department that does not
+report homicides very often.
+
+*Part of the discrepancy may be due to date slippage, as when a
+person is injured in one calendar year and succumbs to these
+injuries in another year. In such cases, the homicide may not be
+reported on the SHR form, especially if agency practice is to
+fill it out at the time of the offense. In any case, assuming
+that the missing homicides generally have the same
+characteristics as the reported ones (which this weighting
+scheme implies) may be in error. The error attributable to this,
+however, is likely to be small, since the concordance between
+the two data sets is usually fairly high (Chilton and Jarvis,
+1999). 
+
+Offender File. The weights wtimp, wtimpus, and wtimpst estimate
+the number of offenders in cases where the offenders are
+unknown. However, there is a problem in assuming that the best
+means of estimating offender characteristics is to predicate the
+estimation on the age, race, and sex of the victims. For
+example, suppose that most 45-year-old women are killed by their
+mates, i.e., by 40- to 49-year-old white males. However, if a
+45-year-old female clerk at a convenience store is killed by an
+unknown assailant, not by her husband, there should be some way
+of including this in the imputation equation. In other words,
+the circumstance of the killing (which is included in the SHR
+record) is probably a better indicator of offender
+characteristics than a rule that does not include this
+information. Williams and Flewelling (1987) used this imputation
+method; however, Langford, Isaac, and Kabat (1998) describe some
+limitations to using circumstance for imputation purposes.
+
+An indication of the problem with this type of imputation is
+made clear when investigating the distribution of unknown
+homicides within a State. Between 1976 and 1996 Richmond
+accounted for 18 percent of Virginia's homicides but 41 percent
+of its homicides by unknown assailants; Atlanta accounted for 29
+percent of Georgia's homicides but 49 percent of its unknowns;
+and Indianapolis accounted for 21 percent of Indiana's homicides
+and 35 percent of its unknowns. (Footnote:  These figures are
+based on an analysis by the author.) So making the assumption
+that the unknown assailants have the same characteristics as the
+known offenders is questionable.
+
+More to the point, the very fact that the assailant is unknown
+often means that the type of homicide is quite different than
+those in which the assailant is known. Studies in Chicago and
+Boston confirm this assertion.   Block (1998) compared 1993-94
+Chicago homicides found in the SHR data with those in the
+Chicago Homicide Dataset (CHD), perhaps the most complete
+homicide dataset in the country. Her data show that about 10
+percent of the CHD incidents had unknown offenders in the SHR
+data, but that it varied from around 30 percent (for sexual
+assault) to under 4 percent (when firearms were used).
+
+Braga et al. (1997) compared Boston SHR data for 1990-94, for
+victims 21 or under (N = 155), with data they had collected for
+this population in conjunction with the Boston Gun Project (BGP
+-- see Kennedy, Piehl, and Braga, 1996), a program to reduce
+youth gun violence. Since the BGP data were collected well after
+the events, they were much more detailed than the SHR data,
+especially considering the concerns of the Boston homicide
+detectives (see page 34 above). Thus, it was not surprising to
+find that, while the SHR data listed 65 percent as with unknown
+circumstances (and 79 percent with unknown victim-offender
+relationship), the BGP data had only 30 percent -- less than
+half as many -- with unknown circumstances and 40 percent --
+again about half as many -- with unknown victim-offender
+relationship.
+
+Although neither city is representative of the Nation as a
+whole, what these studies point out is that the unknown
+offenders are not necessarily representative of the knowns. This
+may be due to the fact that homicide is not a specific crime
+like robbery. Rather, as mentioned earlier, it is the fatal
+outcome of a lot of different crimes: intimate partner violence,
+armed robbery, child abuse, etc. The imputation rule used in the
+SHR offender file implicitly assumes that they are all of the
+same general nature, which is not the case; moreover, the
+information included in the SHR file is specifically included so
+that different types of homicides can be distinguished from each
+other, and an imputation rule for the SHR should take this
+information into account.
+
+Suggested Alternative SHR Imputation Procedure
+
+A homicide's circumstance (see table 3), rather than the
+victim's characteristics, would seem to be a more appropriate
+indicator of the characteristics of the offender. No matter what
+the age, race, and sex of the victim, if the homicide arose
+during the course of a robbery the characteristics of the
+offender would probably resemble other robbery- homicide
+offenders more than they would any other class of offender. To
+some extent, this suggestion takes the SHR reporting practices
+of some agencies into account: even though Washington, DC,
+reported that 94 percent of the 473 homicides had unknown
+offenders, the circumstances were listed as unknown in only 50
+percent of the cases.
+
+However, this suggestion should be considered carefully.
+Maxfield (1989) noted the lack of consistency among agencies in
+coding homicide circumstance. Because of its importance,
+imputation of homicide offenders is a topic that should not be
+undertaken lightly. In the aggregate it may not amount to much,
+but as we begin to go beyond looking only at aggregate rates and
+investigating small subgroups it takes on more importance.
+
+Newspapers report not just on State-by-State homicide rates, but
+on offense rates, by State, by age group, by weapon, and the
+rates inferred by imputation may be seriously in error, as
+suggested by the Boston and Chicago studies. Granted, the
+"unknown" offenders in Boston and Chicago do not represent
+unknown offenders in the rest of the United States; these cities
+were chosen because of the availability of good data; in both
+cities homicide detectives and researchers have formed a strong
+working relationship. Rather, as noted earlier, despite their
+lack of representativeness, these studies do provide a benchmark
+against which to test different imputation procedures.  Only
+through research like this can we find the extent to which our
+view of crime is distorted by incomplete and inaccurate data.
+
+X.  Conclusions and Recommendations
+
+Reporting Practices
+
+The primary focus of this report has been to understand, and
+make suggestions for improving, how the FBI collects and
+analyzes crime and arrest data that are subsequently published
+in CIUS. Along the way, however, one could not help but notice
+the recent decline in the quality and quantity of the data 
+submitted by State and local agencies to the FBI. This trend 
+compromises the quality of information we have about the nature 
+and extent of crime in the United States. I hope that this report 
+serves as an impetus to improve the completeness and accuracy 
+of crime and arrest data.
+
+One State, Illinois, sends data to the UCR program that do not
+adhere to UCR reporting standards with regard to the hierarchy
+rule. This occurred for the best of reasons:  in 1992 Illinois
+embarked on an ambitious effort to implement NIBRS statewide,
+but the complexities were too great, and the effort was
+suspended in 1994. Beginning with 1993 data and continuing to
+the present, Illinois has submitted only summary UCR data, but
+without applying the hierarchy rule, so that incidents with
+multiple offenses may be counted more than once. 
+
+In addition, since 1984 Illinois statutes have defined forcible
+sexual assault without reference to gender. This is not
+compatible with UCR standards. Because of this incompatibility,
+the UCR does not include Illinois data on rape. Illinois, one of
+the most populous States (and my home State), should be
+encouraged to change the reporting practices that have kept it 
+from contributing to the UCR in the recent past.
+
+Although this issue was not addressed in the report, and is
+somewhat beyond its scope, the absence of crime and arrest data
+from Federal agencies distorts the picture we have of crime in
+the United States. The recent report detailing the high rate of
+victimization of American Indians (Greenfeld and Smith, 1999)
+serves to underscore this deficiency in our crime statistics:
+insofar as UCR data are used to allocate resources, this would
+affect the extent to which enforcement resources for American
+Indians are provided.
+
+Publishing and Archiving
+
+It is a tribute to the diligence and dedication of the FBI's
+Program Support Section staff that there are so few errors in a
+report so filled with numerical data as CIUS; one cannot just
+run a spell-checking program to see if errors have been made in
+the manual transcription of numbers from one medium to another.
+However, it is a waste of personnel time to use a process that
+requires so much staff time to proofread numerical data. The
+tables were initially produced by a computer that could, with
+relatively little additional funding and effort (and that only
+for the first year) be set up to produce camera-ready output. 
+
+This added technology would not only remove an unneeded burden
+from the PSS staff, but it has the promise of reducing the time
+taken to produce CIUS by a matter of some weeks, perhaps even
+months. This extra time could be put to use at either end of the
+report production process: ORIs and States could be given more
+time to transmit their data to the FBI, which may become
+increasingly important as more agencies convert to NIBRS; and/or
+the report could be published earlier in the year. It should be
+noted that two other annual reports, Hate Crime and Law
+Enforcement Officers Killed and Assaulted, are published
+directly by the PSS staff; the FBI should consider direct
+publication for CIUS as well.
+
+If it is possible for the FBI to do so, BJS should request the
+FBI to "freeze" the version of the raw data set that is used to
+produce CIUS, and send it to NACJD for archiving, as well as the
+final version of that data file. This will permit researchers to
+perform data analyses that are consistent with CIUS and/or use
+the most current data to provide more complete analyses.
+
+Imputation
+
+As this report details, imputation of crime and arrest data has
+been based on ad hoc procedures that were appropriate at the
+time they were made and for the uses to which they were
+originally put. Now that UCR data are being used for different
+purposes, new methods of imputing data need to be considered.
+This report describes some reasonable candidates, but these
+should not be applied without setting up an evaluation program
+to determine whether they actually provide improved estimates.
+This is true for all data sets in which imputation is being
+used: crime, arrest, and SHR data. One area where some
+experimentation might be helpful is to determine where the
+cutoff threshold should be before an ORI's data are sufficient
+to be included without full imputation, the 3 months used by FBI
+or the 6 months previously used by NACJD. Among the possible
+ways of performing these experiments are:
+
+*Analyze nonreporting agencies' submissions to their municipal
+governments to see to what extent the imputation procedure is
+valid.
+
+*Develop different categories of nonreporting ORIs and randomly
+select a number of full reporters from each category; apply an
+imputation method and see how closely the imputed data comes to
+the actual data.
+
+*Do the same with incomplete-reporting ORIs.
+
+The data from so-called "zero-population" agencies should also
+be imputed. The exact means of doing so should probably depend
+in part on the nature of the jurisdiction: the procedure for
+imputing a State police agency's data should not be the same as
+for a university police department.
+
+NIBRS
+
+NIBRS represents a major increase in the amount of data to be
+collected by local agencies and forwarded to the FBI. A number
+of States have implemented NIBRS successfully in essentially all
+their reporting agencies; however, others have had software and
+other problems that have not only prevented NIBRS from being
+fully implemented, but they have been unable to send even the
+summary UCR data to the FBI.
+
+Some police administrators have complained about NIBRS and the
+level of detail it entails. However, its implementation is in
+part a recognition that if the focus of policing is to be more
+than just "catching the bad guys," and to deal with public
+safety more generally, then the police need to be concerned with
+analyzing crime for patterns that go beyond the modus operandi
+of individual offenders. Such a pattern may suggest, for
+example, that a new domestic violence or after-school program
+might reduce certain types of offenses. Implementing NIBRS will
+give us the ability to compare the effectiveness of such
+programs in different jurisdictions with different populations.
+A recent FBI report, The Structure of Family Violence (found on
+the FBI's website at www.fbi.gov/ucr.htm/famvio21.pdf), gives
+some indication of the way NIBRS data can be used for this
+purpose.
+
+As I mentioned in the beginning of this report, my goal (and the
+goal of those who attended the workshop) has been to suggest
+some ideas for consideration in revising the FBI's Uniform Crime
+Reporting Program. While not all of the suggestions may be
+feasible to implement at this time, I hope that this report lays
+the groundwork for improving our knowledge of the nature and
+extent of crime in the United States, one of the more pressing
+social problems confronting the Nation.
+
+Appendix A:  
+Persons Attending the Workshop on UCR Imputation Procedures 
+
+US Department of Justice Participants:
+
+Bureau of Justice Assistance
+Richard Ward
+
+Bureau of Justice Statistics
+Jan Chaiken
+Lawrence Greenfeld
+Charles Kindermann
+Patrick Langan
+Sue Lindgren
+Michael Rand
+Bruce Taylor
+Marianne Zawitz
+
+Criminal Division
+Julie Samuels
+Steven Shandy
+
+Federal Bureau of Investigation
+Yoshio Akiyama
+Ben Brewer
+Gilford Gee
+Antonio Hwang
+John Jarvis
+Dawn Kording
+Victoria Major
+James Nolan
+Sharon Propheter
+
+National Institute of Justice
+Jordan Leiter
+
+Office of Juvenile Justice and Delinquency Prevention
+Barbara Allen-Hagen
+
+Other Participants:
+
+American University
+James Lynch
+
+Inter-University Consortium for Political and Social Research
+Nora Arato
+Christopher Dunn
+Christopher Lysholm
+Kaye Marz
+
+Massachusetts State Police
+Daniel Bibel
+
+National Center for Juvenile Justice
+Howard Snyder
+
+Northeastern University
+James Fox
+
+Research Triangle Institute
+Robert Flewelling
+
+Rutgers University
+
+Michael Maxfield
+
+Project SEARCH
+David Roberts
+
+University of Illinois at Chicago
+Michael Maltz
+
+University of Massachusetts, Amherst
+Roland Chilton
+
+
+Appendix B:  State On-Line Publication of Crime Data
+                                     Data reported on website
+                                                             Law enforcement
+                                     Crime                   Officers killed/
+State           UCR      Crime trends Hate/bias Arrests      assaulted       Personnel  Website URL
+
+Alabama               97       93-97                x               x            x      http://agencies.state.al.us/ acjis/pages/alacrime.htm
+Arkansas           95-96       97-98                x               x            x      http://www.acic.org/ statistics.htm
+California         96-97                  x         x               x            x      http://caag.state.ca.us/cjsc/ pubsol.htm
+Colorado           80-96                                                                http://www.state.co.us/gov/ dir/cdps/dci/ors/stats.htm
+Connecticut        96-97                                                                http://www.state.ct.us/dps/ CT-UCR.htm
+Florida               97       96-97                x                                   http://www.fdle.state.fl.us/ Crime_Statistics
+Georgia               98   85, 95-96                x                                   http://www.ganet.org/gbi/ stcrime.html
+Hawaii             83-97       92-97                x               x            x      http://www.cpja.ag.state.hi.us/rs/
+Illinois           94-97       93-97      x         x               x            x      http://www.state.il.us/isp/ cii00001.htm
+Iowa                  96                            x               x            x      http://www.state.ia.us/ government/dps/crime/stats/
+Kentucky           95-96                            x               x            x      http://www.state.ky.us/ agencies/ksp/crime.htm
+Massachusetts         95                                                                http://www.magnet.state.ma.us/ msp/crimedat.htm#Taunton
+Michigan              97       88-97      x         x               x            x      http://www.state.mi.us/msp/ crd/ucr/contents.htm
+Minnesota          95-96                                                                http://www.dps.state.mn.us/bca
+Nebraska           93-95                                                                http://www.info.ded.state.ne.us/ stathand/contents.htm
+New Hampshire         97                                                                http://www.state.nh.us/nhsp/
+New Jersey         93-97       88-97      x         x               x                   http://www.state.nj.us/lps/ njsp/stats.html
+New York                       90-96                x                                   http://criminaljustice.state. ny.us/crimnet/pubs.htm
+North Carolina     93-98       78-97      x         x                            x      http://sbi.jus.state.nc.us/crimstat/ nccrime.htm
+Ohio               80-96       80-96                                                    http://www.ocjs.state.oh.us/
+Pennsylvania       76-96                            x                                   http://www.state.pa.us/PA_Exec/PCCD/stats/factsheets/statspag
+Utah                  96                  x         x               x                   http://www.ps.ex.state.ut.us/
+Vermont               97                            x                            x      http://www.dps.state.vt.us/ cjs/crimestats.htm
+Virginia              97       96-97                x               x            x      http://www.state.va.us/vsp/ zucr1.html
+
+
+Appendix D: Extent of UCR Data Coverage, Alabama-Wyoming, 1958-97
+(Data for these 50 graphs are available in a spreadsheet.)
+
+
+Appendix E:  
+Missing Data in UCR Files Used for the 1996 LLEBG Formula
+Calculations 
+
+Sue Lindgren
+Bureau of Justice Statistics 
+
+January 23, 1997: 
+Modified for the April 24-25, 1997
+Workshop on UCR Imputation Procedures
+
+Background
+
+The Local Law Enforcement Block Grant (LLEBG) program allocates
+Federal funds to State areas and local governments based on a
+3-year average of Part I violent crimes as reported to the FBI.
+The Bureau of Justice Assistance (BJA) administers the program,
+using award amounts computed by the Bureau of Justice Statistics
+(BJS). The legislation recognizes that some jurisdictions do not
+report to the FBI and prescribes that we estimate data for such
+"nonreporting agencies." Because of the press of time and our
+unfamiliarity with the Uniform Crime Reporting (UCR) data base
+to be used in the formula, it was not possible to attempt any
+such estimates for the 1996 awards (computed late spring, early
+summer 1996 after the formula was enacted in April 1996).
+Rather, we assumed that there would not be a significant number
+of such "nonreporting" agencies eligible for an award and
+decided that we would handle such situations on a case-by-case
+basis. A few such cases were brought to our attention and we
+researched and resolved each on an individual basis.
+
+Once the formula was run and the grants awarded, and State and
+local government inquiries about award amounts researched and
+resolved, we began the following analysis to inform BJS and BJA
+of the extent and nature of missing data in the UCR data set.
+
+Extent of Missing Data, by State
+
+As the first part of this analysis, we compared the violent
+crime State-wide totals we computed by summing all agency
+records within each State on the UCR files to the estimated
+violent crime totals published by the FBI in table 5 of Crime in
+the United States for the 1992-94 period used in the 1996
+formula awards and for the 1995 data. (Footnote: Earlier years
+data were used in the fiscal 1996 formula data set for Kansas,
+Illinois, and Montana because of their conversion to NIBRS.  For
+those States, the fiscal 1996 analysis examined data
+availability for those earlier years.) As seen in the attached
+tables 1-3, there is considerable variability across States. For
+the 1992-94 period, three States had less than 70% complete
+data, and 11 had less than 90%. By 1995, 28 States had even
+lower coverage than in the 1992-94 period, although the 1995
+data for at least 4 States are low because of conversion to
+NIBRS. (We used data prior to 1994 for three of these States in
+the 1996 awards). 
+
+Characteristics of Agencies with Less Than 36 Months of Violent
+Crime Data
+
+The second part of this analysis examined what kinds of agencies
+are included in the UCR files, but, according to the FBI,
+reported zero months for the period used for the formula. The
+FBI files contain a variable giving the number of months
+reporting for each year; using this variable for the three
+years, we were able to construct a "Number of months reporting"
+variable with a range of 0 to 36 months. Of 18,413 agencies in
+the FBI's UCR files for 1992-94, 3,516 (19.1%) did not report
+for any month during the 36-month period used in the formula and
+another 3,197 (17.4%) reported between 1 and 35 months. (See
+attached table 4.) Agencies reporting 0 months and agencies
+reporting 1 to 35 months are examined separately below.
+
+Agencies with 0 Months of Data
+
+We looked first at the 3,516 agencies reporting for no months
+during the 36 month period used in the formula. Based on our
+analysis, we discovered that many of the agencies on the files
+are now "retired" or "inoperative." This is less important for
+imputation purposes than for formula purposes, where we need to
+be sure we are not estimating data for agencies no longer in
+existence. Despite the research described below, we are not in a
+position to say with certainty which are inactive and which are
+nonreporting, although the research gives some idea of the
+relative sizes of each group. 
+
+As seen in table 5, almost half, 1,652, of those reporting no
+months were covered by another reporting agency by the end of
+1994, making them ineligible for an LLEBG grant by our
+interpretation of the legislation, and a third, or 1,221, are
+"zero population" agencies, meaning they are almost certainly
+State agencies or special police agencies (such as transit
+police) that probably are not eligible for a formula award. (194
+of those were covered by another reporting agency as well as
+being zero population.) 
+
+Excluding all of these presumably ineligible agencies, we are
+left with 866 agencies coded as reporting no months, most of
+which are small jurisdictions. As seen in table 6, nearly 70%
+are cities with less than 10,000 population. However, when
+looking at the actual jurisdictions, there are 2 counties and 1
+city with over 100,000 population, 3 cities with between 50,000
+and 100,000, and 199 cities and counties with over 10,000
+population. For formula allocation purposes, it is important to
+keep in mind that in less populous States, cities with 10,000
+population receive awards; thus, there is more of a potential
+impact here than we originally thought.
+
+Jurisdictions with between 1 
+and 35 Months of Data
+
+Table 4 shows that 17.4% of the agencies in the UCR files
+reported for at least 1 month, but less than 36. This represents
+3,197 agencies. As seen in table 7, 17% of these, or 554, are
+zero population agencies, again meaning they are probably not
+eligible jurisdictions, including 5 that were covered by another
+reporting agency by the end of 1994. An additional 50 with
+populations are covered by another reporting agency, again
+indicating ineligibility. Of the remaining 2,593 that might be
+eligible for an LLEBG grant, 10%, or 262 jurisdictions, already
+exceeded their State threshold for an award; their awards would
+increase if they reported for more of the period. (Footnote:
+This includes three State police barracks that were not
+"zeropop;" that is, unlike most State-level agencies they had an
+entry other than zero in the "population covered" variable. See
+"Addendum on zeropop agencies." )
+
+Most of the 2,331 that did not get an award would not reach the
+threshold if they reported fully; 525 of them reported no
+violent crime, so it is unlikely that they would have enough
+violent crime in the months they did not report to get an award.
+(Footnote: Zero violent crime  is a possibility; the agency  may
+have reported property crime (which is not on the files supplied
+to us), or may have no crime at all but continues to participate
+in the UCR program. Interestingly, 792 fully-reporting agencies
+report no violent crime; 484 are zero population, and 308 have
+populations.)  Of those reporting some violent crime, the
+overwhelming majority are so far below the threshold for an
+award in their States that it seems unlikely that they would
+receive an award even if they had complete data. However, 28 of
+the 2,331 had over 90% of the threshold amount, and another 26
+had between 80% and 90%, and more complete data may have
+resulted in an award.
+
+Impact of Incomplete Data
+
+It is clear that a considerable number of agencies are adversely
+affected in the formula by missing data in the UCR data sets;
+data that are missing for a variety of reasons beyond not
+participating in the UCR program. In the course of responding to
+State and local inquires, we heard some anecdotal evidence from
+individual police departments who claim they submitted data to
+the State program that are not showing up on the UCR files. For
+formula purposes, the reason for missing data is a concern, but
+not necessarily for imputation purposes. 
+
+While estimating the total impact of missing data on the formula
+allocations is not attempted, a few facts are clear:
+
+* 262 jurisdictions that received an award would get a larger
+award with more complete data coverage.
+
+* It is possible to estimate that, if all cities reported at the
+same rate as those that did for 36 months, an additional 84
+cities would receive an award.
+
+* Because of the configuration of the award files, it is not
+possible to replicate that computation for counties, but
+presumably some of the 2,212 counties that did not get an award
+would with more complete data coverage. 
+
+Although the impact of incomplete data seems greatest for larger
+jurisdictions which may have hundreds of violent crimes a year,
+each of which brings $216.62 in most States, small jurisdictions
+in those States with very low thresholds such as Vermont (4
+violent crimes) and North Dakota (7 violent crimes) might
+quickly become eligible for an award with more complete data.
+(Footnote:The LLEBG legislation establishes $10,000 as the
+minimum local award.  Thus, a jurisdiction needs a certain
+amount of violent crime to qualify for an award.  In some States
+this amount is lower than the national average because the
+State-level formula establishes a minimum State award regardless
+of violent crime levels.)  In addition, the dollars per crime
+figures for those States are considerably higher: $2,321.17 per
+crime in Vermont and $1,509.17 in North Dakota.
+
+In reviewing these results, it is necessary to keep in mind that
+because the formula is relative and interdependent, an increase
+in reporting (or in estimating missing data) would result in an
+increase in the thresholds and a decrease in the dollar value of
+a single crime.
+
+Addendum on "Zeropop" Agencies
+
+Agencies without an entry in the "population covered" variable
+on the UCR tapes were coded to be "zeropop" in the variable by
+that name. This was used as a surrogate indicator to identify
+State police, special police, and similar agencies that were not
+a city or county police or sheriff's office that might be
+eligible for a local law enforcement formula award. This was
+necessary because the UCR coding scheme does not allow the
+separation of State police and university police from county and
+city police. In the process of examining the extent of missing
+data in the UCR files, it was discovered that some of these
+agencies actually had a population entry and thus were not coded
+"zeropop." A search of the file for "State Police" in the agency
+name uncovered 136 of these with a population figure, about 15%
+of agencies with "State Police" in the name. These are primarily
+State police barracks in various counties reporting data 
+for the county area. 
+
+This had no effect on the distribution of fiscal 1996 awards
+because any agency not coded as a city was treated as reporting
+for a county. It will not affect the fiscal 1997 awards because
+they will rely on the Census Bureau government identification
+number that is being added to the files to allow accurate 
+identification of city, county, and State agencies and special 
+police forces. 
+
+This should have no impact on the imputation of county-level
+data because we will be able to provide a crosswalk between the
+FBI's agency codes (ORI codes) and the Census Bureau government
+identification, level-of- government, and type-of-agency codes
+so that those doing the imputation can treat those agencies any
+way they want.
+
+Table 1. 1992-94 UCR Total Violent Crime Data for Input to 1996 LLEB
+
+(Numbers on data file as percent of estimated amounts presented 
+in Crime in the U.S.)
+
+State           Percent               State               Percent
+South Carolina        101.57 %        Minnesota               97.74
+Idaho                 100.49          Colorado                97.56
+Wyoming               100.15          Arizona                  97.5
+Connecticut           100.01          Nebraska                97.48
+Rhode Island          100.01          Alaska                  96.39
+Hawaii                100             Georgia                 95.52
+New Jersey             99.99          Missouri                95.41
+Maryland               99.98          Illinois                95.32
+Texas                  99.97          Pennsylvania            94.99
+West Virginia          99.89          Nevada                  94.49
+California             99.87          Michigan                94.13
+Oklahoma               99.86          Tennessee               90.36
+Virginia               99.81          Alabama                 90.24
+New York               99.73          Ohio                    90.07
+Wisconsin              99.70          South Dakota            89.65
+Arkansas               99.66          Louisiana               89.27
+Oregon                 99.43          New Hampshire           87.37
+Maine                  99.31          Massachusetts           86.33
+North Dakota           99.30          Indiana                 82.29
+Washington             99.13          New Mexico              75.81
+Kansas                 98.98          Iowa                    74.56
+Kentucky               98.45          Vermont                 74.35
+Florida                98.37          Mississippi             68.04
+Utah                   98.33          Delaware                65.35
+North Carolina         98.24          Montana                 63.00
+
+
+Table 2. 1992-94 Summary of Actual Counts of Violent Crime on LLEBG Data Files 
+as a Percent of the Amount Estimated by the FBI
+
+Part I violent   
+crimes on data                     Percent of estimated     Cumulative 
+files as a percent     Number of   number of Part I         percent
+of published estimate  States      violent crimes           of estimated crime
+
+100% or more              6             12%                    12%
+99% to 99.99%            14             28                     40
+98% to 98.99%             5             10                     50
+96% to 97.99%             5             10                     60
+90% to 95.99%             9             18                     78
+80% to 89.99%             5             10                     88
+Less than 80%             6             12                    100
+                         50            100
+
+
+Table 3. Comparisons of UCR Violent Crime Data for Input to 1996 and 1997 LLEBG F
+(Numbers on data file as percent of estimated amounts present in Crime in the U.S.
+
+                   Part I violent crimes
+                   as percent of published                   Difference in the percentage
+                   estimates, 1992-94                        from 1992-94 to 1995
+                                                 1995 
+Alabama                       90.24%             95.09%              4.85%
+Alaska                        96.39              94.18              -2.21
+Arizona                       97.50              96.87              -0.63
+Arkansas                      99.66              99.78               0.12
+California                    99.87              97.19              -2.68
+Colorado                      97.56              97.12              -0.44
+Connecticut                  100.01              99.92              -0.09
+Delaware                      65.35              35.51             -29.84
+Florida                       98.37              98.75               0.38
+Georgia                       95.52              96.39               0.87
+Hawaii                       100                100.00                  0
+Idaho                        100.49              99.17              -1.32
+Illinois*                     95.32              63.03             -32.29
+Indiana                       82.29              75.05              -7.24
+Iowa                          74.56              79.03               4.47
+Kansas*                       98.98              34.21             -64.77
+Kentucky                      98.45              91.51              -6.94
+Louisiana                     89.27              94.50               5.23
+Maine                         99.31              99.63               0.32
+Maryland                      99.98              99.99               0.01
+Massachusetts                 86.33              91.49               5.16
+Michigan                      94.13              94.96               0.83
+Minnesota                     97.74              99.47               1.73
+Mississippi                   68.04              61.41              -6.63
+Missouri                      95.41              94.74              -0.67
+Montana                       63.00              17.92             -45.08
+Nebraska                      97.48              99.07               1.59
+Nevada                        94.49              99.32               4.83
+New Hampshire                 87.37              75.19             -12.18
+New Jersey                    99.99             100.09               0.10
+New Mexico                    75.81              73.24              -2.57
+New York                      99.73              98.70              -1.03
+North Carolina                98.24              98.83               0.59
+North Dakota                   99.3              95.32              -3.98
+Ohio                          90.07              83.98              -6.09
+Oklahoma                      99.86              99.84              -0.02
+Oregon                        99.43              97.90              -1.53
+Pennsylvania                  94.99              83.95             -11.04
+Rhode Island                 100.01             100.11               0.10
+South Carolina               101.57             102.38               0.81
+South Dakota                  89.65              82.35              -7.30
+Tennessee                     90.36              87.66              -2.70
+Texas                         99.97              99.78              -0.19
+Utah                          98.33              95.84              -2.49
+Vermont                       74.35              90.61              16.26
+Virginia                      99.81              99.88               0.07
+Washington                    99.13              95.90              -3.23
+West Virginia                 99.89              99.90               0.01
+Wisconsin                      99.7              99.83               0.13
+Wyoming                      100.15              99.34              -0.81
+
+Maximum                      1.0157               1.0238
+Minimum                        0.63               0.1792
+
+
+
+Table 4.  Number of Months/Years Reporting, 
+All Agencies in UCR Files,
+
+                  Number of                   Percent of 
+                  reporting agencies          all agencies
+No months                3516                     19.1%
+1 - 11 months             404                      2.2
+1 full year               508                      2.8
+13 - 23 months            464                      2.5
+2 full years              530                      2.9
+25 - 35 months           1291                      7.0
+3 full years            11700                     63.5
+Total                   18413                    100
+
+
+
+Table 5.  Agencies Reporting Zero Months, by Whether Covered
+by Another Reporting Agency or "Zeropop" 
+
+                         Covered by another agency
+                             No             Yes            Total
+Zeropop                     1027            194             1221
+Non-zeropop                  836           1458             2294
+Total                       1863           1652             3515
+
+
+
+Table 6.  Population Distribution of Agencies Reporting
+and not Covered by Another Reporting  Agency or "Zeropop"
+
+Government type and size   Frequency   Percent
+City 100,000-250,000           1         0.1
+City 50,000-100,000            3         0.3
+City 25,000-50,000            12         1.4
+City 10,000-25,000            38         4.4
+City 2,500-10,000            197        22.7
+City under 2,500             398        46.0
+County 100,000 or more         2         0.2
+County 25,000-100,000         46         5.3
+County 10,000-25,000          97        11.2
+County under 10,000           72         8.3
+Total                        866         100
+
+Table 7.  Agencies Reporting 1 to 35 Months, by Whether
+Covered by Another Reporting Agency by 1994 or "Zeropop"
+
+                      Covered by another agency
+                       No         Yes       Total
+Zeropop               549           5         554
+Non-zeropop          2593          50        2643
+Total                3142          55        3197
+
+---------------------------------------------------------------
+
+References
+
+Akiyama, Yoshio, and James Nolan (1999). "Methods for
+Understanding and Analyzing NIBRS Data." Journal of Quantitative
+Criminology, 15, 2, 225-238.
+
+Akiyama, Yoshio, and James Nolan (1999b). "UCR Data Imputation:
+Longitudinal vs Cross-Sectional Approaches."  Internal
+memorandum, FBI Criminal Justice Information Services Division,
+August 1999.
+
+Biderman, Albert D., and James Lynch (1991). Understanding Crime
+Incidence Statistics : Why the UCR Diverges from the NCS.
+Springer-Verlag, New York, NY.
+
+Black, Dan A., and Daniel S. Nagin (1998). "Do Right-to-Carry
+Laws Deter Violent Crime?" Journal of Legal Studies, 27, 1,
+209-220.
+
+Block, Carolyn Rebecca (1998). An Evaluation of the Completeness
+and Accuracy of SHR Data: Chicago, 1993 and 1994. Illinois
+Criminal Justice Information Authority, Chicago, IL.
+
+Block, Richard and Carolyn Rebecca Block, "Homicide Syndromes
+and Vulnerability: Violence in Chicago Community Areas over 25
+Years."  Studies on Crime & Crime Prevention 1, 1992, 61-87.
+
+Braga, Anthony A., Anne M. Piehl, and David M. Kennedy (1997).
+Youth Homicides in Boston: An Assessment of Supplementary
+Homicide Report Data. John F. Kennedy School of Government,
+Harvard University, Cambridge, MA.
+
+Chilton, Roland, and John Jarvis (1999). "Victims and Offenders
+in Two Crime Statistics Programs: A Comparison of the National
+Incident-Based Reporting System (NIBRS) and the National Crime
+Victimization Survey (NCVS)." Journal of Quantitative
+Criminology, 15, 2, 193-205.
+
+Ehrlich, Isaac (1975). "The Deterrent Effect of Capital
+Punishment: A Question of Life and Death." American Economic
+Review, 65, 397-417.
+
+Federal Bureau of Investigation (annually). Crime in the United
+States. Federal Bureau of Investigation, U.S. Department of
+Justice, Washington, DC.
+
+Federal Bureau of Investigation (1958). Crime in the United
+States. Special Issue, containing the Report of the Consultant
+Committee. Federal Bureau of Investigation, U.S. Department of
+Justice, Washington, DC.
+
+Fox, James Alan (1996). Uniform Crime Reports: Supplementary
+Homicide Reports, 1976-1994.  [Computer file and codebook]. 
+ICPSR version. Northeastern University, College of  Criminal 
+Justice, Boston, MA  [producer]. Inter-university Consortium for
+Political and Social  Research  [distributor], Ann Arbor, MI.
+
+Fox, James Alan (1996). Trends in Juvenile Violence: A Report to
+the United States Attorney General on Current and Future Rates
+of Juvenile Offending. Northeastern University, Boston, MA.
+
+Greenfeld, Lawrence A., and Steven K. Smith (1999). American
+Indians and Crime. BJS Report NCJ 173386, U.S. Department of
+Justice, Washington, DC. Available at
+http://www.ojp.usdoj.gov/bjs/pub/pdf/aic.pdf.
+
+Illinois Criminal Justice Information Authority (1987). Trends
+and Issues: Criminal and Juvenile Justice in Illinois. Illinois
+Criminal Justice Information Authority, Chicago, IL.
+
+International Association of Chiefs of Police (1929). Uniform
+Crime Reporting. IACP, New York, NY.
+
+Kennedy, David M.,  Anne M. Piehl, and Anthony A. Braga (1996).
+"Youth Violence in Boston: Gun Markets, Serious Youth Offenders,
+and a Use-Reduction Strategy." Law and Contemporary Problems,
+59, 1, 147-196.
+
+Lattimore, Pamela K., James Trudeau, K. Jack Riley, Jordan
+Leiter, and Steven Edwards (1997). Homicide in Eight American
+Cities: Trends, Context, and Policy Implications. Report NCJ
+167262. National Institute of Justice, Washington, DC. Available
+at http://ncjrs.org/pdffiles/167262-1.pdf.
+
+Lott, John R., Jr. (1998).  More Guns, Less Crime: Understanding
+Crime and Gun Control Laws. University of Chicago Press,
+Chicago, IL.
+
+Lott, John R., Jr., and David B. Mustard (1997). "Crime,
+Deterrence, and Right-to-Carry Concealed Handguns." Journal of
+Legal Studies, 26, 1, 1-68. 
+
+
+
+Maltz, Michael D. (1972 [1999]). Evaluation of Crime Control
+Programs (monograph), National Institute of Law Enforcement and
+Criminal Justice, GPO:  Washington. Internet version, published
+in 1999, found at http://www.uic.edu/~mikem/homepage.html
+
+Maltz, Michael D. (1976). "Secondary Analysis of the UCR:  An
+Index of the Risk of Death Due to Robbery," Journal of Criminal
+Justice 4, 2, 153-56.
+
+Maltz, Michael D. (1977). "Crime Statistics:  A Historical
+Perspective," Crime and Delinquency 23, 1, January, 32-40. 
+Reprinted in Eric Monkkonen, Ed., Crime And Justice in American
+History, Meckler, 1990.
+
+Maltz, Michael D. (1998). "Visualizing Homicide: A Research
+Note," Journal of Quantitative Criminology, 14, 4, 397-410.
+
+Maxfield, Michael G. (1989). "Circumstances in Supplementary
+Homicide Reports: Variety and Validity." Criminology, 27, 4,
+671-694.
+
+Poggio, Eugene C., Stephen D. Kennedy, Jan M. Chaiken, and
+Kenneth E. Carlson (1985). Blueprint for the Future of the
+Uniform Crime Reporting Program. Bureau of Justice Statistics
+and Federal Bureau of Investigation, U.S. Department of Justice,
+Washington, DC.
+
+Riedel, Marc (1990) "Nationwide Homicide Data Sets: An
+Evaluation of the Uniform Crime Reports and the National Center
+for Health Statistics Data." Chp. 9 in Doris Layton MacKenzie,
+Phyllis Jo Baunach, and Roy R. Roberg, Eds., Measuring Crime:
+Large-Scale, Long-Range Effects, State University of New York
+Press, Albany, NY.
+
+Sherman, Lawrence W., Denise Gottfredson, Doris MacKenzie, John
+Eck, Peter Reuter, Shawn Bushway, in collaboration with members
+of the Graduate Program (1997). Preventing Crime: What Works,
+What Doesn't, What's Promising. Department of Criminology and
+Criminal Justice, University of Maryland, College Park, MD.
+
+Snyder, Howard (1996). National Juvenile Violent Crime Trends,
+1980-1994. National Center for Juvenile Justice, Pittsburgh, PA.
+
+Snyder, Howard (1999). "The Overrepresentation of Juvenile Crime
+Proportions in Robbery Clearance Statistics." Journal of
+Quantitative Criminology, 15, 2, 151-161.
+
+Stamp, Sir Josiah (1929). Some Economic Factors in Modern Life.
+P. S. King and Son, Ltd., London, UK.
+
+Williams, Kirk and Robert L. Flewelling (1987). "Family,
+acquaintance, and stranger homicide: Alternate procedures for
+rate calculations." Criminology, 25: 543-560.
+
+Zawitz, Marianne W., Ed. (1983). Report to the Nation on Crime
+and Justice: The Data. BJS Report NCJ 87068, U.S. Department of
+Justice, Washington, DC.
+
+Zawitz, Marianne W., Ed. (1988a). Report to the Nation on Crime
+and Justice: Second Edition. BJS Report, NCJ 105506, U.S.
+Department of Justice, Washington, DC. 
+
+Zawitz, Marianne W., Ed. (1988b). Technical Appendix, Report to
+the Nation on Crime and Justice: Second Edition. BJS Report, NCJ
+112011, U.S. Department of Justice, Washington, DC.
+
+
+
+Glossary 
+
+BGP: Boston Gun Project, a multi-organization effort
+that served to reduce the number of youth homicides in Boston.
+
+BJA: Bureau of Justice Assistance, one of the agencies of the
+Office of Justice Programs that provides programmatic and
+financial assistance to State and local criminal justice
+agencies.
+
+BJS: Bureau of Justice Statistics, the statistical arm of the
+U.S. Department of Justice.
+
+CCSPD: Cook County (Illinois) Sheriff's Police Department.
+
+CHD: Chicago Homicide Dataset, a computer file of homicides
+maintained by the Illinois Criminal Justice Information
+Authority and available for downloading from NACJD. 
+
+CIUS: Crime in the United States, the annual report on crime
+published by the FBI.
+
+CJIS: Criminal Justice Information Services Division of the FBI,
+responsible for the collection, analysis, and publication of
+crime, arrest, and other police-related data.
+
+DOJ: U.S. Department of Justice.
+
+FBI: Federal Bureau of Investigation, the investigative arm of
+the U.S. Department of Justice.
+
+IACP: International Association of Chiefs of Police, the
+organization that initiated the Uniform Crime Reporting Program.
+
+ICPSR: Inter-university Consortium of Political and Social
+Research, an organization established by colleges and
+universities to store political and social data files so they
+may be accessed by researchers for analysis.
+
+LEAA: the Law Enforcement Assistance Administration, an agency
+established by the Omnibus Crime Control and Safe Streets Act of 
+1968, in which was housed many of the agencies and functions 
+now part of the Office of Justice Programs.
+
+NACJD: National Archive of Criminal Justice Data, a unit within
+the Inter-university Consortium of Political and Social Research
+that serves as a repository of criminal justice data funded by
+BJS and NIJ and housing data files produced by these agencies 
+and their grantees/contractors, from which the files can be obtained.
+
+NCHS: National Center for Health Statistics, 
+a statistical arm of the U.S. Department of Health and Human
+Services.
+
+NIBRS: National Incident-Based Reporting System, the crime data
+collection system that will replace the UCR system.
+
+NIJ: National Institute of Justice, the research arm of the U.S.
+Department of Justice.
+
+OJP: Office of Justice Programs, an office within DOJ that
+houses the Bureau of Justice Statistics, Bureau of Justice
+Assistance, National Institute of Justice, and other agencies
+that deal with State and local criminal justice agencies, 
+issues and programs.
+
+ORI: Originating Agency Identifier, the identification number
+used by the FBI to identify police agencies
+
+PSS: Program Support Section, the section of the FBI's Criminal 
+Justice Information Services Division that deals with the 
+collection, analysis, and publication of crime data.
+
+SAC: Statistical Analysis Center, an agency established in many
+States during the 1970's, often with funding from BJS.
+
+
+
+SAS: Statistical Analysis System, computer software for data
+analysis.
+
+SHR: Supplementary Homicide Reports, a supplement to the Uniform
+Crime Reporting Program that collects information about each
+homicide incident, including victim and offender
+characteristics, the relation between victim(s) and offender(s),
+and incident circumstances.
+
+SPSS: Statistical Program for the Social Sciences, computer
+software for data analysis.
+
+UCR: Uniform Crime Reports or the Uniform Crime Reporting
+Program, the FBI program that collects, analyzes, and publishes
+crime, arrest and police personnel data from police agencies
+throughout the United States.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
