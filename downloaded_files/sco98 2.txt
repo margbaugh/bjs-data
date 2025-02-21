@@ -1,0 +1,2180 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+State Court Organization, 1998
+
+June 2000  NCJ 178932
+
+
+------------------------------------------------------------------
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from: 
+http://www.ojp.usdoj.gov/bjs/abstract/sco98.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series go to
+http://www.ojp.usdoj.gov/bjs/pubalp2.htm#sco
+ -------------------------------------------------------------------
+
+
+
+By David B. Rottman
+Carol R. Flango
+Melissa T. Cantrell
+Randall Hansen
+Neil LaFountain
+
+
+Jan M. Chaiken, Ph.D.
+Director, BJS
+
+This Bureau of Justice Statistics report
+was prepared by the National Center for 
+State Courts under the Supervision of 
+Steven K. Smith and Marika F.X. Litras 
+of the Bureau of Justice Statistics.  The 
+project was supported by BJS grant 
+number 98-BJ-CX-K002.  Principle staff 
+for the project at the National Center for 
+State Courts were David B. Rottman, 
+Ph.D., Carol R. Flango, Melissa T. 
+Cantrell, Randall Hansen, and Neil 
+LaFountain.  Tom Hester and Carol 
+DeFrances of BJS provided editorial 
+review.  Jayne Robinson administered
+final production.
+
+This report was made possible by the 
+support and guidance of the Court 
+Statistics Committee of the
+Conference of State Court 
+Administrators.
+
+Please bring suggestions for information
+that should be included in future editions
+to the attention of the Director of the
+Court Statistics Project, National Center
+for State Courts, 300 Newport Avenue,
+Williamsburg, Virginia 23187-8798.
+
+An electronic version of this report may 
+be found on the Internet at 
+http://www.ojp.usdoj.gov/bjs/.
+
+Acknowledgments
+
+This volume like its three predecessors is a product of the
+court community. The Conference of State Court Administrators
+sponsors the State Court Organization series and makes
+available its Court Statistics Committee to guide compilation
+of each edition.  Committee members participated in selecting
+the contents of the volume, designing the data collection
+strategy, and volunteered their states for pilot testing of
+survey instruments.  At meetings and through mailing the
+Committee provided an on-going check on the accuracy and
+usefulness of the volume's contents.  The bulk of the volume
+and the detailed nature of the contents make the Committee
+members' contribution above and beyond that which can
+reasonably be expected, even of members of a committee
+devoted to court statistics.
+
+The state court administrators of the 50 states, District of
+Columbia, and Puerto Rico and their staff, the more than 135
+clerks and deputy clerks of appellate courts, and staff from
+the Administrative Office of the United States Courts were
+the original source for most information included in the
+volume.  In that capacity, administrators and clerks
+completed surveys, updated forms, and responded to requests
+for clarification and elaboration by telephone, fax and e-
+mail over a twelve-month period.  The generosity of their
+investment of time and effort and the patience with which
+they endured what must have seemed an endless process of
+clarification and verification are greatly appreciated. 
+
+Staff from the Bureau of Justice Statistics, and especially
+Dr. Marika Litras, our project monitor, shared their
+expertise in survey design and the display of information in
+print and on the Web.  As a result, this edition is easier on
+the eye and easier to access than were previous editions. The
+Bureau's funding makes the entire SCO enterprise possible. 
+
+The NCSC's Information Service gave access to its records of
+recent information requests and offered recommendations in
+the search for new topics for the 1998 edition.  We were also
+able to rely upon our colleagues in the NCSC Research
+Division to identify and frame questions to tap emerging
+trends within the state courts.  Particular thanks are due
+Pamela Casey, Paula Hannaford, Susan Keilitz, Brian Ostrom,
+Tom Munsterman, Dawn Spinozza, and Karen Way.  Lin Walker
+provided the information on court automation in Table 21 and
+John Rockwell the information on cameras in the courtroom in
+Table 37. 
+
+At various stages along the way we also were able to draw
+upon the talents of other colleagues.  We are grateful to
+Karin Armstrong, Catina Burrell, Tom Carlson, Margaret
+Fonner, Lynn Grimes, Valerie Hansford, and Pam Petrakis.
+
+Despite all of this guidance, advice, and assistance,
+responsibility for the accuracy of all of the contents of
+this volume rests with the project staff.  
+
+Project Staff
+
+David B. Rottman
+Project Director
+
+Melissa T. Cantrell
+Program Specialist
+Heather Conoboy
+Research Assistant
+
+Carol R. Flango
+Research Associate
+
+Randall Hansen
+Research Assistant
+
+Carol Moninger
+Research Analyst
+
+Neil LaFountain
+Research Analyst
+
+Neal Kauder
+Consultant,
+VisualResearch
+
+Conference of State Court Administrators, Court Statistics
+Commitee
+
+Hugh M. Collins Chair (1982 to present)
+Judicial Administrator, Louisiana
+
+J. Denis Moran, Co-Chair (1983 to present)
+Director of State Courts, Wisconsin
+
+John A. Clarke (1988 to present)
+Trial Court Administrator, Essex County, New Jersey
+
+Howard W. Conyers (1990 to present)
+Administrative Director of the Courts, Oklahoma
+
+Marc Galanter (1986 to present)
+Evjue-Bascom Professor of Law, University of Wisconsin
+
+Daniel J. Hall (1990 to present)
+Director of Planning, Colorado
+
+Mary McQueen (1999 to present)
+State Court Administrator, Washington
+
+Judge Aaron Ment (1991 to present)
+Chief Court Administrator, Connecticut
+
+William J. O'Brien (1994 to present)
+State Court Administrator, Iowa
+
+John T. Olivier (1991 to present)
+Deputy Clerk, Supreme Court of Louisiana
+
+Howard P. Schwartz (1992 to present)
+Judicial Administrator, Kansas
+
+Joseph C. Steele (1999 to present)
+State Court Administrator, Nebraska
+
+Patricia Tobias (1999 to present)
+Administrative Director of the Courts, Idaho
+
+Robert Wessels (1995 to present)
+Court Manager, Texas
+
+
+National Center for State Courts Board of Directors
+
+Chief Justice E. Norman Veasey, Chair
+Supreme Court of Delaware
+
+Howard W. Conyers, Vice-Chair
+Administrative Director, Oklahoma
+
+Chief Justice Gerald W. VandeWalle, Chair-elect
+Supreme Court of North Dakota
+
+Judge Roberto A. Arias
+Judge, Duval County Courthouse, Florida
+
+Byron Attridge
+King & Spalding, Georgia
+
+Frank Broccolina
+Deputy State Court Administrator, Maryland
+
+Chief Justice David A. Brock, Past Chair
+Supreme Court of New Hampshire
+
+Judge Kevin S. Burke
+Hennepin County District Court, Minnesota
+
+David K. Byers
+Administrative Director, Supreme Court of Arizona
+
+Justice William Cousins
+Illinois Appellate Court
+
+Justice Ann K. Covington
+Supreme Court of Missouri
+
+Gordon M. Griller
+Court Administrator, Arizona
+
+Judge William G. Kelly
+U.S. District Court Judge, Michigan
+Jack. B. Middleton
+McLane, Graf, Rauleron & Middleton, New Hampshire
+
+Chief Judge Thelma Cummings Moore
+Superior Court of Fulton County, Georgia
+
+Presiding Judge Gayle A. Nachtigal
+Circuit Court of Washington County, Oregon
+
+Dwight Opperman
+Key Investment, Inc., Minnesota
+
+Kenneth R. Palmer
+State Court Administrator, Florida
+
+Louise M. Parent, Exec. Vice-President & General Counsel
+American Express, New York
+
+Carroll D. Stevens
+Associate Dean, Yale Law School, Connecticut
+
+Judge Sandra Ann Thompson
+Los Angeles Municipal Court, California
+
+Ruth Walsh McIntyre
+Bellevue, Washington
+
+William C. Vickrey, Past Vice-Chair
+State Court Administrator, California
+
+Chief Judge Annice M. Wagner
+District of Columbia Court of Appeals
+
+Roger K. Warren
+President, National Center for State Courts
+
+Robert Wessels
+Court Manager, Texas
+
+Courts and judges
+
+In 1998, there were 208 statewide general and limited
+jurisdiction trial court systems in the United States, the
+District of Columbia, and Puerto Rico.  About 9,065 full time
+authorized judges served in the 71 statewide trial court systems
+of general jurisdiction alone.
+
+*  In 1998, there were 132 courts of appeal, including the U.S.
+Supreme Court and U.S. Courts of Appeal.  The combined full-time
+Federal and State appellate bench in 1998 had a reported 1,474
+members.  About 75% or 1,108 appellate judges served on
+intermediate appellate courts.
+
+Judicial selection and service
+
+* General jurisdiction trial judges were selected through non-
+partisan elections in 18 and through partisan elections in 10
+of the 50 States in 1998.  In 15 States, general juridiction
+trial court judges were selected by gubernatorial appointment
+and in 3 States by appointment by State legislatures.  The
+remaining States varied in their method of selection.
+
+* General jurisdiction trial court judges must possess a law
+degree in all but 2 States -- Maine and  Massachusetts.
+
+* Twenty one (42%) of the 50 States selected their appellate
+judges through a gubernatorial appointment and 3 by legislative
+appointment in 1998.  An additional 14 States used non-partisan
+elections, 8 partisan elections and 4 retention elections.  
+
+* Initial/pre-bench education for general jurisdiction judges
+was required in 30 States (including Puerto Rico), for limited
+jurisdiction judges in 31 States, and in 9 States for appellate
+judges.  Continuing education for general jurisdiction judges
+was required in 44 States, for limited jurisdiction judges in
+42 States, and in 38 States for appellate judges 
+
+* By 1998, 18 States, the District of Columbia, and Puerto Rico
+had formal provisions for an ongoing evaluation of judicial
+performance.
+
+* All States had judicial conduct organizations which
+investigated complaints against members of the judiciary.  Most
+of these organizations were composed of about 5 to 15 members
+including judges, lawyers and ordinary citizens.
+
+The judicial branch
+
+* Every State has a judicial branch which is headed by the court
+of last resort in 13 States, the Chief Justice of the court of
+last resort in 36 States, and in one State, Utah, the Judicial
+Council.  In the majority of States (33), the head of the
+judicial branch is established by the State Constitution.  In
+the remaining States, authority is established either by State
+statue or some combination of both.
+
+* In 1998, 20 States had a compensation commission that examined
+and reported on the salaries of judges.  Fourteen of these
+commissions had broader mandates, also examining and reporting
+on non-judicial public officials.  Six States by 1998 has
+created commissions specifically for judicial compensation
+review.
+
+* In most States the Administrative Office of the Courts
+prepared the judicial branch budget (33 States, the District of
+Columbia, and Puerto Rico), generally followed by a review of
+the budget submissions by the State's Court of Last Resort.  In
+most States, the judicial branch budget is either included in
+a general appropriation bill or included in one of several
+bills.  Only in 14 States is it filed as a separate
+appropriation bill. 
+
+* On average in 1998, judicial budgets accounted for about 1.5%
+of State budget appropriations, ranging from 0.1% in Washington
+to 3.6% in Oregon.
+
+* In more than 8 in 10 statewide trial courts of general
+jurisdiction during 1998, judicial salaries were funded totally
+by State sources.  By contrast, in just under half of Statewide
+trial courts of limited jurisdiction, judicial salaries were
+funded totally by State sources, about one third by local 
+sources, and the remaining by either county funding sources or
+some combination of the three.
+
+State appellate court systems
+
+* The courts of last resort in the State appellate systems
+ranged in size from 5 to 9 judges in 1998.  A majority of State
+courts of last resort had 7 members, including the most populous
+States, California and New York.  Iowa, Mississippi, and
+Washington had 9 Justices.
+
+* A common State response to increasing appeals is to create an 
+intermediate court of appeals.  In 1998, 35 States had 1
+intermediate court of appeal (including Puerto Rico), 5 States
+had 2, while 12 States had no intermediate court of appeal
+(including the District of Columbia).
+
+* Appellate courts typically have an appointed clerk of the
+court.  Only in the Supreme Court of Indiana and the regional
+intermediate appellate courts of Ohio are popular elections used
+to select appellate court clerks.
+
+* Appellate courts implement various strategies to make the
+workload of appellate courts more efficient.  Thirty seven
+States, by 1998, for example, had some expedited briefing
+procedures in their appellate court systems.  Eighteen States
+had accelerated or special calendars in some courts for specific
+case types, and all but 12 States had some limitation on oral
+arguments in criminal and/or civil cases.
+
+Trial court clerks
+
+In 1998, there were over 7,500 clerks in state trial courts. 
+Over half of these clerks served in trial courts of limited
+jurisdiction.  Typically, trial court clerks have the
+responsibility for docketing cases, collecting court fees,
+overseeing jury selection, and maintaining all court records.
+
+* Partisan elections were used to select clerks of general
+jurisdiction trial courts in 27 States and non-partisan
+elections in an additional 4 States.  General jurisdiction trial
+court clerks were appointed in 19 States, the District of
+Columbia, and Puerto Rico.  In the remaining States, selection
+of these clerks varied.
+
+Specialized courts
+
+ There were 327 drug courts across 43 States, the District of
+Columbia and Puerto Rico in 1998.  The majority of drug courts
+were established between 1992 and 1996.  During 1998, drug
+courts were established in Maine and Mississippi.
+
+By 1998, all but 17 States had family courts that served some
+number of counties, districts, or were statewide.  These courts
+typically had jurisdiction over domestic and marital matters
+such as divorce, child custody and support, and domestic
+violence.
+
+* There are currently over 450 tribal justice forums among the
+556 Federally recognized tribes in the United States.  Sixteen
+States have assumed mandatory or optional jurisdiction over
+tribal lands, pursuant to Public Law 280.
+
+Insanity defense
+
+* A defense of insanity was allowed in 48 of the 50 States, the
+District of Columbia and Puerto Rico in 1998.  
+
+
+Only Idaho and Utah had no insanity defense provision.
+
+* When determining the defendant's capacity to stand trial, the
+majority of States require a preponderance of evidence -- the
+burden of proof typical in a civil trial.  Ten States provide
+for a bifurcated trial where the elements of the crime are
+decided in one proceeding and the determination of insanity in
+a separate proceeding.
+
+* In most States, the defendant carries the burden proof in an
+insanity defense trial, while the plaintiff carries this burden
+in 12 States.
+
+* In 18 States in 1998,  post trial treatment was mandatory for
+all or some defendants.
+
+The jury
+
+* In 1998, voter registration was the most common source, though
+not the only source, used by States to create a master list of
+potential jurors.  Other sources included motor vehicle
+registration, telephone directories, and tax rolls.
+
+* In most States, the minimum age to serve on a jury was 18. 
+The minimum age in Missouri and  Montana, however, was 21 years
+of age.  There was some residency requirement to serve on a jury
+in all States, and literacy and/or language requirements in all
+but 8 States.
+
+* In 8 States employers were responsible, at least partially,
+for maintaining the salaries of employees while on jury duty. 
+Daily fees paid to serving jurors ranged from $2.00 to $50.00
+in 1998.
+
+* Grand jury indictments for all felony prosecutions were
+required in 14 States and in an additional 4 States 
+for capital and/or life imprisonment cases.  The size of grand
+juries ranged from 6 members in Indiana to 
+23 members in Maryland and Massachusetts.
+
+The sentencing context
+
+* In non-capital felony cases, original sentences were set by
+a jury in 46 States, the District of Columbia and Puerto Rico,
+and by a judge in 6 States.   The judge can alter the jury
+sentence or recommendation in 4 States -- Arkansas, Indiana,
+Kentucky and Missouri.
+
+* Of the 37 States with the death penalty in capital felony
+cases during 1998, original sentences were set by a jury in 23
+States, by a judge in 5 States, and by a judge with the
+recommendation of the jury in 7 States.  In Missouri and New
+Mexico either a jury or a judge may impose a sentence of death. 
+In all States where the sentence was set by a jury, the decision
+must be unanimous.  If the jury cannot reach an  agreement, life
+without parole is available in 12 States.  A judge can alter a
+jury sentence of death in 12 States.
+
+* Some type of intermediate sanctions were available in all 50
+States, the District of Columbia and Puerto Rico.  Intensive
+probation and/or work release was available in 47 States and
+Puerto Rico, house arrest and/or electronic monitoring in 48
+States and the District of Columbia, and shock incarceration in
+30 States.
+
+* By 1998, active sentencing commissions had been established
+in 17 States.  All but 1, South Carolina, had sentencing
+guidelines.  In most States these guidelines were mandatory with
+room for justified deviations.
+
+* In 1998 collateral consequences for felony convictions were
+in place in all States.  In most States, a felony conviction was
+associated with the restriction of voting rights, parental
+rights, public employment, jury duty service, and firearm
+ownership
+                    
+                          
+What is the purpose of the volume?
+
+This volume, the fourth edition in a series, describes the
+highly diverse world of the state courts as of July 1, 1998,
+while also providing some corresponding information on the
+federal courts.  Information distributed across 50 tables
+details the main features of how courts operate, ranging from
+the names of the various courts established in each state to
+whether jury verdicts must be unanimous to convict in
+criminal cases or to decide on liability in civil matters. 
+Such fundamental matters vary from state to state, and
+between the state courts and the federal system--there is no
+single, uniform court system in the United States.
+
+One reason, then, for compiling the State Court Organization
+series (previous editions refer to court organization in
+1980, 1987, and 1993) is to provide answers in a single
+volume to fundamental questions about what each state's court
+system looks like:  How many appellate and trial courts have
+been established?  What specific categories of cases does
+each court have the jurisdiction to decide? 
+
+A second purpose for compiling State Court Organization is to
+permit comparative examination of how courts are organized. 
+Information on how court administration and procedure are
+organized assists states in effecting change by identifying
+options and specific examples for their consideration.
+
+Most states have two appellate courts and at least two trial
+courts, but differ in such basics as where jurisdiction over
+juvenile cases is found and whether civil appeals are heard
+as a matter of right or at the discretion of the reviewing
+appellate court.  The essential point is that these matters
+are not standardized across the United States. The federal
+system and individual states have evolved, knocking against
+one another from time to time in ways that lead to some
+shared tendencies, but no uniformity.  To a limited extent,
+the federal court system offers a prototype that states can
+follow. This edition of State Court Organization encourages
+and facilitates examination of federal and state approaches
+to court administration, procedures, and rules.
+
+There is still much about state courts that continues to be
+rooted in geographical areas within states, defined by
+counties, townships, cities, or other forms of local
+government.  The more important points of variations within
+states are noted, such as methods for judicial selection,
+sometimes in the table proper but more often through the use
+of footnotes in the tables.
+
+A third purpose for this volume is to address noteworthy
+features of statutes and policy that affect how the courts
+function.  In this edition, emphasis is placed upon the 
+sentencing context: the provisions of state constitutions,
+statutes, and court rules that govern how sentences are
+imposed and reviewed on appeal.  This encompasses options
+provided for sentencing. "What is the most serious penalty
+other than the death penalty?" What specific sentencing
+provisions exist for "habitual offenders"?  What is the array
+of intermediate sanctions that judges (and in some states,
+juries) can impose?  Other features of the sentencing process
+considered include the presence of sentencing guidelines, the
+jurisdiction of each trial court to sentence felons, and the
+manner in which sentences, once imposed, can be reviewed. 
+Parole or "good time" provisions that affect sentence length
+are also outlined.
+
+Another topic given emphasis is how the judicial branch is
+governed.  Who is the head of the judicial branch?  What
+official or institution formulates and submits the budget for
+operating the courts?  What items of trial court expenditure
+are funded by the state and which are financed either by
+local government or from court fees?  What is the rule-making
+authority of state courts of last resort?  What use is made
+of judicial councils and conferences in setting policy for
+the courts?  At the level of individual trial courts is the
+clerk of court, an independently elected official or an
+appointee of the bench?  What is the formal relationship
+between the clerk of court and the trial court administrator? 
+What is the authority of presiding or administrative judges? 
+The advent of professional trial court managers--
+administrators, clerks, and judges who view much of their
+role as managerial--is one of the more significant waves of
+change that buffeted the nation's courts in recent decades. 
+The governance of the judicial branch is becoming a more
+substantial undertaking that merits close description.
+
+Yet another emphasis is on the jury.  The role of the grand
+jury has generally diminished in the initiation of felony
+court cases, but the institution retains considerable
+significance in some states.  Trial court juries retain their
+importance in both civil and criminal matters, but juries
+have changed in how they are selected and in their size and
+verdict rules. Does a jury need to be unanimous, or can a
+verdict be returned by a majority of the jurors?
+A 12-person jury required to reach a unanimous verdict
+is no longer typical.  The U.S. Supreme Court, in a series
+of opinions during the 1960s, relaxed requirements that
+verdicts be unanimous and rendered by 12-person juries.
+Today, there is marked variation among states and also,
+within many states by the type of case (felony versus
+misdemeanor, for example).  The main dynamic today is
+in efforts to enhance the representativeness of jury
+pools and ease the burdens associated with jury service.
+This is reflected in changes to the source lists from which the 
+jury pool is drawn, the elimination of occupational
+exemptions, and improved levels of juror fees.  Which 
+states have eliminated occupational exemptions from jury
+service?  What obligations do employers have to pay the
+regular salaries of employees who serve on juries?
+
+New topics covered in this volume include the proliferation
+of specialized courts, new legislative mandates in the
+adjudication of domestic violence cases, current standards
+regarding the insanity defense, and efforts in automating
+court information systems.  To support the three purposes
+just described, State Court Organization 1998 expands the
+coverage of court administration and court procedure by
+introducing four new tables.  New topics include judicial
+compensation commissions, clerks of court
+responsibilities for providing services to appellate courts,
+the authority of trial court administrative
+judges, and standards and procedures governing the
+use of the insanity defense in criminal cases.  In
+addition, the format for reporting on automation in the
+courts has been completely revised.  
+
+A fourth purpose for compiling this volume is to provide
+authoritative base-line information through which important
+changes in the nation's courts can be tracked. The 1998
+edition of State Court Organization gives particular
+attention to the growing importance of specialized state
+court forums.  Special forums are divisions, dockets,
+courtrooms or procedures dedicated to a designated set of
+cases and to which a specific judge has been assigned by a
+court's presiding or chief judge.  Such forums typically are
+created through local court rules or custom, and carry the
+label of "court" as a matter of convenience.  Information is
+included on two such forums: drug courts and
+family courts.  Special provisions for processing
+domestic violence cases are also described. 
+Finally, three topics included in the 1993 edition have been
+omitted from the new edition:  state/federal judicial
+councils, the characteristics of "RICO" statutes, and the
+making of the trial court record.  The latter topic will be
+covered in future editions of the State Court Organization
+series. 
+
+A truly comprehensive volume on the nation's courts would
+include the military criminal justice system because U.S.
+military personnel worldwide are subject to the Uniform Code
+of Military Justice.  Appellate courts have narrowed the
+jurisdiction of military courts to "service-connected "
+offenses, but some potential for overlap with the state and
+federal courts remains.  Individual commands operate their
+own trial courts, convened as needed.  The Court of Military
+Appeals in Washington D.C. is the one standing court.  The
+U.S. Congress provided, in 1984, for appeals from the Court 
+
+of Military Appeals to the U.S. Supreme Court via a writ of
+certiorari (R.C.M. 1205).
+
+How should the volume be used?
+
+The 1998 edition of State Court Organization contains 397
+items of information (up from 344 items in 1993) 
+spread across 50 tables.  These tables are divided into seven
+parts according to broad topical areas:
+
+Part I: Courts and Judges 
+Part II:     Judicial Selection and Terms
+   Part III:   The Judicial Branch: Governance, Funding,
+   and Administration 
+   Part IV:    Appellate Courts: Jurisdiction, Staffing, and
+   Procedures 
+Part V:    Trial Court Administration and Procedures         
+  
+Part VI:     The Jury 
+Part VII:    The Sentencing Context
+
+An eighth part contains a one page court structure chart for
+each state, Puerto Rico, and the District of Columbia. The
+charts complement the information provided in the tables by
+depicting for each state the essential structure of its court
+system in terms of subject matter jurisdiction and routes of
+appellate review.
+
+Each part begins with a brief explanatory note. A
+bibliography of sources used in the data collection or that
+cover subject matter particularly relevant to the topic under
+consideration is offered  The introductions indicate why the
+information provided in a section is important to understand
+the nation's courts and how that information relates to the
+contents of other parts.  Another objective is to highlight
+some of the factors that affect compara- bility across
+states, and between the state and federal systems, for the
+specific subject area being considered.
+
+Two kinds of tables are presented.  One is formatted to
+describe what is defined at the state level, such as the
+juror source lists, definitions of a felony offense, the
+functions of administrative offices of the courts, and other
+aspects of court organization that apply to all appellate or
+trial courts within a state.
+
+The second kind of table reports on features that differ from
+court to court within a state, such as the number of judges,
+or procedures for selecting a presiding judge.  The "court"
+in trial court generally applies to a statewide court system-
+-for example, the Circuit Court of Virginia is divided into
+31 circuits each serving a specific geographical area.  Some
+trial courts, though, include an entire state within their
+geographic jurisdiction, as in the Tax Court of New Jersey. 
+Appellate courts are more typically statewide in their
+jurisdiction, but intermediate appellate courts are
+established on a regional basis in 
+
+Arizona, California, Florida, Illinois, Indiana, Louisiana,
+Missouri, New York, Ohio, Oklahoma, Tennessee, Texas,
+Washington, and Wisconsin.  In these states, intermediate
+appellate courts may establish rules and procedures that vary
+between regions (usually called a district or division).
+A few states have multiple intermediate appellate courts
+(Alabama, New York, Pennsylvania, and Tennessee) and two
+states--Oklahoma and Texas--have two courts of last resort.  
+
+Some tables contain extensive footnotes.  Footnotes  appear
+in tables that cover topics for which a simple answer was
+deemed unhelpful, and consideration of the footnote's content
+is necessary to make comparisons across states or to grasp
+fully the nature of the arrangements that pertain in
+individual states.
+
+A general cautionary statement is offered here.  This volume
+covers an unusually diverse set of topics.  There is no
+single state authority that maintains current and complete
+information on each topic.  Therefore several sources were
+contacted in each state and extensive searches were
+undertaken of court rules and state statutes.
+
+How was the volume compiled?
+
+The contents for this edition were selected and the
+relevant data collected through the following main steps.
+
+The first step was a project staff review of contents from
+previous State Court Organization editions.  In the course of
+that review in March of 1998 all members of the Conference of
+State Court Administrators were asked in a survey to express
+their opinions on the merits of the usefulness of all
+individual information items published in State Court
+Organization 1993 and to nominate additional topics that
+could usefully be included in the new edition.  Some
+information items were judged to be essential for the
+continuity of the series, new information was identified to
+keep pace with the changing shape and interests of the court
+community, and still other information items were found to be
+of limited contemporary interest.  These decisions were made
+in consultation with other National Center for State Court
+staff members, organizations such as the Federal Judicial
+Center, and relevant academic and research experts in court-
+related topics.  Staff from the Bureau of Justice Statistics
+also participated in the review process.
+
+A tentative list of information contents was compiled by
+project staff and then reviewed in detail by the members of
+the Conference of State Court Administrator's Court
+Statistics Committee.  At a subsequent meeting, the Committee
+members reviewed the data collection design and drafts of
+data collection instruments.  
+
+The chosen information items were divided according to the
+most reliable and cost-effective data collection method. 
+Those methods were:
+
+1.  A survey of administrative offices of the court was
+designed for distribution by mail to the state court
+administrators of the 50 states, the District of Columbia,
+Puerto Rico, and the U.S. Administrative Office of the
+Courts.  The questionnaire, which was mailed on December 4,
+1998, dealt with aspects of court organization that are
+primarily administrative in nature and either new to the 1998
+edition or likely to have changed significantly since 1993.
+The questionnaire used a different format than the one
+developed for the 1993 version with help from Bureau of
+Justice Statistics staff.  Various versions of the new survey
+were pilot-tested through the cooperation of states
+represented on the Court Statistics Committee. All the
+surveys were completed and returned. 
+
+2.  A similar survey relating to information concerning
+appellate courts was designed to collect new or changeable
+descriptive information on courts of last resort and
+intermediate appellate courts.  Approximately 150 surveys
+were mailed on January 14, 1999 and were completed and
+returned.
+
+3.  A third survey form was developed to update information
+items carried over from the last edition and judged unlikely
+to have changed significantly over the previous five years. 
+Respondents were presented with the question at issue, the
+response given in the 1993 edition, and with a request to
+update the information to the situation as of July 1, 1998. 
+Separate update surveys were prepared for administrative
+offices of the courts and appellate court clerks.  
+
+4.  Protocols were developed to conduct statute and rule
+searches that would compile tables of information on specific
+laws, legal procedure and legal practices that applied
+statewide.  Searches were the primary source of data about
+juries and sentencing.
+
+Figure 1 indicates the primary data collection methods for
+each table of information.
+
+Upon return, surveys were reviewed for completeness and
+clarity by project staff.  Telephone calls and Fax messages
+were used to ensure that accurate and comparable information
+was available from all survey respondents.  Once screened,
+survey contents were entered into an SPSS database. 
+Information collected through update surveys and through
+statute and rule searches were entered in table form as
+Microsoft Word documents.  
+
+The main step in the verification process was to return all
+tables completed through surveys, or update forms, back to
+the original respondent in June of 1999.  This provided a
+second check on the information, often by a second person,
+and also served as a check on the accuracy of any revisions
+made by project staff to maximize comparability across states
+and courts.  All tables compiled through statute or rule
+searches also were sent to the state court administrator and, as
+appropriate, to the appellate court clerk with a request that
+the contents be examined and modified or corrected as
+necessary.   Verification often involved a series of
+iterations passed back and forth between project staff and
+the administrative office of the courts or appellate court
+clerk.  Also, tables of information on various topics were
+sent for review to relevant national experts.
+
+It should be noted that even after such an extensive data
+collection and data verification process, room for ambiguity
+remains.  This is inevitable in any best faith effort to
+collect comparable information on multiple topics for which
+no individual or office can claim to be a definitive
+authority.  Some leading authorities on specific topics were
+consulted, notably Tom Munsterman on juries and Roger Hanson
+and Teb Marvel on appellate courts, as an additional check on
+the accuracy and comparability of information.
+
+The result is a reference source that roams widely through
+the world of trial and appellate courts and of state court
+administration.  There are some obvious limitations. 
+Provisions and procedures that relate to criminal cases
+receive more attention than those concerning civil dockets. 
+The focus, moreover, is on statewide (or national for the
+federal courts) court organization.  Within states and within
+the federal court system there is significant variation by
+locality that is beyond the scope of this volume to describe.
+Finally, State Court Organization is a companion series to
+the series of annual State Court Caseload Statistics reports,
+prepared by the Court Statistics Project of the National
+Center for State Courts.
+
+
+Part 1: Courts and judges
+
+Coming to grips with the number and variety of courts is the
+essential starting point for anyone interested in court
+organization.  The fundamental distinction is between trial
+courts, which are courts of first instance that decide a
+dispute by examining the facts, and appellate courts, which
+review the trial court's application of law to those facts.
+
+How many appellate courts have been established in the United
+States?  Table 1 provides the answer.  There are two basic
+kinds of appellate courts.  Courts of last resort (COLR) have
+final jurisdiction over appeals.  Each state has a COLR. 
+Oklahoma and Texas split final appellate review between
+separate civil and criminal COLRs.  Intermediate appellate
+courts (IAC) hear initial appeals, the outcome of which is
+subject to further review by the state's COLR.  Courts of
+last resort typically were established in the state's
+constitution and sit in one location, the state capital. 
+Intermediate appellate courts, a more contemporary
+institution, have multiple locations in 21 states.  In 10
+states, each location serves a region within the state and
+has its own chief judge and a permanently assigned complement
+of judges. Other state appellate courts travel en banc to
+various locations, while still other courts travel in smaller
+panels. How many judges are authorized to serve and were
+actually serving, as of July 1, 1998, on each court?  The
+number of appellate judgeships, authorized and serving, for
+the state and federal courts is shown in Table 2.  The
+combined full-time federal and state appellate bench has
+1,474 members.  Most appellate judges serve on intermediate
+appellate courts (1,108).
+
+The allocation of judgeships to appellate courts illustrates
+the divergence between the federal and state courts, as well
+as state court diversity.  All COLRs are established with an
+odd number of justices, in contrast to the structure of the
+jury as a decision-making institution, which usually entails
+an even number of jurors.  This follows the federal model. 
+However, state COLRs have fewer justices than the U.S.
+Supreme Court.  The most common arrangement is a seven judge
+COLR, found in 27 states and Puerto Rico.  Five justices
+serve on COLRs in 18 state courts, including the Oklahoma
+Court of Criminal Appeals.  Seven courts, including both
+Texas COLRs and the Oklahoma Supreme Court (Civil COLR),
+follow the federal nine-justice model (as does the District
+of Columbia).  
+
+Intermediate appellate courts often undertake review through
+panels of three or more judges rather than by the full court
+sitting en banc.  California has the largest state IAC, with
+93 authorized judgeships. This court is divided into nine
+divisions.  There are 179 authorized judgeships for the 13
+circuits of the U.S. Circuit Courts of Appeal.  Three judge
+IACs are found in Alabama (Court of Civil Appeals), Alaska,
+Hawaii, and Idaho.
+
+Trial courts are listed state by state in Table 3,
+distinguishing between courts of general jurisdiction (GJ)
+and courts of limited (or special) jurisdiction (LJ). 
+General jurisdiction trial courts are always the highest
+trial court in a state where felony criminal cases and high
+stakes civil suits are adjudicated.  They often exercise some
+form of appellate review over outcomes in limited
+jurisdiction courts or decisions by administrative agencies,
+exercising what is termed incidental appellate jurisdiction .
+
+A limited jurisdiction trial court, one or more of which is
+to be found in all but five states and the District of
+Columbia, typically holds preliminary hearings in felony
+cases and typically has jurisdiction over misdemeanor and
+ordinance violation cases (Table 45 details the jurisdiction
+over felony cases by courts of limited jurisdiction).  Civil
+jurisdiction is restricted to a fixed maximum amount, and
+typically includes a separate category of small claims cases
+for which simplified procedures are established.  Juvenile,
+domestic relations, and drug cases are typically heard in a
+court of general jurisdiction, however, there is a trend to
+create special courts reserved for special dockets for these
+case types.  See Table 33 and 34 detailing the use of family
+and drug courts.
+
+Table 3 also indicates the number of judges authorized for
+and serving on each trial court statewide.  Some courts use
+part-time or senior judges to help with caseloads, the
+resulting judicial power is therefore expressed as full-time
+equivalent positions.  Courts typically also make use of
+quasi-judicial staff to hear cases as referees,
+commissioners, or hearing officers.  Quasi-judicial officers
+are usually appointed by the trial bench for a fixed period
+of time and can be dismissed by that bench.  General
+jurisdiction trial courts are usually divided into circuits
+or districts.  In some states (e.g., California) the county
+serves as the judicial district.  Most states, however,
+construct judicial districts that embrace a number of
+counties.  Limited jurisdiction trial courts vary in whether
+they possess jurisdiction across a county or serve a specific
+local government unit, such as a city or village. 
+Jurisdiction beyond a specific county is rare; 
+exceptions are for those courts with special jurisdiction 
+that applies statewide (water courts and workers'
+compensation courts are examples).
+
+The information contained in this section is basic because
+there is no generic court system in the United States.  Even
+the nomenclature varies.  Supreme Courts 
+are usually courts of last resort, but in New York the
+designation "supreme" is assigned to the main trial court, 
+while The Court of Appeals is the state's court of last
+resort.  Justices and a Chief Justice usually serve on courts
+of last resort, but a number of COLRs have judges and a chief
+judge.  Judge is the standard title for those serving on
+intermediate appellate courts.  
+
+The closest to a generic form of court structure in the
+United States is a court system with two appellate courts,
+one a court of last resort and one an intermediate appellate
+court, and two or more trial courts.  But many states, and
+the federal courts, do not neatly fit that pattern, and even
+those states that do add diversity in how the allocation of
+subject matter jurisdiction to courts is made, how appellate
+review is designated as being on a mandatory (appeal of
+right) or discretionary (through a petition) basis, and in
+the use made of quasi-judicial officers.
+
+Select Bibliography: 
+
+Carl Baar, One Trial Court: Possibilities and Limitations,
+Ottawa: Canadian Judicial Council, 1991.
+
+Howard Ball, "The Federal Court System," Encyclopedia of the
+American Judicial System, Vol. II, R. Janosik (Ed.).  New
+York:  Charles Scribner's, 1987.
+
+Marie T. Finn (Ed.) The American Bench: Judges of the Nation,
+Ninth Edition 1997/98, Sacramento: Forster-Long, 1993
+[includes maps of federal and state judicial boundaries].
+
+Henry Glick, "State Court Systems," Encyclopedia of the
+American Judicial System, Vol. II, R. Janosik (Ed.).  New
+York:  Charles Scribner's, 1987.
+
+Erick B. Low, "Accessing the Judicial System: The State's
+Response," The Book of the States, 1994-95 Edition, Vol.
+30.  Lexington, KY:  The Council of State Governments.  
+
+
+Part II: Judicial selection and service
+
+
+How judges are selected and their terms of service on the
+bench differ sharply between the federal and state
+courts, and the differences among states are often
+nearly as significant.  All federal judges are nominated
+by the President and serve "during good behavior" once
+confirmed by the U.S. Senate unless they resign or are
+impeached and convicted by the U.S. Congress.  State
+court judges are likely to face an election as a part of
+their selection process and to serve fixed terms, which
+for COLR justices range between six and 14 years (15
+years in the District of Columbia). 
+
+Only Rhode Island offers appellate judges lifetime
+appointments, while the judges of the New Hampshire and
+Massachusetts Supreme Courts serve
+until age 70.
+
+Judicial selection occurs for three purposes in the state
+courts: to fill an unexpired term upon the retirement,
+resignation, or death of an incumbent
+judge; to select for a full term (often referred to as
+the initial selection); and at the end of a term.  Table
+4 describes the various ways in which
+appellate justices and judges are selected, while Table 7
+describes procedures for selecting trial court judges. 
+The resulting national picture can be
+summarized by reference to the nature of the selection
+process for general jurisdiction judges shown
+below.***Footnote 1: American Bar Association,
+Report and Recommendations of the Task Force on Lawyers'
+Political Contributions: Part Two. Washington, DC: ABA,
+1998.***
+
+Initial Term
+Appointment: 648 (52.1%)
+Partisan Election: 421 (33.9%)
+Non-partisan Election: 174 (14.0%)
+
+Subsequent Terms
+Appointment: 199 (16.4%)
+Partisan Election: 326 (26.7%)
+Non-partisan Election: 174 (14.3%)
+Retention Elections Only: 518 (42.6%)
+
+One marker for examining the diverse selection methods
+adopted by the states is the "Missouri Plan."  In 1940
+the State of Missouri amended its constitution to
+establish a statewide nominating committee for appellate
+judgeships and circuit-level commissions for general
+jurisdiction trial court judgeships. A judge, representatives
+of the state bar association, and nonlawyers appointed by
+the governor make up the commissions.  The governor must
+appoint one of a commission's three nominees to fill a
+vacancy.  The new appointee then faces a retention
+election in one year's time, running against his
+or her own record, and then further retention elections
+at 12-year intervals.  Thirty-nine states use some form
+of judicial nominating commission in judicial
+selection, which became popular in the 1970s  although
+only 16 combine such a commission with retention
+elections on the Missouri model.
+
+All appellate courts and most trial courts have a chief
+judge.  Table 4 explains how chief justices and chief
+judges of COLRs and IACs are selected in each
+state.  The length of their term in office and whether
+they can succeed themselves can be found in Table 5.  How
+trial court chief judges (sometimes styled
+presiding judges) are selected is also detailed in Table 5.
+The judges in a district or circuit typically select
+one of their peers to serve as the chief judge for a
+fixed number of years, but the appointment may be made at
+the state level by the governor, Chief Justice of the
+COLR, or the COLR collectively.  In some
+instances a specific individual is elected or appointed
+as the chief judge and holds that title throughout his or
+her tenure.  In other trial courts, seniority
+establishes who is the chief judge.
+
+Qualifications for service as a judge are stated in the
+constitutions and statutes of the various states.  Tables
+6 and 8 indicate the qualifications in terms of
+residency, age, and legal credentials that are mandated
+for appellate and trial court judgeships, respectively. 
+In addition to specifying the legal credentials,
+if any, necessary to qualify for judicial selection, many
+states require judges to participate in some form of
+legal education beyond the Continuing Legal
+Education expected of all members of the state bar. 
+Mandatory judicial education is accomplished through a
+wide range of judicial branch and private
+entities and is paid for by a variety of funding sources.
+
+Eighteen states, the District of Columbia, Puerto Rico,
+and the Navajo Nation make formal provisions for an
+ongoing evaluation of judicial performance. 
+States with retention elections for judges are the most
+likely to evaluate performance, but states with
+nonpartisan elections do so as well (Michigan,
+Minnesota, and Tennessee), as do many with a system of
+judicial appointments (Connecticut, Delaware,
+Massachusetts, New Hampshire, Rhode Island,
+South Carolina, and Vermont).  Table 11 indicates for
+these and other states with performance evaluation
+structures the implementing authority, the body
+responsible for operating the program, the evaluation
+procedures, the evaluating committee duties, and
+evaluation committee membership.
+
+Formal judicial discipline is accomplished through
+regional judicial councils in the federal system (under
+The Judicial Councils Reform and Judicial Conduct
+and Disability Act of 1980).  The Councils investigate
+complaints of any "conduct prejudicial to the effective
+and expeditious administration of the business
+of the courts."  However, the Councils' disciplinary
+powers stop short of removal from office.  Removal is the
+sole prerogative of the U.S. Congress.  A Council can certify
+a finding that impeachment is warranted to the U.S. House
+of Representatives.
+
+Judicial conduct organizations are the main arbiters of
+what constitutes judicial misconduct and disability in
+the states.  Conduct organizations investigate
+complaints against members of the judiciary, and
+typically include a mix of judges, lawyers, and ordinary
+citizens.  The adjudicatory function is usually
+exercised by the COLR, although sometimes the original
+conduct organization both investigates and adjudicates
+complaints.  In such instances there is a
+right of appeal to the state's COLR.  The name and
+composition of the states' conduct organizations are
+shown in Table 12.  The table also indicates which
+court or other entity adjudicates complaints, hears
+appeals, has final disciplinary authority, and at what
+point reprimands are made public.
+
+Select Bibliography:
+
+American Bar Association, Report and Recommendations of
+the Task Force on Lawyers' Political Contributions: Part
+Two.  Washington, DC: ABA, 1998.
+
+Philip J. Dubois, From Ballot to Bench: Judicial
+Elections and the Quest for Accountability.  Austin, TX:
+University of Texas Press, 1980.
+
+Doris Marie Provine, Judging Credentials: Nonlawyer
+Judges and the Politics of Professionalism, Chicago:
+University of Chicago Press, 1986.
+
+Judith Rosenbaum, Practices and Procedures of State
+Judicial Conduct Organizations, Chicago: American
+Judicature Society, 1990.
+
+Lyle Warrick, Judicial Selection in the United States: A
+Compendium of Provisions, Second Edition, Chicago:
+American Judicature Society, 1993.
+
+Mary Volcansek, Judicial Impeachment: None Called for
+Justice,  Urbana: University of Illinois Press, 1993
+[offers a general historical account, but focuses
+on federal impeachment proceedings during the 1980s and
+its relationship to judicial discipline in the federal
+court system].
+
+Table 11: 
+Susan Keilitz and Judith White McBride, "Revised Chart
+for 'Judicial Performance Evaluation Comes of Age,' "
+State Court Journal Vol. 16, No. 3, Summer,
+1992.  [Supporting text can be found in the State Court
+Journal, Vol. 16, No. 1, Winter, 1992.
+
+
+Part III: The judicial branch: governance, funding, and
+administration
+
+Each state, like the federal government, has an independent
+judicial branch.  Generally, either the Court of Last Resort (13
+states) or the Chief Justice of the Court of Last Resort (36
+states) is the designated head of the judicial branch.  In one
+state, Utah, the Judicial Council is the designated head.
+
+The formulation of rules for court procedure is basic to the
+governance of the judicial branch.  Table 14 indicates whether
+the COLR has rule-making authority for some key procedural
+areas, and also whether that authority stems from the state
+constitution, statute law, or is an inherent power of the courts
+as an independent branch of government.  Where statute law is
+the source of authority, the state legislature has delegated
+rule-making authority to the COLR.  The table also indicates
+where rule-making is the preserve of the legislative branch. 
+The specific areas covered in Table 14 are appellate procedure,
+civil procedure, criminal procedure, attorney discipline, court
+costs, judicial discipline, appellate administrative rules, and
+trial court administrative rules.
+
+The federal judicial branch and many state judicial branches
+incorporate councils or conferences in either a policy-making or
+advisory capacity.  Table 15 lists the relevant bodies by name
+and cites their purpose, composition, frequency of meeting, and
+tenure of membership.  Notable characteristics include the
+presence of non-judges as members and the source of the
+authority for the council or conference's role. Most councils or
+conferences were established by statute, but several are
+explicitly established in the state constitution, and still
+others by a COLR rule.
+
+Twenty states have a compensation commission that examines and
+reports on the salaries of judges.  Fourteen of these
+commissions have broader mandates, also examining and reporting
+on non-judicial public officials.  Six states have created
+commissions specifically for judicial compensation review. 
+Table 16 identifies each commission's authorization, year
+established, scope of authority, membership, meeting schedule,
+reporting structure, and the effect of its recommendations. 
+
+Preparation of the judicial branch budget is explained in Table
+17.  In most states the Administrative Office of the Courts
+prepares the judicial branch budget (33 states, D.C., and Puerto
+Rico), generally followed by a review of budget submissions by
+the state's COLR.  The situation in many states is complex, and
+this is reflected in the number of footnotes appended to the
+table.  Table 17 focuses on the role of the executive branch in
+submitting and possibly amending the judicial branch budget.  It
+is rare for the judicial branch budget to be filed as a separate
+appropriation bill (14 states).  In most states it is either
+included in a general appropriation bill or included in one of
+several bills. Finally, the table provides an estimate of the
+percentage of the total state budget accounted for by the
+judicial branch in each state.
+
+The coverage of state funding varies substantially among states,
+especially in reference to trial court expenditures.  Table 18
+lists 17 expenditure areas for each trial court system in a
+state and explains whether the source of funding is state,
+county, other local government, or fees.  Each court system is
+identified as being either a court of general jurisdiction or a
+court of limited jurisdiction.  Some types of expenditures are
+funded through several sources.  Where state funding is
+applicable, the table shows the percentage that is provided from
+that source.  The last column of the table indicates the total
+amount of state funding provided for each trial court and the
+percentage of total expenditure that is provided by the state. 
+In using this table it should be noted that it refers only to
+the funding of trial courts, and is therefore not directly
+comparable to the information in Table 17, which describes the
+entire judicial branch budget.  Table 18 does highlight some
+important differences in the scope of state judicial branches,
+specifically whether they encompass functions such as child
+support enforcement, juvenile probation and detention, or
+indigent defense.  Such differences in scope, along with
+differences in which expenditures are state funded and which are
+locally funded or fee supported, explain to a substantial
+extent, differences in the magnitude of the judicial branch
+budget.
+
+Every state has a central office that has day to day
+administrative responsibilities for the state courts.  The head
+of that office, the state court administrator, is usually an
+appointee of the state judiciary, with the chief justice or the
+COLR exercising the appointment authority.  The administrative
+office's role in the budget process was described in Table 17. 
+A more comprehensive description of what administrative offices
+do is provided in Tables 19 and 20, which indicate the nature of
+the responsibility of the administrative office for 21
+functional areas relating to a state's appellate courts and 22
+functional areas relating to a state's trial courts.  Where the
+administrative office has total or partial responsibility for a
+functional area, the number of full-time equivalent staff
+assigned to that function is given.  The last column of the
+table reports the number of authorized and funded staff in the
+administrative office, expressed as full-time equivalent
+positions.  The size of the administrative office staff reflects
+both the degree to which there is centralized coordination of
+key functions and the allocation of some substantial responsibilities,
+such as juvenile probation, to the administrative office of the courts. 
+
+More courts are taking advantage of technology to automate their
+information systems.  Most states have a uniform case management
+system at the appellate level. Table 21 indicates which courts
+within each state have a uniform case management system and who
+is responsible for that system.  The table also identifies who
+created the software, who maintains the software, and what type
+of platform the application runs on.
+
+Select Bibliography:
+
+American Bar Association (Judicial Administration Division),
+Standards Relating to Court Organization: 1990 Edition,
+Chicago: The ABA Press, 1990.  
+
+Larry Berkson and Susan Carbon, Court Unification: History,
+Politics and Implementation, Washington D.C.: National
+Institute of Law Enforcement and Criminal Justice, 1978.
+
+Thomas Henderson, et al., The Significance of Judicial
+Structure: The Effect of Unification on Trial Court
+Operations, Washington D.C.: National Institute of Justice,
+1984.
+
+Victor E. Flango and Brian J. Ostrom, Assessing the Need for
+Judges and Court Support Staff, Williamsburg, VA: National
+Center for State Courts, 1996.
+
+Robert G. Nieland, Rachel N. Doan (revised by Mayo H. Stiegler),
+State Court Administrative Offices: Second Edition, Chicago:
+American Judicature Society, 1982.
+
+Felix F. Stumpf, Inherent Powers of the Courts, Reno, NV:
+National Judicial College, 1994.
+
+Table 14:
+Donald Pugh, Chris A. Korbakes, James J. Alfini, Charles W.
+Grau, Judicial Rulemaking: A Compendium,  Chicago:  American
+Judicature Society, 1984.
+Table 20:
+Lin Walker, "Survey on State Court Automation in 1998," NCSC
+Working Report, 1998.
+
+
+Part IV: Appellate courts: Jurisdiction, staffing, and
+procedures
+
+
+Appellate courts do not decide questions of guilt and innocence
+in criminal cases or liability in civil cases; nor do they
+ensure that each trial court proceeding was perfect.  Appellate
+courts instead review selected issues concerning the conduct and
+results of a trial and decide if errors were committed. 
+However, in the course of focusing on specific issues, appellate
+courts may create broad public policies. 
+
+Table 1 lists the names of all appellate courts established in a
+state, gives the number of locations at which those appellate
+courts hold sessions, and indicates whether each court has
+separate administrative rules and a chief justice or chief
+judge.  Appellate court systems vary greatly in structure,
+jurisdiction, and method of judicial selection.  Tables in this
+section describe 53 appellate systems, each with its own court
+of last resort: the fifty states, the District of Columbia, the
+Commonwealth of Puerto Rico and the federal system.  The courts
+of last resort in these systems range in size from five to nine
+judges.  A majority of state courts of last resort (COLRs) have
+seven members, including those in the most populous states
+(e.g., California, New York).  The U. S. Supreme Court and a few
+state supreme courts have nine Justices (e.g., Iowa,
+Mississippi, Washington). Texas and Oklahoma depart from the
+national pattern by establishing two courts of last resort: one
+for civil cases and one for criminal cases.  
+
+A common state response to increasing appeals is to create an
+intermediate court of appeals (IAC).  In 11 states, the
+intermediate appellate court is similar in size to the court of
+last resort.  In 29 states, the intermediate appellate courts
+have more than nine members and as many as 93 (California)
+authorized Judges who serve on panels within geographically
+based districts.  In Alabama, New York, Pennsylvania, and
+Tennessee there is more than one IAC.
+
+While it is accepted that all losing litigants have the
+opportunity as a matter of right to a review in an appellate
+court, it is also believed that one review is sufficient to
+protect a litigant's interest in an error-free trial proceeding. 
+The division of responsibility between COLR and IAC rests on the
+premise that all appellate work can be sorted into the two
+categories of error correcting and lawmaking. In performing its
+lawmaking responsibility, a court of last resort chooses the
+cases it will consider and decide from among the petitions filed
+with it. Cases that are further appealed to the court of last
+resort are likely to be more complex, and to have broader policy
+implications beyond the interests of the parties.  Error
+correcting is assigned to IACs, which receive appeals directly
+from trial courts and typically have no discretion to decline to
+decide a case.  Table 23 indicates, for each appellate court
+with discretionary jurisdiction, who makes the decision to grant
+a petition -- the court en banc, a panel, a commissioner, or a single
+justice.  The number of justices needed to make a decision on
+the size of the reviewing panel and its structure is also
+described in that table.
+
+In most states, appeals of trial court and administrative agency
+decisions reach IACs as a matter of right (that is, the court
+has broad mandatory jurisdiction over such appeals.  Litigants
+may appeal their case further to the court of last resort,
+although courts of last resort in states with an IAC, have
+discretionary jurisdiction to reject the litigant's petition
+without further review. Each state's substantive law also has an
+impact on the route appeals take.  For example, appeals in
+death-penalty cases are taken directly from the trial courts to
+courts of last resort, except in those states (Alabama, Ohio,
+Tennessee) where death penalty appeals go directly to the
+intermediate appellate court.  Table 22 describes the allocation
+of mandatory and discretionary jurisdiction for eight types of
+appeals.  Table 29 indicates which courts review administrative
+agency decisions in each state.  Trial courts exercising what is
+termed their incidental appellate jurisdiction sometimes
+undertake agency review.
+
+The manner in which appellate courts do their work continues to
+evolve. Several tables in this section describe how appellate
+courts have streamlined the appellate process.  Table 26 on
+expedited procedures consider five ways to speed the appeal
+process: Preargument settlement conferences, advanced queues,
+expedited briefs, substitution of oral argument for full written
+briefs, and submission on briefs alone.  Table 27 lists the
+states that have adopted special calendars and the case types to
+which they apply.  Restriction on oral argument for routine
+cases is another way appellate courts use their resources more
+efficiently.  Table 28 indicates whether oral argument is
+restricted, whether it is restricted for civil or criminal
+appeals, and who decides on the appeals to which the restriction
+applies.  
+
+Finally, there are several tables that report on appellate court
+staff.  Table 24 provides details on the designated clerk of
+court, the number of clerks, their selection method, their terms
+of office and specified qualifications.  (Only the supreme
+courts of Indiana, Montana, and the 12 regional IACs in Ohio
+hold popular elections when selecting clerks).
+
+The respective responsibility of the clerk's office and the
+administrative office of the courts for 21 functional areas is
+stated in table 19. This table is new to State Court
+Organization, 1998 and shows the extent of responsibility for
+each function and the number of full time equivalent staff used
+for each function.
+
+Law clerks provide direct support to appellate justices and
+judges, or to the court in general, through a central legal
+staff.  Recent studies have established the importance of appellate court
+staff in accounting for variation in court processing time in
+intermediate appellate courts.***Footnote 1: Roger A. Hanson, Time on
+Appeal, Williamsburg, VA.: National Center for State Courts,
+1996.***  The number of law clerks for each justice and
+the number of central law staff are found on Table 25.  
+
+Appellate practice is a complex area, and the information
+presented here is offered as a basic guide that provides the
+framework to undertake more detailed examination of procedural
+innovations in the appellate courts.  The bibliography that
+follows lists sources where detailed information on appellate
+procedures can be found.
+               
+
+Select Bibliography
+
+Joy Chapper and Roger Hanson, Intermediate Appellate Courts:
+Improving Case Processing, Williamsburg, VA: National Center
+for State Courts, 1990.
+
+Carol R. Flango and David B. Rottman, Appellate Court
+Procedures, Williamsburg, VA: National Center for State
+Courts, 1998.
+
+Victor E. Flango and Carol R. Flango, A Taxonomy of Appellate
+Court Organization, Williamsburg, VA: National Center for
+State Courts, July 1997.
+
+Roger A. Hanson, Appellate Court Performance Standards,
+Williamsburg, VA: National Center for State Courts, 1995.
+
+Roger A. Hanson, Time on Appeal, Williamsburg, VA: National
+Center for State Courts, 1996.
+
+Robert A. Leflar, Internal Operating Procedures of Appellate
+Courts, Chicago, 1976.
+
+Daniel J. Meador, Maurice Rosenberg, and Paul D. Carrington,
+Appellate Courts: Structures, Functions, Processes, and
+Personnel, Charlottesville, VA: The Michie Company, 1994.
+
+Robert L. Stern, Appellate Practice in the United States: Second
+Edition, Washington, D.C.  The Bureau of National Affairs,
+1989. 
+
+
+Part V: Trial court administration, procedures, and
+specialized jurisdiction
+
+One defining feature of state trial court systems is the
+distribution of subject matter jurisdiction among courts.  The
+pattern followed in a state and the differences among states are
+most readily considered through use of the court structure
+charts found in Part VIII.
+
+Trial court administration generally involves judges, clerks of
+court, and trial court administrators with managerial
+responsibility.  Although clerks of court and trial court
+administrators handle most administrative tasks, trial courts
+typically designate one judge or a group of judges to make
+administrative decisions.  Typically he/she is called the
+presiding, chief, administrative, or president judge. Table 30
+outlines the various responsibilities that each court assigns to
+these judges.
+
+The information on the selection and responsibilities of clerks of
+court can be found in Table 31 and for trial court administrators
+in Table 32.  In some trial court systems, the same official is
+both administrator and clerk.
+
+A clerk of court typically has responsibility for docketing
+cases, collecting court fees, overseeing jury selection, and
+maintaining all court records.  In whole or in part, these vital
+administrative tasks are the responsibility of an elected,
+autonomous official in most states.  Partisan elections are used
+to select clerks of general jurisdiction courts in 27 states and
+non-partisan elections in a further four states.  Clerks of
+court are appointed in 19 states, Puerto Rico, and the District
+of Columbia, usually by the chief judge or the bench.  The
+method of selection varies within the state of Washington and
+between the several general jurisdiction courts in another four
+states (Delaware, Michigan, Montana, and Tennessee).  Table 31
+also reports the number of clerks serving each court system in a
+state, the length of their terms of office, and whether their
+salary is paid from state or local funds.
+
+Clerks of court are venerable offices in most state court
+systems.  Trial court administrators are more recent
+participants in the management of court operations.  Table 32
+lists the number of authorized and serving trial court
+administrators, differentiating between regional and local
+officials.  The administrator of the general jurisdiction court
+sometimes also serves in that capacity for the courts of limited
+jurisdiction in a particular district or region.  The source of
+court administrators' salaries is also identified.
+
+The last decade has seen the rapid growth of specialized court
+forums in the states. The first drug court was created in Dade
+County, Florida in 1989; all but ten states followed that
+example within the next decade.  Table 33 provides the number of
+drug courts in each state, when the state implemented its first
+drug court, and the number of courts classified as family and
+juvenile drug courts. The label drug court refers to a special
+docket or calendar in a court to which a judge has been
+assigned.
+
+Family courts have been in existence for far longer than drug
+courts and sometimes have the formal status of a "court" (a
+judicial body to which judges are specifically appointed and are
+considered for subsequent terms), but the last decade has seen a
+marked increase in the their use.  The use of Family Courts is
+outlined on Table 34.  The table shows the number of counties,
+districts, or circuits served by a family court in a state. 
+Also, the family court's subject-matter jurisdiction is defined
+and the year the court was founded is noted.
+
+Native American tribal courts bear a significant proportion of
+adjudicatory responsibilities in many states. Cross-state
+comparisons may not be accurate unless these courts are taken
+into consideration.  Also important is the relationship between
+the state judicial system and the Native American judicial
+system.  Federal Public Law 280 gave states discretionary
+authorization to assume jurisdiction over tribal lands.  Table
+36 identifies the number of federally recognized tribes and the
+number of tribal justice forums.  Then, the table provides the
+number of CFR courts by state and the jurisdictional issues
+relevant to the applicability of state law on reservations
+(Public Law 280).  Table 36 was compiled from the Federally
+recognized tribes listed in the March 13, 2000 Federal Register
+and the National American Indian Court Judges Association
+(NAICJA) database of all known tribal systems operating in the
+United States.
+
+All but four states have provisions for live or taped media
+coverage of court proceedings.  The provisions for media in
+trial and appellate courts are described on a state by state
+basis in Table 37.  Television cameras, still photographers,
+still cameras, and audio systems may be allowed in some courts
+and not others.  The table indicates who must consent to the
+media coverage before it will be allowed. Also, states give
+certain parties the right to object.  An objection may result
+in the cessation of coverage of that particular party or a
+total ban on coverage of the proceeding.  There are also
+different limits on coverage.  The table shows the courts'
+limits on the number of cameras and media personnel,
+on some types of proceedings, and on certain persons involved in
+the trial.  Almost all courts require that the media personnel
+allowed in the court must provide access to its video
+transmissions and its pictures to others requesting such access. 
+ The courts encourage "pooling" arrangements when multiple
+parties wish to cover a proceeding.
+
+Table 38 examines the policies each state uses for criminal
+defendants claiming the insanity defense.  First, the table
+identifies state's burden of proof when determining the
+defendant's capacity to stand trial.  The next section of the
+table identifies how the court decides insanity cases.  Ten
+states provide for a bifurcated trial where the elements of the
+crime are decided in one proceeding and the determination of
+insanity is decided in a separate proceeding.  Each state's test
+for insanity is then identified as a variation of one of the
+major tests defined in the notes after the table.  The table
+then indicates the burden of proof and who has it, what
+testimony is allowed, and whether the jury is informed of the
+consequences of an insanity verdict.  Then the table identifies
+what the insanity verdict is called in each state and the
+consequences of that verdict by identifying whether treatment is
+mandatory or discretionary and identifying who has post-
+conviction release authority.  
+
+Select Bibliography:
+
+American Bar Association, Unified Family Courts: A Progress
+Report, 1998.
+
+Charles A. Shanor and L. Lynn Hogue, Military Law, Second
+Edition, St. Paul, Minnesota: West Publishing Company, 1996. 
+
+David A. Schlueter, Military Criminal Justice: Practice and
+Procedure, Fourth Edition, Charlottesville, VA: Michie, 1996.
+
+Edward F. Sherman, "Military Law," Encyclopedia of the American
+Judicial System, Vol. I, R. Janosik (Ed.).  New York: Charles
+Scribner's, 1987.
+
+Federal Courts Study Committee, Report, Washington D.C: Judicial
+Conference of the United States, 1990.   
+
+H. Barry Holt and Gary Forrester, Digest of American Indian Law,
+Littleton, CO: Fred B. Rothman, 1990.
+
+H. Clifton Grandy and Ted Rubin, Tribal Court--State Court
+Forums, Williamsburg, Virginia: National Center for State
+Courts, 1993.
+
+Jesse C. Trentadue, "Tribal Court Jurisdiction over Collection
+Suits by Local Merchants and Lenders," American Indian Law
+Review, 13, No. 1, 1988.
+
+Mark J. A. Yannone, National Directory of Courts of Law,
+Arlington, VA: Information Resources Press, 1991.
+
+Myron Moskovitz, Criminal Law Defenses: 1998 Supplement, Volume
+1 & 2, St. Paul, Minn.: West Publishing, 1998.
+
+Paul H. Robinson, Criminal Law Defenses, Volume 1 and 2, St.
+Paul, Minnesota: West Publishing, 1984.
+
+Radio-Television News Directors Association, "Cameras in the
+Courts," The News Media and The Law, Spring, 1993.
+
+Steven W. Hays and Cole Blease Graham, Jr., Handbook of Court
+Administration and Management, New York: Marcel Dekker, 1993. 
+
+"Symposium on Judicial Administration Research," The Justice
+System Journal, Volume 12, Number 1, 1987.
+
+William C. Canby, Jr., American Indian Law in a Nutshell: Second
+Edition, St. Paul, MN: West Publishing, 1993.
+
+William E. Hewitt, Geoff Gallas, and Barry Mahoney, Courts That
+Succeed: Six Profiles of Successful Courts, Williamsburg, VA:
+National Center for State Courts, 1990.
+
+Table 33: 
+U.S. Department of Justice, Drug Court Activity Summary
+Information, May 1988
+http://www.ojp.usdoj.gov/dcpo/dcasumin.htm
+
+Table 34: 
+Contents derived from Barbara A. Babb, Fashioning an
+Interdisciplinary Framework for Court Reform in Family Law: A
+Blueprint to Construct a Unified Family Court, Southern
+California Law Review, Volume 71, Number 3, University of
+Southern California: March 1998.
+
+Table 35:
+Barbara J. Hart, Esq., State Codes on Domestic Violence:
+Analysis, Commentary and Recommendations, Reno, Nevada:
+National Council of Juvenile and Family Court Judges, 1992
+
+Richard A. Leiter, Editor, National Survey of State Laws: Second
+Edition, New York: Gale, 1997.
+
+Table 36:
+Bureau of Indian Affairs, Native American Tribal Court Profiles,
+Washington D.C., 1985.
+
+Carole Goldberg-Ambrose, Planting Tail Feathers: Tribal Survival
+and Public Law 280 (UCLA American Studies Center: 1997)(with
+Tim Seward).
+
+Department of the Interior, Bureau of Indian Affairs, Indian
+Entities Recognized as Eligible to Receive Services for the
+United States Bureau of Indian Affairs,
+http:www.doi.gov/bia/tribes/telist97.html, July 1998.
+
+National American Indian Court Judges Association, Tribal Court
+Database, May 28, 1998.
+
+National Indian Court Justices Association, Indian Court Judges
+Directory: Third Edition, Washington D.C., 1991.
+  
+
+Part VI: The jury
+
+Our legal system is founded on the jury system. 
+Traditionally this has been a twelve-person jury that must
+reach a unanimous verdict.  That is no longer the standard in
+the state courts.  This section of State Court Organization
+1998 uses four tables to describe the selection and verdict
+rules of the petite juries in the state and federal courts. 
+A fifth table describes the composition and function of the
+grand jury.
+
+States use various methods to procure lists for which they
+identify potential jurors.  Table 39 identifies the
+statutorily authorized sources that may be used by each state
+to create its master list.  These sources are generally not
+mandatory; only sources followed by an asterisk must be used. 
+States often do not use all of the authorized sources to
+generate their master lists.  The local jury commissioner
+usually determines the use made of the discretionary sources. 
+Qualifications for jury service in terms of age, time elapsed
+since prior jury service, convicted felon status, residency,
+and literacy are also specified in this table.  Finally,
+court policy toward jurors with disabilities is described.
+
+Many states exempt or excuse some potential jurors from jury
+duty.  Table 40 explains the factors that exempt a person
+from jury duty, as well as factors that represent a valid
+basis for excusal from jury service.  Exemptions are
+generally based on age or occupation.  Twenty-three states
+and the District of Columbia do not grant automatic
+occupational exemptions; several other states limit
+exemptions to those on active military duty.  Excusals from
+jury service are allowed for claims of undue hardship,
+extreme inconvenience, public necessity, or mental
+disability.  These claims typically have no specific
+definition; the application of these claims is typically up
+to the trial judge.  Table 40 also details the obligations
+that employers bear in each state toward maintaining the
+salaries of employees while on jury service.  Finally, the
+daily fee, if any, paid to serving jurors is also indicated. 
+
+The formal process of jury selection in each relevant court
+is described in Table 41.  First, the table indicates who
+conducts voir dire: the judge, the attorneys, or both the
+judge and the attorneys.  Typically, the provisions are the
+same for all courts within a state holding a jury trial, but
+there are a few states that conduct voir dire differently in
+general and in limited jurisdiction courts.  The remainder of
+the table indicates the number of peremptory challenges
+available to each party in different types of cases.  The
+number generally differs between civil and criminal cases,
+and for criminal cases, between capital felony, other felony,
+and misdemeanor cases.  In civil cases each side gets the
+same number of challenges while the number of peremptory
+challenges for each side in a criminal case may differ.  Most
+states also have statutes regarding the distribution of
+peremptory challenges for multiple party plaintiffs and
+defendants.  In some cases this varies the total number of
+peremptory challenges allowed and in others the total number
+stays the same, but are split among the parties.
+
+Since 1970, U.S. Supreme Court decisions have allowed states
+to move away from the traditional federal jury standard of 12
+members who must reach a unanimous verdict.  Specifically,
+six-member juries were found to be constitutional in Williams
+v. Florida, 399 U.S. 78 (1970) and non-unanimous verdicts in
+Apodaca v. Oregon, 406 U.S. 404 (1972).  The relaxation of
+traditional size and verdict requirements is most prevalent
+for misdemeanor criminal cases.  Table 42 lists jury size and
+verdict rules.  Seven states use eight or six-member juries
+for non-capital felonies, and two states (Louisiana and
+Oregon) do not require a unanimous verdict in such cases.
+Some states that continue to use a 12-member, unanimous
+verdict jury typically allow the parties to stipulate to a
+smaller, non-unanimous jury.  Twenty-one states, the District
+of Columbia, and the federal courts still require a unanimous
+verdict in all civil cases while twenty-nine states require a
+super majority.
+
+"No person shall be held to answer for a capital, or other
+infamous crime, unless on a presentment or indictment at a
+grand jury."  This clause from the Fifth Amendment to the
+U.S. Constitution applies to all felony prosecutions in the
+federal courts.  The information in Table 43 shows that while
+most states retain the option of a grand jury indictment, few
+require it to begin felony proceedings.  A trend toward a
+diminished role for the state grand jury in processing felony
+cases began early in the Twentieth Century.  Grand jury
+indictments were largely replaced by the practice of
+prosecutors filing a document called a criminal information,
+a practice ultimately upheld by the U.S. Supreme Court (In re
+McNaught, 1909; Palko v. Connecticut, 1937).  Table 43
+indicates whether a grand jury indictment is required for all
+felony prosecutions, the size of the grand jury, the number
+needed to indict, the statutory term of grand jury sittings,
+and the scope of the grand jury's purview.
+
+Select Bibliography:
+
+Jeffrey Abramson, We, The Jury: The Jury System and the Ideal
+of Democracy, New York:  Basic books, 1994.  
+
+Gebert L. Litan (Ed.), Verdict: Assessing the Civil Jury
+System, Washington D.C., 1993.  
+
+G. Thomas Munsterman, Paula L. Hannaford, and G. Marc
+Whitehead (eds.) Jury Trial Innovations, Williamsburg, VA:
+National Center for State Courts, 1997.
+
+G. Thomas Munsterman and Paula L. Hannaford, "Reshaping the
+Bedrock of Democracy: American Jury Reform During the Last
+Thirty Years," Judicature, Vol. 36, Number 4.
+
+"Symposium Issue on the Selection and Function of the Modern
+Jury," The American University Law Review, Vol. 40, Number
+2, Winter, 1991
+
+Table 43:
+Loren P. Beth, "The Fuller Court and Era," Encyclopedia of
+the American Judicial System, Vol. I, R. Janosik 
+
+Part VII: The sentencing context
+
+The seven tables in this section describe different facets of
+the sentencing process.  The tables provide definitions of
+basic sentencing terms in each state; powers and procedures
+of the courts in the sentencing process; the use of
+intermediate sanctions and sentencing guidelines; the
+consequences of a felon conviction, and provisions affecting
+sentence reductions.
+
+In Table 44, basic definitions are given for key terms used
+in the sentencing process.  First, felony and misdemeanor
+offenses are described in terms of minimum and maximum
+sentence lengths, and for felonies in terms of possible
+fines.  Next, the table defines the sentence enhancement
+provisions and mandatory minimums resulting from the use of
+deadly weapons in the course of a crime and from habitual
+offender statutes.  Finally, the table indicates what is the
+most severe sentence other than the death penalty in a state. 
+For those states with capital punishment, this specific
+sentence is often the default if the jury cannot agree on the
+appropriate sentence.  Many states have provisions for a
+sentence to "life without the possibility of parole."
+
+Courts of general jurisdiction have unlimited authority to
+hear and dispose of felony cases.  However, courts of limited
+jurisdiction in most states conduct preliminary hearings and
+bind over felony defendants for trial, and in the course of
+doing so may have the jurisdiction to accept a guilty plea to
+a misdemeanor and then impose sentence.  In some states, this
+extends to accepting a guilty plea to a felony charge and,
+rarely, to imposing sentence.  Table 45 describes how
+jurisdiction over felony cases is distributed within each
+state's court system.  Also described are the authority of a
+trial court judge to alter a sentence once it has been
+implemented and the authority of an appellate justice or
+court to alter a sentence.
+
+Sentencing responsibilities in felony cases are presented in
+Table 46.  The table addresses capital felony cases and non-
+capital felony cases separately because of the different
+responsibilities in each type of case.  For capital cases the
+table identifies who sets the sentence, whether the jury must
+be unanimous, whether there is an automatic default when the
+jury fails to agree, and whether the judge can alter the
+jury's sentence.  In non-capital cases, the table also
+identifies who sets the original sentence and whether the
+judge may alter the jury's sentence, and whether there is a
+separate sentencing hearing.  The jury sets the sentence for
+non-capital cases in only five states and gives a
+recommendation in just two other states.  Of those five
+states, only Texas does not allow the trial judge to change
+the juries sentence.  This contrasts with capital felony
+cases where the jury sets the original sentence in a majority
+of states. 
+
+Sentencing options in the form of intermediate sanctions,
+those less severe than imprisonment but more intrusive than
+ordinary probation, are described in Table 47.  Specific
+reference is made to intensive probation, work release, house
+arrest, electronic monitoring, and shock incarceration, the
+most widely used intermediate sanctions.  Other intermediate
+sanctions are also noted.  Short descriptions of the programs
+identified in the table are given in notes after the table.
+
+Table 48 offers a look at states which have sentencing
+commissions or sentencing guidelines (states with neither
+sentencing commissions nor sentencing guidelines have been
+omitted from the table).  Sentencing commissions are
+described by noting when each was established, the nature of
+its authorization, its membership composition, its
+responsibilities, and whether its jurisdiction is to advise
+or review sentences.   The table also indicates what year the
+state implemented sentencing guidelines and whether the
+guidelines are voluntary or mandatory.  
+
+Conviction for a felony offense can bring certain "civil
+disabilities" in the form of collateral consequences.  These
+typically extend beyond the point at which a person leaves
+prison or is released from probation or parole supervision. 
+However, states differ in whether collateral consequences
+apply to all convicted felons or only to those incarcerated.
+Table 49 considers the impact that a felony conviction has on
+voting rights, parental rights, eligibility for public
+employment, jury service, and firearm ownership.  Whether
+there is a registration requirement for convicted felons is
+also indicated.  Information is also provided on the duration
+of the disability.
+
+Truth-in-sentencing laws, which specify a proportion of a
+sentence length that an offender must serve, are reshaping
+sentence-reducing mechanisms in state courts.  Table 50
+describes some important aspects of "back end discretion,"
+which refers to the reduction of actual prison time served
+through parole board discretion and by accumulation of  "good
+time." The availability of "good time" and the rate at which
+it accrues are detailed, as is the existence of a parole
+board with discretionary release authority.
+
+Select Bibliography:
+
+Neal Kauder, Brian Ostrom, Meredith Peterson, and David
+Rottman, Sentencing Commission Profiles: State
+Sentencing Policy and Practice, Williamsburg, VA: National
+Center for State Courts, 1997.
+
+Brian Ostrom, Neal Kauder, David Rottman, and Meredith
+Peterson, Sentencing Digest: Examining Current Sentencing
+Issues and Policies, Williamsburg, VA: National Center for
+State Courts, 1998
+
+ "A Symposium on Sentencing Reform in the States," University
+of Colorado Law Review, 64, No. 3, 1993. 
+
+"'Black Box Decisions' on Life or Death--If They're
+Arbitrary, Don't Blame the Jury: A Reply to Judge Patrick
+Higginbotham," Case Western Reserve Law Review, Volume 41,
+Number 4, 1991.
+
+Barbara S. Vincent and Paul J. Hofer, The Consequences of
+Mandatory Minimum Prison Terms: A Summary of Recent
+Findings, Washington D.C.: Federal Judicial Center, 1994.
+
+Derral Cheatwood, "The Life-Without-Parole Sanction: Its
+Current Status and a Research Agenda", Crime and
+Delinquency, Volume 34, Number 1, January 1988.
+
+J. Mark Lane, "Is There Life Without Parole?: A Capital
+Defendant's Right to a Meaningful Alternative Sentence,"
+Loyola of Los Angeles Law Review, Volume 26, January 1993.
+
+James M. Byrne, Arthur J. Lurigio, Joan Petersilia, Smart
+Sentencing: The Emergence of Intermediate Sanctions,
+Newbury Park: Sage, 1992.
+
+Julian H. Wright, ""Life-Without-Parole: An Alternative to
+Death or Not Much of a Life at All?," Vanderbilt Law
+Review, Volume 43, 1990.
+
+Kathleen Maguire and Ann L. Pastore (Eds.)  Sourcebook of
+Criminal Justice Statistics, 1993, Washington D.C.: U.S.
+Department of Justice, Bureau of Justice Statistics, USGPO,
+1994.
+
+Kent H. Ronhovde and Gloria P. Sugars, "Survey of Select
+State Firearm Control Laws," Federal Regulation of
+Firearms, Washington, D.C.: U.S. Government Printing Office
+(prepared for the U.S. Senate Judiciary Committee), 1982.
+
+Micheal H. Tonry, Intermediate Sanctions in Sentencing
+Guidelines.  Washington D.C.: U.S. Department of Justice,
+Office of Justice Programs, National Institute of Justice,
+1997.
+
+NAACP Legal Defense and Education Fund, Death Row U.S.A. (a
+periodical).
+
+Patrick A. Langan, "Between Prison and Probation:
+Intermediate Sanctions," Science, Vol. 264, May 1994
+
+Patrick E. Higginbotham, "Juries and the Death Penalty," Case
+Western Reserve Law Review, Volume 41, Number 4, 1991.  
+
+Richard Koehler and Charles Lindner, "Alternative
+Incarceration: An Inevitable Response to Institutional
+Overcrowding," Federal Probation, September 1992.
+
+Ruthanne De Wolfe, "Prison Law Developments: Alternatives to
+Incarceration," Clearinghouse Review, January 1991.
+
+Sandra Shane-DuBow, Alice Brown, and Erik Olsen, Sentencing
+Reform in the United States: History, Content, and Effect. 
+Washington D.C.: U.S. Government Printing Office, 1985.
+
+"Symposium on Federal Sentencing," Southern California Law
+Review, 99, 1992.
+
+William McDonald, Repeat Offender Law in the United States:
+Their Form, Use, and Perceived Value.  Washington D.C.:
+National Institute of Justice, 1986
+
+Table 49:
+"Richard G. Singer, "Conviction: Civil Disabilities,"
+Encyclopedia of Crime and Justice, Vol. I, S. Kadish (Ed.). 
+New York: The Free Press, 1983.
+
+Walter Matthews Grant, John LeCornu, John Andrew Pickens,
+Dean Hill Rivkins, and C. Roger Vinson, "The Collateral
+Consequences of a Felony Conviction," Vanderbilt Law
+Review, Volume 23 Number 5, October 1970.
+
+Velmer S. Burton, Jr., Francis T. Cullen, and Lawrence F.
+Travis III, "The Collateral Consequences of a Felony
+Conviction: A National Study of State Statutes," Federal
+Probation, September 1987.
+
+Part VIII: Court structure charts
+
+The court structure charts summarize in a one-page diagram
+the key features of each state's court organization.  The
+format meets two objectives:  (1) it is comprehensive,
+indicating all court systems in the state and their
+interrelationships, and (2) it describes the jurisdiction of
+the court systems, using a standard set of terminology and
+symbols.  The court structure charts employ the common
+terminology developed by the National Center for State
+Court's Court Statistics Project for reporting caseload
+statistics.
+
+The first chart is a prototype.  It represents a state court
+organization in which there is one of each of the four court
+system levels recognized by the Court Statistics Project:
+courts of last resort, intermediate appellate courts, general
+jurisdiction trial courts, and limited jurisdiction trial
+courts.  Routes of appeal from one court to another are
+indicated by lines, with an arrow showing which court
+receives the appeal or petition.
+
+The charts also provide basic descriptive information, such
+as the number of authorized justices, judges, and magistrates
+(or other judicial officers).  Each court system's subject
+matter jurisdiction is indicated using the Court Statistics
+Project case types.  Information is also provided on the use
+of districts, circuits, or divisions in organizing the courts
+within the system and the number of courts.
+
+The case types, which define a court system's subject matter
+jurisdiction, require the most explanation.
+
+Appellate Courts
+
+The rectangle representing each appellate court contains
+information on the number of authorized justices; the number
+of geographic divisions, if any; whether court decisions are
+made en banc, in panels, or both; and the Court Statistics
+Project case types that are heard by the court.  The case
+types are shown separately for mandatory and discretionary
+cases.  The case types themselves are defined in other Court
+Statistics Project publications, especially 1984 State
+Appellate Court Jurisdiction Guide for Statistical Reporting
+and State Court Model Statistical Dictionary: 1989 Edition. 
+An appellate court can have both mandatory and discretionary
+jurisdiction over the same Court Statistics Project case
+type.  This arises, in part, because the Court Statistics
+Project case types are defined broadly in order to be
+applicable to every state's courts.  There are, for example,
+only two appellate Court Statistics Project case types for
+criminal appeals: capital and noncapital.  A court may have
+mandatory jurisdiction over felony cases, but discretionary
+jurisdiction over misdemeanors. The list of case types would
+include "criminal" for both mandatory and discretionary
+jurisdiction.  The duplication of a case type under both
+headings can also occur if appeals from one lower court for
+that case type are mandatory, while appeals from another
+lower court are discretionary.  Also, statutory provisions or
+court rules in some states automatically convert a mandatory
+appeal into a discretionary petition--for example, when an
+appeal is not filed within a specified time limit.  A more
+comprehensive description of each appellate court's subject
+matter jurisdiction can be found in the 1984 State Appellate
+Court Jurisdiction Guide for Statistical Reporting.
+
+Trial Courts
+
+The rectangle representing each trial court also lists the
+applicable Court Statistics Project case types.  These
+include civil, criminal, traffic/other violation, and
+juvenile.  Where a case type is simply listed, it means that
+the court system shares jurisdiction over it with other
+courts. The presence of exclusive jurisdiction is always
+explicitly stated.
+
+The absence of a case type from a list means that the court
+does not have that subject matter jurisdiction.  The dollar
+amount jurisdiction is shown where there is an upper or a
+lower limit to the cases that can be filed in a court.  A
+dollar limit is not listed if a court does not have a minimum
+or maximum dollar amount jurisdiction for general civil
+cases.  In criminal cases, jurisdiction is distinguished
+between "felony," where the court can try a felony case to
+verdict and sentencing, and "preliminary hearings," which
+applies to those limited jurisdiction courts that can conduct
+preliminary hearings that bind a defendant over for trial in
+a higher court.
+
+Trial courts can have what is termed incidental appellate
+jurisdiction.  The presence of such jurisdiction over the
+decisions of other courts is noted in the list of case types
+as either "civil appeals," "criminal appeals," or
+"administrative agency appeals."  A trial court that hears 
+appeals directly from an administrative agency has an "A" in
+the upper right corner of the rectangle.
+
+For each trial court, the chart states the authorized number
+of judges and whether the court can impanel a jury.  The
+rectangle representing the court also indicates the number of
+districts, divisions, or circuits into which the court system
+is divided.  These subdivisions are stated using the court
+system's own terminology.  The descriptions, therefore, are
+not standardized across states or court systems.
+
+Some trial courts are totally funded from local sources and
+some receive some form of state funds.  Locally funded court
+systems are drawn with broken lines.  A solid line indicates
+some or all of the funding is derived from state funds.
+
+Symbols and Abbreviations
+
+An "A" in the upper right corner of a rectangle, representing
+either an appellate or a trial court, indicates that the
+court receives appeals directly from the decisions of an
+administrative agency.  Where "administrative agency appeals"
+is listed as a case type, it indicates that the court hears
+appeals from decisions of another court on an administrative
+agency's actions.  It is possible for a court to have both an
+"A" designation and to have "administrative agency appeals"
+listed as a case type.  Such a court hears appeals directly
+from an administrative agency ("A") and has appellate
+jurisdiction over the decisions of a lower court that has
+already reviewed the decision of the administrative agency.
+
+The number of justices or judges is sometimes stated as
+"FTE."  This represents "full-time equivalent" authorized
+judicial positions.  "DWI/DUI" stands for "driving while
+intoxicated/driving under the influence."  The "SC"
+abbreviation stands for "small claims."  The dollar amount
+jurisdiction for civil cases is indicated in parentheses with
+a dollar sign.  Where the small claims dollar amount
+jurisdiction is different, it is noted.
+
+The court structure charts are convenient summaries.  They do
+not substitute for the detailed descriptive material
+contained in the 50 tables of State Court Organization, 1998,
+Moreover, they are based on the Court Statistics Project's
+terminology and categories.  This means that a state may have
+established courts that are not included in these charts. 
+Some states have courts of special jurisdiction to receive
+complaints on matters that are more typically directed to
+administrative boards and agencies.  Since these courts
+adjudicate matters that do not fall within the Court Statistics Project
+case types, they are not included in the charts.  The
+existence of such courts, however, is recognized in a
+footnote to the state's court structure chart.
+
+End of file
+pm/ih  6/7/00
