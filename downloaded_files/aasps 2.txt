@@ -1,0 +1,600 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Technical Report
+
+Assessing the Accuracy of State Prisoner Statistics
+
+February 1999, NCJ 173413
+
+
+By Patrick A. Langan, Ph.D.
+David Levin
+BJS Statisticians
+
+Included in the wide array of statistics routinely compiled and 
+disseminated by the Bureau of Justice Statistics (BJS) are those 
+describing persons sentenced to State prisons during the year. 
+Prisoner characteristics are available in two different sources: 
+BJS reports that are based on State prison records, and BJS reports 
+that use data from State court records.  This report investigates
+the extent to which prisoner characteristics from one source match 
+those from the other.  Results of the investigation indicate a close
+correspondence between court and prison records.
+
+The need for the investigation arises because the court records and 
+the prison records are not from geographically identical places.  
+For example, in 1992 the prison records are from 37 States, and the 
+court records are from a sample of 300 counties scientifically drawn 
+to be nationally representative.
+
+State prison records  
+
+Since 1926 the Federal Government has been regularly compiling national
+prisoner statistics from records that State prisons voluntarily submit.  
+These statistics give information on persons sentenced to State prisons 
+during the year:  their age, race, sex, the length of their prison 
+sentence, and the offense they committed.  
+
+These statistics serve as one of the Nation's most valuable sources of
+information on its prison population.  They answer such questions as 
+whether blacks are a growing fraction of the persons being sent to 
+prison (they are); whether prison sentences are getting longer 
+(generally they are not); and whether imprisonment of violent offenders
+accounts for much of the recent increase in the prison population (it 
+does). 
+
+State court records  
+
+In 1986 the Federal Government expanded its data gathering to include 
+State courts.  The data, voluntarily sent by State courts, serve as 
+the sole source of national information on two major roles of courts: 
+convicting and sentencing criminals.  The data are from annual records 
+that State courts keep on each person convicted of a felony offense.  
+
+The data show how many people are convicted in the year; the crimes 
+they are convicted of; their age, race, and sex; and what sentence 
+the court imposed.  Among other things, the data reveal that a 
+substantial number of the violent offenders convicted in State 
+courts each year get probation rather than a prison sentence; that 
+about 50% of convicted felons (a category that includes both violent 
+and nonviolent criminals) are sentenced to State prison; and that, 
+compared to women, men generally receive longer prison sentences, 
+longer jail sentences, and longer probation sentences.
+   
+State court records compared to State prison records
+
+In the State court records, convicted felons who received a prison 
+sentence are distinguishable from those who received other sentences. 
+Consequently, characteristics of persons sent to prison in a 
+particular year according to State court records can be compared to
+characteristics of persons who entered prison that same year according 
+to State prison records. 
+
+The comparison is instructive.  To the extent that characteristics 
+of one match characteristics of the other, confidence is enhanced in 
+each as a reliable source of national records on convicted offenders. 
+The comparison covers offenders sentenced to State prison in 1992. 
+In general, results indicate a close correspondence between the two 
+sources.  What State prison records indicate about persons sent to 
+prison generally mirrors what State court records show.
+
+Results
+
+Conviction offense  
+
+State prison records and State court records both show that, among 
+persons sentenced to State prisons in 1992, robbery was the conviction 
+offense for 10% and larceny was for 11% (table 1). Percentages 
+differed for most other offenses, but usually by small amounts.
+
+Table 1.  Court records compared to  prison records: Percent of State prison
+sentences, by offender  characteristics, 1992
+
+                    Percent of persons sentenced to prison 
+                    in 1992 according to --
+                    -------------------------------------
+ Characteristic     Court  records       Prison  records
+ --------------------------------------------------------
+Sex                  100 %                      100 %
+   Male               91                         91
+   Female              9                          9
+
+Number of cases    349,722                    288,211
+
+Race                 100 %                      100 %
+   White              45                         45
+   Black              54                         54
+   Other               1                          1
+
+Number of cases    264,742                    288,211
+
+Age                  100 %                      100 %
+   13-17               1                          1
+   18-24              31                         34
+   25-29              22                         22
+   30-34              20                         18
+   35-44              20                         18
+   45-54               5                          5
+   55 or older         1                          1
+
+Mean                  30 yrs                     30 yrs
+
+Number of cases    322,164                   288,211
+
+Most serious  conviction offense
+
+All offenses         100 %                      100 %
+
+Violent offenses      26 %                       29 %
+Murder  a/            3                          2
+Rape                   4                          2
+Robbery               10                         10
+Assault                7                          8
+Other violent b/       2                          6
+
+Property offenses     31 %                       27 %
+Burglary              15                         13
+Larceny c/            11                         11
+Fraud d/               5                          3
+
+Drug offenses         29 %                       26 %
+Possession             9                          7
+Trafficking           20                         19
+
+Weapons offenses       3 %                        2 %
+
+Other offenses e/     11 %                       16 %
+
+Number of cases    390,917                    288,211
+
+Note: The number of court records is estimated from the sample, and the 
+number of prisoners  is that submitted by 37 States.  Detail may not sum 
+to total because of rounding.  
+a/Includes nonnegligent manslaughter. 
+b/Includes offenses such as negligent manslaughter, sexual assault, 
+and kidnaping.
+c/Includes motor vehicle theft.
+d/Includes forgery and embezzlement.
+e/Composed of nonviolent offenses such as receiving stolen property.
+
+
+
+Sex of prisoners 
+
+State prison records and State court records both show that males 
+were 91% of the persons sentenced to prison in 1992.  Court records 
+show that burglars were 16% of all male offenders sentenced to prison, 
+and prison records show 14%, a difference of 2 percentage points 
+(table 2).  Differences of this size or less characterized most 
+other offenses, for males and females alike (table 2).
+
+Table 2.  Court records compared to prison records:  Percent of State prison 
+sentences, by sex and most serious conviction offense, 1992
+
+                                   Male                        Female
+Most serious 
+conviction offense    Court records  Prison records  Court records    Prison records
+
+All offenses                 100 %             100 %          100 %             100 %
+
+Violent offenses              26 %              30 %           15 %              16 %
+Murdera                        3                 3              3                 2
+Rape                           4                 3              1                 0
+Robbery                       10                10              5                 5
+Assault                        7                 8              5                 5
+Other violentb                 2                 6              1                 3
+
+Property offenses             31 %              27 %           39 %              34 %
+Burglary                      16                14              6                 5
+Larcenyc                      11                10             17                17
+Fraudd                         4                 3             16                12
+                           
+Drug offenses                 29 %              25 %           36 %              32 %
+Possession                     9                 7             14                 8
+Trafficking                   20                18             22                24
+          
+Weapons offenses               3 %               3 %            1 %               1 %
+
+Other offensese               11 %              15 %            9 %
+
+Number of cases             319,063           261,188        30,660            24,640
+
+Note: Detail may not sum to total because of rounding.
+a/Includes nonnegligent manslaughter.
+b/Includes offenses such as negligent manslaughter, sexual assault, and kidnaping.
+c/Includes motor vehicle theft.
+d/Includes forgery and embezzlement.
+e/Composed of nonviolent offenses such as receiving stolen property. 
+
+
+Race of prisoners  
+
+Both sources show that, among all persons sentenced to State prisons 
+in 1992, 45% were white, 54% were black, and 1% were other races 
+(table 1).  Among whites, 7% were persons sentenced for robbery 
+according to both prison and court records (table 3).  Among blacks, 
+12% were robbers according to court records, nearly identical to 
+what prison records show (13%) (table 3). Such small differences 
+between court and prison records characterized most offenses.
+
+
+
+Table 3.  Court records compared to prison records: Percent of State prison sentences, 
+by race and most serious conviction offense, 1992
+
+                                       White                                     Black                                        Other
+Most serious               --------------------------------         -------------------------------            -------------------------------
+conviction offense         Court records     Prison records         Court records    Prison records            Court records    Prison records
+All offenses                      100 %             100 %                100 %             100 %                      100 %             100 %
+
+Violent offenses                   23 %              28 %                 25 %              29 %                       46 %              41 %
+Murder a/                             3                 3                    3                 3                          4                 5
+Rape                                5                 3                    2                 2                         18                 4
+Robbery                             7                 7                   12                13                         12                11
+Assault                             6                 7                    7                 8                         11                12
+Other violent b/                    3                 9                    1                 4                          1                 9
+
+Property offenses                  39 %              34 %                 27 %              24 %                       32 %              28 %
+Burglary                           19                17                   13                11                         19                15
+Larceny c/                         13                12                   11                10                         11                10
+Fraud d/                            7                 5                    4                 3                          2                 3
+
+Drug offenses                      23 %              18 %                 36 %              30 %                        8 %              12 %
+Possession                          8                 4                   12                 9                          4                 3
+Trafficking                        15                14                   25                22                          4                10
+
+Weapons offenses                    2 %               2 %                  3 %               3 %                        2 %               2 %
+
+Other offenses e/                  14 %              19 %                  8 %              14 %                       13 %              19 %
+
+Number of cases                118,326            117,936               143,844            143,168                    2,572            2,542
+
+a/Includes nonnegligent manslaughter. 
+b/includes offenses such as negligent manslaughter, sexual assault, and kidnaping. 
+c/Includes motor vehicle theft. 
+d/Includes forgery and embezzlement.
+e/Composed of nonviolent offenses such as receiving stolen property.
+
+
+
+Age of prisoners 
+
+State prison records and State court records both show that the 
+average age of prisoners sentenced in 1992 was 30 years (table 1). 
+Nearly a quarter of all persons sentenced in 1992 were between the 
+ages of 25 and 29 years.  The percentages that were in other age 
+categories generally differed between the two sources, but usually 
+by no more than 2 percentage points. 
+
+According to both sets of records the average age of persons 
+sentenced for murder in 1992 was 28 (table 4).  For most offense 
+categories, State prison records and State court records agreed on
+the average age of sentenced persons.  Where differences existed, 
+they were usually no more than 1 year.
+
+
+Table 4.  Court records compared to prison records:   Mean ages 
+of State prisoners, by  most serious conviction offense, 1992
+
+
+
+                        Average age of persons sentenced
+                        to prison  in 1992 according to --
+                        ----------------------------------
+Most serious                                                                                                         Most serious       
+conviction offense       Court  records    Prison  records
+-----------------------------------------------------------
+All offenses                   30 yrs            30  yrs                                                                                 30  yrs 
+
+Violent offenses               29  yrs           29  yrs
+   Murder a/                   28                28
+   Rape                        33                33
+   Robbery                     26                26
+   Assault                     29                29
+   Other violent b/            34                33
+
+Property offenses              30  yrs           29  yrs
+   Burglary                    28                28
+   Larceny c/                  30                30
+   Fraud d/                    32                32
+
+Drug offenses                  30  yrs           30  yrs
+   Possession                  31                30
+   Trafficking                 30                30
+
+Weapons offenses               28  yrs           29  yrs
+
+Other offenses e/              32  yrs           29  yrs
+
+Number of cases                322,165           285,921
+
+Note:  Means exclude sentences to death or to life.  
+a/Includes nonnegligent manslaughter.   
+b/Includes offenses such as negligent manslaughter, sexual  assault, and kidnaping. 
+c/Includes motor vehicle theft. 
+d/Includes forgery and embezzlement. 
+e/Composed of nonviolent offenses such as receiving stolen property.
+
+
+
+Prison sentence length
+
+The biggest difference between the two sets of records is prisoner 
+sentence length.  Court-recorded sentence lengths averaged 6 months 
+longer than prison-recorded sentence lengths.  For example, the 
+average prison sentence length for rape was nearly 14 years 8 months
+according to court records and 14 years 2 months according to prison 
+records (table 5).  Court-recorded sentence lengths were longer than
+prison recorded sentence lengths for males, females, whites, and 
+blacks (table 6). 
+
+
+Table 5.  Court records compared to  prison records:  Mean State prison  
+sentence lengths, by most serious  conviction offense, 1992
+
+                          Average prison sentence length 
+                          (in months) for persons sentenced 
+                          to prison  in 1992 according to --
+Most serious              ----------------------------------  
+conviction offense        Court  records   Prison  records
+---------------------------------------------------------
+All offenses                      85  mo         79  mo
+
+Violent offenses                 130  mo        117  mo
+   Murder a/                     253            265
+   Rape                          170            176
+   Robbery                       119            107
+   Assault                        93             82
+   Other violent b/               96            112
+
+Property offenses                 71  mo         66  mo
+   Burglary                       80             77
+   Larceny c/                     58             53
+   Fraudd                         69             62
+  
+Drug offenses                     72  mo         71  mo
+   Possession                     62             71
+   Trafficking                    75             72
+
+Weapons offenses                  54  mo         51  mo
+
+Other offensese                   62  mo         52  mo
+
+Number of cases                  349,434        293,162
+
+Note:  Means exclude sentences to death or to life in  prison.  Ohio data 
+from the NCRP are excluded due to a coding error.   
+a/Includes nonnegligent manslaughter. 
+b/Includes offenses such as negligent manslaughter, sexual assault, and kidnaping. 
+c/Includes motor vehicle theft.
+
+
+Table 6.  Court records compared to prison records:  Mean sentence lengths  
+for persons sentenced to prison in 1992, by sex, race, and 
+most serious conviction offense
+
+                            Average sentence length (in months) for persons sentenced to prison
+                                       Sex                                     Race
+                          -----------------------------------    ---------------------------------               
+                                Male              Female               White             Black                                   Black
+                          ----------------   ----------------    ----------------    --------------
+Most serious            Court    Prison      Court    Prison     Court    Prison     Court    Prison  
+conviction offense      records  records     records  records    records  records    records  records
+-----------------------------------------------------------------------------------------------------
+All offenses              87 mo    80 mo       59 mo   59 mo      79 mo    72 mo      89 mo    83 mo
+
+Violent offenses         129 mo    118 mo      96 mo   92 mo     125 mo   111 mo     128 mo   122 mo
+   Murder a/             257       272        191     189        231      242        248      277
+   Rape                  167       176        110     202        167      168        166      191
+   Robbery               117       108         77      81        111       98        117      112
+   Assault                95        83         73      66         87       74         93       87
+   Other violent b/       99       113         73      92        102      111         87      119
+
+ Property  offenses       74 mo    67 mo       47 mo   51 mo      72 mo    64 mo      72 mo    66 mo
+   Burglary               81       77          50      58         85       74         75       79
+  Larceny c/              59       54          40      74         45       57         51       60                         53
+   Fraud d/               83       64          53      57         65       63         94       62
+  
+Drug offenses             74 mo    73 mo       59 mo   60 mo      63 mo    60 mo      76 mo    77 mo
+   Possession             64       72          50      58         51       58         69       73
+   Trafficking            78       73          64      61         68       61         79       78
+
+Weapons offenses          55 mo    52 mo       44 mo   41 mo      54 mo    44 mo      51 mo    54 mo
+
+Other offenses e/         63 mo    53 mo       53 mo   45 mo      46 mo    48 mo      97 mo    58 mo
+
+Number of cases          285,740  269,106     26,343   23,687   106,064   121,069    126,721  146,716
+
+Note:  Means exclude sentences to death or life in prison.  Ohio data from the NCRP are excluded due to 
+a coding error.
+a/Includes nonnegligent manslaughter.
+b/Includes offenses such as negligent manslaughter, sexual assault, and kidnaping.
+c/Includes motor vehicle theft.
+d/Includes forgery and embezzlement.
+e/Composed of nonviolent offenses such as receiving stolen property.
+
+ 
+
+The 6-month difference between court records and prison records found 
+for 1992 is not found for other years.  In 1990 the court records 
+were 3 months longer than the prison records: 6 years 9 months in 
+court records versus 6 years 6 months in prison records.  In 1994, 
+the prison records were longer than the court records by 2 months: 
+6 years 7 months in prison records versus 6 years 5 months in court 
+records.
+
+Number of persons sentenced to prison in 1992
+
+Using the most comparable figures, 1992 court records indicate 349,400 
+persons were sent to prison with sentences greater than a year; prison 
+records indicate 293,200 persons (table 5), difference of 16%.  Nearly 
+all of the difference is explained by the fact that 13 States are not
+included in the data compiled from prison records.  Had all 50 States 
+been included in the prison records, it is estimated that the prison 
+records would have indicated 338,600 prison sentences, leaving a 
+difference of 4%.
+
+Methodology
+
+Significance  tests
+
+All comparisons discussed in this report were statistically significant 
+at the 95% confidence level.  In general, if the difference between two 
+numbers is at least twice the standard error of that difference, there 
+is at least 95% confidence that the two numbers do in fact differ. 
+
+Data sources
+
+Data for this report were drawn from two BJS statistical programs: the
+National Corrections Reporting Program (NCRP) based on prison records, 
+and the National Judicial Reporting Program (NJRP) based on court 
+records.
+
+Data in this report shown under the heading prison records in 
+tables 1 through 4 are from the Bureau of Justice Statistics (BJS) 
+statistical report National Corrections Reporting Program, 1992 
+(NCJ 145862, October 1994, calculated from tables 1-4, 1-5, 1-6,
+1-7, 1- 9).  Sentence lengths in tables 5 and 6 under the heading 
+prison records were produced specifically for this report based on 
+analysis of the 1992 NCRP database.  
+
+Data shown under the heading court records in tables 1 through 6 are 
+tabulated from the 1992 NJRP data-base.  For more information on the 
+1992 NJRP, see State Court Sentencing of Convicted Felons, 1992, BJS 
+Report, NCJ 152696, May 1996.
+
+Average sentence length for 1990 and 1994 were not based on 
+previously published figures, but on new analyses of the court 
+and prison databases for these years. For published figures and 
+more information on 1990 and 1994 data, see National Judicial 
+Reporting Program, 1990, BJS Report, NCJ 145323; State Court 
+Sentencing of Convicted Felons, 1994, BJS Report, NCJ 164614,
+March 1998; National Corrections Reporting Program, 1990, BJS
+Report, NCJ 141879; National Corrections Reporting Program, 
+1994, BJS Report, forthcoming.
+
+Comparability
+
+Because of numerous differences between procedures used to collect 
+NJRP and  NCRP data, the two will not give identical results:
+
+* The NJRP data are based on a sample survey of persons sentenced 
+to prison for a felony offense in State courts in 1992.  The sample 
+consisted of 300 counties selected to be nationally representative. 
+
+* The NCRP data pertain to persons entering State prison in 1992 
+directly from a sentence by a court.  The data were volunteered by 
+38 states.  
+
+* NJRP data are limited to persons convicted of a felony, whereas 
+NCRP data pertain to all persons entering State prison, whether 
+convicted of a felony or a misdemeanor.
+
+The two data sources use similar, but not identical, definitions 
+of the term "most serious conviction offense."  For the NCRP, if 
+the entering prisoner was convicted of more than one offense, the 
+prisoner's "most serious conviction offense" was the offense with 
+the longest sentence.  For the NJRP, if the felon was convicted 
+of more than one felony offense, the offense designation for the 
+felon was the most serious offense.  The hierarchy from most to 
+least serious offense was murder, rape, robbery, aggravated assault,
+burglary, drug trafficking, weapons, forgery/fraud/embezzlement, 
+larceny/motor vehicle theft, drug possession, and all other 
+felonies.  The hierarchy was determined from an analysis of two 
+factors that reflect how seriously the justice system treats 
+different offenses:  the sentence length imposed and the time 
+actually served in prison before release.  In general, the higher 
+the offense is in the hierarchy, the more serious it is in terms 
+of the two factors.
+
+Sentence length
+
+Information on average sentence lengths given in tables 5 and 6 of 
+this report were not obtained from existing BJS publications of 1992 
+data from the NCRP and the NJRP.  The reason is that these 
+publications define aver-age sentence length differently:  
+
+* Persons receiving consecutive sentences are treated one way in 
+the 1992 NCRP publication's measure of average sentence length and 
+a different way in the 1992 NJRP's measure.  In the NJRP publication, 
+the sentences for the different offenses are summed.  For example, 
+the NJRP measure treats a person receiving a 10-year sentence for 
+rape and a consecutive 5-year sentence for robbery as a 15- year 
+sentence.  By contrast, the person is treated as a 10-year sentence 
+in the NCRP measure because the NCRP measure counts just the longest 
+sentence.
+
+* Unlike the 1992 NJRP publication, the 1992 NCRP publication 
+does not include probationers and parolees returned to prison with 
+new sentences. 
+
+* Unlike the 1992 NJRP publication, the 1992 NCRP publication 
+excludes prisoners with sentences of a year or less.
+
+To make average sentence length (shown in tables 5 and 6) more 
+comparable between the NCRP and the NJRP, 1992 prison sentence 
+length data were subjected to an analysis in which average
+sentence length was defined the same way for this report:
+
+* Maximum sentence length for consecutive sentences was defined 
+as the sum of the consecutive sentences a person receives.
+
+* Probationers and parolees returned to prison with new sentences
+were included.
+
+* Only sentences over a year were included. 
+
+Using a common definition, the NCRP gave an estimated average 
+sentence length of 6 years 7 months (table 5) and the NJRP gave 
+7 years 1 month (table 5), a difference of 6 months.  When
+the common definition was not used, the two differed by 10 months 
+(5 years 7 months according to the 1992 NCRP publication versus 6 
+years 7 months according to the 1992 NJRP publication).  Therefore, 
+using a common definition (table 5) narrowed the difference.
+ 
+Even with the use of a common definition, differences remain 
+between the NCRP and the NJRP.  For example, California (which 
+has relatively short sentences) accounts for a greater fraction 
+of the NCRP cases than the NJRP cases.  The 6-month difference 
+(table 5) between the NCRP and the NJRP would be reduced to 4 
+months if California accounted for the same fraction of the
+NCRP as the NJRP.  No doubt other differences exist between the 
+two that affect comparisons of average sentence length.
+
+Estimate of the number of persons sentenced to prison in 1992 
+according to prisoner data 
+
+The 293,162 figure for the 37 States plus an estimate for the 
+13 missing States forms a national estimate of persons admitted. 
+To obtain the national estimate, a prisoner database was located
+that gave an aggregate count of the number of persons sentenced 
+to prison in 1992 for each of the 50 States (Correctional 
+Populations in the United States, 1992 , NCJ 146413, January 
+1995, tables 5.10a, 5.16 ).  According to the database, the 13 
+States accounted for 12% of prison admissions nationwide in 1992.  
+Using the 12% figure as a basis for estimation, it is estimated 
+that 338,000 persons were sentenced to prison nationwide in 1992.
+
+******************************************************************************
+The Bureau of Justice Statistics is the statistical agency of the 
+U.S. Department of Justice.  Jan M. Chaiken, Ph.D., is director.
+
+This report belongs to the BJS Technical Report series.  It was 
+written by Patrick A. Langan, Ph.D., and David Levin, BJS 
+statisticians.  The report was produced by Yvonne Boston and Tom
+Hester.  Marilyn Marbrook supervised final production and printing. 
+
+February 1999, NCJ 173413
+******************************************************************************
+Readers who want further information about the National Judicial 
+Reporting Program and the National Corrections Reporting Program 
+should access the BJS Internet Web site: http://www.ojp.usdoj.gov/bjs/
+
+Data presented in this report may be obtained from the National 
+Archive of Criminal Justice Data at the University of Michigan, 1-800-999-0960.  
+The archive may be accessed through the BJS Web site.  When at the archive site, 
+search for data sets ICPSR 6038, 6509, 6855, 6141, 6400, and 6681.
+******************************************************************************
+(End of file)
+3/10/99 yb
