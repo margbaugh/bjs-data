@@ -1,0 +1,72 @@
+"Bureau of Justice Statistics",,,,,,,
+"filename:  cj99at17.csv",,,,,,,
+"Appendix table 17.  Staff of privately operated jails, by gender, June 30, 1999",,,,,,,
+"report title:  Census of Jails, 1999  NCJ  186633",,,,,,,
+"data source:  1999 Census of Jails",,,,,,,
+"author:  James Stephan",,,,,,,
+"refer questions to:  askbjs@ojp.usdoj.gov   (202) 307-0765",,,,,,,
+"date of version:  08/30/01",,,,,,,
+,,,,,,,
+"Appendix table 17.  Staff of privately operated jails, by gender, June 30, 1999",,,,,,,
+,,,,,,,
+,"All staff",,,,"Correctional officers",,
+"Region and jurisdiction","Total","Male","Female",,"Total","Male","Female"
+,,,,,,,
+"      U.S. total",4178,2242,1936,,2617,1548,1069
+,,,,,,,
+"      Federal",0,0,0,,0,0,0
+"      State",4178,2242,1936,,2617,1548,1069
+,,,,,,,
+"  Northeast",426,261,165,,275,175,100
+"    Maine",0,0,0,,0,0,0
+"    Massachusetts",0,0,0,,0,0,0
+"    New Hampshire",0,0,0,,0,0,0
+"    New Jersey",0,0,0,,0,0,0
+"    New York",0,0,0,,0,0,0
+"    Pennsylvania",426,261,165,,275,175,100
+,,,,,,,
+"  Midwest",888,427,461,,466,249,217
+"    Illinois",48,21,27,,29,17,12
+"    Indiana",180,107,73,,115,70,45
+"    Iowa",0,0,0,,0,0,0
+"    Kansas",102,65,37,,63,43,20
+"    Michigan",0,0,0,,0,0,0
+"    Minnesota",26,3,23,,17,0,17
+"    Missouri",13,7,6,,10,6,4
+"    Nebraska",0,0,0,,0,0,0
+"    North Dakota",0,0,0,,0,0,0
+"    Ohio",519,224,295,,232,113,119
+"    South Dakota",0,0,0,,0,0,0
+"    Wisconsin",0,0,0,,0,0,0
+,,,,,,,
+"  South",2084,1109,975,,1421,833,588
+"    Alabama",0,0,0,,0,0,0
+"    Arkansas",0,0,0,,0,0,0
+"    Dist. of Col.",0,0,0,,0,0,0
+"    Florida",408,212,196,,292,176,116
+"    Georgia",49,23,26,,40,20,20
+"    Kentucky",114,52,62,,70,35,35
+"    Louisiana",0,0,0,,0,0,0
+"    Maryland",0,0,0,,0,0,0
+"    Mississippi",44,10,34,,29,9,20
+"    North Carolina",0,0,0,,0,0,0
+"    Oklahoma",0,0,0,,0,0,0
+"    South Carolina",0,0,0,,0,0,0
+"    Tennessee",567,300,267,,333,191,142
+"    Texas",902,512,390,,657,402,255
+"    Virginia",0,0,0,,0,0,0
+"    West Virginia",0,0,0,,0,0,0
+,,,,,,,
+"  West",780,445,335,,455,291,164
+"    Alaska",0,0,0,,0,0,0
+"    Arizona",0,0,0,,0,0,0
+"    California",92,63,29,,50,37,13
+"    Colorado",205,111,94,,87,60,27
+"    Idaho",0,0,0,,0,0,0
+"    Montana",0,0,0,,0,0,0
+"    Nevada",0,0,0,,0,0,0
+"    New Mexico",483,271,212,,318,194,124
+"    Oregon",0,0,0,,0,0,0
+"    Utah",0,0,0,,0,0,0
+"    Washington",0,0,0,,0,0,0
+"    Wyoming",0,0,0,,0,0,0

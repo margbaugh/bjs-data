@@ -1,0 +1,3633 @@
+Criminal Victimization and Perceptions of 
+Community Safety in 12 Cities, 1998
+
+
+NCJ 173940  May 1999
+
+U.S. Department of Justice
+Washington, D.C.
+
+by Steven K. Smith
+Greg W. Steadman
+Todd D. Minton
+Bureau of Justice Statistics
+
+
+Med Townsend
+formerly of the Office of Community Oriented 
+Policing Services
+
+A joint project by the BJS and the Office of COPS
+
+Cover map:
+
+Residents in 12 cities, by degree of satisfaction with local
+police, 1998
+
+Chicago, IL 
+Kansas City, MO 
+Knoxville, TN   
+Los Angeles, CA   
+
+Madison, WI     
+New York, NY    
+San Diego, CA     
+Savannah, GA       
+
+Spokane, WA      
+Springfield, MA    
+Tucson, AZ       
+Washington, DC            
+
+----------------
+Acknowledgments
+----------------
+
+This report was prepared by Steven K. Smith, Greg W. Steadman,
+and Todd D. Minton of the Bureau of Justice Statistics and Meg
+Townsend, formerly of the Office of Community Oriented Policing
+Services (COPS). Tom Hester and Tina Dorsey edited and produced
+the report. Marilyn Marbrook supervised release, publication,
+and dissemination, assisted by Yvonne Boston.  Marika Litras,
+Ph.D., conducted the statistical review.  Also at BJS, Deputy
+Director Lawrence A. Greenfeld, Charles R. Kindermann, and
+Marshall M. DeBerry helped direct the overall project design and
+development of telephone data collection methodology.   
+
+The authors acknowledge the numerous people who made the development 
+and administration of the 12-city survey possible.  At the U.S. 
+Bureau of the Census, Kathleen Creighton, Marilyn Monahan, 
+Tracy Mattingly, Denise Lewis, Elaine Hock, Stephen Phillips, 
+David Watt, and David Hubble facilitated the development of the 
+questionnaire, sample design, and data collection components of the study.  
+
+At the COPS Office, Deborah Cohen, Ph.D. and Pam Cammarata
+provided assistance in the questionnaire and report production.  
+Veh Bezdikian of the COPS Office also contributed to the text 
+of the report and assisted with data analysis.   
+
+Data presented in this report can be obtained from the National
+Archive of Criminal Justice Data at the University of Michigan,
+1-800-999-0960.  An electronic version of this report and other
+reports are available from the BJS Internet page:
+http://www.ojp.usdoj.gov/bjs/   
+
+
+----------
+
+Foreword
+----------
+
+This publication is a report on criminal victimization and
+citizen perceptions in 12 cities across the United States.  
+The findings reported are the result of a joint effort between 
+the Office of Community Oriented Policing Services (COPS) and 
+the Bureau of Justice Statistics (BJS) to supplement the National 
+Crime Victimization Survey (NCVS) with questions related to 
+community policing.  
+
+This project was designed to assess the use of Random Digit
+Dialing (RDD) Telephone Methodology at the local level using the
+NCVS and community attitude questions.  The results presented
+here are intended to serve as a basis for new studies and
+improved methodologies.
+
+The NCVS has been providing national statistics on criminal
+victimization for more than 20 years and continues to be the
+primary source for data on the characteristics of criminal
+victimizations that have occurred across the Nation. The NCVS
+collects information on both victimizations reported to the
+police and those that were not reported.
+
+In response to informational demands from the law enforcement
+community, BJS and the COPS Office initiated the groundbreaking
+effort to collect city-level information on criminal
+victimizations, perceptions, and satisfaction with local police.
+Questions on these topics were added to the NCVS and piloted in
+12 cities.   
+
+As the community policing philosophy continues to be adopted by
+law enforcement agencies across the country, agencies have
+become more interested in using surveys as a tool to solicit
+feedback and community participation, both of which are critical
+to community policing efforts. Surveys may be used to foster a
+relationship between the community and law enforcement.  They
+can also be used to evaluate the impact of activities and
+programs on community perceptions and satisfaction levels,
+enhance service delivery by evaluating satisfaction levels, or
+facilitate better information exchange on community concerns. 
+
+The goal of this project is to develop a survey instrument and
+methodology that may be used by law enforcement agencies to
+collect information on criminal victimizations, citizen
+attitudes toward the police, their willingness to report crimes
+to the police, and the impact of different community policing
+strategies and tactics on crime and neighborhood conditions.  
+
+One of the most significant results of this project is the
+demonstration of the benefits of collecting this type of
+information at the local level.  To assist local agencies to
+administer community surveys, BJS and the COPS Office have
+developed a desktop survey software package.  The software is
+available to local law enforcement agencies seeking to collect
+victimization and community information from citizens in their
+jurisdictions. 
+
+This Windows-based software can be ordered by contacting the BJS
+Clearinghouse at 1-800-732-3277 or by e-mail ASKBJS@ojp.usdoj.gov
+
+We believe this data collection effort has initiated a new
+opportunity to support law enforcement. 
+
+We gratefully acknowledge the assistance of the Bureau of the
+Census, police departments in the 12 participating cities, those
+who supplied questions or provided comments on the supplemental 
+survey questions, and all the people who responded to the survey. 
+
+Joseph E. Brann
+Director
+Office of Community Oriented Policing Services
+
+Jan M. Chaiken, Ph.D.
+Director
+Bureau of Justice Statistics
+
+-----------
+
+Highlights
+-----------
+
+-------------
+Victimization 
+--------------
+
+For the first time in 20 years, BJS conducted city-level surveys
+on crime victimization.  These city surveys, different from the
+National Crime Victimization Survey (NCVS), used Random Digit
+Dialing (RDD) to contact households.  Unlike the NCVS, findings
+from these surveys do not represent national estimates.  
+
+Among the 12 cities surveyed, violent crime victimization rates
+ranged from 60 to 85 per 1,000 residents age 12 or older. 
+Nationally, the 1997 violent crime victimization rate in urban
+areas was 51 per 1,000 residents.
+
+Nationally, black residents in urban areas have experienced a
+higher rate of violent crime than urban whites.  This was also
+the case in a majority of the 12 cities surveyed. 
+
+In each of the cities, victims said that less than half of the
+violent crimes involved a weapon.  In most of the cities, less
+than half of the violent crime were reported to the police.
+
+The percentage of violent crimes in which the offender was a
+stranger to the victim ranged from 42% in Tucson to 74% in Los
+Angeles.
+
+--------------------------------------------------------
+Violent victimization and property  
+crime rate in 12 cities, 1998
+ 
+                   Violent victimization   Property
+                   rate per 1,000          crimes per
+                   residents age           1,000
+                   12 or older             households
+
+Chicago, IL               68                  433
+Kansas City, MO           61                  331
+Knoxville, TN             70                  314
+Los Angeles, CA           65                  347
+ 
+Madison, WI               70                  322
+New York, NY              85                  260
+San Diego, CA             63                  308
+Savannah, GA              81                  445
+ 
+Spokane, WA               67                  411
+Springfield, MA           78                  365
+Tucson, AZ                82                  432
+Washington, DC            60                  445
+-----------------------------------------------------
+
+
+----------------------
+Community attitudes
+----------------------
+
+Overall, about 80% or more of the residents in each of the 12
+cities said they were satisfied with the quality of life in
+their neighborhood. 
+
+The percentage of residents in each city who said they were
+fearful of crime in their neighborhood ranged from 20% to 48%. 
+Ten percent or less in each city said they were "very fearful"
+of neighborhood crime.  
+
+In 11 of the cities, a third or more of the residents said they
+were fearful of becoming a victim of street crime.  Residents 
+fearful of street crime most frequently cited assault with a gun and
+robbery as the street crimes they most feared.  
+
+About a quarter to a half of the residents among the 12 cities
+said they were aware that a serious crime had occurred in their
+neighborhood in the past 12 months.  
+
+In general, those aware of such crimes identified a range of
+crimes such as theft of personal property, burglary, auto theft,
+gun crimes, and the open sale or use of drugs as having 
+occurred in their neighborhood.
+
+Citizens said they were most likely to find out about
+neighborhood crimes through conversations with their neighbors
+or from the media.  Residents across the 12 cities were
+generally less likely to have gained their information about
+local crime from the police.  
+
+------------------------------
+Percent of residents fearful
+of neighborhood crime, 1998
+ 
+Chicago, IL              48%
+Kansas City, MO          33
+Knoxville, TN            30
+Los Angeles, CA          44
+ 
+Madison, WI              20
+New York, NY             42
+San Diego, CA            30
+Savannah, GA             33
+ 
+Spokane, WA              32
+Springfield, MA          45
+Tucson, AZ               40
+Washington, DC           48
+
+Survey question: "How fearful are you about crime in your
+neighborhood?  Are you very fearful, somewhat fearful,
+not very fearful, or not at all fearful?"
+
+Percents reported combine "very fearful"
+and "somewhat fearful."
+------------------------------
+
+
+---------------------------------------------------
+
+Using sample data
+
+Since the data in this report came from a sample, a sampling
+error (standard error) is associated with each reported number.  
+All differences discussed in the text are statistically significant at 
+or above the 95%-confidence level.  As displayed in figure 1,
+the reader is cautioned that some apparent differences between
+and among the cities are not statistically significant.  All
+stated differences in the text are tested at the 95%-confidence
+level.  Standard error tables for selected estimates are
+provided in Appendix II.
+---------------------------------------------------
+
+----------------------------------------------
+Citizen actions to prevent neighborhood crime 
+----------------------------------------------
+
+While neighborhood watch meetings were not widely attended, most
+respondents in each city said they relied on neighbors to watch
+out for each other.  
+
+Residents fearful of street crime across the 12 cities most
+frequently said that to protect themselves they avoided certain areas, 
+going out at night, or going out alone.  About a quarter to a third of
+residents fearful of street crime in each of the cities said
+they had made an effort to get to know the police in their
+neighborhood.
+
+Another frequently cited security measure was the use of
+automatic lighting around the house.  In several cities about a
+third of the residents kept a weapon inside the home for
+security. 
+
+In 6 cities at least a fifth of the residents kept a weapon in
+their home for self defense.
+
+----------------------------------------------
+Percent of residents who kept a self-defense 
+weapon in their home, 1998
+ 
+ 
+Chicago, IL             13%
+Kansas City, MO         27
+Knoxville, TN           39
+Los Angeles, CA         20
+ 
+Madison, WI             13
+New York, NY             8
+San Diego. CA           17
+Savannah, GA            34
+ 
+Spokane, WA             30
+Springfield, MA         14
+Tucson, AZ              31
+Washington, DC           7
+
+Question: "In the past 12 months, have
+you done any of these things to protect
+yourself from crime in the home, in a
+direct response to you or your family's
+fear of crime."  See table 25 for
+complete list of response categories.
+-------------------------------------------
+
+---------------------------------------------------
+Attitudes toward the police and community policing
+---------------------------------------------------
+
+About 30% or more of the residents in each city said they had
+some level of contact with the police in the past 12 months.  
+
+A majority of nearly 80% or more of the residents in each city
+were satisfied with the police in their neighborhood.
+
+In each of the 12 cities, residents fearful of neighborhood
+crime were less likely to be satisfied with their local police
+than those who were not fearful of crime in their neighborhood.  
+
+Likewise, satisfaction with the local police was more widespread
+among those who had not experienced a violent crime than those
+who had.
+
+Citizen familiarity with the term community policing varied
+among the 12 cities.  About 25% of the citizens in Savannah
+expressed familiarity, as did 60% or more of those in Chicago,
+Madison, Springfield, and Washington, D.C. 
+
+At least 40% of the residents in each city thought the police
+practiced community policing in their neighborhood.
+
+--------------------------------------
+Percent of residents who said police 
+are doing community policing, 1998
+ 
+Chicago, IL          67%
+Kansas City, MO      52
+Knoxville, TN        42
+Los Angeles, CA      50
+ 
+Madison, WI          47
+New York, NY         51
+San Diego, CA        57
+Savannah, GA         48
+ 
+Spokane, WA          54
+Springfield, MA      64
+Tucson, AZ           46
+Washington, DC       53
+
+Question: "Community policing involves police
+officers working with the community to address
+the causes of crime in an effort to reduce
+problems themselves and the associated fear,
+through a wide range of activities.  Based on
+this definition, do you think police in your
+neighborhood practice community policing?"
+---------------------------------------------
+
+
+-------------------------
+About the 12-city survey
+-------------------------
+
+BJS surveyed everyone age 12 or older in a representative sample
+of approximately 800 households in each city.  Questions about
+the neighborhood and community policing were asked only of
+residents age 16 or older.
+
+The Census Bureau used Random Digit Dialing (RDD) methodology to
+contact sampled households. Phone lists were developed based on
+zip codes and city boundary information.  This method is
+different from the NCVS.
+
+Interviews were conducted during February, March, April, and May
+of 1998 from Census Bureau telephone call centers in Hagerstown,
+MD, and Tucson, AZ.  
+
+In addition to the standard questions from the NCVS, respondents
+were asked new questions about their neighborhood and local
+police.  The survey used a 12-month reference period.  
+
+Violent crime findings from the city surveys can be compared to
+crime reported to the police as published in the FBI's Uniform
+Crime Reports (UCR).
+
+------------------------------------------
+Number of survey respondents, 1998
+
+                              Persons age
+                Total         12 or older
+                households    interviewed
+ 
+Chicago, IL             790        1124
+Kansas City, MO         798        1162
+Knoxville, TN           756        1198
+Los Angeles, CA         844        1121
+ 
+Madison, WI             731        1162
+New York, NY            744        1059
+San Diego, CA           791        1131
+Savannah, GA            766        1245
+
+Spokane, WA             801        1239
+Springfield, MA         771        1231
+Tucson, AZ              813        1233
+Washington, DC          722        1013
+ 
+Total                  9327       13918
+-----------------------------------------
+
+
+--------------
+Introduction
+--------------
+
+For the first time in 20 years, the Bureau of Justice Statistics
+(BJS) and the Office of Community Oriented Policing Services
+(COPS) sponsored city-level crime victimization surveys. The
+Census Bureau conducted the surveys.  The National Institute of
+Justice provided funding for the city survey in Washington, DC,
+as part of its research support to the District of Columbia
+Revitalization Initiative.
+
+The 12 cities are listed below: 
+* Chicago, Illinois
+* Kansas City, Missouri
+* Knoxville, Tennessee
+* Los Angeles, California
+* Madison, Wisconsin
+* New York, New York
+* San Diego, California
+* Savannah, Georgia
+* Spokane, Washington
+* Springfield, Massachusetts
+* Tucson, Arizona
+* Washington, D.C.
+
+Cities selected for the survey project had police departments
+that represented varying stages in the development of community
+policing.  The project surveyed sampled house- holds residing
+within the selected cities' jurisdictional limits to account for
+the area served by the local police department.  The survey did
+not capture victimizations experienced by those who lived
+outside the city limits but that may have occurred within the
+city.  It does include victimizations reported by city residents
+which may have occurred outside the city limits.  Respondents
+were asked about their experiences with crime over the past 12
+months.
+
+The Nation's law enforcement community has increasingly
+requested city-level information regarding crime victimizations
+and citizen attitudes. BJS and COPS undertook this study to
+examine how NCVS questions could be administered at a local
+level using the RDD methodology. The purposes of the project
+were to collect baseline data on city-level violent crime, to
+measure fear of crime and community attitudes toward
+neighborhoods and police, and to test the RDD methodology.  This
+ project explored how to use telephone surveys to provide needed
+information to police departments, citizens, and the criminal
+justice research community.
+
+------------------
+Violent crime 
+------------------
+
+----------------------------------------------------------------------------
+Residents age 12 or older in the 12 cities
+reported similar rates of violent victimizations
+ 
+City ranked by population per 1,000 population
+ 
+                  -95%     -90%     -67%    est       67%      90%      95%
+ 
+New York         59.4     4.16     8.51     13.2     13.2     8.51     4.16
+Los Angeles      47.1     2.83     5.79     8.97     8.97     5.79     2.83
+Chicago          50.8     2.76     5.66     8.78     8.78     5.66     2.76
+San Diego        46.5     2.64     5.41     8.38     8.38     5.41     2.64
+Washington, DC   43.7     2.58     5.28     8.19     8.19     5.28     2.58
+Tucson           58.4     3.72     7.61    11.81    11.81     7.61     3.72
+Kansas City      41.7     3.07     6.28     9.74     9.74     6.28     3.07
+Madison          53.4     2.73      5.6     8.68     8.68      5.6     2.73
+Spokane          46.8     3.23     6.62    10.26    10.26     6.62     3.23
+Knoxville        53.0     2.69     5.51     8.54     8.54     5.51     2.69
+Springfield      54.5     3.71      7.6    11.78    11.78      7.6     3.71
+Savannah         55.9     4.08     8.36    12.95    12.95     8.36     4.08
+ 
+Figure 1
+--------------------------------------------------------------------------------- 
+
+
+-----------------------------------------------------------------
+The data from the surveys in each city are based on a sample of
+households.  Therefore, the rates and numbers from each survey
+are estimates and are not exact.  Figure 1 shows the violent
+victimization rate for each city:  Each bar shows the range
+within which the true victimization rate is likely to fall for
+that city, and the dot represents the best estimate, the most
+likely value for the rate in each city. There is a greater
+likelihood that the true rate will fall near the best estimate,
+and the bars reflect that likelihood: The darker the bar
+segment, the greater the likelihood. 
+
+Even though the best estimates of the victimization rates differ
+between the cities, the bars overlap, meaning that it is
+possible that the actual numbers are the same.  Therefore the
+differences in the rates between cities may be too small to be
+statistically significant.  
+
+For example, the 68% probability ranges for violent crime rates
+in Washington, D.C., and Tucson do not overlap, indicating that
+the rates are statistically different for these cities at a 68%
+confidence level. However, at the more likely levels of 90% or
+95% of probability the rates in these two cities are not
+statistically different; the ranges do overlap.  Likewise, at
+the 95% level none of the cities surveyed had a violent crime
+rate significantly different from any of the other cities.
+
+For additional information about estimates from victimization
+sample surveys, see Displaying Violent Crime Trends Using
+Estimates from the National Crime Victimization Survey (NCJ
+167881).
+-----------------------------------------------------------------
+
+----------------------
+City-wide crime rates
+----------------------
+
+Violent crime
+
+The violent crime rate per 1,000 persons age 12 or older ranged
+from 60 to 85 across the 12 surveyed cities.
+
+In general the patterns and characteristics of violent crime
+found in the 12 cities did not differ greatly from those found
+among all urban areas surveyed in the National Crime
+Victimization Survey (NCVS)* (Source:  BJS, Criminal
+Victimization 1997, NCJ 173385, December 1998.)
+
+The 1997 violent crime rate for all urban areas across the
+Nation as measured by NCVS was 51 per 1,000 persons age 12 or
+older.
+
+Overall, black residents in the 12 cities experienced violent
+victimizations at a rate of 99 per 1,000 persons age 12 or older. 
+The violent crime rate for all white residents in the 12 cities was 
+61 per 1,000 (table 1).  
+
+-------------------------------------------------------------------------------------
+Table 1.  Criminal victimization in 12 cities, by race of victim, 1998
+
+                   Total           Violent crime (a) rates   Property crime (b) rates
+                   population      per 1,000 persons         per 1,000 households
+                   age 12 or older  All (c) White    Black   All (c)  White    Black
+ 
+    Total           14167416       75       61       99      326      311      387
+ 
+Chicago, IL          2237203       68       66       50      433      394      478
+Kansas City, MO       366351       61       58       58      331      293      465
+Knoxville, TN         138066       70       70       --      314      316      295
+Los Angeles, CA      2954058       65       62      114      347      308      503
+ 
+Madison, WI           164987       70       75       --      322      327      395
+New York, NY         6116941       85       55      123      260      255      311
+San Diego, CA         982314       63       64       --      308      300      416
+Savannah, GA          112349       81       75       91      445      437      440
+ 
+Spokane, WA           156428       67       60       --      411      398      953
+Springfield, MA       122501       78       69       85      365      349      468
+Tucson, AZ            380067       82       78       --      432      424      425
+Washington, DC        436151       60       52       67      445      513      383
+ 
+NCVS urban, 1997                   51                        310
+
+-- Fewer than 10 cases reported in survey.
+(a) Violent crimes include rape/sexual assault, robbery, and assault (aggravated and simple).
+(b) Property crimes include household burglary, motor vehicle theft, and
+theft (personal larceny without contact and household larceny).
+(c) Includes persons or household heads who are american Indian, Alaska Native, Asian or Pacific
+Islander, and of unknown race.
+------------------------------------------------------------------------------------------------
+
+Property crime
+
+The property crime rate per 1,000 households was 326 for all 12
+cities compared to the NCVS urban property crime rate of 310 per
+1,000.
+
+In the aggregate, black households in the 12 cities experienced
+property crime at a higher rate than white households. In total,
+387 per 1,000 black households compared to 311 
+per 1,000 white households were victims of property crime.
+
+Among the 12 cities, the difference in property crime
+victimization rates between white and black households varied. 
+In Los Angeles black households had a property crime
+victimization rate of 503 per 1,000 households, compared to 308
+per 1,000 white households.
+
+In Washington, DC, whites had a property crime victimization
+rate of 513 per 1,000 compared to 383 per 1,000 black households.
+
+Crimes reported to the police
+
+Across all 12 cities, 35% of violent crimes and property crimes
+were reported to the police (table 2). 
+
+-----------------------------------------------------------------------------------
+Table 2.  Victimizations reported to the police in 12 cities, 1998
+ 
+                                    Violent crimes (a)     Property crimes (b)
+                   Total                       Percent                Percent
+                   population       Number (c) reported    Number     reported
+                   age 12 or older( in 1000s)  to police  (in 1000s)  to police
+ 
+    Total               14167416       1056         35%    2369         34%
+ 
+Chicago, IL              2237203        152         38       489         38
+Kansas City, MO           366351         22         44        66         45
+Knoxville, TN             138066         10         41        23         43
+Los Angeles, CA          2954058        191         34       523         33
+ 
+Madison, WI               164987         12         36        28         37
+New York, NY             6116941        521         32       815         29
+San Diego, CA             982314         62         36       151         28
+Savannah, GA              112349          9         40        24         47
+ 
+Spokane, WA               156428         10         31        33         38
+Springfield, MA           122501         10         58        21         41
+Tucson, AZ                380067         31         42        86         44
+Washington, DC            436151         26         50       109         41
+ 
+(a) Violent crimes include rape/sexual assault, robbery,
+and assault (aggravated and simple).
+(b) Property crimes include household burglary, motor vehicle theft, and
+theft (personal larceny without contact and household larceny).
+(c) Does not include cases where reporting to police was unknown.
+-------------------------------------------------------------------------------------
+
+Within most cities the percentage of crimes reported to police
+did not differ significantly between violent crime and property
+crime.  Similarly across the Nation about a third of the crimes
+measured by the NCVS were reported to law enforcement
+authorities, according to the victims.
+
+Gender of victim
+
+In general, the rate of violent crime for men age 12 or older
+was higher than the rate for women.  Overall in the cities
+surveyed, about 93 per 1,000 men and 59 per 1,000 women were
+victims of violent crime (table 3).
+
+--------------------------------------------------------------------------------------
+Table 3.  Violent victimization rates in 12 cities, 
+by gender of victim, 1998
+  
+                                     Estimated
+                    Total            number of       Rate of violent victimizations
+                    population       violent         per 1,000 persons age 12 or older
+                    age 12 or older  victimizations  Total    Male     Female
+ 
+    Total               14167413    1056327           75       93       59
+ 
+Chicago, IL              2237202      152136          68       97       43
+Kansas City, MO           366352       22263          61       74       50
+Knoxville, TN             138065        9634          70       88       53
+Los Angeles, CA          2954058      191189          65       89       39
+ 
+Madison, WI               164988       11615       70       75       66
+New York, NY             6116940      521469       85      100       75
+San Diego, CA             982313       61844       63       69       57
+Savannah, GA              112349        9130       81       94       70
+ 
+Spokane, WA               156428       10470       67       71       63
+Springfield, MA           122500        9502       78       69       84
+Tucson, AZ                380067       30992       82      101       63
+Washington, DC            436151       26083       60       83       39
+ 
+Note:  Violent crimes include rape/sexual assault, robbery,
+and assault (aggravated and simple).
+---------------------------------------------------------------------------------------
+
+Men were victims of violent crime at over twice the rate of
+women in  Chicago, Los Angeles, and Washington, D.C.
+
+--------------------------------------------------------
+Using sample data
+
+Since the data in this report came from a sample, a sampling
+error (standard error) is associated with each reported number. 
+All differences discussed in the text are statistically
+significant at or above the 95%-confidence level.  As displayed
+in figure 1, the reader is cautioned that some apparent
+differences between and among the cities are not statistically
+significant.  
+
+All stated differences in the text are tested at the
+95%-confidence level.  Standard error tables for selected
+estimates are provided in Appendix II.
+--------------------------------------------------------
+
+Age of victim
+
+Although persons ages 12-19 in the 12 cities were 12% of the
+population surveyed, they were victims of 26% of the violent
+crime (not shown in a table). The oldest group, age 50 or older,
+made up 29% of the population but suffered 9% of the violent
+victimizations.  The remaining age groups, 20-34 and 35-49, both
+experienced violent crimes at levels consistent with their
+proportion of the population.
+
+
+Victimization experiences among the different age groups in each
+of the 12 cities were similar to that found by NCVS among the
+different age groups across the Nation.
+
+Weapon use
+
+The 12-city survey questionnaire asked the victims of violent
+crime for information about any weapons used during the incident.
+
+Violent crime victims in the 12 cities said the offender had a
+weapon in at least 20% of the incidents -- ranging to  46% in
+Savannah (table 4).
+
+-----------------------------------------------------------------------
+Table 4.  Percent of violent victimizations in which
+a weapon was used in 12 cities, 1998
+ 
+                 Estimated number
+                 of violent         Percent of violent victimizations
+                 victimizations     in which the offender--
+                 of residents                         Did not have
+                 age 12 or older    Had a weapon      a weapon
+ 
+    Total                 937454*       36%          64%
+ 
+Chicago, IL               139338        22           78
+Kansas City, MO            20018        20           80
+Knoxville, TN               8484        41           59
+Los Angeles, CA           166106        38           62
+ 
+Madison, WI                10871        32           68
+New York, NY              462166        41           59
+San Diego, CA              52903        26           74
+Savannah, GA                8443        46           54
+ 
+Spokane, WA                 8965        26           74
+Springfield, MA             8508        34           66
+Tucson, AZ                 26673        27           73
+Washington, DC             24979        36           64
+ 
+Note:  "Weapon" refers to a gun or knife, or something used as a
+weapon, such as a bottle or wrench.  Violent victimizations include
+rape/sexual assault, robbery, and assault (aggravated and simple).
+*Total number does not include victimizations in which the victim could
+not determine whether a weapon was present.
+-------------------------------------------------------------------------
+
+Victim-offender relationship
+
+Victims of violent crime were asked to describe any prior
+relationship they may have had with the offender such as being a 
+family member, spouse, intimate, nonrelative, or stranger.
+
+Among the total population in the 12 cities surveyed, victims of violent 
+crime were more likely to have been victimized by a stranger
+than by a nonstranger.  The percentage of violent victimizations
+in which the offender was a stranger ranged from 42% in Tucson
+to 74% in Los Angeles  (table 5).  
+
+-----------------------------------------------------------------------
+Table 5.  Violent victimizations committed by strangers
+and nonstrangers in 12 cities, 1998
+ 
+                Estimated number  Percent of violent
+                of violent        victimizations
+                victimizations                Involving
+                of residents      Involving   non-
+                age 12 or older   strangers   strangers
+ 
+    Total            989986          64%          36%
+ 
+Chicago, IL          143587          67           33
+Kansas City, MO       20644          47           53
+Knoxville, TN          9361          50           50
+Los Angeles, CA     181,892          74           26
+ 
+Madison, WI           10985          62           38
+New York, NY         483006          62           38
+San Diego, CA         60260          63           37
+Savannah, GA           8656          58           42
+ 
+Spokane, WA            9607          54           46
+Springfield, MA        9179          53           47
+Tucson, AZ            28492          42           58
+Washington, DC        24317          67           33
+ 
+Note:  Violent crimes include rape/sexual assault, robbery, and assault
+(aggravated and simple).  Table does not include victimizations in
+which the victim could not determine the number of offenders or
+whether the offender(s) was a stranger or known by the victim.
+------------------------------------------------------------------------
+
+In the smaller cities (populations below 200,000) the percentage
+of violent victimizations committed by a stranger was below the
+aggregate level for all 12 cities.
+
+Black victims of violent crimes reported similar percentages of
+incidents involving strangers and known offenders.  Overall,
+white victims were more often victimized by a stranger (table 6).
+
+------------------------------------------------------------------------------------
+Table 6.  Violent victimizations committed by strangers
+or nonstrangers in 12 cities, by race of victim, 1998
+ 
+                 White victims age 12 or older        Black victims age 12 or older
+                 Estimated                            Estimated
+                 number of                 Involving  number of                 Involving
+                 violent        Involving  non-       violent        Involving  non-
+                 victimizations strangers  strangers  victimizations strangers  strangers
+ 
+    Total             493494         68%      32%       329319         48%       52%
+ 
+Chicago, IL             78731         63       37        36347         52        48
+Kansas City, MO         14244         57       43           --         --        --
+Knoxville, TN            8607         51       49           --         --        --
+Los Angeles, CA        111358         77       23        49254         64        36
+ 
+Madison, WI             11022         62       38           --         --        --
+New York, NY           170099         73       27       209224         43        57
+San Diego, CA           47524         63       37           --         --        --
+Savannah, GA             4746         55       45         4118         61        39
+ 
+Spokane, WA              8570         54       46           --         --        --
+Springfield, MA          5880         64       36         2191         31        69
+Tucson, AZ              23612         40       60           --         --        --
+Washington, DC           9101         82       18        14371         58        42 
+ 
+Note:  Violent crimes include rape/sexual assault, robbery, and assault (aggravated and
+simple).  Table does not include victimizations in which the victim could not determine the
+number of offenders or whether the offender(s) was/were stranger(s) or known by the victim.
+Zero indicates no cases in the sample.
+--  Fewer than 10 cases reported in survey.
+--------------------------------------------------------------------------------------------
+
+Race of offender
+
+Annual findings from the NCVS have indicated that most violent
+crimes across the Nation involve victims and offenders of the
+same race.  This pattern was also the case in nearly all the 12
+cities where data permitted analysis.
+
+Black victims of violent crime committed by a single offender,
+most often identified the offender as also being black.  Across
+all 12 cities 84% of single-offender incidents committed against
+a black victim were committed by a black offender (table 7).
+
+--------------------------------------------------------------------------------------------------
+Table 7.  Single-offender violent victimization, by perceived race of offender in 12 cities, 1998
+ 
+                 Estimated
+                 number of
+                 single-offender   White victims age 12 or older         Black victims age 12 or older
+                 violent           White     Black    Other              White    Black    Other
+                 victimizations    offender  offender offender Unknown   offender offender offender  Unknown
+ 
+    Total                727826        59%     22%       15%    3%          6%      84%      7%      3%
+ 
+Chicago, IL              115355        41      31        22     6           5       70      17       7
+Kansas City, MO           16533        69      23         5     3          --       --      --      --
+Knoxville, TN              8568        70      25         3     2          --       --      --      --
+Los Angeles, CA          134988        67      13        21     0           8       78      14       0
+ 
+Madison, WI                9394        77      15         6     2          --       --      --      --
+New York, NY             339065        63      26         9     2           4       90       3       3
+San Diego, CA             43802        55      20        13    11          --       --      --      --
+Savannah, GA               6343        50      47         3     0           7       88       5       0
+ 
+Spokane, WA                6818        78       3        17     2          --       --      --      --
+Springfield, MA            5692        50      33        15     2          21       65      11       4
+Tucson, AZ                20702        68       4        28     0          --       --      --      --
+Washington, DC            20566        38      47        12     3          0        85       4      11
+ 
+Note:  Violent crimes include rape/sexual assault, robbery, and assault (aggravated and simple).
+Zero indicates no cases in the sample.  Table does not include victimizations in which the victim
+could not determine the number of offenders or whether the offender(s) was/were stranger(s) or known 
+by the victim.
+-- Fewer than 10 cases reported in survey.
+------------------------------------------------------------------------------------------------------------
+
+Overall, white victims of violent crime committed by a single
+offender most frequently identified whites as their offenders. 
+In most of the cities, white victims reported at least half of
+the single-offender violent crime incidents were committed by
+whites.
+
+--------------------------------------------------------
+Measuring local violent crime
+
+Citizen surveys provide a useful tool to collect crime
+victimization data. The 12-city survey was designed to obtain
+total violent crime estimates.  The survey used the current
+National Criminal Victimization Survey (NCVS) questionnaire with
+a series of supplemental questions measuring the residents'
+attitudes toward crime, their neighborhood, and local police
+activities.  
+
+Another source of crime data is the Uniform Crime Reports (UCR)
+based on crimes that are known to the police.  
+
+Each year through the UCR program, the FBI presents crime
+statistics for the Nation as a whole as well as for cities.
+These data are compiled from monthly law enforcement reports or
+individual crime incident records. 
+
+The 12-city local victimization survey collected data for all
+victimizations, whether reported to the police or not. The UCR
+data are only incidents reported to the police. NCVS data are
+collected only from residents age 12 or older; UCR data are for
+victims of all ages.
+
+To compare the UCR and NCVS data, only the NCVS incidents that
+the respondents said were reported to the police were used.  To
+adequately compare NCVS findings with the UCR, common crime
+definitions have to be used as well.
+
+Violent crime data from the NCVS  comparable to UCR crimes
+include rape, robbery, and aggravated assault.  Because of
+differences in methodological procedures, the NCVS and UCR data
+are not strictly comparable, but the table does show generally
+similar results.  
+
+Overall, the violent crime rate for robbery and aggravated
+assault reported in the 12-city survey is similar to that found
+in the UCR.  There were some differences in the two reported
+crime rates for each city. The UCR violent crime rate was higher
+than the city-level survey rate in Chicago and Springfield,
+while in Savannah and Madison the UCR rate was lower.
+
+Violent crime measures in the 12 cities, 1997-98
+ 
+                       Rapes, robberies, and  Total robberies, rapes,
+                       aggravated assaults    and aggravated
+                       reported to the police assaults reported    Crimes reported to the police
+                       per 1,000 persons/a    to the police               Robbery/a       Aggravated assault
+                       City-level             City-level           City-level             City-level
+                       survey     1997 UCR    survey     1997 UCR  survey      1997 UCR   survey   1997 UCR
+ 
+    All 12 cities            14       15       200128     253031    75893       104146   122444   143574
+ 
+Tucson, AZ                   13       10         5125       5066     1518         1446     3607     3329
+Los Angeles, CA              12       16        36731      55962    16464        20506    20267    34043
+San Diego, CA                10        8        10092       9722     4237         2604     4635     6734
+Savannah, GA                 19        8         2100       1146      521          620     1539      465
+ 
+Chicago, IL /b,c             10       22        21325      61808    13112        25289     8213    36519
+Kansas City, MO              13       19         4779       8469     1559         2711     2931     5341
+Springfield, MA/d            24       31         2962       4637     1137          473     1583     4078
+New York, NY                 17       13       105050      92093    30808        44707    74242    45229
+ 
+Knoxville, TN                16        8         2156       1486     1125          545     1031      844
+Spokane, WA                   7        7         1048       1383      393          406      655      871
+Madison, WI                  13        4         2199        854      522          340     1677      433
+Washington, DC               15       20         6561      10405     4497         4499     2064     5688
+ 
+Note:  Violent crimes include rapes, robberies, and aggravated assaults which were reported to the police
+NCVS urban violent crime rate for 1997 was 51 per 1,000 persons age 12 or older.
+a/UCR robbery includes commercial robberies.  In 1997 approximately 75% of robberies known
+to the police were residential robberies.
+b/Complete data were not available for the State of Illinois; therefore it was necessary that their crime 
+counts be estimated.
+c/Forcible rape figures furnished by the State-level UCR program administered by the Illinois Department
+of State Police were not in accordance with national UCR guidelines.  Therefore, the figures were excluded
+from the forcible rape category.
+d/Due to reporting changes or annexations, UCR figures are not comparable to previous years.
+Source:  FBI, Uniform Crime Reports, Crime in the United States 1997.
+--------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------
+Homicide rates for 12 cities, 1985-97
+
+Nationally, the homicide rate rose in the late 1980's and early
+1990's to a peak of 9.8 per 100,000 persons in 1991.  By 1997
+the rate had declined to 6.8 per 100,000 persons.
+
+During the 1990's 10 of the 12 cities experienced a decrease in
+the murder rates per 100,000 persons.
+
+Graph:  Homicide victimization rates 
+for cities over 100,000 population, 1976-97
+ 
+City size     One
+              Million  500K - 250K - 100K -
+              and over 999K   499K   249K
+    1976        20.9   19.5   16.5   11.3
+    1977        24.1   18.1   16.4   11.6
+    1978        25.4   19.4   16.7   11.0
+    1979        28.8   21.7   18.6   12.0
+    1980        30.9   21.3   22.1   13.0
+    1981        28.2   22.2   22.0   14.3
+    1982        26.5   19.4   19.1   12.8
+    1983        27.0   17.2   16.3   10.7
+    1984        25.5   18.5   16.1   11.7
+    1985        24.8   17.9   17.2   11.4
+    1986        24.1   18.4   19.8   12.7
+    1987        22.9   20.1   16.3   11.7
+    1988        28.2   20.3   17.7   12.7
+    1989        28.8   23.8   18.3   13.2
+    1990        31.9   24.6   21.7   14.1
+    1991        35.5   24.1   22.4   14.9
+    1992        31.1   22.9   20.1   13.2
+    1993        29.9   22.5   25.1   14.6
+    1994        26.3   19.7   24.0   15.0
+    1995        22.5   21.1   24.4   13.2
+    1996        21.6   15.7   21.1   11.9
+    1997        20.3   19.0   20.4   12.6
+ 
+Source: FBI, Supplementary Homicide Reports, 1976-97.
+See the methodology section in Additional Information About
+the Data for weighting and imputation procedures used.
+
+                                  Murder rate per 100,000                                      Percent change  Percent change
+                                                                                               in rate         in rate 
+                 1985  1986  1987  1988  1989  1990  1991  1992  1993  1994  1995  1996 1997   1985-1997       1990-1997
+ 
+Chicago          22.2  24.8  22.9  22.0  24.8  30.6  32.9  33.1  30.3  33.1  30.0  28.6  27.4       23.4%      -10.5%
+Kansas City      20.5  25.9  29.5  29.9  31.8  27.8  30.8  34.0  35.1  32.3  24.0  23.2  22.1        7.8       -20.5
+Knoxville         9.1  16.4  11.4  12.0  15.0  15.1  20.9  20.6   8.2  13.9  11.0  13.2  10.8       18.7       -28.5
+Los Angeles      24.4  25.6  24.3  21.6  25.5  28.2  28.9  30.3  30.5  23.8  24.5  20.3  16.3      -33.2       -42.2
+ 
+Madison           2.3   1.8   3.4   3.4   3.9   1.6   1.0   1.5   1.0   2.0   2.5   0.5   1.5      -34.8        -6.3
+New York         19.3  22.0  23.0  25.8  25.8  30.7  29.3  27.1  26.5  21.3  16.1  13.4  10.5      -45.6       -65.8
+San Diego         9.7  10.1   9.2  13.4  11.0  12.2  14.7  12.7  11.5   9.7   7.9   6.8   5.7      -41.2       -53.3
+Savannah         26.3  19.1  16.0  12.6  13.5  24.0  42.0  16.0  23.3  20.0  18.8  15.0  18.1      -31.2       -24.6
+ 
+Spokane           5.1   5.6   9.1   5.7   5.1   4.5   3.8   6.4   6.8   3.6  11.7   7.5   5.4        5.9        20.0
+Springfield      11.9   4.0   5.3   6.7   4.6   8.3   8.3   8.3  13.0  10.3  12.7   8.0   6.0      -49.6       -27.7
+Tucson            8.4  10.3   6.1   8.1    --   7.4   5.8   9.9  10.3   8.4  14.4   9.7  10.3       22.6        39.2
+Washington, DC   23.5  31.0  36.2  59.5  71.9  77.8  80.6  75.2  78.5  70.0  65.0  73.1  56.9      142.1       -26.9
+ 
+ -- Did not report
+Source:  FBI, Uniform Crime Reports, Crime in the United States 1985-97.
+------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------
+Community perceptions
+----------------------
+
+Graph:  Percent of residents who said they were
+fearful of crime in their city or neighborhood,
+or of being a victim of street crime, 1998
+ 
+                 
+                                           Fear of being     
+                        Fear of crime      A victim of       Fear of crime 
+                        In city            Street crime      In neighborhood     
+
+Los Angeles, CA              0.797            0.592             0.438
+Springfield, MA              0.767            0.46              0.452
+Washington, DC               0.738            0.511             0.477
+Chicago, IL                  0.735            0.527             0.477
+Kansas City, MO              0.728            0.413             0.326
+Savannah, GA                 0.726            0.426             0.325
+Percent for all sites        0.708            0.523             0.416
+Tucson, AZ                   0.703            0.403             0.401
+New York, NY                 0.683            0.541             0.418
+Knoxville, TN                0.624            0.352             0.3
+Spokane, WA                   0.62            0.307             0.323
+San Diego, CA                0.576            0.417             0.295
+Madison, WI                   0.36            0.247             0.199
+-----------------------------------------------------------------------
+
+
+----------------------------------------------------------------
+Population age 16 or older in 12 cities, by race, 1998
+
+The survey questions on community attitudes were asked only of 
+those residents age 16 or older.  City populations differed in
+size and racial composition.  The number of residents age 16 or
+older varied from about 100,000 to more than 5 million.  The
+proportion of the black population in the 12 cities ranged from
+2% in Spokane to 53% in Washington, D.C:
+
+                                    Percent of total population 
+                                    age 16 or older
+                         Total      White    Black   Other*
+ 
+    Total             13252672      61%      23%      16%
+ 
+Chicago, IL            2085056      57       32       11
+Kansas City, MO         349260      74       21        5
+Knoxville, TN           130144      90        8        2
+Los Angeles, CA        2810891      63       14       22
+ 
+Madison, WI             157983      91        4        6
+New York, NY           5661180      55       28       17
+San Diego, CA           925803      76        6       18
+Savannah, GA            104495      58       39        3
+ 
+Spokane, WA             145476      93        2        5
+Springfield, MA         110791      71       21        8
+Tucson, AZ              359000      83        4       13
+Washington, DC          412593      41       53        6
+ 
+*Includes Asian, Pacific Islander and American Indian, Aleut, and Eskimo.
+-----------------------------------------------------------------------
+
+-----------------------------
+Community attitudes
+----------------------------
+
+The neighborhood
+
+About 80% or more of the residents in each of the 12 cities said
+they were satisfied with the quality of life in their
+neighborhood.  Few residents, 6% or less in any of the 12
+cities, were "very dissatisfied" with their neighborhood (table
+8).
+
+---------------------------------------------------------------------------------------------
+Table 8.  Residents in 12 cities, by degree of satisfaction with the quality of
+of life in their neighborhood, 1998
+ 
+                Estimated                      Percent of residents age 16 or older
+                number of                  Satisfied                   Dissatisfied
+                residents age          Very                         Dis-        Very
+                16 or older     Total  Satisfied Satisfied   Total  satisfied   Dissatisfied
+ 
+Total           12577831         83%     26%     57%         17%      13%          4%
+ 
+Chicago, IL      1983510         81      22      59          19       14           5
+Kansas City, MO   343658         90      36      55          10        7           3
+Knoxville, TN     122785         93      44      49           8        6           1
+Los Angeles, CA  2730287         82      27      55          18       14           3
+ 
+Madison, WI       152422         96      55      41           4        3           1
+New York, NY     5242943         81      21      60          19       13           6
+San Diego, CA     911275         94      45      49           6        5           2
+Savannah, GA       98293         88      29      59          12       10           2
+ 
+Spokane, WA       142410         91      37      54           9        7           1
+Springfield, MA   104039         80      20      59          20       14           6
+Tucson, AZ        352640         89      31      58          11        8           2
+Washington, DC    393569         79      26      53          21       17           4
+ 
+Note: Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Question: "How satisfied are you with the quality of life in your neighborhood?
+Are you very satisfied, satisfied, dissatisfied, or very dissatisfied?
+-----------------------------------------------------------------------------------------
+
+Less than half the residents in each of the cities were fearful
+of crime in their neighborhood (table 9).  Fewer than 1 in 10 in
+each of the cities said they were "very fearful."
+
+-----------------------------------------------------------------------------------------
+Table 9.  Residents in 12 cities, by degree of fear of neighborhood crime, 1998
+ 
+                Estimated                    Percent of residents age 16 or older
+                number of             Fearful                         Not fearful
+                residents age           Very     Somewhat           Not Very  Not at all
+                16 or older    Total    Fearful  Fearful    Total   Fearful   Fearful
+
+Total           12597016         42%      7%       35%      58%       37%     22%
+ 
+Chicago, IL      1985495         48       9        39       52        34      18
+Kansas City, MO   343285         33       4        28       67        43      25
+Knoxville, TN     122814         30       3        27       70        41      29
+Los Angeles, CA  2761158         44       8        36       56        36      20
+ 
+Madison, WI       152269         20       1        19       80        46      34
+New York, NY     5236728         42       7        35       58        36      22
+San Diego, CA     907779         30       3        27       71        44      27
+Savannah, GA       97239         33       5        28       68        39      29
+ 
+Spokane, WA       142194         32       3        30       68        39      28
+Springfield, MA   105135         45       9        36       55        34      20
+Tucson, AZ        353347         40       5        35       60        37      23
+Washington, DC    389573         48       7        40       52        34      18
+ 
+Note: Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Question: "How fearful are you about crime in your neighborhood?
+Are you very fearful, somewhat fearful, not very fearful, or not at all fearful?"
+------------------------------------------------------------------------------------
+
+Residents who said they were very or somewhat fearful of crime
+in their neighborhood were asked if their level of fear had
+changed at all over the past 12 months (table 10).
+
+---------------------------------------------------------------------------------
+Table 10.  Residents in 12 cities who expressed fear of neighborhood 
+crime, by whether their level of fear had changed, 1998
+ 
+                  Estimated                 In the previous 12 months
+                  Number of                 fear of crime in neighborhood-
+                  Residents age   Total                            Stayed the
+                  16 or older     Percent  Increased  Decreased    Same
+
+Total                5210677      100         19%       8%          73%
+ 
+Chicago, IL           941366      100         25        8           68
+Kansas City, MO       110958      100         25        6           69
+Knoxville, TN          36783      100         34        4           61
+Los Angeles, CA      1202378      100         18        6           76
+ 
+Madison, WI            30125      100         24        8           68
+New York, NY         2173941      100         15       10           75
+San Diego, CA         266251      100         19        9           72
+Savannah, GA           31219      100         23        6           71
+ 
+Spokane, WA            45586      100         31        7          62
+Springfield, MA        47128      100         41        3          57
+Tucson, AZ            140334      100         26        7          67
+Washington, DC        184608      100         15       10          75
+ 
+Note: Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Asked only of those who indicated they were "somewhat fearful" or "very fearful"
+of crime in their neighborhood.
+Question: "Over the past 12 months, have your fears increased, decreased,
+or stayed the same?"
+--------------------------------------------------------------------------------
+
+The majority of residents who were fearful of crime said their
+fear of neighborhood crime had not changed over the past 12
+months.  Each of the 12 cities generally had few residents (10%
+or less) who thought their fear of crime had decreased over the
+past year.
+
+Neighborhood crime
+
+Between a quarter and a half of the residents in the 12 cities
+indicated that a serious crime had occurred in their
+neighborhood over the past 12 months.  About 10% in each city
+said they were not aware of the crime situation in their
+neighborhood.  In Chicago, New York, and Washington, DC, over
+40% said they were aware of a serious crime that had taken place
+in their neighborhood (table 11).
+
+-------------------------------------------------------------------------
+Table 11.  Residents in 12 cities who said serious crime 
+had occurred in their neighborhood, 1998
+ 
+                  Estimated
+                  number of              Percent of residents
+                  residents age  Reporting      Not reporting  Not aware
+                  16 or older    serious crime  serious crime  of crime
+
+Total               11918619          39%            50%           11%
+ 
+Chicago, IL          1909191          43            46            11
+Kansas City, MO       329112          32            57            11
+Knoxville, TN         118901          28            62            10
+Los Angeles, CA      2581393          33            53            13
+ 
+Madison, WI           149970          29            64             7
+New York, NY         4909999          43            47            10
+San Diego, CA         872268          32            57            11
+Savannah, GA           95515          27            64             9
+ 
+Spokane, WA           139095          32            57            12
+Springfield, MA       101425          36            56             8
+Tucson, AZ            342385          31            55            14
+Washington, DC        369365          50            44             7
+ 
+Note:  Don't know responses and refusals to answer are excluded from
+Detail may not add to total because of rounding.
+Question: "To the best of your knowledge, have any serious crimes
+occurred in your neighborhood in the past 12 months?"
+-----------------------------------------------------------------------
+
+Residents who said they were aware of serious crimes in their
+neighborhood were asked to identify the types of serious crimes
+which had occurred in their neighborhood over the past 12
+months.  Overall, the same proportion of all residents (about
+20%) identified theft of personal property, burglary, auto
+theft, violent attacks, and gun crimes as the types of crimes
+which had occurred in their neighborhood (table 12).
+
+-------------------------------------------------------------------------------------------------------------------
+
+Table 12.  Types of crime which residents said occurred in their neighborhood, 1998
+ 
+                Estimated               Percent of all residents who identified a type of serious crime which
+                Number of               had occurred in their neighborhood
+                residents age   Open drug  Open drug  Auto    Theft/             Violent           Sexual
+                16 or older     sales      use        theft   property Burglary  attacks Gun crime assault  Murder
+ 
+Total              12844374          16%     14%        19%     21%     20%        19%     19%        9%     15%
+ 
+Chicago, IL         2025146          19      15         21      26      25         24      26        11      21
+Kansas City, MO      339739           9       8         13      20      20         11      11         4       7
+Knoxville, TN        128081           7       6          8      16      17          7       7         5       5
+Los Angeles, CA     2725774          13      10         17      17      18         14      17         5      11
+ 
+Madison, WI          155411           7       7         4       14      13         12      11         7       5
+New York, NY        5462528          18      17        20       21      21         22      19        12      16
+San Diego, CA        910853          10      10        16       17      16         13      12         5       8
+Savannah, GA         103766           9       7        10       15      15          9      10         3       9
+ 
+Spokane, WA          141797          10       8         8       19      18         11      10         4       8
+Springfield, MA      108368          17      14        17       18      17         17      14        10      19
+Tucson, AZ           349234          10       7        11       19      18         11      13         3       7
+Washington, DC       393677          22      17        26       32      27         24      27        12      19
+ 
+Note: Don't know responses and refusals to answer are excluded from analysis.  Estimated number of respondents
+age 16 or older represents the largest category.  The total number of respondents varies by each response
+category.  Total exceeds 100% due to multiple responses.  Asked only of those residents who said they knew of
+serious crimes  which had occurred in their neighborhood in the past 12 months.
+Question: "Which of the following types of serious crimes do you know to have occurred in your neighborhood in
+the past 12 months -- people openly selling drugs, people openly using drugs, auto theft, theft of personal
+property, breaking and entering to steal personal property, violent physical attacks, crimes committed with guns
+sexual assault/rape, murder."
+------------------------------------------------------------------------------------------------------------------
+
+About a fifth of all the residents in Chicago, Springfield, and
+Washington, D.C. said they were aware of a murder in their
+neighborhood. One of the serious crimes which people said they
+were least aware of was sexual assault.
+
+Residents in the 12 cities who said they were aware of serious
+crimes in their neighborhood were asked how they found out about
+these crimes.
+
+In most of the cities residents primarily received information
+about serious neighborhood crime either from attending a
+community meeting or from the media.  Few residents said they
+became aware of serious crime from the police (table 13). 
+
+------------------------------------------------------------------------------------
+Table 13.  Sources of information for residents in 12 cities on serious 
+crimes that had occurred in their neighborhood, 1998
+ 
+                                     Percent of all residents who identified sources
+                                     of information on serious neighborhood crime
+                 Estimated      Resident
+                 number of      was victim Wit-    Neighbor-
+                 residents age  or knew    nessed  hood                      Other
+                 16 or older    victim     crime   meeting   Police   Media  ways
+
+Total            13252673          5%         7%      20%      4%     16%      5%
+ 
+Chicago, IL       2085055          6          7       23       4      19       5
+Kansas City, MO    349260          4          4       20       4      11       4
+Knoxville, TN      130143          6          3       17       2      10       2
+Los Angeles, CA   2810892          4          6       17       5      10       5
+ 
+Madison, WI        157985          3          3       14       2      19       3
+New York, NY      5661180          5          7       22       4      17       5
+San Diego, CA      925803          4          5       16       3      13       5
+Savannah, GA       104494          5          5       15       2       9       2
+ 
+Spokane, WA        145476          5          4       17       3      13       4
+Springfield, MA    110792          4          5       18       2      22       4
+Tucson, AZ         359001          5          5       17       3      10       5
+Washington, DC     412592          6          8       29       7      23       6
+ 
+Note:  Estimated number of  respondents age 16 or older represents largest category.
+Other ways" include "received information through a public kiosk/terminal
+or by visiting a police substation."  Residents could provide more than one source
+of information.
+Asked only of those residents who said they knew the type of serious crimes which had 
+occurred in their neighborhood in the past 12 months.
+Question: "How did you find out about these crimes?"
+--------------------------------------------------------------------------------------
+
+Among all residents in each city, about two-thirds or more said
+they were well-informed about crimes which occurred in their
+neighborhood (table 14).
+
+--------------------------------------------------------------------------
+Table 14.  Residents in 12 cities, by whether they considered 
+themselves well informed about crime in their neighborhood, 1998
+ 
+                    Residents age 16 or older
+                                Percent
+                    Estimated   well-informed
+                    number      about crime
+
+Total               11921692        65%
+ 
+Chicago, IL          1898138        63
+Kansas City, MO       327390        73
+Knoxville, TN         117730        80
+Los Angeles, CA      2602552        65
+ 
+Madison, WI           144760        76
+New York, NY         4943781        62
+San Diego, CA         845649        70
+Savannah, GA           93999        79
+ 
+Spokane, WA           134994        76
+Springfield, MA       101724        75
+Tucson, AZ            338095        70
+Washington, DC        372880        69
+ 
+Note:  Don't know responses and refusals to answer are 
+excluded from analysis.
+Question: "Overall, do you think you are well-informed 
+of crime which occurs in your neighborhood?"
+--------------------------------------------------------------------------
+
+Neighborhood conditions
+
+The 12-city survey asked residents about a series of conditions
+and activities which may have existed in their neighborhood. 
+Residents said a variety of conditions existed in their
+neighborhood (table 15).  These conditions included abandoned
+buildings and cars, poor lighting, trash, and empty lots.  At
+least a fifth of the residents in each city mentioned "poor
+lighting" as a condition which existed in their neighborhood.  
+
+-------------------------------------------------------------------------------------------------
+Table 15.  Residents in 12 cities who identified conditions which existed in their neighborhood,
+ 
+                 Estimated      Percent of all residents age 16 or older who identified 
+                 number of      Abandoned
+                 residents age  cars/         Rundown    Poor     Overgrown
+                 16 or older    Building      Buildings  Lighting Shrubs/Tree  Trash   Empty Lots
+
+Total               12696240        22%            21%      27%       18%       23%      19%
+ 
+Chicago, IL          2008041        28             28       23        18        26       25
+Kansas City, MO       344544        17             19       29        19        18       19
+Knoxville, TN         123236        12             14       24        23        13       21
+Los Angeles, CA      2763084        20             18       29        23        16       19
+ 
+Madison, WI           151562         9             10       27        19        14       10
+New York, NY         5305779        23             21       25        14        30       18
+San Diego, CA         906290        11             11       27        20        11       14
+Savannah, GA           98425        16             17       22        19        15       18
+ 
+Spokane, WA           142270        18             17       28        22        15       21
+Springfield, MA       104572        26             28       27        21        22       19
+Tucson, AZ            354785        18             19       50        26        17       27
+Washington, DC        393652        34             30       29        23        30       18
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis.  Estimated number
+age 16 or older represents largest category.  The total number of respondents varies by each 
+respondents varies by each response category.  Total exceeds 100% due to multiple responses.
+Question: "Do any of the following conditions or activities exist in your neighborhood -- abandoned
+and/or buildings, rundown/neglected buildings, poor lighting, overgrown shrubs/trees, trash, empty lots?"
+---------------------------------------------------------------------------------------------------------
+
+Neighborhood activities 
+
+Residents were also asked about various activities which may
+have been present in their neighborhood.
+
+Residents frequently said panhandling, vandalism, loitering and
+public drinking/drug use existed in their neighborhood (table
+16).  In three cities about half said there was loitering in
+their neighborhood.
+
+--------------------------------------------------------------------------------------------------------------------------
+Table 16.  Residents in 12 cities who identified activities which existed 
+in their neighborhood, 1998
+ 
+                                                   Percent of all residents age 16 or older who identified-
+                Estimated                                                                                      Transients/
+                number of       Public                                            Pan-                         homeless
+                residents age   drinking or Public     Vandalism                  handling/                    sleeping
+                16 or older     drug use    Drug sales or graffiti  Prostitution  begging  Loitering  Truancy  on street
+
+Total              12696240         29%      24%             40%          10%       35%      43%       28%      29%
+ 
+Chicago, IL         2008041         35       30              47           14        41       50        29       26
+Kansas City, MO      344544         18       14              18            5         9       20        19        5
+Knoxville, TN        123236         11        9              17            4         8       13        14        7
+Los Angeles, CA     2763084         24       20              42           12        39       36        24       35
+ 
+Madison, WI          151562         19       10              25            2        11       24        20        8
+New York, NY        5305779         33       28              42           10        36       52        33       31
+San Diego, CA        906290         19       13              33            7        28       31        21       27
+Savannah, GA          98425         19       16              15            5        13       24        19        9
+ 
+Spokane, WA          142270         18       12              29            4         9       16        19        6
+Springfield, MA      104572         25       22              27            7        13       31        29        7
+Tucson, AZ           354785         20       14              50            3        25       26        24       22
+Washington, DC       393652         35       31              29           12        46       51        23       32
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis.  Estimated number of residents
+age 16 or older represents largest category.  The total number of respondents varies by each response category.
+Total exceeds 100% due to multiple responses.
+Question: "Do any of the following conditions or activities exist in your neighborhood  illegal public
+drinking/public drug use, public drug sales, vandalism or graffiti, prostitution, panhandling/begging,
+loitering/hanging out, truancy/youth skipping school, transients/homeless sleeping on benches, streets?"
+-------------------------------------------------------------------------------------------------------------------------
+
+Residents who identified a neighborhood condition or activity
+were asked if any of  these conditions or activities made them
+feel less safe in their  neighborhood, and if so, which one
+impacted their feeling of safety the most.  
+
+Not all the residents felt that the existence of these specific
+conditions or activities affected their perception of public
+safety.  For example, between 17% and 36% of all the residents
+in each city said the conditions or activities made them feel
+less safe (table 17).  Across the cities, public drug use,
+loitering and poor lighting were among the conditions that
+affected residents' sense of safety  (table 18).
+
+---------------------------------------------------------------
+Table 17.  Residents in 12 cities who said a condition/
+activity made them feel less safe in their neighborhood, 1998
+ 
+ 
+                   Residents age 16 or older
+                   Estimated
+                   Number of       Percent of
+                   Residents       Residents
+Total               13079428         30%
+ 
+Chicago, IL          2068756         36
+Kansas City, MO       344883         20
+Knoxville, TN         129673         17
+Los Angeles, CA      2773663         33
+ 
+Madison, WI           157241         17
+New York, NY         5561217         29
+San Diego, CA         922216         22
+Savannah, GA          104178         20
+ 
+Spokane, WA           143562         20
+Springfield, MA       109860         24
+Tucson, AZ            354856         30
+Washington, DC        409323         35
+ 
+Note: Don't know responses and refusals to answer 
+are excluded from analysis.  Asked only of those who
+identified a condition or activity that existed in 
+their neighborhood.
+Questions:  "Do any of the conditions you just 
+mentioned make you feel less safe in your neighborhood?"
+--------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Table 18.  Residents in 12 cities who identified activities or conditions 
+that made them feel less safe, by which most affected their feeling of safety, 1998
+ 
+                     Estimated     Percent of residents who identified a condition or an activity which most affected their safety
+                     number of                 Open
+                     residents age  Poor       drinking and Open
+                     16 or older    lighting   drug use     drug sales Vandalism  Loitering  Other*
+Total                3594640            8%       15%             17%        8%     21%       33%
+ 
+Chicago, IL           678739            5        13              22        11      24        24
+Kansas City, MO        62586           28        14              14        11      13        20
+Knoxville, TN          19858           23         9              16        14      12        21
+Los Angeles, CA       844194            9        12              10        14      16        41
+ 
+Madison, WI            25546           20        17              13         7      14        28
+New York, NY         1481001            4        18              19        --      26        30
+San Diego, CA         188931           21        11               8        12      12        35
+Savannah, GA           18939           13        16              18        --      20        30
+ 
+Spokane, WA            26073           17        16              16        17      11        22
+Springfield, MA        23917           13        19              23         7      21        16
+Tucson, AZ             96310           22        11               9        15      11        33
+Washington, DC        128546            9        15              22        --      20        33
+ 
+Note:  Don't know responses and refusals to answer are excluded from table.   Asked only of
+those who identified a condition/activity that existed in their neighborhood and said it affected 
+their feeling of safety.  The total number of respondents varies by each response category.  
+Detail may not add to total because of rounding.
+--Fewer than 10 respondents."
+Question: "Which one of the conditions just mentioned affects your feeling of safety the most?"
+*"Other" includes prostitution, panhandling, truancy, transients/homeless sleeping in public,
+abandoned cars, rundown buildings, overgrown trees, and trash.
+----------------------------------------------------------------------------------------------------
+
+
+Residents in Los Angeles, San Diego, and Tucson who had
+identified a condition frequently said transients and the
+homeless sleeping in public were problems that made them feel
+less safe (not shown in table).  Few respondents in any of the
+12 cities mentioned abandoned cars, trash, abandoned buildings,
+overgrown trees, or empty lots as most affecting their feeling
+of safety.
+
+---------------------------------------
+Residents' attitudes toward their city
+---------------------------------------
+
+Residents were asked about the conditions of their city and
+about their perceived risk of becoming a victim of street crime
+in the city.
+
+A majority of the residents in each of the 12 cities said they
+were "satisfied" or "very satisfied" with the quality of life in
+the city.  This ranged from 56% in Los Angeles  to 95% in
+Madison (table 19). 
+
+-----------------------------------------------------------------------------------------------
+Table 19.  Residents in 12 cities, by degree of satisfaction with the 
+quality of life in their city, 1998
+ 
+                Estimated                 Percent of satisfaction with quality of life
+                number of                       Satisfied                   Dissatisfied
+                residents age             Very                         Dis-       Very
+                16 or older       Total   satisfied Satisfied   Total  satisfied  dissatisfied
+Total               12395789       69%       12%       58%        31%      24%      7%
+ 
+Chicago, IL          1975488       68        13        56         32       26       6
+Kansas City, MO       337584       70        11        59         30       23       7
+Knoxville, TN         121924       85        28        57         15       13       2
+Los Angeles, CA      2710225       56         7        50         44       33      11
+ 
+Madison, WI           152124       95        46        48          6        5       1
+New York, NY         5114424       72         9        63         28       22       6
+San Diego, CA         900796       90        32        58         10        8       2
+Savannah, GA           97114       71        13        58         29       22       7
+ 
+Spokane, WA           140965       81        21        60         19       17       2
+Springfield, MA       102836       57         4        53         43       35       9
+Tucson, AZ            353262       78        17        61         22       17       4
+Washington, DC        389047       59         8        50         41       32      10
+   
+Note: Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Question: "How satisfied are you with the quality of life in your city?
+Are you very satisfied, satisfied, dissatisfied, or very dissatisfied?"
+--------------------------------------------------------------------------------------------
+
+About a third or more of the residents in Madison (46%) and San
+Diego (32%) said they were "very satisfied" with the quality of
+life in their city.
+
+The percentage of residents expressing dissatisfaction with the
+quality of life in their city varied, ranging from 6% in Madison
+to 44% in Los Angeles.  However, in many of the cities fewer
+residents were satisfied with the quality of life in their city
+as compared to the quality of life in their neighborhood. 
+
+More than half of the residents in 11 cities were "somewhat
+fearful" or "very fearful" of crime in their city (table 20).  
+In each of the cities a higher proportion of residents said they were
+fearful of crime in their city than in their respective
+neighborhoods.
+
+--------------------------------------------------------------------------------------------
+Table 20.  Residents in 12 cities, by degree of fear of crime in their city, 1998
+ 
+                                                  Percent of residents 16 or older
+                     Estimated              Fearful                     Not fearful
+                     Number of                Very     Somewhat           Not very Not at all
+                     Residents       Total    fearful  fearful    Total   fearful  fearful
+
+Total               12440671          71%         18%     53%      29%     21%      8%
+ 
+Chicago, IL          1970708          74          20      54       27      19       8
+Kansas City, MO       337094          73          17      56       27      22       6
+Knoxville, TN         121960          62          12      51       38      28       9
+Los Angeles, CA      2737851          80          24      56       20      14       7
+ 
+Madison, WI           151352          36           2      34       64      51      13
+New York, NY         5142188          68          17      51       32      22      10
+San Diego, CA         894738          58           9      49       42      35       8
+Savannah, GA           96190          73          18      55       27      19       8
+ 
+Spokane, WA           141827          62          10      52       38      30       8
+Springfield, MA       104175          77          23      53       23      16       7
+Tucson, AZ            352353          70          15      56       30      23       7
+Washington, DC        390235          74          21      53       26      18       8
+ 
+Note: Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Question: "How fearful are you about crime in your city?
+Are you very fearful, somewhat fearful, not very fearful, or not at all fearful?"
+---------------------------------------------------------------------------------------------------
+
+In most of the 12 cities, about three-quarters of the residents
+who were fearful of crime in their city said their level of fear
+about crime in the city had remained about the same over the
+past 12 months.  Few, ranging from 2% to 11%, indicated that
+their level of fear had decreased (table 21).
+
+-----------------------------------------------------------------------------------------------
+Table 21.  Residents in 12 cities who expressed fear of crime 
+in their city, by whether their level of fear had changed, 1998
+ 
+                  Estimated
+                  number of        In the previous 12 months fear of crime in city --
+                  residents age    Total                           Stayed the
+                  16 or older      percent  Increased   Decreased  same
+
+  Total             8745982          100%      18%       8%         75%
+ 
+Chicago, IL         1441581          100       20        5          75
+Kansas City, MO      244534          100       22        4          75
+Knoxville, TN         75988          100       33        2          65
+Los Angeles, CA     2153598          100       20        6          74
+ 
+Madison, WI           54352          100       24        4          73
+New York, NY        3490565          100       13       11          76
+San Diego, CA        515038          100       16        6          78
+Savannah, GA          68996          100       21        4          75
+ 
+Spokane, WA           87685          100       42        3          56
+Springfield, MA       79417          100       40        2          58
+Tucson, AZ           247269          100       29        2          69
+Washington, DC       286959          100       13        7          80
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Asked only of those who said they were very fearful or somewhat fearful of crime in their city.
+Question: "Over the last 12 months, have your fears increased, decreased, or stayed the same?"
+------------------------------------------------------------------------------------------------
+
+When residents were asked if they were afraid of becoming a
+victim of street crime, except for Madison residents, about a
+third or more said they were fearful of becoming a victim of
+street crime (table 22).
+
+-------------------------------------------------------------
+Table 22.  Residents in 12 cities who said they were afraid 
+of becoming a victim of street crime in their city, 1998
+ 
+                  Residents age 16 or older
+                              Percent
+                  Estimated   with fear of
+                  number      street crime
+
+Total             12446470        52%
+ 
+Chicago, IL        1971332        53
+Kansas City, MO     337128        41
+Knoxville, TN       121693        35
+Los Angeles, CA    2689497        60
+ 
+Madison, WI         149992        25
+New York, NY       5217814        53
+San Diego, CA       885545        42
+Savannah, GA         96103        43
+ 
+Spokane, WA         139116        31
+Springfield, MA     102943        47
+Tucson, AZ          347141        41
+Washington, DC      388166        51
+ 
+Note:  Don't know responses and refusals to answer 
+are excluded from analysis.
+Question:  "Are you afraid of becoming a victim of 
+street crime in the city?"
+---------------------------------------------------------
+
+Respondents who said they were afraid of becoming a victim of
+street crime were then asked to identify the type of street
+crime they feared the most.  Overall, robbery and assault with a
+gun/deadly force were the street crimes most frequently
+mentioned among all the residents (table 23).
+
+-----------------------------------------------------------------------------------------------------------
+Table 23.  Residents in 12 cities, by the type of street crime they most feared, 1998
+ 
+                   Estimated
+                   number of      Percent of all residents who identified a type of crime they most feared
+                   residents age           Physical  Assault   Sexual
+                   16 or older    Robbery  assault   with gun  assault  Murder
+
+Total              12420723         14%      4%        16%      6%      6% 
+Chicago, IL         1956384         16       3         14       7       7
+Kansas City, MO      336979         14       4         13       4       3
+Knoxville, TN        123821         11       3         10       4       2
+Los Angeles, CA     2604976         14       5         23       5       8
+ 
+Madison, WI          155059          9       4          4       4       --
+New York, NY        5269927         14       3         14       8       6
+San Diego, CA        894077         12       6         12       4       3
+Savannah, GA          98451         15       3         11       3       3
+ 
+Spokane, WA          140868          8       5          9       3       3
+Springfield, MA      104914         12       5         10       5       8
+Tucson, AZ           343746         10       4         16       4       3
+Washington, DC       391521         18       2         18       3       5
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis.
+Asked only of those who said they were afraid of becoming a victim of street crime in their city.
+--Fewer then 10 respondents.
+Question: "What type of street crime are you most afraid of -- robbery, someone
+stealing from you, physical assault that does not involve a gun (non-domestic violence).
+assault with a gun, someone hurting you with a deadly weapon, sexual assault/rape, murder?"
+---------------------------------------------------------------------------------------------------
+
+Those residents who said they were afraid of becoming a victim
+of street crime were asked to describe what  measures they used
+to protect themselves against crime occurring outside the home.
+
+To avoid becoming a victim of street crime, those residents most
+commonly said they don't go out alone, don't go out after dark,
+and avoid certain routes or areas of the city.  In eight cities,
+20% or more of the residents fearful of street crime said they
+planned to move out of the neighborhood to avoid crime.  Among 
+residents afraid of street crime, between a fifth to a third made 
+an effort to get to know the neighborhood police. In six cities, 
+at least 20% of these residents said they carried a self-defense 
+weapon (table 24).
+
+----------------------------------------------------------------------------------------------------
+Table 24.  Residents in 12 cities fearful of street crime, by actions they took
+to protect themselves from crime outside their home, 1998
+ 
+                                 Percent of persons fearful of street crime who --
+                 Estimated                                    Avoided
+                 number of       Carried a      Carried a     certain   Avoided   Avoided
+                 residents age   self-defense   self-defense  routes    going out going
+                 16 or older     warning device weapon        and areas at night  out alone
+
+  Total           6509867            10%          14%           44%        49%     48% 
+Chicago, IL       1039490            13           22            48         51      48
+Kansas City, MO    138885            14           23            37         45      48
+Knoxville, TN       42575            16           23            40         46      46
+Los Angeles, CA   1622136            10           17            45         52      47
+ 
+Madison, WI         37427             9           11            44         39      40
+New York, NY      2784226             8            8            44         48      47
+San Diego, CA      371845            11           14            33         43      48
+Savannah, GA        40929            12           29            40         51      54
+ 
+Spokane, WA         43489            14           23            41         46      48
+Springfield, MA     47863            11           14            46         53      59
+Tucson, AZ         141634            14           28            40         48      49
+Washington, DC     199368            12           14            51         48      49
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis.   
+Estimated number of residents age 16 or older represents largest category.  
+Total number of respondents varies by each response category.  Total exceeds 
+100% due to multiple responses. Asked only of those residents who said they 
+were afraid of becoming a victim of street crime.
+Question:  "Here are some things people do to avoid becoming a victim of crime
+that takes place outside the home.  In the past 12 months, have you done any 
+of these things -- you carry a self-defense warning device such as a whistle 
+or alarm, you carry a self-defense weapon (includes knife, gun, club, mace, stun-gun), you no longer take certain routes or go into certain areas in your
+neighborhood, you avoid going out at night, you avoid going out alone?"
+------------------------------------------------------------------------------------------------------------------
+
+Table 24.  (continued)
+ 
+                    Estimated      Percent of residents fearful of street crime who --
+                    number of      Took a          Attended      Got to know              Took other
+                    residents age  self-defense    community     police in     Planned to preventive
+                    16 or older    class           meetings      neighborhood  relocate   measures
+
+Total                6509867         11%              18%           26%          25%       10%
+ 
+Chicago, IL          1039490          9               25            34           29        9
+Kansas City, MO       138885         11               19            29           25       14
+Knoxville, TN          42575          9               22            31           17       12
+Los Angeles, CA      1622136         14               17            24           26        8
+ 
+Madison, WI            37427         13               13            22           18       14
+New York, NY         2784226          9               15            24           24       10
+San Diego, CA         371845         13               21            24           15       11
+Savannah, GA           40929         10               23            37           23        8
+ 
+Spokane, WA            43489         12               20            25           19       13
+Springfield, MA        47863         10               14            34           29        9
+Tucson, AZ            141634         16               21            28           25       11
+Washington, DC        199368          8               26            31           20       13
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis. 
+Estimated number of residents age 16 or older represents largest category.  Total number of respondents
+varies by each response category.  Total exceeds 100% due to multiple responses.   Asked only of those
+residents who said they were afraid of becoming a victim of street crime.
+Question: "Here are some things people do to avoid becoming a victim of crime
+that takes place outside the home.  In the past 12 months, have you done any of these 
+things   you took a self-defense class, you attended community meetings in your neighborhood, 
+you made an effort to get to know the police in your neighborhood, you planned to relocate to 
+outside your neighborhood?"
+-------------------------------------------------------------------------------------------------
+
+--------------------------
+Crime prevention measures 
+--------------------------
+
+All residents were asked about the types of security measures
+they took to protect themselves from crime in their homes as
+well as crime which might occur in the street.
+
+The most frequently cited security actions taken by residents in
+the 12 cities to protect themselves from crime in their home
+included adding outside or automatic lighting, arranging with
+neighbors to watch out for each other, and installing extra
+locks.  About a third or more of the residents in Knoxville,
+Savannah, Spokane, and Tucson kept a weapon inside the home for
+self defense.  Less frequently mentioned were installing
+security systems, attending neighborhood watch meetings, or
+asking police to conduct a home security check (table 25).
+
+---------------------------------------------------------------------------------------
+Table 25.  Residents in 12 cities who took action to protect themselves 
+from crime in their home, by the type of action taken, 1998
+ 
+                                     Percent of all residents who--
+                 Estimated                                          Requested
+                 number of      Attended  Watched        Installed  police    Owned
+                 residents age  watch     out for        security   security  guard
+                 16 or older    meetings  other's safety system     Check     dog
+
+Total            12737662         11%       61%           18%         5%       15%
+ 
+Chicago, IL       2009342         17        65            18          6        16
+Kansas City, MO    344390         13        72            18          7        19
+Knoxville, TN      123672         12        72            17          5        21
+Los Angeles, CA   2782894         11        66            21          5        25
+ 
+Madison, WI        152702          5        51             4          2        10
+New York, NY      5315324          9        54            17          4         9
+San Diego, CA      910508         10        68            14          4        15
+Savannah, GA        98389         16        73            19         10        24
+ 
+Spokane, WA        143515         14        75            12          3        25
+Springfield, MA    105571          7        67            21          8        18
+Tucson, AZ         355691         15        70            15          5        29
+Washington, DC     395664         15        64            15          7         6
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  
+Estimated number of residents age 16 or older represents largest category.   
+Total number of respondents varies by each response category.  Total exceeds 100% due 
+to multiple responses.
+Question: "In the past 12 months, have you done any of these things to protect yourself 
+from crime in the home, in a direct response to you or your family's fear of crime --
+you go to neighborhood watch meetings, you and your neighbors have agreed to watch out 
+for each other's safety, you've installed a security system for your home, you've asked 
+the police department to do a home security check, you have guard dogs at home?"
+----------------------------------------------------------------------------------------------------
+
+
+Table 25.  (Continued)
+ 
+                                           Percent of all residents who--
+                 Estimated                             Kept
+                 number of     Placed                  self-defense  Added      Took
+                 residents age ID numbers  Installed   weapons       automatic  other
+                 16 or older   on property extra locks in home       lighting   precautions
+
+Total            12737662         17%        41%          14%           33%       18%
+ 
+Chicago, IL       2009342         18         41           13            36        17
+Kansas City, MO    344390         23         40           27            42        18
+Knoxville, TN      123672         24         36           39            40        15
+Los Angeles, CA   2782894         21         42           20            43        19
+ 
+Madison, WI        152702         14         23           13            27        18
+New York, NY      5315324         14         40            8            24        19
+San Diego, CA      910508         20         44           17            39        15
+Savannah, GA        98389         23         43           34            44        17
+ 
+Spokane, WA        143515         30         44           30            49        19
+Springfield, MA    105571         18         42           14            48        15
+Tucson, AZ         355691         25         49           31            44        19
+Washington, DC     395664         14         32            7            30        22
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  
+Estimated number of residents age 16 or older represents largest category.  Total number 
+of respondents varies by each response category.  Total exceeds 100% due to multiple responses.
+Question: "In the past 12 months, have you done any of these things to protect yourself from 
+crime in the home, in a direct response to you or your family's fear of crime -- you've engraved 
+security identification numbers on all your belongings, you've installed extra locks on windows 
+and/or doors, you keep weapons inside the home, you've added outside automatic lighting (e.g. timers)?"
+----------------------------------------------------------------------------------------------------------
+
+------------------------------------
+Community crime prevention meetings
+------------------------------------
+
+Residents were not widely familiar with community watch meetings
+held in their neighborhood.  About a third or less of the
+residents in each of the cities said they had heard about
+community  meetings concerning crime that took place in their
+neighborhood (table 26).  
+
+--------------------------------------------------------
+Table 26.  Residents in 12 cities who had heard about 
+a meeting concerning crime in their neighborhood, 1998
+ 
+                 Residents age 16 or older
+                             Percent who
+                 Estimated   heard about
+                 number      a meeting
+
+Total            12524175        24%
+ 
+Chicago, IL       1982067        38
+Kansas City, MO    340045        20
+Knoxville, TN      122509        16
+Los Angeles, CA   2741853        19
+ 
+Madison, WI        150836        18
+New York, NY      5201213        23
+San Diego, CA      900086        17
+Savannah, GA        97445        15
+ 
+Spokane, WA        141766        19
+Springfield, MA    104421        25
+Tucson, AZ         351060        18
+Washington, DC     390874        33
+ 
+Note:  Don't know responses and refusals to answer 
+are excluded from analysis.
+Question:  "In the past 12 months, have you heard 
+about any community meetings concerning crime
+in your neighborhood?"
+------------------------------------------------------
+
+Community meetings on crime were not widely attended.  In each
+city, 10% or less of the residents had attended a community
+meeting on crime within the past year (table 27).  
+
+------------------------------------------------------
+Table 27.  Residents in 12 cities who attended a 
+meeting concerning crime in their neighborhood, 1998
+ 
+                  Residents age 16 or older
+                              Percent who
+                  Estimated   attended a
+                  number      a meeting
+
+Total             13251676         6%
+ 
+Chicago, IL        2085055        10
+Kansas City, MO     349260         5
+Knoxville, TN       130142         4
+Los Angeles, CA    2810892         6
+ 
+Madison, WI         157985         3
+New York, NY       5661180         6
+San Diego, CA       924886         4
+Savannah, GA        104415         4
+ 
+Spokane, WA         145476         5
+Springfield, MA     110792         5
+Tucson, AZ          359000         5
+Washington, DC      412593        10
+ 
+Note:  Asked only of those who said they heard about
+community meeting on crime.
+Question: "In the past 12 months, have you attended 
+any of these community meetings?"
+--------------------------------------------------------
+
+Residents in the 12 cities who knew about the meeting but did
+not attend most frequently said they failed to attend because
+they did not have time or the meeting was held during work hours
+(table 28).
+
+---------------------------------------------------------------------------------
+Table 28.   Residents in 12 cities who did not attend a meeting 
+concerning crime in their neighborhood, by reasons for not attending, 1998
+ 
+                                 Percent not attending meetings because-
+                  Estimated      Meeting 
+                  number of      held                 Not
+                  residents age  during     No time   especially  Other
+                  16 or older    work hour  to attend concerned   reasons
+
+Total             11708877          3%         6%          2%      9%
+ 
+Chicago, IL        1791876          6         10           3      14
+Kansas City, MO     322031          3          5           1       8
+Knoxville, TN       117378          2          3           1       7
+Los Angeles, CA    2590886          2          5           1       7
+ 
+Madison, WI         146594          3          4           4       8
+New York, NY       4866822          3          6           2       8
+San Diego, CA       859908          3          4           1       6
+Savannah, GA         93225          3          2          --       6
+ 
+Spokane, WA         135112          3          5           1       8
+Springfield, MA      99621          5          5          --      11
+Tucson, AZ          334376          4          4          --       6
+Washington, DC      351048          5         10           2      14
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.
+Estimated number of residents age 16 or older represents largest category.  
+Total number of respondents varies by each response category. Asked only of 
+those who said they had heard about a community meeting concerning crime in 
+their neighborhood, but had not attended a meeting in the past 12 months.  
+"Other reasons" include "did not know time or location," "unable to obtain 
+transportation," "unable to obtain child care," "meeting held in unsafe part 
+of town," "won't help crime problem," and "meeting is too far away."
+--Fewer than 10 respondents. Zero indicates no cases in sample.
+Questions: "What are your reasons for not attending any meetings?"
+----------------------------------------------------------------------------------
+
+----------------------------------
+Attitudes toward the local police
+----------------------------------
+
+Residents in each of the 12 cities were asked if they had been
+in contact with the local police for any reason over the past 12
+months.
+
+About 3 in 10 residents or more in each city -- ranging from 29%
+in New York to 44% in Savannah and Tucson -- said they had
+contact of some kind with the police over the past 12 months
+(table 29).
+
+---------------------------------------------------
+Table 29.  Residents in 12 cities who had contact 
+with local police for any reason, 1998
+ 
+                  Residents age 16 or older
+                              Percent
+                  Estimated   with police
+                  number      contact
+
+Total             12738135        35%
+ 
+Chicago, IL        2010498        41
+Kansas City, MO     345262        42
+Knoxville, TN       123430        40
+Los Angeles, CA    2782789        36
+ 
+Madison, WI         152763        43
+New York, NY       5317897        29
+San Diego, CA       909065        38
+Savannah, GA         98024        44
+ 
+Spokane, WA         143179        41
+Springfield, MA     105361        43
+Tucson, AZ          355051        44
+Washington, DC      394816        40
+ 
+Note:  Don't know responses and refusals to answer are 
+excluded from analysis.
+Question:  "In the past 12 months, have you been in 
+contact with the local police for any reason?"
+---------------------------------------------------------
+
+Overall, 8% of the residents had contact with the police because
+they reported a crime; 6% called for police service; 6% had a
+casual conversation with the police; and 6% said they had
+provided information to the police (table 30).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Table 30.  Residents in 12 cities, by types of contact with police, 1998
+ 
+                                                            Percent of all residents who-
+                     Estimated                                                                    Participated  Involved
+                     number of      Had casual   Called       Provided     Reported   Asked for   in community  in traffic  Worked
+                     residents age  conversation police       information  a crime    information activity with violations/ with police  Other
+                     16 or older    with police  for service  for police   to police  or advice   with police   accidents   on problem   Contact*
+ 
+Total                13252674           6%         6%           6%            8%         2%           1%           5%          2%         10% 
+Chicago, IL           2085054           8          7            6            12          2            2            6           2          11
+Kansas City, MO        349260          10          9            7            10          2            2            7           2          10
+Knoxville, TN          130143           9          6            5            10          1            2            8           2           9
+Los Angeles, CA       2810892           6          7            9             8          2            1            4           2          11
+ 
+Madison, WI            157985           8          7            7            10          2            2            8           3          14
+New York, NY          5661180           5          3            4             7          1           --            5           2           9
+San Diego, CA          925803           8          7            8             8          2            2            7           2           9
+Savannah, GA           104494          10          7            5            12          2            2            7           1          13
+ 
+Spokane, WA            145477           6          7            8            12          2            2            5           3          12
+Springfield, MA        110792           9          7            6            11          3            2            4           2          14
+Tucson, AZ             359001           8         10            8            13          2            2            6           2          11
+Washington, DC         412593           7          6            5            11          3            4            4           2          13
+
+Note:  Estimated number of residents age 16 or older represents largest category.   
+Total number of respondents varies by each response category.  
+Asked only of those who said they had contact with the local police in the past 12 months.
+--Fewer than 10 respondents.
+*"Other contact" includes "responded to police survey." 
+Questions:  "How would you best describe your contact with the police?"
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+A majority of respondents across all 12 cities said they had not
+noticed a change in police presence in the past 12 months (table
+31).  Twenty-three percent of all respondents reported an
+increase in police presence. In two of the largest cities, New
+York (26%) and Los Angeles (23%), about a quarter of the
+residents reported increases in police presence.  
+
+-----------------------------------------------------------------------------
+Table 31.  Residents in 12 cities who observed a change in police
+presence in their neighborhood, 1998
+ 
+                 Estimated      Percent of residents who said police
+                 number of      presence in their neighborhood-
+                 residents age                         Did not  Never see
+                 16 or older    Increased  Decreased   change   Police
+
+Total            12170240         23%            5%     68%      5%
+ 
+Chicago, IL       1945421         17             5      75       3
+Kansas City, MO    333760         15             4      76       5
+Knoxville, TN      119311         13             3      77       7
+Los Angeles, CA   2651357         23             4      68       5
+ 
+Madison, WI        146606         13             2      82       4
+New York, NY      5039589         26             6      63       5
+San Diego, CA      875953         19             3      72       5
+Savannah, GA        95835         16             5      75       4
+ 
+Spokane, WA        137779         13             3      75       9
+Springfield, MA    101052         33             2      62       3
+Tucson, AZ         345162         19             4      70       8
+Washington, DC     378415         26             3      67       4
+ 
+Note:  Don't know responses and refusals to answer are excluded from analysis.
+Detail may not add to total because of rounding.
+Question: "In the past 12 months, have you observed any increases
+or decreases in police officer presence in your neighborhood
+or did the number stay the same?"
+----------------------------------------------------------------------------------
+
+Residents were asked what kind of activities they saw police
+doing in their neighborhood.  Thirty-seven percent of
+respondents reported seeing police talking to residents (table
+32). Recreational and school activities with children (30%) and
+facilitating crime watch and prevention activities (27%) were
+other commonly reported police activities.
+
+--------------------------------------------------------------------------------------------------------------------
+Table 32.  Residents in 12 cities who observed police activities, by type of activity, 1998
+ 
+                                              Percent of residents who said they saw police
+                 Estimated                                                                 Opening
+                 number of      Talking   Talking with  Attending   Facilitating           substation/  Doing
+                 residents age  with      Business      community   prevention   Involving information  other
+                 16 or older    residents owners        meetings    activities   with kids centers      activities
+
+Total            12030433         37%         24%           22%         27%         30%        19%         26%
+ 
+Chicago, IL       1934459         41          29            34          30          31         13          22
+Kansas City, MO    328858         35          14            22          26          37         13          23
+Knoxville, TN      113754         25          17            17          24          37         18          24
+Los Angeles, CA   2612038         34          17            20          23          32         25          24
+ 
+Madison, WI        146805         34          12            16          19          31         18          25
+New York, NY      5007973         38          30            19          29          26         13          29
+San Diego, CA      858278         36          18            19          24          34         31          25
+Savannah, GA        93577         35          16            24          34          39         32          23
+ 
+Spokane, WA        130001         29           9            21          28          43         58          19
+Springfield, MA    101518         44          29            27          32          44         30          31
+Tucson, AZ         327270         34          12            19          25          33         27          24
+Washington, DC     375902         42          29            33          32          28         27          29
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  
+Estimated number of residents age 16 or older represents largest category.  Total number 
+of respondents varies by each response category.  Total exceeds 100% due to multiple responses.
+Question: "In the past 12 months, what activities have you seen police doing   
+police talking with residents in the neighborhood, police talking with business owners, 
+police attending community meetings, police facilitating crime watch and prevention 
+activities such as nights out, police involved with kids through recreational or school activities, 
+police opening police substations or information centers?"
+---------------------------------------------------------------------------------------------------------------------------
+
+Satisfaction with local police
+
+The household telephone survey asked residents age 16 or older
+about their level of satisfaction with the police who served
+their neighborhood.  The vast majority of residents in each of
+the 12 cities were "satisfied" or "very satisfied" with the
+local police.
+
+The level of satisfaction with the police ranged from 97% of
+residents in Madison reporting being "satisfied" or "very
+satisfied" to 78% in Washington, D.C. (table 33).  Few residents
+in the 12 cities, 6% or less, said they were "very dissatisfied" with
+the police.
+
+---------------------------------------------------------------------------------------------------------
+Table 33.  Residents in 12 cities, by degree of satisfaction with local police, 1998
+ 
+                 Estimated                    Percent of residents
+                 number of             Satisfied                            Dissatisfied
+                 residents age             Very                                            Very
+                 16 or older    Total      satisfied  Satisfied     Total    Dissatisfied  Dissatisfied
+Total            11913071         85%          18%       66%         15%            12%      3%
+  
+Chicago, IL       1901575         80           16        64          20             15       4
+Kansas City, MO    330761         89           24        65          11              7       4
+Knoxville, TN      116356         89           22        66          11              9       2
+Los Angeles, CA   2557680         86           20        66          14             12       3
+ 
+Madison, WI        147236         97           31        66           3              3      --
+New York, NY      4973711         84           16        67          16             13       4
+San Diego, CA      848531         93           25        68           7              6       1
+Savannah, GA        93110         86           21        65          15             10       4
+ 
+Spokane, WA        133288         87           19        68          13             11       2
+Springfield, MA    102609         87           23        64          13             10       3
+Tucson, AZ         336711         87           19        68          13             10       3
+Washington, DC     371503         78           14        63          22             17       6
+
+Note: Don't know responses and refusals to answer are excluded from table.  
+Details may not add to total because of rounding.
+-- Fewer than 10 respondents.
+Question:  "In general, how satisfied are you with the police who serve your neighborhood?
+Are you very satisfied, satisfied, dissatisfied, or very dissatisfied?" 
+-------------------------------------------------------------------------------------------------
+
+In total, white residents in the 12 cities were more likely than
+black residents to have said they were satisfied with the police
+who served their neighborhood (table 34).  The proportion of
+black residents who said they were satisfied with the police
+ranged from 63% in Knoxville to 97% in Madison.
+
+------------------------------------------------------------------------------------------------
+Table 34.  Residents in 12 cities, by degree of satisfaction with local police,
+
+by race, 1998
+ 
+                Estimated                        Percent of residents
+                number of               White              Black              Other
+                residents age           Dis-                  Dis-                 Dis-
+                16 or older   Satisfied satisfied  Satisfied  satisfied  Satisfied satisfied
+ 
+    Total        11913070         90%    10%           76%    24%           78%    22% 
+Chicago, IL       1901575         89     11            69     31            67     33
+Kansas City, MO    330762         90     10            86     14            84     16
+Knoxville, TN      116355         91      9            63     37           100      0
+Los Angeles, CA   2557679         89     11            82     18            80     20
+  
+Madison, WI        147236         97      3            97      3            98      2
+New York, NY      4973710         89     11            77     23            77     23
+San Diego, CA      848530         95      5            89     11            87     13
+Savannah, GA        93110         88     12            81     19            92      8
+ 
+Spokane, WA        133289         88     12            79     21            73     27
+Springfield, MA    102609         90     10            76     24            82     18
+Tucson, AZ         336713         88     12            91      9            76     24
+Washington, DC     371502         81     19            75     25            83     17
+
+Note: Don't know responses and refusals to answer are excluded from table.  
+Details may not add to total because of rounding.  Zero indicates no cases in sample.
+*Includes Asian, Pacific Islander and American Indian, Aleut, and Eskimo.
+Question:  "In general, how satisfied are you with the police who serve your neighborhood?
+Are you very satisfied, satisfied, dissatisfied, or very dissatisfied?"
+--------------------------------------------------------------------------------------------
+
+For each of the 12 cities, residents who had been a victim of
+violent crime were less likely than others to say they were
+satisfied with the local police (table 35).
+
+------------------------------------------------------------------------------------------
+Table 35.  Residents in 12 cities degree of satisfaction with
+the police, by whether they were a victim of violent crime, 1998
+ 
+                  Estimated                            Percent of residents
+                  number of       Victim of violent crime      Not a victim of violent crime
+                  residents age   Satisfied     Dissatisfied   Satisfied    Dissatisfied
+                  16 or older     with police   with police    with police  with police
+  
+    Total           11913070            69%      31%              86%        14%
+ 
+Chicago, IL          1901576            75       25               81         19
+Kansas City, MO       330761            72       28               90         10
+Knoxville, TN         116356            74       26               89         11
+Los Angeles, CA      2557679            74       26               86         14
+ 
+Madison, WI           147236            92        8               97          3
+New York, NY         4973712            61       39               85         15
+San Diego, CA         848531            81       19               94          6
+Savannah, GA           93110            69       31               86         14
+ 
+Spokane, WA           133288            74       26               88         12
+Springfield, MA       102607            69       31               88         12
+Tucson, AZ            336711            70       30               88         12
+Washington, DC        371503            69       31               78         22
+
+Note:  Detail may not add to total because of rounding.  
+Don't know responses and refusals to answers are excluded from analysis.
+Question: "How satisfied are you with the police   are you very satisfied, satisfied, 
+dissatisfied or very dissatisfied?"  "Satisfied" includes "very satisfied" and "satisfied." 
+"Dissatisfied" includes "dissatisfied" and "very dissatisfied."
+--------------------------------------------------------------------------------------------
+
+Likewise, compared to those who were not fearful of neighborhood
+crime, persons who were fearful of crime in their neighborhood
+were somewhat less likely to be satisfied with the local police
+(table 36).
+
+--------------------------------------------------------------------------------------
+Table 36.  Residents in 12 cities degree of satisfaction with police,
+by whether they were fearful of crime in their neighborhood, 1998
+ 
+                                            Percent of residents
+                                  Fearful of               Not fearful of
+                 Estimated        neighborhood crime       neighborhood crime
+                 number of                    Dis-                      Dis-
+                 residents age    Satisfied   satisfied     Satisfied   satisfied
+                 16 or older      with police with police   with police with police
+ 
+    Total           11762723             79%      22%           89%       11%
+ 
+Chicago, IL          1868212             76       24            84        16
+Kansas City, MO       328837             84       16            92         8
+Knoxville, TN         115284             81       19            92         8
+Los Angeles, CA      2538139             81       19            89        11
+ 
+Madison, WI           146901             91        9            98         2
+New York, NY         4893634             77       23            88        12
+San Diego, CA         845941             87       13            95         5
+Savannah, GA           91982             77       23            90        10
+ 
+Spokane, WA           132261             80       20            90        10
+Springfield, MA       101958             80       20            92         8
+Tucson, AZ            333972             79       21            92         8
+Washington, DC        365602             69       31            85        15
+
+Note:  Detail may not add to total because of rounding.
+Don't know responses and refusals to answers are excluded from analysis.
+Question: "How fearful are you of crime in your neighborhood?"
+"Fearful" includes those who said they were "very" or "somewhat fearful."
+"Not fearful" includes those who said they were "not very fearful" or "not at all fearful."
+--------------------------------------------------------------------------------------------
+
+-------------------
+Community policing
+-------------------
+
+Police crime prevention
+
+Sixty percent of respondents from all 12 cities indicated that
+in the past 12 months the police had worked at least "somewhat"
+with neighborhood residents on crime prevention and safety
+(table 37). The percent of residents who identified police
+activity regarding crime prevention in the neighborhoods varied
+from about 50% of the residents in Knoxville, Spokane, and
+Tucson to 68% in Chicago.
+
+--------------------------------------------------------------------------------------------------
+Table 37.  Residents in 12 cities who evaluated the level of work police were 
+doing to prevent crime, 1998
+ 
+                   Estimated
+                   number of               Percent of residents who said police were doing-
+                   residents age           At least somewhat                Not much     Nothing
+                   16 or older         Total     A lot    Some      Total   very little  at all
+
+Total                 8112979           60%        17%     43%       40%      23%         17%
+ 
+Chicago, IL           1429016           68         19      49        32       20          12
+Kansas City, MO        238250           60         14      46        41       19          21
+Knoxville, TN           86678           50         10      40        50       26          23
+Los Angeles, CA       1793979           57         15      42        43       23          19
+ 
+Madison, WI            100620           60         11      50        40       24          16
+New York, NY          3148976           59         20      40        41       25          16
+San Diego, CA          547820           63         14      49        37       22          15
+Savannah, GA            73755           58         14      44        42       20          22
+ 
+Spokane, WA            100599           51         10      41        49       26          23
+Springfield, MA         77419           66         19      47        35       20          15
+Tucson, AZ             251564           54         10      44        46       23          23
+Washington, DC         264303           64         15      50        36       21          15
+
+
+Note: Don't know responses and refusals to answer are excluded from analysis.  
+Details may not add to total because of rounding.
+Question:  "How much are police doing with the residents of your neighborhood
+to prevent crime and safety problems; a lot, some, very little, or nothing at all?"
+------------------------------------------------------------------------------------------------
+
+The survey asked each of the residents a series of questions
+related to community policing and citizens' preference for
+police activity.
+
+Over half of all respondents said they were familiar with the
+term "community policing" (table 38).  In Chicago, 73% of the
+residents were familiar with community policing. 
+
+-----------------------------------------------------
+Table 38.  Residents in 12 cities who were familiar 
+with the term "community policing," 1998
+ 
+                                Percent of
+                Estimated       residents
+                number of       familiar with
+                residents age   community
+                16 or older     policing
+
+Total              12548085          54%
+ 
+Chicago, IL         1992242          73
+Kansas City, MO      338859          52
+Knoxville, TN        121455          45
+Los Angeles, CA     2737268          49
+ 
+Madison, WI          150298          60
+New York, NY        5232448          50
+San Diego, CA        894461          57
+Savannah, GA          96724          25
+ 
+Spokane, WA          140358          55
+Springfield, MA      103881          69
+Tucson, AZ           352703          39
+Washington, DC       387388          60
+
+Note:  Don't know responses and refusals to 
+answer are excluded from anaylsis.  
+*When known, local terms for community policing 
+were used in question wording.  For example, in 
+Chicago "CAPS" was used.
+Question:  "Are you familiar with the term community policing'?"
+-----------------------------------------------------------------
+
+When given a definition of "community policing," 54% of the
+total residents in the 12 cities said they thought police in 
+their neighborhood practiced community policing (table 39).  
+Across the 12 cities the percentage of residents who thought 
+their local police practiced community policing ranged from 
+42% in Knoxville to 67% in Chicago.
+
+------------------------------------------------------------------------------------------
+Table 39.  Residents in 12 cities who said their police practiced community policing, 1998
+ 
+               Estimated       Percent of 
+               Number of       residents who 
+               Residents       said police practiced
+               Age 16 or older community policing*
+
+Total            9176371          54%
+ 
+Chicago, IL      1480734          67
+Kansas City, MO   271550          52
+Knoxville, TN      95850          42
+Los Angeles, CA  1974335          50
+ 
+Madison, WI       122825          47
+New York, NY     3728768          51
+San Diego, CA     661900          57
+Savannah, GA       76199          48
+ 
+Spokane, WA       114318          54
+Springfield, MA    86008          64
+Tucson, AZ        268419          46
+Washington, DC    295465          53
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  
+*Including those residents who said police practiced community policing "somewhat."
+Question:  "Community policing involves police officers working with the community 
+to address the causes of crime in an effort to reduce the problems and the associated 
+fear, through a wide range of activities.  Based on the definition, do you think the
+police in your neighborhood practice community policing?"
+-------------------------------------------------------------------------------------
+
+Residents who reported community policing activities in their
+neighborhoods became aware of those activities in different
+ways.  Overall, about a third of the residents said they became
+aware of community policing in their neighborhood because they
+saw the police doing community policing activities (20%) or they
+heard about it in the media (12%) (table 40). The remaining
+residents stated several other ways of learning about such
+activities, including talking with neighbors and children,
+neighborhood meetings and newsletters, advertising in the
+community, and police patrols.
+
+--------------------------------------------------------------------------------
+Table 40.  Residents in 12 cities who said their police practice community
+policing, by sources of information in their neighborhood, 1998
+ 
+                               Percent of all residents who said police
+                               practiced community policing because they --
+                Estimated                          Saw in the media
+                number of      Saw police doing    that police were  Had 
+                residents age  community policing  doing community   other
+                16 or older    activities          policing          knowledge
+
+Total              9176371          20%                12%             27%
+ 
+Chicago, IL        1480734          23                 16              37
+Kansas City, MO     271550          20                 13              22
+Knoxville, TN        95850          14                 12              18
+Los Angeles, CA    1974335          21                 13              21
+ 
+Madison, WI         122825          16                 15              20
+New York, NY       3728768          17                  9              28
+San Diego, CA       661900          23                 15              25
+Savannah, GA         76199          18                 10              21
+ 
+Spokane, WA         114318          19                 18              26
+Springfield, MA      86008          29                 17              26
+Tucson, AZ          268419          18                 15              19
+Washington, DC      295465          25                  9              25
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  
+Asked only of those residents who said the police were practicing community 
+policing in their neighborhood."
+Question:  "How do you know?" 
+---------------------------------------------------------------------------------
+
+Police activities of increased patrols and attending community
+meetings were each observed by about a third of the residents
+who reported seeing police practicing community policing 
+in their neighborhoods (table 41).
+
+----------------------------------------------------------------------------------------------------------------------------------
+Table 41.  Residents in 12 cities who said they saw police practicing community 
+policing, by type of activities observed, 1998
+ 
+                                       Percent of residents who said they saw police practicing community policing activities:
+                  Estimated                    Increased   Increased      Working with            Conducting
+                  number of                    presence    patrol by      community    Attending  crime       Running
+                  residents age  Enforcing     in high     vehicle,       to address   community  prevention  youth    Other
+                  16 or older    traffic laws  crime area  foot, or bike  problems     meetings   workshops   programs activities
+
+Total                  1834531       11%           16%           33%            23%       30%         10%         19%     35%
+ 
+Chicago, IL             342593        9            14            35             26        31          11          15      31
+Kansas City, MO          55486       11            15            29             24        29           5          23      38
+Knoxville, TN            13531       16            17            40             23        28          15          20      43
+Los Angeles, CA         413957       12            17            33             22        30           9          20      37
+ 
+Madison, WI              19967       14            12            35             22        23           7          28      44
+New York, NY            651819        9            17            33             25        33          10          19      32
+San Diego, CA           153879       20            18            28             21        20          10          22      41
+Savannah, GA             13636       11            13            41             18        30           7          18      35
+ 
+Spokane, WA              21400       12            14            22             24        25          20          26      42
+Springfield, MA          24573        7            15            60             17        23          10          26      33
+Tucson, AZ               49144       13            23            30             17        23          10          20      39
+Washington, DC           74546        5            14            39             20        40           7          15      42
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  Estimated number of
+residents age 16 or older represents largest category.  Total number of respondents varies by response
+category.  Totals exceed 100% due to multiple responses.  Asked only of those residents who said they
+thought the police in their neighborhood practiced community policing and said they saw them doing
+community policing.  Other activities include, "conducted surveys."  
+Question:  "You said you saw the police doing community policing activities.  
+Please specify what type of activities you saw the police participating in?" (open-ended question)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Overall about half of the residents in the 12 cities said their
+local police did not practice community policing.  Of these
+respondents most in each city wished the police did practice
+community policing (table 42).  
+
+-------------------------------------------------------------------------------
+Table 42. Residents in 12 cities who said police did not practice
+community policing but wished that the police did, 1998
+ 
+                Residents reporting police did not practice community policing
+                Estimated number of          Percent who wished police
+                residents age 16 or older    practiced community policing
+ 
+    Total                    6,914,327                     86%
+ 
+Chicago, IL                    892,591                     90
+Kansas City, MO                176,659                     83
+Knoxville, TN                   73,399                     72
+Los Angeles, CA              1,640,927                     89
+ 
+Madison, WI                     83,054                     57
+New York, NY                 2,989,595                     87
+San Diego, CA                  469,406                     74
+Savannah, GA                    52,791                     80
+ 
+Spokane, WA                     71,738                     72
+Springfield, MA                 46,187                     85
+Tucson, AZ                     200,530                     80
+Washington, DC                 217,450                     90
+ 
+Note: Don't know responses and refusals to answer are excluded from analysis.
+Not asked of those residents who said they thought the police did practice community
+policing in their neighborhood.
+Question:  "Do you wish the police in your neighborhood practiced community policing?"
+---------------------------------------------------------------------------------------
+
+Overall, of those residents who said they did not have community
+policing but wanted it, 46% indicated they would like more
+police officers patrolling the streets (table 43). Almost half
+specified "other activities," with most responses involving
+increased police visibility and contact with residents.
+
+----------------------------------------------------------------------------------------------------------------------
+Table 43.  Residents in 12 cities who said police did not practice community policing, by types of police activities
+they would like, 1998
+ 
+                                                         Percent of residents who wanted police to--
+                 Estimated                 Increase             Removed                       Conduct
+                 number of                 number     Assign    Trash/                        security
+                 residents age  Work with  of police  same      Evict bad Clean up  Work with checks/  Not do    Other
+                 16 or older    community  on street  officers  tenants   streets   Kids      surveys  anything  activities
+Total               5943774         25%         46%      7%        4%      5%       13%         5%      6%         49%
+ 
+Chicago, IL          801690         25          47       5         4       6        13          5       8          48
+Kansas City, MO      146338         26          42       9         3       3        13          6       6          45
+Knoxville, TN         53123         23          44       6         3       3        10          6       8          43
+Los Angeles, CA     1453044         29          48       7         5       4        11          5       5          45
+ 
+Madison, WI           47740         25          38       7         3       4        14          6       7          42
+New York, NY        2604328         22          45       7         4       6        14          5       6          53
+San Diego, CA        348693         29          46       9         3       2        12          6       6          39
+Savannah, GA          42195         26          47       5         3       3        12          4       7          44
+ 
+Spokane, WA           51862         23          45       7         3      --        12          4       9          41
+Springfield, MA       39256         22          46       7         3       4        11          5       7          47
+Tucson, AZ           160746         30          45       9         3       5        12          6       5          42
+Washington, DC       194759         25          44       9         4       5        13          5       6          51  
+
+Note:  Don't know responses and refusals to answer are excluded from analysis.  
+Estimated number of residents age 16 or older represents largest category.
+Total number of respondents varies by each response category.
+Total exceeds 100% due to multiple responses.
+Asked only of those who said the police were not practicing community policing in their 
+neighborhood but wished the police did.
+-- Fewer than 10 respondents.
+Question:  "What types of things do you wish the police were doing in your neighborhood?"
+-------------------------------------------------------------------------------------------------------------------------
+
+-------------
+Methodology
+-------------
+
+The methodological description of the study is based on the
+material presented in the Census Bureau's NCVS Research
+Memorandum No. 98-02 -- Community-Oriented Policing Services:
+Project Description and Analysis Plan -- Revised by Denise Lewis
+and Elaine Hock, May 1, 1998.
+
+This survey was designed to obtain total violent crime estimates
+in 12 selected cities.  The survey used the current National
+Crime Victimization Survey (NCVS) questionnaire with a series of
+supplemental questions measuring the attitudes in each city. 
+The NCVS collects data in interviews from all household members
+age 12 or older about victimizations that occurred within the
+preceding 6 months. For the purposes of the 12-city survey,
+respondents were asked about incidents that occurred within the
+last year. Information on any of the following crimes is
+collected:
+
+* Violent crimes of rape, robbery, aggravated assault, and
+simple assault
+* Personal crimes of theft 
+* Household crimes of burglary, larceny, and motor vehicle theft.
+
+The data collection was done using Computer Assisted Telephone
+Interviewing (CATI). The data collection took place over a
+4-month period starting in February 1998.
+
+---------------
+Sample design
+---------------
+
+The 12-city survey sample design is a simple random sample of
+telephone numbers within each city.  People residing within the
+city boundaries of interest were the target population. The
+Demographic Statistical Methods Division (DSMD) used the GENESYS
+Random-Digit Dialing (RDD) Sampling System to select zip codes
+associated with each of the 12 cities. The GENESYS RDD Sampling
+System selects telephone numbers at a unit called a cell.  These
+cells are grouped  to form projects. For the 12-city survey, a
+cell contained the appropriate zip codes for each sample city,
+and the project was the sample city itself.
+
+GENESYS numbers are contained in banks which are sets of 100
+potential telephone numbers.  These numbers have the same area
+code and five-digit prefix. Only those banks that contained at
+least one listed telephone number were used.  By excluding banks
+that contained only unlisted numbers, a slight coverage bias was
+incurred. 
+
+After obtaining GENESYS banks of phone numbers for zip codes
+within the 12 cities, DSMD obtained zip code maps that showed
+county and city boundaries. The zip codes that were wholly
+within city boundaries were included in the sample. In the zip
+codes that crossed boundaries, DSMD looked at population counts
+to determine which zip codes to include. Cut-off levels for
+inclusion of zip codes were determined on a city-by-city basis.
+The cut-offs used included as much city population as possible
+while minimizing the population outside the city.
+
+Approximately 870 household interviews, or 1,600 individual
+interviews, were required within each city to obtain total crime
+estimates at the 10% coefficient of variation level.
+
+Prior NCVS results suggested that there were an estimated 1.84
+eligible persons per household.  This number was applied to the
+estimated number of household interviews to obtain the 1,600
+individual interviews within each city. Applying these estimates
+for all 12 cities produced a required total sample size of
+10,440 household cases.  Exact household counts varied across
+cities based on differences in the percent of the city
+population age 12 or older. Target household interview counts
+were --
+
+   Total           10,449
+
+Tucson, AZ            878    
+Springfield, MA       894
+Los Angeles, CA       881          
+New York, NY          866
+
+San Diego, CA         868          
+Knoxville, TN         844
+Savannah, GA          891          
+Spokane, WA           875
+
+Chicago, IL           885         
+Madison, WI           840
+Kansas City, MO       884       
+Washington, DC        843
+
+The target household sample sizes were then increased by four
+types of inflation factors: geographic screenouts,
+nonrespondents, ineligible respondents, and nonresidential
+respondents. Based on previous studies of this type it was
+estimated that approximately 40,000 telephone numbers would need
+to be screened to obtain the required number of interviews.
+
+The monthly designated sample size for the first month was based
+on the Telephone Point of Purchase Survey (TPOPS) interview and
+screenout rates. DSMD provided phone numbers for additional
+households in the first month to ensure that the final sample
+size was achieved. This was done to allow for additional
+sampling in the following months if the expected number of
+interviews was not attained.
+
+Survey interview and screen-out rates replaced TPOPS rates as
+the survey progressed.  This allowed more accurate projections
+of interview counts.  The designated sample sizes were adjusted
+among the cities in April and May to take into account inflation
+that differed across the 12 cities.  Telephone numbers were
+edited to eliminate numbers already in a prior month's sample. 
+Listed business numbers were eliminated from the sample using
+the GENESYS Sampling System.
+
+-----------------------------
+Nonsampling sources of error
+-----------------------------
+
+In addition to sampling error, other sources of error can affect
+the data collected. These sources include:
+
+* The inability to obtain information about all cases in the
+sample. To reach the established target sample size of
+approximately 800 households per city almost twice that number
+of households had to be contacted by telephone.  If respondents
+in fact differ from nonrespondents, this could be a source of
+significant bias in the estimates.
+
+* Data collection errors resulting from recording and coding
+data and errors in estimating values for missing data
+
+* Failure to represent all city-wide household units with the
+selected sample (undercoverage).  This survey excluded the
+nontelephone households and households with unlisted phone
+numbers in strictly unlisted phone banks.  Although there is
+evidence that nontelephone households have somewhat different
+victimization rates than other households, the size of these
+groups is small enough that the effect on overall rates would
+not be large.
+
+* Respondent recall error and the unboundedness of the
+interview.  In the regular NCVS, interviews are bounded, as
+households are interviewed more than once to exclude incidents
+outside the time reference period.  This was not possible in the
+12-city RDD survey.  
+
+Source: Census Bureau Memorandum Source and Accuracy Statement
+for the 1998 Community Oriented Policing Services Survey, by
+Alan Tupek, September 24, 1998.
+
+--------------------------------
+Weighting/estimation procedures
+--------------------------------
+
+Each person, household, and person incident received a full
+sample final weight. The final weight was the product of all the
+components presented in the table on this page. 
+The weighting was done independently within each of the 12
+cities.
+
+The weights calculated for each person, household, and person
+incident contain the following four components:
+* Base weight is the inverse of the probability of selecting the
+household's telephone number.
+* Multiple phone number factor adjusts for households with more
+than one telephone number and therefore a higher probability of
+selection.
+* Household noninterview adjustment factor adjusts for household
+noninterviews. This includes both in scope noninterviews and a
+portion of the cases with unknown eligibility. Fifty percent of
+the unknown eligibility cases were assumed to be in-scope
+noninterviews.
+
+----------------------------------------
+Components of the COPS final weights 
+    
+Components                                  House-     
+of final weight                    Persons  holds   Incidents  
+       
+Base weight                            X        X      X
+Multiple phone number factor           X        X      X
+Household noninterview             
+   adjustment factor                   X        X      X
+Within-household              
+  noninterview factor                  X               X 
+Population ratio estimate factor       X        X      X
+Multiple-victim adjustment factor                      X
+
+* Population ratio estimate factor  adjusts the weighted person
+totals to the estimated city population for each of the surveyed
+cities. DSMD determined the growth rate for each city based on
+April 1, 1990, and July 1, 1996 city population counts.  These
+growth rates were then applied to the July 1996 counts to
+estimate city populations for February 1998. Further adjustments
+were made to reflect each city's population age 12 older,
+(eligible to take part in this survey).
+
+
+The person and person incident weights also included the
+Within-Household Noninterview Factor (WHNF). The WHNF inflates
+the weights of interviewed persons within interviewed households
+to account for noninterviewed persons within interviewed
+households. The weight assigned for the household is the weight
+of the principal person excluding the WHNF; this weight is also
+used to construct household incident estimates.
+
+The incident weight also includes the Multiple-Victim Adjustment
+Factor (MVAF). This factor reduces the weights of multiple
+persons involved in a single victimization.
+
+-------------------------------------------
+Replicate weighting and variance estimation
+-------------------------------------------
+
+The sample used for a survey is one of a large number of
+possible samples of equal size that could have been obtained
+using the same sample design and selection procedures.
+Information collected from the sample surveyed is used to
+estimate characteristics of the entire population. The accuracy
+of those estimates must be measured to determine whether
+apparent differences are significant or part of the estimates'
+variation.
+
+The standard error of a survey estimate is a measure of the
+variation among that estimate from all possible samples. DSMD
+has traditionally developed generalized variance functions that
+modeled the standard error for each type of characteristic
+studied. Generalized variance functions derive standard errors
+which are applicable to a wide variety of items and which can be
+prepared at a moderate cost, but require a number of approximations.
+
+For the 12-city survey, variance estimation is based on the
+concept of replication. Through the use of replicate weights,
+users can compute standard errors for any characteristic that is
+relevant to their area of interest.  The standard errors are
+more accurate than with the previously used approximations obtained 
+through generalized variance functions.
+
+Replicate samples were created by randomly assigning a replicate
+code (1 to R) within each primary sampling unit (PSU). For the
+12-city survey, a replicate code of r=1, ..., 30 was assigned to
+each sample case at the time of sampling. This created thirty
+replicate samples (R), each containing 1/30 of the sample.
+
+Replicate methods of variance estimation require reweighted
+replicate samples.  The 12 cities replicate samples were
+reweighted by rerunning the basic weighting program 30 times
+with the following revisions:
+* excluded one replicate sample for each iteration of the
+weighting procedure.
+* increased the base weight of each replicate sample by a factor
+of 30/(30-1) to account for the exclusion of one replicate
+sample during each iteration.
+
+The survey data can now be used to calculate estimators for each
+characteristic of interest and each estimator variance. The
+appropriate replication method to calculate variances is the
+"simple jackknife" because the 12-city survey used a simple
+random sample. The simple jackknife procedure requires that
+replicate codes (1 to R) be randomly assigned to each case,
+which was done during sampling. To calculate an estimator and
+its variance, first calculate the estimator of interest using
+the complete sample. Then recalculate the estimator for each of
+the 30 reweighted replicate samples.  The simple jackknife
+variance estimator is:
+
+     where:
+
+R = the total number of reweighted replicate samples
+
+y/r = the reweighted replicate sample estimator
+
+y = the complete sample estimator
+
+Use of replicate weights to calculate variances requires a vast
+number of computations.  Software programs have been developed to
+perform these procedures.
+
+----------------------------------------------------
+Number of survey respondents, 1998
+
+                   Households          Persons
+City            Target   Actual     Target   Actual
+ 
+    Total       10449     9327       19200   13918
+ 
+Chicago, IL       885      790        1600    1124
+Kansas City, MO   884      798        1600    1162
+Knoxville, TN     844      756        1600    1198
+Los Angeles, CA   881      844        1600    1121
+ 
+Madison, WI       840      731        1600    1162
+New York, NY      866      744        1600    1059
+San Diego, CA     868      791        1600    1131
+Savannah, GA      891      766        1600    1245
+ 
+Spokane, WA       875      801        1600    1239
+Springfield, MA   894      771        1600    1231
+Tucson, AZ        878      813        1600    1233
+Washington, DC    843      722        1600    1013
+---------------------------------------------------
+
+-------------
+References
+-------------
+
+Battaglia, Michael P., et al.  Pre-Identification of nonworking
+and business telephone numbers in list-assisted
+random-digit-dialing samples.  Abt Associates Inc., 55 Wheeler
+Street Cambridge, MA 02138 (undated).
+
+Brick, J. Michael, et al.  Bias in list assisted-telephone
+samples. Westat Inc., 1650 Research Blvd. Rockville, MD 20850.
+
+Groves, Robert M., et al. Telephone Survey Methodology (Wiley
+Series in Probability and Mathematical Statistics/Applied Probability
+and Statistics) John Wiley and Sons, New York, November 1988.
+
+Kulp, Dale W, et al. Dynamics of "list-assisted"
+random-digit-dialing (RDD) frame coverage. GENESYS Sampling
+Systems, 565 Virginia Drive, Fort Washington, Pennsylvania 19034
+(undated)
+
+Criminal Victimization in the United States, 1993, BJS Report,
+NCJ 151657, May 1996.
+
+The Effects of the Redesign on Victimization Estimates, BJS
+Technical Report, NCJ 164381, May 1997.
+
+---------------------------
+Appendix I
+Survey Instrument
+---------------------------
+
+The survey questions related to community attitudes were
+developed through a collaboration between the Office of
+Community Oriented Policing Services and the Bureau of Justice
+Statistics.  
+
+A number of survey instruments were reviewed during the
+development of the community policing questions.  Specific
+questions were adapted from policing surveys conducted in --
+
+Chicago, Illinois,
+Knoxville, Tennessee,
+Pocatello, Idaho, and
+Tempe, Arizona.
+
+Comments on the survey instrument were provided by Gary Cordner
+of Eastern Kentucky University, Wes Skogan of Northwestern University, 
+and Deborah Weisel of the Police Executive Research Forum.  
+
+The Bureau of the Census reviewed the final instrument prior to
+field work.
+
+Copies of the National Crime Victimization Survey can be
+obtained from the BJS website http://www.ojp.usdoj.gov/bjs/.
+
+-----------------------------------------------------------------
+Large City RDD Victimization Survey Community Policing Questions
+-----------------------------------------------------------------
+
+Note 1:  If the respondent is 16 years old or older AND
+interviewed by self-response, continue the interview with the
+COPS questions, otherwise skip  to the FILLROSTER screen,  if
+there are other household members 12 years of age or older to be
+interviewed, or to THANK-YOU to end the interview with the
+household.
+
+Section A.   Perception/Identification of the Crime Problem 
+
+1a. Now, I am going to ask you a few questions about crime in
+your current neighborhood. 
+To the best of your knowledge, have any serious crimes occurred
+in your neighborhood in the past 12 months, that is between <fill>?
+ (PROBE, IF NECESSARY) 
+   ( 1 )  Yes  - Ask 1b
+   ( 2 )  No - Skip to 2  
+   ( 3 )  Not aware of any crime occurring in current neighborhood - Skip to 2  
+   ( D)   Don't know - Skip to 2.  
+
+1b. Which of the following types of serious crimes do you know
+to have occurred in your neighborhood in the past 12 months . . . 
+(READ EACH CATEGORY THEN ENTER THE APPROPRIATE CODE FOR EACH CATEGORY)
+                          (1) Yes      (2)  No      (3) Don't know
+
+   . . .  People openly selling drugs
+   . . .  People openly using drugs
+   . . .  Auto-theft 
+   . . .  Theft of personal property
+   . . .  Breaking and entering to steal personal property
+   . . .  Violent physical attacks 
+   . . .  Crimes committed with guns
+   . . .  Sexual assault/Rape
+   . . .  Murder 
+
+1c.  How did you find out about these crimes? 
+(DO NOT PROBE.  ENTER THE CODE FOR ALL CATEGORIES THAT APPLY). 
+Was there any other way you found out?
+(WHEN FINISHED, ENTER "N" FOR 'NO MORE)
+----  ( 1 )   Respondent or someone they know was victimized.
+----  ( 2 )   Witnessed criminal acts in neighborhood.
+----  ( 3 )   Learned about crime through conversations with neighbors, neighborhood   
+       associations/civic organizations' newsletters, and/or community meetings.
+----  ( 4 )   Received information directly from the local police through community meetings,
+       newsletters, pamphlets, crime bulletins, and/or police Internet websites.
+----  ( 5 )   Received information through the media, such as newspapers, television, and radio.
+----  ( 6 )   Received information through a public kiosk/terminal or by visiting a police
+       substation.
+----  ( 7 )   Other (Specify)
+
+Section B.   Fear of crime/Quality of Life 
+
+2.  Overall, do you think you are well informed of crime which occurs in your neighborhood?
+   ( 1 )  Yes
+   ( 2 )  No 
+   ( D)   Don't know. 
+
+3a. Now I'd like to ask you questions about your fear of crime
+and quality of life in both your current neighborhood and in your city.  
+
+How satisfied are you with the quality of life in your NEIGHBORHOOD?  Are you very satisfied,
+satisfied, dissatisfied, or very dissatisfied?
+   ( 1 )  Very satisfied
+   ( 2 )  Satisfied
+   ( 3 )  Dissatisfied
+   ( 4 )  Very dissatisfied
+   ( D)   Don't know.
+
+3b. How satisfied are you with the quality of life in your city?
+Are you very satisfied, satisfied, dissatisfied, or very dissatisfied?
+   ( 1 )  Very satisfied
+   ( 2 )  Satisfied
+   ( 3 )  Dissatisfied
+   ( 4 )  Very dissatisfied
+   ( D)   Don't know.                       
+
+4a.  How fearful are you about crime in your NEIGHBORHOOD?  Are you very fearful,
+somewhat fearful, not very fearful, or not at all fearful?
+   ( 1 )  Very fearful
+   ( 2 )  Somewhat fearful 
+   ( 3 )  Not very fearful - Skip to 5a
+   ( 4 )  Not at all fearful - Skip to 5a
+   ( D)   Don't know - Skip to 5a.
+
+4b. Over the last 12 months, have your fears increased, decreased, or stayed the same?
+   ( 1 )  Increased
+   ( 2 )  Decreased 
+   ( 3 )  Stayed the same
+   ( D)   Don't know. 
+
+5a.  How fearful are you about crime in your city?  Are you very
+fearful, somewhat fearful, not very fearful, or not at all fearful?
+   ( 1 )  Very fearful
+   ( 2 )  Somewhat fearful 
+   ( 3 )  Not very fearful - Skip to 6a
+   ( 4 )  Not at all fearful - Skip to 6a
+   ( D)   Don't know - Skip to 6a.
+
+5b.  Over the last 12 months, have your fears increased, decreased, or stayed the same?
+   ( 1 )  Increased
+   ( 2 )  Decreased  
+   ( 3 )  Stayed the same
+   ( D)   Don't know. 
+
+6a.  Now I am going to ask you a few questions that are more NEIGHBORHOOD specific.
+Do any of the following conditions or activities exist in your neighborhood ?
+(READ EACH CATEGORY THEN ENTER THE APPROPRIATE CODE FOR EACH CATEGORY)
+                          (1) Yes    (2) No   (3) Don't know
+   . . .  Abandoned cars and/or buildings
+   . . .  Rundown/neglected buildings 
+   . . .  Poor lighting 
+   . . .  Overgrown shrubs/trees
+   . . .  Trash
+   . . .  Empty lots
+   . . .  Illegal public drinking/public drug use 
+   . . .  Public drug sales 
+   . . .  Vandalism or Graffiti
+   . . .  Prostitution
+   . . .  Panhandling/Begging
+   . . .  Loitering/"hanging out"
+   . . .  Truancy/youth skipping school
+   . . .  Transients/Homeless sleeping on benches, streets
+
+NOTE 2:      Do any of the categories in 6a contain an entry of 1?
+             [ ]   Yes - Ask 6b
+             [ ]   No - Skip to 7.
+
+6b.  Do any of the conditions you just mentioned make you feel
+less safe in your NEIGHBORHOOD?
+   ( 1 )  Yes 
+   ( 2 )  No - Skip to 7
+   ( D)   Don't know - Skip to 7.
+
+6c.  Which one of the conditions just mentioned affects your feeling of safety the most? 
+(DO NOT READ RESPONSE CATEGORIES UNLESS REQUESTED BY THE RESPONDENT) 
+   ( 1 )   Abandoned cars 
+   ( 2 )   Rundown/neglected buildings
+   ( 3 )   Poor lighting
+   ( 4 )   Overgrown shrubs/trees
+   ( 5 )   Trash
+   ( 6 )   Empty lots
+   ( 7 )   Illegal public drinking/public drug use
+   ( 8 )   Public drug sales
+   ( 9 )   Vandalism or Graffiti
+  ( 10 )   Prostitution
+  ( 11 )   Panhandling/Begging
+  ( 12 )   Loitering/"hanging out"
+  ( 13 )   Truancy/youth skipping school
+  ( 14 )   Transients/Homeless sleeping on benches, streets
+   (D)     Don't know. 
+
+7.  Here are some things people DO to protect themselves or
+their property from crime that takes place AT HOME.  
+In the past 12 months, have you done any of these things to 
+protect yourself from crime in the home, in a direct  
+response to you or your family's fear of crime?.
+(READ EACH CATEGORY THEN ENTER THE APPROPRIATE CODE FOR EACH CATEGORY)
+                                 (1) Yes  (2) No    (3) Don't know
+   . . .  You go to neighborhood watch meetings.                
+   . . .  You and your neighbors have agreed to watch out for each other's safety. 
+   . . .  You've installed a security system for your home.
+   . . .  You've asked the police department to do a home security check.
+   . . .  You have guard dogs at home.
+   . . .  You've engraved security identification numbers on all your belongings.
+   . . .  You've installed extra locks on windows and/or doors. 
+   . . .  You keep weapons inside the home.
+   . . .  You've added outside and/or automatic lighting (e.g timers).
+   . . .  Are there any other precautions you take that I haven't
+          described? (Specify).     
+
+8a.  The next few questions pertain to ALL areas of your city.  
+Are you afraid of becoming a victim of STREET crime?
+   ( 1 )  Yes 
+   ( 2 )  No- Skip to 9a
+   ( D)   Don't know - Skip to 9a.
+
+8b. What type of street crime are you MOST afraid of?
+(READ EACH CATEGORY THEN ENTER THE APPROPRIATE CODE)
+   ( 1 )  Robbery, someone stealing from you  
+   ( 2 )  Physical assault that does not involve a gun (non-domestic violence)    
+   ( 3 )  Assault with a gun, someone hurting you with a deadly weapon
+   ( 4 )  Sexual assault/Rape
+   ( 5 )  Murder,  OR
+   ( D)   Don't know.
+
+8c.  Here are some things people DO to avoid becoming a victim
+of crime that takes place outside the home.
+In the past 12 months, have you done any of these things?.
+(READ EACH CATEGORY THEN ENTER THE APPROPRIATE CODE FOR EACH CATEGORY)
+                                       (1) Yes  (2) No  (3)Don't know  
+   . . . You carry a self-defense warning device such as a whistle or alarm.
+   . . . You carry a self-defense weapon (includes knife, gun, club, mace, stun-gun). 
+   . . . You no longer take certain routes or go into certain areas in your neighborhood.  
+   . . . You avoid going out at night. 
+   . . . You avoid going out alone. 
+   . . . You took a self-defense class. 
+   . . . You attend community meetings in your neighborhood.
+   . . . You've made an effort to get to know the police in your neighborhood.
+   . . . You plan to relocate to outside of your neighborhood. 
+OR
+   . . . Have you taken other preventative measures that I haven't described? (Specify).
+
+Section C.   Police Contact/Visibility 
+
+9a. Now, I am going to ask about the LOCAL police.
+In the past 12 months, have you been in contact with the LOCAL police for any reason?
+   ( 1 )  Yes 
+   ( 2 )  No - Skip to 10
+   ( D)   Don't know/Can't remember - Skip to 10.
+
+9b.  How would you best describe your contact with the police?
+(DO NOT PROBE.  ENTER THE APPROPRIATE CODE FOR ALL CATEGORIES THAT APPLY.
+WHEN FINISHED, ENTER "N" FOR 'NO MORE'.
+----  ( 1 )   Casual conversation with a police officer.
+----  ( 2 )   Officer responding to respondent's call for service.
+----  ( 3 )   Gave information to police about a crime or incident (e.g. crime tip).
+----  ( 4 )   Reported a crime to the police.
+----  ( 5 )   Participated in a survey given by the police department.
+----  ( 6 )   Asked the police for information or advice.
+----  ( 7 )   Participated in a community activity that involved
+the police  (e.g. clean-up, social event, community meeting).
+----  ( 8 )   Traffic violations/traffic accidents.
+----  ( 9 )   Working with police to address specific problems.
+----  ( 10 )  Other (Specify).
+
+10.  In the past 12 months, have you observed any increases or
+decreases in police officer presence in your neighborhood or did 
+the number stay the same?
+   ( 1 )  Increase
+   ( 2 )  Decrease
+   ( 3 )  No change
+   ( 4 )  Never see police in my  neighborhood
+   ( D)   Don't know.
+
+11.  In the past 12 months, what activities have you seen police doing?
+(READ EACH CATEGORY THEN ENTER THE APPROPRIATE CODE FOR EACH CATEGORY)
+                                    (1) Yes    (2) No    (3) Don't know      
+   . . . Police talking with residents in the neighborhood.     
+   . . . Police talking with business owners in the neighborhood.                 
+   . . . Police attending community meetings.                   
+   . . . Police facilitating crime watch and prevention activities such as nights out.                                  
+   . . . Police involved with kids through recreational or school activities
+   . . . Police opening police substations or information centers.                 
+   . . . Are there any other activities that you've noticed police are 
+         involved in (Specify).                               
+  OR
+   . . . Have you noticed any other activities?  
+
+12a.  In the past 12 months, have you heard about any community
+meetings concerning crime taking place in your neighborhood? 
+   ( 1 )  Yes
+   ( 2 )  No - Skip to 13
+   ( D)   Don't know - Skip to 13.
+
+12b.  In the past 12 months, have you attended any of these community meetings?
+   ( 1 )  Yes - Skip to 13
+   ( 2 )  No 
+   ( D)   Don't know - Skip to 13.
+
+12c.  What are your reasons for not attending any meetings? 
+(DO NOT PROBE.   ENTER THE CODE FOR ALL CATEGORIES THAT APPLY.)
+
+----  ( 1 )   Aware of meetings, but do not know location and/or dates/times.
+----  ( 2 )   Unable to obtain transportation.
+----  ( 3 )   Unable to obtain child care.
+----  ( 4 )   Meetings held in unsafe/scary part of town.
+----  ( 5 )   Attendance would not help crime problem.
+----  ( 6 )   Meeting place is too far.
+----  ( 7 )   Meeting times take place during work hours.  
+----  ( 8 )   Don't have the time to attend
+----  ( 9 )   Not especially concerned about crime in my neighborhood.
+----  (10 )   Other (Specify) 
+----  ( D)    Don't know.
+
+Section D.   Satisfaction with Police/Availability of Police
+
+13.  In general, how satisfied are you with the police who serve your neighborhood? 
+Are you very satisfied, satisfied, dissatisfied, or very dissatisfied? 
+   ( 1 )  Very satisfied 
+   ( 2 )  Satisfied
+   ( 3 )  Dissatisfied
+   ( 4 )  Very Dissatisfied
+   ( D)   Don't know (no opinion; not aware of police services).
+
+14.  Does the police department servicing your neighborhood have
+a phone number for you to call for non-emergencies, other than 911?
+   ( 1 )  Yes (includes respondents who may not remember the number itself)
+   ( 2 )  No 
+   ( D)   Don't know/can't remember.
+
+Section E.   Responsibility for Crime Prevention
+
+15.  How much work are police doing with the residents of your
+neighborhood to prevent crime and safety problems, a lot, some, very 
+little, or nothing at all?
+   ( 1 )  A lot  
+   ( 2 )  Some
+   ( 3 )  Very little
+   ( 4 )  Nothing at all 
+   ( D )  Don't know. 
+
+
+Section F.   Knowledge of Community Policing
+
+16a.  Are you familiar with the term "Community Policing?"
+   ( 1 )  Yes
+   ( 2 )  No
+   ( D)   Don't Know.
+
+16b.  Community policing involves police officers working with
+the community to address the causes of crime in an effort to reduce 
+the problems themselves and the associated fear, through a wide range 
+of activities. 
+Based on the definition, do you think the police in your
+neighborhood practice community policing? 
+   ( 1 )  Yes - Skip to 17a
+   ( 3 )  Somewhat - Skip to 17a
+   ( 2 )  No 
+   ( D)   Don't know .
+
+16c.  Do you wish the police in your neighborhood practiced community policing?
+   ( 1 )  Yes
+   ( 2 )  No 
+   ( D)   Don't know.
+
+NOTE 5:  Is there a response of 2 or D in 16c?
+      [   ]  Yes - Skip to FILLROSTER, if there are other household members 12 years of
+                   age or older to be interviewed, otherwise skip to THANK-YOU to end 
+                   the interview with the household.  
+      [   ]  No - Ask 16d 
+
+16d.  What type of things do you wish the police were doing in your neighborhood? 
+(DO NOT PROBE.)
+----  ( 1 )  Working with the community to prevent crime
+----  ( 2 )  Increasing the number of officers patrolling the streets
+----  ( 3 )  Assigning the same officers to my neighborhood day in and day out
+----  ( 4 )  Removing the trash, abandoned cars, destroying abandoned buildings or
+             helping to evict bad tenants
+----  ( 5 )  Cleaning up the streets 
+----  ( 6 )  Working more with the children in the area/ giving them a safe place to play 
+----  ( 7 )  Doing home security checks/surveys
+----  ( 8 )  Do not want them to do anything/they are doing what I want them to do
+----  ( 9 )  Other (Specify).
+
+NOTE 6:  If any response in 16d, skip to FILLROSTER, if there
+are any other household members 12 years of age or older to be
+interviewed, otherwise skip to THANK YOU to end the interview
+with the household.  
+
+17a.  How do you know? 
+(DO NOT PROBE.  ENTER CODE FOR ALL CATEGORIES THAT APPLY.)
+----  ( 1 )   Saw police doing community policing activities
+----  ( 2 )   Saw in newspaper, on TV, or heard on the radio
+              that police were doing community policing 
+----  ( 3 )   Other (Specify).
+----  ( D)    Don't know.
+
+NOTE 7:  Is there an entry of 1 in 17a?
+         [   ]  Yes   - ask 17b.
+         [   ]  No    - Skip to FILLROSTER if there are any
+other household members 12 years of age or older who need to be
+interviewed, otherwise skip to THANK YOU to end the interview
+with the household.  
+
+17b.  You said you saw the police doing community policing
+activities. Please specify what types of activities you saw 
+the police participating in. 
+(DO NOT READ CATEGORIES.  ENTER THE APPROPRIATE CODE FOR ALL
+CATEGORIES THAT APPLY.)
+----  ( 1 )  Traffic enforcement
+----  ( 2 )  Increasing their presence in high crime/"bad" areas
+----  ( 3 )  Increasing patrol by vehicle/foot/bike patrol 
+----  ( 4 )  Working with the community and/or business owners to address specific problems
+----  ( 5 )  Attending community meetings
+----  ( 6 )  Conducting crime prevention or community policing workshops
+----  ( 7 )  Conducting community and/or business surveys about neighborhood problems                      
+----  ( 8 )  Running youth programs like DARE, GREAT, PAL
+----  ( 9 )  Other (Specify).
+End interview.
+
+---------------------
+Appendix II
+---------------------
+
+-------------------------------------------------------------------------------------------------------
+Appendix table 1.  Standard errors for selected estimates, 1998
+
+                           Fear of crime         Violent crimes               Property crimes
+                  In city  In neighbor- Rate per            Percent    Rate per              Percent
+                  percent  hood percent 1,000    Number     reported   1,000     Number      reported
+                  fearful  fearful      persons (1,000's)   to police  persons  (1,000's)    to police
+ 
+    Total           0.80       0.86       6.37    90.18      3.63       12.18     88.35       1.64
+ 
+Chicago, IL         1.25       1.91       8.78    19.64      4.70       25.40     28.63       2.71
+Kansas City, MO     1.59       1.65       9.74     3.57      5.74       30.81      6.11       3.42
+Knoxville, TN       1.26       1.34       8.54     1.18      6.78       26.89      1.94       3.01
+Los Angeles, CA     1.14       1.59       8.97    26.50      7.88       24.68     37.02       2.90
+ 
+Madison, WI         1.39       1.40       8.68     1.43      5.82       32.32      2.78       5.00
+New York, NY        1.65       1.69      13.20    80.72      6.09       21.63     67.87       3.84
+San Diego, CA       1.67       1.56       8.38     8.23      6.61       23.78     11.68       2.88
+Savannah, GA        1.48       1.50      12.95     1.46      8.01       27.01      1.46       3.67
+ 
+Spokane, WA         1.16       1.51      10.26     1.60      5.19       29.35      2.38       2.93
+Springfield, MA     1.43       1.72      11.78     1.44      5.87       30.02      1.75       2.72
+Tucson, AZ          1.43       1.63      11.81     4.49      5.04       29.49      5.86       2.43
+Washington, DC      1.57       2.20       8.19     3.57      8.90       36.33      8.93       3.17
+ 
+See Methodology section for description of calculations of standard errors.
+------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------
+Appendix table 2.  Standard errors for satisfaction with police
+estimates, 1998
+
+                      Percent satisfied with police
+                      Total    White    Black    Other
+ 
+    Total             0.68     0.74     1.93     2.03
+ 
+Chicago, IL           1.47     1.35     2.38     5.56
+Kansas City, MO       1.05     1.35     3.02     6.15
+Knoxville, TN         1.02     0.99     7.35     0.00
+Los Angeles, CA       1.34     1.64     4.41     2.75
+ 
+Madison, WI           0.79     0.88     3.11     1.96
+New York, NY          1.53     1.75     3.21     3.83
+San Diego, CA         0.71     0.76     3.35     2.69
+Savannah, GA          0.95     1.43     1.48     4.39
+ 
+Spokane, WA           1.33     1.25    11.15     7.43
+Springfield, MA       1.25     1.35     2.71     4.05
+Tucson, AZ            0.96     0.96     4.70     3.91
+Washington, DC        1.45     2.23     2.27     7.59
+ 
+See Methodology section for description of calculation
+of standard errors.
+--------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Appendix table 3.  Incidents used to calculate rates of crime
+ 
+                      Violent crime incidents                       Property crime incidents
+                           Victim race                                  Household race
+                   Total      White      Black    Other        Total    White    Black     Other
+ 
+    Total         1056327    516391      337064  202872       2365223  1375965   655782    333476
+ 
+Chicago, IL        152136     82492       37178   32466       488093    250089   175978     62026
+Kansas City, MO     22263     15863        4494    1906        65715     43455    19072      3188
+Knoxville, TN        9634      8607         923     104        22647     20405     1835       407
+Los Angeles, CA    191189    115404       49254   26531       520865    293323   110628    116914
+ 
+Madison, WI         11614     11338           0     276        27735     25366     1360      1009
+New York, NY       521470    182220      214839  124411       814937    448779   267321     98837
+San Diego, CA       61844     47524        6087    8233       151176    112979    12267     25930
+Savannah, GA         9129      4745        4118     266        24053     13827     8981      1245
+ 
+Spokane, WA         10471      8689        889      893        33393     30226     1067      2100
+Springfield, MA      9502      5881       2191     1430        21258     14387     5411      1460
+Tucson, AZ          30993     24527       1421     5045        85859     70342     2844     12673
+Washington, DC      26082      9101      15670     1311       109492     52787    49018      7687
+--------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
+Appendix table 4.  Populations used to calculate rates of crime
+
+                            Population                                    Number of Households
+                     Total      White      Black     Other         Total      White     Black     Other
+ 
+    Total         14167416     8488609    3401856  2276951       7251110    4430682   1695832    1124596
+ 
+Chicago, IL        2237203     1241089     742591   253523       1127553     634599    368492     124462
+Kansas City, MO     366351      271397      77899    17055        198303     148264     41038       9001
+Knoxville, TN       138066      123238      11644     3184         72228      64642      6227       1359
+Los Angeles, CA    2954058     1856651     431939   665468       1499930     953045    220044     326841
+ 
+Madison, WI         164987      150289       5684     9014         86154      77589      3446       5119
+New York, NY       6116941     3317344    1752530  1047067       3137685    1758658    859342     519685
+San Diego, CA       982314      743711      58668   179935        491217     376317     29481      85419
+Savannah, GA        112349       63440      45132     3777         54084      31632     20399       2053
+ 
+Spokane, WA         156428      144919       3796     7713         81177      76000      1120       4057
+Springfield, MA     122501       85717      25854    10930         58230      41257     11554       5419
+Tucson, AZ          380067      315133      13544    51390        198706     165720      6691      26295
+Washington, DC      436151      175681     232575    27895        245843     102959    127998      14886
+----------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------
+Sources of additional information on community policing
+
+Office of Community Oriented Policing Services
+---------------------------------------------------------
+
+To obtain information about COPS grant programs, call the U.S. 
+Department of Justice Response Center at 1-800-421-6770 or access 
+the COPS website at http://www.usdoj.gov/cops/ 
+
+---------------------------------------------
+Local police departments in the study cities
+---------------------------------------------
+
+Information about the police departments and their forms of community 
+policing can be obtained from the following locally maintained websites:
+
+Chicago, IL -- www.ci.chi.il.us/CommunityPolicing
+Kansas City, MO -- www.kcpd.org
+Knoxville, TN -- www.ci.knoxville.tn.us/departments/kpd.htm
+Los Angeles, CA -- www.lapdonline.org/index.htm
+Madison, WI -- www.ci.madison.wi.us/police/poldept.html
+New York City, NY -- www.ci.nyc.ny.us/html/nypd
+San Diego, CA -- www.sannet.gov/police/index.html
+Savannah, GA -- www.savannahpd.org
+Springfield, MA -- www.spfldpd.org/
+Spokane, WA -- www.ior.com/~spd
+Tucson, AZ -- www.ci.tucson.az.us/police
+Washington, DC -- www.mpdc.org
+
+END OF FILE, 6/3/99, tld
+
+
+
+
+

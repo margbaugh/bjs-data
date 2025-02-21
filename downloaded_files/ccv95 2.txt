@@ -1,0 +1,1502 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+
+
+National Crime Victimization Survey
+Changes in Criminal Victimization, 1994-95
+April 1997, NCJ-162032
+With additional tables.
+
+The full text of this report is available through:
+
+* the BJS Clearinghouse, 1-800-732-3277
+* on the Internet at http://www.ojp.usdoj.gov/bjs/
+* on the BJS gopher:
+gopher://www.ojp.usdoj.gov:70/11/bjs/
+* on the National Criminal Justice Reference Service Electronic
+Bulletin Board (set at 8-N-1, call 301-738-8895,
+select BJS).
+
+
+
+By  Bruce M. Taylor, Ph.D.
+BJS Statistician 
+
+
+***********
+Highlights
+************
+
+* Major declines from 1994 to 1995 occurred in rates of both
+personal crime, which includes violent crime and personal theft,
+and property crime.
+
+* Significant declines also occurred for most individual types
+of crime included in the overall categories.  Motor vehicle
+theft was the only type of crime for which rates did not
+register a significant decline.
+
+* Some changes varied with household income.  Most declines in
+personal victimization were recorded for respondents in
+households earning less than $15,000 a year.  None of the
+differences in property crime for households earning less than
+$7,500 a year was statistically significant.
+
+* Personal victimization rates for the oldest and youngest age
+groups declined less than those for the intermediate age groups.
+
+*Personal crime declined slightly for blacks and Hispanics, 
+from 1994 to 1995. Among blacks, aggravated assault declined 
+significantly.
+
+*Hispanic households showed declines for all types of property
+crime.  Although black households showed a drop in overall
+property victimization, none of the changes in burglary or 
+household and motor vehicle theft was statistically significant.
+
+* Except for motor vehicle theft, rates for all types of
+household victimization declined more in the West than in other
+regions.
+
+In 1995 criminal victimization rates for U.S. residents age 12
+or older declined for both personal and property crimes,
+according to data collected from the National Crime
+Victimization Survey.
+
+The overall personal crime rate of 46.2 per 1,000 persons fell
+13% from 1994.  Violent crime dropped 12.4% to 44.5 crimes per
+1,000 persons age 12 or older.  Overall property crime declined
+by 9.1% to a rate of 279.5 per 1,000 households.
+
+These declines are the largest changes recorded for the broad
+categories of crime since the survey began. (The overall crime
+classifications changed slightly after 1992.)
+
+The National Crime Victimization Survey (NCVS) measures as
+personal crimes the violent offenses of rape and sexual assault,
+robbery, and simple and aggravated assault.  Personal thefts are
+also included among these personal crimes.  The NCVS measures
+the property crimes of household burglary, motor vehicle theft,
+and theft.
+
+The decline was generally evident across a wide range of crime,
+persons, and households.  Among personal crimes, simple assault
+(-7.1%), aggravated assault (-24.1%), and personal theft
+(-26.1%) had significant drops in victimization rates, with
+robbery and rape/sexual assault also showing some evidence 
+of decline.   All types of property crime contributed to the overall drop. 
+However, only burglary (a 12.9% decrease, 1994-95) and household
+theft (8.4%) registered declines strong enough to be statistically 
+significant.
+
+Although these reductions in victimization were broad-based,
+different subpopulations varied in the degree to which they
+experienced the reductions.
+
+****************************************************
+Finding the latest crime victimization information
+****************************************************
+
+This BJS report introduces a more complete presentation of the
+recent results from the NCVS.  It departs from a concentration
+on a single year by including the rates of crimes for over a
+dozen categories of persons or households, 1992-95; however, 
+findings from only 1994 and 1995 are discussed.  
+
+The following three sources provide the fullest access to 
+statistics from the victim survey:
+
+*Thirteen tables, titled A to M on pages 6 to 12, contain the
+rates per 1,000 summarized in the text.  Analysis may cut across
+data from several tables so that table references are omitted
+from the next four pages.
+
+*The BJS Internet site (http://www.ojp.usdoj.gov/bjs/) features
+spreadsheets for the Bulletin tables, as well as for other data,
+like those summarizing reporting to the police.
+
+*BJS will publish companion NCVS reports to estimate long-term
+trends, 1993-95 and to describe specific types of victimizations or
+categories of victims, 1992-95.
+
+Table 1.  Criminal victimizations and victimization rates, 1992-95
+
+                                                        Victimization rates
+							 (per 1,000 persons 
+	                       Number of victim-         age 12 or older or            Percent
+                               izations (1,000's)        per 1,000 households          change,  
+Type of crime	       1992    1993    1994   1995      1992   1993    1994   1995    1993-95   1994-95
+
+All crimes	     42,834  43,547  42,362  38,446    . . .   . . .  . . .   . . .		
+											
+Personal crimesa     10,618  11,365  11,350   9,966     50.7   53.7    53.1   46.2     -14.0%*   -13.0%*
+Crimes of violence   10,249  10,848  10,861   9,601     49.0   51.3    50.8   44.5     -13.3*    -12.4*
+Completed violence   32,290   3,213   3,205   2,779     15.7   15.2    15.0   12.9     -15.1*    -14.0
+Attempted/threatened
+ violence	      6,958   7,635   7,655   6,822     33.2   36.1    35.8   31.6     -12.5*    -11.7
+Rape/Sexual assault     607     485     433     340      2.9    2.3     2.0    1.6     -30.4*    -20.0**
+Rape/attempted rape     374     313     316     234      1.8    1.5     1.5    1.1     -26.7*    -26.7*
+Rape	                175     160     168     141       .8     .8      .8     .7     -12.5     -12.5
+Attempted rape	        200     152     149      93      1.0     .7      .7     .4     -42.9*    -42.9*
+Sexual assault          233     173     117     106      1.1     .8      .5     .5     -37.5*       0   
+Robbery               1,272   1,291   1,299   1,142      6.1    6.1     6.1    5.3     -13.1**   -13.1**
+Completed/property
+   taken	        844     815     795     745	 4.0    3.9     3.7    3.5     -10.3      -5.4
+With injury             307     274     288     218	 1.5    1.3     1.3    1.0     -23.1     -23.1**
+Without injury          538     541     507     527	 2.6    2.6     2.4    2.4      -7.7        0   
+Attempted to
+  take property         428     476     504     397      2.0    2.3     2.4    1.8     -21.7**   -25.0*
+With injury	         81      96     122      95       .4     .5      .6     .4     -20.0     -33.3**
+Without injury	        346     381     382     302      1.7    1.8     1.8    1.4     -22.2**   -22.2**
+Assault	              8,370   9,072   9,129   8,119     40.0    42.9   42.7   37.6     -12.4*    -11.9*
+Aggravated	      2,317   2,563   2,478   1,892     11.1    12.1   11.6    8.8     -27.3*    -24.1*
+With injury	        671     713     679     509      3.2     3.4    3.2    2.4     -29.4*    -25.0*
+Threatened with
+   weapon             1,646   1,850   1,800   1,382      7.9     8.7    8.4    6.4     -26.4*    -23.8*
+Simple                6,053   6,509   6,651   6,227     28.9    30.8   31.1   28.9      -6.2      -7.1*
+With minor injury     1,142   1,356   1,466   1,291      6.9     6.4    6.9    6.0      -6.3     -13.0*
+Without injury        4,611   5,153   5,185   4,936     22.0    24.4   24.3   22.9      -6.1      -5.8
+Personal theftb         369     517     489     365      1.8     2.4    2.3    1.7     -29.2*    -26.1*
+											
+Property crimes      32,217  32,182  31,012  28,480    325.3   322.1  307.6  279.5     -13.2%*   -9.1%*
+Household 
+  burglary            5,803   5,984   5,483   4,825     58.6    59.9   54.4   47.4     -20.9*	 -12.9*
+Completed             4,744   4,824   4,573   4,072     47.9   4 8.3   45.4   40.0     -17.2*	 -11.9*
+Forcible entry        1,841   1,856   1,725   1,507     18.6	18.6   17.1   14.8     -20.4*	 -13.5*
+Unlawful entry 
+  without force       2,903   2,968   2,847   2,566     29.3	29.7	28.2  25.2     -15.2*	 -10.6*
+Attempted 
+  forcible entry      1,059   1,160     910     752     10.7	11.6	 9.0   7.4     -36.2*	 -17.8*
+Motor vehicle
+   theft              1,835   1,961   1,764   1,654     18.5	19.6	17.5  16.2     -17.3*     -7.4
+Completed             1,200   1,291   1,172   1,098     12.1	12.9	11.6  10.8     -16.3*	  -6.9
+Attempted               635     670     591     556      6.4	 6.7	5.9    5.5     -17.9*	  -6.8
+Theft                24,579  24,238  23,766  22,002    248.2   242.6  235.7  215.9     -11.0*	  -8.4*
+Completedc           23,488  23,020  22,744  21,149    237.1   230.4  225.6  207.6      -9.9*	  -8.0*
+Less than $50        10,318   9,653   9,377   8,238    104.2	96.6   93.0   80.9     -16.2*	 -13.0*
+$50-$249              7,992   7,682   7,874   7,589     80.7	76.9   78.1   74.5	-3.1	  -4.6**
+$250 or more          4,145   4,253   4,251   4,163     41.8    42.6   42.2   40.9	-4.0	 .-3.1
+Attempted             1,091   1,218   1,022	852     11.0    14.3   10.1    8.4     -41.3*	 -16.8*
+	
+Note:  Completed violent crimes include rape, sexual assault,
+robbery with or without injury, aggravated assault with injury,
+and simple assault with minor injury.  In 1993 the total population 
+age 12 or older was 211,524,770 ; in 1994, 213,747,400; and in 1995,
+215,709,450.  The total number of households in 1993 was 99,926,400; 
+in 1994, 100,808,030; and in 1995, 101,888,380.
+...Not applicable.
+*The difference is significant at the 95% confidence level.
+**The difference is significant at the 90% confidence level.	
+aThe victimization survey cannot measure murder because of the 
+inability to question the victim.  
+bIncludes pocket picking, purse snatching, and attempted purse
+snatching.
+cIncludes thefts with unknown losses.  In 1993 this category 
+accounted for 1,433,000 victimizations; in 1994, 1,241,000; 
+and in 1995, 1,159,100.
+						
+************************
+Personal crime, 1994-95
+************************
+
+---------------------
+Sex of victim
+---------------------
+
+Overall violent crime rates declined for both male and female
+victims from 1994 to 1995.  The rate for male victims had a
+reduction of 10.7% to 53.2 per 1,000, while that for females
+dropped by 14.4% to 36.4 per 1,000.  Total assault and
+aggravated assault among both male and female victims declined. 
+In addition, the rate of rape and sexual assault for female
+victims dropped by 24.3% to 2.8 per 1,000.  Although estimates
+for personal theft rates for males and females are lower in
+1995, only that for males is a statistically significant change.
+
+----------------------
+Age of victim
+----------------------
+
+Declines in victimization rates varied, depending on the
+age of the victim.  Most of the rate changes were focused on
+intermediate ages.  The only significant change from 1994 to
+1995 for those age 12-15 was a decline of 30.6% in the
+aggravated assault rate to 15.4 per 1,000.
+
+Except for personal theft, none of the declines among personal
+crimes with victims age 50 or older was statistically
+significant.  A significant decline in personal theft did occur
+among those age 65 or older.
+
+All intermediate age groups had significant declines in the
+overall violent crime rate. All of the personal crime rate
+declines for those age 20 to 24 were significant, except for
+robbery.  The decline in simple assault, however, was a return
+to a level more typical for this age group, after the peak of
+56.4 per 1,000 in 1994.
+
+In contrast to the 1994-95 drops in rates of total assault
+among those age 16 to 49, differences for those age 50 or older
+were not significant. Total assault includes aggravated and simple 
+assault.  In contrast to the 1994-95 drops in rates of total assault 
+among those age 16 to 49, there was a nonsignificant increase for 
+those age 65 or older.  The total assault rate for the 16-19 age 
+group declined, driven by the reduction in the rate of aggravated 
+assault.  The total assault rate for persons age 35 to 49 also dropped,
+largely as a consequence of a decline in simple assault for this 
+age group.
+
+
+Table 2.  Personal crime victimization, by sex, age, race, Hispanic origin, 
+household income, region, and location of residence of victims, 1995 
+									
+
+                            Rates of personal crime in 1995 (per 1,000 persons)                                                                      Violent crimes	                
+                                         Rape/
+Characteristic                           Sexual                                      Personal   
+of victims	Population  Total  Total assault Robbery  Total Aggravated  Simple   theft 	
+									
+Sex									
+Male	       104,268,820   54.4   53.2    .3	   7.5	   45.3	    11.9      33.5     1.3
+Female	       111,440,640   38.5   36.4   2.8	   3.2	   30.4	     5.9      24.6     2.1
+									
+Age
+									
+12-15	        15,575,940  110.9  107.1   2.2	   9.5	   95.4     15.4     80.1      3.8
+16-19	        14,539,170  110.3  107.7   5.7	   9.0	   93.0     24.4     68.6      2.7
+20-24	        17,813,630   79.8   78.8   3.0	  10.8	   65.0     15.4     49.6      1.1
+25-34	        41,138,060   55.9   54.7   2.0	   6.9	   45.8     11.7     34.1      1.2
+35-49	        60,635,010   35.6   33.8   1.4	   4.7	   27.7      6.8     20.9      1.8
+50-64	        34,451,280   15.6   14.0    .1	   1.8	   12.1      2.6      9.5      1.6
+65 or  older	31,556,350    6.9    5.9   0.0      1.3     4.6      1.3      3.3      1.0
+									
+Race	
+								
+White	       181,880,850   44.6   43.1   1.6     4.2	   37.3	     8.2     29.1      1.4
+Black	        25,998,040   58.4   55.4   1.6    12.5	   41.3	    12.6     28.7      3.1
+Other	         7,830,570   43.8   40.9   1.2     6.3	   33.4	     9.2     24.2      2.9
+									
+Hispanic origin	
+								
+Hispanic        19,674,030   56.1   53.4   1.3	  10.6	   41.5	    13.6     27.9      2.6
+Non- Hispanic  193,918,300   45.0   43.4   1.6	   4.8	   37.0	     8.2     28.8      1.6
+									
+Household Income
+									
+Less than$7,500	15,917,890   74.6   71.0   3.5	  11.8	   55.7	    16.5     39.2      3.6
+$7,500-14,999	25,169,790   49.7   48.4   1.6	   9.1	   37.7	    10.0     27.7      1.3
+$15,000-24,999	32,095,240   49.2   47.7   1.6	   6.5	   39.5	     9.1     30.4      1.5
+$25,000-34,999	29,608,960   48.1   46.4   1.5	   5.1	   39.8	     8.9     30.8      1.7
+$35,000-49,999	34,914,380   45.8   44.2   1.8	   3.6	   38.9	     8.8     30.1      1.5
+$50,000-74,999	29,657,010   44.1   42.7   1.2	   3.1	   38.4	     8.5     29.9      1.5
+$75,000 or more	22,091,400   37.9   36.2    .8	   2.4	   33.0	     5.5     27.6      1.7
+									
+Region	
+								
+Northeast	42,930,170   41.1   38.5   1.3	   6.2	   31.0	     5.5     25.5      2.6
+Midwest	        51,592,700   46.7   45.2   2.3	   4.3	   38.6	     7.9     30.7      1.5
+South	        75,910,170   39.6   38.4    .9	   4.3	   33.1	     8.4     24.8      1.3
+West	        45,276,420   61.5   59.7   2.1	   7.2	   50.4	    13.5     36.9      1.8
+									
+Residence	
+								
+Urban	        62,255,840   59.9   56.8   2.0	   9.7	   45.1	    11.7     33.4      3.1
+Suburban	98,073,550   43.5   42.1   1.6	   4.0	   36.6	     8.1     28.4      1.4
+Rural	        55,380,060   35.5   34.9   1.2	   2.6	   31.1	     6.6     24.5      0.6
+
+---------------------
+Race of victim
+---------------------
+
+Between 1994 and 1995 whites had significant reductions in
+violent crime overall and in total assault, as well as
+aggravated assault.  The overall violent crime rates for whites
+declined by 12.8% to 43.1 per 1,000.
+
+The only statistically reliable change for blacks was a drop of
+24% in the aggravated assault rate to 12.6 per 1,000, although
+there was some evidence of reductions in the overall personal
+and violent crime rates and in rape/sexual assault.
+
+---------------------
+Hispanic origin
+---------------------
+
+Victimization rates for Hispanic respondents had no significant 
+change in either violent crime or personal theft between 1994 
+and 1995, although there was some evidence of declines in overall 
+personal victimization rates, total violent crime, and total assault.
+
+There was also some evidence of a decline in overall personal
+victimization rates, total violent crime, and total assault for
+Hispanics.  No significant differences existed between the
+Hispanic and non-Hispanic populations in the degree of change
+from 1994 to 1995 for any personal or violent crime.
+
+----------------------------
+Household income
+--------------------------
+
+Most significant declines in personal victimization from 1994 to
+1995 were experienced by respondents in households earning less
+than $15,000 a year.  Rates for these respondents declined for
+total violent crime, rape/ sexual assault, and total assault. 
+In addition, there was a drop in the victimization rates for
+those in households earning between $7,500 and $14,999 per year
+for both aggravated and simple assault.
+
+The other measurable changes in victimization rates among income
+groups were a drop in aggravated assault rates for those in
+households with $15,000 to $24,999 annual income, an increase in
+rape and sexual assault for respondents in households earning
+between $35,000 and $49,999 yearly, and a decline in robbery
+victimization for those with household incomes of $75,000 or
+more.
+
+When patterns of 1994-95 victimization rate changes are compared
+across household income categories, no income level departed
+significantly from the patterns present in other income groups.
+
+
+Table 3. Household property crime victimization, by race, 
+Hispanic origin, household income, region, and home ownership 
+of households victimized, 1995
+
+
+				   Rate of household property crime                            
+Characteristic of  Number of       (per 1,000 households)
+household or head  households,                      Motor
+of household	   1995	           Total  Burglary  vehicle theft   Theft                                                        
+			
+Race					
+White             86,369,290      272.9    45.4         14.0         213.6
+Black             12,380,170      322.3    61.6         30.4          30.3
+Other              3,138,930      292.6    46.4         21.9         224.3
+					
+Hispanic origin					
+Hispanic           7,758,960      364.1    59.0         27.8         277.3
+Non-Hispanic      93,478,170      272.7    46.3         15.3         211.1
+					
+Household income					
+Less than $7,500   9,865,540      290.7    71.4         13.9         205.4
+$7,500 - 14,999   13,610,140      256.1    55.0         15.6         185.5
+$15,000 - 24,999  15,901,710      286.9    48.7         15.7         222.4
+$25,000 - 34,999  13,694,260      283.0    42.0         16.5         224.5
+$35,000 - 49,999  14,746,080      293.6    42.6         18.3         232.6
+$50,000 - 74,999  11,763,840      317.1    41.8         17.2         258.1
+$75,000 or more    8,627,350      336.1    43.3         19.1         273.7
+					 
+Region					
+Northeast         20,386,280      223.7    32.4         14.3         177.0
+Midwest           24,613,340      256.3    45.4         13.6         197.3
+South             35,992,910      264.1    48.4         14.2         201.5
+West              20,895,860      387.8    62.5         24.6         300.7
+					
+Residence					
+Urban             31,186,290	  347.9    59.9	        25.7         262.3
+Suburban          45,038,890	  267.0	   39.0	        15.0         213.0
+Rural             25,663,190	  218.4	   46.8	         6.9         164.8
+					
+Home ownership					
+Owned             65,971,450      244.2	   40.6         12.3         191.3
+Rented            35,916,930	  344.4	   59.8         23.5         261.1
+
+
+-----------------
+Region
+-----------------
+
+Changes in personal victimization rates from 1994 to 1995 were
+not uniform across regions.
+
+Northeast-- The only significant change  was a 27.6% decline 
+in aggravated assault to a 1995 rate of 5.5 per 1,000
+persons.
+
+Midwest-- Rates for total violent crime and aggravated assault
+fell, and robbery was down 30.6% to 4.3 per 1,000.
+
+South-- Rates for total violent crime and aggravated assault
+fell. Rates for rape/sexual assault (0.9 per 1,000) and robbery
+(4.3 per 1,000) also dropped.
+
+West-- Typically the region experiencing the highest rates of
+violent victimization, the West had significant declines in all
+categories of violent crime except rape/sexual assault and
+robbery.
+
+The declines of violent crimes overall, assault overall, and
+simple assault in the West were greater than those in the
+Northeast.  The decreases in robbery rates in the South and
+Midwest were also a significant departure from the pattern in
+the Northeast.
+
+-----------------------
+Urbanization
+-----------------------
+
+Urban areas have typically recorded the highest rates of violent
+victimization, and rural areas the lowest.  In 1995 the rate of
+violent victimization per 1,000 persons age 12 or older was 56.8 in
+urban areas, 42.1 in suburban areas, and 34.9 in rural locations.
+
+The broadest decline in violent victimization rates in 1995 from 
+those in 1994 occured in the suburbs. The suburbs had significant
+declines in all types of personal victimization except rape and 
+sexual assault. The overall decrease was 15.1%.  This compares to a 10.7% 
+drop in total violent victimization in urban areas and 11.0% drop
+in rural areas.  In addition, urban and rural areas also showed
+drops in victimization rates for total and aggravated assault.
+
+Differences among urban, rural, and suburban areas in patterns
+of change between 1994 and 1995 were not large enough to be
+statistically significant.
+
+**************************
+Property crime, 1994-95
+**************************
+
+-----------------------------------------
+Race of head of household
+-----------------------------------------
+
+White households showed reductions in rates of overall property
+crime, burglary, and theft.  No decline for any type of property
+crime was large enough for black households to produce a
+statistically significant change, although there was an overall
+decline in property crimes for black households.  
+
+There was no significant change in motor vehicle theft rates for
+either racial group, nor were the patterns of change for any
+type of property crime statistically different between
+households headed by a white or black.  
+
+---------------------------------------------
+Hispanic origin of head of household
+---------------------------------------------
+
+Both Hispanic and non-Hispanic households showed declines in
+rates of burglary, household theft, and overall household
+property crime.  The Hispanic, households also had significantly 
+lower rates of motor vehicle theft, 1994-95, in contrast to 
+non-Hispanic households, which did not experience such a
+decrease.
+
+--------------------------
+Household income
+--------------------------
+
+No 1994-95 change in the rate of motor vehicle theft was
+significant for any income grouping.  Households earning less
+than $7,500 had no significant increase or decrease in any type
+of property crime.  Households in all other income groups,
+except for those earning $75,000 a year, showed a significant
+decline in overall property crime victimization rates. 
+Households in income categories from $7,500 to $49,999 a year
+had a decline in burglary rates from 1994 to 1995.
+
+Theft rates also declined 14.1% for households earning $7,500 to
+$14,999 for a 1995 rate of 185.5 per 1,000 households.  This
+compares to drops of 9.6% for households in the $35,000 -
+$49,999 bracket (a 1995 rate of 232.6), 12.8% for households
+earning $50,000 to $74,999 (a rate of 258.1), and 8.1% for those
+earning $75,000 or more (a 1995 rate of 273.7 per thousand).
+
+Household with incomes between $7,500 and $14,999 experienced
+larger decreases in the rates of overall property crime and
+theft than did households earning less than $7,500 or $15,000 to
+$24,999.
+
+-----------------
+Regions
+------------------
+
+Although all regions of the country showed a decline in property
+victimization rates in 1995, the individual types of crime
+contributing to the overall drop varied across regions.  
+
+All regions except the Northeast experienced a drop in theft
+victimization in 1995.  All regions except the South had a
+significant drop in burglary rates. The declines in the West for
+property crime overall, burglary, and theft were significantly
+larger than those in other regions.
+
+----------------------
+Urbanization
+----------------------
+
+Urban, suburban, and rural localities showed a decline in total
+property victimization in 1995.  Property victimization in urban
+areas dropped 7.6% for an overall rate of 347.9 per 1,000
+households.  Property crime rates in suburban areas dropped 9.9%
+(a rate of 267), and the rate in rural areas declined 11.4% (a
+rate of 218.4 per 1,000 households).  All types of localities
+registered a decline in theft victimization, while burglary
+rates for urban and suburban areas also declined significantly
+in 1995.  Motor vehicle theft rates for each category of
+locality showed no significant change.
+
+Urban, suburban, and rural households did not differ
+significantly from each other in the amount of change for any
+type of property crime.
+
+----------------------------
+Home ownership
+----------------------------
+
+Residents of rental housing typically experience property
+victimization rates that are approximately 1.5 to 2 times those
+of households in which the residents either own or are buying
+their home.  In 1995 residents of both categories of housing
+generally showed significant decreases in victimization rates
+for overall property crime and its component crimes.  The one
+exception was the lack of a significant change in motor vehicle
+theft between 1994 and 1995 for respondents in rental housing.
+
+****************
+Murder
+*****************
+
+Data on murder and nonnegligent homicide are collected by the
+FBI Uniform Crime Reports program.  Since 1993 both the number
+and rate of murders nationally have steadily declined.  In 1995
+the total number of murders recorded was 20,043, with a rate of
+8.2 per 100,000 residents.  Rates have declined in all regions
+of the country and in  larger cities.
+
+Uniform Crime Reports data indicate that the characteristics of
+murder victims and the types of weapons used have remained
+relatively stable since 1992, with small proportionate decreases
+in murders committed with firearms and against black or male 
+victims.
+
+
+Table A.  Murder and nonnegligent manslaughter, 
+by region, urban character, type of weapon, and sex, race, and 
+
+
+Characteristic of murder/
+nonnegligent manslaughter        1992     1993     1994     1995
+
+Rate per 100,000
+
+   Total U.S.                    9.3      9.5      9.0      8.2
+
+Region
+ Northeast                       7.8      8.2      7.1      6.2
+ Midwest                         7.6      7.6      7.5      6.9
+ South                          11.1     11.3     10.7      9.8
+ West                            9.7      9.9      9.4      9.0
+
+Urban character
+ Metropolitan cities*           10.4     10.6     10.0      9.1
+ Smaller cities*                 5.4      5.3      4.8      4.7
+ Rural counties                  5.2      5.4      5.0      5.0
+
+Percentage of characteristic
+
+Type of weapon used            100.0%   100.0%   100.0%   100.0%
+ Firearm                        68.2     69.6     70.0     68.2
+ Knife                          14.5     12.7     12.7     12.7
+ Blunt object                    4.6      4.4      4.1      4.5
+ Personal weapon                 5.0      5.0      5.3      5.9
+ Other                           7.8      8.2      7.8      8.7
+
+Race of victim                 100.0%   100.0%   100.0%   100.0%
+ White                          47.2     46.0     46.2     48.0
+ Black                          49.6     50.7     50.8     48.4
+ Other                           2.4      2.4      2.3      2.7
+ $25,000 - 34,999               14.6     21.2     20.0     16.5
+ $35,000 - 49,999               21.8     18.6     17.0     18.3
+ $50,000 - 74,999               17.5     22.4     20.7     17.2
+ $75,000 or more                27.9     26.4     17.7     19.1
+
+Region
+ Northeast                      16.0     19.4     17.9     14.3
+ Midwest                        14.5     14.7     12.2     13.6
+ South                          14.3     17.8     14.7     14.2
+ West                           31.7     28.7     28.1     24.6
+
+Residence
+ Urban                          31.7     34.2     29.3     25.7
+ Suburban                       16.7     17.0     15.6     15.0
+ Rural                           7.4      7.3      6.9      6.9
+
+Home ownership
+ Owned                          15.7     15.8     14.5     12.3
+ Rented                         23.5     26.5     22.8     23.5
+----------------------------------------------------------------------
+
+
+
+Table B.  Number of personal crimes per 1,000 
+persons, by victims' sex, age, race, and 
+other characteristics, 1992-95
+
+Victim 
+ 
+                  
+Victim            Personal crime rates (per 1,000 person)
+characteristic        1992     1993     1994     1995
+
+ Male                 61.2     63.2     61.7     54.4*
+ Female               40.9     44.9     45.1     38.5*
+
+Age
+ 12-15               118.2    125.2    117.4    110.9
+ 16-19               111.6    120.5    125.9    110.3*
+ 20-24               100.3     97.7    102.5     79.8*
+ 25-34                58.6     60.9     63.2     55.9*
+ 35-49                39.9     44.5     41.4     35.6*
+ 50-64                15.0     18.3     16.8     15.6
+ 65 or older           6.7      7.8      7.2      6.9
+
+Race
+ White                49.4     51.7     51.5     44.6*
+ Black                60.o     71.7     65.4     58.4+
+ Other                52.1     41.6     49.1     43.8
+
+Hispanic origin
+ Hispanic             58.2     62.5     63.3     56.1+
+ Non-Hispanic         50.1     52.9     51.9     45.0*
+
+Household income
+ Less than $7,500     83.0     92.6     88.3     74.6*
+ $7,500 - 14,999      57.8     59.3     60.8     49.7*
+ $15,000 - 24,999     58.1     53.6     51.7     49.2
+ $25,000 - 34,999     49.5     51.4     51.3     48.1
+ $35,000 - 49,999     43.7     51.4     49.3     45.8
+ $50,000 - 74,999     42.1     47.4     47.6     44.1
+ $75,000 or more      41.1     40.8     42.7     37.9
+
+Region
+ Northeast            37.5     45.6     42.7     41.1
+ Midwest              53.4     58.5     55.4     46.7*
+ South                39.9       43     45.2     39.6*
+ West                 74.7     73.3     73.5     61.5*
+
+Residence
+ Urban                63.7     73.4     67.6     59.9*
+ Suburban             49.8     47.5     51.8     43.5*
+ Rural                39.1     43.4     39.8     35.5*
+
+Note:  Personal crimes measured by the National Crime Victimation
+Survey include rape/sexual assault, robbery, aggravated
+simple assault, and pocket picking/purse snatching.
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+-------------------------------------------------------------
+
+
+****************
+Murder
+*****************
+
+Data on murder and nonnegligent homicide are collected by 
+the FBI Uniform Crime Reports program.  Since 1993 both 
+the number and rate of murders nationally have steadily 
+declined.  In 1995 the total number of murders recorded 
+was 20,043, with a rate of 8.2 per 100,000 residents.  
+Rates have declined in all regions of the country 
+and in  larger cities.
+
+Uniform Crime Reports data indicate that the characteristics 
+of murder victims and the types of weapons used have remained 
+relatively stable since 1992, with small proportionate 
+decreases in murders committed with firearms and against 
+black or male victims.
+
+
+
+
+Table C.  Number of violent crimes per 1,000 
+persons, by victims' sex, age, race, and 
+other characteristics, 1992-95
+
+ 
+                 
+Victim               Rates of violent crime (per 1,000 persons)
+characteristic       1992     1993     1994     1995
+                    
+Sex
+ Male                   59.5     60.9     59.6     53.2*
+ Female                 39.1     42.3     42.5     36.4*
+
+Age
+ 12-15                 114.1    120.6    114.8    107.1
+ 16-19                 107.3    116.8    121.7    107.7*
+ 20-24                  98.3     93.6     99.2     78.8*
+ 25-34                  57.7     58.6     60.9     54.7*
+ 35-49                  38.6     42.5     39.5     33.8*
+ 50-64                  13.4     17.1     15.1     14.0
+ 65 or older             5.1      5.5      5.1      5.9
+
+Race
+ White                  47.8     49.7     49.4     43.1*
+ Black                  57.3     66.1     61.8     55.4*
+ Other                  49.5     39.4     47.5     40.9
+
+Hispanic origin
+ Hispanic               55.6     59.1     59.8     53.4+
+ Non-Hispanic           48.4     50.6     49.8     43.4*
+
+Household income
+ Less than $7,500       80.9     88.5     83.6     71.0*
+ $7,500 - 14,999        55.1     57.4     58.6     48.4*
+ $15,000 - 24,999       56.5     50.6     49.9     47.7
+ $25,000 - 34,999       47.7     49.7     49.3     46.4
+ $35,000 - 49,999       43.0     49.1     46.8     44.2
+ $50,000 - 74,999       39.9     45.7     46.1     42.7
+ $75,000 or more        38.1     38.1     40.0     36.2
+
+Region
+ Northeast              36.4     42.4     39.3     38.5
+ Midwest                51.4     56.8     53.3     45.2*
+ South                  38.2     41.2     43.6     38.4*
+ West                   72.5     69.7     71.0     59.78
+
+Residence
+ Urban                  61.2     68.8     63.6     56.8*
+ Suburban               48.0     45.8     49.6     42.1*
+ Rural                  38.2     42.1     39.2     34.9*
+
+Note:  Violent crimes measured by the National Crime Victimization Survey
+ rape/sexual assault, robbery, and aggravated and simple assault.
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+---------------------------------------------------------------------------
+
+
+
+Table D.  Number of rape/sexual assaults per 
+1,000 persons, by victims' sex, age, race, and 
+other characteristics, 1992-95
+ 
+                  
+Victim                     Rates of rape/sexual assault per 1,000 persons
+characteristic             1992     1993     1994     1995
+
+Sex
+ Male                      0.5      0.4      0.2      0.3
+ Female                    5.2      4.0      3.7      2.8*
+
+Age
+ 12-15                     4.1      4.5      3.1      2.2
+ 16-19                     8.3      7.2      5.1      5.7
+ 20-24                    10.2      5.7      5.0      3.0*
+ 25-34                     2.6      2.4      2.9      2.0
+ 35-49                     1.9      1.6      1.6      1.4
+ 50-64                     0.5      0.2      0.2      0.1
+ 65 or older               0.1      0.3      0.1      0.0
+
+Race
+ White                     2.8      2.3      1.9      1.6
+ Black                     4.3      2.7      2.7      1.6+
+ Other                     1.8      2.0      2.5      1.2
+
+Hispanic origin
+ Hispanic                  2.2      2.1      2.6      1.3+
+ Non-Hispanic              3.0      2.3      2.0      1.6*
+
+Household income
+ Less than $7,500          5.8      5.5      6.7      3.5*
+ $7,500 - 14,999           6.0      2.7      3.3      1.6*
+ $15,000 - 24,999          3.6      2.5      2.3      1.6
+ $25,000 - 34,999          1.4      2.3      1.2      1.5
+ $35,000 - 49,999          2.4      1.9      0.9      1.8*
+ $50,000 - 74,999          0.3      1.1      0.8      1.2
+ $75,000 or more           1.2      1.9      0.9      0.8
+
+Region
+ Northeast                 2.3      1.8      1.9      1.3
+ Midwest                   3.5      2.5      1.5      2.3+
+ South                     3.0      1.9      2.3      0.9*
+ West                      2.6      3.3      2.3      2.1
+
+Residence
+ Urban                     3.2      3.4      2.7      2.0
+ Suburban                  2.4      1.7      1.8      1.6
+ Rural                     3.5      2.2      1.7      1.2
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+----------------------------------------------------------------------
+
+
+
+Table E.  Number of robberies per 1,000 persons, 
+by victims' sex, age, race, and other characteristics,
+1992-95
+ 
+                  
+Victim               Rates of robbery per 1,000 persons
+characteristic         1992     1993     1994     1995
+
+Sex
+ Male                   8.1      8.4      8.1      7.5*
+ Female                 4.2      3.9      4.1      3.2+
+
+Age
+ 12-15                 13.0     13.6     12.0      9.5
+ 16-19                 11.0     11.5     11.8      9.0
+ 20-24                 13.8     10.5     11.3     10.8
+ 25-34                  7.9      7.3      7.5      6.9
+ 35-49                  3.6      5.0      5.2      4.7
+ 50-64                  2.2      3.0      2.3      1.8
+ 65 or older            1.9      1.2      1.4      1.3
+
+Race
+ White                  4.7      5.1      4.8      4.2
+ Black                 14.8     12.7     14.0     12.5
+ Other                  9.1      7.9      9.0      6.3
+
+Hispanic origin
+ Hispanic              11.4     10.8      9.8     10.6
+ Non-Hispanic           5.6      5.7      5.6      4.8+
+
+Household income
+ Less than $7,500      13.3     11.8     11.1     11.8
+ $7,500 - 14,999        9.4      8.9      7.1      9.1
+ $15,000 - 24,999       6.6      5.9      5.9      6.5
+ $25,000 - 34,999       4.9      4.5      4.6      5.1
+ $35,000 - 49,999       4.4      5.0      4.8      3.6
+ $50,000 - 74,999       3.4      4.6      4.2      3.1
+ $75,000 or more        3.5      4.2      4.5      2.4*
+
+Region
+ Northeast              5.8      7.2      5.3      6.2
+ Midwest                6.2      6.0      6.2      4.3*
+ South                  5.3      4.1      5.9      4.3*
+ West                   7.4      8.4      6.9      7.2
+
+Residence
+ Urban                 10.8     10.7    10.9      9.7
+ Suburban               5.5      5.0     5.1      4.0*
+ Rural                  2.3      3.0     2.6      2.6
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+--------------------------------------------------------------
+
+
+
+Table F.  Number of assaults per 1,000 persons, 
+by victims' sex, age, race, and other characteristic
+1992-95
+ 
+                       
+Victim               Rates assault per 1,000 persons
+characteristic       1992     1993     1994     1995
+
+Sex
+ Male                50.9     52.1     51.3     45.3*
+ Female              29.7     34.3     34.7     30.4*
+
+Age
+ 12-15               97.0    102.5     99.8     95.4
+ 16-19               88.0     98.1    104.8     93.0*
+ 20-24               74.3     77.4     82.9     65.0*
+ 25-34               47.1     48.9     50.6     45.8+
+ 35-49               33.2     35.9     32.8     27.7*
+ 50-64               10.7     13.9     12.6     12.1
+ 65 or older          3.1      4.1      3.6      4.6
+
+Race
+ White               40.3     42.3     42.7     37.3*
+ Black               38.3     50.8     45.1     41.3
+ Other               38.6     29.5     36.1     33.4
+
+Hispanic origin
+ Hispanic            42.0     46.2     47.4     41.5+
+ Non-Hispanic        39.8     42.6     42.1     37.0*
+
+Household income
+ Less than $7,500    61.9     71.2     65.8     55.7*
+ $7,500 - 14,999     39.7     45.7     48.2     37.7*
+ $15,000 - 24,999    46.3     42.2     41.7     39.5
+ $25,000 - 34,999    41.5     43.0     43.5     39.8
+ $35,000 - 49,999    36.2     42.2     41.1     38.9
+ $50,000 - 74,999    36.3     40.0     41.1     38.4
+ $75,000 or more     33.4     32.0     34.6     33.0
+
+Region
+ Northeast           28.3     33.5     32.1     31.0
+ Midwest             41.8     48.3     45.6     38.6*
+ South               29.9     35.2     35.4     33.1
+ West                62.5     58.0     61.7     50.4*
+
+Residence
+ Urban               47.2     54.6     50.1     45.1*
+ Suburban            40.2     39.1     42.7     36.6*
+ Rural               32.3     36.9     34.9     31.1*
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+-----------------------------------------------------------------
+
+
+
+
+
+Table G.  Number of aggravated assaults per 1,000 persons
+by victims' sex, age, race, and other characteristics, 1992-95
+
+ 
+                  
+Victim               Rates of aggravates assault per 1,000 persons
+characteristic       1992     1993     1994     1995
+
+Sex
+ Male                15.6     16.3     15.3     11.9*
+ Female               6.8      8.2      8.1      5.9*
+
+Age
+ 12-15               20.3     23.3     22.2     15.4*
+ 16-19               26.8     30.0     33.7     24.4*
+ 20-24               22.7     26.7     26.6     15.4*
+ 25-34               12.6     14.8     13.7     11.7
+ 35-49                9.6      8.8      7.6      6.8
+ 50-64                3.0      4.0      3.3      2.6
+ 65 or older          1.4      1.1      1.2      1.3
+
+Race
+ White               10.4     11.3     10.9      8.2
+ Black               15.2     18.7     16.6     12.6+
+ Other               14.2      8.8     11.9      9.2*
+
+Hispanic origin
+ Hispanic            14.4     17.2     16.2     13.6
+ Non-Hispanic        10.8     11.7     11.1      8.2*
+
+Household income
+ Less than $7,500    23.8     22.7     20.5     16.5
+ $7,500 - 14,999     12.0     14.3     13.8     10.0*
+ $15,000 - 24,999    11.4     13.0     13.2      9.1*
+ $25,000 - 34,999     9.5     11.5     11.3      8.9*
+ $35,000 - 49,999     8.1     11.7     10.1      8.8
+ $50,000 - 74,999    10.1      8.6      9.5      8.5
+ $75,000 or more      9.0      6.4      8.0      5.5
+
+Region
+ Northeast            7.0      8.0      7.6      5.5*
+ Midwest              9.3     13.2     11.6      7.9*
+ South               10.1     11.3     10.6      8.4*
+ West                18.0     16.0     17.1     13.5*
+
+Residence
+ Urban               14.7     15.1     14.8     11.7*
+ Suburban            10.4     11.1     11.0      8.1*
+ Rural                8.6     10.6      9.2      6.6*
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+----------------------------------------------------------
+
+
+
+Table H.  Number of simple assaults per 1,000 persons
+by victims' sex, age, race, and other characteristics
+1992-95
+
+                
+Victim            Rates of simple assault per 1,000 persons     
+characteristic    1992     1993     1994     1995
+
+Sex
+ Male             35.3     35.7     36.0     33.5
+ Female           22.9     26.1     26.6     24.6
+
+Age
+ 12-15             76.6     79.1     77.6     80.1
+ 16-19             61.2     68.1     71.1     68.6*
+ 20-24             51.6     50.7     56.4     49.6
+ 25-34             34.5     34.1     36.9     34.1
+ 35-49             23.6     27.2     25.2     20.9*
+ 50-64              7.7      9.9      9.3      9.5
+ 65 or older        1.7      3.0      2.4      3.3
+
+Race
+ White             29.9       31     31.8     29.1*
+ Black             23.1     32.1     28.4     28.7
+ Other             24.4     20.8     24.2     24.2
+
+Hispanic origin
+ Hispanic          27.6     29.0     31.2     27.9
+ Non-Hispanic      29.0     30.9     31.0     28.8+
+
+Household income
+ Less than $7,500  38.1     48.5     45.3     39.2+
+ $7,500 - 14,999   27.7     31.5     34.4     27.7*
+ $15,000 - 24,999  34.9     29.2     28.5     30.4
+ $25,000 - 34,999  32.0     31.4     32.3     30.8
+ $35,000 - 49,999  28.1     30.5     31.0     30.1
+ $50,000 - 74,999  26.2     31.4     31.6     29.9
+ $75,000 or more   24.4     25.5     26.5     27.6
+
+Region
+ Northeast         21.4     25.5     24.5     25.5
+ Midwest           32.5     35.1     34.0     30.7+
+ South             19.8     23.9     24.8     24.8
+ West              44.4       42     44.7     36.9*
+
+Residence
+ Urban             32.5     39.5     35.2     33.4
+ Suburban          29.8     28.0     31.7     28.4*
+ Rural             23.7     26.2     25.8     24.5
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+---------------------------------------------------------------
+
+
+
+
+
+Table I.  Number of personal thefts per 1,000 persons, 
+by victims' sex, age, race, and other characteristics, 
+1992-95
+
+                 
+Victim                  Rates of personal theft per 1,000 persons   
+characteristic          1992     1993     1994     1995
+
+Sex
+ Male                     1.7      2.3      2.0      1.3
+ Female                   1.8      2.6      2.5      2.1
+
+Age
+ 12-15                    4.1      4.5      2.6      3.8
+ 16-19                    4.2      3.7      4.2      2.7
+ 20-24                    2.0      4.1      3.3      1.1
+ 25-34                    0.9      2.3      2.3      1.2*
+ 35-49                    1.3      1.9      1.9      1.8*
+ 50-64                    1.6      1.2      1.7      1.6
+ 65 or older              1.6      2.2      2.1      1.0*
+
+Race
+ White                    1.6      2.0      2.1      1.4
+ Black                    2.7      5.6      3.6      3.1
+ Other                    2.6      2.2      1.6      2.9
+
+Hispanic origin
+ Hispanic                 2.6      3.4      3.5      2.6
+ Non-Hispanic             1.7      2.3      2.1      1.6*
+
+Household income
+ Less than $7,500         2.0      4.0      4.7      3.6
+ $7,500 - 14,999          2.7      1.9      2.2      1.3
+ $15,000 - 24,999         1.6      3.0      1.8      1.5
+ $25,000 - 34,999         1.8      1.7      2.0      1.7
+ $35,000 - 49,999         0.7      2.3      2.6      1.5+
+ $50,000 - 74,999         2.2      1.7      1.5      1.5
+ $75,000 or more          3.0      2.7      2.7      1.7
+
+Region
+ Northeast                1.1      3.2      3.4      2.6
+ Midwest                  1.9      1.7      2.1      1.5*
+ South                    1.7      1.8      1.6      1.3
+ West                     2.2      3.6      2.5      1.8
+
+Residence
+ Urban                    2.5      4.6      4.0      3.1
+ Suburban                 1.8      1.8      2.2      1.4*
+ Rural                    1.0      1.3      0.6      0.6
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+------------------------------------------------------------------
+
+
+
+
+Table J.  Number of property crimes per 1,000 
+households by race, Hispanic origin, income, 
+and other household characteristics, 1992-95
+
+
+Characteristic of  
+household or head     Rates of property crime per 1,000 households*
+of household           1992     1993     1994     1995
+
+Race
+ White                315.6    314.8    301.9    272.9*
+ Black                390.6    368.8    341.3    322.3*
+ Other                347.2    343.7    334.9    292.6
+
+Hispanic origin
+ Hispanic             426.6    442.2    425.5    364.1*
+ Non-Hispanic         318.2    313.2    298.0    272.7*
+
+Household income
+ Less than $7,500     327.1    314.9    295.8    290.7
+ $7,500 - 14,999      291.9    299.4    296.6    256.1*
+ $15,000 - 24,999     299.5    310.4    307.0    286.9*
+ $25,000 - 34,999     332.8    335.8    307.1    283.0*
+ $35,000 - 49,999     368.0    340.8    325.8    293.6*
+ $50,000 - 74,999     368.8    371.7    356.3    317.1*
+ $75,000 or more      389.0    388.5    356.6    336.1
+
+Region
+ Northeast            218.3    248.3    239.1    223.7*
+ Midwest              312.3    314.0    290.5    256.3*
+ South                305.9    301.9    284.3    264.1*
+ West                 461.5    434.6    479.2    387.8*
+
+Residence
+ Urban                403.3    410.4    376.4    347.9*
+ Suburban             321.8    304.4    296.5    267.0*
+ Rural                246.8    250.9    246.4    218.4*
+
+Home ownership
+ Owned                284.1    286.1    272.2    244.2*
+ Rented               398.6    386.0    371.2    344.4*
+
+
+Note:  Property crimes that the NCVS measures for households
+motor vehicle theft, and theft from the household.
+*The 1994-95 difference is significant at the 95% confidence
+level.
+--------------------------------------------------------------
+
+
+
+
+
+Table K.  Number of burglaries per 1,000 households,
+by race, Hispanic origin, income, and other 
+characteristics, 1992-95
+
+
+Characteristic of    
+household or head        Rates of burglary per 1,000 households
+of household             1992     1993     1994     1995
+
+Race
+ White                   53.1     56.6     51.7     45.4*
+ Black                   98.2     85.6     70.8     61.6+
+ Other                   59.9     51.2     64.3     46.4
+
+Hispanic origin
+ Hispanic                70.3     87.1     71.0     59.0*
+ Non-Hispanic            57.8     57.9     53.1     46.3*
+
+Household income
+ Less than $7,500        97.1     97.3     78.7     71.4
+ $7,500 - 14,999         64.4     66.9     65.5     55.0*
+ $15,000 - 24,999        53.9     58.0     60.5     48.7*
+ $25,000 - 34,999        50.6     50.8     50.9     42.0*
+ $35,000 - 49,999        49.7     54.3     51.6     42.6*
+ $50,000 - 74,999        47.6     49.7     39.6     41.8
+ $75,000 or more         58.3     51.2     40.9     43.3
+
+Region
+ Northeast               36.4     44.1     38.7     32.4*
+ Midwest                 59.9     61.2     56.3     45.4*
+ South                   61.2     59.5     52.8     48.4
+ West                    72.3     73.9     70.2     62.5*
+
+Residence
+ Urban                   78.3     84.1     69.4     59.9*
+ Suburban                51.1     46.8     46.5     39.0*
+ Rural                   50.2     53.6     49.6     46.8
+
+Home ownership
+ Owned                   50.3     50.0     45.5     40.6*
+ Rented                  73.3     77.5     70.3     59.8*
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+-------------------------------------------------------------------
+
+
+
+
+Table L.  Number of motor vehicle thefts per 1,000 household, 
+by race, Hispanic origin, income, and other characteristics, 
+1992-95
+
+                         
+Characteristic of          Rates of motor vehicle theft
+household or head          per 1,000 households
+of household              1992     1993     1994     1995
+
+Race
+ White                    16.3     17.2     15.6     14.0
+ Black                    34.9     33.7     26.6     30.4
+ Other                    17.0     33.8     34.1     21.9
+
+Hispanic origin
+ Hispanic                 36.7     36.8     39.9     27.8*
+ Non-Hispanic             17.4     18.4     15.6     15.3
+
+Household income
+ Less than $7,500         10.5     14.1     13.9     13.9
+ $7,500 - 14,999          19.0     18.9     15.2     15.6
+ $15,000 - 24,999         18.7     18.6     16.3     15.7
+ $25,000 - 34,999         14.6     21.2     20.0     16.5
+ $35,000 - 49,999         21.8     18.6     17.0     18.3
+ $50,000 - 74,999         17.5     22.4     20.7     17.2
+ $75,000 or more          27.9     26.4     17.7     19.1
+
+Region
+ Northeast                16.0     19.4     17.9     14.3+
+ Midwest                  14.5     14.7     12.2     13.6
+ South                    14.3     17.8     14.7     14.2
+ West                     31.7     28.7     28.1     24.6*
+
+Residence
+ Urban                    31.7     34.2     29.3     25.7
+ Suburban                 16.7     17.0     15.6     15.0
+ Rural                     7.4      7.3      6.9      6.9
+
+Home ownership
+ Owned                    15.7     15.8     14.5     12.3*
+ Rented                   23.5     26.5     22.8     23.5
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
++The 1994-95 difference is significant at the 90% confidence
+level.
+---------------------------------------------------------------------
+
+
+
+
+********************
+Survey methodology
+********************
+       
+
+The National Crime Victimization Survey measures personal and
+household offenses, including crimes not reported to police, by
+interviewing all the occupants age 12 and older of housing units
+that have been selected to comprise a representative sample. 
+The sample also includes persons living in group quarters, such
+as dormitories, rooming houses, and religious group dwellings. 
+Excluded are crew members of merchant vessels, Armed Forces
+personnel living in military barracks or temporary housing, and
+institutionalized persons, such as correctional facility inmates
+and hospital or hospice patients.
+
+A Bureau of the Census representative interviews each housing
+unit at 6-month intervals, spreading out the complete sample of
+household interviews over the entire year.  In 1995 the Bureau
+of the Census interviewed approximately 100,000 residents in
+56,000 housing units about the crimes they had experienced in
+the previous 6 months.  Response rates were 96% of eligible
+housing units and 92% of individuals in interviewed households.
+
+Since sample survey data provide the estimates in the Bulletin,
+these estimates are subject to sampling variation.  Comparisons
+resented in this report without mention of  significance are
+statistically significant at the 95% confidence level, meaning
+that the estimated difference is greater than twice the standard
+error.  The text also mentions patterns that were consistent
+across multiple crime types but were not significant for
+individual crime types.
+
+
+Table M.  Number of thefts per 1,000 households,
+by race, Hispanic origin, income, and other 
+characteristics, 1992-95
+
+
+Characteristic of      
+household or head      Rates of theft per 1,000 households
+of household             1992     1993     1994     1995
+
+Race
+ White                   246.2    241.0    234.6    213.6*
+ Black                   257.6    249.6    243.8    230.3
+ Other                   270.4    258.8    236.5    224.3
+
+Hispanic origin
+ Hispanic                319.5    318.4    314.5    277.3*
+ Non-Hispanic            243.0    236.9    229.3    211.1*
+
+Household income
+ Less than $7,500        219.5    203.5    203.2    205.4
+ $7,500 - 14,999         208.5    213.5    216.0    185.5*
+ $15,000 - 24,999        226.8    233.8    230.2    222.4
+ $25,000 - 34,999        267.6    263.9    236.3    224.5
+ $35,000 - 49,999        296.5    267.9    257.2    232.6*
+ $50,000 - 74,999        303.8    299.6    296.0    258.1*
+ $75,000 or more         302.8    310.9    297.9    273.7
+
+Region
+ Northeast               165.9    184.9    182.6    177.0
+ Midwest                 237.9    238.2    222.0    197.3*
+ South                   230.4    224.6    216.8    201.5*
+ West                    357.6    332.0    335.8    300.7*
+
+Residence
+Urban                   293.3    292.0    277.7    262.3*
+Suburban                254.0    240.6    234.3    213.0*
+Rural                   189.2    189.9    189.9    164.8*
+
+Home ownership
+Owned                   218.1    220.3    212.2    191.3*
+Rented                  301.7    282.1    278.1    261.1*
+
+*The 1994-95 difference is significant at the 95% confidence
+level.
+--------------------------------------------------------------
+
+
+
+The Bureau of Justice Statistics is the statistical agency 
+of the U.S. Department of Justice. Jan M. Chaiken, Ph.D., 
+is director.
+
+Bruce M. Taylor wrote this report.  Cathy Maston provided
+statistical review.  Tom Hester edited and produced the report. 
+Marilyn Marbrook, assisted by Jayne Robinson and Yvonne Boston,
+administered final production.
+
+April 1997, NCJ-162032
+
+
+*******************************
+Change in publication series 
+******************************
+
+This report belongs to the BJS Bulletin series for Criminal
+Victimization. The last publication in the series was Criminal
+Victimization 1994 (April 1996, NCJ-158022). 
+
+Readers who want additional data, analyses, and graphs about
+criminal victimization in the United States should access the
+BJS Internet Web site:
+
+http://www.ojp.usdoj.gov/bjs/  
+
+Data presented in this report may be obtained from the National
+Archive of Criminal Justice Data at the University of Michigan,
+1-800-999-0960.  The archive may also be accessed through the
+BJS Web site.  When at the archive site, search for  data set
+ICPSR 6406. 
+
+
+_____________________________________________________________________________________
+
+Comparison of numbers and percent of victimizations reported to the police, 1994-95
+
+                       Victimizations reported to the police
+
+                          Number                               Percent of total 
+                                                                                  Difference
+                                              Percent                             between
+                                              change,                             percents,
+Type of crime              1994       1995    1994-95          1994     1995      1994-95
+
+   All crimes           15,186,570 13,586,610    -10.5%        35.8%    35.3%        -0.5%
+
+Personal crimes          4,673,130  4,142,330    -11.4%        41.2%    41.6%         0.4%
+Crimes of violence       4,513,540  4,004,310    -11.3%        41.6%    41.7%         0.1%
+Rape/sexual assault        137,110    109,030    -20.5%        31.7%    32.0%         0.3%
+Robbery                    718,990    628,860    -12.5%        55.4%    55.1%        -0.3%
+Assault                  3,657,440  3,266,430    -10.7%        40.1%    40.2%         0.1%
+
+Property crimes         10,513,440  9,444,270    -10.2%        33.9%    33.2%        -0.7%
+Household burglary       2,770,210  2,429,750    -12.3%        50.5%    50.4%        -0.1%
+Motor vehicle theft      1,379,040  1,229,940    -10.8%        78.2%    74.4%        -3.8%**
+Theft                    6,364,190  5,784,570     -9.1%        26.8%    26.3%        -0.5%
+
+**The 1994-95 difference is significant at the 90% confidence level.
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+Victim-offender relationship, victim's activity, weapons, and characteristics
+of the criminal incident, by crimes of violence, 1995
+
+
+                                                      Crimes of violence
+                                       Total      Rape/                     Assault
+                                       violence   sexual                    aggra-
+Characteristics of incident            crime      assault   Robbery   Total vated  Simple
+  
+            Total                       100 %       100 %     100 %    100 %  100 % 100 %
+
+Victim/offender relationship*
+     Relatives                            9          12         5       10      9    10
+     Well-known                          23          33        11       24     22    25
+     Casual acquaintance                 15          25         6       16     12    17
+     Stranger                            50          29        74       47     54    45
+
+Time of day
+     6 a. m. to 6 p. m.                  54          34        44       57     50    59
+     6 p. m. to midnight                 33          37        41       32     36    31
+     Midnight to 6 a.m.                  11          25        14       10     13     8
+
+Location of crime
+     At or near victim's home
+       or lodging                        26          43        26       26     25    26
+      Friend's/relative's/
+        neighbor's home                   9          24         6        8     12     7
+     Commercial places                   12           4         4       14     10    15
+     Parking lots/garages                 7           5        10        8      7     8
+     School                              14           4         6       16      6    19
+     Street other than near 
+        victim's home                    19           5        39       17     28    14
+     Other/1                             12          15        11       12     12    12
+
+Victim's activity
+     At work or traveling
+       to or from work                   21          13        17       22     19    23
+     School                              13           3         7       14      7    16
+     Activities at home                  21          43        15       21     23    21
+     Shopping/errands                     4           2        10        4      4     4
+     Leisure activities
+       away from home                    23          28        24       22     26    21
+     Traveling                            9           5        18        8     12     7
+     Other                                8           5         9        8     10     8
+
+Distance from victim's home
+     Inside home or lodging              14          40        12       13     13    13
+     Near victim's home                  14           7        14       15     16    14
+     1 mile or less                      21          13        31       20     23    19
+     5 miles or less                     24          12        19       26     21    27
+     50 miles or less                    22          20        16       23     25    23
+     More than 50 miles                   4           7         6        3      3     3
+
+Weapons/2
+     No weapons present                  67          88        37       70      5    89
+     Weapons present                     24           5        51       21     95     0
+         Firearm                          9           3        28        7     31     0
+         Other type of weapon/3          14           2        22       14     61     0
+      Unknown if weapon was present       9           7        11        9      0    11
+
+*Excludes "don't know" relationships.
+1/Includes areas on street other than near victim's home, on public transportation
+or inside station, in apartment yard, park, field, playground, and other areas.
+2/An aggravated assault is any assault in which an offender possesses or uses a 
+weapon or inflicts serious injury.
+3/Includes knives, other sharp objects, blunt objects, and other types of weapons
+
+
+
+
+END OF FILE

@@ -1,0 +1,1351 @@
+Conducting Community Surveys
+
+A Practical Guide 
+for Law Enforcement Agencies
+
+
+Conducting Community Surveys
+
+A Practical Guide for Law enforcement Agencies
+by Deborah Weisel
+
+October 1999, NCJ  178246
+
+
+A joint project by the
+Bureau of Justice Statistics and the 
+Office of Community Oriented  
+Policing Services
+
+U.S. Department of Justice
+
+State and Federal Corrections Information Systems
+
+
+Acknowledgments
+
+This report was written by Deborah Weisel.  It was prepared
+under the supervision of Marshall DeBerry and Steven K. Smith,
+Ph.D., of the Bureau of Justice Statistics and by Pam Cammarata
+of the Office of Community Oriented Policing Services.  Meg
+Townsend, formerly with the COPS office, also contributed to the
+project.
+
+The project was supported by BJS under contract number
+OJP-99-135-M.  Tom Hester, Lea Gifford, and Marika Litras  of
+BJS provided editorial review.  Jayne Robinson of BJS
+administered final publication.
+
+The Crime Victimization Software may be obtained by contacting
+1-800-732-3277 or ASKCVS@ncjrs.org.
+
+
+
+Contents
+
+		Why undertake a community survey     
+		How was the survey developed?  
+		What is the local-level Crime Victimization Survey?  
+		How have surveys been used by police  
+		Use of telephone surveys  
+		Overcoming fears of surveys   
+
+	Survey development
+
+		Thinking about and setting goals   
+		What do you really want to know from the survey   
+		Tailoring the survey to fit your needs   
+		Modifying the level of analysis   
+		Modifications to reflect local conditions   
+		Modifications to incorporate measures of planned police initiatives
+		Modifications to survey should be consistent and neutral   
+		Who ya gonna call?  The critical issue of sample size   
+		Population and samples   
+		Issues of probability sampling   
+		Generating the sample frame
+		What is the appropriate sample size?   
+		How representative is the sample?   	
+
+	Survey administration
+
+		Carrying out a survey   
+		Coordination and quality control   
+		Selection, training, and supervision   
+
+	Analyzing and interpreting survey results
+
+		Frequencies and crosstabulations   
+		More sophisticated analyses   
+
+		Conclusion   
+
+	Appendixes
+
+		Appendix A.  Terminology
+		Appendix B.  References
+		Appendix C.  Seven basic steps for conducting telephone surveys
+		Appendix D.  Costs
+
+
+
+Why undertake a community survey?
+
+The widespread adoption of community policing across the nation
+has increased the interest in law enforcement agencies'
+conducting community surveys.  Many police engaged in community
+policing want to know "how we're doing" from the citizens'
+perspective.  Community surveys provide descriptive information
+that goes beyond the traditional measures of police workload,
+arrest activity, reported offenses, and calls for service. 
+Besides, since community police officers are trying to be
+responsive to community concerns, any complete measure of
+success would have to include asking the members of the
+community themselves. 
+
+Community surveys at a city-wide or county-wide level can be
+designed to provide police with reliable feedback from citizens
+about perceptions of police performance. In addition, these
+surveys collect information about criminal victimization,
+residents' views about crime, and their willingness to report
+crime to the police.  From a police management perspective,
+these surveys collect information about the most effective
+approaches to dealing with crime.  Since these surveys provide a
+measure of police performance, they can be used to analyze the
+way police deliver services and possibly change the allocation
+of resources where needed.  Some community surveys provide
+detailed information about specific problems affecting parts of
+a city, which helps in focusing police resources.  
+
+Survey research is a science and requires that accepted
+practices be followed.  But carrying out surveys need not be
+intimidating.  Even terms such as field testing, validation,
+sampling and statistical analyses need not be barriers to you if
+you want to conduct survey research to shed light on police
+practices.  You can partner with a local college, university, or
+research firm to assist you in developing and administering the
+survey as well as reporting the findings. Local colleges,
+universities, and research firms can assist you with survey
+issues addressed throughout this guide, including validity,
+reliability, purpose, probability sampling, survey
+administration, and analyzing and interpreting survey results.   
+
+Survey research is straightforward, although it can be
+time-consuming to follow acceptable practices.  To make
+available good community surveys and reliable survey methods to
+cities, counties, and states, the Office of Community Oriented
+Policing Services (COPS) and the Bureau of Justice Statistics
+(BJS) in the U.S. Department of Justice have developed a
+software package that includes a standardized community survey
+you can administer by telephone.  The entire questionnaire is
+included at no cost in the software package available to
+government agencies and researchers.
+
+This guide comes with the software and its technical how-to
+manual.  It gives practical, basic pointers for police in
+conducting community surveys.  It provides an overview
+of key issues involved in conducting survey
+research.  This guide  provides some basic do's and don'ts for
+conducting surveys that can withstand close scrutiny by police
+leaders, academicians, community groups, politicians, and the
+media and that can be compared with similar surveys by other
+jurisdictions.  The goal of this guide is to help you identify
+the issues in conducting useful surveys. However, this guide
+addresses only the basic elements of survey research. To learn
+more about research and statistics for police managers, see
+Appendix B. Police agencies may also consult with professionals
+about the technical aspects of survey research.  The
+step-by-step procedures in this guide will help you and whoever
+will conduct the survey to address the following basic but
+critical issues:
+
+  
+
+Why are we doing a survey and what do we want to know?
+What kind of resources and commitment do we have for this effort?
+Who should be surveyed and how?
+How many people should be surveyed?
+What do we do with the responses to the survey?
+
+     
+Answering these questions will make conducting surveys a
+relatively painless process to collect valuable information from
+the community.  This guide also provides the reader with a brief
+description of the critical issues affecting community surveys.  
+
+How was the survey developed? 
+
+Some background on this survey project is in order.  The
+community survey discussed in this guide builds on the work
+currently part of the National Crime Victimization Survey, or
+NCVS.  The NCVS has been conducted since 1972 by the Bureau of
+the Census for the Bureau of Justice Statistics.  The results of
+the NCVS are widely available to police and others, and are
+developed to provide national estimates of victimization,
+illuminating how actual victimization varies from crime reported
+to the police.  Because much crime is not reported to police,
+the NCVS findings clarify patterns of crime that are actually
+experienced by citizens and give the victim's perspective on
+what happened and the consequences.  Because the NCVS is based
+on a nationwide sample designed to produce estimates for the
+entire United States, the NCVS does not provide insight into
+crime problems at the city, county, or state level.
+
+To assist localities with collecting this important
+victimization information and other information at the city
+level, COPS and BJS have developed a standardized software
+package.  Known as the Crime Victimization Survey or CVS, the
+CVS software duplicates all the questions in the NCVS.  In
+addition, the CVS includes a component which asks specific
+questions about community policing.  Moreover, both the
+victimization component and the community policing component of
+the CVS can be modified to meet specific local needs.
+  
+  
+What is the local-level Crime Victimization Survey?
+
+The CVS is a generic telephone survey questionnaire covering
+what police engaged in community policing often seek to learn
+from the community:
+
+      
+
+What is the extent of residents' exposure to crime and
+perceptions of crime?
+What are local perceptions of community disorder and quality of life?   
+What are local priorities for addressing neighborhood conditions
+of disorder?
+How fearful are residents of crime?      
+What self-protective steps have been taken by citizens?  
+What is the extent and nature of police contact with residents?
+What are citizens' perceptions of police activities?
+How satisfied are citizens with police performance?
+What are public attitudes toward and knowledge of community
+policing?
+    
+The community policing questions supplement the core
+victimization questions taken from the NCVS.  The core
+victimization questions from NCVS examine in great detail the
+nature of victimization experiences within a household --
+identifying victim characteristics, victim behaviors, offense
+characteristics, reporting behavior including an explanation of
+why the incident may have been unreported, offender
+characteristics, use of weapons, and a host of other information
+about the victimization experience.  
+
+The reader should be cautioned that the CVS is a basic or
+generic community survey instrument.  Survey research is not
+typically "one size fits all."  Later in this guide, we'll
+discuss how to revise the basic survey to fit the specific needs
+of your jurisdiction.  There are important benefits to
+conducting a standardized survey, however.  The principal
+benefit is that many of the questions related to scientific
+methodology have been addressed by experts. You can have greater
+confidence that the results of the survey are valid.  A second
+reason is that it is possible to make comparisons with other
+jurisdictions which have conducted similar surveys.  For many
+situations such as addressing crime and disorder problems, such
+comparisons may not be helpful.  However, to interpret the
+measures of citizen satisfaction with your department resulting
+from this survey, it may be useful to compare your agency to
+others.
+  
+
+How have surveys been used by police? 
+
+Police have long been interested in citizens' views of police.
+To evaluate police programs, academic researchers have used
+surveys of citizens -- in person, by telephone or by mail, with
+different response rates and costs.  But police agencies  have
+only intermittently surveyed citizens, with some increase in
+these surveys beginning in the 1980s.  During the 1980s police
+began to conduct  their own -- albeit often informal -- surveys. 
+Many of these surveys were door-to-door surveys designed to
+document the extent and nature of fear of crime.  Among others,
+fear reduction programs by police in Houston, Newark and
+Baltimore County made use of community surveys.  
+
+During the late 1980s, many police came to view the public as
+customers or consumers of police service.  Police often used
+citizen or customer satisfaction surveys to gauge the reaction
+of citizens to contact with police.  These surveys were often
+mailed surveys, sent to citizens who had complained, received
+traffic citations, or had other formal contact with police.
+Telephone surveys were also used for this purpose.   
+
+As part of the trend towards community policing and
+problem-solving in the mid- and late 1990s, community surveys
+have increasingly been used to collect local-level information
+from citizens about specific problems in their communities.  For
+the most part, these surveys have been administered to sub-units
+within cities -- public housing developments, neighborhoods or
+other geographic entities.  Many of these surveys have been
+administered face-to-face at the homes of residents; however,
+door-to-door surveys are very costly to carry out.  
+
+While all of these approaches to collecting information from
+citizens have been used, surveys have not always provided
+reliable information to police.  Because of the way people were
+selected for surveys, police surveys have typically not met
+scientific standards of reliability, and some have been subject
+to criticism.    
+
+To provide feedback about community policing, there has been
+increasing interest among police, city councils, and mayors'
+offices in obtaining reliable survey information that meets
+scientific standards by using probability samples.  In fact,
+some cities now routinely conduct citizen surveys to provide
+feedback on police performance.
+
+* Scottsdale, Arizona, conducts (through a contractor) an annual
+citizen satisfaction survey to assess service delivery.  (See
+the questionnaire at www://ci.scottsdale.az.us). The telephone
+survey queries approximately 400 citizens through a random digit
+dialing approach.  The sampling procedure is so standardized and
+the survey so routinized that information is used to guide the
+city's budgetary process.
+
+ * Similarly, police in Reno, Nevada, completed their 17th
+semi-annual community survey in early 1999. The Reno department
+primarily uses volunteers, such as university students and
+seniors, to carry out the survey of 430 citizens. (For more
+information contact the deputy chief for planning, training and
+research via http://www.reno.gov)  
+
+Use of telephone surveys  
+
+As a method of research, telephone surveys have many benefits.  
+The telephone interview is typically non-threatening to the
+respondent and allows the respondent to feel the degree of
+confidentiality or anonymity assured by the interviewer. 
+Telephone surveys also preclude the need for interviewers to
+conduct interviews in high crime areas where the risks to personal
+safety may be high.  Typically, telephone surveys are inexpensive
+relative to other types of survey research, and response rates to
+telephone surveys are generally higher.  
+
+Despite the strengths of telephone surveys, there are some
+limitations which should not be overlooked. Although the vast
+majority of Americans have telephones in their homes, some do
+not, and in some neighborhoods the proportion of households with
+phones is low. Telephone surveys are inherently biased against
+lower-income citizens, since a larger proportion of low-income
+families have no telephone. Telephone surveys may also
+underrepresent persons with language barriers, in some ethnic
+groups or in age groups like the very young or the very old.
+Some groups such as the homeless, young inner-city males, or
+college students may be severely underrepresented in phone
+surveys.  Since these persons may have different views of police
+service or different exposure to crime, this inherent bias in
+telephone survey research should be recognized throughout the
+survey process. There are procedures to weight demographic
+groups which are not fully represented in telephone surveys.
+These procedures are discussed later in this guide.
+  
+
+Overcoming fears of surveys  
+
+Conducting surveys can be intimidating and for some good
+reasons. The results of community surveys come under a great deal
+of scrutiny by media, politicians, community groups, academicians, and police
+leaders. If police or sheriff's departments develop their own
+surveys, they have to be concerned about their perceived bias as
+survey administrators.  Surveys can be viewed as self-serving
+devices, designed to make the police look good, especially if
+there are concerns about police brutality, police attention to
+minority areas or police treatment of minorities, and other
+sensitive issues.   
+
+To address perceived bias, police must focus attention on every
+aspect of survey research, including question wording, field
+testing of questionnaires to identify problems, and other
+processes of survey development. In addition, police must
+identify an unbiased sampling frame and develop procedures for
+contacting prospective respondents. This is a big task -- one
+with which a local university or college can assist.  
+
+Using the CVS and a standardized sampling procedure will relieve
+many of the external and internal pressures on police in
+conducting surveys.  By following sound sampling procedures,
+city-level findings can be comparable to those of other
+jurisdictions.  Replicating the survey on a periodic basis will
+provide police agencies with regular and reliable information
+about citizens' views of crime and public safety.
+
+The CVS eliminates the need for many of the procedures that
+occupy survey researchers. The survey instrument has already
+been rigorously pre-tested to ensure that questions are neutral
+and understandable, and responses have been scaled and
+validated. In addition, the software includes a method for
+generating a simple random sample of telephone numbers through a
+random digit dial approach by using the telephone prefixes for
+the area.  
+
+Telephone surveys are a promising method for police to collect
+quality information from citizens on a routine basis and at
+relatively low cost.  Conducting survey research that meets
+standards of reliability is not difficult but requires a
+significant amount of effort.  Importantly, the commitment and
+resources for this task should be carefully evaluated by police
+before undertaking survey research.  Only if sufficient
+resources are available to police to conduct reliable scientific
+surveys can the benefits of telephone surveys be fully realized.
+
+
+Survey development
+
+Carrying out the community survey involves installation and use
+of the CVS software  provided by COPS/BJS.  While this task
+should be carried out by someone knowledgeable about computers,
+it is a straightforward procedure that involves following
+clearly specified steps.  The technical manual accompanying the
+software includes detailed installation and use instructions.   
+
+
+Thinking about and setting goals  
+
+The first and most important step of survey research, and the
+most often overlooked step, is determining the goals of the
+survey.  Surveys for police can be used for different purposes
+and it is important to thoroughly discuss and articulate these
+goals prior to conducting the research.  Avoiding or rushing
+this step will invariably result in problems.     
+
+Articulating survey goals invariably saves time, money and
+headaches.  For example, if your jurisdiction is not interested
+in collecting information about victimization for different
+types of crime, much effort would be expended for collecting
+data with little value to your agency.  Similarly, if your
+agency is not engaged in community policing  -- and has no
+interest in implementing community policing --  you won't want to
+waste time asking respondents about community policing
+initiatives. If your agency is concerned about its relationship
+among different groups of Asian heritage -- perhaps Lao, Cambodian and
+Vietnamese -- the survey must ask about country of origin. 
+Thinking about these needs after the survey is conducted is too
+late. 
+
+So, thinking through and articulating goals help police develop
+a survey instrument that is most appropriate for the
+jurisdiction.  Articulating goals also facilitates analysis. 
+For example, if you're interested in the rate of crime in the
+Northeast area of your city, the sampling plan must collect
+enough responses from that neighborhood to yield valid
+information.  If you're particularly interested in the opinions
+of a small ethnic group, or a particular age group, this affects
+your sample size and sampling plan.  It's best to know these
+needs at the beginning of the survey, not after the survey is
+completed.  
+
+During the discussion of goals, police should also plan whether
+the survey is to be repeated periodically.  While there are many
+benefits to conducting periodic surveys of citizens, this
+replication may be beyond the resources of the jurisdiction. It
+may be more feasible to conduct the community survey every other
+year or even every three years.  While the longer time frame may
+wash out some of the information about police services, such a
+survey will still provide valuable information which is a
+snapshot of a point in time.  If possible, decisions about
+replication should be made before conducting the first survey as
+plans to replicate the survey can have implications for what
+questions are asked.    
+
+While your jurisdiction may not be exceptionally interested in
+victimization rates for a one-time survey, declines in
+victimization rates -- as reflected in a periodic survey -- may
+provide useful information for evaluating crime control and
+public safety initiatives.  An example of this utility is often
+heard in discussions of community policing.  Many police leaders
+believe that reported crime will first rise when community
+policing initiatives are implemented, as residents become more
+willing to report offenses.  Victimization surveys may provide
+evidence for this hypothesis, revealing that as actual
+victimization declines reported crime rises.  Without
+victimization information, police will be hard pressed to
+document this explanation of community policing impact and will
+be able only to provide anecdotal support for the hypothesis
+that crime is actually declining.
+  
+
+So, thinking through the survey goals is a necessity for
+conducting good survey research.  This step ensures that the
+survey accomplishes the following:               
+
+Makes most efficient use of resources by selection of
+appropriate sample size 
+Provides the most meaningful information for local needs
+Assists with development of an analysis plan        
+Plans for future information needs.
+
+
+What do you really want to know from the survey?  
+
+In practical terms, the answer to this question may be affected
+by knowing what kinds of things you can learn from a community
+survey.  Among the possible objectives of a police department
+using the standardized CVS including the community policing
+section are the following: 
+
+ *  Victimization -- differences between reported offenses and
+actual victimization  by individual characteristics such as
+race, gender, age and income
+* Comparison of local victimization rates with those of other
+jurisdictions
+* Measures of citizen willingness to report crime
+* Indicators of citizen fearfulness               
+* Analysis of crime and disorder problems
+* Measures of police performance:  survey measures citizen
+knowledge and attitudes, satisfaction reflects how well the
+police are doing their job from the citizens' perspective  
+*Measures of public information efforts
+* Comparison of a jurisdiction's community policing efforts -- and
+impact on victimization and fear -- with those of other
+jurisdictions
+
+
+Tailoring the survey to fit your needs 
+
+The goals of the survey will affect the kinds of questions which
+the police agency will want included in the survey.  The basic
+survey questionnaire -- either the CVS portion or the community
+policing section -- can be modified to fit different police
+objectives.  Some questions may be deleted or altered, while
+additional questions may be added.  The technical guide that
+accompanies the CVS software includes directions for carrying
+out these modifications.
+  
+
+Modifying the level of analysis  
+
+One modification which may be desired by local jurisdictions is
+to alter the level of analysis. The CVS survey is designed to
+collect information about a city.  The survey currently does not
+contain area-level information smaller than a city. While
+city-level information is certainly easiest to collect, there
+is no reason why the level of analysis cannot be changed.
+However, if police wish to collect and analyze information
+about smaller areas within the city, such as neighborhoods
+or other geographic areas, typically a larger sample must
+be surveyed.  Sample size is discussed inlater in this guide.   
+
+Since many police agencies are interested in differences in
+crime and victimization in specific areas within their city,
+agencies may wish to add a question identifying the respondent's
+area within the city.  Addresses are requested in the survey or
+respondents may also be asked to identify their zip code,
+neighborhood by name, region or quadrant of the city (linking
+the survey to a GIS may facilitate data collection by
+neighborhood).      
+
+Police agencies may want to collect information only from
+specific neighborhoods rather than undertaking a city-wide
+survey.  If information about geographic areas for telephone
+prefixes is available, a sampling frame may be constructed
+making use of this knowledge.  Sample size will vary
+accordingly.  Alternatively, interviewers may screen calls to
+identify only respondents who live in certain portions of the
+city.  This task would be time consuming.
+  
+
+Modifications to reflect local conditions 
+  
+
+Other modifications to the survey will reflect differences in
+jurisdictions across the nation.  On occasion, these differences
+may consist of wording or particular localized conditions.  For
+example, the survey asks respondents about steps they have taken
+to prevent crime in the home.  In warm areas of the country
+where windows and doors may be left open, simply keeping doors
+and windows shut may be a deterrent to crime.  While the survey
+asks if the respondent has taken other precautions, the current
+survey questions and responses should be carefully evaluated to
+ensure they reflect local conditions and objectives.  The local
+crime and public safety scenario in cities varies based on a
+variety of conditions.  For example, crime varies by housing stock
+since high rises feature different problems than single-family
+residences; crime varies by the presence of alleys or other street
+configurations and conditions; by topography, such as canyons;
+by development, such as proximity to retail areas, and by many
+other features.
+  
+
+Modifications to incorporate measures of planned police
+initiatives  
+
+An important element for modifying the questionnaire is to
+incorporate measures of planned police initiatives.  Say, for
+example, the police plan to mount an extensive public
+information effort to encourage residents to keep windows and
+doors shut.  If this type of effort is planned, a baseline
+question can be included in the survey to determine what
+proportion of residents currently keep windows and doors shut. 
+This baseline measure will then provide a before-and-after
+measure of the impact of the police public safety measure. This
+research design, known as a pre-test post-test, provides
+excellent information about the impact of prevention or
+intervention efforts.  Crackdowns on gangs, street-level drug
+dealing, truancy, public drinking and a host of other
+community-policing initiatives can be well documented by using
+this design.
+  
+
+Modifications to survey should be consistent and neutral   
+
+Modifying the questionnaire requires care and attention to
+question construction and response options.  In general,
+questions should be neutral and consistent with other questions
+in the survey questionnaire.  Response options should also be
+consistent with the responses in the questionnaire.  For
+example, if concern about gangs in your jurisdiction is a major
+issue, the survey may be modified to ask the respondent:    
+
+"How fearful are you about gangs in your city (and/or your
+neighborhood)?"  
+
+  
+
+Since response options to similar questions in the survey are
+worded as
+
+(1)	Very fearful
+(2)	Somewhat fearful
+(3)	Not very fearful
+(4)	Not at all fearful
+
+this same sequence of responses should be used for the new
+question.
+                   
+
+Who ya gonna call?   The critical issue of sample size   
+
+Once the survey has been modified to be consistent with the
+goals and objectives in a particular jurisdiction, attention
+must turn to the selection of respondents.  By far, the most
+common question of police conducting community surveys is "How
+many people must I survey?"  The answer to this question relates
+to the goals and objectives of your survey.  In this section, we
+will provide some general guidelines for decision making.   
+
+We mentioned previously that police surveys are often criticized
+because they are not scientific or probability samples, thus
+their findings are not representative of anything in particular.
+ Investing the time to develop a defensible sampling strategy
+and a probability sample is an important procedure.  So, a brief
+and very basic discussion about sampling procedures is necessary.
+  
+
+Population and samples   
+
+When you sample people, you select a portion or subset of
+everyone you are interested in, then make generalizations from
+the subset to all people of this type.  The larger group is
+called a population while a sample is the subset or a portion 
+of the population.  If you were interested in the experiences of
+women who have been victims of theft, the population is all
+women.  Since it is not possible to interview all women, you
+will want to interview a subset of women.  The subset is your
+sample, and it is made up of cases.  In the example so far, 
+the cases are those women selected for interviewing.  
+
+If possible, you will want to know something about the
+population.  For example, what proportion of the population have
+been victims of theft in the prior six months?  To answer this
+question with a sample, you need to be sure that the sample is
+representative of the population.  Characteristics of the
+population are called parameters.  In this example, the
+proportion of women in the population who have been sexually
+assaulted in the prior six months is a parameter.  Though this
+number exists, it is unknown.  You will need to estimate it from
+the sample.  The estimate of the population parameter from the
+sample is called a statistic.  If the sample is unrepresentative
+of the whole population, then the statistic you calculate is
+unlikely to be an accurate estimate of the population parameter
+you care about.  For example, if you interview women at a
+women's crisis clinic, you may overestimate the proportion of
+women who have been victims of theft because it is quite likely
+that this sample or subgroup has a higher than average theft
+rate than women in the population.  
+
+How do you get a representative sample from your population? 
+All sampling begins with the translation of a defined population
+into a sampling frame.  A sampling frame is either a list of
+possible cases or a procedure for finding eligible cases.  It is
+from this sampling frame that you will select your cases.
+Ideally, everyone in the population should show up in the
+sampling frame.  Say you were interested in the experience of
+college undergraduate women who have been victims of theft. 
+There is one university in your jurisdiction, but there are too
+many female undergraduates to interview.  The university might
+be able to provide you with a list of undergraduates for you to
+use as a sampling frame.
+  
+
+Issues of probability sampling  
+
+Probability sampling includes a variety of techniques that
+produce cost-effective data sets that are representative of the
+population from which they are drawn and yield information that
+quantitatively describes our confidence in how well the sample
+estimates describe population characteristics.  Non-probability
+samples can be cheap or expensive, but we often have no basis
+for claiming they are representative of the population, and we
+are not able to measure how well our sample results reflect the
+whole population.    
+
+A probability sample is one that is selected in such a way that
+each member of the population's sampling frame has a known
+probability of being selected and that probability is greater
+than zero.  Note that this does not necessarily mean an equal
+probability of being selected, though some probability samples
+have that characteristic.  In some circumstances it is desirable
+to select some members of population with certainty.  If you are
+using something other than equal probability of selection,
+weights should be used to take into account the differing
+sampling probabilities.   
+
+A non-probability sample is a sample in which you either do not
+know the chances that each member of the population has of being
+selected, or there are some members of the population that will
+not be selected.  Interviewing the women in your office about
+their theft victimization experiences might help you think about
+the problem of women as victims of theft, but this group is
+unlikely to be representative of the larger population in your
+city.  
+
+When using a probability sample, two things heavily influence
+the confidence in your estimates.  The first is sample size. 
+This is the number of cases in your sample.  The bigger your
+sample, the greater the confidence that your statistic is an
+accurate measure of the population parameter.  You have some
+control over your sample size, at least within the bounds of
+your budget or the budget of the agency funding your research.  
+
+The second factor which influences confidence in estimates is
+the prevalence of the characteristics of interest in the
+population.  The greater the prevalence, the smaller the sample
+you will need to get the same level of confidence.  The more
+rare the characteristic is in the population, the larger the
+sample required to get the same level of confidence.  While you
+have no control over the prevalence in your jurisdiction, your
+knowledge about how common the characteristic is in your
+population can be used to design your sampling strategy.   
+
+Simple random sampling is one of four common probability
+sampling designs.  Each has its advantages and disadvantages.
+Simple random sampling is the type of sampling design we usually
+think about, and the sampling strategy which is recommended in
+software package included with this guide.    
+
+Once the sample size has been determined and the sampling frame
+has been developed by inputting the jurisdiction's telephone
+prefixes to generate a list of telephone numbers, each item on
+the list is given a unique number.  Using  the software's
+capacity to produce random numbers, cases (telephone numbers)
+are selected for the sample.  Each case (telephone number) in
+the sampling frame (list of telephone numbers) has exactly the
+same probability of selection and that probability is equal to
+the sample size divided by the population size (number of
+entries in the sampling frame).  It is important to include all
+prefixes that  significantly cover the area of interest. 
+Leaving out some will lessen the representativeness of the
+sample.  
+
+Simple random sampling is most useful when you are not
+investigating rare events or small population segments.  For
+example, if you think that only about 2 percent of the female
+undergraduates at a certain college have been the victim of a
+theft in the prior six months, then simple random sampling is a
+very costly approach. To be sure that we have 30 women who have
+been victims of theft in our sample, we would have to interview
+1,500 female students.  In contrast, if 40 percent of female
+undergraduates are likely to have been theft victims, then
+simple random sampling may be quite efficient.  This, of course,
+is the difficulty for a city-wide sample for victimization;
+despite prominence in the media, violent crime events are
+relatively rare in a jurisdiction.  Very few persons are
+victimized by violent crime.
+  
+
+Generating the sampling frame   
+
+Now that we've discussed the issues underlying determining
+sample size, we're back to the question -- How many are enough?  
+Since violent crime rates -- that is, rates per 1,000 population
+C are fairly well established and consistent across different
+places, we know that violent crime is a relatively rare event.  
+
+Using the CVS software, the sampling frame for the CVS and
+community policing survey consists of randomly generated
+telephone numbers which, by and large, represent separate
+households.  (Some may represent multiple phones within a single
+household while others serve multiple households, such as a
+rooming house.)  This method of telephone number generation is
+known as random-digit dialing or RDD.  In developing a sampling
+frame, RDD avoids the limitations of using phone books, since
+many telephone numbers are unlisted.     
+
+In generating the sampling frame, enough numbers must be
+generated to account for refusals -- that is, the prospective
+respondents who decline to be interviewed -- and ineligibles such
+as non-residential numbers, non-working numbers, facsimile,
+computer lines, and cell phones and numbers which duplicate
+other lines within a household.  These ineligible numbers may
+constitute a very large portion of the sampling frame,
+particularly in moderate to high-income neighborhoods.  There is
+no reliable information about ineligibles generated through RDD.
+ An estimate of about 60 percent may be appropriate for purposes
+of planning.  Actual experience will probably vary a great deal
+by location and depend on the effort applied to obtaining
+participation from the survey respondents.    
+
+
+What is the appropriate sample size?   
+
+Deciding on an appropriate sample size requires effort and
+planning.  There are no standardized sample sizes for surveys. 
+Recommended sample sizes are even  independent of city size. 
+Since violent crime is a relatively rare event and is somewhat
+equally as rare in large cities as in small cities, recommended
+sample sizes will not vary much based upon the total population
+of the city.  In general, a final sample size of at least
+200-250 will be the absolute minimum necessary for making
+inferences to the larger population.  In the 12 large cities in
+which the CVS questions were tested, final samples consisted of
+approximately 800 households (in each city) to produce a sample
+sufficient for making inferences about victimization experience.
+ These numbers were necessary to generate a sufficient number of
+victims of violent crime in the sample since violent crime
+victimization is statistically a rare event.  In general, an
+appropriate sample size will fall somewhere between these
+points, depending of course on the objectives of the survey.  If
+the police agency is not interested in violent crime, and
+desires only to collect information about property crime
+victims, a smaller sample may be used since property crime is
+statistically more common than violent crime. 
+
+One way to think of selecting sample size is to develop a "best
+guess" of the level of victimization experience being sought in
+the sample.  Using Table 1, say that you estimate that half of 1
+percent of persons in your community experience the type of
+victimization you wish to examine.  If your population is
+500,000, this best guess of victimization suggests that about
+2,500 persons are victims.  To find 30 of the 2,500 victimized
+persons, you will need to call or interview at least 6,000
+persons  -- your sample size is 6,000.  A minimum number of 30
+cases is an absolute requirement for large sample analysis with
+statistical procedures normally used. 
+
+------------------------------------------------
+Table 1.  Best guess for sample size
+ 
+Best gues       
+percent of            Minimum sample size to find n
+people victimized     cases with victimization
+                      n=30     n=50    n=100    n=150
+					  
+0.5%                 6,000   10,000  100,000  300,000
+1%                   3,000    5,000   10,000   15,000
+5%                     600    1,000    2,000    3,000
+10%                    300      500    1,000    1,500
+15%                    200      333      666    1,000
+20%                    150      250      500      750
+25%                    120      200      400      600
+------------------------------------------------
+
+
+---------------------------------------------
+Reno, Nevada
+
+Reno police conduct community surveys twice each year, and a
+sample size of 430 provides reliable information.  In general,
+the larger the sample size the greater the accuracy in the
+survey estimates, assuming the sample is increased in a random
+manner.
+
+---------------------------------------------
+
+
+If you are interested in looking at subgroups such as race or
+gender by type of victimization, then doubling the sample size
+is appropriate.  This requires that your minimum number of cases
+increases proportionally as indicated in the top row of Table 1.
+  If the subgroup of  interest is a very small proportion of the
+overall population, then tripling or quadrupling the sample size
+may be in order.  In these situations, simple random sampling is
+prohibitively expensive since you need more and more interviews
+C and a more efficient method of probability sampling should be
+used.  Professional assistance should be sought under these
+conditions.  
+
+If the victimization experience you seek to examine is more
+common than the previous example, you may call fewer people. 
+For example, if the victimization experience is estimated at
+15%, looking at Table 1, you will see that you only need to call
+200 persons to find 30 persons with that type of experience.
+  
+
+How representative is the sample?
+
+As telephone numbers are randomly generated for the survey, no
+advance information is available about the population.  While
+the generation of random numbers (RDD) will provide a defensible
+sampling strategy, the randomness alone will be insufficient to
+insure that the final sample is actually representative of the
+jurisdiction's population.  Nonrepresentativeness may occur
+either in the original sampling frame if, for example,
+low-income persons or minorities are less likely to have phones,
+or in the non-responses or refusals if victimized persons or
+some other group are less likely to participate in the survey.
+The resulting level of error in the survey estimates will depend
+on how many persons are missed and how different they are from
+those that you are able to interview.  Missing a large portion
+of a distinctive subgroup in the population can greatly reduce
+the usefulness of the survey data.   
+
+For most police agencies, some demographic characteristics of
+citizens are of critical importance in collecting information.
+The exposure of citizens to police and their opinions of police,
+as well as victimization experience, vary based on demographic and
+neighborhood characteristics.  Thus information about these
+characteristics must be collected during any survey and must be
+monitored as the survey is being conducted to make sure that
+enough respondents with those characteristics are being surveyed.  
+
+For most police agencies, these relevant characteristics may
+include gender, age, race, and income level.  Additional
+variables may be critical in a particular jurisdiction.  Once
+the survey is administered and demographic characteristics of
+the respondents are developed, these findings can be compared
+with census data for your jurisdiction to ensure that
+respondents are representative.  For groups which may be
+underrepresented in the final sample, the responses may be
+weighted to increase their relative proportion for the entire
+sample.
+
+
+Survey administration
+
+
+Carrying out a survey  
+
+Conducting a large survey is a substantial task.  This section
+of the guide discusses the highlights of survey administration. 
+You may want to refer to the appendix for additional resources
+about this step of the survey.  Resources must be identified and
+capacity for conducting the survey must be assessed.  Cities or
+police agencies often contract with local colleges, universities
+or research organizations to conduct surveys.  These
+organizations have the resources in terms of telephones,
+computers and trained personnel to carry out the survey. 
+
+While this approach may be expensive, this may be the most
+efficient way to conduct the research. In addition, many police
+and city leaders feel that there is increased legitimacy
+attached to research findings conducted external to the police
+department.     
+
+The perceived legitimacy associated with survey research is not
+a minor issue.   Conducting their own survey of the community
+may open the city or police department to criticism or make
+results suspect.  However, if results are designed primarily for
+use within the police agency for example, feedback for
+allocating police resources or providing annual evaluation
+information -- an in-house survey may be appropriate.    
+
+Using the CVS software companion to this guide relieves some of
+the criticism applied to police surveys.  The CVS is a
+standardized survey which builds on the National Crime
+Victimization Survey, conducted for over 25 years by the U.S.
+Census Bureau for the Bureau of Justice Statistics.  The
+community policing questions in the CVS were rigorously field
+tested by the U.S. Department of Justice in 12 jurisdictions. 
+The validation processes carried out have standardized the
+survey instrument, so that the same survey will likely be used
+by other police agencies in the nation. The survey instrument
+has a great deal of validity on its own merits.  
+
+Effort and care must be expended to set up and carry out the
+survey.  Resources such as telephones and computers must be
+allocated and located.  Personnel must be selected and
+thoroughly trained.  Methods of supervision and quality control
+must be developed to insure the accuracy of the surveys, and
+issues such as time frames must be established.
+  
+
+Coordination and quality control  
+
+Administration of a telephone survey is not complicated but
+requires careful planning and close adherence to a series of
+quality control procedures.  Planning a survey also involves
+estimating the time needed to carry out the survey in a
+relatively compressed period of time.  Surveys which are allowed
+to drag out for months and months run the risk of a major crime
+event occurring which will alter respondents' perceptions of
+crime or police in the midst of the survey.  To avoid this
+situation, every effort should be made to conduct the survey as
+quickly as possible.  
+
+Estimations can be made of the amount of time necessary to carry
+out a survey based on the desired sample size.  The national CVS
+requires approximately 10 minutes to administer.  This figure,
+of course, varies from one individual to the next while the
+Community Policing section will add approximately 5-10 minutes
+to the interview time.  
+
+The number of surveys to be conducted will be determined through
+the sampling procedure (see above), guiding survey
+administrators in estimating the amount of staff necessary to
+conduct the survey.  Estimates of the time to conduct a
+community survey should follow a formula which includes:
+ 
+
+The number of respondents/cases desired -- e.g., 600
+Estimation of refusal rates (30 percent of 12-city CVS)
+Estimates of eligible respondents (that is, ineligible numbers
+are screened out -- perhaps around 60 percent)
+Total number of telephone numbers to be generated and called         
+
+In this example seeking 600 respondents, 2400 numbers will be
+generated; 60 percent or 1,440 will be ineligible while 960 will
+be eligible; and 30 percent or 288 will refuse while 70 percent
+or 672 will agree to the interview.  As general rule, based on
+the sample size for the 12-city field test of the CVS questions,
+telephone numbers should be generated for approximately four
+times the number of surveys desired.  This ratio incorporates
+both ineligibles and refusals.  
+  
+
+Selection, training, and supervision 
+
+The selection and training of interview staff and their
+supervision are critical to administering the survey.  All
+interviewers should be well-supervised.  Survey administration
+should be monitored on a random basis and quality control
+checks, such as making call-backs to respondents should be
+carried out to ensure the accuracy of interviews.  
+
+Training of interviewers should be carried out to ensure that
+all surveys are conducted as similarly as possible.  In general,
+interviewers should be thoroughly trained to be neutral,
+precise, and thorough in administering each survey.    
+
+Training should also emphasize the confidential nature of
+information being collected.  Interviewers should be aware that
+respondents may be suspicious of providing personal or sensitive
+information over the telephone particularly about their
+experience with victimization.  Evidence with telephone surveys
+suggests that these surveys are typically less threatening to
+respondents than face-to-face surveys.  Nonetheless,
+interviewers should fully brief prospective respondents about
+the purposes of the survey and the identity of the survey
+organization.  Data management practices should be established
+to maintain the anonymity of the respondent and the
+confidentiality of all information collected through the
+interview. 
+
+The respondent should be fully assured of anonymity associated
+with his or her individual experience and opinions.  Good
+interviewers who are able to address respondents' concerns about
+anonymity may lower refusal rates.   
+
+Consistent with the practices of the U.S. Census Bureau in
+carrying out surveys, telephone interviews should adhere to the
+following practices:    
+
+* Be friendly and businesslike    
+* Assure the respondent of confidentiality
+* Refrain from expressing (via words or tone) a personal opinion
+about answers received -- any comments should be neutral
+* Pace the interview and always avoid rushing the interview C
+surveys can be rescheduled for completion at a later time, if
+necessary
+* Ask all questions in a deliberate and objective way  -- asking
+no additional questions
+* Ask all questions in order
+* Ask all questions exactly as worded -- even if the respondent
+has previously provided the information
+* Avoid leading respondents by changing words
+* Read each question clearly
+* As instructed, follow up questions with "Any other way?" or
+other prompts to elicit additional responses 
+* Probe, as necessary -- stating "yes, I see" or repeating
+questions as necessary may encourage a more complete response to
+questions.  Probes are especially useful if the respondent says
+"I don't know"
+* Use neutral probes such as "I don't understand" or "Can you
+explain that?"
+* Close the interview by thanking the respondent(s) for their
+time.      
+
+Compliance with these basic requirements for conducting
+telephone surveys should be assessed through routine monitoring
+of survey administration.  As a technique of quality control,
+all surveyors should be monitored periodically to ensure that
+the survey is being conducted as designed.  Failure to comply
+with these basic administration requirements may invalidate the
+survey findings.
+
+
+Analyzing and interperting survey results
+
+Analyzing and interpreting survey results is a step of survey
+research that makes many lay persons panic.  To help ease the
+pain of analysis, the CVS has developed some canned analysis
+packages to report survey findings.
+ 
+
+Frequencies and crosstabulations  
+
+Frequencies report how many persons (and what percent of
+respondents)  responded a certain way to each question in the
+survey.  This is the most basic output from surveys and is a
+step taken by every survey analyst.  For some folks, this may
+even be the last piece of analysis done on the survey findings! 
+The following table is a frequency table reporting citizen
+attitudes about drug problems.                           
+
+Concerns about drugs                                
+
+                         	Agree  Neutral Disagree Total
+
+Drug sales and use in my 	61.02%	23.73%	15.25%	100%
+neighborhood are problems	(288)	(112)	(72)	(472) 
+
+The numbers in the table show the rare situation in which all
+respondents answered the question.  Typically, in a survey with
+many respondents, each question will have at least a few
+respondents who do not answer.  The number of non-responses is
+often shown separately, particularly if it is large, and the
+percents are of the people who did answer the question.  While
+this type of table is interesting, frequencies are most useful
+for pointing to directions for further analysis.  Wouldn't it be
+useful to know what kinds of citizens are most concerned about
+drug problems?  
+
+Crosstabulations compare categories of responses on a particular
+characteristic. Demographic characteristics frequently influence
+the way results are interpreted.   
+
+Concerns about drugs, by age of respondent
+
+                                
+
+Drug sales and use in my       
+neighborhood are problems        Agree        Neutral     Disagree    Total  
+
+Age  18-29                        21%            18%         61%       100%
+                                 (30)           (26)        (87)      (143)
+Age  30-59                        43%            21%         36%       100%
+                                 (74)           (36)        (62)      (172)
+Age 60 or older	                  80%            11%          9%       100%
+                                (126)           (17)        (14)      (157)
+Totals                           100%           100%        100%       100%
+                                (288)          (112)        (72)      (472)
+
+This type of table is available as a standardized report with
+the CVS software.  Tables can be generated by the demographic
+variables such as age, gender and race.  The technical  manual
+provides guidance on how to use the software to carry out these
+tasks.
+ 
+
+More sophisticated analyses   
+
+Frequencies and crosstabulations tell most police agencies much
+of what they want to know from community surveys.  We have not
+discussed significance testing, the criteria for determining the
+likelihood that an observed relationship is due to chance.  You
+may want to evaluate significance of findings to establish
+support for an observed relationship.  The mathematical formula
+used to estimate significance depends on a host of factors,
+including the size of the sample or sub-sample.   
+
+In addition to frequencies and crosstabulations, more
+sophisticated analysis may be used by jurisdictions with the
+interest and ability to do so.  For example, surveys which opt
+to collect location information from residents (such as zipcode
+or neighborhood) may be able to use GIS systems to map response
+categories.  Analyses should also be framed so that replication
+of findings from year to year will generate results which
+provide meaningful comparisons over time.     
+  
+
+Conclusion  
+
+Surveys of the public can provide valuable information to police
+managers and law enforcement policy makers.  There are some
+types of information, such as citizen attitudes and the volume
+of unreported crime, that cannot be gathered in any other way.  
+
+
+
+This guide has introduced the basic concepts and procedures
+needed to undertake a community survey.  The survey software
+provided by COPS and BJS incorporates some of the best practices
+available, thus making the process simpler.  Nevertheless, a
+competent and valid survey, particularly of rare events such as
+criminal victimization, is a difficult and resource-intensive
+undertaking.  If the sample is too small, there can be little
+confidence in the results even if it is a random sample.  If an
+important segment of the population refuses to answer the
+questions or cannot be reached by telephone then making
+population estimates from your sample is highly problematic.  
+
+The software and this guide focus on simple random sampling
+which is appropriate for telephone samples in which nothing is
+known about the respondents.  For many circumstances, simple
+random sampling is more expensive than other more complex
+sampling strategies.  We strongly recommend that you discuss the
+substantive problem you want to investigate with a trained
+survey researcher before starting your project.
+
+Appendix A.  Terminology
+
+CVS  --  Crime Victimization Survey  -- This is the two-part
+survey provided by BJS/COPS.  It includes the community policing
+section and replicates the questions contained in the National Crime
+Victimization Survey conducted by the Bureau of the Census.  
+
+NCVS --  The National Crime Victimization Survey is the
+victimization survey conducted by the Bureau of the Census.  
+
+Parameter  -- characteristics of the population of interest,
+e.g., one gender or one race with victimization experience.  
+
+Population --  the group in which you are interested.  
+
+RDD --  Random Digit Dialing  -- This is a method for generating a
+random list of telephone numbers for carrying out the survey.  The
+Windows-based CVS software uses this method to generate a list
+of numbers for calls.   
+
+Sample C- a subset or portion of the group you're interested in.  
+
+Sampling frame  --  a list of all possible cases from which you
+select your sample.  
+
+Significance testing  --  the criteria for determining the
+likelihood that an observed relationship is due to chance.  
+
+Statistic  -- the estimate of a population parameter from your
+sample.  
+
+Probability sample  -- a sample in which everyone selected had a
+known chance of being selected; often probability samples
+reflect an equal probability of selection. 
+
+
+
+Appendix B.  References
+
+For further reading on survey research, especially telephone
+surveys,  see --  
+
+Babbie, Earl (1999).  The Basics of Social Research, 8th
+edition.  Belmont, CA:  Wadsworth Publishing.  
+
+Czaja, Ronald and Johnny Blair (1996).  Designing Surveys:  A
+Guide to Decisions and  Procedures.  Thousand Oaks, CA:  Pine
+Forge Press.  
+
+Eck, John E. and Nancy G. LaVigne (1994).  Using Research:  A
+Primer for Law Enforcement Managers.  Washington, DC:  Police
+Executive Research Forum.  
+
+Lavrakas, Paul (1993).  Telephone Survey Methods:  Sampling,
+Selection, and Supervision.  Newbury Park, CA: Sage Publications.  
+
+Lipsey, Mark W.  (1990).  Design Sensitivity:  Statistical Power
+for Experimental Research.  Newbury Park, CA:  Sage Publications.  
+
+Maisel, Richard and Caroline Hodges Persell (1995).  How
+Sampling Works. Thousand Oaks,  CA:  Pine Forge Press.  
+
+Saris, Willem E. (1991).  Computer-Assisted Interviewing.
+Newbury Park, CA:  Sage Publications.  
+
+Schutt, Russell K. (1999).  Investigating the Social World:  The
+Process and Practice of Research.  Thousand Oaks, CA:  Pine
+Forge Press.  
+
+Webb, Kenneth and Harry P. Hatry (1973).  Obtaining Citizen
+Feedback: The Application of Citizen Surveys to Local
+Governments.  Washington, DC:  The Urban Institute.
+
+
+Appendix C.  Seven basic steps for conducting telephone surveys
+
+ 1.   Think about and set goals.   Take time to be exceptionally
+clear about what  you really want to know from a survey.  Modify
+the survey questionnaire based  on your specific objectives.     
+
+2.   Select a sampling frame by generating telephone numbers
+with RDD software.     
+
+3.   Determine the sample size and the sampling method based on
+your goals.*  Select the sample -- that is, select who will be
+called.     
+
+4.   Set up the survey administration.  Select interviewers such
+as students or volunteers or contract for administration.  Find
+resources, including telephones, computers and space.  Develop
+data management procedures which secure the data and protect the
+anonymity of respondents.     
+
+5.  Administer the survey.  Make telephone calls and carry out
+quality control steps.     
+
+6.   Analyze the survey data.     
+
+7.   Report the findings.     
+
+*You may need some assistance with this step.  You can contact a
+local college, university, or research firm for assistance.
+
+Appendix D. Costs
+
+Telephone surveys are the least expensive way to get reliable
+survey information.  But there are costs involved.  Costs vary
+from one place to another, but you should be able to predict
+costs by examining the following cost factors --  
+
+Personnel  -- telephone callers and supervisors.  To save money,
+some police agencies use volunteers such as students or seniors
+or other community members.  The number of personnel you need is
+based, of course, on the sample size you select and the time
+necessary to conduct a single survey.  You will also need
+personnel to be involved in planning the survey, coordinating
+survey tasks, analysis, and report preparation.
+     
+Training --  Training of callers and supervisors will require
+time and staff, and materials.      
+
+Telephones --  Each caller needs a telephone.  Calls can be
+scheduled for evening hours, thus permitting the use of
+telephones which may be otherwise used during daytime hours.       
+
+Space -- Sufficient space is necessary for callers and their
+necessary equipment. You may have space available within the
+police agency or elsewhere in local government.   For at least a
+portion of the calls, evening or weekend access to buildings
+will be necessary.         
+
+Computers  -- Windows-based PCs for recording survey information.
+ One computer per caller.       
+
+Software  -- There is a small cost associated with the survey
+software.  You will  also need software such as SPSS or SAS for
+any sophisticated analysis.   Although the CVS includes some
+standardized report features, these are limited.       
+
+Contractual services -- You should include costs for any
+assistance you may need with sampling, making calls, or
+analyzing data.  These costs may vary  from enough to carry out
+the entire survey task to nothing, if you have the expertise
+in-house.
+
+       
+
+
+
+END OF FILE  10/15/99
+PM

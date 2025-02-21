@@ -1,0 +1,2011 @@
+U.S. Department of Justice
+Bureau of Justice Statistics
+
+Criminal Victimization in the United States, 1993
+
+By Craig Perkins, Patsy Klaus, Lisa Bastian, Robyn Cohen
+May 1996
+ICPSR 6406
+
+Chapter III
+Victims and offenders
+
+Incidents versus victimizations
+
+26   Number of incidents and victimizations 
+
+       and ratio of victimizations to incidents, 
+
+       by type of crime
+
+Victim-offender relationship
+
+27   Number and percent distribution 
+
+       of incidents, by type of crime and 
+
+       victim-offender relationship
+
+28   Number of victimizations and victimization
+
+       rates for persons age 12 and over, 
+
+       by type of crime and victim-offender 
+
+       relationship
+
+Percentage of victimizations involving strangers _
+
+29   By sex and age of victims and type of crime
+
+30   By sex and race of victims and type of crime
+
+31   By sex and marital status of victims 
+
+       and type of crime
+
+Drug and alcohol use by offenders
+
+32   Percentage of victimizations, by perceived 
+
+       drug or alcohol use by offender
+
+Family violence
+
+33   Number of victimizations, by type of crime
+
+       and relationship to offender
+
+34   Percentage of victimizations, by type of crime
+
+       and relationship to offender
+
+35   Victimization rate by victim-offender 
+
+       relationship, by type of crime and selected 
+
+       victim characteristics
+
+Number of victims in violent crimes
+
+36   Percentage of incidents, by type of crime
+
+       and number of victims
+
+Number of offenders in violent crimes
+
+37   Percentage of incidents, by victim-
+
+       offender relationship, type of crime, 
+
+       and number of offenders
+
+Characteristics of offenders in _
+
+Single-offender victimizations
+
+Percentage of single-offender victimizations _
+
+38   By type of crime and perceived sex of offender
+
+39   By type of crime and perceived age of offender 
+
+40   By type of crime and perceived race of offender
+
+41   By type of crime, age of victims, and perceived 
+
+       age of offender
+
+42   By type of crime, race of victim and 
+
+       perceived race of offender
+
+43   By type of crime and detailed victim-offender
+
+       relationship
+
+Characteristics of offenders in _ 
+
+Multiple-offender victimizations
+
+Percentage of multiple-offender victimizations _
+
+44   By type of crime and perceived sex of offenders
+
+45   By type of crime and perceived age of offenders
+
+46   By type of crime and perceived race of offenders
+
+47   By type of crime, age of victims, and perceived 
+
+       age of offenders
+
+48   By type of crime, race of victims, and perceived
+
+       race of offenders
+
+49   By type of crime and detailed victim-offender
+
+       relationship
+
+
+
+
+ 
+ Table 26.  Personal crimes,  1993:                                                                   
+  
+ Number of incidents and victimizations and ratio
+ of incidents to victimizations, by type of crime
+ (internal table)
+ (base table 46)
+ 
+ ------------------------------------------------------------------------
+  Type of crime                                        Victimizat-       
+                                            Incidents  ions     Ratio 
+  ----------------------------------------+-----------+-----------+----- 
+ Personal crimes                        10,413,610  11,365,080  1.09 
+   Crimes of violence                    9,898,980  10,848,090  1.10 
+    Completed                            2,942,240   3,212,740  1.09 
+    Attempted                            6,956,740   7,635,360  1.10 
+    Rape/Sexual assault                    472,760     485,290  1.03 
+     Rape                                  305,890     312,580  1.02 
+      Completed                            160,380     160,380  1.00 
+      Attempted                            145,510     152,200  1.05 
+     Sexual assault                        166,870     172,700  1.03 
+    Robbery                              1,161,900   1,291,020  1.11 
+     Completed                             723,140     814,810  1.13 
+      With injury                          253,950     274,000  1.08 
+      Without injury                       469,200     540,800  1.15 
+     Attempted                             438,760     476,210  1.09 
+      With injury                           89,980      95,500  1.06 
+      Without injury                       348,770     380,710  1.09 
+    Assault                              8,264,320   9,071,790  1.10 
+     Aggravated                          2,220,180   2,562,860  1.15 
+      Completed with injury                623,010     712,970  1.14 
+      Attempted/threatened with weapon   1,597,170   1,849,880  1.16 
+     Simple                              6,044,150   6,508,930  1.08 
+      Completed with injury              1,273,190   1,356,220  1.07 
+      Attempted/threatened w/o weapon    4,770,950   5,152,710  1.08 
+    Purse snatching/pocket picking         514,630     516,980  1.00 
+     Completed purse snatching              89,040      90,330  1.01 
+     Attempted purse snatching              44,430      45,500  1.02 
+     Pocket picking                        381,160     381,160  1.00 
+ ------------------------------------------------------------------------
+ 
+ Table 27.  Personal crimes of violence 1993                                                            
+  
+ Number of and percent distribution of incidents
+ by type of crime and victim-offender relationship
+ (internal table)
+ (Base table 48)
+ 
+ ------------------------------------------------------------------------------------------------------
+  Type of crime                                                                         Involving      
+                                              All incidents    Involving strangers    nonstrangers     
+                                           -------------------+-------------------+------------------- 
+                                             Number    Percent   Number    Percent   Number    Percent 
+  ----------------------------------------+-----------+-------+-----------+-------+-----------+------- 
+   Crimes of violence                    9,898,980   100.0   5,045,040    51.0   4,853,940    49.0 
+    Completed                            2,942,240   100.0   1,325,350    45.0   1,616,900    55.0 
+    Attempted                            6,956,740   100.0   3,719,690    53.5   3,237,050    46.5 
+    Rape/Sexual assault                    472,760   100.0     122,090    25.8     350,670    74.2 
+     Rape                                  305,890   100.0      72,850    23.8     233,050    76.2 
+      Completed                            160,380   100.0      34,070    21.2     126,310    78.8 
+      Attempted                            145,510   100.0      38,780    26.6     106,730    73.4 
+     Sexual assault                        166,870   100.0      49,240    29.5     117,630    70.5 
+    Robbery                              1,161,900   100.0     930,860    80.1     231,040    19.9 
+     Completed                             723,140   100.0     570,450    78.9     152,690    21.1 
+      With injury                          253,950   100.0     183,680    72.3      70,260    27.7 
+      Without injury                       469,200   100.0     386,770    82.4      82,430    17.6 
+     Attempted                             438,760   100.0     360,410    82.1      78,350    17.9 
+      With injury                           89,980   100.0      61,240    68.1      28,740    31.9 
+      Without injury                       348,770   100.0     299,170    85.8      49,600    14.2 
+    Assault                              8,264,320   100.0   3,992,090    48.3   4,272,230    51.7 
+     Aggravated                          2,220,180   100.0   1,281,200    57.7     938,980    42.3 
+      Completed with injury                623,010   100.0     289,650    46.5     333,360    53.5 
+      Attempted/threatened with weapon   1,597,170   100.0     991,550    62.1     605,620    37.9 
+     Simple                              6,044,150   100.0   2,710,900    44.9   3,333,250    55.1 
+      Completed with injury              1,273,190   100.0     384,190    30.2     889,000    69.8 
+      Attempted/threatened w/o weapon    4,770,950   100.0   2,326,700    48.8   2,444,250    51.2 
+ ------------------------------------------------------------------------------------------------------
+ 
+ Table 28.  Personal crimes of violence,  1993:                                                         
+  
+ Number of victimizations and victimization rates
+ for persons age 12 and over, by type of crime
+ and victim-offender relationship
+  
+ (Rate per 1,000 population age 12 and over)
+ (Base table 28)
+ 
+ ------------------------------------------------------------------------------------------------------------
+  Type of crime                                                              Involving         Involving     
+                                                             Total           strangers       nonstrangers    
+                                              Total    -----------------+-----------------+----------------- 
+                                           Population    Number    Rate    Number    Rate    Number    Rate  
+  ----------------------------------------+-----------+-----------+-----+-----------+-----+-----------+----- 
+   Crimes of violence                  211,524,770  10,848,090  51.3   5,729,740  27.1   5,118,360  24.2 
+    Completed                                    0   3,212,740  15.2   1,523,320   7.2   1,689,410   8.0 
+    Attempted                                    0   7,635,360  36.1   4,206,410  19.9   3,428,950  16.2 
+    Rape/Sexual assault                          0     485,290   2.3     133,630   0.6     351,660   1.7 
+     Rape                                        0     312,580   1.5      78,550   0.4     234,040   1.1 
+      Completed                                  0     160,380   0.8      34,070   0.2     126,310   0.6 
+      Attempted                                  0     152,200   0.7      44,480   0.2     107,720   0.5 
+     Sexual assault                              0     172,700   0.8      55,080   0.3     117,630   0.6 
+    Robbery                                      0   1,291,020   6.1   1,049,340   5.0     241,680   1.1 
+     Completed                                   0     814,810   3.9     654,510   3.1     160,300   0.8 
+      With injury                                0     274,000   1.3     201,690   1.0      72,310   0.3 
+      Without injury                             0     540,800   2.6     452,820   2.1      87,980   0.4 
+     Attempted                                   0     476,210   2.3     394,820   1.9      81,390   0.4 
+      With injury                                0      95,500   0.5      66,750   0.3      28,740   0.1 
+      Without injury                             0     380,710   1.8     328,070   1.6      52,640   0.2 
+    Assault                                      0   9,071,790  42.9   4,546,780  21.5   4,525,010  21.4 
+     Aggravated                                  0   2,562,860  12.1   1,521,040   7.2   1,041,820   4.9 
+      Completed with injury                      0     712,970   3.4     343,230   1.6     369,740   1.7 
+      Attempted/threatened with weapon           0   1,849,880   8.7   1,177,800   5.6     672,080   3.2 
+     Simple                                      0   6,508,930  30.8   3,025,740  14.3   3,483,190  16.5 
+      Completed with injury                      0   1,356,220   6.4     438,690   2.1     917,530   4.3 
+      Attempted/threatened w/o weapon            0   5,152,710  24.4   2,587,050  12.2   2,565,660  12.1 
+ ------------------------------------------------------------------------------------------------------------
+ 
+ Table 29.  Personal crimes of violence,  1993:                                                         
+  
+ Percent of victimizations involving strangers,
+ by sex and age of victims and type of crime
+ (Internal)
+ (Base table 29)
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Sex and age              Crimes of violence  Rape/sexual attack        Robbery          Assault total    Aggravated assault  
+                           -------------------+-------------------+-------------------+-------------------+------------------- 
+                                      Percent             Percent             Percent             Percent             Percent  
+                                        of                  of                  of                  of                  of     
+                                     victimiz-           victimiz-           victimiz-           victimiz-           victimiz- 
+                            Number    ations    Number    ations    Number    ations    Number    ations    Number    ations   
+  ------------------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+  Both sexes  Total        5,729,740      52.8   133,630      27.5 1,049,340      81.3 4,546,780      50.1 1,521,040      59.3 
+              12-15          698,690      38.7    11,860      17.6   130,370      63.9   556,460      36.3   157,690      45.1 
+              16-19          844,490      51.7    29,870      29.6   135,420      84.3   679,200      49.5   263,050      62.7 
+              20-24          993,210      56.8    27,710      26.1   160,570      81.7   804,930      55.6   310,120      62.1 
+              25-34        1,440,350      58.1    35,810      35.8   254,670      82.2 1,149,860      55.6   387,010      61.8 
+              35-49        1,282,340      52.5    22,340      23.6   249,870      87.7 1,010,130      49.0   279,250      55.4 
+              50-64          345,020      60.6     1,930      23.6    81,830      83.0   261,270      56.5    95,460      72.3 
+              65 and over    125,630      73.8     4,110      51.2    36,600     100.0    84,920      67.6    28,460      87.9 
+  Male        Total        3,990,570      64.0    19,650      45.0   761,200      88.5 3,209,710      60.2 1,071,140      64.1 
+              12-15          492,900      44.2         0       0.0   110,470      76.2   382,420      39.5    89,210      39.3 
+              16-19          607,020      63.1     6,080      35.3    98,370      88.1   502,570      60.3   209,290      71.3 
+              20-24          678,620      71.6     2,540      30.8   103,750      85.8   572,330      69.9   217,790      71.1 
+              25-34        1,024,300      69.8    11,030      69.3   185,170      92.3   828,100      66.2   269,010      66.7 
+              35-49          876,620      66.9         0       0.0   175,440      94.1   701,180      62.5   218,790      63.8 
+              50-64          243,150      69.2         0       0.0    66,030      90.0   177,110      63.7    57,880      67.5 
+              65 and over     67,970      89.0         0       0.0    21,960     100.0    46,000      84.6     9,170      82.3 
+  Female      Total        1,739,170      37.7   113,970      25.8   288,140      66.8 1,337,060      35.7   449,890      50.4 
+              12-15          205,790      29.8    11,860      17.6    19,900      33.7   174,040      30.8    68,480      55.8 
+              16-19          237,460      35.4    23,780      28.4    37,050      75.6   176,630      32.8    53,760      42.7 
+              20-24          314,590      39.2    25,170      25.7    56,830      75.1   232,600      37.0    92,320      47.7 
+              25-34          416,050      41.2    24,780      29.5    69,510      63.8   321,760      39.4   118,000      53.0 
+              35-49          405,720      35.9    22,340      24.2    74,430      75.6   308,950      32.8    60,460      37.6 
+              50-64          101,880      46.8     1,930      23.6    15,790      62.6    84,150      45.6    37,580      81.2 
+              65 and over     57,670      61.5     4,110      51.2    14,640     100.0    38,920      54.7    19,290      90.9 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+Table 29.  Personal crimes of violence,  1993:                                                         
+  
+ Percent of victimizations involving strangers,
+ by sex and age of victims and type of crime
+ (Internal)
+ (Base table 29)
+ 
+ ----------------------------------------------
+  Sex and age                Simple assault    
+                           ------------------- 
+                                      Percent  
+                                        of     
+                                     victimiz- 
+                            Number    ations   
+  ------------------------+---------+--------- 
+  Both sexes  Total        3,025,740      46.5 
+              12-15          398,770      33.7 
+              16-19          416,160      43.7 
+              20-24          494,810      52.2 
+              25-34          762,850      52.9 
+              35-49          730,880      46.9 
+              50-64          165,800      50.2 
+              65 and over     56,460      60.6 
+  Male        Total        2,138,570      58.5 
+              12-15          293,210      39.5 
+              16-19          293,280      54.3 
+              20-24          354,530      69.1 
+              25-34          559,090      65.9 
+              35-49          482,390      61.9 
+              50-64          119,230      62.0 
+              65 and over     36,840      85.2 
+  Female      Total          887,170      31.1 
+              12-15          105,560      23.9 
+              16-19          122,880      29.8 
+              20-24          140,280      32.3 
+              25-34          203,760      34.4 
+              35-49          248,490      31.9 
+              50-64           46,570      33.7 
+              65 and over     19,630      39.3 
+ ----------------------------------------------
+ 
+ Table 30.  Personal crimes of violence,  1993:                                                         
+  
+ Percent of victimizations involving strangers,
+ by sex and race of victims and type of crime
+ (Internal)
+ (Base table 30)
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Sex and race             Crimes of violence  Rape/sexual attack        Robbery          Assault total    Aggravated assault  
+                           -------------------+-------------------+-------------------+-------------------+------------------- 
+                                      Percent             Percent             Percent             Percent             Percent  
+                                        of                  of                  of                  of                  of     
+                                     victimiz-           victimiz-           victimiz-           victimiz-           victimiz- 
+                            Number    ations    Number    ations    Number    ations    Number    ations    Number    ations   
+  ------------------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+  Both sexes  White        4,693,490      52.8   107,350      26.6   714,170      78.2 3,871,970      51.1 1,261,780      62.3 
+              Black          882,000      52.9    24,230      36.0   281,200      88.1   576,560      45.0   225,850      47.9 
+              Other          154,250      53.0     2,050      13.7    53,960      92.8    98,250      45.1    33,410      51.5 
+              Total        5,729,740      52.8   133,630      27.5 1,049,340      81.3 4,546,780      50.1 1,521,040      59.3 
+  Male        White        3,323,030      64.2    16,820      41.2   532,810      87.2 2,773,390      61.3   928,770      66.3 
+              Black          558,790      63.7     2,830     100.0   183,470      90.9   372,490      55.4   124,950      52.9 
+              Other          108,740      60.8         0       0.0    44,910      95.5    63,830      48.4    17,420      52.6 
+              Total        3,990,570      64.0    19,650      45.0   761,200      88.5 3,209,710      60.2 1,071,140      64.1 
+  Female      White        1,370,460      36.9    90,520      25.0   181,360      60.0 1,098,570      36.0   333,000      53.2 
+              Black          323,200      40.9    21,400      33.2    97,730      83.2   204,070      33.6   100,890      42.8 
+              Other           45,510      40.6     2,050      13.7     9,050      81.3    34,410      40.0    15,990      50.4 
+              Total        1,739,170      37.7   113,970      25.8   288,140      66.8 1,337,060      35.7   449,890      50.4 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+Table 30.  Personal crimes of violence,  1993:                                                         
+  
+ Percent of victimizations involving strangers,
+ by sex and race of victims and type of crime
+ (Internal)
+ (Base table 30)
+ 
+ ----------------------------------------------
+  Sex and race               Simple assault    
+                           ------------------- 
+                                      Percent  
+                                        of     
+                                     victimiz- 
+                            Number    ations   
+  ------------------------+---------+--------- 
+  Both sexes  White        2,610,190      47.1 
+              Black          350,720      43.3 
+              Other           64,830      42.3 
+              Total        3,025,740      46.5 
+  Male        White        1,844,620      59.1 
+              Black          247,540      56.7 
+              Other           46,420      46.9 
+              Total        2,138,570      58.5 
+  Female      White          765,570      31.6 
+              Black          103,180      27.7 
+              Other           18,420      33.9 
+              Total          887,170      31.1 
+ ----------------------------------------------
+ 
+ Table 31.  Personal crimes of violence,  1993:                                                         
+  
+ Percent of victimizations involving strangers,
+ by sex and marital status of victims and type of crime
+ (Internal)
+ (Base table 31)
+ 
+ ---------------------------------------------------------------------------------------------------------------------------------
+  Sex and marital status      Crimes of violence  Rape/sexual attack        Robbery          Assault total    Aggravated assault  
+                              -------------------+-------------------+-------------------+-------------------+------------------- 
+                                         Percent             Percent             Percent             Percent             Percent  
+                                           of                  of                  of                  of                  of     
+                                        victimiz-           victimiz-           victimiz-           victimiz-           victimiz- 
+                               Number    ations    Number    ations    Number    ations    Number    ations    Number    ations   
+  ---------------------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+  Both sexes    Never married 3,262,470      52.7    86,100      28.5   611,540      80.2 2,564,830      50.0   854,740      59.1 
+                Married       1,749,570      62.4    30,690      41.6   276,790      92.0 1,442,090      59.3   468,010      66.7 
+                Widowed          97,690      62.7         0       0.0    34,090      93.4    63,590      54.3    24,760      80.6 
+                Divorced or                                                                                                       
+                separated       617,800      36.7    16,840      15.7   126,910      66.5   474,050      34.3   173,530      45.3 
+                NA                2,200      17.1         0       0.0         0       0.0     2,200      17.1         0       0.0 
+                Total         5,729,740      52.8   133,630      27.5 1,049,340      81.3 4,546,780      50.1 1,521,040      59.3 
+  Male          Never married 2,382,680      61.6    14,380      46.8   479,160      85.9 1,889,150      57.7   623,180      62.8 
+                Married       1,195,250      70.2     5,270      40.7   177,950      96.4 1,012,020      67.2   334,960      68.4 
+                Widowed          34,060      94.4         0       0.0    14,010     100.0    20,060      90.8     5,590     100.0 
+                Divorced or                                                                                                       
+                separated       378,570      60.4         0       0.0    90,080      87.2   288,490      55.1   107,420      59.0 
+                NA                    0       0.0         0       0.0         0       0.0         0       0.0         0       0.0 
+                Total         3,990,570      64.0    19,650      45.0   761,200      88.5 3,209,710      60.2 1,071,140      64.1 
+  Female        Never married   879,790      37.8    71,710      26.4   132,380      64.6   675,690      36.5   231,570      51.0 
+                Married         554,330      50.3    25,420      41.8    98,840      85.1   430,070      46.5   133,050      62.7 
+                Widowed          63,620      53.1         0       0.0    20,090      89.3    43,540      45.8    19,170      76.3 
+                Divorced or                                                                                                       
+                separated       239,230      22.7    16,840      15.7    36,830      42.0   185,560      21.6    66,110      32.8 
+                NA                2,200      17.1         0       0.0         0       0.0     2,200      17.1         0       0.0 
+                Total         1,739,170      37.7   113,970      25.8   288,140      66.8 1,337,060      35.7   449,890      50.4 
+ ---------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 31.  Personal crimes of violence,  1993:                                                         
+  
+ Percent of victimizations involving strangers,
+ by sex and marital status of victims and type of crime
+ (Internal)
+ (Base table 31)
+ 
+ -------------------------------------------------
+  Sex and marital status        Simple assault    
+                              ------------------- 
+                                         Percent  
+                                           of     
+                                        victimiz- 
+                               Number    ations   
+  ---------------------------+---------+--------- 
+  Both sexes    Never married 1,710,090      46.4 
+                Married         974,080      56.4 
+                Widowed          38,840      44.9 
+                Divorced or                       
+                separated       300,520      30.1 
+                NA                2,200      17.1 
+                Total         3,025,740      46.5 
+  Male          Never married 1,265,970      55.4 
+                Married         677,060      66.6 
+                Widowed          14,470      87.7 
+                Divorced or                       
+                separated       181,070      53.0 
+                NA                    0       0.0 
+                Total         2,138,570      58.5 
+  Female        Never married   444,120      31.8 
+                Married         297,020      41.7 
+                Widowed          24,370      34.8 
+                Divorced or                       
+                separated       119,450      18.2 
+                NA                2,200      17.1 
+                Total           887,170      31.1 
+ -------------------------------------------------
+ Table 32.  Personal crimes,  1993:                                                                   
+  
+ Percent distribution of victimizations, by perceived
+ drug or alcohol use by offender
+ (internal table)
+ (base table 219)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Perceived drug or alcohol use by          Crimes of violence    Rape/sexual assault         Robbery               Assault        
+  offender                                 ---------------------+---------------------+---------------------+--------------------- 
+                                             Number     Percent    Number     Percent    Number     Percent    Number     Percent  
+  ----------------------------------------+-----------+---------+-----------+---------+-----------+---------+-----------+--------- 
+   Number of victimizations                 10,848,090     100.0     485,290     100.0   1,291,020     100.0   9,071,790     100.0 
+   Total (Perceived to be under the                                                                                                
+  influence of drugs or alcohol)             3,170,870      29.2     196,970      40.6     300,320      23.3   2,673,580      29.5 
+     Under the influence of alcohol          2,132,400      19.7     144,400      29.8     149,730      11.6   1,838,270      20.3 
+     Under the influence of drugs              429,450       4.0      16,530       3.4      67,370       5.2     345,550       3.8 
+     Under the influence of both drugs and                                                                                         
+  alcohol                                      452,880       4.2      31,040       6.4      69,590       5.4     352,250       3.9 
+     Under the influence of one, not sure                                                                                          
+  which                                        151,130       1.4       5,010       1.0      13,640       1.1     132,490       1.5 
+     Not available whether drugs or                                                                                                
+  alcohol                                        5,010       0.0           0       0.0           0       0.0       5,010       0.1 
+   Not on alcohol or drugs                   3,132,680      28.9     157,500      32.5     151,550      11.7   2,823,620      31.1 
+   Don't know or not ascertained             4,544,550      41.9     130,810      27.0     839,150      65.0   3,574,590      39.4 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ 
+ 
+ --------------------------------------------------------------------------------------
+  Perceived drug or alcohol use by          Aggravated assault      Simple assault     
+  offender                                 ---------------------+--------------------- 
+                                             Number     Percent    Number     Percent  
+  ----------------------------------------+-----------+---------+-----------+--------- 
+   Number of victimizations                  2,562,860     100.0   6,508,930     100.0 
+   Total (Perceived to be under the                                                    
+  influence of drugs or alcohol)               816,250      31.8   1,857,330      28.5 
+     Under the influence of alcohol            525,390      20.5   1,312,880      20.2 
+     Under the influence of drugs              119,920       4.7     225,630       3.5 
+     Under the influence of both drugs and                                             
+  alcohol                                      127,420       5.0     224,830       3.5 
+     Under the influence of one, not sure                                              
+  which                                         43,510       1.7      88,980       1.4 
+     Not available whether drugs or                                                    
+  alcohol                                            0       0.0       5,010       0.1 
+   Not on alcohol or drugs                     559,760      21.8   2,263,870      34.8 
+   Don't know or not ascertained             1,186,850      46.3   2,387,740      36.7 
+ --------------------------------------------------------------------------------------
+ Table 33. Family violence,  1993:
+  
+ Number of victimizations, by type of crime and 
+ relationship to offender
+ (base table 115a)
+ (Internal table)
+                                                                                                    
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                 Total relatives           Spouse             Ex-spouse       
+                                                              --------------------+--------------------+-------------------- 
+                                            Total                                                                            
+                                          number of                                                                          
+                                         victimizat-                                                                         
+                                            ions      Total     Number    Percent    Number    Percent    Number    Percent  
+  --------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Crimes of violence                      10,848,090    100.0   1,024,870      9.4     363,120      3.3     187,510      1.7 
+    Completed                              3,212,740    100.0     438,110     13.6     180,520      5.6      73,310      2.3 
+    Attempted                              7,635,360    100.0     586,750      7.7     182,600      2.4     114,200      1.5 
+    Rape/other sexual attack                 485,290    100.0      66,800     13.8      19,120      3.9      31,790      6.6 
+    Robbery                                1,291,020    100.0      54,160      4.2       9,030      0.7      19,610      1.5 
+      Completed                              814,810    100.0      33,460      4.1       2,060      0.3      13,060      1.6 
+      Attempted                              476,210    100.0      20,700      4.3       6,970      1.5       6,540      1.4 
+    Assault                                9,071,790    100.0     903,910     10.0     334,960      3.7     136,120      1.5 
+      Aggravated                           2,562,860    100.0     202,650      7.9      37,120      1.4      44,580      1.7 
+      Simple                               6,508,930    100.0     701,250     10.8     297,840      4.6      91,540      1.4 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ 
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                 Parent             Own child          Other relative         Well known      
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                           Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  --------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Crimes of violence                          92,610      0.9      85,000      0.8     296,620      2.7   2,484,330     22.9 
+    Completed                                 52,870      1.6      28,340      0.9     103,080      3.2     838,790     26.1 
+    Attempted                                 39,740      0.5      56,670      0.7     193,550      2.5   1,645,540     21.6 
+    Rape/other sexual attack                   6,430      1.3           0      0.0       9,450      1.9     160,340     33.0 
+    Robbery                                    3,820      0.3       1,950      0.2      19,760      1.5     122,880      9.5 
+      Completed                                3,820      0.5       1,950      0.2      12,570      1.5     101,910     12.5 
+      Attempted                                    0      0.0           0      0.0       7,190      1.5      20,970      4.4 
+    Assault                                   82,360      0.9      83,060      0.9     267,410      2.9   2,201,110     24.3 
+      Aggravated                              23,900      0.9      14,360      0.6      82,700      3.2     507,090     19.8 
+      Simple                                  58,460      0.9      68,700      1.1     184,710      2.8   1,694,020     26.0 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 33. Family violence,  1993:
+  
+ Number of victimizations, by type of crime and 
+ relationship to offender
+ (base table 115a)
+ (Internal table)
+                                                                                                    
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                                         Don't know number of 
+                                         Casual acquaintance     Don't know/NA           Stranger            offenders       
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                           Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  --------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Crimes of violence                       1,609,750     14.8     167,370      1.5   5,326,890     49.1     234,900      2.2 
+    Completed                                415,120     12.9      82,140      2.6   1,346,590     41.9      91,990      2.9 
+    Attempted                              1,194,630     15.6      85,230      1.1   3,980,300     52.1     142,910      1.9 
+    Rape/other sexual attack                 124,530     25.7      10,480      2.2     118,440     24.4       4,700      1.0 
+    Robbery                                   64,640      5.0      36,270      2.8     982,420     76.1      30,640      2.4 
+      Completed                               24,930      3.1      36,270      4.5     601,210     73.8      17,030      2.1 
+      Attempted                               39,710      8.3           0      0.0     381,220     80.1      13,610      2.9 
+    Assault                                1,420,580     15.7     120,610      1.3   4,226,020     46.6     199,560      2.2 
+      Aggravated                             332,080     13.0      53,070      2.1   1,371,650     53.5      96,320      3.8 
+      Simple                               1,088,510     16.7      67,540      1.0   2,854,380     43.9     103,240      1.6 
+ ----------------------------------------------------------------------------------------------------------------------------
+ Table 34. Family violence,  1993:
+  
+ Number of victimizations, by type of crime and 
+ relationship to offender
+ (base table 115b)
+ (Internal table)
+                                                                                                    
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                 Total relatives           Spouse             Ex-spouse       
+                                                              --------------------+--------------------+-------------------- 
+                                            Total                                                                            
+                                          number of                                                                          
+                                         victimizat-                                                                         
+                                            ions      Total     Number    Percent    Number    Percent    Number    Percent  
+  --------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Crimes of violence                      10,848,090    100.0   1,024,870      9.4     363,120      3.3     187,510      1.7 
+    Completed                              3,212,740    100.0     438,110     13.6     180,520      5.6      73,310      2.3 
+    Attempted                              7,635,360    100.0     586,750      7.7     182,600      2.4     114,200      1.5 
+    Rape/other sexual attack                 485,290    100.0      66,800     13.8      19,120      3.9      31,790      6.6 
+    Robbery                                1,291,020    100.0      54,160      4.2       9,030      0.7      19,610      1.5 
+      Completed                              814,810    100.0      33,460      4.1       2,060      0.3      13,060      1.6 
+      Attempted                              476,210    100.0      20,700      4.3       6,970      1.5       6,540      1.4 
+    Assault                                9,071,790    100.0     903,910     10.0     334,960      3.7     136,120      1.5 
+      Aggravated                           2,562,860    100.0     202,650      7.9      37,120      1.4      44,580      1.7 
+      Simple                               6,508,930    100.0     701,250     10.8     297,840      4.6      91,540      1.4 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ 
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                 Parent             Own child          Other relative         Well known      
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                           Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  --------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Crimes of violence                          92,610      0.9      85,000      0.8     296,620      2.7   2,484,330     22.9 
+    Completed                                 52,870      1.6      28,340      0.9     103,080      3.2     838,790     26.1 
+    Attempted                                 39,740      0.5      56,670      0.7     193,550      2.5   1,645,540     21.6 
+    Rape/other sexual attack                   6,430      1.3           0      0.0       9,450      1.9     160,340     33.0 
+    Robbery                                    3,820      0.3       1,950      0.2      19,760      1.5     122,880      9.5 
+      Completed                                3,820      0.5       1,950      0.2      12,570      1.5     101,910     12.5 
+      Attempted                                    0      0.0           0      0.0       7,190      1.5      20,970      4.4 
+    Assault                                   82,360      0.9      83,060      0.9     267,410      2.9   2,201,110     24.3 
+      Aggravated                              23,900      0.9      14,360      0.6      82,700      3.2     507,090     19.8 
+      Simple                                  58,460      0.9      68,700      1.1     184,710      2.8   1,694,020     26.0 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 34. Family violence,  1993:
+  
+ Number of victimizations, by type of crime and 
+ relationship to offender
+ (base table 115b)
+ (Internal table)
+                                                                                                    
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                                         Don't know number of 
+                                         Casual acquaintance     Don't know/NA           Stranger            offenders       
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                           Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  --------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+  Crimes of violence                       1,609,750     14.8     167,370      1.5   5,326,890     49.1     234,900      2.2 
+    Completed                                415,120     12.9      82,140      2.6   1,346,590     41.9      91,990      2.9 
+    Attempted                              1,194,630     15.6      85,230      1.1   3,980,300     52.1     142,910      1.9 
+    Rape/other sexual attack                 124,530     25.7      10,480      2.2     118,440     24.4       4,700      1.0 
+    Robbery                                   64,640      5.0      36,270      2.8     982,420     76.1      30,640      2.4 
+      Completed                               24,930      3.1      36,270      4.5     601,210     73.8      17,030      2.1 
+      Attempted                               39,710      8.3           0      0.0     381,220     80.1      13,610      2.9 
+    Assault                                1,420,580     15.7     120,610      1.3   4,226,020     46.6     199,560      2.2 
+      Aggravated                             332,080     13.0      53,070      2.1   1,371,650     53.5      96,320      3.8 
+      Simple                               1,088,510     16.7      67,540      1.0   2,854,380     43.9     103,240      1.6 
+ ----------------------------------------------------------------------------------------------------------------------------
+ Table 35.  Family violence,  1993:                                                                   
+  
+ Victimization rate by victim-offender relationship,
+ by type of crime and selected victim characteristics
+ (Rate per 1,000 population age 12 and over)
+ (Internal version)
+ (Base table 122)
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Characteristic                                                                 Crimes of violence                            
+                                                       ----------------------------------------------------------------------- 
+                                                                                                Casual                         
+                                                           Relatives        Well-known       acquaintances       Strangers     
+                                              Total    -----------------+-----------------+-----------------+----------------- 
+                                           Population    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  ----------------------------------------+-----------+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+  Sex of victim                                                                                                                
+    Male                                   102,348,090     204,720   2.0   1,136,850  11.1     894,660   8.7   3,715,810  36.3 
+    Female                                 109,176,670     820,150   7.5   1,347,480  12.3     705,480   6.5   1,611,080  14.8 
+    Total(Both sexes)                      211,524,770   1,024,870   4.8   2,484,330  11.7   1,600,140   7.6   5,326,890  25.2 
+  Race of victim                                                                                                               
+    White                                  178,912,480     858,640   4.8   1,988,660  11.1   1,339,680   7.5   4,386,980  24.5 
+    Black                                   25,230,060     150,010   5.9     408,270  16.2     227,190   9.0     801,340  31.8 
+    Other                                    7,382,230      16,210   2.2      87,400  11.8      33,270   4.5     138,570  18.8 
+    Total(All races)                       211,524,770   1,024,870   4.8   2,484,330  11.7   1,600,140   7.6   5,326,890  25.2 
+  Age of victim                                                                                                                
+    12-15                                   14,963,650      45,390   3.0     592,760  39.6     461,450  30.8     649,080  43.4 
+    16-19                                   13,988,460      78,800   5.6     440,530  31.5     270,030  19.3     766,870  54.8 
+    20-24                                   18,701,390     152,650   8.2     420,870  22.5     180,860   9.7     918,010  49.1 
+    25-34                                   42,279,270     285,300   6.7     471,510  11.2     280,030   6.6   1,352,230  32.0 
+    35-49                                   57,428,550     386,730   6.7     458,600   8.0     315,100   5.5   1,213,840  21.1 
+    50-64                                   33,350,360      64,340   1.9      73,390   2.2      86,470   2.6     318,110   9.5 
+    65 and over                             30,813,070      11,670   0.4      26,670   0.9       6,200   0.2     108,760   3.5 
+    Total(All ages)                        211,524,770   1,024,870   4.8   2,484,330  11.7   1,600,140   7.6   5,326,890  25.2 
+  Marital status of victim                                                                                                     
+    Married                                111,692,140     330,930   3.0     396,510   3.6     325,390   2.9   1,648,780  14.8 
+    Widowed                                 13,442,550       1,710   0.1      33,550   2.5      22,850   1.7      88,100   6.6 
+    Divorced or separated                   21,615,670     505,980  23.4     361,830  16.7     195,610   9.0     579,440  26.8 
+    Never married                           64,267,740     182,000   2.8   1,686,000  26.2   1,056,280  16.4   3,008,370  46.8 
+    NA                                         506,670       4,240   8.4       6,440  12.7           0   0.0       2,200   4.3 
+    Total(All marital statuses)            211,524,770   1,024,870   4.8   2,484,330  11.7   1,600,140   7.6   5,326,890  25.2 
+  Family income of victim                                                                                                      
+    Less than $7,500                        18,347,030     219,930  12.0     490,270  26.7     237,640  13.0     632,970  34.5 
+    $7,500-$14,999                          26,452,570     186,590   7.1     363,530  13.7     204,100   7.7     711,550  26.9 
+    $15,000-$24,999                         33,635,530     193,430   5.8     443,450  13.2     271,380   8.1     722,200  21.5 
+    $25,000-$34,999                         30,883,930     124,560   4.0     340,560  11.0     242,570   7.9     759,870  24.6 
+    $35,000-$49,999                         33,752,180     124,080   3.7     334,580   9.9     241,880   7.2     891,310  26.4 
+    $50,000-$74,999                         27,340,170      57,130   2.1     233,470   8.5     206,590   7.6     703,180  25.7 
+    $75,000 or more                         17,398,260      39,930   2.3     126,580   7.3      89,580   5.1     385,560  22.2 
+    Not applicable                          23,715,090      79,220   3.3     151,880   6.4     106,410   4.5     520,260  21.9 
+    Total(All incomes)                     211,524,770   1,024,870   4.8   2,484,330  11.7   1,600,140   7.6   5,326,890  25.2 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 35.  Family violence,  1993:                                                                   
+  
+ Victimization rate by victim-offender relationship,
+ by type of crime and selected victim characteristics
+ (Rate per 1,000 population age 12 and over)
+ (Internal version)
+ (Base table 122)
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Characteristic                                                           Assault                                 Aggravated  
+                                           -----------------------------------------------------------------------   assault   
+                                                                                    Casual                         ----------- 
+                                               Relatives        Well-known       acquaintances       Strangers      Relatives  
+                                           -----------------+-----------------+-----------------+-----------------+----------- 
+                                             Number    Rate    Number    Rate    Number    Rate    Number    Rate    Number    
+  ----------------------------------------+-----------+-----+-----------+-----+-----------+-----+-----------+-----+----------- 
+  Sex of victim                                                                                                                
+    Male                                       193,570   1.9   1,077,450  10.5     844,930   8.3   2,979,400  29.1      73,930 
+    Female                                     710,340   6.5   1,123,660  10.3     568,600   5.2   1,246,620  11.4     128,720 
+    Total(Both sexes)                          903,910   4.3   2,201,110  10.4   1,413,530   6.7   4,226,020  20.0     202,650 
+  Race of victim                                                                                                               
+    White                                      761,690   4.3   1,762,420   9.9   1,170,160   6.5   3,618,720  20.2     139,240 
+    Black                                      128,110   5.1     363,950  14.4     212,380   8.4     519,980  20.6      61,080 
+    Other                                       14,100   1.9      74,730  10.1      30,990   4.2      87,330  11.8       2,330 
+    Total(All races)                           903,910   4.3   2,201,110  10.4   1,413,530   6.7   4,226,020  20.0     202,650 
+  Age of victim                                                                                                                
+    12-15                                       34,530   2.3     533,510  35.7     402,150  26.9     511,270  34.2       7,210 
+    16-19                                       71,840   5.1     382,950  27.4     238,330  17.0     610,160  43.6      18,760 
+    20-24                                      143,540   7.7     357,980  19.1     141,080   7.5     748,520  40.0      41,830 
+    25-34                                      248,190   5.9     409,190   9.7     260,330   6.2   1,096,720  25.9      53,110 
+    35-49                                      344,180   6.0     421,490   7.3     287,430   5.0     950,730  16.6      70,290 
+    50-64                                       53,880   1.6      69,310   2.1      78,000   2.3     238,800   7.2      11,460 
+    65 and over                                  7,750   0.3      26,670   0.9       6,200   0.2      69,820   2.3           0 
+    Total(All ages)                            903,910   4.3   2,201,110  10.4   1,413,530   6.7   4,226,020  20.0     202,650 
+  Marital status of victim                                                                                                     
+    Married                                    311,220   2.8     370,110   3.3     307,050   2.7   1,358,450  12.2      69,030 
+    Widowed                                      1,710   0.1      31,150   2.3      20,770   1.5      58,010   4.3           0 
+    Divorced or separated                      425,650  19.7     314,950  14.6     168,280   7.8     449,120  20.8      91,660 
+    Never married                              161,090   2.5   1,478,470  23.0     917,430  14.3   2,358,250  36.7      41,960 
+    NA                                           4,240   8.4       6,440  12.7           0   0.0       2,200   4.3           0 
+    Total(All marital statuses)                903,910   4.3   2,201,110  10.4   1,413,530   6.7   4,226,020  20.0     202,650 
+  Family income of victim                                                                                                      
+    Less than $7,500                           191,460  10.4     416,600  22.7     206,160  11.2     461,040  25.1      52,770 
+    $7,500-$14,999                             172,450   6.5     331,570  12.5     182,190   6.9     482,460  18.2      36,010 
+    $15,000-$24,999                            160,790   4.8     388,440  11.5     243,010   7.2     581,440  17.3      35,350 
+    $25,000-$34,999                            106,650   3.5     299,150   9.7     219,080   7.1     640,970  20.8      12,220 
+    $35,000-$49,999                            110,330   3.3     296,790   8.8     208,930   6.2     756,240  22.4      27,480 
+    $50,000-$74,999                             51,880   1.9     223,860   8.2     179,280   6.6     594,380  21.7       9,090 
+    $75,000 or more                             37,810   2.2     105,250   6.0      80,250   4.6     314,120  18.1       8,680 
+    Not applicable                              72,540   3.1     139,440   5.9      94,640   4.0     395,370  16.7      21,070 
+    Total(All incomes)                         903,910   4.3   2,201,110  10.4   1,413,530   6.7   4,226,020  20.0     202,650 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 35.  Family violence,  1993:                                                                   
+  
+ Victimization rate by victim-offender relationship,
+ by type of crime and selected victim characteristics
+ (Rate per 1,000 population age 12 and over)
+ (Internal version)
+ (Base table 122)
+ 
+ ------------------------------------------------------------------------------------------------------------------------
+  Characteristic                                               Aggravated assault                                        
+                                           -----------------------------------------------------------  Simple assault   
+                                           Rela-                        Casual                         ----------------- 
+                                           tives    Well-known       acquaintances       Strangers         Relatives     
+                                           -----+-----------------+-----------------+-----------------+----------------- 
+                                           Rate    Number    Rate    Number    Rate    Number    Rate    Number    Rate  
+  ----------------------------------------+-----+-----------+-----+-----------+-----+-----------+-----+-----------+----- 
+  Sex of victim                                                                                                          
+    Male                                     0.7     277,600   2.7     244,750   2.4     965,940   9.4     119,640   1.2 
+    Female                                   1.2     229,490   2.1      84,730   0.8     405,700   3.7     581,610   5.3 
+    Total(Both sexes)                        1.0     507,090   2.4     329,480   1.6   1,371,650   6.5     701,250   3.3 
+  Race of victim                                                                                                         
+    White                                    0.8     368,340   2.1     254,250   1.4   1,146,990   6.4     622,450   3.5 
+    Black                                    2.4     118,660   4.7      66,230   2.6     195,420   7.7      67,030   2.7 
+    Other                                    0.3      20,090   2.7       9,000   1.2      29,230   4.0      11,770   1.6 
+    Total(All races)                         1.0     507,090   2.4     329,480   1.6   1,371,650   6.5     701,250   3.3 
+  Age of victim                                                                                                          
+    12-15                                    0.5     101,420   6.8      80,460   5.4     139,930   9.4      27,320   1.8 
+    16-19                                    1.3      91,240   6.5      46,390   3.3     243,270  17.4      53,080   3.8 
+    20-24                                    2.2     114,180   6.1      33,630   1.8     277,900  14.9     101,710   5.4 
+    25-34                                    1.3     102,130   2.4      83,850   2.0     357,140   8.4     195,080   4.6 
+    35-49                                    1.2      87,150   1.5      67,140   1.2     248,560   4.3     273,890   4.8 
+    50-64                                    0.3       9,050   0.3      16,030   0.5      86,950   2.6      42,420   1.3 
+    65 and over                              0.0       1,920   0.1       1,980   0.1      17,900   0.6       7,750   0.3 
+    Total(All ages)                          1.0     507,090   2.4     329,480   1.6   1,371,650   6.5     701,250   3.3 
+  Marital status of victim                                                                                               
+    Married                                  0.6      81,950   0.7      83,110   0.7     424,010   3.8     242,180   2.2 
+    Widowed                                  0.0       1,920   0.1       4,020   0.3      19,170   1.4       1,710   0.1 
+    Divorced or separated                    4.2      75,250   3.5      43,030   2.0     155,210   7.2     333,990  15.5 
+    Never married                            0.7     347,970   5.4     199,330   3.1     773,260  12.0     119,130   1.9 
+    NA                                       0.0           0   0.0           0   0.0           0   0.0       4,240   8.4 
+    Total(All marital statuses)              1.0     507,090   2.4     329,480   1.6   1,371,650   6.5     701,250   3.3 
+  Family income of victim                                                                                                
+    Less than $7,500                         2.9     113,340   6.2      55,870   3.0     171,210   9.3     138,690   7.6 
+    $7,500-$14,999                           1.4      86,620   3.3      59,470   2.2     168,880   6.4     136,450   5.2 
+    $15,000-$24,999                          1.1      86,070   2.6      65,910   2.0     234,820   7.0     125,430   3.7 
+    $25,000-$34,999                          0.4      81,030   2.6      53,360   1.7     188,210   6.1      94,430   3.1 
+    $35,000-$49,999                          0.8      72,160   2.1      31,260   0.9     240,400   7.1      82,860   2.5 
+    $50,000-$74,999                          0.3      19,860   0.7      33,800   1.2     152,930   5.6      42,790   1.6 
+    $75,000 or more                          0.5      11,880   0.7      10,320   0.6      75,980   4.4      29,130   1.7 
+    Not applicable                           0.9      36,120   1.5      19,500   0.8     139,220   5.9      51,470   2.2 
+    Total(All incomes)                       1.0     507,090   2.4     329,480   1.6   1,371,650   6.5     701,250   3.3 
+ ------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 35.  Family violence,  1993:                                                                   
+  
+ Victimization rate by victim-offender relationship,
+ by type of crime and selected victim characteristics
+ (Rate per 1,000 population age 12 and over)
+ (Internal version)
+ (Base table 122)
+ 
+ ------------------------------------------------------------------------------------------------
+  Characteristic                                              Simple assault                     
+                                           ----------------------------------------------------- 
+                                                                  Casual                         
+                                              Well-known       acquaintances       Strangers     
+                                           -----------------+-----------------+----------------- 
+                                             Number    Rate    Number    Rate    Number    Rate  
+  ----------------------------------------+-----------+-----+-----------+-----+-----------+----- 
+  Sex of victim                                                                                  
+    Male                                       799,840   7.8     600,170   5.9   2,013,460  19.7 
+    Female                                     894,170   8.2     483,870   4.4     840,920   7.7 
+    Total(Both sexes)                        1,694,020   8.0   1,084,040   5.1   2,854,380  13.5 
+  Race of victim                                                                                 
+    White                                    1,394,080   7.8     915,910   5.1   2,471,720  13.8 
+    Black                                      245,300   9.7     146,140   5.8     324,560  12.9 
+    Other                                       54,640   7.4      21,990   3.0      58,100   7.9 
+    Total(All races)                         1,694,020   8.0   1,084,040   5.1   2,854,380  13.5 
+  Age of victim                                                                                  
+    12-15                                      432,090  28.9     321,690  21.5     371,340  24.8 
+    16-19                                      291,700  20.9     191,940  13.7     366,880  26.2 
+    20-24                                      243,800  13.0     107,450   5.7     470,620  25.2 
+    25-34                                      307,060   7.3     176,480   4.2     739,580  17.5 
+    35-49                                      334,340   5.8     220,290   3.8     702,170  12.2 
+    50-64                                       60,270   1.8      61,970   1.9     151,850   4.6 
+    65 and over                                 24,750   0.8       4,220   0.1      51,920   1.7 
+    Total(All ages)                          1,694,020   8.0   1,084,040   5.1   2,854,380  13.5 
+  Marital status of victim                                                                       
+    Married                                    288,160   2.6     223,940   2.0     934,430   8.4 
+    Widowed                                     29,220   2.2      16,750   1.2      38,840   2.9 
+    Divorced or separated                      239,700  11.1     125,250   5.8     293,910  13.6 
+    Never married                            1,130,500  17.6     718,110  11.2   1,584,990  24.7 
+    NA                                           6,440  12.7           0   0.0       2,200   4.3 
+    Total(All marital statuses)              1,694,020   8.0   1,084,040   5.1   2,854,380  13.5 
+  Family income of victim                                                                        
+    Less than $7,500                           303,260  16.5     150,290   8.2     289,830  15.8 
+    $7,500-$14,999                             244,950   9.3     122,720   4.6     313,580  11.9 
+    $15,000-$24,999                            302,370   9.0     177,100   5.3     346,620  10.3 
+    $25,000-$34,999                            218,120   7.1     165,720   5.4     452,760  14.7 
+    $35,000-$49,999                            224,630   6.7     177,670   5.3     515,840  15.3 
+    $50,000-$74,999                            204,010   7.5     145,470   5.3     441,450  16.1 
+    $75,000 or more                             93,370   5.4      69,930   4.0     238,140  13.7 
+    Not applicable                             103,320   4.4      75,140   3.2     256,150  10.8 
+    Total(All incomes)                       1,694,020   8.0   1,084,040   5.1   2,854,380  13.5 
+ ------------------------------------------------------------------------------------------------
+ 
+ Table 36.  Personal crimes of violence,  1993                                                         
+  
+ Percent distribution of incidents by victim-offender
+ relationship, type of crime, and number of victims
+ (Internal)
+ (Base table 47)
+ 
+ --------------------------------------------------------------------------------------------------------------------------
+  Relationship and type of crime                                                    Number of victims                      
+                                                               ----------------------------------------------------------- 
+                                                                       One                 Two                Three        
+                                                               -------------------+-------------------+------------------- 
+                                           Number of                                                                       
+                                           incidents   Total    Number    Percent   Number    Percent   Number    Percent  
+  ----------------------------------------+---------+---------+---------+---------+---------+---------+---------+--------- 
+  Crimes of violence                      9,898,980     100.0 9,218,500      93.1   517,070       5.2   106,310       1.1 
+   Completed                              2,942,240     100.0 2,745,660      93.3   147,180       5.0    34,150       1.2 
+   Attempted                              6,956,740     100.0 6,472,830      93.0   369,890       5.3    72,160       1.0 
+   Rape/Sexual attack                       472,760     100.0   462,590      97.9     7,790       1.6     2,360       0.5 
+   Robbery                                1,161,890     100.0 1,071,780      92.2    61,320       5.3    22,420       1.9 
+     Completed                              723,140     100.0   657,690      90.9    44,450       6.1    17,130       2.4 
+       With injury                          253,940     100.0   238,500      93.9    11,510       4.5     3,230       1.3 
+       Without injury                       469,190     100.0   419,180      89.3    32,930       7.0    13,900       3.0 
+     Attempted                              438,750     100.0   414,080      94.4    16,870       3.8     5,290       1.2 
+       With injury                           89,980     100.0    87,060      96.8     1,540       1.7       960       1.1 
+       Without injury                       348,770     100.0   327,010      93.8    15,330       4.4     4,330       1.2 
+   Assault                                8,264,320     100.0 7,684,120      93.0   447,950       5.4    81,520       1.0 
+     Aggravated                           2,220,170     100.0 1,972,640      88.9   191,410       8.6    33,260       1.5 
+     Simple                               6,044,140     100.0 5,711,480      94.5   256,530       4.2    48,250       0.8 
+ --------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 36  Personal crimes of violence,  1993                                                         
+  
+ Percent distribution of incidents by victim-offender
+ relationship, type of crime, and number of victims
+ (Internal)
+ (Base table 47)
+ 
+ --------------------------------------------------------------
+  Relationship and type of crime            Number of victims  
+                                           ------------------- 
+                                              Four or more     
+                                           ------------------- 
+                                            Number    Percent  
+  ----------------------------------------+---------+--------- 
+  Crimes of violence                         57,080       0.6 
+   Completed                                 15,230       0.5 
+   Attempted                                 41,840       0.6 
+   Rape/Sexual attack                            00       0.0 
+   Robbery                                    6,360       0.5 
+     Completed                                3,850       0.5 
+       With injury                              680       0.3 
+       Without injury                         3,160       0.7 
+     Attempted                                2,500       0.6 
+       With injury                              410       0.5 
+       Without injury                         2,090       0.6 
+   Assault                                   50,710       0.6 
+     Aggravated                              22,840       1.0 
+     Simple                                  27,860       0.5 
+ --------------------------------------------------------------
+Table 37.  Personal crimes of violence,  1993                                                         
+  
+Percent distribution of incidents, by victim-offender relationship,
+type of crime, and number of offenders
+(Internal)
+(Base table 58)
+
+------------------------------------------------------------------------------------------------------------------------
+ Relationship and type of crime                                                 Number of offenders                     
+                                                            ----------------------------------------------------------- 
+                                               Total                One                 Two                Three        
+                                        -------------------+-------------------+-------------------+------------------- 
+                                          Number    Percent   Number    Percent   Number    Percent   Number    Percent 
+ --------------------------------------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+ All incidents      Crimes of violence    9,898,980   100.0   7,667,970    77.5     779,410     7.9     481,400     4.9 
+                       Completed          2,942,240   100.0   2,105,100    71.5     340,670    11.6     161,670     5.5 
+                       Attempted          6,956,740   100.0   5,562,880    80.0     438,740     6.3     319,720     4.6 
+                      Rape/Other Sexual                                                                                 
+                    attack                  472,760   100.0     425,290    90.0      18,980     4.0       9,240     2.0 
+                      Robbery             1,161,900   100.0     612,300    52.7     240,320    20.7     142,550    12.3 
+                       Completed            723,140   100.0     338,570    46.8     166,200    23.0     102,710    14.2 
+                       Attempted            438,760   100.0     273,730    62.4      74,120    16.9      39,840     9.1 
+                      Assault             8,264,320   100.0   6,630,390    80.2     520,110     6.3     329,610     4.0 
+                       Aggravated         2,220,180   100.0   1,578,310    71.1     219,640     9.9     114,580     5.2 
+                       Simple             6,044,150   100.0   5,052,080    83.6     300,470     5.0     215,020     3.6 
+ Involving          Crimes of violence    5,045,040   100.0   3,262,000    64.7     587,610    11.6     369,380     7.3 
+ strangers             Completed          1,325,350   100.0     667,640    50.4     238,460    18.0     128,770     9.7 
+                       Attempted          3,719,690   100.0   2,594,350    69.7     349,150     9.4     240,610     6.5 
+                      Rape/Other Sexual                                                                                 
+                    attack                  122,090   100.0      86,460    70.8       9,410     7.7       9,240     7.6 
+                      Robbery               930,860   100.0     438,530    47.1     208,600    22.4     121,660    13.1 
+                       Completed            570,450   100.0     234,180    41.1     141,340    24.8      83,930    14.7 
+                       Attempted            360,410   100.0     204,350    56.7      67,260    18.7      37,730    10.5 
+                      Assault             3,992,090   100.0   2,737,010    68.6     369,600     9.3     238,470     6.0 
+                       Aggravated         1,281,200   100.0     755,590    59.0     173,870    13.6      88,050     6.9 
+                       Simple             2,710,900   100.0   1,981,420    73.1     195,730     7.2     150,420     5.5 
+ Involving          Crimes of violence    4,853,940   100.0   4,405,970    90.8     191,800     4.0     112,020     2.3 
+ nonstrangers          Completed          1,616,900   100.0   1,437,450    88.9     102,210     6.3      32,900     2.0 
+                       Attempted          3,237,050   100.0   2,968,520    91.7      89,590     2.8      79,120     2.4 
+                      Rape/Other Sexual                                                                                 
+                    attack                  350,670   100.0     338,830    96.6       9,570     2.7         0.0     0.0 
+                      Robbery               231,040   100.0     173,770    75.2      31,720    13.7      20,890     9.0 
+                       Completed            152,690   100.0     104,380    68.4      24,860    16.3      18,780    12.3 
+                       Attempted             78,350   100.0      69,390    88.6       6,860     8.7       2,110     2.7 
+                      Assault             4,272,230   100.0   3,893,370    91.1     150,510     3.5      91,130     2.1 
+                       Aggravated           938,980   100.0     822,720    87.6      45,770     4.9      26,530     2.8 
+                       Simple             3,333,250   100.0   3,070,650    92.1     104,740     3.1      64,600     1.9 
+------------------------------------------------------------------------------------------------------------------------
+
+(CONTINUED)
+Table 37.  Personal crimes of violence,  1993                                                         
+ 
+Percent distribution of incidents, by victim-offender relationship,
+type of crime, and number of offenders
+(Internal)
+(Base table 58)
+
+--------------------------------------------------------------------------------
+ Relationship and type of crime                   Number of offenders           
+                                        --------------------------------------- 
+                                                             Not known and not  
+                                           Four or more          available      
+                                        -------------------+------------------- 
+                                          Number    Percent   Number    Percent 
+ --------------------------------------+-----------+-------+-----------+------- 
+ All incidents      Crimes of violence      634,210     6.4     335,990     3.4 
+                       Completed            204,140     6.9     130,660     4.4 
+                       Attempted            430,070     6.2     205,330     3.0 
+                      Rape/Other Sexual                                         
+                    attack                   13,290     2.8       5,950     1.3 
+                      Robbery               109,720     9.4      57,020     4.9 
+                       Completed             72,250    10.0      43,410     6.0 
+                       Attempted             37,460     8.5      13,610     3.1 
+                      Assault               511,200     6.2     273,020     3.3 
+                       Aggravated           199,000     9.0     108,640     4.9 
+                       Simple               312,200     5.2     164,380     2.7 
+ Involving          Crimes of violence      509,480    10.1     316,580     6.3 
+ strangers             Completed            163,010    12.3     127,460     9.6 
+                       Attempted            346,460     9.3     189,120     5.1 
+                      Rape/Other Sexual                                         
+                    attack                   11,020     9.0       5,950     4.9 
+                      Robbery               105,050    11.3      57,020     6.1 
+                       Completed             67,590    11.8      43,410     7.6 
+                       Attempted             37,460    10.4      13,610     3.8 
+                      Assault               393,400     9.9     253,610     6.4 
+                       Aggravated           157,580    12.3     106,110     8.3 
+                       Simple               235,820     8.7     147,500     5.4 
+ Involving          Crimes of violence      124,740     2.6      19,410     0.4 
+ nonstrangers          Completed             41,130     2.5       3,200     0.2 
+                       Attempted             83,610     2.6      16,210     0.5 
+                      Rape/Other Sexual                                         
+                    attack                    2,270     0.6         0.0     0.0 
+                      Robbery                 4,660     2.0         0.0     0.0 
+                       Completed              4,660     3.1         0.0     0.0 
+                       Attempted                0.0     0.0         0.0     0.0 
+                      Assault               117,800     2.8      19,410     0.5 
+                       Aggravated            41,420     4.4       2,530     0.3 
+                       Simple                76,380     2.3      16,880     0.5 
+--------------------------------------------------------------------------------
+ 
+ Table 38.  Personal crimes of violence,  1993                                                        
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and perceived sex of offender
+ (Internal)
+ (Base table 33)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+ Type of crime                                                                 Perceived sex of offender                    
+                                                              -------------------------------------------------------------- 
+                                                                                                         Not known and not   
+                                                                      Male                Female             available       
+                                                              --------------------+--------------------+-------------------- 
+                                         Number of                                                                           
+                                           single-                                                                           
+                                          offender                                                                           
+                                         victimiza-                                                                          
+                                           tions      Total     Number    Percent    Number    Percent    Number    Percent  
+ --------------------------------------+----------+---------+----------+---------+----------+---------+----------+--------- 
+ Crimes of violence                     8,175,570     100.0  6,785,420      83.0  1,365,020      16.7     25,120       0.3 
+      Completed                         2,219,870     100.0  1,859,290      83.8    352,180      15.9      8,390       0.4 
+      Attempted                         5,955,690     100.0  4,926,130      82.7  1,012,840      17.0     16,720       0.3 
+      Rape/Other sexual attack            429,790     100.0    424,070      98.7      5,720       1.3         00       0.0 
+      Robbery                             641,100     100.0    581,640      90.7     59,450       9.3         00       0.0 
+         Completed                        353,460     100.0    313,030      88.6     40,430      11.4         00       0.0 
+            With injury                   112,020     100.0    100,420      89.6     11,600      10.4         00       0.0 
+            Without injury                241,440     100.0    212,600      88.1     28,830      11.9         00       0.0 
+         Attempted                        287,630     100.0    268,610      93.4     19,020       6.6         00       0.0 
+            With injury                    59,680     100.0     52,630      88.2      7,050      11.8         00       0.0 
+            Without injury                227,940     100.0    215,970      94.8     11,960       5.2         00       0.0 
+      Assault                           7,104,670     100.0  5,779,710      81.4  1,299,840      18.3     25,120       0.4 
+         Aggravated                     1,768,590     100.0  1,463,790      82.8    286,690      16.2     18,090       1.0 
+         Simple                         5,336,080     100.0  4,315,910      80.9  1,013,140      19.0      7,030       0.1 
+ ----------------------------------------------------------------------------------------------------------------------------
+ Table 39.  Personal crimes of violence,  1993                                                        
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and perceived age of offender
+ (Internal)
+ (Base table 34)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+ Type of crime                                                                 Perceived age of offender                    
+                                                              -------------------------------------------------------------- 
+                                                Total               Under 12          12-20 Subtotal           12-14         
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                         Number of                                                                           
+                                           single-                                                                           
+                                          offender                                                                           
+                                         victimiza-                                                                          
+                                           tions      Total     Number    Percent    Number    Percent    Number    Percent  
+ --------------------------------------+----------+---------+----------+---------+----------+---------+----------+--------- 
+ Crimes of violence                     8,175,570     100.0     87,590       1.1  2,573,860      31.5    777,790       9.5 
+      Completed                         2,219,870     100.0     15,200       0.7    694,100      31.3    214,630       9.7 
+      Attempted                         5,955,690     100.0     72,380       1.2  1,879,760      31.6    563,160       9.5 
+      Rape/Other sexual attack            429,790     100.0         00       0.0     85,800      20.0     12,580       2.9 
+      Robbery                             641,100     100.0      3,140       0.5    224,780      35.1     38,030       5.9 
+         Completed                        353,460     100.0         00       0.0     97,700      27.6     13,490       3.8 
+            With injury                   112,020     100.0         00       0.0     31,140      27.8      6,290       5.6 
+            Without injury                241,440     100.0         00       0.0     66,550      27.6      7,190       3.0 
+         Attempted                        287,630     100.0      3,140       1.1    127,070      44.2     24,540       8.5 
+            With injury                    59,680     100.0         00       0.0     19,660      32.9         00       0.0 
+            Without injury                227,940     100.0      3,140       1.4    107,410      47.1     24,540      10.8 
+      Assault                           7,104,670     100.0     84,450       1.2  2,263,270      31.9    727,170      10.2 
+         Aggravated                     1,768,590     100.0     18,720       1.1    536,350      30.3    119,790       6.8 
+         Simple                         5,336,080     100.0     65,720       1.2  1,726,910      32.4    607,380      11.4 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 39.  Personal crimes of violence,  1993                                                        
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and perceived age of offender
+ (Internal)
+ (Base table 34)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+ Type of crime                                                       Perceived age of offender                              
+                                         ----------------------------------------------------------------------------------- 
+                                                15-17                18-20                21-29             30 and over      
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                           Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+ --------------------------------------+----------+---------+----------+---------+----------+---------+----------+--------- 
+ Crimes of violence                       974,380      11.9    821,680      10.1  2,290,770      28.0  3,051,110      37.3 
+      Completed                           259,920      11.7    219,550       9.9    666,360      30.0    774,430      34.9 
+      Attempted                           714,460      12.0    602,130      10.1  1,624,400      27.3  2,276,680      38.2 
+      Rape/Other sexual attack             37,010       8.6     36,210       8.4    141,060      32.8    184,700      43.0 
+      Robbery                              99,320      15.5     87,420      13.6    209,270      32.6    177,770      27.7 
+         Completed                         42,870      12.1     41,330      11.7    128,720      36.4    108,250      30.6 
+            With injury                     7,930       7.1     16,910      15.1     40,090      35.8     35,750      31.9 
+            Without injury                 34,930      14.5     24,410      10.1     88,620      36.7     72,490      30.0 
+         Attempted                         56,450      19.6     46,080      16.0     80,550      28.0     69,520      24.2 
+            With injury                    12,740      21.4      6,920      11.6     22,620      37.9     17,390      29.1 
+            Without injury                 43,700      19.2     39,160      17.2     57,930      25.4     52,120      22.9 
+      Assault                             838,040      11.8    698,040       9.8  1,940,430      27.3  2,688,630      37.8 
+         Aggravated                       204,930      11.6    211,620      12.0    531,520      30.1    613,570      34.7 
+         Simple                           633,110      11.9    486,420       9.1  1,408,900      26.4  2,075,050      38.9 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 39.  Personal crimes of violence,  1993                                                        
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and perceived age of offender
+ (Internal)
+ (Base table 34)
+ 
+ -------------------------------------------------------------
+  Type of crime                            Perceived age of   
+                                               offender       
+                                         -------------------- 
+                                          Not known and not   
+                                              available       
+                                         -------------------- 
+                                           Number    Percent  
+ --------------------------------------+----------+--------- 
+ Crimes of violence                       172,220       2.1 
+      Completed                            69,750       3.1 
+      Attempted                           102,460       1.7 
+      Rape/Other sexual attack             18,210       4.2 
+      Robbery                              26,110       4.1 
+         Completed                         18,790       5.3 
+            With injury                     5,020       4.5 
+            Without injury                 13,760       5.7 
+         Attempted                          7,320       2.5 
+            With injury                       0.0       0.0 
+            Without injury                  7,320       3.2 
+      Assault                             127,880       1.8 
+         Aggravated                        68,400       3.9 
+         Simple                            59,480       1.1 
+ -------------------------------------------------------------
+ 
+ Table 40.  Personal crimes of violence,  1993                                                        
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and perceived race of offender
+ (Internal)
+ (Base table 35)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                 Perceived race of offender                   
+                                                              -------------------------------------------------------------- 
+                                                Total                White                Black                Other         
+                                         --------------------+--------------------+--------------------+-------------------- 
+                                         Number of                                                                           
+                                          single-                                                                            
+                                         offender                                                                            
+                                         victimiz-                                                                           
+                                          ations    Percent    Number    Percent    Number    Percent    Number    Percent   
+  --------------------------------------+---------+----------+---------+----------+---------+----------+---------+---------- 
+ Crimes of violence                    8,175,570      100.0 5,261,770       64.4 2,083,860       25.5   684,640        8.4 
+      Completed                        2,219,870      100.0 1,309,760       59.0   646,980       29.1   214,970        9.7 
+      Attempted                        5,955,690      100.0 3,952,000       66.4 1,436,870       24.1   469,660        7.9 
+      Rape/Other sexual attack           429,790      100.0   297,200       69.2    74,930       17.4    39,200        9.1 
+      Robbery                            641,100      100.0   224,250       35.0   315,850       49.3    76,940       12.0 
+         Completed                       353,460      100.0   114,740       32.5   182,990       51.8    43,900       12.4 
+            With injury                  112,020      100.0    51,530       46.0    43,380       38.7    12,600       11.2 
+            Without injury               241,440      100.0    63,200       26.2   139,610       57.8    31,290       13.0 
+         Attempted                       287,630      100.0   109,500       38.1   132,860       46.2    33,040       11.5 
+            With injury                   59,680      100.0    25,270       42.3    23,400       39.2     8,890       14.9 
+            Without injury               227,940      100.0    84,230       37.0   109,450       48.0    24,140       10.6 
+      Assault                          7,104,670      100.0 4,740,310       66.7 1,693,060       23.8   568,480        8.0 
+         Aggravated                    1,768,590      100.0 1,057,590       59.8   520,070       29.4   151,140        8.5 
+         Simple                        5,336,080      100.0 3,682,710       69.0 1,172,980       22.0   417,340        7.8 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 40.  Personal crimes of violence,  1993                                                        
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and perceived race of offender
+ (Internal)
+ (Base table 35)
+ 
+ -------------------------------------------------------------
+  Type of crime                           Perceived race of   
+                                               offender       
+                                         -------------------- 
+                                           Not known or not   
+                                              available       
+                                         -------------------- 
+                                          Number    Percent   
+  --------------------------------------+---------+---------- 
+ Crimes of violence                      145,290        1.8 
+      Completed                           48,150        2.2 
+      Attempted                           97,140        1.6 
+      Rape/Other sexual attack            18,440        4.3 
+      Robbery                             24,040        3.8 
+         Completed                        11,830        3.3 
+            With injury                    4,500        4.0 
+            Without injury                 7,320        3.0 
+         Attempted                        12,210        4.2 
+            With injury                    2,110        3.5 
+            Without injury                10,100        4.4 
+      Assault                            102,800        1.4 
+         Aggravated                       39,770        2.2 
+         Simple                           63,030        1.2 
+ -------------------------------------------------------------
+ 
+ Table 41.  Personal crimes of violence,  1993:                                                         
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime, age of victims, and perceived age of
+ offender
+ (Internal)
+ (Base table 36)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------
+  Type of crime and age                                                 Perceived age of offender                            
+  of victim                                  ------------------------------------------------------------------------------- 
+                                Total             Under 12         12-20 Subtotal           12-14               15-17        
+                         -------------------+-------------------+-------------------+-------------------+------------------- 
+                          Number    Percent   Number    Percent   Number    Percent   Number    Percent   Number    Percent  
+  ----------------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+  Crimes of  .........                                                                                                       
+  violence   12-19       2,352,230     100.0    47,440       2.0 1,747,740      74.3   638,780      27.2   702,800      29.9 
+             20-34       3,307,880     100.0     7,930       0.2   463,150      14.0    78,530       2.4   129,450       3.9 
+             35-49       1,968,700     100.0    14,900       0.8   258,990      13.2    44,250       2.2   104,360       5.3 
+             50-64         419,700     100.0    15,510       3.7    66,330      15.8     5,980       1.4    19,810       4.7 
+             65 and over   127,050     100.0     1,820       1.4    37,650      29.6    10,240       8.1    17,960      14.1 
+             TOTAL       8,175,570     100.0    87,600       1.1 2,573,860      31.5   777,790       9.5   974,390      11.9 
+  Robbery    .........                                                                                                       
+             12-19         161,580     100.0     3,150       1.9   119,840      74.2    32,830      20.3    60,100      37.2 
+             20-34         266,900     100.0         0       0.0    47,330      17.7     5,200       1.9    19,970       7.5 
+             35-49         148,390     100.0         0       0.0    29,560      19.9         0       0.0    11,380       7.7 
+             50-64          44,460     100.0         0       0.0    15,030      33.8         0       0.0     2,070       4.6 
+             65 and over    19,780     100.0         0       0.0    13,020      65.8         0       0.0     5,820      29.4 
+             TOTAL         641,100     100.0     3,150       0.5   224,780      35.1    38,030       5.9    99,330      15.5 
+  Assault    .........                                                                                                       
+             12-19       2,044,060     100.0    44,290       2.2 1,554,290      76.0   595,570      29.1   610,640      29.9 
+             20-34       2,858,900     100.0     7,930       0.3   403,620      14.1    71,130       2.5   104,530       3.7 
+             35-49       1,735,380     100.0    14,900       0.9   229,430      13.2    44,250       2.6    92,990       5.4 
+             50-64         367,090     100.0    15,510       4.2    51,300      14.0     5,980       1.6    17,740       4.8 
+             65 and over    99,250     100.0     1,820       1.8    24,630      24.8    10,240      10.3    12,150      12.2 
+             TOTAL       7,104,680     100.0    84,450       1.2 2,263,270      31.9   727,180      10.2   838,050      11.8 
+ ----------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 41.  Personal crimes of violence,  1993:                                                         
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime, age of victims, and perceived age of
+ offender
+ (Internal)
+ (Base table 36)
+ 
+ --------------------------------------------------------------------------------------------------------
+  Type of crime and age                             Perceived age of offender                            
+  of victim              ------------------------------------------------------------------------------- 
+                                                                                      Not known and not  
+                                18-20               21-29            30 and over          available      
+                         -------------------+-------------------+-------------------+------------------- 
+                          Number    Percent   Number    Percent   Number    Percent   Number    Percent  
+  ----------------------+---------+---------+---------+---------+---------+---------+---------+--------- 
+  Crimes of  .........                                                                                   
+  violence   12-19         406,150      17.3   280,990      11.9   245,280      10.4    30,790       1.3 
+             20-34         255,170       7.7 1,466,950      44.3 1,313,700      39.7    56,150       1.7 
+             35-49         110,370       5.6   428,300      21.8 1,204,170      61.2    62,340       3.2 
+             50-64          40,540       9.7    99,250      23.6   227,980      54.3    10,620       2.5 
+             65 and over     9,450       7.4    15,280      12.0    59,990      47.2    12,320       9.7 
+             TOTAL         821,680      10.1 2,290,770      28.0 3,051,120      37.3   172,220       2.1 
+  Robbery    .........                                                                                   
+             12-19          26,900      16.7    25,680      15.9     9,900       6.1     3,010       1.9 
+             20-34          22,170       8.3   117,360      44.0    92,520      34.7     9,700       3.6 
+             35-49          18,180      12.3    54,830      37.0    56,890      38.3     7,100       4.8 
+             50-64          12,970      29.2     8,940      20.1    18,470      41.5     2,020       4.5 
+             65 and over     7,200      36.4     2,470      12.5         0       0.0     4,280      21.7 
+             TOTAL          87,420      13.6   209,280      32.6   177,780      27.7    26,120       4.1 
+  Assault    .........                                                                                   
+             12-19         348,080      17.0   210,470      10.3   207,230      10.1    27,770       1.4 
+             20-34         227,950       8.0 1,255,500      43.9 1,151,390      40.3    40,460       1.4 
+             35-49          92,190       5.3   371,340      21.4 1,072,590      61.8    47,120       2.7 
+             50-64          27,570       7.5    90,320      24.6   201,360      54.9     8,600       2.3 
+             65 and over     2,240       2.3    12,810      12.9    56,070      56.5     3,920       4.0 
+             TOTAL         698,050       9.8 1,940,430      27.3 2,688,630      37.8   127,890       1.8 
+ --------------------------------------------------------------------------------------------------------
+ 
+ Table 42.  Personal crimes of violence,  1993:
+  
+ Percent distribution of single-offender victimizations,
+ based on race of victims, by type of crime
+ and perceived race of offender
+ (internal table)
+ (base table 37)
+                                                                                                         
+ 
+ -------------------------------------------------------------------------------------------------------------------------
+  Type of crime and race of victim                                             Perceived race of offender                 
+                                                                --------------------------------------------------------- 
+                                                 Total                  White                  Black             Other    
+                                         ----------------------+----------------------+----------------------+----------- 
+                                           Number     Percent     Number     Percent     Number     Percent     Number    
+  --------------------------------------+-----------+----------+-----------+----------+-----------+----------+----------- 
+  Crimes of violence                                                                                                      
+      White                               6,783,970      100.0   5,009,780       73.8   1,072,560       15.8     581,820 
+      Black                               1,216,640      100.0     162,280       13.3     986,830       81.1      42,040 
+      Other                                 174,960      100.0      89,710       51.3      24,470       14.0      60,780 
+      Total                               8,175,570      100.0   5,261,770       64.4   2,083,860       25.5     684,640 
+   Completed                                                                                                             
+      White                               1,757,830      100.0   1,262,390       71.8     279,920       15.9     177,430 
+      Black                                 402,110      100.0      27,900        6.9     355,660       88.4       8,490 
+      Other                                  59,940      100.0      19,470       32.5      11,400       19.0      29,070 
+      Total                               2,219,880      100.0   1,309,760       59.0     646,980       29.1     214,980 
+   Attempted                                                                                                             
+      White                               5,026,140      100.0   3,747,400       74.6     792,650       15.8     404,390 
+      Black                                 814,540      100.0     134,370       16.5     631,160       77.5      33,550 
+      Other                                 115,020      100.0      70,240       61.1      13,070       11.4      31,710 
+      Total                               5,955,700      100.0   3,952,010       66.4   1,436,880       24.1     469,660 
+   Rape/other sexual attack                                                                                              
+      White                                 366,320      100.0     272,890       74.5      38,230       10.4      36,760 
+      Black                                  50,600      100.0      11,450       22.6      36,710       72.5       2,440 
+      Other                                  12,870      100.0      12,870      100.0           0        0.0           0 
+      Total                                 429,790      100.0     297,210       69.2      74,940       17.4      39,210 
+   Robbery                                                                                                               
+      White                                 477,640      100.0     210,010       44.0     185,690       38.9      69,880 
+      Black                                 140,110      100.0       5,280        3.8     122,840       87.7           0 
+      Other                                  23,360      100.0       8,960       38.3       7,330       31.4       7,070 
+      Total                                 641,100      100.0     224,250       35.0     315,860       49.3      76,950 
+    Completed                                                                                                            
+      White                                 249,780      100.0     107,360       43.0      99,130       39.7      38,780 
+      Black                                  89,130      100.0       5,280        5.9      76,530       85.9           0 
+      Other                                  14,560      100.0       2,110       14.5       7,330       50.4       5,120 
+      Total                                 353,470      100.0     114,750       32.5     182,990       51.8      43,900 
+     With injury                                                                                                         
+      White                                  81,180      100.0      49,430       60.9      17,530       21.6       9,710 
+      Black                                  25,850      100.0           0        0.0      25,850      100.0           0 
+      Other                                   5,000      100.0       2,110       42.2           0        0.0       2,890 
+      Total                                 112,030      100.0      51,540       46.0      43,380       38.7      12,600 
+     Without injury                                                                                                      
+      White                                 168,590      100.0      57,930       34.4      81,590       48.4      29,070 
+      Black                                  63,280      100.0       5,280        8.3      50,680       80.1           0 
+      Other                                   9,560      100.0           0        0.0       7,330       76.7       2,230 
+      Total                                 241,440      100.0      63,210       26.2     139,610       57.8      31,300 
+ -------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 42.  Personal crimes of violence,  1993:
+  
+ Percent distribution of single-offender victimizations,
+ based on race of victims, by type of crime
+ and perceived race of offender
+ (internal table)
+ (base table 37)
+                                                                                                         
+ 
+ -------------------------------------------------------------------------------------------------------------------------
+  Type of crime and race of victim                                             Perceived race of offender                 
+                                                                --------------------------------------------------------- 
+                                                 Total                  White                  Black             Other    
+                                         ----------------------+----------------------+----------------------+----------- 
+                                           Number     Percent     Number     Percent     Number     Percent     Number    
+  --------------------------------------+-----------+----------+-----------+----------+-----------+----------+----------- 
+    Attempted                                                                                                            
+      White                                 227,860      100.0     102,650       45.1      86,560       38.0      31,100 
+      Black                                  50,970      100.0           0        0.0      46,310       90.8           0 
+      Other                                   8,800      100.0       6,850       77.9           0        0.0       1,950 
+      Total                                 287,630      100.0     109,500       38.1     132,870       46.2      33,050 
+     With injury                                                                                                         
+      White                                  52,260      100.0      25,270       48.4      15,970       30.6       8,900 
+      Black                                   7,430      100.0           0        0.0       7,430      100.0           0 
+      Other                                       0        0.0           0        0.0           0        0.0           0 
+      Total                                  59,690      100.0      25,270       42.3      23,410       39.2       8,900 
+      Without injury                                                                                                      
+      White                                 175,600      100.0      77,380       44.1      70,580       40.2      22,200 
+      Black                                  43,540      100.0           0        0.0      38,870       89.3           0 
+      Other                                   8,800      100.0       6,850       77.9           0        0.0       1,950 
+      Total                                 227,940      100.0      84,230       37.0     109,460       48.0      24,150 
+   Assault                                                                                                               
+      White                               5,940,020      100.0   4,526,880       76.2     848,650       14.3     475,180 
+      Black                               1,025,930      100.0     145,550       14.2     827,280       80.6      39,600 
+      Other                                 138,730      100.0      67,880       48.9      17,140       12.4      53,710 
+      Total                               7,104,680      100.0   4,740,310       66.7   1,693,070       23.8     568,490 
+    Aggravated                                                                                                           
+      White                               1,385,070      100.0   1,016,390       73.4     198,950       14.4     129,970 
+      Black                                 356,260      100.0      31,970        9.0     312,990       87.9      11,310 
+      Other                                  27,250      100.0       9,240       33.9       8,150       29.9       9,860 
+      Total                               1,768,590      100.0   1,057,600       59.8     520,080       29.4     151,140 
+    Simple                                                                                                               
+      White                               4,554,940      100.0   3,510,490       77.1     649,700       14.3     345,210 
+      Black                                 669,670      100.0     113,580       17.0     514,290       76.8      28,290 
+      Other                                 111,480      100.0      58,640       52.6       8,990        8.1      43,850 
+      Total                               5,336,090      100.0   3,682,710       69.0   1,172,990       22.0     417,350 
+ -------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 42.  Personal crimes of violence,  1993:
+  
+ Percent distribution of single-offender victimizations,
+ based on race of victims, by type of crime
+ and perceived race of offender
+ (internal table)
+ (base table 37)
+                                                                                                         
+ 
+ --------------------------------------------------------------------------
+  Type of crime and race of victim          Perceived race of offender     
+                                         --------------------------------- 
+                                                       Not known or not    
+                                           Other          available        
+                                         ----------+---------------------- 
+                                          Percent     Number     Percent   
+  --------------------------------------+----------+-----------+---------- 
+  Crimes of violence                                                       
+      White                                    8.6     119,800        1.8 
+      Black                                    3.5      25,500        2.1 
+      Other                                   34.7           0        0.0 
+      Total                                    8.4     145,300        1.8 
+   Completed                                                              
+      White                                   10.1      38,100        2.2 
+      Black                                    2.1      10,050        2.5 
+      Other                                   48.5           0        0.0 
+      Total                                    9.7      48,150        2.2 
+   Attempted                                                              
+      White                                    8.0      81,700        1.6 
+      Black                                    4.1      15,440        1.9 
+      Other                                   27.6           0        0.0 
+      Total                                    7.9      97,150        1.6 
+   Rape/other sexual attack                                               
+      White                                   10.0      18,440        5.0 
+      Black                                    4.8           0        0.0 
+      Other                                    0.0           0        0.0 
+      Total                                    9.1      18,440        4.3 
+   Robbery                                                                
+      White                                   14.6      12,060        2.5 
+      Black                                    0.0      11,990        8.6 
+      Other                                   30.3           0        0.0 
+      Total                                   12.0      24,050        3.8 
+    Completed                                                             
+      White                                   15.5       4,510        1.8 
+      Black                                    0.0       7,320        8.2 
+      Other                                   35.2           0        0.0 
+      Total                                   12.4      11,830        3.3 
+     With injury                                                          
+      White                                   12.0       4,510        5.6 
+      Black                                    0.0           0        0.0 
+      Other                                   57.8           0        0.0 
+      Total                                   11.2       4,510        4.0 
+     Without injury                                                       
+      White                                   17.2           0        0.0 
+      Black                                    0.0       7,320       11.6 
+      Other                                   23.3           0        0.0 
+ --------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 42.  Personal crimes of violence,  1993:
+  
+ Percent distribution of single-offender victimizations,
+ based on race of victims, by type of crime
+ and perceived race of offender
+ (internal table)
+ (base table 37)
+                                                                                                         
+ 
+ --------------------------------------------------------------------------
+  Type of crime and race of victim          Perceived race of offender     
+                                         --------------------------------- 
+                                                       Not known or not    
+                                           Other          available        
+                                         ----------+---------------------- 
+                                          Percent     Number     Percent   
+  --------------------------------------+----------+-----------+---------- 
+      Total                                   13.0       7,320        3.0 
+    Attempted                                                             
+      White                                   13.6       7,550        3.3 
+      Black                                    0.0       4,670        9.2 
+      Other                                   22.1           0        0.0 
+      Total                                   11.5      12,220        4.2 
+      With injury                                                          
+      White                                   17.0       2,110        4.0 
+      Black                                    0.0           0        0.0 
+      Other                                    0.0           0        0.0 
+      Total                                   14.9       2,110        3.5 
+      Without injury                                                       
+      White                                   12.6       5,440        3.1 
+      Black                                    0.0       4,670       10.7 
+      Other                                   22.1           0        0.0 
+      Total                                   10.6      10,110        4.4 
+   Assault                                                                
+      White                                    8.0      89,300        1.5 
+      Black                                    3.9      13,510        1.3 
+      Other                                   38.7           0        0.0 
+      Total                                    8.0     102,810        1.4 
+    Aggravated                                                            
+      White                                    9.4      39,770        2.9 
+      Black                                    3.2           0        0.0 
+      Other                                   36.2           0        0.0 
+      Total                                    8.5      39,770        2.2 
+    Simple                                                                
+      White                                    7.6      49,530        1.1 
+      Black                                    4.2      13,510        2.0 
+      Other                                   39.3           0        0.0 
+      Total                                    7.8      63,040        1.2 
+ --------------------------------------------------------------------------
+ Table 43.  Personal crimes of violence,  1993:
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and detailed victim-offender
+ relationship
+ (internal table)
+ (base table 39)
+                                                                                                         
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                              Number of single                                                                  
+                                                 offender                                                                      
+                                              victimizations       Related total            Spouse             Ex-spouse       
+                                           --------------------+--------------------+--------------------+-------------------- 
+                                              Total    Percent    Number    Percent    Number    Percent    Number    Percent  
+  ----------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+ Crimes of violence                         8,192,130    100.0     985,500     12.0     354,420      4.3     185,500      2.3 
+   Completed                                2,228,100    100.0     420,880     18.9     177,330      8.0      71,290      3.2 
+   Attempted                                5,964,030    100.0     564,610      9.5     177,090      3.0     114,200      1.9 
+   Rape/other sexual attack                   429,790    100.0      64,280     15.0      19,120      4.4      31,790      7.4 
+   Robbery                                    643,210    100.0      51,060      7.9       9,030      1.4      19,610      3.0 
+     Completed                                355,580    100.0      30,360      8.5       2,060      0.6      13,060      3.7 
+     Attempted                                287,630    100.0      20,700      7.2       6,970      2.4       6,540      2.3 
+   Assault                                  7,119,120    100.0     870,160     12.2     326,260      4.6     134,100      1.9 
+     Aggravated                             1,774,710    100.0     196,040     11.0      33,940      1.9      44,580      2.5 
+     Simple                                 5,344,420    100.0     674,120     12.6     292,330      5.5      89,520      1.7 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                   Parent             Own child        Brother or sister      Other relative    
+                                           --------------------+--------------------+--------------------+-------------------- 
+                                             Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  ----------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+ Crimes of violence                            86,010      1.0      85,000      1.0     100,150      1.2     174,420      2.1 
+   Completed                                   50,660      2.3      28,340      1.3      49,940      2.2      43,320      1.9 
+   Attempted                                   35,350      0.6      56,670      1.0      50,210      0.8     131,100      2.2 
+   Rape/other sexual attack                     6,430      1.5           0      0.0           0      0.0       6,940      1.6 
+   Robbery                                      3,820      0.6       1,950      0.3       6,450      1.0      10,210      1.6 
+     Completed                                  3,820      1.1       1,950      0.5       2,550      0.7       6,920      1.9 
+     Attempted                                      0      0.0           0      0.0       3,900      1.4       3,290      1.1 
+   Assault                                     75,760      1.1      83,060      1.2      93,700      1.3     157,270      2.2 
+     Aggravated                                21,690      1.2      14,360      0.8      18,430      1.0      63,050      3.6 
+     Simple                                    54,080      1.0      68,700      1.3      75,270      1.4      94,230      1.8 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 43.  Personal crimes of violence,  1993:
+  
+ Percent distribution of single-offender victimizations,
+ by type of crime and detailed victim-offender
+ relationship
+ (internal table)
+ (base table 39)
+                                                                                                         
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                              Well known, not                                                                   
+                                                 related        Casual acquaintance       Don't know            Stranger       
+                                           --------------------+--------------------+--------------------+-------------------- 
+                                             Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  ----------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+ Crimes of violence                         1,994,930     24.4   1,584,630     19.3      61,880      0.8   3,565,190     43.5 
+   Completed                                  651,600     29.2     404,960     18.2      14,990      0.7     735,670     33.0 
+   Attempted                                1,343,340     22.5   1,179,660     19.8      46,890      0.8   2,829,520     47.4 
+   Rape/other sexual attack                   151,010     35.1     124,530     29.0       8,140      1.9      81,840     19.0 
+   Robbery                                     66,490     10.3      62,080      9.7           0      0.0     463,580     72.1 
+     Completed                                 54,480     15.3      22,370      6.3           0      0.0     248,370     69.8 
+     Attempted                                 12,010      4.2      39,710     13.8           0      0.0     215,200     74.8 
+   Assault                                  1,777,430     25.0   1,398,020     19.6      53,750      0.8   3,019,770     42.4 
+     Aggravated                               384,360     21.7     321,930     18.1      14,750      0.8     857,630     48.3 
+     Simple                                 1,393,070     26.1   1,076,080     20.1      39,000      0.7   2,162,150     40.5 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ Table 44.  Personal crimes of violence,  1993                                                         
+  
+ Percent distribution of multiple-offender victimizations,
+ by type of crime and perceived sex of offenders
+ (Internal)
+ (Base table 40)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                   Perceived sex of offenders                       
+                                                             --------------------------------------------------------------------- 
+                                                                                                                         Not known 
+                                                                                                                          and not  
+                                                                  All male           All female        Male and female   available 
+                                                             -------------------+-------------------+-------------------+--------- 
+                                         Number of                                                                                 
+                                         multiple-                                                                                 
+                                         offender                                                                                  
+                                         victimiz-                                                                                 
+                                           atio      Total    Number    Percent   Number    Percent   Number    Percent   Number   
+  --------------------------------------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+ Crimes of violence                    2,437,620     100.0 1,850,580      75.9   233,340       9.6   320,200      13.1    33,480 
+      Completed                          900,860     100.0   695,040      77.2    76,590       8.5   110,260      12.2    18,960 
+      Attempted                        1,536,750     100.0 1,155,540      75.2   156,750      10.2   209,940      13.7    14,510 
+      Rape/Other sexual attack            50,790     100.0    44,470      87.6        00       0.0     6,320      12.4        00 
+      Robbery                            619,270     100.0   509,560      82.3    41,870       6.8    53,400       8.6    14,440 
+         Completed                       444,300     100.0   361,120      81.3    25,410       5.7    43,320       9.8    14,440 
+            With injury                  156,860     100.0   133,620      85.2     8,640       5.5     7,210       4.6     7,370 
+            Without injury               287,430     100.0   227,490      79.1    16,760       5.8    36,100      12.6     7,060 
+         Attempted                       174,970     100.0   148,430      84.8    16,450       9.4    10,070       5.8        00 
+            With injury                   33,580     100.0    30,500      90.8     3,080       9.2        00       0.0        00 
+            Without injury               141,380     100.0   117,930      83.4    13,370       9.5    10,070       7.1        00 
+      Assault                          1,767,550     100.0 1,296,550      73.4   191,470      10.8   260,470      14.7    19,030 
+         Aggravated                      697,940     100.0   541,760      77.6    50,930       7.3    93,910      13.5    11,340 
+         Simple                        1,069,600     100.0   754,790      70.6   140,540      13.1   166,560      15.6     7,690 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 44.  Personal crimes of violence,  1993                                                         
+  
+ Percent distribution of multiple-offender victimizations,
+ by type of crime and perceived sex of offenders
+ (Internal)
+ (Base table 40)
+ 
+ --------------------------------------------------
+  Type of crime                          Perceived 
+                                          sex of   
+                                         offenders 
+                                         --------- 
+                                         Not known 
+                                          and not  
+                                         available 
+                                         --------- 
+                                          Percent  
+  --------------------------------------+--------- 
+ Crimes of violence                          1.4 
+      Completed                              2.1 
+      Attempted                              0.9 
+      Rape/Other sexual attack               0.0 
+      Robbery                                2.3 
+         Completed                           3.3 
+            With injury                      4.7 
+            Without injury                   2.5 
+         Attempted                           0.0 
+            With injury                      0.0 
+            Without injury                   0.0 
+      Assault                                1.1 
+         Aggravated                          1.6 
+         Simple                              0.7 
+ --------------------------------------------------
+Table 45.  Personal crimes of violence,  1993                                                            
+  
+ Percent distribution of multiple-offender victimizations,
+ by type of crime and perceived age of offenders
+ (Internal)
+ (Base table 41)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                   Perceived age of offenders                       
+                                                             --------------------------------------------------------------------- 
+                                                                                                                          All 30   
+                                                Total           All under 12          All 12-20           All 21-29      and over  
+                                         -------------------+-------------------+-------------------+-------------------+--------- 
+                                          Number    Percent   Number    Percent   Number    Percent   Number    Percent   Number   
+ --------------------------------------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+ Crimes of violence                    2,437,620     100.0    15,160       0.6 1,173,660      48.1   314,420      12.9   158,230 
+      Completed                          900,860     100.0     4,450       0.5   395,110      43.9   140,590      15.6    71,510 
+      Attempted                        1,536,750     100.0    10,700       0.7   778,550      50.7   173,820      11.3    86,720 
+      Rape/Other sexual attack            50,790     100.0        00       0.0    22,710      44.7    13,030      25.7     3,820 
+      Robbery                            619,270     100.0     2,430       0.4   260,340      42.0   101,350      16.4    31,460 
+         Completed                       444,300     100.0     2,430       0.5   162,310      36.5    75,380      17.0    29,460 
+            With injury                  156,860     100.0        00       0.0    57,110      36.4    26,430      16.9     4,460 
+            Without injury               287,430     100.0     2,430       0.8   105,190      36.6    48,950      17.0    24,990 
+         Attempted                       174,970     100.0        00       0.0    98,030      56.0    25,960      14.8     2,000 
+            With injury                   33,580     100.0        00       0.0    21,830      65.0     4,240      12.6        00 
+            Without injury               141,380     100.0        00       0.0    76,200      53.9    21,710      15.4     2,000 
+      Assault                          1,767,550     100.0    12,720       0.7   890,600      50.4   200,040      11.3   122,940 
+         Aggravated                      697,940     100.0        00       0.0   341,400      48.9    89,440      12.8    57,360 
+         Simple                        1,069,600     100.0    12,720       1.2   549,200      51.3   110,590      10.3    65,580 
+ ----------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 45.  Personal crimes of violence,  1993                                                            
+  
+ Percent distribution of multiple-offender victimizations,
+ by type of crime and perceived age of offenders
+ (Internal)
+ (Base table 41)
+ 
+ ------------------------------------------------------------------------------------------
+  Type of crime                                     Perceived age of offenders             
+                                         ------------------------------------------------- 
+                                          All 30                        Not known and not  
+                                         and over      Mixed ages           available      
+                                         ---------+-------------------+------------------- 
+                                          Percent   Number    Percent   Number    Percent  
+ --------------------------------------+---------+---------+---------+---------+--------- 
+ Crimes of violence                          6.5   632,730      26.0   143,390       5.9 
+      Completed                              7.9   235,620      26.2    53,560       5.9 
+      Attempted                              5.6   397,110      25.8    89,820       5.8 
+      Rape/Other sexual attack               7.5     6,730      13.3     4,490       8.8 
+      Robbery                                5.1   191,040      30.9    32,620       5.3 
+         Completed                           6.6   144,280      32.5    30,420       6.8 
+            With injury                      2.8    59,430      37.9     9,400       6.0 
+            Without injury                   8.7    84,840      29.5    21,010       7.3 
+         Attempted                           1.1    46,760      26.7     2,200       1.3 
+            With injury                      0.0     7,510      22.4        00       0.0 
+            Without injury                   1.4    39,250      27.8     2,200       1.6 
+      Assault                                7.0   434,950      24.6   106,270       6.0 
+         Aggravated                          8.2   163,260      23.4    46,460       6.7 
+         Simple                              6.1   271,680      25.4    59,810       5.6 
+ ------------------------------------------------------------------------------------------
+Table 46.  Personal crimes of violence,  1993                                                            
+  
+Percent distribution of multiple-offender victimizations,
+by type of crime and perceived race of offenders
+(Internal)
+(Base table 42)
+ 
+----------------------------------------------------------------------------------------------------------------------------
+Type of crime                                                                Perceived race of offenders                   
+                                                             -------------------------------------------------------------- 
+                                               Total              All white            All black            All other       
+                                        --------------------+--------------------+--------------------+-------------------- 
+                                         Number    Percent    Number    Percent    Number    Percent    Number    Percent   
+--------------------------------------+---------+----------+---------+----------+---------+----------+---------+---------- 
+Crimes of violence                    2,437,620      100.0   983,080       40.3   813,360       33.4   292,810       12.0 
+     Completed                          900,860      100.0   281,380       31.2   367,310       40.8   127,300       14.1 
+     Attempted                        1,536,750      100.0   701,700       45.7   446,050       29.0   165,510       10.8 
+     Rape/Other sexual attack            50,790      100.0    22,590       44.5     7,930       15.6     6,780       13.4 
+     Robbery                            619,270      100.0   126,060       20.4   334,490       54.0    80,040       12.9 
+        Completed                       444,300      100.0    77,820       17.5   252,390       56.8    63,980       14.4 
+           With injury                  156,860      100.0    40,130       25.6    76,480       48.8    24,710       15.8 
+           Without injury               287,430      100.0    37,690       13.1   175,900       61.2    39,260       13.7 
+        Attempted                       174,970      100.0    48,240       27.6    82,100       46.9    16,060        9.2 
+           With injury                   33,580      100.0    11,430       34.0    16,850       50.2         0        0.0 
+           Without injury               141,380      100.0    36,810       26.0    65,240       46.1    16,060       11.4 
+     Assault                          1,767,550      100.0   834,420       47.2   470,940       26.6   205,980       11.7 
+        Aggravated                      697,940      100.0   304,000       43.6   191,710       27.5    95,810       13.7 
+        Simple                        1,069,600      100.0   530,410       49.6   279,220       26.1   110,160       10.3 
+----------------------------------------------------------------------------------------------------------------------------
+
+(CONTINUED)
+Table 46.  Personal crimes of violence,  1993                                                            
+ 
+Percent distribution of multiple-offender victimizations,
+by type of crime and perceived race of offenders
+(Internal)
+(Base table 42)
+
+----------------------------------------------------------------------------------
+Type of crime                                 Perceived race of offenders        
+                                       ----------------------------------------- 
+                                                              Not known or not   
+                                           Mixed races           available       
+                                       --------------------+-------------------- 
+                                        Number    Percent    Number    Percent   
+--------------------------------------+---------+----------+---------+---------- 
+Crimes of violence                      280,00       11.5    68,350        2.8 
+    Completed                           98,310       10.9    26,550        2.9 
+    Attempted                          181,680       11.8    41,790        2.7 
+    Rape/Other sexual attack            13,470       26.5         0        0.0 
+    Robbery                             66,550       10.7    12,110        2.0 
+       Completed                        37,990        8.6    12,110        2.7 
+          With injury                   12,450        7.9     3,080        2.0 
+          Without injury                25,530        8.9     9,030        3.1 
+       Attempted                        28,560       16.3         0        0.0 
+          With injury                    5,300       15.8         0        0.0 
+          Without injury                23,260       16.5         0        0.0  
+    Assault                            199,960       11.3    56,230        3.2 
+       Aggravated                       78,350       11.2    28,060        4.0 
+       Simple                          121,610       11.4    28,170        2.6 
+--------------------------------------------------------------------------------
+Table 47.  Personal crimes of violence,  1993:                                                         
+  
+Percent distribution of multiple-offender victimizations,
+by type of crime, age of victims,
+and perceived age of offenders
+(Internal)
+(Base table 43)
+
+----------------------------------------------------------------------------------------------------------------------------
+Type of crime and age                                                Perceived age of offenders                            
+of victim                                  ------------------------------------------------------------------------------- 
+                               Total           All under 12          All 12-20           All 21-29        All 30 and over   
+                        -------------------+-------------------+-------------------+-------------------+------------------- 
+                         Number    Percent   Number    Percent   Number    Percent   Number    Percent   Number    Percent  
+----------------------+---------+---------+---------+---------+---------+---------+---------+---------+---------+--------- 
+Crimes of    12-19     1,003,060    100.0     8,710      0.9    679,380     67.7     45,000      4.5     13,320      1.3 
+violence     20-34       836,700    100.0         0      0.0    696,050     35.4    183,790     22.0     71,210      8.0 
+             35-49       435,280    100.0     4,370      1.0    155,540     35.7     51,640     11.9     57,550     13.2 
+             50-64       131,980    100.0     2,080      1.6     29,350     22.2     27,670     21.0     13,820     10.5 
+             65 and over  30,610    100.0         0      0.0     13,350     43.6      6,310     20.6      2,340      7.6 
+             
+             TOTAL     2,437,620    100.0    15,160      0.6  1,173,670     48.1    314,420     12.9    158,240      6.5 
+ 
+ Robbery     12-19       193,970    100.0     2,440      1.3    125,110     64.5     11,730      6.0      4,420      2.3 
+             20-34       226,370    100.0         0      0.0     78,360     34.6     45,710     20.2      9,490      4.2 
+             35-49       134,180    100.0         0      0.0     47,560     35.4     15,580     11.6     17,550     13.1 
+             50-64        49,700    100.0         0      0.0      7,060     14.2     22,010     44.3          0      0.0 
+             65 and over  15,050    100.0         0      0.0      2,270     15.1      6,310     42.0          0      0.0 
+ 
+             TOTAL       619,280    100.0     2,440      0.4    260,350     42.0    101,350     16.4     31,470      5.1 
+ 
+ Assault     12-19       787,170    100.0     6,270      0.8    540,390     68.6     31,150      4.0      5,080      0.6 
+             20-34       591,180    100.0         0      0.0    210,910     35.7    134,840     22.8     61,710     10.4 
+             35-49       291,370    100.0     4,370      1.5    105,930     36.4     28,390      9.7     39,990     13.7 
+             50-64        82,280    100.0     2,080      2.5     22,300     27.1      5,660      6.9     13,820     16.8 
+             65 and over  15,550    100.0         0      0.0     11,080     71.3          0      0.0      2,340     15.0 
+ 
+             TOTAL     1,767,550    100.0    12,730      0.7    890,610     50.4    200,040     11.3    122,950      7.0 
+----------------------------------------------------------------------------------------------------------------------------
+
+(CONTINUED)
+Table 47.   Personal crimes of violence,  1993:                                                         
+ 
+Percent distribution of multiple-offender victimizations,
+by type of crime, age of victims,
+and perceived age of offenders
+(Internal)
+(Base table 43)
+
+----------------------------------------------------------------
+ Type of crime and age        Perceived age of offenders        
+ of victim              --------------------------------------- 
+                                             Not known and not  
+                            Mixed ages           available      
+                        -------------------+------------------- 
+                         Number    Percent   Number    Percent  
+ ----------------------+---------+---------+---------+--------- 
+ Crimes of    12-19       215,430     21.5    41,220      4.1 
+ violence     20-34       224,660     26.9    60,980      7.3 
+              35-49       144,630     33.2    21,560      5.0 
+              50-64        43,690     33.1    15,360     11.6 
+              65 and over   4,330     14.1     4,270     14.0 
+            TOTAL         632,740     26.0   143,390      5.9 
+ Robbery      12-19        47,260     24.4     3,010      1.6 
+              20-34        67,370     29.8    25,430     11.2 
+              35-49        53,500     39.9         0      0.0 
+              50-64        18,590     37.4     2,040      4.1 
+              65 and over   4,330     28.8     2,140     14.2 
+            TOTAL         191,050     30.9    32,620      5.3 
+ Assault      12-19       168,170     21.4    36,110      4.6 
+              20-34       150,560     25.5    33,150      5.6 
+              35-49        91,130     31.3    21,560      7.4 
+              50-64        25,100     30.5    13,320     16.2 
+              65 and over       0      0.0     2,130     13.7 
+            TOTAL         434,950     24.6   106,280      6.0 
+----------------------------------------------------------------
+ 
+ Table 48.  Personal crimes of violence,  1993:
+  
+ Percent distribution of multiple-offender victimizations
+ by type of crime, race of victims, and perceived race of offenders
+ (internal table)
+ (base table 44)
+                                                                                                         
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Type of crime and race of victim                                                 Perceived race of offenders                 
+                                                                   ----------------------------------------------------------- 
+                                                      Total             All white           All black           All other      
+                                               -------------------+-------------------+-------------------+------------------- 
+                                                 Number    Percent   Number    Percent   Number    Percent   Number    Percent 
+  --------------------------------------------+-----------+-------+-----------+-------+-----------+-------+-----------+------- 
+  Crimes of violence    White                    1,920,880   100.0     917,240    47.8     471,820    24.6     244,320    12.7 
+                        Black                      408,790   100.0      24,640     6.0     308,450    75.5      20,470     5.0 
+                        Other                      107,960   100.0      41,210    38.2      33,100    30.7      28,030    26.0 
+                        Total                    2,437,620   100.0     983,090    40.3     813,370    33.4     292,810    12.0 
+   Robbery              White                      410,770   100.0     116,940    28.5     165,330    40.2      65,560    16.0 
+                        Black                      173,720   100.0       4,970     2.9     150,500    86.6       2,530     1.5 
+                        Other                       34,780   100.0       4,160    12.0      18,670    53.7      11,950    34.4 
+                        Total                      619,280   100.0     126,070    20.4     334,500    54.0      80,040    12.9 
+   Assault              White                    1,478,000   100.0     779,750    52.8     303,990    20.6     171,970    11.6 
+                        Black                      218,420   100.0      19,670     9.0     152,520    69.8      17,940     8.2 
+                        Other                       71,130   100.0      35,000    49.2      14,430    20.3      16,070    22.6 
+                        Total                    1,767,550   100.0     834,420    47.2     470,940    26.6     205,990    11.7 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ 
+ 
+ --------------------------------------------------------------------------------------
+  Type of crime and race of victim                   Perceived race of offenders       
+                                               --------------------------------------- 
+                                                                    Not known or not   
+                                                   Mixed races          available      
+                                               -------------------+------------------- 
+                                                 Number    Percent   Number    Percent 
+  --------------------------------------------+-----------+-------+-----------+------- 
+  Crimes of violence    White                      230,940    12.0      56,570     2.9 
+                        Black                       46,140    11.3       9,090     2.2 
+                        Other                        2,920     2.7       2,700     2.5 
+                        Total                      280,000    11.5      68,350     2.8 
+   Robbery              White                       56,360    13.7       6,590     1.6 
+                        Black                       10,200     5.9       5,530     3.2 
+                        Other                            0     0.0           0     0.0 
+                        Total                       66,560    10.7      12,120     2.0 
+   Assault              White                      172,310    11.7      49,980     3.4 
+                        Black                       24,740    11.3       3,560     1.6 
+                        Other                        2,920     4.1       2,700     3.8 
+                        Total                      199,970    11.3      56,240     3.2 
+ --------------------------------------------------------------------------------------
+ 
+ Table 49.  Personal crimes of violence,  1993:
+  
+ Percent distribution of multiple-offender victimizations,
+ by type of crime and detailed victim-offender
+ relationship
+ (internal table)
+ (base table 45)
+                                                                                                         
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                              Number of mult.                                                                   
+                                                 offender       Some or all related,    Spouses and ex-                        
+                                              victimizations           Total               spouses              Parents        
+                                           --------------------+--------------------+--------------------+-------------------- 
+                                              Total    Percent    Number    Percent    Number    Percent    Number    Percent  
+  ----------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+ Crimes of violence                         2,423,380    100.0      46,470      1.9      10,710      0.4       6,600      0.3 
+   Completed                                  893,670    100.0      19,680      2.2       5,200      0.6       2,210      0.2 
+   Attempted                                1,529,710    100.0      26,790      1.8       5,510      0.4       4,390      0.3 
+   Rape/other sexual attack                    50,790    100.0       2,520      5.0           0      0.0           0      0.0 
+   Robbery                                    616,720    100.0       3,100      0.5           0      0.0           0      0.0 
+     Completed                                441,750    100.0       3,100      0.7           0      0.0           0      0.0 
+     Attempted                                174,970    100.0           0      0.0           0      0.0           0      0.0 
+   Assault                                  1,755,860    100.0      40,850      2.3      10,710      0.6       6,600      0.4 
+     Aggravated                               695,360    100.0      11,520      1.7       3,180      0.5       2,210      0.3 
+     Simple                                 1,060,510    100.0      29,330      2.8       7,530      0.7       4,390      0.4 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------
+  Type of crime                                                                                             Some or all well   
+                                               Own children     Brothers and sisters   Other relatives     known, not related  
+                                           --------------------+--------------------+--------------------+-------------------- 
+                                             Number    Percent    Number    Percent    Number    Percent    Number    Percent  
+  ----------------------------------------+-----------+--------+-----------+--------+-----------+--------+-----------+-------- 
+ Crimes of violence                                 0      0.0       4,460      0.2      24,700      1.0     194,920      8.0 
+   Completed                                        0      0.0       4,460      0.5       7,810      0.9      72,490      8.1 
+   Attempted                                        0      0.0           0      0.0      16,890      1.1     122,430      8.0 
+   Rape/other sexual attack                         0      0.0           0      0.0       2,520      5.0           0      0.0 
+   Robbery                                          0      0.0           0      0.0       3,100      0.5      23,100      3.7 
+     Completed                                      0      0.0           0      0.0       3,100      0.7      18,510      4.2 
+     Attempted                                      0      0.0           0      0.0           0      0.0       4,590      2.6 
+   Assault                                          0      0.0       4,460      0.3      19,080      1.1     171,820      9.8 
+     Aggravated                                     0      0.0           0      0.0       6,130      0.9      47,310      6.8 
+     Simple                                         0      0.0       4,460      0.4      12,950      1.2     124,510     11.7 
+ ------------------------------------------------------------------------------------------------------------------------------
+ 
+ (CONTINUED)
+ Table 49.  Personal crimes of violence,  1993:
+  
+ Percent distribution of multiple-offender victimizations,
+ by type of crime and detailed victim-offender
+ relationship
+ (internal table)
+ (base table 45)
+                                                                                                         
+ 
+ ---------------------------------------------------------------------------------------------------------
+  Type of crime                             Some or all casual                                            
+                                              acquaintances          Don't know            Stranger       
+                                           --------------------+--------------------+-------------------- 
+                                             Number    Percent    Number    Percent    Number    Percent  
+  ----------------------------------------+-----------+--------+-----------+--------+-----------+-------- 
+ Crimes of violence                           261,330     10.8      12,140      0.5   1,908,520     78.8 
+   Completed                                  106,210     11.9       2,420      0.3     692,870     77.5 
+   Attempted                                  155,120     10.1       9,720      0.6   1,215,650     79.5 
+   Rape/other sexual attack                     9,330     18.4           0      0.0      38,950     76.7 
+   Robbery                                     33,290      5.4       2,420      0.4     554,810     90.0 
+     Completed                                 28,920      6.5       2,420      0.5     388,800     88.0 
+     Attempted                                  4,370      2.5           0      0.0     166,010     94.9 
+   Assault                                    218,710     12.5       9,720      0.6   1,314,760     74.9 
+     Aggravated                                75,930     10.9       2,410      0.3     558,170     80.3 
+     Simple                                   142,780     13.5       7,300      0.7     756,580     71.3 
+ ---------------------------------------------------------------------------------------------------------
+
