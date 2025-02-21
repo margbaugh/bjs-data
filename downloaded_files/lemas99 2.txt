@@ -1,0 +1,630 @@
+U.S. Department of Justice 
+Bureau of Justice Statistics
+
+Law Enforcement Management and Administrative
+Statistics, 1999: Data for Individual State and
+Local Agencies with 100 or More Officers
+
+By Brian Reaves and Timothy Hart, BJS
+statisticians
+
+This file is text only without graphics and tables.
+A Zip archive of the tables in this report in spreadsheet format
+(.wk1) and the full report including tables and graphics in
+http://www.ojp.usdoj.gov/bjs/abstract/lemas99.htm
+
+
+Jan M. Chaiken, Ph.D. Director
+
+Brian Reaves and Timothy Hart, BJS
+statisticians, prepared this
+report.  Thomas Hester and Tina Dorsey provided
+production assistance.  Jayne Robinson
+administered final production.
+
+The Office of Community Oriented Policing
+Services (COPS), U.S. Department of Justice
+provided funding for the 1999 LEMAS survey. 
+Debra Cohen, Ph.D. of the (COPS) Office provided
+project management.  Dr. Cohen, Karin Schmerler,
+and Meg Townsend developed the community
+policing content of the 1999 LEMAS
+questionnaire.  Valuable assistance was provided
+by Pam Cammarata, Greg Cooper, Gil Kerlikowske,
+and Bob Phillips.
+
+The data were collected and processed by the
+U.S. Census Bureau,under the supervision of
+Stephanie Brown of the Governments
+Division. Census Bureau project staff included
+Carolyn Gates,Theresa Reitz, Martha Haselbush,
+Martha Greene, Bill Bryner,Patricia Torreyson,
+and Henrietta Herrin.  
+
+Sample design, selection and imputation
+procedures were conducted by Suzanne Dorinski
+and Yukiko Ellis of the Economic Statistical
+Methods and Programming Division of the U.S.
+Census Bureau under the supervision of Carma
+Hogue.
+
+
+Contents
+
+
+Highlights     
+Foreword  
+Introduction   
+Table A.  Number of agencies, by State and type
+Table B.  Agencies with 1,000 or more full-time
+sworn personnel including 500 or more officers 
+responding to calls for service                  
+Table C.  Summary data, by type of agency 
+
+Data for individual agencies
+I  Personnel   
+II Community policing    
+III Operations 
+IV Computers and information systems     
+V  Policies and programs 
+VI  State agencies                      
+
+Appendix
+Questionnaire 
+
+
+
+Tables with data for individual agencies
+
+SECTION I.  PERSONNEL 
+
+Number of full-time employees, percent of
+authorized strength,
+officers per 10,000 residents, and percent
+change since 1996 in
+full-time employees, 1999     
+1a.  Local agencies
+1b.  State agencies
+
+Number of full-time and part-time sworn
+employees, and primary
+job function of full-time sworn employees, 1999 
+2a.  Local agencies
+2b.  State agencies
+
+Number of full-time and part-time nonsworn
+employees, and primary job function of full-time
+nonsworn employees, 1999 
+3a.  Local agencies
+3b.  State agencies
+
+Number of reserve/auxiliary sworn officers,
+community service officers/police service aides,
+and nonsworn volunteers, 1999 
+4a.  Local agencies
+4b.  State agencies
+
+SECTION II.  COMMUNITY POLICING
+
+Community policing plans, training,  personnel,
+and facilities, 1999
+5a.  Local agencies
+5b.  State agencies
+
+Community policing activities and policies, 1999
+6a.  Local agencies
+6b.  State agencies
+
+Citizen access to crime statistics or crime
+maps, 1999
+7a.  Local agencies
+7b.  State agencies
+
+SECTION III.  OPERATIONS
+
+Number of district/precinct stations separate
+from headquarters,and types of patrol used, 1999
+
+8a.  Local agencies
+8b.  State agencies
+
+Number and percent of officers assigned to
+respond to calls for service, type of 9-1-1
+system, and number of telephone calls for
+service received, 1999
+9a.  Local agencies
+9b.  State agencies
+
+Criminal investigation and investigative support
+functions, 1999
+10a.  Local agencies
+10b.  State agencies
+
+Traffic and vehicle-related functions, 1999
+11a.  Local agencies
+11b.  State agencies
+
+Special operations, special enforcement, and
+special public safety functions, 1999
+12a.  Local agencies
+12b.  State agencies
+
+Court-related, detention-related, dispatch, and
+training academy functions, 1999
+13a.  Local agencies
+13b.  State agencies
+
+SECTION IV.  COMPUTERS AND
+INFORMATION SYSTEMS
+
+Selected functions of computers, 1999
+14a.  Local agencies
+14b.  State agencies
+
+Types of computerized files, 1999
+15a.  Local agencies
+15b.  State agencies
+
+Additional types of computerized files, 1999
+16a.  Local agencies
+16b.  State agencies
+
+Types of in-field computers/terminals used by
+patrol officers and primary method of
+transmitting field reports, 1999
+17a.  Local agencies
+17b.  State agencies
+
+Patrol officer access to information through the
+use of in-field computers, 1999
+18a.  Local agencies
+18b.  State agencies
+
+SECTION V.  POLICIES AND PROGRAMS
+
+Written policy directives, 1999
+19a.  Local agencies
+19b.  State agencies
+
+
+Highlights
+
+More than 700 State and local law enforcement
+agencies that employed 100 or more full-time
+sworn personnel and assigned 50 or more of these
+officers to respond to calls for service
+provided data in response to the 1999 Law
+Enforcement Management and Administrative
+Statistics (LEMAS) survey.  Subject areas
+covered by the survey include personnel,
+community policing,operations, computers and
+information systems, and written policies.
+
+
+
+Included among these agencies are 487 municipal
+police departments, 182 sheriffs' departments
+and offices, 31 county police departments, and
+the 49 primary State law enforcement agencies
+operating in each State except Hawaii.
+Collectively, these agencies employed about
+402,000 full-time sworn personnel, including
+218,000 officers assigned to respond to calls
+for service.
+
+Personnel
+
+On average, larger municipal police departments
+employed 23 full-time officers per 10,000
+residents.  Larger county police and sheriffs'
+departments employed an average of 14 and 13
+officers per 10,000 residents, respectively. 
+Primary State law enforcement agencies employed
+an average of 2 officers per 10,000 residents.   
+
+From 1996 to 1999 the median agency increase in
+number of full-time sworn personnel was higher
+among sheriffs' departments (12%) than for
+county (7%), municipal (4%), or State (3%)
+police agencies.   
+
+About 9 in 10 sworn personnel in State,
+municipal, and county police agencies worked in
+field operations.  About 3 in 4 State officers
+were regularly assigned to respond to calls for
+service compared to about 3 in 5 municipal and
+county police officers.  
+ 
+On average, a smaller percentage of sheriffs'
+officers worked in field operations (58%) and
+responded to calls for service (41%)because more
+of these officers were assigned to jail-related
+(25%) or court-related (9%) duties.  
+
+Community policing
+
+In 1999, nearly two-thirds of county (66%) and
+municipal (62%)police agencies with 100 or more
+officers had a formally written community
+policing plan, as did nearly half of sheriffs'
+departments (46%).   For each type of local
+agency, the percentage with a written plan was
+higher than in 1997.  In both years, nearly a
+third of State police agencies had a written
+plan.
+
+Nearly all larger county (97%) and  municipal
+(95%) police departments had full-time community
+policing officers, as did 88% of sheriffs'
+departments.   About half of State police
+agencies had them.  For all types of agencies,
+these percentages represented substantial
+increases over 1997. 
+
+In 1999, larger local law enforcement agencies
+had a total of about 59,000 full-time sworn
+personnel serving as community policing
+officers.   This was about 5 times as many as
+was reported in 1997.
+
+In more than four-fifths of county (87%) and
+municipal (81%)police departments with 100 or
+more officers, all new officer recruits received
+community policing training.  This was true in
+about three-fifths of sheriffs' departments and
+just over half of State police agencies.  For
+each type of agency, these percentages were
+higher than in 1997. 
+
+A large majority of the municipal police (92%),
+sheriffs' (82%),and county police (79%)
+departments trained at least some of their
+in-service officers in community policing.  Most
+State police agencies (62%) did so as well.  For
+municipal police, sheriffs' departments,  and
+State police agencies these percentages were
+higher than in 1997.
+
+During the 12-month period ending June 30, 1999,
+a majority of local law enforcement agencies
+with 100 or more officers trained citizens in
+community policing (72%), formed problem-solving
+partnerships through written agreements (60%),
+and actively encouraged patrol officers to
+become involved in problem-solving projects that
+utilized community policing concepts (64%).
+
+Nearly all larger local law enforcement agencies
+met with community groups during the 12-month
+period ending June 30, 1999, as did 78% of State
+agencies.  Local police agencies were most
+likely to meet with neighborhood associations
+(96%), school groups (88%), and business groups
+(84%).  
+
+During the 12-month period ending June 30,1999,
+most larger local law enforcement agencies
+surveyed citizens (57%) on issues such as their
+satisfaction with police services (51%) and
+their perceptions of crime problems (45%).  
+
+About a third of State and local law enforcement
+agencies with 100 or more officers provided
+citizens with routine access to crime statistics
+or crime maps over the Internet, more than twice
+the proportion that did so in 1997.
+
+Operations
+
+From 1997 to 1999, the percentage of larger
+local law enforcement agencies using routine
+bicycle patrol increased from 62% to 79%, and
+the percentage using foot patrol units on a
+routine basis increased from 44% to 62%. 
+
+Almost all of the Nation's larger county  police
+(97%), municipal police (94%), and sheriffs'
+(90%) departments participated in an enhanced
+9-1-1 system in 1999, as did about half of State
+agencies.  From 1997 to 1999, the percentage of
+larger local law enforcement agencies with
+enhanced 9-1-1 increased from 83% to 93%.  
+
+Nearly all local law enforcement agencies with
+100 or more officers were responsible for
+investigating serious violent and property
+crimes occurring in their jurisdiction, as were
+about half of State agencies.  Local agencies
+were more likely than State agencies to be the
+lead investigative agency for computer-related
+(74% versus 43%), and environmental (39% versus
+22%) crimes.
+
+About half of State agencies performed
+investigative support functions such as
+fingerprint processing (55%), crime lab
+services (53%), and ballistics testing (43%). 
+Local agencies were more likely than State
+agencies to handle fingerprint processing (81%),
+but less likely to provide crime lab services
+(38%) or ballistics testing (16%).
+
+Nearly all State and local agencies with 100 or
+more officers were responsible for traffic law
+enforcement and accident investigation.  About
+four-fifths had traffic direction and control
+duties.  A majority of local agencies were
+responsible for parking enforcement (77%) and
+school crossing (60%) services.
+
+Most State (73%) and local (87%) agencies with
+100 or more officers performed special weapons
+and tactics (SWAT) operations.   A majority of
+sheriffs' (76%) and county (58%)police
+departments also handled search and rescue
+operations. County police (61%) were the most
+likely to handle bomb disposal, although about
+half of State police and sheriffs' departments
+performed this function as well.  
+
+Nearly all sheriffs' departments and offices
+with 100 or more officers performed
+court-related functions such as executing
+arrest warrants, providing court security and
+serving civil process.  Ninety percent of these
+agencies also operated at least one jail.
+
+Nearly 4 in 5 State and local law enforcement
+agencies dispatched calls for service, and a
+majority of State (82%) and county (68%) police
+agencies operated a training academy.  
+
+Computers and information systems 
+
+More than 90% of State police agencies used some
+type of mobile computer or  terminal in 1999, as
+did 76% of larger local law enforcement
+agencies.  These percentages were similar to
+those reported in 1997.
+
+From 1997 to 1999, the percentage of State and
+local agencies employing 100 or more officers
+that provided in-field computer access to prior
+calls for service information, criminal
+histories, driving records, and vehicle records
+increased slightly.  In 1999 more than half of
+these agencies provided at least some patrol
+officers with direct access via in-field
+computer to information on wanted suspects and
+driving records. 
+
+In 1999, 82% of the Nation's larger State and
+local law enforcement agencies primarily used
+paper reports to transmit field report data to
+their central information system, down from
+86% in 1997.  Alternative methods included the
+use of telephone lines, computer media, data
+devices, and wireless transmission. 
+
+A higher percentage of larger local law
+enforcement agencies were using computerized
+geocoding and mapping data in 1999 than
+in 1997.  Increases were reported in the use of
+geocoding and mapping of data for crime
+incidents (from 49% to 64%), calls for
+service (44% to 57%), and arrests (36% to 45%). 
+
+Increased use of computerized formats for
+information storage was observed in 1999
+compared with 1997.   Increases among local
+agencies by information type included alarms
+(87% in 1999, 74% in 1997); arrests (98%, 93%);
+criminal histories (83%, 78%); evidence (89%,
+81%); field interviews (75%, 66%); incident
+reports (93%, 88%); stolen property (87%, 75%);
+traffic accidents (82%, 73%); traffic citations
+(77%, 67%); vehicle registration (47%, 30%;
+warrants (85%, 77%). 
+
+Written policy directives
+
+For most subject areas covered by the LEMAS 
+survey, a higher percentage of agencies had a
+written policy covering that topic in 1999 than
+in 1997.  For example, 86% of local agencies had
+a written policy covering discretionary arrest
+power in 1999 compared to 73% in 1997; and 90%
+had a policy on maximum work hours allowed for
+officers in 1999 compared to 68% in 1997.
+
+
+Foreword
+
+The Bureau of Justice Statistics (BJS) began the
+Law Enforcement Management and Administrative
+Statistics (LEMAS) program in 1987 with a
+nationwide survey of State and local law
+enforcement agencies.  Updated versions of the
+survey were completed in 1990, 1993, and 1997. 
+The current volume presents 1999 data
+provided by 700 local and 49 State local law
+enforcement agencies employing 100 or more
+full-time officers. Data on personnel,
+operations, computers and information systems,
+and written policies are presented.  
+
+As in 1997, this volume also includes a
+community policing section based on survey
+questions developed by the Office of Community
+Oriented Policing Services (COPS).  An outgrowth
+of the ongoing collaboration between BJS and
+COPS, the 1999 LEMAS survey is expected to be
+instrumental in assessing the state of
+law enforcement, specifically community
+policing, in the United States.  Funding for its
+administration was provided by COPS.
+
+Since the advent of the 1994 Violent Crime Act,
+COPS has been tasked with funding 100,000 new
+officers by the year 2000 and advancing
+community policing nationwide.  Towards this
+end, the COPS Office created numerous grant
+programs to hire additional police officers and
+to promote the practice of community policing. 
+The inclusion of community policing questions in
+the 1997 and 1999 LEMAS surveys is but one step
+in assessing the potential impact these programs
+have on law enforcement agencies across the
+country.
+
+We are pleased to present the results of the
+1999 LEMAS survey, and are confident that the
+information gleaned from these data will help
+further our knowledge of law enforcement as it
+exists today.  We hope the results of the survey
+will provide law enforcement agencies an
+opportunity to assess their progress in
+community policing relative to that of
+comparable jurisdictions. In closing, we
+gratefully acknowledge the participation of
+those agencies that have given us a glimpse into
+their law enforcement practices and hope that
+this information will be of use to them
+and the communities they serve. 
+
+Thomas C. Frazier                  . 
+Director  
+Office of Community Oriented Policing Services   
+ 
+Jan M. Chaiken, Ph.D.
+Director
+Bureau of Justice Statistics
+
+
+Introduction
+
+The 1999 Law Enforcement Management and
+Administrative Statistics (LEMAS) survey
+included all State and local agencies
+employing 100 or more full-time sworn personnel
+as reported in a BJS census of State and local
+law enforcement agencies conducted in 1996.  The
+survey also included a nationally representative
+sample of agencies that employed fewer than 100
+officers.  These smaller agencies are covered in
+separate BJS reports.
+
+The 1999 LEMAS questionnaire was mailed to the
+same agencies that received the 1997 version. 
+The initial mailing of the 1999 form was
+conducted in July 1999.  The reference date for
+all personnel-related questions was the pay
+period that included June 30, 1999.  For other
+questions it was June 30, 1999 unless otherwise
+indicated.  The data were collected by the
+Bureau of the Census for BJS.
+
+A total of 3,319 agencies received the 1999
+LEMAS questionnaire,and 3,246 (97.8%) responded. 
+Of the 895 agencies with 100 or more officers
+that received the survey, 883 (98.6%) responded.
+This was the fifth survey in the LEMAS program
+with previous data collections occurring in
+1987, 1990, 1993, and 1997.  
+
+Overview of this volume
+
+This volume presents individual agency data for
+749 larger State and local law enforcement
+agencies that responded to the 1999 LEMAS
+survey.  Agencies with special geographic
+jurisdictions such as university campuses,
+public school districts, transportation systems,
+parks and recreation facilities, airports,
+waterways, public housing, or State government
+buildings are excluded.  Agencies with special
+enforcement responsibilities such as natural
+resource and conservation laws, alcohol control
+laws, or agricultural laws are also excluded. 
+
+The volume includes the 49 primary State law
+enforcement agencies operating in each State
+except Hawaii.  (The Hawaii Department of Public
+Safety primarily performs court-related duties).
+
+General purpose local law enforcement agencies
+that responded to the LEMAS survey are included
+as long as they met the following
+criteria: 
+
+     1.  Employment of 100 or more full-time
+sworn officers as of June 1996 (reference month
+for the 1996 agency census).
+     2.  Employment of 100 or more full-time
+sworn officers as of June 1999 (reference month
+for the 1999 LEMAS survey.
+     3.  Employment of 50 or more full-time
+uniformed sworn officers with regular assigned
+duties that included responding to calls for
+service as of June 1999.
+
+A total of 700 local law enforcement agencies
+are included. This includes 31 county police
+departments, 487 municipal police departments,
+and 182 sheriffs' departments and offices. 
+Local agencies from every State except North
+Dakota, Vermont, and Wyoming are included. 
+These States had no local agencies that
+met the above requirements for inclusion.   
+
+Organization of data tables 
+
+A summary of the number and type of agencies
+from each State is in table A.
+
+Table B lists the local law enforcement agencies
+employing 1,000 or more full-time sworn
+personnel that included 500 or more uniformed
+officers whose regular assigned duties included
+responding to calls for service.  These are the
+agencies with the largest number of sworn
+personnel providing direct law enforcement
+services.
+
+Table C presents summary data, by type of
+agency, for the variables that are included in
+the individual agency tables that follow.  The
+reader should refer to the notes in the
+corresponding individual data agency tables when
+using data from table C.
+
+Following the 3 summary data tables are tables
+containing individual data for State and local
+law enforcement agencies with 100 or more
+officers.  The 19 tables for local agencies are
+presented first as tables 1a through 19a. 
+Following the local agency tables are tables 1b
+through 19b covering the State agencies.  
+
+Local agencies are listed alphabetically by
+State and county. Within each county, the county
+sheriffs' department or county police department
+is listed first, if applicable.  These are
+followed, in alphabetical order, by the
+municipal police agencies operating within that
+county.  
+
+The reader should refer to the note following
+each table for the explanation of symbols and
+codes as well as other important information.  
+A triple dash ("---") is used in all tables to
+indicate that a particular data item was not
+provided by an agency. 
+
+
+
+End of ascii file
+th 11/9/00 
+
+
+
