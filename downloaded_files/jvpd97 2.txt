@@ -1,0 +1,785 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+Technical Report
+
+Justice Expenditure and Employment
+Statistics
+            
+Justice Variable
+Passthrough Data, 1997
+            
+Sidra Lea Gifford
+BJS Statistician 
+
+Stephen D. Owens
+Chief, Public Finance Analysis Branch
+U.S. Census Bureau
+
+
+November 2001, NCJ 190359
+
+
+---------------------------------------------------------
+This file is text only without graphics and many of the
+tables.  A Zip archive of the tables in this report in
+spreadsheet format (.wk1) and the full report including
+tables and graphics in .pdf format are available from:
+http://www.ojp.usdoj.gov/bjs/abstract/jvpd97.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series
+go to http://www.ojp.usdoj.gov/pubalp2.htm#Justice
+Variable Passthrough Data.
+-----------------------------------------------
+
+-----------------------------------------------
+Highlights
+
+The State share of expenditures 
+for justice has increased from 
+29% in 1971 to 41% in 1997
+
+*  In 1997 State and local governments
+spent $103 billion of their own-source
+revenues on police, prosecution and
+judicial activities, and corrections.
+
+*  Local governments spent more on
+justice functions than did State
+governments. In 1997 the national ratio 
+of local to State spending was 59% to 
+41%.
+
+*  The State with the lowest variable
+passthrough (VPT) percentage was
+Alaska, with 24% being passed through 
+to the local governments.
+
+*  The State with the highest VPT percent
+was Nevada, with a local share of 72%.
+
+*  Since 1990, the last year in which the
+VPT was calculated, the percent required
+for passthrough to the local governments
+has increased slightly, from 57% to 59%.
+
+*  In Nevada, Pennsylvania, and Tennessee, 
+the impact of the new VPT will be greatest.  
+The amounts of their Byrne Formula awards 
+that must be passed through to local govern-
+ments will increase by more than 20%.
+-----------------------------------------------
+
+BJS provides the variable passthrough
+(VPT) data for use in the Edward Byrne
+Memorial State and Local Law Enforcement 
+Assistance Programs authorized by the Anti-
+Drug Abuse Act of 1988, as amended (Public 
+Law 90-351). The Byrne program focuses on 
+assisting State and local law enforcement 
+with the control of violent and drug-related 
+crime and serious offenders, in support of
+national drug-control priorities (box on
+page 2). 
+
+The Byrne program includes a discretionary 
+grant program and a block grant program.  
+This report describes the development of 
+data used to compute the block grant formula.  
+According to Public Law 90-351, the formula 
+for distributing block grant funds to the 
+States is based on each State's percentage 
+of the total US population; the VPT data 
+indicate how funds are to be distributed 
+to State agencies compared to the localities 
+within each State.  In conjunction with 
+the BJS Justice Expenditure and Employment
+Statistics Program, BJS estimates VPT
+distributions by conducting the Justice
+Assistance Data Survey (JADS)
+periodically, most recently in 1997.
+
+Features of the block grant program
+
+Eligibility
+
+Under Public Law 90-351, the 50 States,
+the District of Columbia, Puerto Rico, 
+and the U.S. Virgin Islands are each 
+considered eligible State-level 
+jurisdictions.  In addition, the 
+Territories of Guam, American Samoa, and 
+the Northern Mariana Islands share a State
+allocation.
+
+---------------------------------------
+Byrne Program purposes
+
+Grants may be used to provide personnel,
+equipment, training, technical assistance,
+information systems, victim assistance,
+prosecution and adjudication services,
+detention, and rehabilitation.
+
+Byrne Program mandates
+
+*  States must use at least 5% of their 
+formula grant awards for the improvement 
+of criminal justice records.
+*  States must develop methods to notify
+the U.S. Immigration and Naturalization
+Service (INS) of alien convictions and to
+provide records of those convictions to
+INS.
+*  States must enact and enforce a law
+that requires sex offenders to be tested
+for HIV if the victim requests such testing.
+*  States must establish 10-year
+registration requirements for persons
+convicted of certain crimes against minors
+and sexually violent offenses and a more
+stringent set of registration requirements
+for sexually violent predators.
+
+For more information about the Byrne
+Program, see Bureau of Justice
+Assistance's Fact Sheet Edward Byrne
+Memorial State and Local Law
+Enforcement Assistance (July 2001).
+------------------------------------------------
+
+Eligible local governments include "any
+city, county, township, town, borough,
+parish, village, or other general purpose
+political subdivision of a State, any law
+enforcement or judicial enforcement district 
+that is established under applicable State 
+law; and has the authority to, in a manner 
+independent of other State entities, 
+establish a budget and impose taxes, an 
+Indian tribe that performs law
+enforcement functions as determined by
+the Secretary of the Interior, or, for 
+the purpose of assistance eligibility, 
+any agency of the government of the 
+District of Columbia or the Federal Govern-
+ment that performs law enforcement functions 
+in and for the District of Columbia, or 
+any the Trust Territory of the United
+States.***Footnote 1:  As defined in 
+Public Law 90-351 sec. 901 (a)(3).***
+
+Formula
+
+Public Law 90-351 contains a formula for
+distributing the funds available for block
+grants to the States. In general, this
+formula --
+
+*  Reserves some funds for Bureau of
+Justice Assistance discretionary grants
+and administrative costs
+
+*  Awards to each State a base amount of
+money specified in the legislation (0.25%
+of the total allocation)
+
+*  Allocates the remaining funds to each
+State according to its percentage in the
+total U.S. population
+
+*  Requires a minimum passthrough amount 
+to local governments based on the percentage 
+of funds expended by units of local 
+government relative to the total State and 
+local criminal justice expenditure in the 
+State.
+
+The specific features of the formula used
+to distribute the block grants among
+States have changed several times since
+1968 when Public La w 90-351 was enacted.  
+This report provides the basis for the 
+amount of Federal funds retained at the 
+State level and the amount distributed to 
+local jurisdictions within the State.
+
+Calculation of the variable 
+passthrough percentages 
+
+The Justice Expenditure and Employment
+Series and the JADS, which produce the
+VPT data, collect extensive, detailed 
+data for three justice functions (police
+protection, judicial and legal, and
+corrections) and for three character and
+object classes (current operations, 
+capital outlay, and intergovernmental
+expenditure). 
+
+Public Law 90-351 indicates that
+expenditures used in the calculation of
+variable passthrough percentages are to
+be from a government's "own revenue
+sources."  Thus, a government would not
+benefit from spending another
+government's money, as in revenue from
+payments for boarding prisoners. 
+Expenditures from sales or property tax
+revenue are included; amounts expended
+from intergovernmental revenue, such as
+Federal grant monies, are excluded.
+
+The computation of own-sources
+expenditure involves summing certain
+character and object classes of
+expenditure within each State.  From 
+this total are subtracted certain revenue
+amounts for the State government and for
+the aggregate of local governments within
+the State.
+
+In general, the own-sources computations
+assume that all intergovernmental
+payments received by a government will
+be expended during the same fiscal year. 
+While every jurisdiction did not spend all
+the money received, the total generally
+balanced out because some jurisdictions
+spent money received in 1996 while
+others did not spend all money received 
+in 1997.
+
+The local government totals within a State
+are actual amounts based on the 1997 Census 
+of Governments. The Federal revenue amounts 
+received by local governments are actual 
+1997 amounts received during the Federal
+fiscal year which ran from October 1,
+1996, through September 30, 1997. These 
+amounts were derived from the Federal 
+Assistance Award Data System (FAADS) 
+developed by the Census Bureau. The local 
+government own-sources calculation --
+
+ *  Use actual expenditures for 
+ all local governments in the State 
+ 
+ *  Use actual Federal revenue
+ amounts received by all local
+ governments
+ 
+ *  Use the actual amount of payments
+ made by the State government to local
+ governments according to State
+ records
+ 
+ *  Do not use intergovernmental
+ expenditures between local
+ governments within the State (which
+ would  result in double-counting).
+ 
+1997 variable passthrough
+percentages
+
+In fiscal 1997 the VPT share for local
+governments ranged from 24% in Alaska
+to 72% in Nevada.  Conversely, the State
+share in these States ranged from 76% in
+Alaska to 28% in Nevada.  Most States
+showed less dramatic differences between 
+the State and local share:  the national 
+ratio was 59.2% local to 40.8% State.
+
+The organization of criminal justice
+functions in each State can affect the 
+ratio of State-to-local own-sources expendi-
+ture. For instance, State governments with 
+low VPT percentages tend to have more 
+criminal justice services at the State level
+relative to States where similar services
+are delivered at the local level.  Alaska,
+with a State share of 76%, Delaware with
+73%, Vermont with 71%, and Connecticut
+with 62% are examples of States in which
+the majority of courts, public defense
+systems, and correctional systems are
+funded at the State level.
+ 
+-------------------------------------------------
+Examples of own-source revenues
+
+Taxes                                                        
+ Property              
+ General sales    
+ Motor vehicle license          
+ Motor fuel   
+ Income (individual and
+ corporate)    
+ Death/gift 
+Utility revenue 
+Liquor store revenue
+Insurance trust receipts for: 
+ Employee retirement 
+ Unemployment compensation
+                                                                     
+Charges and fees
+    Parking          
+    Sanitation        
+    Parks and recreation
+    Airport      
+    Toll roads
+    Hospital fees
+    College tuition
+Special assessments
+Interest earnings 
+Sale of government property
+Bond issue proceeds
+
+Examples of revenues not from own-
+sources
+
+Federal payments received for:            
+    Housing Federal prisoners 
+Police overtime in emergencies 
+State assistance payments received for:
+ Aid to local police
+ Aid to local corrections 
+State or local payments received for:    
+    Housing another government's
+       prisoners 
+ Providing police protection to 
+       another government 
+ Training another government's
+       justice personnel
+
+Federal grants
+   Juvenile justice grants
+   Anti-drug abuse grants
+
+Alcohol safety program
+  Child support enforcement
+  Research participation
+  Victim assistance
+------------------------------------------------
+
+-----------------------------------------------
+Coumputing own-source expenditure for 
+State governments
+
+A State government's total justice
+expenditure is derived by summing the
+State government's justice expenditures
+for --   
+  Current operations
+  Capital outlay
+  Intergovernmental expenditure 
+  to local governments. 
+
+To produce the State government's
+own-sources expenditure, the following 
+are deducted from the total:
+
+ Justice revenue received directly 
+    from the Federal Government
+ Local justice payments to the State
+    government
+
+Cumputing own-source expenditure for
+local governments
+
+The total justice expenditure for all local
+governments in a State is derived by
+summing the total local justice
+expenditures for--
+    Current operations
+    Capital outlay
+    Intergovernmental expenditure 
+    to the State.
+
+To produce own-sources expenditure for
+all local governments in the State the
+following are deducted from the total:
+
+ Revenue directly from the Federal
+    Government and earmarked for
+    justice purposes
+
+ State payments to local governments
+    for justice purposes, including
+    Federal grants "passed through" 
+    to the State government
+----------------------------------------------------
+
+Why variable passthrough 
+percentages change
+
+In fiscal 1990, the last year in which these
+data were calculated, the VPT percentage
+for local governments ranged from 22% in
+Alaska to 67% in Minnesota.  Most States
+were similar to the national State-to-local
+ratio of 42.6% to 57.4%.  The new data,
+based on 1997 expenditures, effectively
+increased the share of funds going to the
+local governments.  The national ratio is
+40.8% to the States and 59.2% to the
+localities.  The State with the highest
+passthrough percentage is California, with
+67% going to the local governments. The
+State with the lowest percentage to be
+passed through to local governments is
+still Alaska, with 24%.
+
+Between 1971 and 1990, the State share
+of variable passthrough percentages
+increased steadily from 28.9% to 42.6%
+(Highlights).  Although there was a slight
+decrease from 1990 to 1997, future JADS
+conducted using the 1997 methodology
+should indicate a continuing trend of
+increasing State shares.
+
+State shares decreased from 42.6% in
+1990 to 40.8% in 1997 because the
+Federal grants portion was collected
+differently in 1997.  Prior to 1997
+respondents were asked to provide
+information for specific justice grants 
+that they may have received during the 
+fiscal year.  In 1997 the grant information 
+was pulled from the FAADS survey.  This
+survey goes to all Federal grant-making
+agencies every 3 months and asks for the
+types and amounts of Federal grants
+given to State and local governments.
+This approach is more accurate because
+it collects information from a few 
+granting agencies as opposed to thousands 
+of State and local governments.  
+
+Several new Federal justice grants were
+authorized in the period spanning from
+1990 to 1997, which can impact the
+proportion of State to local expenditure. 
+The most notable of which was the Child
+Support Enforcement Grant program.  In
+1988 State and local governments
+reported approximately $529 million in
+justice revenue receipts.  In 1997 State
+and local governments received over $2.5
+billion from the Child Support Enforcement
+program alone.  Over $2 billion of this
+amount was granted directly to the States,
+in effect reducing their own-source
+expenses for child support enforcement. 
+The remainder went to the local
+governments, reducing their own- source
+expenses to a lesser degree.
+
+The VPT percentages for individual States
+can vary widely from year to year.  Prison
+and jail construction can have considerable 
+impact on the VPT percentages because the 
+expenditures can be tabulated in the year 
+in which construction of the facility began, 
+not necessarily the year(s) in which the 
+cost was incurred.  State governments that 
+had large capital outlays for prison
+construction in 1990, but not in 1997, had
+State-share decreases in the VPT
+percentages in 1997, all other factors
+being constant.  
+
+Prison construction in 1990 combined with
+reduced construction expenditures in 1997 
+contributed to the following decreases in 
+State VPT percentages:
+
+ Kansas, down 9.6 percentage points
+ Alabama, down 9.2 points
+ Virginia, down 5.1 points
+ North Dakota, down 2.5 points
+ Connecticut, down 1.3 points.
+
+In some States large capital outlays for
+corrections and increases in current
+operations expenditure increased the
+State VPT share for 1997 relative to 1990. 
+This was the situation in Pennsylvania, 
+up 8.8 percentage points, and in Montana, 
+up 6.0 points.
+
+Between 1990 and 1997 the Commonwealth of 
+Massachusetts abolished a few of its county 
+governments and absorbed their justice 
+functions.  This contributed to the slight 
+increase in the State share in Massachusetts.
+
+States with considerable increases in
+funding between 1990 and 1997 often
+displayed corresponding increases in their
+State VPT shares.  The State than doubled 
+their total criminal justice spending 
+during the period and had subsequent 
+increases in their VPT shares.
+
+Methodology
+
+The expenditure data used to calculate
+the variable passthrough percents were
+collected by the Census Bureau for BJS
+during the 1997 Census of  Governments. 
+Data were collected for -- 
+ All State governments
+ All county governments
+ All municipal and township   
+ governments.
+              
+The Census included a total of 39,044
+local governments (3,043 county
+governments, 19,372 municipalities, and
+16,629 townships).  The District of
+Columbia was treated as a municipal
+government.  Expenditure data were not
+collected for Puerto Rico and the
+territories because their justice
+expenditures occur at only one level of
+government and the VPT does not apply
+to them.
+
+Data collection
+              
+From August 1997 to September 1998
+Census Bureau employees compiled
+expenditure data from government
+records for the 50 States, 25 largest
+counties, and 24 largest cities.  The
+Census Bureau mailed questionnaires 
+to the other local governments in
+November 1997.  Nonresponse follow-up
+was conducted until the response rate 
+for local governments reached 85%. 
+Response for field-compiled units was
+100%.  Subsequently an effort was made
+to canvass State agencies that performed
+justice functions, but not as their 
+primary function.  Responses varied by 
+State. Data collected were added to
+existing State justice expenditures.
+
+The survey period
+
+The State expenditure data presented in
+this report cover the fiscal year ending
+June 30, 1997, for all States except four
+whose fiscal years ended as follows:  New
+York, March 31, 1997; Texas, August 31,
+1997; and Alabama and Michigan, September 
+30, 1997.  Some State agencies operate on 
+a different fiscal year basis from the State 
+government.  In such instances, the data in 
+this report are for the agency's fiscal year 
+that ended within the State's regular 
+fiscal year. For local governments the 
+expenditure data here are for the 
+governments' fiscal years that ended 
+between July 1, 1996, and June 30, 1997.  
+By using the July 1, 1996, to June 30, 
+1997, reference period, some governments' 
+data are for a fiscal year that the local 
+government may refer to as fiscal 1996, 
+for example those that ended December 31, 
+1996.  The fiscal year reported for 
+Washington, D.C., ended September 30, 
+1997.
+
+Limitations of the data
+
+Readers should compare States with
+caution.  Differences in functional
+responsibilities from State to State 
+affect the comparability of the data.  
+Some State governments directly administer 
+activities that local governments 
+administer in other States; for example, 
+the State governments of Alaska, Connecticut,
+Delaware, Hawaii, Rhode Island, Vermont, 
+and to some extent Massachusetts operate 
+local jails as well as State prisons.
+
+All data are subject to possible
+inaccuracies in classification, response,
+and processing.  Every effort was made to
+keep such errors to a minimum by careful
+examining, editing, and tabulating of the
+data submitted by government officials
+and by extensive follow-up procedures to
+clarify inadequate or inconsistent survey
+returns.
+
+Definitions of terms
+
+More explicit definitions can be found in
+the Justice Expenditure and Employment
+Extracts, 1997, at <http://www.
+ojp.usdoj.gov/bjs/abstract/jeee97.htm>. 
+The following definitions are the same as
+those presented in the 1990 report.
+
+Total expenditure includes only external
+cash payments made from any source of
+monies, including any payments financed
+from borrowing, fund balances,
+intergovernmental revenue, and other
+current revenue.  It excludes any
+intragovernmental transfers and noncash
+transactions, such as providing
+employees' meals or housing.  It also
+excludes retirement of debt, investment in
+securities, extensions of loans, agency
+transactions, and government
+contributions for employee benefits.
+
+Variable passthrough percentages are
+developed to comply with the Omnibus
+Crime Control and Safe Streets Act of
+1968, as amended (Public Law 90-351),
+which requires that the block grants 
+made by the Bureau of Justice Assistance 
+(and formerly by the Law Enforcement
+Assistance Administration) to each State
+be allocated between the State and local
+governments according to the ratio of
+State-to-local criminal justice
+expenditures.  The legislative history of
+this act indicates that these expenditures
+are to be own-source expenditures.
+
+Unit of local government as specified by
+Public Law 90-351, only includes
+expenditures of units of general local
+government, and independent law
+enforcement or judicial enforcement
+districts.  Of the five broad classes 
+of local government identified by the 
+Census Bureau, the Public Law 90-351 
+definition encompasses three (counties,
+municipalities, and township or "town"
+governments), part of one (special
+districts), and excludes another
+(independent school districts) 
+altogether. Only special district 
+governments whose primary function is 
+law enforcement are included.  Thus, a 
+transit authority that has a police 
+force would not be eligible as its 
+primary function is public transit.
+
+Justice expenditure includes the justice
+functions of police protection, 
+adjudication, prosecution, and legal
+services, public defense, corrections, and
+a residual "other" category, as defined
+below.
+
+Police protection is the function of
+enforcing the law, preserving order, and
+apprehending those who violate the law,
+whether these activities are performed by
+a city police department, sheriff's
+department, or State police.  Private
+security police are outside the scope of
+the survey, but government contract
+payments to a private security firm would
+be tabulated as direct expenditures of the
+government.
+
+Adjudication includes all civil and criminal
+courts and activities associated with
+courts such as clerks of court, law
+libraries, grand juries, and petit juries.
+
+Prosecution and legal services includes
+the civil and criminal justice activities 
+of the attorneys general, district attorneys,
+State's attorneys (and their variously
+named equivalents), and corporation
+counsels, solicitors, and legal departments 
+with various names.  It also includes 
+government payments to private legal counsel.
+
+Public defense includes legal counsel and
+representation in either criminal or civil
+proceedings as provided by public defenders 
+and other government programs that pay the 
+fees of court-appointed counsel.
+
+Corrections involves the confinement and
+rehabilitation of adults and juveniles
+convicted of offenses against the law and
+the confinement of persons suspected of
+a crime awaiting trial or adjudication. It
+includes jails, prisons, probation, parole,
+pardon, and correctional administration. 
+It includes drug treatment and rehabilitation 
+programs that are administered by a justice 
+agency.
+
+Other justice activities includes
+expenditures that are not elsewhere
+classified, that cut across more than one
+category, or that are not allocable to
+separate categories.  Examples are crime
+commissions, neighborhood crime councils, 
+State criminal justice coordinating councils, 
+and criminal justice planning agencies.
+
+Sources of additional information
+
+To obtain other reports on Justice
+Expenditure and Employment Statistics,
+visit the BJS website at
+<http://www.ojp.usdoj.gov/bjs/
+eande.htm>
+
+Further information about the Bureau of
+Justice Assistance grant programs is
+available on the Internet at
+<http://www.ojp.usdoj.gov/BJA/html/
+fund1.html>
+
+In addition, information about both BJS's
+Justice Expenditure and Employment
+Series and BJA's Byrne Program can be
+obtained from the National Criminal
+Justice Reference Service
+(1-800-732-3277). 
+
+-----------------------------------------
+The Bureau of Justice Statistics is the 
+statistical agency of the U.S. Department 
+of Justice.  Lawrence A. Greenfeld is 
+acting director.
+                    
+Sidra Lea Gifford, statistician in the Law
+Enforcement, Adjudication, and Federal
+Statistics Unit at BJS, and Stephen D.
+Owens, Chief of the Public Finance
+Analysis Branch in the Governments
+Division at the  Bureau of the Census,
+wrote this Technical Report.  Steven K.
+Smith at BJS supervised this project. 
+Tom Hester edited the report and Jayne
+Robinson prepared it for final production. 
+At the Census Bureau, Paul C. Clark II
+performed legal research for the project,
+and Lynn Zhao coordinated the
+supplemental State data collection.
+
+November 2001, NCJ 190359
+-------------------------------------------
+
+End of file
+11/07/01 ih
