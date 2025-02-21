@@ -1,0 +1,4043 @@
+U.S. Department of Justice
+Office of Justice Programs
+Bureau of Justice Statistics
+
+Compendium of Federal Justice Statistics, 
+1998
+
+
+May 2000, NCJ 180258
+
+
+------------------------------------------------------------------
+This file is text only without graphics and many of the tables. 
+A Zip archive of the tables in this report in spreadsheet format 
+(.wk1) and the full report including tables and graphics in
+.pdf format are available from: 
+http://www.ojp.usdoj.gov/bjs/abstract/cfjs97.htm
+
+This report is one in a series.  More recent editions
+may be available.  To view a list of all in the series
+go to http://www.ojb.usdoj.gov/bjs/pubalp2.htm#cfjs      
+ -------------------------------------------------------------------
+
+ Jan M. Chaiken, Ph.D.
+Director, BJS
+
+This Bureau of Justice Statistics Report was prepared by the
+Urban Institute under the supervision of Steven K. Smith and
+John Scalia, Jr., of the Bureau of Justice Statistics (BJS). 
+The project is supported by BJS grant number 98-BJ-CX-K015. 
+Principal staff for the project at the Urban Institute were
+William J. Sabol, Ph.D., William Adams, David Kirk, Barbara
+Parthasarathy, Harvey Meyerson, Yan Yuan, and Christine Arriola.
+Layout and design were by David Williams.  Tom Hester of BJS
+provided editorial review.
+
+This report is made possible through the cooperation of the
+following Federal agencies and their staffs:  The United States
+Marshals Service (USMS), the Administrative Office of the United
+States Courts (AOUSC), the Executive Office for U.S. Attorneys
+(EOUSA), the U.S. Bureau of Prisons (BOP), the United States
+Sentencing Commission (USSC), and the Federal Judicial Center
+(FJC).  The staff who provided expert advice about the source
+records include: Steven Schlesinger, Catherine Whitaker, Karen
+O'Conor, and Pragati Patrick (AOUSC); Barbara Tone (EOUSA);
+Gerald Gaes and Nancy Miller (BOP); Richard McNeil (USSC); David
+Rauma and George Cort (FJC); and Joe Briggs (USMS).
+
+The contents of this document do not necessarily reflect the
+views or policies of the Bureau of Justice Statistics or the
+U.S. Department of Justice.
+
+BJS authorizes any person to reproduce, publish, translate, or
+otherwise use all or any part of the copyrighted material in
+this publication; citation to source, however, is appreciated.
+
+An electronic version of this report and the data analyzed in
+the report may be found on the Internet at the following
+address:  http://www.ojp.usdoj.gov/bjs/.   Or visit the
+BJS-sponsored Federal Justice Statistics Resource Center (FJSRC)
+web site at: http://fjsrc.urban.org/, which provides online
+access to the FJSP database for conducting interactive
+tabulations of the FJSP data and downloading datasets.
+
+Contents
+
+Highlights
+
+Introduction
+
+Organization of the Compendium
+Modifications to the 1998 Compendium
+Notes to reader
+
+System overview
+
+Chapter 1:  Arrests for Federal 
+offenses
+
+
+Arrests by offense category
+Arrests by law enforcement agencies
+Arrests across demographic groups
+
+
+Chapter notes
+
+Chapter 2:  Prosecution
+
+U.S. attorneys' decisions
+Suspects in matters received
+Suspects in matters concluded
+
+ 
+Chapter notes
+
+Chapter 3:  Pretrial release
+
+Types of pretrial release
+Factors relating to release or detention
+Pretrial outcomes by offense categories
+Pretrial outcomes across demographic groups
+Length of pretrial detention
+
+
+Chapter notes
+
+Chapter 4:  Adjudication
+
+Defendants in cases filed
+Defendants in cases terminated
+Case processing times
+Convictions by U.S. magistrates
+Characteristics of convicted defendants
+
+
+Chapter notes
+
+Chapter 5: Sentencing
+
+Offenders convicted and sentences imposed
+Average prison sentences imposed
+Relationship between sentence imposed and mode of conviction
+Characteristics of offenders sentenced
+to prison
+
+
+Chapter notes
+
+Chapter 6: Appeals
+
+Appeals filed
+Appeals terminated
+
+
+Chapter notes
+
+Chapter 7: Corrections
+
+Supervision
+Federal offenders under supervision
+Outcomes of offenders completing supervision
+Characteristics of offenders completing supervision
+Admissions, releases, and standing
+population of Federal prisoners
+Federal prisoners: First releases and
+time served
+Characteristics of Federal prisoners
+
+
+Chapter notes
+
+Methodology
+
+The Federal justice database
+Table construction and interpretation
+Offense classifications
+
+Figure S.2.
+
+Source agencies for Compendium data tables
+
+Glossary
+
+Tables  
+
+Chapter 1:  Arrests for Federal 
+offenses, 15
+
+October 1, 1997 - September 30, 1998
+
+1.1. Arrests for Federal offenses, by 
+     offense
+
+1.2. Arrests for Federal offenses, by 
+     Federal law enforcement agency
+
+1.3. Characteristics of Federal arrestees
+
+Chapter 2:  Prosecution,  25
+
+October 1, 1997 - September 30, 1998
+
+2.1. Suspects in matters received by 
+     U.S. attorneys, by offense
+
+2.2. Disposition of suspects in matters 
+     concluded, by offense
+
+2.3. Suspects in matters concluded and 
+     declined, by investigating agency
+
+2.4. Basis for declination of prosecution 
+     by U.S. attorneys
+
+2.5. Disposition of matters declined
+     for prosecution by U.S. attorneys, 
+     by offense
+
+2.6. Mean and median processing times 
+     from receipt to filing or declination, 
+     by offense
+
+Chapter 3:  Pretrial release,  39
+
+October 1, 1997 - September 30, 1998
+
+3.1. Type of pretrial release, by offense
+
+3.2. Type of pretrial release,
+     by defendant characteristics
+
+3.3. Form of pretrial detention,
+     by offense
+
+3.4. Form of pretrial detention,
+     by defendant characteristics
+
+3.5. Pretrial detention hearing 
+     outcomes, by offense
+
+3.6. Pretrial detention hearing 
+     outcomes, by defendant
+     characteristics
+
+3.7. Behavior of defendants released 
+     prior to trial, by offense
+
+3.8. Behavior of defendants released 
+     prior to trial, by type of release
+
+3.9. Behavior of defendants released 
+     prior to trial, by defendant 
+     characteristics
+
+3.10.Length of pretrial detention, by form 
+      of release or detention, and most 
+      serious offense charged
+
+Chapter 4:  Adjudication,  53
+
+October 1, 1997 - September 30, 1998
+
+4.1. Defendants in cases commenced, 
+      by offense
+
+4.2. Disposition of cases terminated,
+      by offense
+
+4.3. Time from filing to disposition of 
+      cases terminated
+
+4.4. Dispositions by U.S. magistrates
+
+4.5. Characteristics of convicted 
+      offenders
+
+Chapter 5:  Sentencing,  65
+
+October 1, 1997 -- September 30, 1998
+
+5.1. Sentence types in cases
+      terminated, by offense
+
+5.2. Type and length of sentences
+      imposed, by offense
+
+5.3. Sentences imposed on convicted 
+      offenders, by offense of conviction 
+      and method of disposition
+
+5.4. Convicted offenders sentenced to 
+      incarceration, by offense and
+      offender characteristics
+
+5.5. Average incarceration sentence 
+      lengths imposed, by offense and
+      offender characteristics
+
+5.6. Median incarceration sentence 
+      lengths imposed, by offense and
+      offender characteristics
+
+Chapter 6:  Appeals,  77
+
+October 1, 1997 - September 30, 1998
+
+6.1. Criminal appeals filed, by type of 
+      criminal case and offense
+
+6.2. Criminal appeals filed and criminal 
+      appeals terminated, by offense
+
+6.3. Criminal appeals terminated, by 
+      type of criminal case and offense
+
+6.4. Disposition of criminal appeals ter-
+      minated on the merits, by offense
+
+6.5. Criminal appeals cases terminated 
+      on the merits, by nature of offense
+
+Chapter 7:  Corrections,  89
+
+October 1, 1997 - September 30, 1998
+
+7.1. Federal offenders under 
+      supervision, by offense
+
+7.2. Characteristics of Federal offenders 
+      under supervision, by offense
+
+7.3. Outcomes of probation supervision, 
+      by offense
+
+7.4. Characteristics of offenders termi-
+      nating probation supervision
+
+7.5. Outcomes of supervised release,
+      by offense
+
+7.6. Characteristics of offenders termi-
+      nating supervised release
+
+7.7. Outcomes of parole, by offense
+
+7.8. Characteristics of offenders termi-
+      nating parole
+
+7.9. Admissions and releases of Federal 
+      prisoners, by offense
+
+7.10. Characteristics of Federal prison 
+      population, by major offense category
+
+7.11. Number of first releases from
+      Federal prison, by release method 
+      and sentence length
+
+7.12. Average time to first release and 
+      percent of sentence served, for
+      prisoners released by standard methods
+
+7.13. Mean time served to first release, 
+      by length of sentence imposed, offense, 
+      and type of case, for prisoners 
+      released by standard methods
+
+7.14. Percent of sentence served to first 
+      release, by length of sentence imposed, 
+      offense, and type of case, for prisoners
+      released by standard methods
+
+7.15. Characteristics of first releases from 
+      prison, by offense, all releases
+
+7.16. Mean time served to first release 
+      from Federal prison for prisoners
+      released by standard methods,
+      by offense and offender characteristics
+
+
+
+---------------------------------------------------------
+Highlights
+
+The number of suspects investigations by U.S. attorneys
+increased by 5% between 1997 and 1998, from 110,034 to 115,692; 
+between 1990 and 1998, the number of investigations increased by
+15%.  About three-quarters of those for which the investigation
+was concluded were prosecuted -- either before a U.S. district
+court judge (61%) or before a U.S. magistrate (12%) -- and 27%
+of those investigated were not prosecuted by U.S. attorneys.
+
+The number of defendants prosecuted in Federal courts increased
+by 12% between 1997 and 1998, from 69,351 to 78,172.  Almost 40%
+of the increase was attributable to the increase in the number
+of defendants prosecuted for drug offenses;  29% was
+attributable to the increase in the number prosecuted for
+immigration offenses.
+
+The number of offenders under Federal correctional supervision
+increased 42% between 1990 and 1998.  At the end of fiscal year
+1998, the number of offenders under Federal correctional
+supervision was 201,693 compared to 141,790 during 1990.
+
+At the end of fiscal year 1998, the number of Federal inmates
+serving a sentence of imprisonment surpassed 100,000 for the
+first time -- increasing by 9,670 to 108,925.  The number under
+community supervision was 92,768.  Almost two-thirds of those
+under community supervision  were on post-incarceration
+supervised release (54,822) or were on parole (5,827).
+
+Arrests
+
+During 1998, 106,139 offenders were arrested by Federal law
+enforcement agencies for violations of Federal law. A third of
+all arrests were for public order offenses, 29% for drug
+offenses, 16% for property offenses, 14% for supervision
+violations, 5% for violent offenses, and 3% to secure and
+safeguard a material witness.
+
+About 73% of all arrests for Federal offenses were made by
+agencies of the Department of Justice, while Treasury Department
+agencies accounted for 11% of all arrests.  Within the
+Department of Justice, 37% of arrests were made by the U.S.
+Marshals Service, one-third of arrests were made by the
+Immigration and Naturalization Service, 15% were made by the
+FBI, and 14% were made by the Drug Enforcement Administration.
+
+Prosecution
+
+During 1998 U.S. attorneys initiated criminal investigations
+involving 115,692 suspects, and they concluded their
+investigations of 106,022 suspects.  Thirty-five percent of the
+suspects were investigated for public-order, 32% for drug, 26%
+for property, and about 7% for violent offenses.
+
+The number of suspects investigated for immigration offenses
+increased by more than 50% between 1997 and 1998, from 9,366 to
+14,114. 
+
+Of the suspects in criminal matters concluded, U.S. attorneys
+prosecuted 64,993 in U.S. district courts and 12,243 were
+disposed of before U.S. Magistrates.  Declinations by U.S.
+attorneys have reached an all time low of 27% of matters
+concluded during 1998.
+
+Suspects in criminal matters involving drug or violent offenses
+were slightly more likely to be prosecuted in a U.S. district
+court (77% and 63%, respectively) than were the suspects
+involved in public-order or property offenses (54% and 52%,
+respectively).  Suspects involved in property offenses (such as
+fraud) or regulatory public-order offenses were more likely to
+be declined for prosecution (40% and 64%, respectively) than
+were the suspects investigated for drug or violent offenses (18%
+and 33%, respectively).
+
+Pretrial release
+
+During 1998 about 43% of the 60,950 defendants who terminated
+pretrial services were released at some time prior to their
+criminal trial.  Defendants charged with property offenses such
+as embezzlement, fraud, and larceny and those charged with
+regulatory public-order offenses or tax law violations were more
+likely to be released prior to trial (between 68% and 95% of
+these defendants were released) than were defendants charged
+with violent offenses, drug trafficking, weapons, or immigration
+offenses (between 8% and 43% of these defendants were released).
+
+The proportion of defendants released prior to their trial
+decreased by nearly a third, from 62% during 1990 to 43% during
+1998.  Violent, drug, weapon, and immigration offenders were
+considerably less likely to be released during 1998 than during
+1990.  During 1990, 45% of violent, 54% of drug, 63% of weapon,
+and 30% of immigration offenders were released at some point
+prior to trial.  By contrast, during 1998, 32% of violent, 35%
+of drug, 43% of weapon, and 8% of immigration offenders were
+released.
+
+Defendants having a prior criminal history of serious or violent
+crimes were less likely to be released than those without a
+prior criminal history; defendants with more criminal history
+were less likely to be released than those with less criminal
+history.  Twenty-two percent of the defendants with a prior
+violent felony conviction were released before trial, while 54%
+of the defendants with no prior convictions were released. 
+Forty-six percent of defendants with one prior conviction were
+released, as compared to 34% of defendants having two to four
+prior convictions and 23% of defendants having five or more
+prior convictions.
+
+About 84% of the defendants released prior to trial completed
+their periods of release without violating the conditions of
+their release.  About 16% of defendants released violated the
+conditions of their release, and 6% of defendants had their
+release revoked.  Defendants charged with drug and violent
+offenses were more likely to commit at least one violation of
+their conditions of release (27% and 18%, respectively) and to
+have their release revoked (10% and 9%, respectively) than were
+other defendants.
+
+Defendants released during 1998 were more likely to violate the
+conditions of their pretrial release than those released during
+1990.  During 1998, 16% of those released at some point prior to
+trial violated a condition of their release.  During 1990, 12%
+violated their release conditions.
+
+Adjudication
+
+During 1998, 78,172 defendants were charged in Federal courts
+with a criminal offense, about 83% of whom were charged with
+felonies.  Of the defendants charged with felonies, 43% were
+prosecuted for drug trafficking offenses, 28% for public-order
+offenses, 23% for property offenses, and 6% for violent offenses.
+
+The number of defendants charged with a felony immigration
+offense increased by 38% between 1997 and 1998, from 6,726 to
+9,254.  The number charged with a felony drug offense increased
+by 13%, from 24,693 to 28,021.
+
+Criminal cases were concluded against 69,769 defendants during
+1997, 82% of whom had been charged with felonies. The proportion
+of defendants convicted in the Federal courts increased from 81%
+during 1990 to 87% during 1998.  Additionally, the proportion of
+defendants pleading guilty increased from 88% during 1990 to 94%
+during 1998.
+
+Ninety percent of defendants charged with felonies were
+convicted.  The conviction rate was about the same for all major
+offense categories:  91% of public-order offenders, 90% of
+violent, property and drug offenders.  
+
+Sentencing
+
+Defendants convicted during 1998 were more likely to be
+sentenced to prison than those convicted during 1990.  During
+1998, 71% of defendants were sentenced to prison compared to 60%
+of those sentenced during 1990.
+
+About 92% of felony drug offenders and 91% of violent felony
+offenders received prison sentences during 1998, as did 83% of
+felony public-order offenders and 60% of felony property
+offenders.
+
+Average length of sentences imposed,
+by offense, October 1, 1997 -
+September 30, 1998
+ 
+Most serious            Average sen-
+offense of conviction   tence length
+All offenses              58.8 mo
+ 
+Felonies                  60.6
+Violent offenses          84.2
+Property offenses         25.4
+Drug offenses             78.8
+Public-order offenses     47.3
+ 
+Misdemeanors              11.4
+
+The 43,041 offenders sentenced to prison received, on average,
+58.8 months of imprisonment.  Offenders sentenced for violent
+felony offenses and felony drug offenses received longer average
+prison terms (84.2 and 78.8 months, respectively) than those
+convicted of felony property and public-order offenses (25.4 and
+47.3 months, respectively).
+
+While the proportion of defendants sentenced to prison is at an
+all time high, average prison sentences have declined from the
+peak attained during 1992.  During 1992 the average prison term
+imposed was 62.6 months;  for violent felony offenses, the
+average term imposed was 94.8 months;  for drug felonies, the
+average term was 84.1 months.
+
+Appeals
+
+Between 1994 and 1998, the number of appeals received by the
+U.S. Courts of Appeals remained relatively constant -- between
+10,000 and 11,000 annually.  However, the proportion of criminal
+defendants appealing some aspect of their decreased from 21% of
+convictions during 1994 to 17% during 1998.
+
+During 1998, 10,535 criminal appeals were filed.  Forty-seven
+percent of the appeals filed challenged both the conviction and
+sentence imposed.  Only 4% of appeals were filed by the
+Government.  Of the 10,105 appeals terminated during 1998, 76%
+(or 8,178) were terminated on the merits.  In 82% of the appeals
+terminated on the merits, the district court ruling was
+affirmed, at least in part.
+
+Corrections
+
+Community supervision
+
+Between 1990 and 1998, the number of offenders on community
+supervision increased by 9% from 84,801 during 1990 to 92,768
+during 1998. While nearly equal proportions of offenders were
+serving terms of probation and post-incarceration supervision
+(parole or supervised release) during 1990, during 1998, almost
+two-thirds were serving a term of post-incarceration supervision
+(59% supervised release and 6% parole) while 35% were on
+probation.  Drug offenders comprised 53% of offenders under
+terms of supervised release during 1998, 52% of offenders on
+parole, and 11% of offenders on probation.  Property offenders
+comprised 38% of offenders on probation, 27% of offenders
+serving terms of supervised release, and 11% of offenders on
+parole.
+
+Admissions to Federal Bureau of Prisons, releases, and prisoners at
+yearend, by offense, October 1, 1997 - September 30, 1998
+ 
+Most serious                                            Population
+offense of conviction   All admissions   All releases   at yearend
+All offenses               58,215          48,545         108,925
+ 
+Violent offenses              8.9%            9.0%           11.6%
+Property offenses            17.9            20.4             7.9
+Drug offenses                40.2            38.3            57.8
+Public-order offense         31.0            30.9            20.4
+ 
+A total of 16,011 offenders completed their terms of probation
+during 1998.  Most of these offenders (81%) completed their
+terms of probation successfully,.  Eleven percent of
+probationers terminating supervision during 1998 committed
+technical violations; 5% committed new crimes.
+
+A total of 19,878 offenders completed terms of supervised
+release during 1998.  Of these offenders, 64% successfully
+completed their terms without violating conditions of release;
+21% committed technical violations; and 12% committed new crimes.
+
+A total of 3,077 offenders completed terms of parole during
+1998.  Of these offenders, 56% successfully completed their
+terms without violating conditions of release; 26% committed
+technical violations; and 13% committed new crimes.
+
+Prison
+
+Between 1990 and 1998, the number of inmates serving a sentence
+of imprisonment increased by 91% from 56,989 during 1990 to
+108,925 during 1998.  During 1998, the number of sentenced
+inmates increased by 9,670 to surpass 100,000 for the first time.
+
+During 1998, 42,598 prisoners were received by the Bureau of
+Prisons from U.S. district court commitments.  An additional
+15,617 prisoners were returned to Federal prison for violating
+conditions of probation, parole, or supervised release, or were
+admitted to Federal prison from elsewhere than a U.S. district
+court.
+
+Drug offenders -- who comprised about 40% of persons admitted
+into Federal prison -- comprised the largest percentage of
+persons in prison (58%) at the end of 1998.
+
+During 1998, 34,504 prisoners were released for the first time
+from Federal prison after commitment by a U.S. district court. 
+Of these, 31,200 were released by standard methods and 3,304
+were released by extraordinary means (death, treaty transfer,
+sentence commutation, or drug treatment).  An additional 14,041
+prisoners were released from subsequent commitments to Federal
+prison.
+
+Time served by Federal offenders increased from 17 months during
+1990 to 28 months during 1998.  Additionally, the proportion of
+the sentence served increased from 65% during 1990 to 87% during
+1998.
+
+Violent and drug offenders were among those offenders who served
+the longest prison terms.  However, while time served for
+violent offenders remained relatively constant between 1990 and
+1998, approximately 58 months, time served by drug offenders
+increased by 57%, from 26 months during 1990 to 41 months during
+1998.
+
+Average time to first release, standard
+releases, by offense, October 1, 1997 -
+September 30, 1998
+ 
+Most serious original      Mean time
+offense of conviction      served
+All offenses                28.0 mo
+ 
+Violent offenses            53.7
+Property offenses           15.5
+Drug offenses               41.4
+Public-order offenses       18.1
+ 
+Introduction
+
+This Bureau of Justice Statistics (BJS) report presents an
+overview of case processing in the Federal criminal justice
+system.  The data presented are compiled from the BJS Federal
+Justice Statistics Program (FJSP) database.  The FJSP database
+includes data provided by the Administrative Office of the U.S.
+Courts, the Executive Office for the U.S. Attorneys, the Federal
+Bureau of Prisons, the U.S. Marshals Service, and the U.S.
+Sentencing Commission.  The Administrative Office of the U.S.
+Courts, in addition to providing data describing defendants in
+cases processed by the Federal judiciary, provides data
+describing defendants processed by the Federal pretrial services
+agencies and the Federal probation and supervision service.  The
+BJS Federal Justice Statistics database is archived on CD-ROM,
+copies of which are available from the BJS Clearinghouse.  The
+data can be downloaded from the Federal Justice Statistics
+Resource Center located at http://fjsrc.urban.org.
+
+Each agency reports on those defendants it processed during a
+given year in an annual statistical report.  These agency
+reports are often incomparable due to the varying methods the
+agencies use to report case processing activities.  As reported
+by an interagency working group, headed by BJS, the differences
+in the case processing statistics are attributable, in part, to
+the differing needs and missions of the agencies.  The working
+group found the following differences in reported statistics:
+
+*  the universe of cases reported during a given period -- some
+agencies report on those case processing events that occurred
+during a particular period, whereas others report on those
+events recorded during a particular period; and
+
+*  many of the commonly used case processing statistics --
+suspect/defendant processed, offense committed, disposition, and
+sentence imposed -- are defined differently across agencies.
+
+BJS, through its FJSP, has recognized the incomparability of
+these annual statistical reports and has attempted to reconcile
+many of the differences identified by the working group.  For
+instance, by combining databases from several years, BJS is able
+to report on those cases that actually occurred during the
+reporting period.  Additionally, commonly used case processing
+statistics are made comparable across stages by applying uniform
+definitions to data obtained from each agency.  Because
+definitions in the FJSP are consistent with those categories in
+BJS programs describing State defendants convicted, sentenced,
+or imprisoned, the comparison of Federal and State case
+processing statistics is facilitated.
+
+The 1998 Compendium, 13th in a series which includes 1984, 1985,
+1986, 1988, 1989, 1990, 1992, 1993, 1994, 1995, 1996, and 1997,
+describes defendants processed at each stage of the Federal
+justice system -- arrest by Federal law enforcement agencies
+(chapter 1), investigation and prosecution by the U.S. attorneys
+(chapter 2), pretrial release or detention (chapter 3),
+adjudication in the U.S. district courts (chapter 4), sentencing
+(chapter 5), appeal of the conviction and/or sentence imposed
+(chapter 6), and corrections (chapter 7) -- for the 12-month
+period ending September 30, 1998 (the Federal fiscal year). 
+Prior to 1994, the Compendium was reported on a calendar-year
+basis.
+
+The tables presented report events that occurred during the
+Federal fiscal year -- October 1, 1997 - September 30, 1998. 
+Generally, the tables include both individual and organizational
+defendants.  Organizational defendants are not included in
+tables describing pretrial release and detention or tables
+showing defendants sentenced to incarceration.  Juvenile
+offenders are included in the reported statistics.  Felony and
+misdemeanor distinctions are provided where possible (see
+"Offense classifications" in Methodology).
+
+Organization of the 
+Compendium
+
+Each chapter of the Compendium describes a major stage in the
+processing of criminal suspects and defendants.  Each chapter
+contains Chapter notes that describe the universes of data used
+in the tables and information relevant to the interpretation of
+individual tables.  The Compendium contains the following:
+
+Chapter 1. This chapter describes arrests made by Federal law
+enforcement agencies for violations of Federal law, including
+the characteristics of arrestees.
+
+Chapter 2.  This chapter describes decisions made by Federal
+prosecutors in screening criminal matters and the
+characteristics of defendants in cases prosecuted or declined
+for prosecution.
+
+Chapter 3.  This chapter describes the pretrial release and
+detention practices of the Federal judiciary, including the
+characteristics of defendants detained or released pending trial.
+
+Chapter 4.  This chapter describes actions by the Federal
+judiciary in adjudicating defendants in cases filed by the U.S.
+attorneys, including the offense charged and characteristics of
+defendants convicted.
+
+Chapter 5.  This chapter describes the sentences imposed by the
+Federal judiciary on convicted defendants, including the
+characteristics of defendants sentenced.
+
+Chapter 6.  This chapter describes appeals of criminal
+convictions and sentences imposed in the Federal courts,
+including the original offense charged.
+
+Chapter 7.  This chapter describes defendants under Federal
+correctional supervision -- probation, parole, and supervised
+release -- including the outcome of the supervision (successful
+completion or violations), admissions to and releases from
+Federal prison, and time served by Federal inmates.
+
+Methodology.  This section describes the procedures followed in
+analyzing data and developing tables.
+
+Glossary.  This section contains definitions for terms used in
+the Compendium.  Since many terms used in the text and tables
+have specialized meanings (either because they refer to Federal
+law or because of reporting procedures by the Federal agencies
+supplying the data), readers are encouraged to check the
+glossary for exact definitions of tabulated data.
+
+Comparing Case Processing Statistics.  This document, prepared
+by an interagency working group tasked to reconcile differences
+in Federal criminal case processing statistics, identifies and
+describes the major differences in the way Federal criminal
+justice agencies collect, tabulate, and report criminal case
+processing events.
+
+Modifications in the 1998 
+Compendium
+
+A new chapter (chapter 1), which describes arrests made by
+Federal agencies for violations of Federal law, has been
+introduced in the 1998 Compendium.  The chapter includes three
+tables:  a table showing arrests for violations of Federal law,
+by offense; a table showing arrests for violations of Federal
+law, by the arresting Federal law enforcement agency, by major
+offense; and a table showing characteristics of suspects
+arrested for violations of Federal law, by major offense.
+
+Due to the introduction of this new chapter on Federal arrests,
+chapter numbers for the chapters retained from the previous
+Compendium have been incremented by one.  The prosecution
+chapter is now chapter 2; pretrial release and detention,
+chapter 3; adjudication, chapter 4; sentencing, chapter 5;
+appeals, chapter 6; and corrections, chapter 7.
+
+A new table has been introduced to the prosecution chapter which
+shows the declination rate by investigative agency and
+department (table 2.3).
+
+In the corrections chapter, the table showing characteristics of
+first releases from prison (table 7.15) and the table showing
+mean time served to first release (table 7.16) have changed. 
+Rather than displaying statistics separately for new law cases
+as well as all cases,  these tables now show only all cases,
+since new law cases comprise 98% of all first releases.
+
+Notes to reader
+
+The tables in the Compendium were constructed to permit valid
+comparisons within each table and to allow the reader to compare
+percentages (but not raw totals) across tables.  It should be
+understood, however, that the total number of subjects/defendants 
+shown in a particular table may not equal the number of subjects/
+defendants involved in a particular stage of processing, since 
+some records could not be linked and some data sources did not 
+include information on particular data elements classified in a 
+particular table.  Data notes indicate the exact universe for 
+individual tables.
+
+The Compendium is a statistical presentation of Federal criminal
+justice information with limited analyses of trends or
+explanatory factors underlying the statistics.  Analyses of
+Federal justice statistics may be found in special reports and
+other publications, some of which are cited in the Compendium. 
+Assessment of changing patterns in the Compendium tabulations
+may depend on detailed examination of subcategories not shown in
+the tabulations or may require other sources of information,
+such as knowledge of legislation or Federal agency procedures.
+
+Chapter 1. 
+Arrests for Federal offenses 
+
+
+Chapter notes
+
+Sixty-six Federal agencies employ full-time personnel empowered
+to make arrests.  As of June 1998, these agencies employed about
+83,000 officers. ***Footnote 1: Brian A. Reaves, Federal Law Enforcement,
+1996, Bureau of Justice Statistics, Washington, DC (NCJ-164617.***
+More than half (56%) of all law enforcement officers were employed 
+by the Department of Justice.  The Department of Treasury employed 
+24% of all officers.
+
+Offenders arrested by Federal agencies are transferred to the
+custody of the U.S. Marshals Service for processing, transportation, 
+and detention. ***Footnote 2: The Federal agency making the arrest may be 
+different from the Federal agency initiating the investigation involving
+the arrestee.  Statistics describing agencies initiating investigations are
+shown in table 2.3 of chapter 2, "Prosecution."***  During 1998, the U.S.
+Marshals Service received 104,422 offenders for processing from the Federal
+law enforcement agencies, including nearly 29,000 offenders arrested by 
+deputy U.S. marshals.
+
+Arrests by offense 
+category (table 1.1)
+
+During 1998, 104,422 offenders were arrested by Federal law
+enforcement agencies for violations of Federal law.  A third of
+all arrests were for public or-der offenses; 29% for drug
+offenses; 16% for property offenses; 15% for supervision
+violations; 5% for violent offenses; and 3% to secure and
+safeguard a material witness.
+
+Approximately 41% of drug arrests involved cocaine; 28%,
+marijuana; 10%, amphetamine (or methamphetamine); 4%, heroin;
+and the remainder other drugs or drug paraphernalia (figure 1.1).
+
+Almost two-thirds of arrests for public-order offenses were
+immigration offenses.  Most (80%) of these were for illegal
+entry into the United States; 13% involved alien smuggling; 6%
+involved false claims of citizenship by entrants to the United
+States; and about 1% involved other immigration violations
+(figure 1.2).
+
+Arrests by law enforcement 
+agencies (table 1.2)
+
+During 1998, 72% of all arrests for Federal offenses were made
+by components of the Department of Justice; the Treasury
+components accounted for 11% of all arrests.  In addition, 3% of
+arrests were made by State and local agencies and 8% of
+offenders were arrested after voluntarily reporting to the U.S.
+marshals following a summons.
+
+Of those arrests made by the Department of Justice, the U.S.
+Marshals Service made 37%; the Immigration and Naturalization
+Service, 33%; the FBI, 15%; the Drug Enforcement Administration,
+14%; and other Department of Justice agencies, less than 1%.
+
+Of those arrests made by the Treasury Department, the U.S.
+Customs Service made 57%; the Bureau of Alcohol, Tobacco, and
+Firearms, 18%; the Secret Service, 18%; and the IRS, 7%.
+
+Arrests across demographic groups (table 1.3)
+
+Most (85%) of offenders arrested by Federal law enforcement
+agencies during 1998 were male.  Seventy percent were white and
+25% were black.  Individuals between 21 and 40 years old
+comprised nearly 70% of all those arrested.  One-third of those
+arrested were identified as noncitizens.
+
+Most (68%) offenders arrested for drug offenses were white,
+while 29% were black.  Of those offenders arrested on charges
+involving cocaine, 59% were white and 38% were black.  Of those
+offenders arrested on charges involving marijuana, 83% were
+white and 14% were black (figure 1.1).
+
+Chapter notes
+
+Tables 1.1-1.3 were derived from the U.S. Marshals Prisoner
+Tracking System database.  Only records of arrests made during
+October 1, 1997, through September 30, 1998, were selected. 
+Information on individual cases, offenses, and detainees were
+used to construct the tables.
+
+Offenses of arrest were classified by the U.S. Marshals into
+their four-digit offense codes.  These were then aggregated into
+the offense categories shown in the tables.  These categories
+are similar, but may not be directly comparable, to the
+categories used in tables in other chapters of this Compendium.
+
+Chapter 2
+Prosecution
+
+
+Federal criminal cases may be brought by the U.S. Attorney's 
+Office, by the Criminal Division of the U.S. Department of 
+Justice, or by other authorized agencies such as the U.S.
+Marshals Service.  The 93 U.S. attorneys serve as the chief
+Federal law enforcement officers within their respective districts.
+
+Investigations are most commonly referred to a U.S. attorney by
+a Federal investigative agency (primarily the Drug Enforcement
+Administration; the Federal Bureau of Investigation; the Postal
+Inspection Service; the Bureau of Alcohol, Tobacco, and Firearms; 
+and the Secret Service), by the Criminal Division, or by a State or 
+local investigative agency.  Investigations may also be initiated 
+-- and cases brought directly -- by U.S. attorneys or by the Criminal 
+Division of the U.S. Department of Justice.  This chapter reports 
+only on suspects that were at least partially investigated by U.S. 
+attorneys.
+
+U.S. attorneys' decisions
+
+After criminal investigations are initiated and criminal
+suspects are referred to them, U.S. attorneys may file charges
+against defendants in a U.S. district court, or they may decline
+to file these charges for reasons such as weak or insufficient
+evidence, minimal Federal interest, lack of resources, or lack
+of criminal intent.  Matters that are declined may be referred
+to another authority for prosecution or be settled through
+alternative resolution procedures.  U.S. attorneys may also file
+cases before U.S. magistrates, who have the authority to
+adjudicate misdemeanor offenses (18 U.S.C. § 3401).  Because of
+the relatively less serious nature of these cases, and because
+they are handled by magistrates, the U.S. attorneys count these
+cases as criminal matters disposed by U.S. magistrates.
+
+The decision to prosecute a suspect in a criminal matter depends
+upon many factors, including the Attorney General's priorities,
+U.S. attorney priorities and resources, laws governing each type
+of offense, and the strength of evidence in each case.
+
+During 1998, 61% of suspects in all offense categories were
+prosecuted before U.S. district court, while an additional 12%
+were handled by U.S. magistrates.  Suspects were prosecuted at
+different rates depending on their offense.  Suspects involved
+in violent and drug offenses were more likely to be prosecuted
+before U.S. district court judges than were those involved in
+property and public-order offenses (figure 2.1).  Suspects
+involved in drug offenses were the most likely (77%) to be
+prosecuted.  Suspects involved in property offenses were the
+least likely to be prosecuted (52%).  However, suspects involved
+in property offenses were more likely to have their matters
+declined and not referred to other authorities for prosecution
+(31%) than were suspects involved in other types of criminal
+matters.  These cases were resolved by other means, including
+restitution, civil/administrative procedures, and pretrial
+diversion.
+
+Suspects in matters received 
+(table 2.1)
+
+During 1998 there were 115,692 suspects in new matters received
+for investigation by U.S. attorneys.**(1 See Chapter notes, Item
+1, p. 31.  The 1998 data are not directly comparable to the 1993 
+and prior compendia)**. Of these suspects, about 35% were investigated 
+for public-order offenses, 32% for drug offenses, and 26% for property
+offenses.  Under 7% of all suspects were investigated for violent crimes. 
+Relative percentages of offenses reflect criminal activity as well as
+Federal investigative, prosecutorial, and statutory priorities.
+For example, during 1998 priority areas for U.S. attorneys included the
+detention, educational and rehabilitation of juveniles, drug and violent
+crimes (including firearms prosecutions), international terrorism, and
+prosecution of those responsible for hate crimes and attacks on houses of
+worship (with the National Church Arson Task Force).**(2 Statistical Report,
+United States Attorneys' Offices, Fiscal Year 1998.  U.S. Department
+of Justice, Executive Office for United States Attorneys, Washington,
+DC.)**
+
+Suspects in matters concluded 
+(tables 2.2-2.6)
+
+Upon receiving a matter, a U.S. attorney will either immediately
+decline it for prosecution or investigate further.  Upon
+conclusion of the investigation, a matter may be filed as a
+criminal case in a U.S. district court, referred to a U.S.
+magistrate, or declined for   prosecution.  Of the 106,022
+suspects in criminal matters concluded during 1998,  61% were
+prosecuted in U.S. district court, 27% were declined for
+prosecution, and 12% were referred to U.S. magistrates.
+
+Suspects prosecuted (table 2.2) -- The likelihood of prosecution
+in U.S. district court varied widely across offense categories. 
+Drug and violent offenders were more likely to be prosecuted
+than those involved in property and public-order offenses.  U.S.
+attorneys prosecuted approximately 77% of suspects involved in
+drug offenses, 63% of those in violent offenses, 54% of those in
+public-order offenses, and 52% of those in property offenses.
+
+Differences in rates of prosecution within major categories were
+substantial.  For example, among violent offenders, 79% of
+robbery suspects were prosecuted, while 57% of murder, 50% of
+assault, and 41% of rape suspects were prosecuted.  Among
+property offenders, suspects investigated for counterfeiting
+were prosecuted at a higher rate than those involved in fraud
+(70% compared with 51%), and among suspects involved in
+public-order offenses, immigration (79%), weapons (70%), and tax
+law violators (65%) were much more likely to be prosecuted than
+suspects in escape (21%) and civil rights (6%) offenses.
+
+Suspects in matters concluded and declined, by investigating
+agency (table 2.3) -- During 1998, 59% of suspects in matters
+concluded were investigated by components of the Department of
+Justice; the Treasury Department investigated 19% of suspects in
+matters concluded.  In addition, 10% of suspects in matters
+concluded were investigated by independent Federal agencies and
+State/local agencies.
+
+Among the investigating agencies, the Immigration and
+Naturalization Service (3%) and the National Park Service (10%)
+had among the lowest declination rates, while the Indian Affairs
+Bureau (58%), agencies within the Department of Health and Human
+Services (53%), and the Environmental Protection Agency (53%)
+were among agencies with the highest declination rates.  The
+declination rate for matters investigated by components of the
+Department of Justice (28%) was quite close to the overall
+declination rate (27%).
+
+Suspects in matters declined (tables 2.4-2.5) -- Suspects in
+matters involving violent offenses were less likely to be
+declined for prosecution (33%) than those involved in property
+offenses (40%) but more likely than those in drug offenses
+(18%).  Suspects in public-order offenses were slightly less
+likely to be declined for prosecution than those involved in
+violent offenses-- 25% compared to 33% (table 2.2).
+
+The decision to decline prosecution is based on a number of
+factors, including the lack of prosecutable offense, alternative
+resolution, or case- and suspect-related reasons (table 2.4). 
+Of the 28,786 declinations during 1998, 27% occurred because of
+case-related reasons, mostly due to weak evidence (22%); 24%
+occurred because there was no crime or criminal intent was
+lacking; and 18% occurred for other reasons, such as agency
+requests (7%) and minimal Federal interest (4%).
+
+Not all suspects whose matters were declined for prosecution
+avoided prosecution.  Twenty-four percent of the suspects in
+matters declined were referred to another authority for
+prosecution (table 2.5).  An additional 5% were settled through
+alternative resolution procedures.  While suspects involved in
+property offenses constituted the largest number of suspects who
+were referred by U.S. attorneys to other authorities for
+prosecution or resolution, suspects involved in drug offenses
+were the most likely of suspects whose matters were declined to
+be referred to other authorities for prosecution or alternative
+resolution (figure 2.2).  Thirty-six percent of the drug
+suspects whose matters were declined prosecution by U.S.
+attorneys were referred for other prosecution or resolution, as
+were 27% of the public-order, 27% of violent, and 25% of the
+property offense suspects.
+
+Within major offense categories, the likelihood that suspects in
+matters declined for prosecution were referred to other
+authorities for prosecution or alternative resolution varied
+among specific offenses.  Within property offenses, referral
+occurred with 42% of persons involved in motor vehicle theft,
+compared to 18% of suspects in arson and explosives cases. 
+Within public-order offenses, 39% of weapons suspects and 60% of
+escape suspects were referred to other authorities or had their
+case settled through alternative procedures, compared to 6% of
+suspects in civil rights cases.
+
+Defendants in cases concluded by U.S. magistrates (table 2.2) --
+Cases concluded by U.S. magistrates are, by statute,
+misdemeanors. (**3 At the time that U.S. attorneys receive them, 
+matters may not be classifiable as felonies or misdemeanors.  If a 
+U.S. magistrate disposes for a case -- or what the U.S. attorneys 
+call a "matter" -- its offense level has been determined to be a
+misdemeanor.)** Overall, U.S. magistrates disposed of 12% of all 
+criminal matters investigated by U.S. attorneys.  For most offenses, 
+the likelihood that a U.S. magistrate concluded the matter was also 
+relatively low.  The most notable exception was escape, for which 55% 
+of matters were concluded by U.S. magistrates.  The escape offense 
+category accounted for 13% of all cases concluded by U.S. magistrates.
+
+Most of the 2,805 escape violations were against defendants who
+absconded to avoid prosecution in State courts, the so-called
+"unlawful flight to avoid prosecution."  Upon apprehension of
+the fugitive, these cases are normally dismissed by U.S.
+magistrates and turned over to the State for prosecution on the
+original warrant.
+
+Other types of offenses having comparably high rates of disposal
+by U.S. magistrates included migratory birds offenses (85%);
+conspiracy, aiding and abetting, traffic, and jurisdictional
+offenses (69%); and other property violations (61%).
+
+Processing times (table 2.6) -- For matters concluded during
+1998, the average number of months from receipt of a matter to
+its conclusion by a U.S. attorney as a case filing or
+declination or its disposal by a U.S. magistrate was 8.2 months.
+However, the time to process matters varied with the outcome of
+the matter.  Matters concluded by U.S. magistrates in which the
+suspect was convicted took the least amount of time -- an
+average of 3.0 months, and at least 50% of these convictions
+occurred in about 40 days.  Similarly, 50% of the matters
+declined for prosecution were declined within 12.5 months.
+
+Overall, suspects in violent and drug offenses were processed
+more quickly than suspects in other offenses.  For key
+decisions, such as whether to file a case or decline a matter
+for prosecution, drug offenses were concluded slightly quicker
+than violent offenses (5.3 months compared to 5.8 months).  At
+an average of 13.6 months, fraudulent property offenses took
+longer to conclude than other offenses.
+
+Chapter notes
+
+1) Tables 2.1-2.6 were created from the Central System data
+files of the EOUSA.  For table 2.1, only records which showed a
+matter received during 1998 were selected.  For tables 2.2-2.6,
+only records which show a matter terminated by reason of
+declination, disposition by a U.S. magistrate, or filed as a
+case in U.S. district court from October 1, 1997, through
+September 30, 1998, were selected.  In all of these tables,
+matters "declined immediately" -- those cases in which the U.S.
+attorney spent less than 1 hour investigating -- were excluded.
+
+2) The number of suspects in matters investigated in table 2.1,
+and the number of suspects in matters concluded in tables 2.2
+and 2.6 are not directly comparable to counts in the 1993 and
+prior compendia.  In those years, these statistics included
+appellants in appeals filed or appeals terminated.  In table 2.1
+of this Compendium and its corresponding tables in 1994 and
+subsequent compendia, the number of suspects in matters received
+is limited to suspects in criminal matters that were filed as
+cases in U.S. district courts, handled by U.S. magistrates, or
+declined for prosecution.  In the 1993 and prior compendia, the
+number of suspects in criminal matters received included
+criminal appeals.  To obtain a number of suspects comparable to
+the statistic reported in the 1993 and prior compendia, add to
+the data in table 2.1 of this Compendium, the number of
+appellants in appeals that were handled by U.S. attorneys.
+
+In tables 2.2 and 2.6 of this Compendium and their corresponding
+tables in the 1994 and subsequent compendia, the number of
+suspects in matters concluded also is limited to those suspects
+whose matters were concluded by a case filing in a U.S. district
+court, by declination, or by disposition by a U.S. magistrate. 
+In the 1993 and prior compendia, this number included appellants
+in criminal appeals terminated.
+
+To obtain a number that is comparable to the number reported in
+the 1993 and prior compendia, the number of appellants in
+appeals terminated and handled by U.S. attorneys needs to be
+added to the totals in table 2.2.
+
+3) Offenses in the Central System data files are classified by
+the title and section of the United States Code for the most
+serious offense investigated, as determined by the assistant
+U.S. attorney responsible for the matter.  For tables in this
+Compendium, these citations were translated into the
+corresponding four-digit offense codes used by the
+Administrative Office of the United States Courts (AOUSC). 
+These four-digit codes were then aggregated into the categories
+shown in the tables.
+
+U.S. Code citations often do not permit detailed classification
+of drug offenses by the type of criminal activity involved.  A
+person charged with conspiracy is classified under the
+substantive offense alleged (for example, conspiracy to defraud
+is classified as fraud) unless type of conspiracy cannot be
+determined from the U.S. Code citation.  Unclassified
+conspiracies are included among "conspiracy, aiding and
+abetting, traffic, and jurisdictional offenses" in tables 2.1,
+2.2, 2.5, and 2.6.
+
+The most serious offense investigated is based on the criminal
+lead charge as determined by the assistant U.S. attorney
+responsible for the criminal matter.
+
+4) In the tables in this chapter, the "all offenses" row or
+"total declinations" row (in table 2.5) includes records whose
+offense category (basis for declination) is missing or
+indeterminable.  The percentage distributions in these tables,
+however, are based on the number of observations with nonmissing
+offenses (basis for declination) values.  The number of missing
+values are reported either on a separate line or in a footnote. 
+
+Chapter 3
+
+Pretrial release
+
+
+The Bail Reform Act of 1984 (18 U.S.C. § 3141) sets the terms
+for release and detention of defendants facing charges in
+Federal courts.  At the time defendants first appear before a
+judicial officer, they may be (1) released on personal
+recognizance or unsecured bond; (2) released subject to
+conditions imposed by the court, possibly including traditional
+bail; (3) temporarily detained without bail (limited to 10
+working days) to permit deportation, exclusion, or the
+revocation of previously granted conditional release; or (4)
+detained pending the outcome of a detention hearing. **(*18
+U.S.C. sec. 3142(e) (1984)**
+
+According to the statute, a defendant must be brought before a
+judicial officer without "unnecessary delay" upon arrest.  The
+judicial officer, who may be a judge but is generally a U.S.
+magistrate, determines whether the defendant will be released or
+detained prior to trial.  If a hearing is required, the release
+decision may be delayed no longer than 3 days (or 5 days if
+requested by the defendant).
+
+At the initial appearance a recommendation to detain the
+defendant is made by the U.S. attorney and/or the pretrial
+services officer.  If the court concurs with the recommendation
+to detain the defendant, a pretrial detention hearing is
+scheduled -- typically within 1 week of the initial appearance. 
+At the pretrial detention hearing evidence is presented to show
+cause why the defendant should be detained pending adjudication
+of the charges.
+
+Recommendations to detain a defendant are limited to those
+instances where the defendant was charged with (1) a crime of
+violence, (2) an offense with a statutory maximum sentence of
+life imprisonment or death, (3) a drug offense with a statutory
+maximum sentence of 10 years or more imprisonment, or (4) any
+felony offense if the defendant had been convicted on two or
+more occasions of an offense described above or a similar
+State-level offense.  Additionally, a detention recommendation
+may be made if there is a serious risk that the defendant would
+flee in an attempt to avoid prosecution or would obstruct
+justice or intimidate witnesses or jurors.
+
+Types of pretrial release
+
+Defendants may be released without financial conditions
+according to the following:
+
+Personal recognizance -- defendant is released subject to no
+financial or other conditions.
+
+Unsecured bond -- no money is required to be posted before
+release, but defendant is liable for full bail amount if he or
+she fails to appear.
+
+Conditional release -- any combination of restrictions that are
+deemed necessary to guarantee the defendant's appearance at
+trial or the safety of the community.  Non-financial conditions
+commonly place restrictions on the defendant's movements,
+associations, and/or actions.  They may also involve employment
+or treatment for medical, psychological, or substance abuse
+conditions.
+
+Defendants may also be released on financial conditions. 
+Financial conditions include (1) deposit bond (the defendant is
+required to post a percentage of the total bail amount, usually
+10%), (2) surety bond (the defendant is released subject to
+guarantees by a third person that the full amount will be paid),
+or (3) collateral bond (collateral equal to the full bail amount
+required to be posted by the defendant before release). 
+Financial conditions may occur in combination with nonfinancial
+conditions.
+
+Factors relating to release or 
+detention
+
+In deciding whether to release a defendant and in setting
+release conditions, the court is directed to consider the nature
+and circumstances of the offense charges, the weight of evidence
+against the defendant, the defendant's character, physical and
+mental condition, family ties, employment, financial resources,
+length of residence in the community, community ties, past
+conduct, history relating to drug or alcohol abuse, criminal
+history, and record concerning appearance at court proceedings.
+
+During 1998, 26,260 defendants were released for some period of
+time prior to trial (table 3.1).  Those defendants released made
+up 43% of the 60,950 defendants who terminated pretrial services
+during 1998.  Of the defendants released, 84% completed pretrial
+services without violating the conditions of their release
+(table 3.8). 
+
+In 1998, 40,669 defendants were detained for some period of time
+prior to the disposition of their case (table 3.3).  Those
+defendants detained comprised about 67% of all defendants who
+terminated pretrial services during 1998.  Included are those
+who were detained prior to having a preliminary hearing with the
+magistrate, at which point they could have been either released
+or ordered to have a detention hearing.  Of the defendants
+detained, 55% were ordered detained by the court until case
+disposition.
+
+Pretrial detention hearings were held for 30,204 defendants.  Of
+these, 22,143, or 73%, were ordered detained (table 3.5).
+
+Of the 26,246 defendants released prior to trial, 16% violated a
+condition of their release (table 3.7).  The majority (88%) of
+these violations were technical violations of the bail
+conditions.  Defendants released on deposit bond were more
+likely (25%) than other defendants to incur some violation of
+the conditions of their release (table 3.8).  Conversely,
+defendants given conditional release violated their release at
+the lowest rates (5%).  Five percent of all released defendants
+had their release revoked.
+
+Pretrial outcomes by offense 
+categories
+
+Releases (table 3.1) -- Defendants charged with property
+offenses were more likely than other defendants to be released
+prior to criminal trial; in 1998, 77% of the 13,463 property
+offenders were released (figure 3.1).  However, the percent
+released varied greatly across offense categories.  Among
+violent offenders, 18% of those charged with robbery were
+released compared to 55% of those charged with assault and 66%
+of those charged with sex offenses other than rape.  Among
+public order offenders, 8% of those charged with immigration
+offenses were released compared to 95% of those charged with tax
+law violations and 43% of those with weapons offenses.
+
+Property defendants also made up the largest part of those
+defendants who were released, while drug defendants made up the
+largest part of those defendants who were detained.  Violent
+defendants composed the smallest part of defendants in both
+groups.
+
+About 35% of all drug defendants were released.  Drug
+trafficking defendants were less likely to be released than
+those charged with nontrafficking offenses (33% compared to
+53%), but defendants charged with trafficking offenses
+outnumbered those charged with nontrafficking offenses by more
+than 9 to 1.
+
+The release types for those defendants who were released prior
+to trial varied among offense categories (table 3.1).  Within
+each major offense category, the highest percentage of
+defendants released was on unsecured bond, except for violent
+defendants.  Of the 32% of violent defendants released, 40% were
+released on unsecured bond and 43% on personal recognizance
+compared to 77% of all property defendants released, of whom 54%
+were released on unsecured bond and 34% on personal recognizance.
+
+Detentions (tables 3.3 and 3.5) -- Among the major offense
+categories, defendants charged with drug offenses were the most
+likely (80%) to be detained for some period of time (table 3.3,
+figure 3.1).  Seventy-seven percent of defendants charged with
+violent offenses were detained for some period of time.  But
+violent defendants were more likely than drug offenders (62%
+versus 55%) to be detained by the court.  Property and
+public-order defendants were less likely to be detained than
+were drug and violent defendants.  During 1998, 74% of
+public-order defendants were detained.  Of public-order
+defendants, those charged with immigration offenses were the
+most likely to be detained (96%).  In 1998, 30% of defendants
+charged with property offenses were detained.  Of those
+defendants detained, 56% of public-order and 43% of property
+defendants were detained by the court.
+
+For 66% of defendants charged with violent offenses, it was
+decided at the preliminary hearing that a detention hearing was
+warranted (table 3.5, figure 3.2).  This rate varied by offense
+category:  62% of those charged with drug-related offenses, 50%
+of those charged with public-order offenses, and 22% of those
+charged with property offenses were ordered to have a detention
+hearing.  Of those charged with violent offenses, the most
+likely to have a pretrial detention hearing were those charged
+with kidnaping, robbery, threats against the President, or
+murder.  The least likely to have a pretrial detention hearing
+were those charged with sex offenses other than rape and those
+charged with assault.
+
+Once a defendant was ordered to have a detention hearing, the
+chances of being detained were less variable across offense
+categories (table 3.5).  The highest rate of defendants ordered
+detained were those charged with public-order offenses (83%) --
+primarily immigration (89%) and weapons offenders (70%).  Of the
+66% of defendants charged with violent offenses and given a
+pretrial detention hearing, 73% were ordered detained.  In 1998,
+70% of those charged with drug offenses and 59% of those charged
+with property offenses were ordered detained following a
+pretrial hearing.
+
+Violations (table 3.7) -- Of defendants released prior to trial
+and terminating pretrial services during 1998, those charged
+with drug offenses were more likely (27%) than other defendants
+to incur at least one violation during the release period. 
+Among major offense categories, those charged with property
+offenses were less likely (11%) than others to violate
+conditions of their release.  Those charged with drug offenses
+and violent offenses were more likely to have their release
+revoked (10% of all released drug defendants, 9% of all released
+violent defendants), and public-order defendants were slightly
+more likely than property defendants to have their release
+revoked (4% versus 3%).
+
+Pretrial outcomes across 
+demographic groups
+
+Releases (table 3.2) -- Females were more likely (68%) than
+males (38%) to be released during 1998 (figure 3.3).  Males were
+more likely to have a financial condition imposed on them as
+females (17% versus 11%).  Fifty-eight percent of all defendants
+identified as non-Hispanic were released during 1998 compared to
+19% of Hispanics.  Non-Hispanic releasees had more than twice
+the chance of being released on personal recognizance as
+Hispanics.
+
+The higher the education level of the defendant, the greater the
+probability of release.  A third (34%) of defendants with less
+than a high school education were released in 1998, while 75% of
+those who had completed college were released.  Releasees with a
+college degree were less likely to receive financial conditions
+(13%) and more likely to be released on personal recognizance
+(31%) than those who had less education.
+
+Defendants with a history of drug abuse were released less
+frequently than those defendants with no known drug history. 
+However, among all released defendants, drug abuse history does
+not appear to have had a major effect on the form of pretrial
+release.
+
+Detentions (tables 3.4 and 3.6) -- Males were more likely (71%
+versus 44%) than females to be detained (table 3.4).  Of all
+detainees, 56% of the men and 42% of the women were detained
+following a detention hearing.  Hispanics had a substantially
+higher probability of being detained (nearly 9 out of 10) as
+compared with non-Hispanics (5 out of 10).  Higher detention
+rates for Hispanics reflects a perceived greater risk of
+pretrial flight.  In a previous BJS report, 70% of Hispanics
+prosecuted in the Federal courts were identified as noncitizens
+and 64% lived in the community in which they were arrested for
+less than 1 year. (Federal Pretrial Release and Detention, BJS
+Special Report, NCJ 168635.)  Additionally, almost all of those
+charged with an immigration offense -- of which Hispanics
+comprise the majority -- were detained because of the perceived
+risk of pretrial flight.
+
+Younger defendants were more likely than older ones to be
+detained, with the percentage peaking at defendants in their
+twenties.  Seventy-two percent of defendants between the ages of
+21 and 30 years were detained compared to 70% of defendants
+between 16 and 18 years and 48% of those over 40.  However,
+among all defendants detained, the chances of being detained
+following a detention hearing were similar across all age
+groups.  These patterns were more dramatic with education
+levels.  Those defendants with lower levels of education were
+more likely to be detained.  Seventy-seven percent of those who
+did not graduate from high school were detained versus 34% of
+college graduates.  Of those detained, 54% of defendants without
+a high school diploma were detained following a detention
+hearing compared to 48% of college graduates.
+
+Not only were male defendants nearly twice as likely as female
+defendants to have a detention hearing (53% versus 31%), they
+were also more likely to be ordered detained as a result of the
+hearing (table 3.6).
+
+The likelihood of having a detention hearing increased with the
+number of prior convictions, severity of the defendant's
+criminal history, and current sentence of supervision. 
+Further-more, 55% of those with a history of drug abuse had
+detention hearings as compared to 42% of those without such a
+past.  Those with a history of drug abuse were slightly more
+likely to be detained.
+
+Violations (table 3.9) -- Released males were more likely than
+females to incur a violation during the pretrial release period
+(18% versus 13%) and were slightly more likely to have their
+release revoked.  Blacks were more likely to incur a violation
+than whites (21% versus 14%).  Defendants with no prior criminal
+history were less likely to have a pretrial release violation
+than those with a prior conviction.  Released defendants with a
+known drug history had more than 3 times the likelihood of
+incurring a violation than those with no known drug history. 
+Also, those with a history of drug use were substantially more
+likely to have their release revoked.
+
+Length of pretrial detention 
+(table 3.10) 
+
+Among defendants detained for any time prior to case
+disposition, those charged with drug offenses were detained the
+longest (an average of 88.7 days) compared to violent defendants
+(81.2 days), public-order defendants (62.5 days), and property
+defendants (50.0 days) -- not in a table.
+
+Of defendants released, those released on conditional means
+spent the greatest average number of days detained (65.2 days)
+compared to those released on personal recognizance (50.1 days),
+unsecured bond (46.1 days), or  financial conditions (35.8
+days).  This trend varied only slightly across all major offense
+categories -- defendants released on conditional means were
+detained more days than defendants who were released by any
+other means.
+
+Of defendants not released, those detained following a detention
+hearing were detained longer, on average, than those held on
+financial conditions (105.0 days compared with 77.4 days).  Only
+public order defendants held on financial conditions (74.2 days)
+were detained longer than those detained by the court (72.0
+days).
+
+Chapter notes
+
+1)   All tables in chapter 3 were created from data in the
+Pretrial Services Information Act System data base, which is
+maintained by the Pretrial Services Agency (PSA) within the
+AOUSC.  The data describe 60,950 defendants who terminated
+pretrial services during October 1, 1997, through September 30,
+1998, and whose cases were filed by complaint, indictment, or
+information.  In these tables, the totals (e.g., "all offenses")
+included records whose offense or other attributes were missing
+or indeterminable.  The percentage distributions were based on
+nonmissing values, and missing values were reported in a
+separate row or in a footnote.
+
+Offenses in the PSA are based on the most serious charged
+offense, as determined by the probation officer responsible for
+the interview with the defendant.  The probation officer
+classifies the major offense charged into AOUSC four-digit
+offense codes.  For defendants charged with more than one
+offense on an indictment, the probation officer chooses as the
+most major charged offense the one carrying the most severe
+penalty or, in the case of two or more charges carrying the same
+penalty, the one with the highest offense severity.  The offense
+severity level is determined by the AOUSC, which ranks offenses
+according to the maximum sentence, type of crime, and maximum
+fine amount.  These four-digit codes are then aggregated into
+the same offense categories as those used in chapter 2.
+
+For drug offenses, the type of drug activity -- trafficking or
+possession -- is obtained by the probation officers from their
+reading of the indictment or other charging documents.  The
+AOUSC citation manual provides probation officers with detailed
+instructions on how to code drug crimes.
+
+2)  In tables 3.13.4, the percentages showing the methods of
+release or methods of detention were based on the number of
+defendants released or the number of defendants detained.  In
+tables 3.5 and 3.6, the percentages were based on the number of
+defendants who had hearings and were ordered detained.  This
+method departs from the 1993 and prior compendia, in which the
+percentages were based on the number of defendants terminating
+pretrial services.
+
+Chapter 4
+
+Adjudication
+
+Federal criminal cases may result in conviction of the defendant
+following plea or trial, acquittal of the defendants after
+trial, or dismissal of the case.**(1Unless otherwise noted, data
+describe felony and misdemeanor cases in U.S. district courts
+and include Class A misdemeanors handled by U.S. magistrates. 
+The data also include Class B misdemeanors that are handled by
+U.S. district court judges, which occur infrequently.)** 
+
+Defendants in cases commenced 
+(table 4.1)  
+
+During 1998, 78,172 defendants had criminal cases
+commenced**(2Cases are commenced on or after the date that
+charges are filed against defendants.)** against them in U.S.
+district courts, and 64,769 (83%) of those defendants were
+charged with felonies.  The 28,021 felony drug defendants
+comprised 36% of all criminal defendants in cases filed and 43%
+of all felony defendants.  Felony property and public-order
+defendants comprised 19% and 23%, respectively, of all
+defendants in cases filed.  The 13,254 misdemeanor defendants
+constituted 17% of all defendants in cases filed, with 37% of
+those misdemeanor defendants charged with traffic violations.
+
+Defendants in cases terminated 
+(table 4.2)
+
+Cases were terminated against 69,769 defendants during 1998,
+57,054 (82%) of whom were felony defendants.  During 1998, the
+24,317 drug-related felony defendants comprised nearly 35% of
+all defendants in cases terminated and 43% of all felony
+defendants.
+
+Over 87% of all defendants were convicted; 90% of all felony
+defendants and 75% of misdemeanor defendants.  For major felony
+offense categories, conviction rates hovered around the 90%
+range.  Within major offense categories, however, the conviction
+rates varied more widely.  For example, within the violent
+offense category, the conviction rates ranged from 80% for those
+found guilty of assault, to 96% for robbery.  Within the
+public-order category, the conviction rate ranged from 66% for
+civil rights violations to 95% for immigration and gambling
+offenses.
+
+Most defendants who were convicted pleaded guilty.  Overall,
+over 93% of those convicted pleaded guilty, while only 6% were
+convicted at trial. For felony offenses, 94% pleaded guilty to
+their charges.  For the major felony offense categories, guilty
+pleas were registered for 92% of violent offend-ers, 93% of drug
+offenders, and 95% each for public-order and property offenders.
+
+During 1998, 4,882 defendants exercised their right to a trial. 
+A higher percentage of violent offenders went to trial than
+drug, property, and public-order offenders.  Ten percent of
+violent offenders went to trial as compared with 6% of both
+property and public-order offenders, and 7% of drug offenders.
+
+Of defendants who exercised their right to a trial, 3,692 (76%)
+were convicted either by a jury or a bench trial.  The felony
+trial conviction rate was 83%, while the misdemeanor conviction
+rate was 50%.  Among felony offenses, trial conviction rates
+ranged from 79% for violent defendants to 86% for drug
+defendants.  Property and public-order offenders fell in
+between, as 80% were convicted at trial for each respectively.
+
+Case processing times 
+(table 4.3)
+
+The data in table 4.3 cover the inter-val from the time a case
+is filed in U.S. district court through sentencing for those
+convicted as well as the interval from case filing through
+disposition for those not convicted, or those whose cases are
+dismissed.  Title I of the Speedy Trial Act of 1974, as amended,
+sets time requirements for processing criminal cases in Federal
+courts.  Except for certain exclusions, indictment must occur
+within 30 days of arrest; defendants are guaranteed at least 30
+days to prepare for trial; and the Government must be ready for
+trial within 70 days.  The Speedy Trial Act does not specify a
+time interval from trial to sentencing,**(3The sentencing reform
+Act of 1984 specifies minimum intervals for the disclosure and
+objections to the presentnce report.  See rule 31, Federal
+Rules of Criminal Procedure)** and the time limits set by the
+Act exclude several enumerated periods of pretrial procedure
+such as time spent awaiting rulings on motions.**(418 U.S.C.
+3161 et. seq.)**  Additionally, defendants may waive their
+rights within the Speedy Trial Act.  As a result, the actual
+processing time for most defendants can be longer than the
+statutory limits without violating the provisions of the Act.
+
+Overall, the average time for processing defendants was 8.7
+months (figure 4.1).  For felony defendants, the overall
+processing time average was 9.7 months; for those charged with
+misdemeanor crimes, the average processing time was 3.9 months. 
+Defendants who pleaded guilty were processed faster (7.9 months)
+on average, than defendants who went to trial (11.6 months). 
+Overall, defendants whose cases were ultimately dismissed took
+longest to process (12.7 months), on average.  Among major
+felony offense categories, however, case processing times were
+not similar to the overall pattern.  Only those convicted of
+drug offenses took a greater amount of time for dismiss-al, on
+average, than those who went to trial.
+
+Convictions by U.S. Magistrates 
+(table 4.4)
+
+During 1998 U.S. magistrates disposed of 11,685 misdemeanor
+criminal defendants, almost 75% of whom were convicted.  Traffic
+violators comprised 42% of the defendants disposed by U.S.
+magistrates, with property offenders comprising another 32%. 
+Drug offenses comprised almost 10% of U.S. magistrates' cases.
+
+Characteristics of convicted defendants 
+(table 4.5)
+
+Among defendants convicted, there were over 5 times as many men
+as women (85% versus 15%); over twice as many whites as blacks
+(67% versus 28%); and almost twice as many non-Hispanics as
+Hispanics (63% versus 37%).  Most were U.S. citizens (67%), had
+graduated from high school or completed some higher education
+(57%), and had some criminal history (54%).  Persons over the
+age of 30 represented 55% of defendants.
+
+Chapter notes
+
+1)  Tables 4.1-4.4 were derived from the Administrative Office of
+U.S. Courts (AOUSC) criminal master data files.  Only records
+with cases filed in U.S. district court (table 4.1) or cases
+that terminated in U.S. district court during October 1, 1997,
+through September 30, 1998, were selected.  Offenses were
+classified according to the most serious offense charged.  In
+the case of multiple offenses, the offense carrying the most
+severe potential penalty was selected.
+
+In this Compendium, carjacking offenses are classified as
+robberies, based on title and section of the U.S. Code.  In
+compendia prior to the 1997 Compendium, they were classified as
+motor vehicle thefts, based on the AOUSC offense classifications.
+
+2)  Table 4.5 was created by matching the AOUSC master data files
+with the U.S. Sentencing Commission (USSC) monitoring system
+files and the Pretrial Services Agency (PSA) data files.  These
+latter two data files contain information on the characteristics
+of defendants.  The USSC monitoring system files are limited to
+records of defendants sentenced under the Federal sentencing
+guidelines only.  These include defendants convicted of felonies
+or Class A misdemeanors.  Excluded from the USSC data were
+defendants convicted only of Class B or C misdemeanors or
+infractions, defendants whose offenses were committed before
+November 1, 1987, and juvenile offenders.  Juveniles are not
+subject to guidelines, and they were not included in table 4.5. 
+Some of the defendants excluded from the USSC data files were
+included in the PSA data.  (See Chapter 3 Chapter notes for more
+information on the PSA data.)  Table 4.5 indicates the number of
+records for which relevant data were available.  Percentage
+distributions were based on records with known values of
+defendant characteristics and offenses.
+
+3)  A criminal record, as reported in table 4.5, is limited to
+prior adult convictions.  For some defendants in this table, it
+is further limited to the portion that is relevant for
+calculating sentences under the Federal sentencing guidelines. 
+In general, this is limited to sentences imposed within a
+15-year period prior to the current offense and offenses
+committed within the United States.  For most defendants, the
+criminal history used to calculate sentencing guideline ranges
+includes their entire adult criminal history.
+
+Chapter 5
+
+Sentencing
+
+Depending upon the type and severity of the offense, convicted
+offenders may be sentenced to incarceration, probation, a fine,
+or a combination of sanctions such as a split or mixed sentence
+(imprisonment as well as a period of probation supervision). 
+(For a definition of mixed sentences, see Glossary, p. 111.) 
+The Federal sentencing guidelines require a term of supervised
+release following service of any prison sentence of more than 1
+year.  In addition, courts have the discretion to impose
+supervised release in any other case.
+
+Except where otherwise indicated, tables in this chapter are
+based on the most serious offense of conviction.  They are not
+directly comparable with tables in earlier chapters that are
+based on the most serious offense investigated or most serious
+offense charged (see "Offense classifications" in Methodology,
+p. 107).
+
+Offenders convicted and sentences imposed 
+(table 5.1)
+
+Of the 60,958 offenders sentenced during 1998, 43,041 (71%) were
+sentenced to prison; 12,744 (21%) were sentenced to probation;
+and 3,199 (5%) were ordered to pay only a fine.  (Offenders
+given an intermediate sanction such as intermittent confinement
+or community confinement that also included probation
+supervision are counted among offenders given probation.)  Of
+the 43,041 offenders sentenced to prison, 41,420 (96%) were
+convicted of felonies, and 82% of convicted felons were
+sentenced to prison.  Defendants convicted of drug (92%) and
+violent (91%) felonies were more likely to receive prison
+sentences than were defendants convicted of property (60%) or
+public-order (83%) offenses (figure 5.1).
+
+Among public-order offenders, persons convicted of weapons
+(92%), immigration offenses (91%), and escape (91%) were as
+likely as violent and drug offenders to receive prison sentences.
+
+Among property offenders, persons convicted of arson or the use
+of explosives (87%) were also almost as likely as violent and
+drug offenders to receive prison sentences.
+
+Overall, 21% of convicted offenders were sentenced to probation.
+The percentage of misdemeanants sentenced to probation (48%)
+was three times that of convicted felons (15%).  Among felons,
+persons convicted of communication violations (86%), postal law
+violations (84%), and agriculture violations (68%) were the most
+likely to be given probation.
+
+While less than 1% of all convicted felons were ordered to only
+pay a fine, 45% of the felons convicted of antitrust violations
+were so ordered.  Fines generally were reserved for misdemeanor
+offenders, 28% of whom received fines.
+
+Average prison sentences imposed 
+(table 5.2)
+
+For all offenders given prison terms, the average term of
+imprisonment imposed was 58.8 months.  Persons convicted of
+felonies received an average prison term of 60.6 months.
+
+The average length of prison sentence imposed varied among major
+offense categories (figure 5.2).  Property offenders received
+the shortest sentence, on average, while violent offenders
+received the longest (25.4 months compared to 84.2 months). 
+Drug offenders received 78.8 months, on average, and
+public-order offenders received 47.3 months.  The average prison
+term for public-order offenders was primarily attributable to
+sentences imposed for weapons offenders.  The 2,914 weapons
+offenders sentenced to prison comprised 24% of the 12,218
+public-order offenders sent to prison; weapons offenders
+received an average prison term of 100.6 months, and
+public-order offenders other than weapons offenders received an
+average prison term of 30.6 months.
+
+Relationship between sentence imposed and mode of  
+conviction (table 5.3)
+
+Offenders convicted by plea were less likely to receive prison
+sentences than those convicted at trial.  Seventy percent of the
+offenders convicted by guilty plea received some prison time,
+while 84% of the offenders convicted at trial received prison
+sentences.
+
+For violent offenders, 91% of those convicted by plea received
+prison sentences, as did 97% of those convicted at trial.  For
+fraudulent property offenders, 59% of those convicted by plea
+received prison sentences, compared to 86% of those convicted at
+trial. And, for regulatory public-order offenders, 41% of those
+convicted by plea went to prison, but 70% of those convicted at
+trial did.
+
+The average prison term imposed on defendants convicted at trial
+was longer than the term imposed on defendants convicted by
+plea.  Defendants convicted at trial received 148.9 months, on
+average, while those convicted by plea received an average of
+52.3 months (figure 5.3).  Drug offenders convicted at trial
+received an average of 188.4 months as compared to the 71 months
+for drug offenders convicted by a guilty plea. Violent offenders
+who went to trial received an average sentence of 180.4 months
+as compared to the 75.8 months for those convicted by plea.
+
+Characteristics of offenders sentenced to prison 
+(tables 5.4-5.6)
+
+The majority of persons sentenced to prison during 1998 were
+male(85%), white (67%), non-Hispanic (63%), and U.S. citizens
+(67%). The percentage sentenced to prison was not uniform across
+all categories of age, race, sex, education, and ethnicity. 
+Similarly, the average sentences imposed were not uniform across
+these categories (table 5.5).  However, conclusions about the
+effect that characteristics may have had on sentencing cannot be
+drawn from the aggregate patterns in the data.  Such an
+assessment would require detailed information for each category
+showing the presence or absence of factors that are legally
+intended to affect sentencing, such as offense severity, weapon
+use, role in the offense, victim injury, dollar loss, and so
+forth.
+
+One such study of the factors affecting sentencing found that
+"nearly all of the aggregate differences among sentences for
+whites, blacks, and Hispanics during 1989-90 can be attributed
+to characteristics of offenses and offenders that current law
+and sentencing guidelines establish as legitimate considerations
+in sentencing decisions." **(* Douglas C. McDonald and Kenneth
+E. Carlson, Sentencing in the Federal Courts: Does Race Matter? 
+Washington, D.C.: U.S. Department of Justice, Bureau of Justice
+Statistics, December 1993 (NCJ145328).)**
+
+Average sentences imposed were longest for males (61.8 months),
+blacks (90.2 months), non-Hispanics (69.1 months), and U.S.
+citizens (68.8 months).  These longer terms were due in large
+part because these categories of offenders (males, blacks,
+non-Hispanics, and U.S. citizens) are more highly concentrated
+in the offense types (table 5.4) that also are associated with
+longer average sentences (table 5.2).  For example,
+incarceration rates for blacks exceeded those of whites in the
+violent, drug, and nonregulatory public-order offense
+categories.  These offenses are associated with longer average
+sentences (table 5.2, figure 5.2) than are property offenses or
+misdemeanors -- the categories in which whites' incarceration
+rates exceeded those of blacks.  In general, within categories
+of offender characteristics, average prison terms were longer
+for violent and drug offenses than for property and regulatory
+public-order offenses. These two offense categories generally
+are considered to be more serious under the Federal sentencing
+guidelines than are property and regulatory public-order
+offenses.  As a result, for aggregate tables like the ones
+presented in this chapter, persons with a certain characteristic
+may appear to receive more severe sentences on average.  The
+primary reason for the larger averages is the larger number of
+serious offenses that made up the average sentences.
+
+Chapter notes
+
+1)  Tables 5.1-5.3 were derived from the AOUSC criminal master
+data files.  Only records of defendants sentenced during October
+1, 1997, through September 30, 1998, were selected.  Offenses
+shown in these tables -- offenses of conviction -- are based on
+the longest actual sentence imposed.
+
+2)  Tables 5.4-5.6 were created from AOUSC criminal master data
+files, supplemented with linked data on offender characteristics
+from two sources: the United States Sentencing Commission (USSC)
+monitoring system files (which are limited to records of
+defendants sentenced under the Federal sentencing guidelines);
+and the Pretrial Services Information Act System database,
+maintained by the Pretrial Services Agency (PSA).  These two
+supplemental data files contain information on the
+characteristics of defendants.  Table 5.4 indicates the number
+of records for which relevant data were available.  Percentage
+distributions were based on records with known values of
+defendant characteristics and offenses.  Means and medians in
+tables 5.5 and 5.6 were based on the number of records shown in
+table 5.4.
+
+3)  Criminal record, as reported in tables 5.4-5.6, is limited
+to prior adult convictions.  For some defendants in these
+tables, it is further limited to the portion of their criminal
+record that is relevant for calculating sentences under the
+Federal sentencing guidelines.  In general, this is limited to
+sentences imposed within 15 years of the current offense and
+sentences for offenses committed within the United States.  For
+most defendants, the criminal history used to calculate
+sentencing guideline ranges is the same as their adult criminal
+history.
+
+Chapter 6
+
+Appeals
+
+
+Prior to implementation of the Sentencing Reform Act of 1984,
+only criminal convictions could be appealed.  However, the
+Sentencing Reform Act provided for the appellate review of
+sentences imposed given that the sentence was (1) imposed in
+violation of the law; (2) imposed as the result of an incorrect
+sentencing guideline application; (3) outside the recommended
+guideline sentencing range; or (4) imposed for an offense for
+which no sentencing guideline exists and is plainly
+unreasonable.  Both the defendant and the Government have the
+right to appeal an imposed sentence (18 U.S.C. § 3742).
+
+Appeals filed (tables 6.1 and 6.2)
+
+During 1998 the U.S. Court of Appeals received 10,535 criminal
+appeals.  Of all appeals, 4% were filed by the Government (not
+shown in a table).
+
+Forty-seven percent of appeals filed in 1998 challenged both the
+conviction and the sentence imposed. Twice as many appeals
+challenged only the sentence imposed as those that challenged
+only the conviction (24% versus 12%).  Fifteen percent of
+appeals filed were appeals of convictions for crimes committed
+before 1987, when the sentencing guidelines took effect (figure
+6.1).
+
+The distribution of appeals by type of appeal filed (sentence,
+conviction, or both) was relatively similar across the major
+offense categories underlying the appeal.  However, 56% of
+appeals filed for immigration offenses appealed both the
+sentence and the conviction, compared to 48% for public-order
+offenses and 47% for all criminal categories. 
+
+Nearly half of all appeals filed were for drug convictions
+(48%).  Appeals for public-order convictions comprised 25% of
+all appeals filed, property offenses comprised 19%, and the
+remaining 7% of appeals filed were for violent offenses (figure
+6.2).
+
+Appeals terminated (tables 6.3-6.5)
+
+A total of 10,105 appeals terminated during 1998.  Of these, 47%
+were appeals of both the sentence and conviction, 24% were
+appeals of the sentence only, and 14% were appeals of the
+conviction only.  Fourteen percent were appeals of convictions
+for offenses sentenced under laws in effect prior to the
+sentencing guidelines.
+
+In nearly half of all appeals terminated in 1998, drug offense
+convictions underlie the appeal (46%); the under- lying offense
+in 24% of the appeals was a public-order offense; 19% were
+property offense appeals; and 7% were appeals for violent
+offense convictions.  For 43% of public-order appeals, the
+underlying offense of conviction was for weapons.  Robbery
+offenses composed 42% and murder composed 16% of the underlying
+offenses for appeals of a violent conviction.  Sixty-two percent
+of property offense appeals were for fraud convictions.
+
+Of the 10,105 appeals terminated during 1998, 76% were
+terminated on the merits, while the remainder were terminated on
+procedural grounds (figure 6.3).  For appeals based on a
+conviction of a drug offense or a public-order offense, 78% were
+terminated on the merits.  Also terminated on the merits were
+79% of appeals based on a violent conviction and 72% of appeals
+based on a property conviction.  Within these major offense
+categories, the appeals having the highest rates of termination
+on the merits were those based on a conviction for a weapons
+offense (83%), a rape or a murder conviction (81%), or a
+conviction for racketeering and extortion (80%).
+
+In 82% of appeals terminated on the merits, the district court
+ruling was affirmed.  In another 4% it was partially affirmed. 
+Eighty-three percent of all drug offense appeals were affirmed,
+as were 80% of violent offense appeals and property appeals. 
+Eighty-two percent of public-order offense appeals were affirmed.
+
+District court decisions were reversed or remanded back to the
+court in 8% of the cases.  Violent offenses had the highest rate
+of reversal or being remanded back to the court (12%).  Nine
+percent of property offense appeals were reversed or remanded,
+as were 8% of public-order and 7% of drug offense appeals.
+
+Overall, appeals were dismissed in 5% of cases.  Across major
+offense categories, this dismissal rate remained relatively
+constant.
+
+Chapter notes
+
+Tables in chapter 6 were created from the AOUSC appeals
+database.  Records of appeals filed or terminated during October
+1, 1997, through September 30, 1998, were selected.  Data
+include records of 10,535 criminal appeals filed during fiscal
+year 1998 and 10,105 appeals terminated during the same period.
+
+The unit of analysis in the appeals data is a single case.  Most
+records in the appeals data report on a single appellant. 
+Appeals were classified into the offense categories that
+represent the underlying offense of conviction.  Offenses
+represent the statutory offense charged against a defendant in a
+criminal appeal.  Offenses were classified by the AOUSC into
+their four digit offense codes.  These were then aggregated into
+the offense categories shown in the tables.
+
+Chapter 7
+
+Corrections
+
+
+Federal offenders under 
+supervision (table 7.1)
+
+As of the end of the fiscal year 1998, there were 92,768
+offenders under active Federal supervision, of which most (88%)
+were felons.  About 65% of these offenders were receiving one of
+two forms of post-incarceration supervision:  supervised release
+(54,822) or parole (5,827).  The remainder (32,119) were under
+probation supervision.  Most of the probationer population had
+been convicted of either a property felony (38%) or some type of
+misdemeanor offense (33%).  Nearly 53% of offenders under
+supervised release and over 52% of parolees had been convicted
+of a drug offense.
+
+Outcomes of offenders completing 
+supervision (tables 7.3, 7.5, and 
+7.7)
+
+Probation (table 7.3) -- During 1998, 16,011 offenders completed
+one or more terms of active probation.  Overall, 81% of
+offenders successfully completed their term of probation,
+another 17% violated their conditions of probation, and the
+remaining 2% were administrative closures.  Of offenders
+terminating probation, 5% committed a new crime (figure 7.1). 
+Most committed technical violations, including drug use (4%) and
+absconding (2%).
+
+Offenders convicted of violent offenses were less likely than
+others to successfully complete a term of probation without a
+violation (figure 7.2).  During 1998, 30% of probationers
+convicted of violent offenses violated their conditions of
+probation, as did 16% of drug, 14% of property, and 9% of
+public-order offenders.  Violent offenders were also more likely
+to commit new crimes (9%) than were probationers convicted of
+property (4%), drug (5%), and public-order (4%) offenses.
+
+Supervised release (table 7.5) -- During 1998, 19,878 offenders
+completed terms of supervised release.  Overall, 64% of them
+successfully completed their term of supervised release; 21%
+committed technical violations, such as drug use (8%) and
+absconding (4%); and 12% of these offenders violated their
+probation supervision by committing a new crime.  The remaining
+3% had their supervision administratively terminated.
+
+Violent offenders were less likely than others to complete a
+term of supervised release without a violation.  Fifty-four
+percent of violent offenders violated conditions of supervised
+release, while 32% of drug, 32% of public-order, and 28% of
+property offenders violated supervised release.  Violent
+offenders were also more likely to commit new crimes (18%) than
+offenders convicted of property (10%), drug (12%), or
+public-order (13%) offenses.
+
+Parole (table 7.7) -- During 1998, 3,077 offenders completed
+terms of parole.  Overall, 56% of these offenders successfully
+completed their term of parole.  During 1998, 13% of these
+offenders violated their supervision by committing a new crime;
+26% committed technical violations, such as drug use (12%) and
+absconding (5%); and 5% completed their parole term through an
+administrative case closure.
+
+Offenders convicted of violent offenses were less likely than
+others to complete a term of parole without a violation. 
+Sixty-two percent of violent offenders violated conditions of
+parole, while 35% of public-order, and 33% of property and 29%
+of drug offenders violated parole.  Violent offenders were also
+more likely to commit new crimes (20%) than offenders convicted
+of property (14%), public order (12%), or drug (10%) offenses.   
+
+Characteristics of offenders 
+completing supervision 
+(tables 7.4, 7.6, and 7.8)
+
+Probation (table 7.4) -- Among offenders who completed a term of
+probation, 74% were male; 68% were white and 88% were of
+non-Hispanic origin; 25% were less than age 31 (compared to 53%
+over age 40); 25% had less than a high school diploma (compared
+to 38% whose highest education was a high school diploma and 37%
+who had at least some college education); and 80% had no known
+drug history.
+
+Younger offenders, those with a history of drug abuse, and those
+with a lower educational background had higher probabilities of
+violating the conditions of probation.  Offenders ages 16 to 20
+were more likely (41%) to violate conditions of supervision than
+probationers in other age groups -- 25% of those ages 21 to 30
+and 13% of those over age 30. 
+
+Probationers with a history of drug abuse were almost 9 times
+more likely to violate probation for drug use than offenders who
+were not drug abusers.  Probationers with known histories of
+drug abuse were also more likely to violate supervision for
+other reasons (fugitive status and new crimes) than were other
+probationers.
+
+Probationers with lower levels of education were more likely to
+violate the conditions of probation than those with higher
+levels of education.  Those who did not graduate high school had
+a 25% violation rate, those who were high school graduates had a
+17% violation rate, those with some college had a 13% violation
+rate, and those with a college degree had only a 5% violation
+rate.
+
+Supervised release (table 7.6) -- Among those who completed a
+term of supervised release, 85% were male; 66% were white; 83%
+were of non-Hispanic origin; 20% were less than age 31 (52% were
+over age 40);  37% had only some high school (34% had a high
+school diploma and 28% had at least some college); and 56% had
+no known drug history.
+
+
+Younger offenders, those with a history of drug abuse, and those
+with a lower educational background had higher probabilities of
+violating the conditions of supervised release.  Offenders under
+age 30 were more likely to violate conditions of their
+supervision than offenders in other age groups -- 46% of those
+under age 30 violated a condition of their supervision compared
+to 23% of those over age 40.
+
+Releasees with a history of drug abuse were 4 times more likely
+to terminate their supervision for technical violations of drug
+use as were releasees who were not drug abusers.  Releasees with
+known histories of drug abuse were also more likely to violate
+supervision with technical violations or new crimes.
+
+Similarly, releasees with lower levels of education were more
+likely to violate conditions of  supervised release than those
+with higher levels of education.  Those who did not graduate
+from high school had a 41% violation rate, those who were high
+school graduates had a 33% violation rate, those with some
+college had a 25% violation rate, and those with a college
+degree had a 12% violation rate.
+
+Parole (table 7.8) -- Among those who completed a term of
+parole, 96% were male; 63% were white; 86% were of non-Hispanic
+origin; 79% were over age 40; 43% had only some high school (33%
+had a high school diploma and 18% had at least some college);
+and 48% had no known drug history.
+
+Offenders with a history of drug abuse and those with a lower
+educational background had higher probabilities of violating the
+conditions of parole.  Releasees with a history of drug abuse
+were three times more likely to terminate their supervision for
+technical violations of drug use than were releasees who were
+not drug abusers.  Releasees with known histories of drug abuse
+were also more likely to violate supervision with technical
+violations or new crimes.
+
+Similarly, releasees with lower levels of education were more
+likely to violate conditions of  supervised release than those
+with higher levels of education.  Those who did not graduate
+from high school had a 45% violation rate, those who were high
+school graduates had a 42% violation rate, those with some
+college had a 28% violation rate, and those with a college
+degree had a 15% violation rate.
+
+Admissions, releases, and 
+standing population of Federal
+prisoners (table 7.9)
+
+The Federal prison population grew by 9,670 persons during
+fiscal year 1998, increasing from 99,255 sentenced prisoners to
+108,925.  The greatest growth was among drug and public-order
+offenders, particularly immigration offenders.  The number of
+drug offenders in prison grew by 4,847 in 1998.  The number of
+immigration offenders increased by 1,970.  In contrast, the
+number of weapons offenders grew at a slower rate, increasing by
+680. Violent offenders increased by 815 offenders.
+
+Federal prisoners: First releases 
+and time served (tables 7.12-7.14)
+
+During 1998, 34,504 prisoners were released from Federal prison
+for the first time after serving a sentence imposed by a U.S.
+district court.  **(1Tables 7.12-7.14 include only prisoners
+first released by the BOP during 1988.)**  Of these, 31,200 were
+released by standard means.  These standard releases served an
+average of 28.0 months (table 7.12) in prison -- 91% of the
+sentence imposed, on average (table 7.14).**(2Average time to
+first release is the number of months in Bureau of Prison
+facilities.  Time to first release does not include time
+detained pending adjudication and/or sentencing.  Percent of
+total sentence obligation served until first release.)** 
+
+The remaining 3,304 first releases were released by
+extraordinary means:  2,085 were released early due to
+participation in a drug treatment program; 223 had their
+sentences commuted; 400 were de-ported; 205 died; and 391 were
+released for other reasons including escape and an intensive
+confinement program (table 7.12).  Drug offenders made up the
+vast majority of those released by extraordinary means (81%).
+
+Time served until first release varied by offense:  Violent
+offenders served an average of 53.7 months; drug offenders
+served an average of 41.4 months; public-order offenders served
+an average of 18.1 months; and property offenders served an
+average of 15.5 months (figure 7.4).  During 1998 the average
+time to first release for public-order offenders was influenced
+heavily by the relatively short time served by immigration
+offenders.  Immigration offenders composed 61% of all released
+public-order offenders and, on average, served 11.1 months until
+first release.  This was only half of the average time served
+for all public-order offenders (18.1 months).  Exclusive of
+immigration offenders, public-order offenders served an average
+of 28.9 months until first release (not shown in a table).
+
+While violent and drug offenders served more time before first
+release, property and public-order offenders served more of
+their sentences than violent and drug offenders (figure 7.4).
+
+Old law offenders -- those who committed crimes before the
+implementation of Federal Sentencing Guidelines in November 1987
+-- that were released in 1998 are not shown separately in any
+table.  Only 3%, or 996, of released offenders were old law
+offenders.  New law offenders released during 1998 served, on
+average, 26.3 months in prison (92% of the sentence imposed). 
+Since the guidelines became effective as of November 1987, new
+law offenders sentenced to terms of imprisonment greater than
+149 months could not have been released by standard means as of
+the end of  fiscal year 1998.***Footnote 3: The Federal Sentencing
+Guidelines allow a prisoner up to 54 days per year for good
+behavior, so a prisoner sentenced to 149 months in prison in
+November 1987 could have served 127 months of his or her
+sentence and been released in 1998.)***  They could have been
+released for extraordinary reasons such as death, commutation,
+or treaty transfer. ***Footnote 4: Prisoners released for extraordinary
+reasons have been excluded from all time served and percent of
+sentence served calculations.*** 
+
+Characteristics of Federal 
+prisoners (tables 7.10, 7.15, and 
+7.16)
+
+Standing population (table 7.10) -- Of prisoners in Federal
+prison at the end of 1998, 93% were male, 57% were white, 40%
+were black, 28% were Hispanic, and 74% were U.S. citizens. 
+Fifty-seven percent of the yearend population were 31 years of
+age or older.  This portrait of the Federal prison population
+was similar across offenses and for new law offenders, except
+for the ethnicity and citizenship of violent and property
+offenders.  More than 88% of these offenders were non-Hispanic
+and U.S. citizens.
+
+Prisoners released (table 7.15) -- Of prisoners released during
+1998, 88% were male, 73% were white, 24% were black, 40% were
+Hispanic, and 61% were U.S. citizens.  Fifty-five percent were
+31 years of age or older at the time they were committed to
+Federal prison.  These patterns were similar across offenses and
+for new law offenders, except for nonregulatory public-order
+offenses.  Of released offenders convicted of those offenses,
+64% were Hispanic and 66% were not U.S. citizens.
+
+Time served to first release (table 7.16)-- Of prisoners
+released by standard methods, males served more time than
+females, blacks served more time than whites, non-Hispanics
+served more time than Hispanics, older persons served more time
+than younger (until over age 40), and U.S. citizens served more
+time than noncitizens (figure 7.5).  However, among the
+offenses, the overall pattern does not apply.  For example,
+blacks served more time on average than whites, but among
+property offenders released from prison, whites served more time
+than blacks.
+
+
+Chapter  Notes 
+
+1) Offenders were classified according to their most serious
+offense at conviction.  In cases involving multiple offenses,
+the AOUSC offense severity hierarchy was applied.  The most
+serious offense was the one with the most severe penalty
+imposed.  If equal prison terms were imposed, or there was no
+imprisonment, the offense with the highest severity code, as
+determined by the U.S. Title and Code Criminal Offense Citations
+Manual, was selected.
+
+2) Tables 7.1 and 7.2 were created using the probation, parole,
+and supervision data files of the Federal Probations Supervision
+Information System (FPSIS), which is maintained by the AOUSC. 
+Yearend pending cases (that is, records with offenders who were
+under active supervision as of the end of the fiscal year,
+September 30, 1998) were selected.
+
+Corporate defendants were excluded from table 7.1.
+
+3)	Tables 7.3-7.8 were created using the FPSIS data files as
+well.  Only records with one or more terminations of active
+supervision during October 1, 1997, through September 30, 1998,
+were selected.  Each termination was counted separately. 
+Technical violations and terminations for new crimes are shown
+only if supervision terminated with incarceration or removal
+from active supervision for reasons of a violation.
+
+Corporate defendants were excluded from tables 7.3-7.8.
+
+4) Table 7.9-7.16 were created from the Federal Bureau of
+Prisons (BOP) data files.
+
+Tables 7.9 and 7.10 show sentenced prisoners in the custody of
+the BOP at the end of fiscal year 1998.  Tables  7.11-7.16
+include only prisoners committed by U.S. district courts or
+released by the BOP during fiscal year 1998.
+
+In these tables, a single person may be counted more than once
+if that person was committed into, or released from, the BOP
+more than one time during fiscal year 1998, or if that person
+appears in more than one column in a table, e.g., commitment and
+population.
+
+Offense categories in these tables were based on combinations of
+offense designations used by the BOP.  They are similar, but may
+not be directly comparable, to the categories used in other
+tables of this Compendium.  Offenses for some prisoners admitted
+or released were not able to be classified; these offenders were
+included in the totals and are shown as "other prisoners" on the
+last line of tables.
+
+In these tables, offenses were classified according to the
+offense associated with the longest single sentence actually
+imposed.  Classifications in other tables may have been based on
+the longest potential sentence allowed by law.
+
+5) Tables 7.9-7.16 distinguish between prisoners committed by
+U.S. district courts for violations of the U.S. Code and other
+prisoners.  Prisoners released after commitment from U.S.
+district court are called "first releases."  The other
+admissions and releases include offenders who returned to prison
+after their first release (such as probation, parole, or
+supervised release violators), offenders convicted in other
+courts (such as military or District of Columbia courts), and
+persons admitted to prison as material witnesses or for purposes
+of treatment, examination, or transfer to another authority. 
+Offenders who entered or left a prison temporarily — such as for
+transit to another location, for health care, or to serve a
+weekend sentence — were not counted as admitted or released. 
+Persons who were detained for deportation by the Immigration and
+Naturalization Service and who were not criminal offenders were
+also not included in the tables.
+
+Table 7.11 distinguishes between standard and extraordinary
+methods of release from prison.  "Standard" releases include the
+usual methods of exiting from prison, such as full-term sentence
+expirations, expirations with good time, mandatory releases, and
+releases to parole.  Extraordinary releases are unusual exits
+from prison, such as death, commutation, and transfer to another
+facility.
+
+6)  Tables 7.11-7.16 include only prisoners committed by U.S.
+district courts and released by the BOP during fiscal year 1998.
+ Prisoners committed by U.S. district court —  but not for a
+violation of the U.S. Code, or whose offense could not be
+classified — were included in the total but are not shown
+separately.  Table 7.9, however, shows these prisoners
+separately.  Other prisoners — such as probation and parole
+violators and prisoners committed by other courts, such as
+courts martial or District of Columbia Superior Court — were
+excluded from tables 7.11-7.16, as were other persons admitted
+to Federal prison but not committed from a U.S. district court.
+
+7) In tables 7.11-7.16, time served was calculated for
+prisoner's arrival into jurisdiction of the BOP until first
+release from prison, plus any jail time served and credited. 
+The calculation is the same as that currently used by the BOP. 
+Prisoners serving consecutive sentences may have total imposed
+sentences exceeding the longest single sentence length. 
+Accordingly, time actually served may exceed the longest single
+imposed sentence.  The percent of sentenced served (in tables
+7.12 and 7.14) is the average of each individual prisoner's
+percent of sentence served.  Because other publications may
+include different groups of prisoners, calculate time served
+differently, or use a different offense classification, data in
+tables in this Compendium may differ from estimates of time
+served in previous publications by the BOP or in publications
+based on other data sources.
+
+Time served, as reported in tables 7.11-7.16 in this Compendium,
+may not be directly comparable to the calculation of time served
+in the 1993 and prior compendia.  The methodology in this report
+uses additional information to identify prison commitment dates
+and account for jail credit.  In previous reports, jail credits
+were overestimated in some cases.  In addition, time served
+estimates reported in tables 7.12-7.14 and 7.16 include only
+prisoners released by standard methods (expirations, mandatory
+releases, and releases to parole).  Prisoners released by
+extraordinary means (death, commutation, transfer, etc.) are
+excluded from the time served calculations in these tables.
+
+8) Table 7.9 shows all persons admitted to, or released from,
+the jurisdiction of the BOP during fiscal year 1998.  Prisoners
+counted in this column are the same as prisoners included in
+tables 7.11, 7.12, and 7.13.  Table 7.9 shows in separate
+columns, as well as in the total, prisoners committed by a U.S.
+district court — but not for a violation of the U.S. code, or
+whose offense could not be classified.  Other columns in table
+7.9 include prisoners who were committed by other courts,
+returned to prison for violation of the conditions of
+supervision, or were received for examination, treatment, or
+transfer to another jurisdiction.  Offenders who returned to
+prison for a violation of the conditions of supervision without
+a new court commitment, were classified according to the offense
+with the longest single sentence originally imposed at
+conviction.
+
+
+Methodology
+
+The Federal justice database
+
+Source of data
+
+The source of data for all tables in this Compendium is the
+Bureau of Justice Statistics (BJS) Federal justice database. 
+The database is presently constructed from source files provided
+by the U.S. Marshals Service, the Executive Office for U.S.
+Attorneys, the Administrative Office of the U.S. Courts, the
+United States Sentencing Commission, and the U.S. Bureau of
+Prisons.  The Administrative Office of the U.S. Courts also
+maintains the data collected by the Pretrial Services Agency,
+the U.S. Court of Appeals, and the U.S. Probation Service. 
+Federal law prohibits the use of these files for any purposes
+other than research or statistics.  A description of the source
+agency data files is provided in the table at the end of this
+section.
+
+Some records in the Federal justice database are matched
+according to a statistically weighted combination of names,
+other personal identifiers, dates of court appearances, types of
+offenses, and other relevant information contained in the files.
+Using the matched data files, it is possible to combine
+information about two or more stages of the processing of a
+criminal matter or case, for example from adjudication to
+probation or parole supervision.
+
+Reporting period
+
+Wherever possible, matters or cases have been selected according
+to some event which occurred during fiscal year 1998 (October 1,
+1997, through September 30, 1998).  Some data files provided by
+source agencies are organized according to a calendar year time
+frame; these have been combined and divided into fiscal years
+for purposes of the Compendium.  Files which are organized by
+their source agencies according to fiscal year nonetheless
+include some pertinent records in later years' files.  For
+example, tabulations of suspects in matters concluded during
+fiscal year 1998 in this Compendium have been assembled from
+source files containing records of 1998 matters concluded which
+were entered into the data system during fiscal years 1998 or
+1999.
+
+Availability of data items
+
+The availability of particular items of information is affected
+by the data source.  For example, data on prosecutors' decisions
+prior to court filing are provided for cases investigated by
+U.S. attorneys but not for those handled by other litigating
+divisions of the U.S. Department of Justice.  Criminal Division
+cases enter the data base once they are filed in U.S. district
+court, however.  
+
+Many items of social and demographic information come from
+presentence investigation records, supervision records, or
+sentencing records, and are available only for arrested
+defendants who were convicted and/or began serving a sentence
+involving supervised release.  This particularly affects sex,
+race, ethnicity, and prior record information.
+
+Table construction and interpretation
+
+The tables presented report events that occurred during the
+Federal fiscal year — October 1, 1997 - September 30, 1998. 
+Generally, the tables include both individual and organizational
+defendants.  Organizational defendants are not included in
+tables describing pretrial release and detention or tables
+showing defendants sentenced to incarceration.  Juvenile
+offenders are included in the reported statistics.
+
+Unit of analysis
+
+The unit of analysis in chapters 1 through 6 is a combination of
+a person (or corporation) and a matter or case.  For example, if
+a single person is involved in three different criminal cases
+during the time period specified in the table, he or she is
+counted three times in the tabulation.  Similarly, if a single
+criminal case involves a corporate defendant and four individual
+defendants, it counts five times in the tabulation.  In chapter
+7, the unit of analysis for incarceration, probation, parole, or
+other supervised release is a person entering custody or
+supervision, or a person leaving custody or supervision.  For
+example, a person convicted in two concurrent cases and
+committed once to the custody of the Federal Bureau of Prisons
+in the indicated time period is counted as one admission to a
+term of incarceration.  A person who terminates probation twice
+in the indicated time period, such as with a violation and again
+after reinstatement, is counted as two terminations of probation.
+
+Interpretation
+
+The tables in the Compendium are constructed to permit the user
+to make valid comparisons of numbers within each table and to
+compare percentage rates across tables.  The total numbers of
+subjects in Compendium tables that are based on records linked
+between two files are generally less than the total number of
+records in either source file.  Accordingly, comparisons of
+absolute numbers across two or more tables in this volume and
+other data sources are not necessarily valid.
+
+Offense classifications
+
+Procedure
+
+The offense classification procedure used in this Compendium is
+based on the classification system followed by the
+Administrative Office of the U.S. Courts.  Specific offenses
+combined to form the BJS categories shown in the Compendium
+tables.*(These categories correspond to the Bureau of Justice
+Statistics crime definitions and, to the extent possible, are
+organized and presented consistent with BJS publications on
+State criminal justice systems.)
+
+Offense categories for Federal arrestees in chapter 1 are based
+on the FBI's National Crime Information Center (NCIC) offense
+classifications, which are converted into U.S. Marshals'
+four-digit offense codes, which, in turn are aggregated into the
+offense categories shown in the tables.  These categories are
+similar, but may not be directly comparable to the BJS offense
+categories used in other chapters of this Compendium.  For data
+from the Executive Office for U.S. Attorneys, which include
+United States Code citations but do not include the
+Administrative Office offense classifications, United States
+Code titles and sections are translated into the Administrative
+Office classification system and then aggregated into the
+offense categories used in the tables.  Offense categories for
+prisoners in chapter 7 are based on combinations of offense
+designations used by the Bureau of Prisons.  They are similar to
+the categories in other chapters and other tables in chapter 7,
+but may not be directly comparable.
+
+Felony/misdemeanor distinctions
+
+Felony and misdemeanor distinctions are provided where possible.
+ Felony offenses are those with a maximum penalty of  more than
+1 year in prison.  Misdemeanor offenses are those with a maximum
+penalty of 1 year or less.  Felonies and misdemeanors are
+further classified using the maximum term of imprisonment
+authorized.  Section 3559, U.S. Code, Title 18 classifies
+offenses according to the following schedule:
+
+Felonies
+
+Class A felony — life imprisonment, or if the maximum penalty is
+death.
+
+Class B felony — 25 years or more.
+
+Class C felony  — less than 25 years but more than 10 years.
+
+Class D felony  — less than 10 years but more than 5 years.
+
+Class E felony —  less than 5 years but more than 1 year.
+
+Misdemeanors
+
+Class A misdemeanor — 1 year or less but more than 1 month.
+
+Class B misdemeanor — 6 months or less but more than 30 days.
+
+Class C misdemeanor — 30 days or less but more than 5 days.
+
+Infraction — 5 days or less, or if no imprisonment is authorized.
+
+In this Compendium, felony and misdemeanor distinctions are
+provided where the data permit these distinctions.  Chapter 2
+does not use this distinction because many suspects cannot be so
+classified at the investigation stage in the criminal justice
+process.  Chapter 3 no longer reports this distinction because
+the Pretrial Services Agency no longer gathers this information.
+Chapters 4 and 5 distinguish between felony and misdemeanor
+offenses, as do tables 7.1–7.6.  Tables 7.7–7.11 follow the
+convention of other BJS publications by separately tabulating
+offenders whose actual imposed sentences are less than or equal
+to 1 year and those whose actual sentences are greater than 1
+year.
+
+Most serious offense selection
+
+Where more than one offense is charged or adjudicated, the most
+serious offense (the one that may or did result in the most
+severe sentence) is used to classify offenses. The offense
+description may change as the criminal justice process proceeds.
+ Tables indicate whether investigated, charged or adjudicated
+offenses are used.  In chapter 2, the most serious offense is
+based on the criminal lead charge as determined by the assistant
+U.S. attorney responsible for the criminal proceeding.  In
+chapter 3, the major charged offense is based upon the
+Administrative Office's offense severity classification system,
+as determined by the pretrial officer responsible for the case. 
+To select this offense, the officer ranks offenses according to
+severity based on maximum imprisonment, type of crime, and
+maximum fines.  In chapter 4, the most serious offense charged
+is the one that has the most severe potential sentence.  For
+chapter 5, conviction offenses are based on statutory maximum
+penalties.  In chapter 6, offenses are classified by the offense
+of conviction.  In tables 7.1–7.6, the most serious offense of
+conviction is either the one having the longest sentence imposed
+or, if equal sentences were imposed or there was no
+imprisonment, it was the offense carrying the highest severity
+code as determined by the Administrative Office's offense
+severity code ranking.  In tables 7.7–7.13, prisoners are
+classified according to the offense which bears the longest
+single incarceration sentence. 
+
+Offense categories
+
+For offense categories in all text tables, the following
+conditions apply:
+
+"Murder" includes nonnegligent manslaughter.
+
+"Other sex offenses" may include some nonviolent offenses.
+
+"Fraud" excludes tax fraud.
+
+"Larceny" excludes transportation of stolen property.
+
+"Other property felonies" excludes fraudulent property offenses,
+and includes destruction of property and trespass.
+
+"Tax law violations" includes tax fraud.
+
+"Obscene material" denotes the mail or transport thereof.
+
+"All other felonies" includes felonies with unknown or
+unclassifiable offense type.
+
+"Misdemeanors" includes misdemeanors, petty offenses, and
+unknown offense levels.
+
+"Drug possession" also includes other drug misdemeanors.
+
+Figure S.2.
+
+Figure S.2. uses data from the Executive Office for U.S.
+Attorneys and the  Administrative Office of the U.S. Courts to
+provide an overview of case processing in the Federal criminal
+justice system.  The figure uses data from two separate cohorts
+of persons involved in criminal proceedings.  The data on
+suspects in criminal matters concluded and defendants prosecuted
+come from the cohort of suspects in matters concluded during
+October 1, 1997, through September 30, 1998.  (The filing of
+charges in a criminal case is one conclusion of a matter; the
+other is the declination of the matter for prosecution.)  For
+the other three outcomes in figure S.2.— offenders convicted,
+sentenced to prison, or given a term of probation — the data
+come from the cohort of defendants in cases terminating during
+fiscal year 1998 in U.S. district courts (by either a judge or a
+magistrate).
+
+A total of 106,022 suspects were investigated in matters
+concluded by U.S. attorneys during 1998 (table 2.2).
+Seventy-three percent of these suspects were prosecuted in U.S.
+district court, either before U.S. district court judges
+(64,993/106,022 = 61.3%) or before U.S. magistrates (12,243/
+106,022 = 11.5%).  The conviction data in figureS.2. refer to
+defendants in cases terminated in U.S. district court during
+1998, whether before U.S. district court judges or U.S.
+magistrates.  Fifty-seven percent (60,958/106,022) of the
+defendants in cases terminating during 1998 were convicted
+(table 4.2).
+
+Of the defendants investigated, 41% (43,041/106,022) were
+reported as sentenced to a term of imprisonment, and 12%
+(12,744/106,022) were sentenced to a term of probation without
+imprisonment (table 5.2).  These figures are based on all
+charges, whether they eventually were felony or misdemeanor
+offenses.
+
+
+Source agencies for Compendium data tables
+Data source agency -- data file
+United States Marshals Service (USMS) — Prisoner Tracking System (PTS)
+
+Description of data files contents
+Contains data on suspects arrested for violations of Federal law, by
+Federal enforcement agencies.  The data include information on
+characteristics of Federal arrestees.
+
+Compendium tables
+Arrest: 1.1, 1.2, 1.3
+
+Data source agency -- data file
+Executive Office for  U.S. Attorneys (EOUSA) — Central System and Central Charge Files
+
+Description of data files contents
+Contains information on the investigation and
+prosecution of suspects in criminal matters received and concluded,
+criminal cases filed and terminated, and criminal appeals filed and
+handled by U.S. attorneys.  The central system files contain
+defendant-level records about the processing of matters and cases;
+the central charge files contain the records of the charges filed
+and disposed in criminal cases.  Data are available on matters and
+cases filed, pending, and terminated.
+
+Compendium tables
+Prosecution: 2.1, 2.2, 2.3, 2.4, 2.5, 2.6
+
+
+Data source agency -- data file
+AOUSC:  Pretrial Services Agency (PSA) — Pretrial Services Act Information System
+
+Description of data files contents
+Contains data on defendants interviewed, investigated, or supervised
+by pretrial services.  The information covers defendants' pretrial
+hearings, detentions, and  releases from the time they are interviewed
+through the disposition of their cases in district court.
+
+Compendium tables
+Pretrial release: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10
+Adjudication: 4.5 (defendant characteristics
+)Sentencing: 5.4, 5.5, 5.6 (defendant characteristics)
+
+
+Data source agency -- data file
+Administrative Office of the U.S. Courts (AOUSC) — Criminal Termination Files
+
+Description of data files contents
+Contains information about the criminal proceedings against defendants
+those cases were filed in U.S. district courts.  Includes information
+on felony defendants, Class A misdemeanants — whether handled by U.S.
+district court judges or U.S. magistrates — and other misdemeanants
+provided they were handled by U.S. district court judges.  The information
+in the data files cover criminal proceedings from case filing through
+disposition and sentencing.  Data are available on criminal defendants
+in cases filed, pending, and terminated.
+
+Compendium tables
+Adjudication: 4.1, 4.2, 4.3, 4.4, 4.5
+Sentencing: 5.1, 5.2, 5.3, 5.4, 5.5, 5.6 
+
+
+Data source agency -- data file
+United States Sentencing Commission (USSC) — Monitoring Data Base
+
+Description of data files contents
+Contains information on criminal defendants sentenced pursuant to the
+provisions of the Sentencing Reform Act of 1984.  It is estimated that
+more than 90% of felony defendants in the Federal criminal justice
+system are sentenced pursuant to the SRA of 1984.  Data files are
+limited to those defendants whose records have been obtained by the
+U.S. Sentencing Commission. 
+
+Compendium tables
+Adjudication: 4.5 (defendant characteristics)
+Sentencing: 5.4, 5.5, 5.6 (defendant characteristics) 
+
+
+Data source agency -- data file
+AOUSC:  Court of Appeals
+
+Description of data files contents
+Contains information on criminal appeals filed and terminated in U.S
+Courts of Appeals.  Records of appeals filed, pending, or terminated
+include information on the nature of the criminal appeal, the underlying
+offense, and the disposition of the appeal.
+
+Compendium tables
+Appeals: 6.1, 6.2, 6.3, 6.4, 6.5 
+
+
+Data source agency -- data file
+AOUSC — Federal Probation and Supervision Information System (FPSIS)
+
+Description of data files contents
+Contains information about supervisions provided by probation officers
+for persons placed on probation or supervised release from prison.
+The files contain records of individuals entering, or currently on
+supervision, as well as records of offenders terminating supervision.
+Compendium tables
+Corrections: 7.1, 7.2, 7.3, 7.4, 7.5, 7.6, 7.7, 7.8
+
+
+Data source agency -- data file
+Bureau of Prisons (BOP): Extract from BOP's online Sentry System
+
+Description of data files contents
+The data extracts contain information on all offenders released from
+prison over a specific period of time plus information about the
+offenders in prison when the data extracts are made.  The information
+covers the time that offenders enter prison until their release from
+the jurisdiction of the Bureau of Prisons.
+
+
+Compendium tables
+Corrections: 7.9, 7.10, 7.11, 7.12, 7.13, 7.14, 7.15, 7.16
+
+
+Glossary
+
+Acquittal — legal judgment that a
+criminal defendant has not been proven guilty beyond a
+reasonable doubt of the charges against him.
+
+Affirmed — in the appellate courts, the decree or order is
+declared valid and will stand as rendered in the lower court.
+
+Agriculture violations — violations of the Federal statutes on
+agriculture and conservation:  for example, violations of the
+Agricultural Acts, Insecticide Act, and the Packers and
+Stockyards Act, 1921; also violations of laws concerning plant
+quarantine and the handling of animals pertaining to research (7
+U.S.C., except sections on food stamps (fraud); also 16 U.S.C.
+sections relating generally to violations in operating public
+parks, such as trespassing for hunting, shooting, and fishing). 
+
+Antitrust violations — offenses relating to Federal antitrust
+statutes, which aim to protect trade and commerce from unlawful
+restraints, price fixing, monopolies (for example, 15 U.S.C. §§
+1, 3, 8, 20, and 70(i)), and discrimination in pricing or in
+furnishing services or facilities (15 U.S.C. §§ 13(c) and
+13(e)). 
+
+Appeal — a review by a higher court of a judgment or decision of
+a lower court.
+
+Appeals, U.S. Court of — an intermediate Federal court, inferior
+to the U.S. Supreme Court, but higher than the U.S. district
+court.  The function of the U.S. court of appeals is to review
+the final decisions of the district courts, if challenged. 
+There are 13 courts of appeal in the Federal system representing
+the 12 judicial circuits and the Federal circuit (28 U.S.C. §
+41).
+
+Appellant — the party which takes an appeal from 1 court or
+jurisdiction to another; opposite of appellee.
+
+Appellee — the party against whom the appeal is taken; opposite
+of appellant.
+
+Arson — willfully or maliciously setting, or attempting to set,
+fire to any property within the special maritime and territorial
+jurisdiction of the United States as defined in 18 U.S.C. § 7
+(18 U.S.C. § 81; and 49A U.S.C. §§ 1804 and 1809).  (See also,
+"Explosives.")
+
+Assault — intentionally inflicting or attempting or threatening
+to inflict bodily injury to another person.  Applies to anyone
+within the special maritime and territorial jurisdiction of the
+United States as defined in 18 U.S.C. § 7, or to any Government
+official, foreign official, official guest, internationally
+protected person, or any officer or employee of the United
+States designated in 18 U.S.C. § 1114 (for example, 16 U.S.C. §§
+1857(e) and 1859; 18 U.S.C. §§ 111(a), 112(b), 113(c)(e), 114,
+115(c), 351(d)(e), 372, 373, 1502, 1751(c), 1959, 2118(c), and
+2231(a); 21 U.S.C. §§ 461(c), 675(b), and 1041(c); 26 U.S.C. §§
+7212(a)(b); 29 U.S.C. § 1141; 46 U.S.C. § 701; and 49A U.S.C. §
+1472(k)); also certain violations of the Fair Housing Act of
+1968 (42 U.S.C. §§ 3610 and 3631).
+
+Bail — the sum of money promised as a condition of release, to
+be paid if a released defendant defaults (18 U.S.C. § 3142(c)).
+
+Bribery — offering or promising anything of value with intent to
+unlawfully influence a public official in the discharge of
+official duties.  Applies generally to bank employees, officers
+or employees of the U.S. Government, witnesses, or any common
+carrier.  Includes soliciting or receiving anything of value in
+consideration of aiding a person to obtain employment in the
+U.S. Government.  Also, receiving or soliciting any
+remuneration, directly or indirectly, in cash or any kind in
+return for purchasing, ordering, leasing, or recommending to
+purchase any good, service, or facility (18 U.S.C. §§ 201(a),
+203(a)(b), 204, 207(a)(c), 208, 210, 211, 213, 215, and 663; 21
+U.S.C. § 622; 46 U.S.C. § 239(i); and 49 U.S.C. §§ 104, 917(b),
+and 11904(b)). 
+
+Burglary — breaking and entering into another's property with
+intent to steal within the special maritime and territorial
+jurisdiction of the United States, as defined in 18 U.S.C. § 7. 
+Includes breaking and entering into any official bank, credit
+union, savings and loan institution, post office, vessel or
+steamboat assigned to the use of mail service, or personal
+property of the United States; or breaking the seal or lock of
+any carrier facility containing interstate or foreign shipments
+of freight or express (18 U.S.C. §§ 2111, 2113(a), and 2115-17).
+
+Career offender — defendants are counted as career offenders if
+they are at least 18 years old at the time of the instant
+offense, if the instant offense of conviction is a felony — that
+is either a crime of violence or a drug crime; and if they have
+at least two prior felony convictions of either a crime of
+violence or a drug crime. 
+
+Case — in this Compendium, a judicial proceeding for the
+determination of a controversy between parties wherein rights
+are enforced or protected, or wrongs are prevented or redressed;
+any proceeding judicial in its nature.
+
+Civil rights — violations of civil liberties such as the
+personal, natural rights guaranteed and protected by the
+Constitution.  Includes the Civil Rights Acts, such as those
+enacted after the Civil War, and more recently in 1957 and 1964.
+
+Collateral bond — an agreement made by a defendant as a
+condition of his or her pretrial release that requires the
+defendant to post property valued at the full bail amount as an
+assurance of his or her intention to appear at trial.
+
+Communication — violations covering areas of communication such
+as the Communications Act of 1934 (including wire tapping and
+wire interception).  A communication is ordinarily considered to
+be a deliberate interchange of thoughts or opinions between two
+or more persons.
+
+Community confinement — a form of commitment either as a
+substitute for Federal imprisonment or as a condition of
+probation in a community treatment center, halfway house,
+restitution center, mental health facility, alcohol or drug
+rehabilitation center, or other community facility; and
+participation in gainful employment, employment search efforts,
+community service, vocational training, treatment, educational
+programs, or similar facility-approved programs during
+non-residential hours.  Under the Federal sentencing guidelines,
+community confinement may be a substitute for imprisonment on a
+day-to-day basis for defendants with a guideline maximum of less
+than 16 months of imprisonment (see also, U.S.S.G. § 5C1.1(e)). 
+
+Complaint — a written statement of the essential facts
+constituting the offense charged, with an offer to prove the
+fact, so that a prosecution may be instituted.  The complaint
+can be "taken out" by the victim, the police officer, the
+district attorney, or other interested party. 
+
+Concurrent sentence — a sentence imposed which is to be served
+at the same time as another sentence imposed earlier or during
+the same proceeding (18 U.S.C. § 3584).  (See also, "Consecutive
+sentence.") 
+
+Conditional release — in this Compendium, at the pretrial stage,
+a conditional release is release from detention contingent on
+any combination of restrictions that are deemed necessary to
+guarantee the defendant's appearance at trial or the safety of
+the community (see text in Chapter 2 of this Compendium.)
+
+Consecutive sentence — a sentence imposed that will follow
+another sentence imposed earlier or during the same proceeding;
+opposite of concurrent sentence.
+
+Conspiracy — an agreement by two or more persons to commit or to
+effect the commission of an unlawful act or to use unlawful
+means to accomplish an act that is not in itself unlawful; also
+any overt act in furtherance of the agreement.  A person charged
+with conspiracy is classified under the substantive offense
+alleged.
+
+Continuing criminal enterprise —  a felony committed as part of
+a continuing series of violations, which is undertaken by a
+person in concert with five or more other persons with respect
+to whom such person occupies a position of organizer, a
+supervisory position, or any other position of management, and
+from which such person obtains substantial income or resources
+(21 U.S.C. § 848(c)).
+
+Conviction — the result of a criminal trial which ends in a
+judgment that the defendant is guilty.  The final judgment on a
+verdict or finding of guilty, a plea of guilty, or a plea of
+nolo contendere, but does not include a final judgment which has
+been expunged by pardon, reversed, set aside, or otherwise
+rendered invalid.
+
+Corporate surety — in this Compendium, a surety; one who has
+entered into a bond to give surety for another; for example,
+bail bondsman.  As a condition of his or her release, the
+defendant enters into an agreement that requires a third party
+such as a bail bondsman to promise to pay the full bail amount
+in the event that the defendant fails to appear.  (See also,
+"Surety bond.")
+
+Counterfeiting — falsely making, forging, or altering
+obligations with a view to deceive or defraud, by passing the
+copy or thing forged for that which is original or genuine. 
+Applies to obligation or security of the United States, foreign
+obligation or security, coin or bar stamped at any mint in the
+United States, money order issued by the Postal Service,
+domestic or foreign stamp, or seal of any department or agency
+of the United States.  Includes passing, selling, attempting to
+pass or sell, or bringing into the United States any of the
+above falsely made articles.  Also, making, selling, or
+possessing any plates or stones (or any other thing or
+instrument) used for printing counterfeit obligations or
+securities of the United States, foreign obligations or
+securities, Government transportation requests, or postal stamp;
+or knowingly and intentionally trafficking in falsified labels
+affixed to phonorecords, motion pictures, or audio visual works
+(for example, 18 U.S.C. §§ 471, 473, 477, 479, 481, 485, 487,
+501, 507, 509, 513(b), 2318, and 2320).
+
+Courts — See "Appeals, U.S. Court of" and "District court, U.S."
+ Pursuant to Article III of the Constitution, judicial power is
+vested in the following Federal Courts:  The U.S. Supreme Court,
+the U.S. Court of Appeals for the District of Columbia, and the
+U.S. district court for the District of Columbia.
+
+Criminal career — the longitudinal sequence of crimes committed
+by an individual offender. 
+
+Criminal history category — under the Federal sentencing
+guidelines, a quantification of the defendant's prior criminal
+record and the defendant's propensity to recidivate.  Guideline
+criminal history categories range from Category I (primarily
+first-time offenders) to Category VI (career criminals).
+
+Custom laws — violations regarding taxes which are payable upon
+goods and merchandise imported or exported.  Includes the
+duties, toll, tribute, or tariff payable upon merchandise
+exported or imported.
+
+Deadly or dangerous weapon — an instrument capable of inflicting
+death or serious bodily injury. 
+
+Declination — the decision by a prosecutor not to file a case in
+a matter received for investigation.  In this Compendium,
+immediate declinations (i.e., where less than 1 hour of time is
+spent on a case) are excluded.
+
+Defendant — the party against whom relief or recovery is sought
+in an action or suit, or the accused in a criminal case.
+
+Departure — under the Federal sentencing guidelines, the term
+used to describe a sentence imposed outside the applicable
+guideline sentencing range.  A court may depart when it finds an
+aggravating or mitigating circumstance of a kind, or to a
+degree, not adequately taken into consideration by the
+Sentencing Commission in formulating the guidelines that should
+result in a sentence different from that described (18 U.S.C. §
+3553(b); U.S.S.G. § 5K2.0).  (See also, "Substantial
+assistance.") 
+
+Deposit bond — an agreement made by a defendant as a condition
+of his or her release that requires the defendant to post a
+fraction of the bail before he or she is released.
+
+Detention — the legally authorized confinement of persons after
+arrest, whether before or during prosecution.  Only those
+persons held 2 or more days are classified as detained in this
+Compendium.
+
+Dismissal — termination of a case before trial or other final
+judgment (including nolle prosequi and deferred prosecution).
+
+Disposition — the decision made on a case brought before a
+criminal court.
+
+Distribution — delivery (other than by administering or
+dispensing) of a controlled substance (21 U.S.C. § 802(6)).  The
+term "controlled substance" means any drug or other substance,
+or immediate precursor, included in schedule I, II, III, IV, or
+V of part B of subchapter I of Chapter 13 (title 21).  The term
+does not include distilled spirits, wine, malt beverages, or
+tobacco, as those terms are defined or used in subtitle E of the
+Internal Revenue Code of 1986.
+
+District court, U.S. — trial courts with general Federal
+jurisdiction over cases involving Federal laws or offenses and
+actions between citizens of different States.
+
+District of Columbia — the jurisdiction of the U.S. district
+court for the District of Columbia.  This Compendium includes
+Federal offenses prosecuted in U.S. district courts, and except
+for tables based on data from the Bureau of Prisons, excludes
+violations of the District of Columbia Code and cases prosecuted
+in the District of Columbia Superior Court.  
+
+Drug offenses — offenses under a Federal or State laws
+prohibiting the manufacture, import, export, distribution, or
+dispensing of a controlled substance (or counterfeit substance),
+or the possession of a controlled substance (or a counterfeit
+substance) with intent to manufacture, import, export,
+distribute, or dispense.  Also using any communication
+facilities which causes or facilitates a felony under title 21,
+or furnishing of fraudulent or false information concerning
+prescriptions as well as any other unspecified drug-related
+offense.  (See also, "Distribution," "Possession," and
+"Trafficking.")
+
+Embezzlement — the fraudulent appropriation of property by a
+person to whom such property has been lawfully entrusted. 
+Includes offenses committed by bank officers or employees;
+officers or employees of the Postal Service; officers of
+lending, credit, or insurance institutions; any officer or
+employee of a corporation or association engaged in commerce as
+a common carrier; court officers of the U.S. courts; or officers
+or employees of the United States.  Also, stealing from
+employment and training funds, programs receiving Federal funds,
+and Indian tribal organizations; or selling, conveying, or
+disposing of any money, property, records, or thing of value to
+the United States or any department thereof without authority
+(for example, 15 U.S.C. § 645(c); 18 U.S.C. §§ 153, 334, 642-57,
+665(a)(b), 666(b), 1163, 1709, 1711, 1956, and 1957; 25 U.S.C. §
+450(d); 29 U.S.C. § 502(b); and 42 U.S.C. §§ 1760, 2971, and
+3220(b)).
+
+Escape — departing or attempting to depart from the custody of a
+correctional institution; a judicial, correctional, or law
+enforcement officer; or a hospital where one is committed for
+drug abuse and drug dependency problems.  Knowingly advising,
+aiding, assisting, or procuring the escape or attempted escape
+of any person from a correctional facility, an officer, or the
+above-mentioned hospital as well as concealing an escapee. 
+Providing or attempting to provide to an inmate in prison a
+prohibited object; or making, possessing, obtaining, or
+attempting to make or obtain a prohibited object (as defined in
+18 U.S.C. § 1791(d)(1)(A)).  Instigating, assisting, attempting
+to cause, or causing any mutiny or riot at any Federal penal,
+detention, or correctional facility, or conveying into any of
+these institutions any dangerous instrumentalities (for example,
+18 U.S.C. §§ 751(a)(b), 752(a), 753, 755-56, 1071, 1073,
+1791(a)(c), (d)(1)(A), 1792, 3146(a)(b)(d), 3147 and 3615; 28
+U.S.C. § 1826; 42 U.S.C. §§ 261 and 3425; and 50 U.S.C § 823).
+
+Explosives — violations of Federal law involving importation,
+manufacture, distribution, and storage of explosive material. 
+Includes unlawful receipt, possession or transportation of
+explosives without a license (18 U.S.C. § 842(a)), where
+prohibited by law (18 U.S.C. § 842(c), or using explosives
+during commission of a felony (18 U.S.C. § 844(h)).  Also
+includes violations relating to dealing in stolen explosives (18
+U.S.C. § 842(h)), using mail or other form of communication to
+threaten an individual with explosives (18 U.S.C. § 844(e), and
+possessing explosive materials at an airport (18 U.S.C. §
+844(g), and 49A U.S.C. §§ 1804 and 1809).  (See also, "Arson"
+and 18 U.S.C. §§ 842(e)(g)(i)(k); and §844(b).)  
+
+Failure to appear — willful absence from any court appointment.
+
+Felony — a criminal offense punishable by death or imprisonment
+for a term exceeding 1 year.  According to 18 U.S.C. § 3559,
+felonies are classified into 5 grades based on maximum terms of
+imprisonment:  ClassA felony, if the maximum term is life
+imprisonment, or if the maximum penalty is death; Class B, if 25
+years or more; Class C, if less than 25 years, but 10 years or
+more; Class D, if less than 10 years, but five or more years;
+and Class E, if less than 5 years, but more than 1.   
+
+Filing — the initiation of a criminal case in U.S. district
+court by formal submission to the court of a charging document
+alleging that one or more named persons have committed one or
+more specified offenses.  In this Compendium, each defendant in
+a case is counted separately, and only the most serious alleged
+offense is considered.
+
+Financial conditions — monetary conditions upon which release of
+a defendant before trial is contingent.  Includes deposit bond,
+surety bond, and collateral bond.  (See also, "Specific
+definitions.")
+
+First release — in this Compendium, prisoners who are released
+from the Bureau of Prisons for the first time after their
+commitment by a U.S. district court (i.e., excludes offenders
+who are returned to prison after their first release, such as
+probation, parole, etc.).
+
+Food and drug violations — violations of the Federal Food, Drug,
+and Cosmetic Act such as regulations for clean and sanitary
+movement of animals (21 U.S.C. § 134(b)), adulteration or
+misbranding of any food or drug (21 U.S.C. § 331(a)), failure to
+transmit information about prescription drugs (21 U.S.C. §
+331(o)), and intent to defraud and distribute adulterated
+material (21 U.S.C. § 676).  (See also, 18 U.S.C. § 1365(b); 21
+U.S.C. §§ 17, 22, 63, 115, 122, 126, 134(d), 142, 144, 151, 153,
+155, 158, 201, 205, 209, 210, 212, 331(b)-(g), 331(i)-(n)(p)(t),
+333(a), 458(a), 459, 460(a)-(d), 461(a), 463, 466, 610(a)(c),
+611(a), 620, 642, 1037, 1041(a), and 1175.)
+
+Forgery — falsely making or materially altering a document with
+the intent to defraud.  Includes such falsification with intent
+to pass off as genuine any of the following: U.S. Postal Service
+money order; postmarking stamp or impression; obligation or
+security of the United States; foreign obligation, security, or
+bank note; contractors' bond, bid, or public record; deed; power
+of attorney; letters patent; seal of a court or any department
+or agency of the U.S. Government; the signature of a judge or
+court officer; ships' papers; documents on entry of vessels;
+customs matters; coin or bar; and so forth.  Also includes
+making, possessing, selling, or printing plates or stones for
+counterfeiting obligations or securities, and detaching,
+altering, or defacing any official, device, mark or certificate
+(for example, 18 U.S.C. §§ 483, 493, 495, 497, 503, 505,
+510(a)(b), and 511; 19 U.S.C. § 1436; and 21 U.S.C. §§
+458(b)(c)). 
+
+Fraud — unlawfully depriving a person of his or her property or
+legal rights through intentional misrepresentation of fact or
+deceit other than forgery or counterfeiting.  Includes
+violations of statutes pertaining to lending and credit
+institutions, the Postal Service, interstate wire, radio,
+television, computer, credit card, veterans benefits,
+allotments, bankruptcy, marketing agreements, commodity credit,
+the Securities and Exchange Commission, railroad retirement,
+unemployment, Social Security, food stamp, false personation,
+citizenship, passports, conspiracy, and claims and statements,
+excluding tax fraud.  The category excludes fraud involving tax
+violations that are shown in a separate category under
+"Public-order, other offenses."  (See also, specific offenses in
+this glossary for citations.)
+
+Fraudulent property offenses — see "Property offenses,
+fraudulent."
+
+Gambling — the Federal offense of transporting, manufacturing,
+selling, possessing, or using any gambling device in the
+District of Columbia or any possession of the United States or
+within Indian country or the special maritime and territorial
+jurisdiction of the United States as defined in 18 U.S.C. § 7. 
+Includes transporting gambling devices in the jurisdiction of
+the United States (except under authority of the Federal Trade
+Commission or any State that has a law providing for their
+exemption from these provisions), transmitting wagering
+information in interstate or foreign commerce, interstate
+transporting of wagering paraphernalia, importing or
+transporting lottery tickets, or mailing lottery tickets or
+related matter (for example, 15 U.S.C. §§ 1173 and 1175; and 18
+U.S.C. §§ 1082(a), 1084, 1302, 1956, and 1962).
+
+Good-time — time credited toward early release to an offender
+for good behavior in imprisonment.  Under the 1984 Sentencing
+Reform Act, two classes of prisoners are ineligible to receive
+good-time credits:  (1) misdemeanants serving a term of
+imprisonment of 1 year or less; and (2) felons serving life
+sentences.  All other Federal prisoners receive a flat
+allocation of 54 days per year of sentence served; credit for a
+partial year remaining at the end of the sentence is prorated. 
+The annual allotment does not change according to the length of
+time a Federal inmate already has spent in prison (18 U.S.C. §
+3624(b)).
+
+Guideline sentencing range — under the Federal sentencing
+guidelines, the range of imprisonment corresponding to the
+applicable guideline offense level and criminal history
+category.  The guideline offense level incorporates any minimum
+terms of imprisonment required by statute as well as the
+statutory maximum term of imprisonment, where applicable.
+
+Guilty plea — a plea in response to formal charges admitting
+that the defendant committed offenses as charged.  In this
+Compendium, this category also includes pleas of nolo contendere.
+
+Hispanic — ethnic category based on classification by reporting
+agency.  Hispanic persons may be of any race.
+
+Home detention — a form of confinement and supervision either as
+a substitute for imprisonment or as a condition of probation
+that restricts the defendant to his place of residence
+continuously (except for authorized absences) and enforced by
+appropriate means of surveillance by the probation office. 
+Under the Federal sentencing guidelines, home detention may be a
+substitute for imprisonment on a day to day basis for defendants
+with a guideline maximum sentence of less than 16 months
+imprisonment.  (See also, U.S.S.G. § 5C1.1.)
+
+Homicide — see "Murder."
+
+Immigration offenses — offenses involving illegal entrance into
+the United States, illegally reentering after being deported,
+willfully failing to deport when so ordered, willfully remaining
+beyond days allowed on conditional permit, or falsely
+representing oneself to be a citizen of the United States. 
+Includes violations relating to provisions for special
+agricultural workers and to those relating to limitations on
+immigrant status (such as employment).  Also includes bringing
+in or harboring any aliens not duly admitted by an immigration
+officer (for example, 8 U.S.C. §§ 1160, 1252(d), 1255, 1282(a),
+1286, 1324-25, and 1326(a)). 
+
+Incarceration — any sentence of confinement, including prison,
+jail, and other residential placements.
+
+Indeterminate sentence — a prison sentence whose maximum or
+minimum term is not specifically established at the time of
+sentencing (18 U.S.C. §§ 4205(b)(1)(2)).
+
+Indictment — the formal charging of the defendant with a
+particular crime by a grand jury.  In the Federal system, a
+defendant may waive indictment and be proceeded against through
+an information.  (See also,  Fed. R. Crim. P. 7(b).)
+
+Information — the formal accusation charging the defendant with
+a particular crime but brought by the U.S. Attorney rather than
+by the grand jury.
+
+Infraction — an offense for which the maximum term of
+imprisonment is 5 days or less, or where no imprisonment is
+authorized, according to 18U.S.C. '3559.
+
+Instant offense — the offense of conviction, and all relevant
+conduct under U.S.S.G § 1B1.3.   
+
+Intermittent confinement — a form of commitment, in a prison or
+jail, either as a substitute for imprisonment or as a condition
+of probation.  Under the Federal sentencing guidelines,
+intermittent confinement may be a substitute for imprisonment
+(each 24 hours of intermittent confinement is credited as 1 day
+of incarceration) for defendants with a guideline maximum of
+less than 16 months imprisonment.  (See also, U.S.S.G. § 5C1.1.)
+
+Jurisdictional offenses — acts that are Federal crimes because
+of the place in which they occur (such as on an aircraft, on
+Federal land or property) and for certain crimes on Indian
+reservations or at sea, but which cannot be classified in a more
+specific substantive category.
+
+Juvenile — a person who has not attained the age of 18 years; or
+for the purposes of a juvenile delinquency hearing, a person who
+has not attained the age of 21 years (18 U.S.C. § 5031). 
+
+Juvenile delinquency — a violation of Federal law committed by a
+person prior to the age of 18 years which would have been a
+crime if committed by an adult (18 U.S.C. § 5031).
+
+Kidnaping — unlawfully seizing any person as defined in 18
+U.S.C. § 1201 for ransom or reward, except in the case of a
+minor by a parent.  Includes receiving, possessing, or disposing
+of any money or other property that has been delivered as ransom
+or reward in connection with a kidnaping as well as conspiring
+to kidnap.  Also, includes kidnaping or attempting to kidnap any
+Government official, the President of the United States, the
+President-elect, the Vice President, any foreign official, any
+official guest, or any internationally protected person.  (See
+also, 18 U.S.C. § 351(b); and hostage taking as defined in 18
+U.S.C. § 1203.)
+
+Labor law violations — violations of, for example, the Fair
+Labor Standards Act of 1938 and the Taft-Hartley Act, which
+govern a broad spectrum of activities relating to
+labor-management relations (for example, 29 U.S.C. §§ 186(a),
+461(a), 463, 1021(b), 1022, 1023(b)(d), 1024(a)(c), 1027,
+1111(a)(b), 1112(c), 1811, 1816, 1821 and 1851). 
+
+Larceny — the act of taking and carrying away any personal
+property of another with intent to steal or convert it to one's
+own use or gain.  Includes stealing, possessing or illegally
+selling or disposing of anything of value to the United States
+or any of its departments or agencies; or stealing from a bank,
+the Postal Service, or any interstate or foreign shipments by
+carrier.  Also encompasses receiving or possessing stolen
+property or pirate property; and stealing or obtaining by fraud
+any funds, assets, or that belong to, or are entrusted to, the
+custody of an Indian tribal organization (for example, 18 U.S.C.
+§§ 641, 659, 661-62, 667, 1168(a), 1704, 1707, and 2113(b)). 
+(This offense category excludes the transportation of stolen
+property.)
+
+Liquor violations — violations of Internal Revenue Service laws
+on liquor, as well as violations of liquor laws not cited under
+these laws, such as dispensing or unlawfully possessing
+intoxicants in Indian country; transporting intoxicating liquors
+into any State, territory, district, or possession where sale is
+prohibited; shipping packages containing unmarked and unlabeled
+intoxicants; shipping liquor by C.O.D.; knowingly delivering a
+liquor shipment to someone other than to whom it has been
+consigned; and violating in any way the Federal Alcohol
+Administration Act (for example, 18 U.S.C. §§ 1154, 1156, 1263
+and 1265; 26 U.S.C. §§ 5113, 5171(c), 5179, 5214, 5222, 5291,
+5301(b), 5601, 5603(a), 5604, 5606, 5608(a), 5661(a), 5662,
+5672, 5681(a)(c), 5683, 5685(b) and 5687; and 27 U.S.C. §§ 203,
+205(f), 206(b) and 208(a)). 
+
+Magistrates (U.S.) (Federal) — judicial officers appointed by
+judges of Federal district courts having many but not all of the
+powers of a judge.  Magistrates are designated to hear a wide
+variety of motions and other pretrial matters in both criminal
+and civil cases.  With consent of the parties, they may conduct
+civil or misdemeanor criminal trials.  Magistrates, however, may
+not preside over felony trials or over jury selection in felony
+cases.
+
+Mailing or transportation of obscene materials — a violation of
+Federal law relating to knowingly using the mail for mailing
+obscene or crime-inciting matter, as defined in 18 U.S.C. § 1461
+and 39 U.S.C. § 3001(e).  Also includes transporting for sale or
+distribution, importing, or transporting any obscene matter in
+interstate or foreign commerce.  (See also, 18 U.S.C. §§
+1462-63.)
+
+Major offense (while on conditional release) — allegation,
+arrest, or conviction of a crime for which the minimum sentence
+is incarceration for over 90 days or greater than 1 year on
+probation.  (See also, PACTS Statistical Reporting Guide,
+Version 1.0, Administrative Office of the U.S. Courts.) 
+
+Mandatory sentences — a sentence that includes a minimum term of
+imprisonment that the sentencing court is statutorily required
+to impose barring the government's motion of substantial
+assistance.  See, for example, 18 U.S.C. §§ 841 and 960, which
+provide for mandatory sentences ranging from 5 years
+imprisonment to life imprisonment depending on the quantity of
+drugs involved. 
+
+Mandatory sentencing enhancement — a form of mandatory sentence
+in which the minimum term of imprisonment is to be imposed
+consecutive to any other term of imprisonment imposed.  See, for
+example, 18 U.S.C. § 924(c), which provides for a 5-year to
+lifetime enhancement for the use of a firearm during the
+commission of a crime; 18 U.S.C. § 844(h), which provides for a
+5-year enhancement for use of firearms or explosives during the
+commission of a crime; and 18 U.S.C. § 929 which provides for a
+5-year enhancement for the use of armor-piercing ammunition
+during the commission of a crime.
+
+Mandatory release — the release of an inmate from prison after
+confinement for a time period equal to his or her full sentence
+minus statutory good-time, if any.  Federal prisoners released
+on mandatory release may still be subject to a period of
+post-release community supervision.
+
+Matter — in this Compendium, a potential case under review by a
+U.S. attorney on which more than 1 hour is expended.
+
+Matters concluded — in this Compendium, matters about which a
+final decision has been reached by a U.S. attorney. 
+Specifically includes matters filed as cases, matters declined
+after investigation, matters referred for disposition by U.S.
+magistrates, and matters otherwise terminated without reaching
+court.
+
+Migratory birds offenses — violations of acts relating to birds
+which move from one place to another in season.  Includes
+taking, killing, or possessing migratory birds, or any part,
+nest, or egg thereof, in violation of Federal regulations or the
+transportation laws of the State, territory, or district from
+which the bird was taken.  Also, misuse or non-use of a
+migratory-bird hunting and conservation stamp (for example, 16
+U.S.C. §§ 690(g), 701, 703, 704-6, 707(b), 708, 711, and
+718(a)(e)(g)). 
+
+Minor offense (while on conditional release) — conviction of a
+crime for which the maximum sentence is incarceration for 90
+days or less, probation of 1 year or less, or a fine of $500 or
+less.  (See also, PACTS Statistical Reporting Guide, Version
+1.0, Administrative Office of the U.S. Courts.) 
+
+Misdemeanor — a criminal offense punishable by a jail term not
+exceeding 1 year and any offense specifically defined as a
+misdemeanor by the Administrative Office of the U.S. Courts for
+the purposes of data collection.  According to 18 U.S.C. § 3559,
+misdemeanors are classified in 3 letter grades, based on the
+maximum terms of imprisonment:  Class A, if 1 year or less, but
+more than 6 months; Class B, if 6 months or less, but more than
+30 days; and Class C, 30 days or less, but more than 5 days. 
+(This category includes offenses previously called minor
+offenses that were reclassified under the Federal Magistrate Act
+of 1979.)
+
+Mixed sentence — a sentence requiring the convicted offender to
+serve a term of imprisonment, followed by a term of probation. 
+Unless otherwise noted, offenders receiving mixed sentences are
+included in both incarceration and probation categories.  (See
+also, "Split sentence.")
+
+Most serious offense — in this Compendium, the offense with the
+greatest potential sentence; or with respect to tables
+describing Federal prisoners, the offense with the greatest
+imposed sentence (for example, prison data in Chapter 6).
+
+Motor carrier violations — violations of the Federal statutes 
+relating to the Motor Carrier Act, which regulates (routes,
+rates) of motor carriers of freight and passengers in interstate
+commerce.  The Act is administered by the Interstate Commerce
+Commission (for example, 15 U.S.C. §§ 1984, 1986, 1988 and 1990;
+49 U.S.C. §§ 117(a), 301(f), 303(f), 322(a)(d), 411, 526,
+917(f), 1021(b)(f), 11703, 11903(a), 11904, 11907, 11909(a),
+11909(c), 11910, 11913, and 11914; and 49A U.S.C. § 120).
+
+Motor vehicle theft — interstate or foreign transporting,
+receiving, concealing, storing, bartering, selling, or disposing
+of any stolen motor vehicle or aircraft (for example, 18 U.S.C.
+§§ 2119, 2313, and 2322; and 49A U.S.C. § 1472(i)).
+
+Murder — the unlawful killing of a human being with malice
+aforethought, either express or implied.  Nonnegligent
+manslaughter is the unlawful killing of a human being without
+malice.  This offense covers committing or attempting to commit
+murder (first or second degree) or voluntary manslaughter within
+the special maritime and territorial jurisdiction of the United
+States (18 U.S.C. § 7).  Includes killing or attempting to kill
+any Government official, the President of the United States, the
+President-elect, the Vice President, any officers and employees
+of the United States, any foreign officials, any official
+guests, or any internationally protected persons.  As applied to
+the owner or charterer of any steamboat or vessel, knowingly and
+willfully causing or allowing fraud, neglect, misconduct, or
+violation of any law resulting in loss of life (18U.S.C. §§
+113(a), 115(a), 1111-13, 1115, 1117, 1512(a)(1), 1751(a), and
+2332(b)).
+
+National defense violations — violations of the national defense
+laws on the Military Selective Service Act, the Defense
+Production Act of 1950, the Economic Stabilization Act of 1970
+(which includes prices, rents, and wages), the Subversive
+Activities Control Act, alien registration, treason (including
+espionage, sabotage, sedition, and the Smith Act of 1940); also
+violations relating to energy facilities, curfew and restricted
+areas, exportation of war materials, trading with an enemy,
+illegal use of uniform and any other violations of the Federal
+statutes concerning national defense (for example, 8 U.S.C. §§
+1304(e) and 1306(b)(d); 10 U.S.C. §§ 976 and 2408; 18 U.S.C. §§
+703, 705, 711, 713, 792, 794, 797, 799, 953, 961, 965, 967, 970,
+1366(a), 1382, 2152, 2153(b), 2154(b), 2155(b), 2156(b), 2382,
+2384, 2386, 2388(a)(c), and 2390; 22 U.S.C. §§ 253, 286, 447,
+447(c), 450, 455, 612, 614(b)(f), 617, 1178(c), 1182, 1199,
+1978(c), 2778(b), 4198, 4202 and 5113(c); 42 U.S.C. §§ 2274(b),
+2276, 2278(b) and 2384(b); and 50A U.S.C. §§ 2, 3(a)(c), 16,
+167, 210, 322, 324, 326, 328, 421(a)(c), 462, 468(b), 643(a),
+781, 783(b)(d), 789, 794, 797, 851, 1152, 1705, 1436(e),
+1809(c), 2062, 2071(b), 2073, 2405(a)(b), and 2410(b)).
+
+Negligent manslaughter — causing the death of another, within
+the special maritime and territorial jurisdiction of the United
+States as defined in 18 U.S.C. § 7, by wanton or reckless
+disregard for human life.  Also negligent manslaughter of any
+Government official, the President of the United States, the
+President-elect, the Vice President, any officers and employees
+of the United States, any foreign officials, any official
+guests, or any internationally protected persons.  This offense
+category also includes misconduct, negligence, or inattention to
+duties by ship officers on a steamboat or vessel resulting in
+death to any person (18 U.S.C. § 1112).
+
+New law— In this Compendium defendants convicted and sentenced
+pursuant to the Sentencing Reform Act of 1984.  (See also "Old
+law.")
+
+Nolo contendere — defendant's plea in a criminal case indicating
+that he or she will not contest charges, but not admitting or
+denying guilt.
+
+Non-citizen — a person who is without U.S. citizenship,
+including legal aliens (for example, resident aliens, tourists,
+and refugees/asylees) and illegal aliens.
+
+Not convicted — acquittal by bench or jury trial, mistrial, and
+dismissal (including nolle prosequi and deferred prosecution).
+
+Not guilty — plea entered by the accused to a criminal charge. 
+If the defendant refuses to plead, the court will enter a plea
+of not guilty.  Also the form of a verdict in a criminal trial
+where the jury acquits the defendant.
+
+Offense — violation of U.S. criminal law.  In this Compendium,
+where more than 1 offense is charged, the offense with the
+greatest potential penalty is reported.
+
+Offense level — under the Federal sentencing guidelines, a
+quantification of the relative seriousness of the offense of
+conviction and any offense-specific aggravating or mitigating
+factors.  Guideline offense levels range from level 1 (the least
+serious offense) to level 43 (the most serious offense).
+
+Old law — in this Compendium, defendants convicted and sentenced
+pursuant to laws applicable before the Sentencing Reform Act of
+1984.  (See also, "New law.")
+
+Parole — period of supervision after release from custody before
+the expiration of sentence.  The U.S. Parole Commission is
+empowered to grant, modify or revoke the parole of all Federal
+offenders.  Pursuant to the Sentencing Reform Act of 1984,
+parole was abolished and defendants are required to serve the
+imposed sentence (less 54 days per year good-time for sentences
+greater than 1 year, but not life imprisonment), followed by a
+term of supervised release.  Because of the number of Federal
+inmates sentenced under pre-Sentencing Reform provisions, parole
+is being phased out.
+
+Perjury — a false material declaration under oath in any
+proceeding before or ancillary to any court or grand jury of the
+United States.  Includes knowingly or willfully giving false
+evidence or swearing to false statements under oath or by any
+means procuring or instigating any person to commit perjury. 
+This offense also includes any officers and employees of the
+Government listed under 13 U.S.C. §§ 21-25 who willfully or
+knowingly furnish, or cause to be furnished, any false
+information or statement (for example, 2 U.S.C. § 192; 13 U.S.C.
+§ 213; 15 U.S.C. § 2614; 18 U.S.C. §§ 401, 402, 1504, 1506,
+1508, 1510, 1512(b), 1513, and 1622; 28 U.S.C. § 1866(g); 42
+U.S.C. § 5411; 43 U.S.C. § 104; and 49A U.S.C. §§1472 (m)(o)).
+
+Personal recognizance — pretrial release condition in which the
+defendant promises to appear at trial and no financial
+conditions are required to be met.
+
+Petty offense — a Class B misdemeanor, a Class C misdemeanor, or
+an infraction with fines as specified in 18 U.S.C. §§ 3571. 
+(See also, "Misdemeanor" and "Infraction.")
+
+Plea bargaining — practice whereby a defendant in a criminal
+proceeding agrees to plead guilty to a charge in exchange for
+the prosecution's cooperation in securing a more lenient
+sentence or some other mitigation.
+
+Pornographic — that which is of or pertaining to obscene
+literature; obscene, licentious.  Material is pornographic or
+obscene if the average person, applying contemporary community
+standards, would find that the work taken as a whole appeals to
+the prurient interest; and if it depicts in a patently offensive
+way sexual conduct; and if the work taken as a whole lacks
+serious literary, artistic, political, or scientific value. 
+(See Milla v. California, 113 U.S. 15 (1973).)
+
+Possession — offense involving the possession of a controlled
+substance, acquiring a controlled substance by misrepresentation
+or fraud, attempting or conspiring to possess, or simple
+possession of a controlled substance in schedules I-V (as
+defined by 21 U.S.C. §§ 812).  Includes possession of a
+controlled substance in schedule I or II, or a narcotic drug in
+schedule III or IV on board a vessel of the United States or
+vessels within custom waters of the United States, or by any
+citizen of the United States on board a vessel.  Also,
+possessing any punch, die, plate, stone, or any other thing
+designed to reproduce the label upon any drug or container is an
+offense under this category.  Distributing a small amount of
+marijuana for no remuneration is treated as simple possession
+and, therefore, is included in this offense category (for
+example, 21 U.S.C. §§ 829 (a)(b)(c), 841(a)(b)(d)(g), 842(a)(c),
+843(a), 844(a), 846, 955, and 962).
+
+Postal laws — offenses relating to the mail; pertaining to the
+post office.
+
+Presentence Investigation Report (PSR) — following a presentence
+investigation, a report to the court prepared by the probation
+officer before the imposition of sentence, as required by law;
+unless the court finds that there is information in the record
+sufficient to enable the meaningful exercise of sentencing
+authority pursuant to 18 U.S.C. § 3553, and the court explains
+this finding on the record.
+
+Presentment — an accusation initiated by the grand jury itself,
+and in effect, an instruction that an indictment be drawn.
+
+Pretrial diversion — an agreement to defer (and possibly drop)
+prosecution conditioned on the defendant's good behavior and/or
+participation in programs (such as job training, counseling,
+education) during a stated period.
+
+Pretrial release — the release of a defendant from custody, for
+all or part of the time, before or during prosecution.  The
+defendant may be released either on personal recognizance or
+unsecured bond or on financial conditions.  The category
+includes defendants released within 2 days after arrest and
+defendants who were initially detained but subsequently released
+after raising bail or having release conditions changed at a
+subsequent hearing.
+
+Probation — sentence imposed for commission of a crime whereby
+the convicted criminal offender is released into the community
+under the supervision of a probation officer in lieu of
+incarceration.  An act of clemency available only to those found
+eligible by the court, probation offers a chance for reform and
+rehabilitation for the defendant.  For this purpose, the
+defendant must agree to specified standards of conduct;
+violation of such standards subjects his liberty to revocation. 
+ 
+
+Property offenses, fraudulent— property offenses involving the
+elements of deceit or intentional misrepresentation. 
+Specifically includes embezzlement, fraud (excluding tax fraud),
+forgery, and counterfeiting.
+
+Property offenses, non-fraudulent— violent offenses against
+property:  burglary, larceny, motor vehicle theft, arson,
+transportation of stolen property, and other property offenses
+(destruction of property and trespassing).  These offenses are
+termed "non-fraudulent" only for the purpose of distinguishing
+them from the category "Property offenses, fraudulent," above.
+
+Property offenses, other — offenses that involve the destruction
+of property moving in interstate or foreign commerce in the
+possession of a common or contract carrier.  Includes the
+malicious destruction of Government property, or injury to U.S.
+postal property such as mailboxes or mailbags.  Trespassing on
+timber and Government lands is also included in this category of
+offenses (for example, 2 U.S.C. § 167(c)(g); 15 U.S.C. § 1281;
+16 U.S.C. §§ 3, 45(d), 114, 121, 123, 152, 430(q), 433, 470,
+478, 481, 551, and 605; 18 U.S.C. §§ 1164, 1361-62, 1364, 1852,
+1854, 1856, 1858, 1860, 1863, 1864(c), and 2071(b); 40 U.S.C. §§
+193 (h)(q)(r)(s); 43 U.S.C. § 316; and 47 U.S.C. §§ 13 and 22). 
+
+Public-order offenses, non-regulatory— offenses concerning
+weapons; immigration; tax law violations (tax fraud); bribery;
+perjury; national defense; escape; racketeering and extortion;
+gambling; liquor; mailing or transporting of obscene materials;
+traffic; migratory birds; conspiracy, aiding and abetting, and
+jurisdictional offenses; and "other public-order offenses." 
+These offenses are termed "non-regulatory" only for the purpose
+of distinguishing them from the category "Public-order offenses,
+regulatory" below.
+
+Public-order offenses, other — violations of laws pertaining to
+bigamy, disorderly conduct on the U.S. Capitol grounds, civil
+disorder, and travel to incite to riot (for example, 18 U.S.C.
+§§ 228, 231, 1367, and 1385; 40 U.S.C. §§ 193(b)(d)(g)(o)(p);
+and 47 U.S.C. §§ 223(a)(b)).  Included in "Public-order
+offenses, non-regulatory."
+
+Public-order offenses, regulatory— violations of regulatory laws
+and regulations in agriculture, antitrust, labor law, food and
+drug, motor carrier, and other regulatory offenses that are not
+specifically listed in the category "Public-order offenses,
+non-regulatory."  
+
+Racketeering and extortion — racketeering is demanding,
+soliciting, or receiving anything of value from the owner,
+proprietor or other person having a financial interest in a
+business, by means of a threat or promise, either express or
+implied.  Extortion is the obtaining of money or property from
+another, without his consent, induced by the wrongful use of
+force or fear.  This offense code covers using interstate or
+foreign commerce or any facility in interstate or foreign
+commerce to aid racketeering enterprises such as arson, bribery,
+gambling, liquor, narcotics, prostitution, and extortionate
+credit transactions; obtaining property or money from another,
+with his or her consent induced by actual or threatened force;
+violence, blackmail, or committing unlawful interference with
+employment or business; transmitting by interstate commerce or
+through the mail any threat to injure the property, the person,
+or the reputation of the addressee or of another; or kidnaping
+any person with intent to extort.  Applies to officers or
+employees of the United States, or anyone representing himself
+or herself as such (for example, 18 U.S.C. §§ 831, 872, 874,
+875(b)(d), 877, 878(b), 892, 894, 1365(d), 1952-53, 1955-60,
+1962-63). 
+
+Rape — rape, assault with intent to commit rape, and carnal
+knowledge of a female under 16 who is not one's wife, within the
+territorial and special maritime jurisdictions of the United
+States as defined in 18 U.S.C. § 7 (for example, 22D U.S.C. §
+2801).  Also includes cases of sexual abuse, including of a
+minor (18 U.S.C. §§ 2241(a) (c), 2242(2)(B), and 2243) and in
+Federal prisons (18 U.S.C. §2244(a)).
+
+Release
+
+Extraordinary release — unusual methods of prisoners exiting
+prison, such as death, commutation, and transfer to another
+facility.
+
+Standard release — the usual way prisoners exit prison,
+including full-term sentence expirations, expirations with good
+time, mandatory releases, and releases to parole.
+
+Remand — to send back.  The act of an appellate court in sending
+a case back to the lower court for further action.
+
+Remove — transfer from Federal court (usually to a State court).
+
+Restitution — the action of restoring or giving back something
+to its proper owner, or making reparations to one for loss or
+injury previously inflicted.
+
+Reversal — the act of an appellate court annulling a judgment of
+a lower court because of an error.
+
+Revocation — termination of a probation, parole, or mandatory
+release order because of either a rule violation or a new
+offense, and forcing the offender to begin or continue serving
+his or her sentence.
+
+Robbery — taking anything of value from the person or presence
+of another by force or by intimidation, within the special
+maritime and territorial jurisdiction of the United States (18
+U.S.C. §§ 7).  Includes robbery of bank property, U.S. postal
+property, or personal property of the United States.  Also,
+assaulting or putting the life of any person in jeopardy by the
+use of a dangerous weapon while committing or attempting to
+commit such robbery (for example, 18 U.S.C. §§ 1661, 1991, 2112,
+2113(c) (d), 2114, 2116, and 2118(a)). 
+
+Rule 20 transfer — upon petition by a defendant, a transfer of
+proceedings to the district in which the defendant is arrested,
+when the defendant is arrested, held, or present in a district
+other than that in which an indictment or information is pending
+against him.  In this case, the defendant may state in writing a
+wish to plead guilty or nolo contendere, to waive trial in the
+district in which the indictment or information is pending, and
+to consent to the disposition of the case in the district in
+which the defendant was arrested (Fed. R. Crim. P. 20).
+
+Rule 40 transfer — upon petition by the U.S. attorney,
+commitment to another district; transfer proceedings of a
+defendant arrested in a district for an alleged offense
+committed in the another district (Fed. R. Crim. P. 40).
+
+Sentence — sanction imposed on a convicted offender.  For
+sentences to incarceration, the maximum time the offender may be
+held in custody is reported.  (See also, "Split sentence,"
+"Mixed sentence," "Indeterminate sentence," and "Mandatory
+sentence.")
+
+Sentencing Guidelines (Federal) — guidelines established by the
+United States Sentencing Commission to be followed by the
+Federal courts in the sentencing of those convicted of Federal
+offenses.  Established pursuant to the Sentencing Reform Act of
+1984, the sentencing guidelines prescribe a range of sentences
+for each class of convicted persons as determined by categories
+of offense behavior and offender characteristics.  
+
+Sex offenses, other — transporting, coercing, or enticing any
+individual (including minors) to go from one place to another in
+interstate or foreign commerce, in the District of Columbia, or
+in any territory or possession of the United States with the
+intent and purpose to engage in prostitution, or any sexual
+activity for which any person can be charged with a criminal
+offense (8 U.S.C. § 1328 and 18 U.S.C. §§ 1460, 1466, 2251-52,
+2257, 2421 and 2423). 
+
+Shock incarceration — an intense confinement program, consisting
+of a highly regimented schedule that provides the strict
+discipline, physical training, hard labor, drill, and ceremony
+characteristic of military basic training. 
+
+Special maritime and territorial jurisdiction — areas of Federal
+jurisdiction outside the jurisdiction of any State, including
+(1) the high seas, Great Lakes, and connecting waterways; (2)
+Federal lands; and (3) U.S.-owned aircraft in flight over the
+high seas (18 U.S.C. § 7).
+
+Split sentence —  See, "Mixed sentence."
+
+Stale — the case/matter is too old to support successful
+prosecution.
+
+Substantial assistance — a form of cooperation with the
+government in which the defendant provides the government with
+information, testimony, or other assistance relating to the
+criminal activities of other persons in exchange for a sentence
+reduction.  Substantial assistance provides the only mechanism
+for judges to impose a sentence below an applicable mandatory
+sentence (U.S.S.G. 5K1.1 as codified at 18 U.S.C. § 3553(e)).
+
+Supervised release — under the Sentencing Reform Act of 1984, a
+form of post-imprisonment supervision to be imposed by the court
+as a part of the sentence of imprisonment at the time of initial
+sentencing.  Unlike parole, a term of supervised release does
+not replace a portion of the sentence of imprisonment, but
+rather is an order of supervision in addition to any term of
+imprisonment imposed by the court (compare also with probation).
+
+Surety bond — an agreement by the defendant as a condition of
+his or her release that requires a third party (usually a bail
+bondsman) to promise to pay the full bail amount in the event
+that the defendant fails to appear.
+
+Suspect — a person who is under investigation or interrogation
+as a likely perpetrator of a specific criminal offense.
+
+Tax law violations — tax fraud offenses such as income tax
+evasion and fraud; counterfeiting any stamps with intent to
+defraud the collection or payment of tax; willfully failing to
+collect or pay tax; failure to obey summons to produce any
+papers concerning taxes; failing to furnish receipts for
+employees of tax withheld; failing to furnish information
+relating to certain trusts, annuity, and bond purchase plans;
+putting fraudulent or false statements on tax returns; and not
+obtaining a license for a business that makes a profit from
+foreign items.  Also included in this offense category are
+violations of excise and wagering tax laws and any other laws
+listed below from the Internal Revenue Service Code (for
+example, 26 U.S.C. §§ 3402, 4412, 5751, 5762(a1), 6047(a)(c),
+6331, 6420(e2), 6674, 7121, 7201, 7203(c), 7204, 7206(a)(c),
+7208(a)(c), 7210, 7213(b), (d), 7214(b), 7216, 7232, 7513, 7602,
+and 7604(b)). 
+
+Technical violation — failure to comply with any of the
+conditions of pretrial release, probation, or parole, excluding
+alleged new criminal activity.  May result in revocation of
+release status.  Examples of conditions that may be imposed and
+then violated include remaining within a specified jurisdiction
+or appearing at specified intervals for drug tests.
+
+Termination — at the pretrial services stage:  execution of
+sentence, acquittal, dismissal, diversion, or fugitive status;
+in the U.S. district court:  conviction, acquittal, or
+dismissal; and at probation or supervised release:  the removal
+of a person from supervision either for successful completion of
+the term of supervision or as the result of a revocation. 
+
+Threats against the President — knowingly and willfully
+depositing in the mail, at any post office, or by any letter
+carrier a letter, paper, writing, print, missive, or document
+containing any threat to take the life of or to inflict bodily
+harm upon the President, Vice President, or any other officer in
+order of succession to the Presidency.  Knowingly and willfully
+making such threats in any way to the above-named people (18
+U.S.C. § 871). 
+
+Traffic offenses — driving while intoxicated, or any moving or
+parking violations on Federal lands (for example, 40 U.S.C. §
+212(b)).
+
+Trafficking — knowingly and intentionally importing or exporting
+any controlled substance in schedule I, II, III, IV, or V (as
+defined by 21 U.S.C. §§ 812).  Includes manufacturing,
+distributing, dispensing, selling, or possessing with intent to
+manufacture, distribute, or sell a controlled substance or a
+counterfeit substance; exporting any controlled substance in
+schedules I-V; manufacturing or distributing a controlled
+substance in schedule I or II for purposes of unlawful
+importation; or making or distributing any punch, die, plate,
+stone, or any other thing designed to reproduce the label upon
+any drug or container, or removing or obliterating the label or
+symbol of any drug or container.  Also includes knowingly
+opening, maintaining or managing any place for the purpose of
+manufacturing, distributing, or using any controlled substance
+(for example, 19 U.S.C. § 1590; 21 U.S.C. §§ 333(e), 825(a)-(d),
+830(a), 841(a)-(b) (d)(e)(g), 842(a), 843(a)(b), 845, 846, 848,
+854, 856, 858, 859(a)(b), 860(a), 861(c)(f), 952(a)(b),
+953(a)(e), 957, 959, 960(a)(b)(d), 961, 962, and 963; and 46A
+U.S.C. §§ 1903(g) and (j)).
+
+Transportation — violations of the Federal statutes relating to
+the Motor Carrier Act, which regulates (routes, rates) motor
+carriers of freight and passengers in interstate commerce.
+
+Transportation of stolen property — transporting, selling, or
+receiving stolen goods, stolen securities, stolen moneys, stolen
+cattle, fraudulent State tax stamps, or articles used in
+counterfeiting, if the above articles or goods involve or
+constitute interstate or foreign commerce (18 U.S.C. §§ 2315,
+2317). 
+
+Trial conviction — conviction by judge or jury after trial.
+
+True bill — an indictment.
+
+United States — includes the outlying territories (Guam, Puerto
+Rico, Northern Marianas Islands, and the U.S. Virgin Islands)
+and the territory occupied by the 50 States and the District of
+Columbia.
+
+U.S. attorneys — all United States attorneys.  Prosecutorial
+data in this Compendium come from the Central System and Central
+Charge Files of the Executive Office for U.S. Attorneys.
+
+Unsecured bond — an agreement by the defendant as a condition of
+his or her release in which the defendant agrees to pay full
+bond amount in the event of nonappearance at trial, but is not
+required to post security as a condition to release.
+
+Violation (of pretrial release, probation, or parole) —
+allegation of a new crime or a technical violation while on
+pretrial release, probation, or parole.
+
+Violent offenses — threatening, attempting, or actually using
+physical force against a person.  Includes murder, negligent
+manslaughter, assault, robbery, rape, other sex offenses (some
+of which may be nonviolent), kidnaping, and threats against the
+President.  (See also, specific offenses for citations.)
+
+Weapons violations — violations of any of the provisions of 18
+U.S.C. §§ 922 and 923 concerning the manufacturing, importing,
+possessing, receiving, and licensing of firearms and ammunition.
+ Includes manufacturing, selling, possessing, or transporting
+(within any territory or possession of the United States, within
+Indian country, or within the special maritime and territorial
+jurisdiction of the United States) (18 U.S.C. §§ 7) any
+switchblade knife; or making, receiving, possessing, or
+transporting a firearm not registered in the National Firearms
+Registration Transfer Record.  Also, engaging in importing,
+manufacturing, or dealing in firearms if not registered with the
+secretary in the Internal Revenue Service District in which the
+business is conducted or not having paid a special occupational
+tax.  In addition, this code covers cases where in a crime of
+violence or drug trafficking enhanced punishment is handed down
+when committed with a deadly weapon (for example, 15 U.S.C. §
+1242; 18 U.S.C. §§ 922(a)(c)(e) (g)(i)(k)(m)(n)(q), 923,
+924(a)(c)(f)(h) and 930; 26 U.S.C. §§ 5801, 5811, 5821, 5841,
+5843, 5851, and 5861(b)(d)(h)(j)(l); 40 U.S.C. § 193f(a); and
+49A U.S.C. § 1472(q)).
+
+
+
+End of file
+ih/pm  5/30/00
