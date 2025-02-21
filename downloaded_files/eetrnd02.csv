@@ -1,0 +1,45 @@
+"Bureau of Justice Statistics",,,,,,,,,,,,
+"filename:  eetrnd02.csv",,,,,,,,,,,,
+"table 2.  Total direct expenditure by level of government, fiscal years 1982-99",,,,,,,,,,,,
+"NCJ 178269",,,,,,,,,,,,
+"data source:  Criminal Justice Expenditure and Employment Extracts Program (CJEE)",,,,,,,,,,,,
+"author: Sidra Lea Gifford",,,,,,,,,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,,,,,,,
+"date of version: 12/05/01",,,,,,,,,,,,
+,,,,,,,,,,,,
+"Table 2.  Total direct expenditure by level of government, fiscal years 1982-99",,,,,,,,,,,,
+,,,,,,,,,,,,
+"(Dollar amounts in millions)",,,,,,,,,,,,
+,,,,,,,,,,,"        Local",
+,,"Total all",,,,"Total State",,,,,,
+"Year",,"governments",,"Federal",,"and local",,"        State",,"Total","Counties","Municipalities"
+,,,,,,,,,,,,
+"    1982",,$35842,,$4269,,$31573,,$10651,,$20922,$8556,$12366
+"    1983",,39680,,4844,,34836,,11709,,23127,9705,13422
+"    1984",,43943,,5787,,38156,,13081,,25075,10518,14557
+"    1985",,48563,,6279,,42284,,14903,,27381,11517,15864
+"    1986",,53500,,6430,,47070,,16978,,30092,12935,17157
+"    1987",,58871,,7231,,51640,,18465,,33175,14429,18746
+"    1988",,65231,,8464,,56767,,20880,,35887,15778,20108
+"    1989",,70949,,9204,,61745,,23009,,38736,17399,21337
+"    1990",,79434,,10219,,69215,,25764,,43451,19510,23941
+"    1991",,87567,,12106,,75461,,28493,,46968,21761,25207
+"    1992",,93777,,13529,,80248,,30271,,49977,23672,26305
+"    1993",,97542,,14429,,83113,,30696,,52417,24469,27948
+"    1994",,103471,,14626,,88845,,33495,,55349,25856,29493
+"    1995",,112868,,16741,,96127,,37360,,58768,27733,31035
+"    1996",,120194,,17480,,102714,,39903,,62811,29611,33200
+"    1997",,129793,,20524,,109269,,42353,,66916,31576,35340
+"    1998",,135899,"*",19365,"*",116534,,45995,,70539,33571,36968
+"    1999",,146556,,22148,,124408,,49965,,74443,35118,39324
+,,,,,,,,,,,,
+"Source:  Justice Expenditure and Employment Extracts, Tables 1 and 3",,,,,,,,,,,,
+"Note:  Detail may not add to total because of rounding.",,,,,,,,,,,,
+"* Federal government figures presented for 1998 are directly from the",,,,,,,,,,,,
+"Budget of the United States, using the definitions of justice functions",,,,,,,,,,,,
+"contained in the Budget.  Prior to 1998 the Census Bureau performed",,,,,,,,,,,,
+"an extensive compilation of the Federal budget for the purposes of",,,,,,,,,,,,
+"making the data fit the definitions used in the Census Bureau's surveys ",,,,,,,,,,,,
+"of government finances and public employment.  Therefore ""all governments""",,,,,,,,,,,,
+"and ""Federal government"" expenditure data prior to 1998 are not directly ",,,,,,,,,,,,
+"comparable to those reported for 1998 and subsequent years.",,,,,,,,,,,,
