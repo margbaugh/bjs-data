@@ -21,7 +21,7 @@ with open(csv_file, 'r') as file:
     # Assuming the CSV has headers and URL links are in the first column
     for row in reader:
         if row:  # Check if the row is not empty
-            file_url = row[0]  # Adjust this if the URL is in a different column
+            file_url = row[1]  # Adjust this if the URL is in a different column
 
             # Extract the filename from the URL (using the file name from the URL itself)
             filename = os.path.join(save_folder, os.path.basename(file_url))
